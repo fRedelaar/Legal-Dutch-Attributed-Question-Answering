@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0017717/2005-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0017717" inwerkingtreding="2005-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties><redactionele-correctie label-id="6534304" oud-revisie-id="15768591" nieuw-revisie-id="42971071"/></redactionele-correcties><wetgeving soort="wet" stam-id="6545593" versie-id="11341182" id="C15310921" label-id="6534324" inwerkingtredingsdatum="2005-01-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="6545613" versie-id="11340892" id="C15310631" label-id="6534034" inwerking="2005-01-01" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">Wet van 15 december 2004 tot wijziging van de Wet op de rechterlijke organisatie, de Algemene wet inzake rijksbelastingen en enige andere wetten in verband met de invoering van beroep bij de rechtbank, alsmede van hoger beroep bij het gerechtshof, in belastingzaken (Wet belastingrechtspraak in twee feitelijke instanties)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="6545623" versie-id="11340902" id="C15310641" label-id="6534044" inwerking="2005-01-01" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28">Wet belastingrechtspraak in twee feitelijke instanties<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="6545633" versie-id="11340912" id="C15310651" label-id="6534054" inwerking="2005-01-01" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is in belastingzaken beroep bij de rechtbank, alsmede hoger beroep bij het gerechtshof, open te stellen;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/ArtikelI" stam-id="6545643" versie-id="11340922" id="C15310661" label-id="6534064" inwerking="2005-01-01" label="Artikel I" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>I</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de rechterlijke organisatie.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=I&amp;g=2005-01-01" onderdeel="artikel=I" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=I&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=I" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=I"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelII" stam-id="6545653" versie-id="11340932" id="C15310671" label-id="6534074" inwerking="2005-01-01" label="Artikel II" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>II</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Algemene wet bestuursrecht.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=II&amp;g=2005-01-01" onderdeel="artikel=II" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=II&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=II" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=II"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIII" stam-id="6545663" versie-id="11340942" id="C15310681" label-id="6534084" inwerking="2005-01-01" label="Artikel III" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>III</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=III&amp;g=2005-01-01" onderdeel="artikel=III" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=III&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=III" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=III"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIV" stam-id="6545673" versie-id="11397962" id="C15347591" label-id="6534094" inwerking="2005-01-01" label="Artikel IV" bron="Stcrt.2004-251" effect="wijziging" ondertekening_bron="2004-12-21" publicatie_bron="2004-12-28" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>IV</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Algemene wet inzake rijksbelastingen.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stcrt" urlidentifier="stcrt-2004-251-p11-SC68193"><publicatiejaar>2004</publicatiejaar><publicatienr>251</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-21">21-12-2004</ondertekeningsdatum><kenmerk>WDB2004/799M</kenmerk></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stcrt" urlidentifier="stcrt-2004-251-p11-SC68193"><publicatiejaar>2004</publicatiejaar><publicatienr>251</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-21">21-12-2004</ondertekeningsdatum><kenmerk>WDB2004/799M</kenmerk></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding></brondata><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=IV&amp;g=2005-01-01" onderdeel="artikel=IV" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=IV&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=IV" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=IV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelV" stam-id="6545683" versie-id="11340962" id="C15310701" label-id="6534104" inwerking="2005-01-01" label="Artikel V" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>V</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Douanewet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=V&amp;g=2005-01-01" onderdeel="artikel=V" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=V"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=V&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=V" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=V"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVI" stam-id="6545693" versie-id="11340972" id="C15310711" label-id="6534114" inwerking="2005-01-01" label="Artikel VI" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>VI</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Invorderingswet 1990.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=VI&amp;g=2005-01-01" onderdeel="artikel=VI" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=VI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=VI&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=VI" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=VI"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVII" stam-id="6545703" versie-id="11340982" id="C15310721" label-id="6534124" inwerking="2005-01-01" label="Artikel VII" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>VII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Kostenwet invordering rijksbelastingen.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=VII&amp;g=2005-01-01" onderdeel="artikel=VII" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=VII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=VII&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=VII" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=VII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVIII" stam-id="6545713" versie-id="11340992" id="C15310731" label-id="6534134" inwerking="2005-01-01" label="Artikel VIII" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>VIII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Registratiewet 1970.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=VIII&amp;g=2005-01-01" onderdeel="artikel=VIII" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=VIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=VIII&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=VIII" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=VIII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIX" stam-id="6545723" versie-id="11341002" id="C15310741" label-id="6534144" inwerking="2005-01-01" label="Artikel IX" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>IX</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Successiewet 1956.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=IX&amp;g=2005-01-01" onderdeel="artikel=IX" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=IX"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=IX&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=IX" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=IX"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelX" stam-id="6545733" versie-id="11341012" id="C15310751" label-id="6534154" inwerking="2005-01-01" label="Artikel X" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>X</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de dividendbelasting 1965.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=X&amp;g=2005-01-01" onderdeel="artikel=X" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=X"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=X&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=X" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=X"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXI" stam-id="6545743" versie-id="11341022" id="C15310761" label-id="6534164" inwerking="2005-01-01" label="Artikel XI" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XI</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet inkomstenbelasting 2001.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=XI&amp;g=2005-01-01" onderdeel="artikel=XI" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=XI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XI&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=XI" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XI"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXII" stam-id="6545753" versie-id="11341032" id="C15310771" label-id="6534174" inwerking="2005-01-01" label="Artikel XII" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op het BTW-compensatiefonds.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=XII&amp;g=2005-01-01" onderdeel="artikel=XII" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=XII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XII&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=XII" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXIII" stam-id="6545763" versie-id="11341042" id="C15310781" label-id="6534184" inwerking="2005-01-01" label="Artikel XIII" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XIII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=XIII&amp;g=2005-01-01" onderdeel="artikel=XIII" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=XIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XIII&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=XIII" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XIII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXIV" code="b1-XIV" stam-id="6545773" versie-id="11341052" id="C15891191" label-id="6534194" inwerking="2005-01-01" label="Artikel XIV" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XIV</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet waardering onroerende zaken.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=XIV&amp;g=2005-01-01" onderdeel="artikel=XIV" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=XIV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XIV&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=XIV" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XIV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXV" stam-id="6545783" versie-id="11341062" id="C15310801" label-id="6534204" inwerking="2005-01-01" label="Artikel XV" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XV</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de Raad van State.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=XV&amp;g=2005-01-01" onderdeel="artikel=XV" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=XV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XV&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=XV" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXVI" stam-id="6545793" versie-id="11341072" id="C15310811" label-id="6534214" inwerking="2005-01-01" label="Artikel XVI" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XVI</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Provinciewet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=XVI&amp;g=2005-01-01" onderdeel="artikel=XVI" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=XVI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XVI&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=XVI" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XVI"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXVII" stam-id="6545803" versie-id="11341082" id="C15310821" label-id="6534224" inwerking="2005-01-01" label="Artikel XVII" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XVII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Gemeentewet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=XVII&amp;g=2005-01-01" onderdeel="artikel=XVII" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=XVII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XVII&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=XVII" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XVII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXVIII" stam-id="6545813" versie-id="11341092" id="C15310831" label-id="6534234" inwerking="2005-01-01" label="Artikel XVIII" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XVIII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Mijnbouwwet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=XVIII&amp;g=2005-01-01" onderdeel="artikel=XVIII" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=XVIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XVIII&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=XVIII" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XVIII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXIX" stam-id="6545823" versie-id="11341102" id="C15310841" label-id="6534244" inwerking="2005-01-01" label="Artikel XIX" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XIX</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Gezondheids- en welzijnswet voor dieren.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=XIX&amp;g=2005-01-01" onderdeel="artikel=XIX" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=XIX"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XIX&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=XIX" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XIX"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXX" stam-id="6545833" versie-id="11341112" id="C15310851" label-id="6534254" inwerking="2005-01-01" label="Artikel XX" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XX</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Ziekenfondswet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=XX&amp;g=2005-01-01" onderdeel="artikel=XX" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=XX"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XX&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=XX" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XX"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXXI" stam-id="6545843" versie-id="11341122" id="C15310861" label-id="6534264" inwerking="2005-01-01" label="Artikel XXI" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XXI</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Luchtvaartwet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=XXI&amp;g=2005-01-01" onderdeel="artikel=XXI" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=XXI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XXI&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=XXI" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XXI"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXXII" stam-id="6545853" versie-id="11341132" id="C15310871" label-id="6534274" inwerking="2005-01-01" label="Artikel XXII" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XXII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Waterschapswet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=XXII&amp;g=2005-01-01" onderdeel="artikel=XXII" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=XXII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XXII&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=XXII" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XXII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXXIII" code="b1-XXIII" stam-id="6545863" versie-id="11341142" id="C16684381" label-id="6534284" inwerking="2005-01-01" label="Artikel XXIII" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XXIII</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/ArtikelXXIII/Lid1" label-id="6534284L1">
+    <lidnr>1</lidnr>
+    <al>Op het beroep tegen een uitspraak op een bezwaarschrift die is gedagtekend voor het tijdstip van inwerkingtreding van deze wet, blijft het recht zoals dit gold voor dat tijdstip van toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XXIII&amp;lid=1&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelXXIII/Lid2" label-id="6534284L2">
+    <lidnr>2</lidnr>
+    <al>Het eerste lid is van overeenkomstige toepassing:</al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/ArtikelXXIII/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>op een verzoek om een voorlopige voorziening, en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XXIII&amp;lid=2&amp;o=a&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/ArtikelXXIII/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>indien met toepassing van <extref doc="jci1.3:c:BWBR0005537&amp;artikel=7:1a" verwijzing-id="1912520" bwb-id="BWBR0005537" label-id="5860644">artikel 7:1a van de Algemene wet bestuursrecht</extref> rechtstreeks beroep wordt ingesteld.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XXIII&amp;lid=2&amp;o=b&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XXIII&amp;lid=2&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelXXIII/Lid3" label-id="6534284L3">
+    <lidnr>3</lidnr>
+    <al>Op een beroep tegen het niet tijdig doen van een uitspraak op een bezwaarschrift, dat is ingesteld voor het tijdstip van inwerkingtreding van deze wet, blijft het recht zoals dit gold voor dat tijdstip van toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XXIII&amp;lid=3&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelXXIII/Lid4" label-id="6534284L4">
+    <lidnr>4</lidnr>
+    <al>Op het beroep in cassatie tegen een uitspraak die is bekendgemaakt voor het tijdstip van inwerkingtreding van deze wet, blijft het recht zoals dit gold voor dat tijdstip van toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XXIII&amp;lid=4&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=XXIII&amp;g=2005-01-01" onderdeel="artikel=XXIII" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=XXIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XXIII&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=XXIII" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XXIII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXXIV" code="b1-XXIV" stam-id="6545873" versie-id="11341152" id="C15768581" label-id="6534294" inwerking="2005-01-01" label="Artikel XXIV" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XXIV</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/ArtikelXXIV/Lid1" label-id="6534294L1">
+    <lidnr>1</lidnr>
+    <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. In dat besluit wordt zo nodig toepassing gegeven aan <extref doc="jci1.3:c:BWBR0012701&amp;artikel=16" verwijzing-id="1912521" bwb-id="BWBR0012701" label-id="1551984">artikel 16 van de Tijdelijke referendumwet</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XXIV&amp;lid=1&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelXXIV/Lid2" label-id="6534294L2">
+    <lidnr>2</lidnr>
+    <al>Het in het eerste lid bedoelde tijdstip is tevens het tijdstip, bedoeld in <extref doc="jci1.3:c:BWBR0013099&amp;artikel=XVIII" verwijzing-id="1912522" bwb-id="BWBR0013099" label-id="1596424">artikel XVIII van de Wet organisatie en bestuur gerechten</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XXIV&amp;lid=2&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=XXIV&amp;g=2005-01-01" onderdeel="artikel=XXIV" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=XXIV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XXIV&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=XXIV" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XXIV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXXV" stam-id="6545883" versie-id="11341162" id="C42971071" label-id="6534304" inwerking="2005-01-01" label="Artikel XXV" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XXV</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet belastingrechtspraak in twee feitelijke instanties.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;artikel=XXV&amp;g=2005-01-01" onderdeel="artikel=XXV" korte-verwijzing="1.0:c:BWBR0017717&amp;artikel=XXV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XXV&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="artikel=XXV" korte-verwijzing="jci1.3:c:BWBR0017717&amp;artikel=XXV"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="6545893" versie-id="11341172" id="C15310911" label-id="6534314" inwerking="2005-01-01" bron="Stb.2004-672" effect="nieuwe-regeling" ondertekening_bron="2004-12-15" publicatie_bron="2004-12-23" publicatie_iwt="2004-12-28" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te ’s-Gravenhage</plaats>
+      <datum isodatum="15 december 2004">15 december 2004</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Justitie ,</functie>
+    <naam>
+      <voornaam>J. P. H.</voornaam>
+      <achternaam>Donner</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Staatssecretaris van Financiën ,</functie>
+    <naam>
+      <voornaam>J. G.</voornaam>
+      <achternaam>Wijn</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2004-12-23">de <nadruk type="cur">drieëntwintigste</nadruk> december 2004</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie ,</functie>
+      <naam>
+        <voornaam>J. P. H.</voornaam>
+        <achternaam>Donner</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-672"><publicatiejaar>2004</publicatiejaar><publicatienr>672</publicatienr><uitgiftedatum isodatum="2004-12-23">23-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-15">15-12-2004</ondertekeningsdatum><dossierref dossier="29251">29251</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-692"><publicatiejaar>2004</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-16">16-12-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-01-01">01-01-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De datum van inwerkingtreding is vastgesteld onder toepassing van
+    artikel 16 van de Tijdelijke referendumwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017717&amp;g=2005-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0017717"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017717&amp;z=2005-01-01&amp;g=2005-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0017717"/></jcis></meta-data></wetgeving></toestand>

@@ -1,0 +1,14 @@
+.idea
+__pycache__/
+
+
+env/
+
+# data made by pyserini
+/datasets/knowledge_corpus/kc_pyserini_docs/
+/datasets/knowledge_corpus/kc_pyserini_index/
+
+experiment_results/*
+
+output*
+log*

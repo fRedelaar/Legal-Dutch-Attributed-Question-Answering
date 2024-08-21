@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0014169/2003-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0014169" inwerkingtreding="2003-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="3251433" versie-id="4999232" id="C5051231" label-id="3223744" inwerkingtredingsdatum="2003-01-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="3251463" versie-id="4999012" id="C5051011" label-id="3223524" inwerking="2003-01-01" bron="Stb.2002-580" effect="nieuwe-regeling" ondertekening_bron="2002-10-31" publicatie_bron="2002-12-05" publicatie_iwt="2002-12-05" status="goed">Wet van 31 oktober 2002, houdende bepalingen inzake rechtspersoonlijkheid, privileges en immuniteiten van de Hoge Commissaris inzake Nationale Minderheden (Wet HCNM)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="3251473" versie-id="4999022" id="C5051021" label-id="3223534" inwerking="2003-01-01" bron="Stb.2002-580" effect="nieuwe-regeling" ondertekening_bron="2002-10-31" publicatie_bron="2002-12-05" publicatie_iwt="2002-12-05">Wet HCNM<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="3251483" versie-id="4999032" id="C5051031" label-id="3223544" inwerking="2003-01-01" bron="Stb.2002-580" effect="nieuwe-regeling" ondertekening_bron="2002-10-31" publicatie_bron="2002-12-05" publicatie_iwt="2002-12-05" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is de Hoge Commissaris inzake Nationale Minderheden, als zijnde een instelling van de Organisatie voor Veiligheid en Samenwerking in Europa, rechtspersoonlijkheid te verlenen, alsmede deze instelling en diens functionarissen privileges en immuniteiten toe te kennen ter wille van een onafhankelijke functie-uitoefening en dat het noodzakelijk is daartoe wettelijke bepalingen vast te stellen;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" code="b1-1" stam-id="3251493" versie-id="4999042" id="C5051041" label-id="3223554" inwerking="2003-01-01" label="Artikel 1" bron="Stb.2002-580" effect="nieuwe-regeling" ondertekening_bron="2002-10-31" publicatie_bron="2002-12-05" publicatie_iwt="2002-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>1</nr>
+    <titel status="officieel">Definities</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid1" label-id="3223554L1">
+    <lidnr>1</lidnr>
+    <al>In deze wet wordt verstaan onder:</al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>HCNM: de Hoge Commissaris inzake Nationale Minderheden te Den Haag, in de hoedanigheid van een onder de Organisatie voor Veiligheid en Samenwerking in Europa ressorterende instelling;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=1&amp;lid=1&amp;o=a&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>OVSE: de Organisatie voor Veiligheid en Samenwerking in Europa;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=1&amp;lid=1&amp;o=b&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>Hoge Commissaris: de Hoge Commissaris inzake Nationale Minderheden in de hoedanigheid van hoofd van de HCNM;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=1&amp;lid=1&amp;o=c&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>functionarissen van de HCNM: personen, in dienst van de OVSE belast met het verrichten van werkzaamheden voor de HCNM in het kader van de vervulling van officiële functies van de HCNM, daaronder begrepen de Hoge Commissaris, met uitzondering van bedienend personeel, personen die lokaal zijn aangetrokken en op basis van een uurtarief worden uitbetaald, deskundigen en stagiairs;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=1&amp;lid=1&amp;o=d&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>officiële functies: die taken en werkzaamheden die voortvloeien uit het mandaat zoals dat geldt ten aanzien van de HCNM, welk mandaat door de OVSE is vastgesteld;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=1&amp;lid=1&amp;o=e&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>deskundigen: personen, niet zijnde functionarissen van de HCNM of van de OVSE, uitzendkrachten of stagiairs, die in opdracht van de OVSE of van de HCNM werkzaamheden uitvoeren ten behoeve van de HCNM of bij de HCNM ten behoeve van de OVSE;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=1&amp;lid=1&amp;o=f&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>functionarissen van de OVSE: personen in dienst van de OVSE, niet zijnde functionarissen van de HCNM, uitzendkrachten of stagiairs; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=1&amp;lid=1&amp;o=g&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=g"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeelh">
+        <li.nr>h.</li.nr>
+        <al>gebouwen: gebouw of deel van een gebouw, gebruikt door de HCNM in het kader van de vervulling van zijn officiële functies;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=1&amp;lid=1&amp;o=h&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=h"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeeli">
+        <li.nr>i.</li.nr>
+        <al>terreinen: terrein of deel van een terrein, gebruikt door de HCNM in het kader van de vervulling van zijn officiële functies;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=1&amp;lid=1&amp;o=i&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=i"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeelj">
+        <li.nr>j.</li.nr>
+        <al>archieven: alle dossiers, correspondentie, documenten, manuscripten, computer- en mediagegevens, foto's, films, video- en geluidsopnamen en andere gegevensdragers die de HCNM of één van diens functionarissen in het kader van de vervulling van zijn officiële functies bezit of onder zich heeft;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=1&amp;lid=1&amp;o=j&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=j"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeelk">
+        <li.nr>k.</li.nr>
+        <al>gezinsleden: de echtgenoot of geregistreerde partner van een functionaris van de HCNM, diens kinderen jonger dan achttien jaar, alsmede diens kinderen van achttien jaar en ouder indien die kinderen vóór de eerste binnenkomst in Nederland reeds deel uitmaakten van het gezin van de functionaris van de HCNM en nog altijd hiervan deel uitmaken, ongehuwd zijn, financieel afhankelijk zijn van de functionaris van de HCNM en in Nederland onderwijs genieten;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=1&amp;lid=1&amp;o=k&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=k"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeell">
+        <li.nr>l.</li.nr>
+        <al>Onze Minister: Onze Minister van Buitenlandse Zaken.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=1&amp;lid=1&amp;o=l&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=l"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=1&amp;lid=1&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid2" label-id="3223554L2">
+    <lidnr>2</lidnr>
+    <al>Onze Minister kan andere personen dan bedoeld in het eerste lid, onder j, voor de toepassing van deze wet aanmerken als gezinslid, indien onverkorte toepassing van dit onderdeel zou leiden tot een onbillijkheid van overwegende aard.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=1&amp;lid=2&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0014169&amp;artikel=1&amp;g=2003-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0014169&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=1&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0014169&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="b1-2" stam-id="3251503" versie-id="4999052" id="C5051051" label-id="3223564" inwerking="2003-01-01" label="Artikel 2" bron="Stb.2002-580" effect="nieuwe-regeling" ondertekening_bron="2002-10-31" publicatie_bron="2002-12-05" publicatie_iwt="2002-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+    <titel status="officieel">Rechtspersoonlijkheid</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="3223564L1">
+    <lidnr>1</lidnr>
+    <al>De HCNM bezit rechtspersoonlijkheid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=2&amp;lid=1&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="3223564L2">
+    <lidnr>2</lidnr>
+    <al>Voor de toepassing van deze wet wordt de OVSE gelijkgesteld met een volkenrechtelijke organisatie waarvan de HCNM onderdeel is. De in deze wet opgenomen privileges en immuniteiten zullen op gelijke wijze worden toegepast als de privileges en immuniteiten die zijn toegekend aan andere in Nederland gevestigde volkenrechtelijke organisaties of aan onderdelen daarvan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=2&amp;lid=2&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0014169&amp;artikel=2&amp;g=2003-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0014169&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=2&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0014169&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="b1-3" stam-id="3251513" versie-id="4999062" id="C5051061" label-id="3223574" inwerking="2003-01-01" label="Artikel 3" bron="Stb.2002-580" effect="nieuwe-regeling" ondertekening_bron="2002-10-31" publicatie_bron="2002-12-05" publicatie_iwt="2002-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>3</nr>
+    <titel status="officieel">Bepalingen omtrent de onschendbaarheid van gebouwen en terreinen</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="3223574L1">
+    <lidnr>1</lidnr>
+    <al>Gebouwen en terreinen zijn onschendbaar.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=3&amp;lid=1&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="3223574L2">
+    <lidnr>2</lidnr>
+    <al>Het is niet toegestaan gebouwen of terreinen te betreden, behoudens de instemming van de Hoge Commissaris.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=3&amp;lid=2&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid3" label-id="3223574L3">
+    <lidnr>3</lidnr>
+    <al>Het bepaalde in het eerste en tweede lid van dit artikel is niet van toepassing indien: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>uit oogpunt van brandbestrijding onmiddellijk optreden is vereist; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=3&amp;lid=3&amp;o=a&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>in gevallen van acute bedreiging van iemands leven of eigendommen de vereiste toestemming niet tijdig kan worden verkregen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=3&amp;lid=3&amp;o=b&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=3&amp;lid=3&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid4" label-id="3223574L4">
+    <lidnr>4</lidnr>
+    <al>Uitoefening van rechtsmacht vindt binnen de gebouwen of terreinen alleen plaats met voorafgaande toestemming van de Hoge Commissaris en met inachtneming van de door hem gestelde bepalingen terzake.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=3&amp;lid=4&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid5" label-id="3223574L5">
+    <lidnr>5</lidnr>
+    <al>De Hoge Commissaris voorkomt dat de aan de HCNM toebehorende gebouwen en terreinen worden gebruikt om personen in bescherming te nemen die: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid5/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>aanhouding op grond van een Nederlandse wet ontlopen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=3&amp;lid=5&amp;o=a&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid5/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>pogen te ontsnappen aan de uitoefening van rechtsmacht; of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=3&amp;lid=5&amp;o=b&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid5/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>door de Nederlandse autoriteiten worden gezocht voor uitlevering aan of uitzetting naar een andere staat.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=3&amp;lid=5&amp;o=c&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=3&amp;lid=5&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0014169&amp;artikel=3&amp;g=2003-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0014169&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=3&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0014169&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="b1-4" stam-id="3251523" versie-id="4999072" id="C5051071" label-id="3223584" inwerking="2003-01-01" label="Artikel 4" bron="Stb.2002-580" effect="nieuwe-regeling" ondertekening_bron="2002-10-31" publicatie_bron="2002-12-05" publicatie_iwt="2002-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>4</nr>
+    <titel status="officieel">Communicatie</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="3223584L1">
+    <lidnr>1</lidnr>
+    <al>De HCNM kan vrijelijk en zonder vereiste bijzondere toestemming communiceren voor alle officiële doeleinden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=4&amp;lid=1&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="3223584L2">
+    <lidnr>2</lidnr>
+    <al>De HCNM heeft het recht codes te gebruiken en officiële correspondentie en andere officiële berichten te verzenden en te ontvangen per koerier of in verzegelde tassen, ten aanzien waarvan dezelfde voorrechten en immuniteiten gelden als voor diplomatieke koeriers en tassen, zoals vermeld in het Verdrag van Wenen inzake Diplomatiek Verkeer en daarbij behorende Protocollen (Trb. 1962, 101 en 159).</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=4&amp;lid=2&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid3" label-id="3223584L3">
+    <lidnr>3</lidnr>
+    <al>Wat de communicatie voor officiële doeleinden betreft, geniet de HCNM een niet minder gunstige behandeling dan die welke door het Koninkrijk der Nederlanden wordt toegekend aan andere internationale organisaties.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=4&amp;lid=3&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid4" label-id="3223584L4">
+    <lidnr>4</lidnr>
+    <al>Alle aan de HCNM gerichte en door de HCNM gezonden berichten, ongeacht de wijze van verzending, zijn onschendbaar.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=4&amp;lid=4&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0014169&amp;artikel=4&amp;g=2003-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0014169&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=4&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0014169&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="b1-5" stam-id="3251533" versie-id="4999082" id="C5051081" label-id="3223594" inwerking="2003-01-01" label="Artikel 5" bron="Stb.2002-580" effect="nieuwe-regeling" ondertekening_bron="2002-10-31" publicatie_bron="2002-12-05" publicatie_iwt="2002-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>5</nr>
+    <titel status="officieel">Goederen</titel>
+  </kop>
+  <al>Alle goederen die de HCNM in het kader van de vervulling van zijn officiële functies krachtens rechtsgeldige titel onder zich heeft, waar deze zich ook bevinden en wie deze ook in bezit heeft, zijn vrij van doorzoeking, revindicatie, strafrechtelijk en civielrechtelijk beslag, confiscatie, onteigening en vordering.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0014169&amp;artikel=5&amp;g=2003-01-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0014169&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=5&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0014169&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="b1-6" stam-id="3251543" versie-id="4999092" id="C5051091" label-id="3223604" inwerking="2003-01-01" label="Artikel 6" bron="Stb.2002-580" effect="nieuwe-regeling" ondertekening_bron="2002-10-31" publicatie_bron="2002-12-05" publicatie_iwt="2002-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+    <titel status="officieel">Archieven</titel>
+  </kop>
+  <al>De archieven zijn onschendbaar.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0014169&amp;artikel=6&amp;g=2003-01-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0014169&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=6&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0014169&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="b1-7" stam-id="3251553" versie-id="4999102" id="C5051101" label-id="3223614" inwerking="2003-01-01" label="Artikel 7" bron="Stb.2002-580" effect="nieuwe-regeling" ondertekening_bron="2002-10-31" publicatie_bron="2002-12-05" publicatie_iwt="2002-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+    <titel status="officieel">Immuniteit van rechtsmacht</titel>
+  </kop>
+  <al>Binnen het kader van de vervulling van zijn officiële functies geniet de HCNM immuniteit van alle vormen van rechtsmacht, behalve in het geval van: </al>
+  <lijst>
+    <li bwb-ng-variabel-deel="/Artikel7/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>uitdrukkelijke afstand, gedaan door het Voorzitterschap van de OVSE van de immuniteit in een bijzonder geval;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=7&amp;o=a&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel7/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>een civiele actie van een derde partij wegens schade die het gevolg is van een ongeval, veroorzaakt door een voertuig dat eigendom is van of werd bestuurd namens de HCNM, indien de schade niet verhaalbaar is op een verzekering;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=7&amp;o=b&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel7/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>een civiele actie die verband houdt met een overlijdensgeval of persoonlijk letsel, veroorzaakt door een handeling of nalatigheid door de HCNM of een van zijn functionarissen.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=7&amp;o=c&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0014169&amp;artikel=7&amp;g=2003-01-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0014169&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=7&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0014169&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" code="b1-8" stam-id="3251563" versie-id="4999112" id="C5051111" label-id="3223624" inwerking="2003-01-01" label="Artikel 8" bron="Stb.2002-580" effect="nieuwe-regeling" ondertekening_bron="2002-10-31" publicatie_bron="2002-12-05" publicatie_iwt="2002-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>8</nr>
+    <titel status="officieel">Vrijstelling van belastingen en heffingen</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid1" label-id="3223624L1">
+    <lidnr>1</lidnr>
+    <al>Binnen het kader van de vervulling van zijn officiële functies zijn de HCNM en diens eigendom vrijgesteld van alle directe belastingen, geheven op landelijk, provinciaal of lokaal niveau.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=8&amp;lid=1&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid2" label-id="3223624L2">
+    <lidnr>2</lidnr>
+    <al>Binnen het kader van de vervulling van zijn officiële functies is de HCNM vrijgesteld van de heffing van: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Artikel8/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>rechten bij invoer;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=8&amp;lid=2&amp;o=a&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel8/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>motorrijtuigenbelasting;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=8&amp;lid=2&amp;o=b&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel8/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>belasting van personenauto's en motorrijwielen (BPM);</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=8&amp;lid=2&amp;o=c&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel8/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>omzetbelasting terzake van goederen en diensten die aanzienlijke uitgaven met zich meebrengen of een doorlopende prestatie betreffen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=8&amp;lid=2&amp;o=d&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel8/Lid2/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>accijnzen begrepen in de prijs van alcoholhoudende dranken en motorbrandstoffen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=8&amp;lid=2&amp;o=e&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel8/Lid2/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>regulerende energiebelasting;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=8&amp;lid=2&amp;o=f&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel8/Lid2/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>overdrachtsbelasting;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=8&amp;lid=2&amp;o=g&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=g"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel8/Lid2/Onderdeelh">
+        <li.nr>h.</li.nr>
+        <al>assurantiebelasting.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=8&amp;lid=2&amp;o=h&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=h"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=8&amp;lid=2&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid3" label-id="3223624L3">
+    <lidnr>3</lidnr>
+    <al>De vrijstellingen in het tweede lid sub d, e, f, g en h, kunnen worden toegekend in de vorm van een teruggave, in overeenstemming met het bepaalde bij of krachtens wettelijk voorschrift.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=8&amp;lid=3&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid4" label-id="3223624L4">
+    <lidnr>4</lidnr>
+    <al>Goederen die belastingvrij zijn verworven of geïmporteerd ingevolge dit artikel, mogen niet worden verkocht, geschonken of anderszins vervreemd, anders dan met inachtneming van de door Onze Minister van Financiën gestelde voorschriften en beperkingen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=8&amp;lid=4&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0014169&amp;artikel=8&amp;g=2003-01-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0014169&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=8&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0014169&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" code="b1-9" stam-id="3251573" versie-id="4999122" id="C5051121" label-id="3223634" inwerking="2003-01-01" label="Artikel 9" bron="Stb.2002-580" effect="nieuwe-regeling" ondertekening_bron="2002-10-31" publicatie_bron="2002-12-05" publicatie_iwt="2002-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>9</nr>
+    <titel status="officieel">Vrijheid van beperkingen ten aanzien van financiële bezittingen</titel>
+  </kop>
+  <al>De HCNM is niet onderworpen aan financiële controles, regelingen, kennisgevingsvereisten met betrekking tot financiële transacties, of moratoria van enigerlei aard, en kan, binnen het kader van de vervulling van zijn officiële functies, vrijelijk: </al>
+  <lijst>
+    <li bwb-ng-variabel-deel="/Artikel9/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>valuta's van welke aard ook langs de toegestane kanalen kopen, bezitten en vervreemden;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=9&amp;o=a&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel9/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>rekeningen aanhouden in welke valuta ook;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=9&amp;o=b&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel9/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>fondsen, effecten en goud langs de toegestane kanalen kopen, bezitten en vervreemden;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=9&amp;o=c&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel9/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>zijn fondsen, effecten, goud en valuta's overbrengen naar of uit Nederland, uit of naar enig ander land, of binnen Nederland, en valuta's die hij bezit omwisselen in welke andere valuta ook;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=9&amp;o=d&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel9/Onderdeele">
+      <li.nr>e.</li.nr>
+      <al>fondsen werven op elke door hem wenselijk geachte wijze, met dien verstande dat de HCNM met betrekking tot de werving van fondsen binnen Nederland de toestemming van Onze Minister van Financiën dient te verkrijgen.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=9&amp;o=e&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0014169&amp;artikel=9&amp;g=2003-01-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0014169&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=9&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0014169&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" code="b1-10" stam-id="3251583" versie-id="4999132" id="C5051131" label-id="3223644" inwerking="2003-01-01" label="Artikel 10" bron="Stb.2002-580" effect="nieuwe-regeling" ondertekening_bron="2002-10-31" publicatie_bron="2002-12-05" publicatie_iwt="2002-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>10</nr>
+    <titel status="officieel">Privileges en immuniteiten van functionarissen van de HCNM, functionarissen van de OVSE, alsmede van deskundigen</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid1" label-id="3223644L1">
+    <lidnr>1</lidnr>
+    <al>Functionarissen van de HCNM genieten, met het oog op een onafhankelijke vervulling van hun officiële functies, de volgende privileges en immuniteiten: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Artikel10/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>immuniteit van aanhouding of vrijheidsontneming en van inspectie of inbeslagneming van hun officiële bagage, tenzij er een ernstig vermoeden bestaat van het plegen van een strafbaar feit waarvoor voorlopige hechtenis is toegestaan. In geval van een dergelijke situatie zal door of namens Onze Minister de Hoge Commissaris hiervan onmiddellijk op de hoogte worden gebracht. Onderzoek zal slechts plaatsvinden in aanwezigheid van de desbetreffende functionaris van de HCNM of van een persoon die gemachtigd is hem te vertegenwoordigen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=10&amp;lid=1&amp;o=a&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel10/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>immuniteit van enigerlei rechtsmacht met betrekking tot de in de uitoefening van hun officiële functies door hen gesproken of geschreven woorden of verrichte handelingen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=10&amp;lid=1&amp;o=b&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel10/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>vrijstelling van loon- en inkomstenbelasting op al dan niet rechtstreeks aan hen betaalde salarissen en emolumenten betreffende hun dienstbetrekking bij de OVSE; de aldus vrijgestelde inkomsten worden buiten beschouwing gelaten bij het vaststellen van de belasting over inkomsten uit andere bronnen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=10&amp;lid=1&amp;o=c&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel10/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>vrijstelling met betrekking tot henzelf en de hun ten laste komende gezinsleden van inreisbeperkingen en vreemdelingenregistratie;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=10&amp;lid=1&amp;o=d&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel10/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>dezelfde bescherming en repatriëringsactiviteiten met betrekking tot henzelf en de hun ten laste komende gezinsleden als die welke bij internationale crises gelden voor leden met vergelijkbare rang van het personeel van in Nederland gevestigde diplomatieke zendingen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=10&amp;lid=1&amp;o=e&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel10/Lid1/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>vrije invoer van één personenvoertuig bestemd voor het persoonlijk gebruik, mits sinds de aanvang van de tewerkstelling in Nederland nog geen tien jaar zijn verstreken; functionarissen die in het bezit zijn van het Nederlandse staatsburgerschap of duurzaam in Nederland verblijven zijn van deze vrijstelling uitgezonderd.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=10&amp;lid=1&amp;o=f&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=10&amp;lid=1&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid2" label-id="3223644L2">
+    <lidnr>2</lidnr>
+    <al>De Hoge Commissaris geniet dezelfde voorrechten en immuniteiten als worden toegekend aan het hoofd van een diplomatieke missie in overeenstemming met het op 18 april 1961 tot stand gekomen Verdrag van Wenen inzake Diplomatiek Verkeer en daarbij behorende Protocollen (Trb. 1962, 101 en 159).</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=10&amp;lid=2&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid3" label-id="3223644L3">
+    <lidnr>3</lidnr>
+    <al>De functionarissen van de HCNM met rang P5 en hoger genieten dezelfde voorrechten en immuniteiten als worden toegekend aan een diplomatiek ambtenaar in overeenstemming met het op 18 april 1961 tot stand gekomen Verdrag van Wenen inzake Diplomatiek Verkeer en daarbij behorende Protocollen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=10&amp;lid=3&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid4" label-id="3223644L4">
+    <lidnr>4</lidnr>
+    <al>Functionarissen van de OVSE en deskundigen genieten de volgende privileges en immuniteiten, voor zover noodzakelijk voor de doelmatige uitoefening van hun officiële taken, met inbegrip van reizen die in dat kader worden gemaakt en hun verblijf in de gebouwen of op de terreinen van de HCNM: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Artikel10/Lid4/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>immuniteit van enigerlei rechtsmacht met betrekking tot de in de uitoefening van hun officiële taken door hen gesproken of geschreven woorden of verrichte handelingen, welke immuniteit ook blijft gelden wanneer de functionarissen van de OVSE of de deskundigen niet langer als zodanig werkzaam zijn, op reis zijn in het kader van hun officiële taakuitoefening of zich in de gebouwen of op de terreinen van de HCNM bevinden;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=10&amp;lid=4&amp;o=a&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel10/Lid4/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>onschendbaarheid van alle stukken, documenten en ander officieel materiaal;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=10&amp;lid=4&amp;o=b&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel10/Lid4/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>immuniteit van aanhouding of vrijheidsontneming en van inspectie of inbeslagneming van hun officiële bagage, tenzij er een ernstig vermoeden bestaat van het plegen van een strafbaar feit waarvoor voorlopige hechtenis is toegestaan;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=10&amp;lid=4&amp;o=c&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel10/Lid4/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>het recht om ten behoeve van alle communicatie met de HCNM of met de OVSE codes te gebruiken en stukken, correspondentie of ander officieel materiaal te verzenden of te ontvangen per koerier of in verzegelde tassen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=10&amp;lid=4&amp;o=d&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel10/Lid4/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>dezelfde bescherming en repatriëringsactiviteiten als die welke bij internationale crises gelden voor leden met vergelijkbare rang van het personeel van in Nederland gevestigde diplomatieke zendingen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=10&amp;lid=4&amp;o=e&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel10/Lid4/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>vrijstelling van inreisbeperkingen of registratievereisten voor vreemdelingen, alsmede, voor zover vereist, kosteloze verstrekking van visa.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=10&amp;lid=4&amp;o=f&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=10&amp;lid=4&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid5" label-id="3223644L5">
+    <lidnr>5</lidnr>
+    <al>Immuniteit van enigerlei rechtsmacht strekt zich niet uit tot: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Artikel10/Lid5/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>overtredingen met een motorvoertuig begaan door een functionaris van de HCNM, een functionaris van de OVSE of een deskundige;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=10&amp;lid=5&amp;o=a&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel10/Lid5/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>een civiele actie van een derde wegens schade die het gevolg is van een ongeval veroorzaakt door een motorvoertuig dat eigendom is van of dat bestuurd werd door of bediend namens een functionaris van de HCNM, een functionaris van de OVSE of een deskundige.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=10&amp;lid=5&amp;o=b&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=10&amp;lid=5&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0014169&amp;artikel=10&amp;g=2003-01-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0014169&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=10&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0014169&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" code="b1-11" stam-id="3251593" versie-id="4999142" id="C5051141" label-id="3223654" inwerking="2003-01-01" label="Artikel 11" bron="Stb.2002-580" effect="nieuwe-regeling" ondertekening_bron="2002-10-31" publicatie_bron="2002-12-05" publicatie_iwt="2002-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>11</nr>
+    <titel status="officieel">Aanvullende bepalingen met betrekking tot privileges en immuniteiten</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid1" label-id="3223654L1">
+    <lidnr>1</lidnr>
+    <al>De Secretaris-Generaal van de OVSE doet afstand van de immuniteit van de betrokken functionarissen van de HCNM, van de OVSE en van deskundigen in omstandigheden waarin de Secretaris-Generaal van mening is dat deze immuniteit de rechtsgang zou belemmeren, en in alle gevallen waarin daarvan afstand kan worden gedaan zonder dat inbreuk wordt gemaakt op het doel waarvoor deze immuniteit werd verleend.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=11&amp;lid=1&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid2" label-id="3223654L2">
+    <lidnr>2</lidnr>
+    <al>Ten aanzien van de Hoge Commissaris wordt het in het eerste lid van dit artikel bedoelde besluit tot het doen van afstand van immuniteit genomen door het Voorzitterschap van de OVSE.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=11&amp;lid=2&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid3" label-id="3223654L3">
+    <lidnr>3</lidnr>
+    <al>De HCNM en de OVSE werken te allen tijde samen met de bevoegde Nederlandse instanties teneinde een goede rechtsbedeling te vergemakkelijken en misbruik van de krachtens de bepalingen van deze wet verleende voorrechten en immuniteiten door functionarissen van de HCNM en van de OVSE te voorkomen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=11&amp;lid=3&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0014169&amp;artikel=11&amp;g=2003-01-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0014169&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=11&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0014169&amp;artikel=11"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel12" code="b1-12" stam-id="3251603" versie-id="4999152" id="C5051151" label-id="3223664" inwerking="2003-01-01" label="Artikel 12" bron="Stb.2002-580" effect="nieuwe-regeling" ondertekening_bron="2002-10-31" publicatie_bron="2002-12-05" publicatie_iwt="2002-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>12</nr>
+    <titel status="officieel">Sociale zekerheid</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel12/Lid1" label-id="3223664L1">
+    <lidnr>1</lidnr>
+    <al>In het geval dat de OVSE een eigen stelsel van sociale zekerheid heeft dat vergelijkbaar is met het Nederlandse stelsel, of deelneemt aan een met de Nederlandse regeling vergelijkbaar stelsel van sociale zekerheid, zijn de HCNM, diens functionarissen en andere werknemers op wie het bovengenoemde stelsel van toepassing is uitgezonderd van de Nederlandse sociale zekerheids-bepalingen, tenzij de functionarissen en andere werknemers op wie het bovengenoemde stelsel van toepassing is in Nederland betaalde arbeid verrichten anders dan uit hoofde van de vorenbedoelde betrekking.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=12&amp;lid=1&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel12/Lid2" label-id="3223664L2">
+    <lidnr>2</lidnr>
+    <al>Het eerste lid van dit artikel is van overeenkomstige toepassing op gezinsleden die deel uitmaken van het huishouden van personen, bedoeld in het eerste lid, tenzij zij in Nederland in dienst zijn bij een andere werkgever dan de OVSE, arbeid als zelfstandige verrichten of uitkeringen ingevolge het Nederlandse stelsel van sociale zekerheid ontvangen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=12&amp;lid=2&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0014169&amp;artikel=12&amp;g=2003-01-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0014169&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=12&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0014169&amp;artikel=12"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13" code="b1-13" stam-id="3251613" versie-id="4999162" id="C5051161" label-id="3223674" inwerking="2003-01-01" label="Artikel 13" bron="Stb.2002-580" effect="nieuwe-regeling" ondertekening_bron="2002-10-31" publicatie_bron="2002-12-05" publicatie_iwt="2002-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>13</nr>
+    <titel status="officieel">Tewerkstelling van gezinsleden</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid1" label-id="3223674L1">
+    <lidnr>1</lidnr>
+    <al>Aan gezinsleden die deel uitmaken van het huishouden van functionarissen van de HCNM wordt toegestaan arbeid in loondienst te verrichten voor de tijdsduur van de tewerkstelling van de in dit artikel bedoelde HCNM-functionarissen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=13&amp;lid=1&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid2" label-id="3223674L2">
+    <lidnr>2</lidnr>
+    <al>Personen die arbeid verrichten als bedoeld in het eerste lid genieten in het kader van die werkzaamheden geen immuniteit met betrekking tot strafrechtelijke, burgerlijke of administratieve rechtsmacht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=13&amp;lid=2&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid3" label-id="3223674L3">
+    <lidnr>3</lidnr>
+    <al>Met betrekking tot de in het eerste lid van dit artikel bedoelde arbeid in loondienst is het Nederlandse recht van toepassing. Tevens vallen personen die arbeid verrichten als bedoeld in dat artikellid onder de Nederlandse sociale zekerheid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=13&amp;lid=3&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0014169&amp;artikel=13&amp;g=2003-01-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0014169&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=13&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0014169&amp;artikel=13"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel14" code="b1-14" stam-id="3251623" versie-id="4999172" id="C5051171" label-id="3223684" inwerking="2003-01-01" label="Artikel 14" bron="Stb.2002-580" effect="nieuwe-regeling" ondertekening_bron="2002-10-31" publicatie_bron="2002-12-05" publicatie_iwt="2002-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>14</nr>
+    <titel status="officieel">Kennisgeving</titel>
+  </kop>
+  <al>De HCNM stelt Onze Minister onmiddellijk in kennis van: </al>
+  <lijst>
+    <li bwb-ng-variabel-deel="/Artikel14/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>de benoeming van de Hoge Commissaris en de andere functionarissen van de HCNM, hun aankomst en hun definitieve vertrek of de beëindiging van hun functies bij de HCNM;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=14&amp;o=a&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel14/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>de aankomst en het definitieve vertrek van gezinsleden die deel uitmaken van het huishouden van de personen, bedoeld in onderdeel a, en, waar van toepassing, het feit dat een persoon niet langer deel van het huishouden uitmaakt;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=14&amp;o=b&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel14/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>de aankomst en het definitieve vertrek van bedienend personeel van personen, bedoeld in onderdeel a, en, voor zover van toepassing, het feit dat de dienstbetrekking tussen hen en de personen, bedoeld in onderdeel a, beëindigd is.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=14&amp;o=c&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0014169&amp;artikel=14&amp;g=2003-01-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0014169&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=14&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0014169&amp;artikel=14"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel15" stam-id="3251633" versie-id="4999182" id="C5051181" label-id="3223694" inwerking="2003-01-01" label="Artikel 15" bron="Stb.2002-580" effect="nieuwe-regeling" ondertekening_bron="2002-10-31" publicatie_bron="2002-12-05" publicatie_iwt="2002-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>15</nr>
+    <titel status="officieel">Identiteitsbewijs</titel>
+  </kop>
+  <al>Onze Minister verstrekt identiteitskaarten met een foto van de houder aan: </al>
+  <lijst type="a">
+    <li bwb-ng-variabel-deel="/Artikel15/Onderdeel_1">
+      <al>de Hoge Commissaris;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel15/Onderdeel_2">
+      <al>andere functionarissen van de HCNM;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel15/Onderdeel_3">
+      <al>gezinsleden van functionarissen van de HCNM die deel uitmaken van het huishouden van deze functionarissen, voor zover het geen gezinsleden betreft van functionarissen die het Nederlandse staatsburgerschap bezitten of in Nederland duurzaam verblijven;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel15/Onderdeel_4">
+      <al>bedienend personeel van functionarissen van de HCNM.</al>
+    </li>
+  </lijst>
+  <al>Deze identiteitskaart strekt tot bewijs van de identiteit van de houder tegenover alle bevoegde Nederlandse instanties.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0014169&amp;artikel=15&amp;g=2003-01-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0014169&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=15&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0014169&amp;artikel=15"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel16" stam-id="3251643" versie-id="4999192" id="C5051191" label-id="3223704" inwerking="2003-01-01" label="Artikel 16" bron="Stb.2002-580" effect="nieuwe-regeling" ondertekening_bron="2002-10-31" publicatie_bron="2002-12-05" publicatie_iwt="2002-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>16</nr>
+    <titel status="officieel">Aanvullende privileges en immuniteiten</titel>
+  </kop>
+  <al>Bij algemene maatregel van bestuur kunnen in aanvulling op deze wet privileges en immuniteiten aan de HCNM en aan de in de <intref verwijzing-id="1616107" doc="jci1.3:c:BWBR0014169&amp;artikel=10&amp;z=2003-01-01&amp;g=2003-01-01" bwb-id="BWBR0014169" label-id="3223644,3223654,3223664,3223674" bwb-ng-variabel-deel="/Artikel10">artikelen 10 tot en met 13</intref> bedoelde personen worden toegekend indien daartoe met het oog op een overeenkomstige behandeling als andere in Nederland gevestigde volkenrechtelijke organisaties of onderdelen daarvan ten deel valt, aanleiding bestaat.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0014169&amp;artikel=16&amp;g=2003-01-01" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0014169&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=16&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0014169&amp;artikel=16"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel17" code="b1-17" stam-id="3251653" versie-id="4999202" id="C9613401" label-id="3223714" inwerking="2003-01-01" label="Artikel 17" bron="Stb.2002-580" effect="nieuwe-regeling" ondertekening_bron="2002-10-31" publicatie_bron="2002-12-05" publicatie_iwt="2002-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>17</nr>
+    <titel status="officieel">Inwerkingtredingsbepaling</titel>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0014169&amp;artikel=17&amp;g=2003-01-01" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0014169&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=17&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0014169&amp;artikel=17"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel18" code="b1-18" stam-id="3251663" versie-id="4999212" id="C9613411" label-id="3223724" inwerking="2003-01-01" label="Artikel 18" bron="Stb.2002-580" effect="nieuwe-regeling" ondertekening_bron="2002-10-31" publicatie_bron="2002-12-05" publicatie_iwt="2002-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>18</nr>
+    <titel status="officieel">Citeertitel</titel>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet HCNM.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0014169&amp;artikel=18&amp;g=2003-01-01" onderdeel="artikel=18" korte-verwijzing="1.0:c:BWBR0014169&amp;artikel=18"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;artikel=18&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="artikel=18" korte-verwijzing="jci1.3:c:BWBR0014169&amp;artikel=18"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="3251673" versie-id="4999222" id="C5051221" label-id="3223734" inwerking="2003-01-01" bron="Stb.2002-580" effect="nieuwe-regeling" ondertekening_bron="2002-10-31" publicatie_bron="2002-12-05" publicatie_iwt="2002-12-05" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">31 oktober 2002</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Buitenlandse Zaken,</functie>
+    <naam>
+      <achternaam>J. G. de Hoop Scheffer</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de vijfde december 2002</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>J. P. H. Donner </achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-580"><publicatiejaar>2002</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-10-31">31-10-2002</ondertekeningsdatum><dossierref dossier="27194">27194</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2002-581"><publicatiejaar>2002</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="2002-12-05">05-12-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-18">18-11-2002</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-01-01">01-01-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0014169&amp;g=2003-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0014169"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0014169&amp;z=2003-01-01&amp;g=2003-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0014169"/></jcis></meta-data></wetgeving></toestand>

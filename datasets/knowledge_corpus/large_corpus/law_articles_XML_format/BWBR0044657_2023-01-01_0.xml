@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0044657/2023-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0044657" inwerkingtreding="2023-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="15799083" versie-id="27391282" id="C38677321" label-id="15736504" inwerkingtredingsdatum="2021-07-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="15799103" versie-id="27391132" id="C38677171" label-id="15736354" inwerking="2021-07-01" bron="Stb.2020-507" effect="nieuwe-regeling" ondertekening_bron="2020-11-11" publicatie_bron="2020-12-11" publicatie_iwt="2020-12-11" status="goed">Wet van 11 november 2020 tot wijziging van het Burgerlijk Wetboek in verband met de uniformering en de verduidelijking van enkele bepalingen omtrent het bestuur en de raad van commissarissen van rechtspersonen (Wet bestuur en toezicht rechtspersonen)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-507"><publicatiejaar>2020</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-11">11-11-2020</ondertekeningsdatum><dossierref dossier="34491">34491</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-508"><publicatiejaar>2020</publicatiejaar><publicatienr>508</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-01">01-12-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="15799113" versie-id="27391142" id="C38677181" label-id="15736364" inwerking="2021-07-01" bron="Stb.2020-507" effect="nieuwe-regeling" ondertekening_bron="2020-11-11" publicatie_bron="2020-12-11" publicatie_iwt="2020-12-11">Wet bestuur en toezicht rechtspersonen<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-507"><publicatiejaar>2020</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-11">11-11-2020</ondertekeningsdatum><dossierref dossier="34491">34491</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-508"><publicatiejaar>2020</publicatiejaar><publicatienr>508</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-01">01-12-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="15799123" versie-id="27391152" id="C38677191" label-id="15736374" inwerking="2021-07-01" bron="Stb.2020-507" effect="nieuwe-regeling" ondertekening_bron="2020-11-11" publicatie_bron="2020-12-11" publicatie_iwt="2020-12-11" status="goed">
+  <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is de kwaliteit van bestuur en toezicht bij verenigingen, coöperaties, onderlinge waarborgmaatschappijen en stichtingen te verbeteren en daartoe enkele regels inzake bestuur en toezicht voor alle rechtspersonen te uniformeren alsmede enkele specifiek voor stichtingen geldende bepalingen te introduceren;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-507"><publicatiejaar>2020</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-11">11-11-2020</ondertekeningsdatum><dossierref dossier="34491">34491</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-508"><publicatiejaar>2020</publicatiejaar><publicatienr>508</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-01">01-12-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/ArtikelI" stam-id="15799133" versie-id="27391162" id="C39244071" label-id="15736384" inwerking="2021-07-01" label="Artikel I" bron="Stb.2020-507" effect="nieuwe-regeling" ondertekening_bron="2020-11-11" publicatie_bron="2020-12-11" publicatie_iwt="2020-12-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">I</nr>
+    <titel status="officieel">Wijziging van <extref doc="jci1.3:c:BWBR0003045" label-id="2873674" verwijzing-id="3044709" bwb-id="BWBR0003045">Boek 2 van het Burgerlijk Wetboek</extref></titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt het Burgerlijk Wetboek Boek 2.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-507"><publicatiejaar>2020</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-11">11-11-2020</ondertekeningsdatum><dossierref dossier="34491">34491</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-508"><publicatiejaar>2020</publicatiejaar><publicatienr>508</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-01">01-12-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum><juncto><publicatie soort="Stb" urlidentifier="stb-2021-284"><publicatiejaar>2021</publicatiejaar><publicatienr>284</publicatienr><uitgiftedatum isodatum="2021-06-18">18-06-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-06-11">11-06-2021</ondertekeningsdatum></publicatie></juncto></inwerkingtreding><opmerkingen-inhoud><al>Onderdelen A tot en met D, E, onder 2,  F, G tot en met K, M tot
+    en met W, Y     tot en met BBB, BBBB tot en met EEE.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044657&amp;artikel=I&amp;g=2023-01-01" onderdeel="artikel=I" korte-verwijzing="1.0:c:BWBR0044657&amp;artikel=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044657&amp;artikel=I&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=I" korte-verwijzing="jci1.3:c:BWBR0044657&amp;artikel=I"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIIT.MIX" stam-id="15799143" versie-id="27391172" id="C38677211" label-id="15736394" inwerking="2021-07-01" label="Artikel II T/M IX" bron="Stb.2020-507" effect="nieuwe-regeling" ondertekening_bron="2020-11-11" publicatie_bron="2020-12-11" publicatie_iwt="2020-12-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">II T/M IX</nr>
+  </kop>
+  <al>
+    <nadruk type="cur">[vervallen]</nadruk>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-507"><publicatiejaar>2020</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-11">11-11-2020</ondertekeningsdatum><dossierref dossier="34491">34491</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-508"><publicatiejaar>2020</publicatiejaar><publicatienr>508</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-01">01-12-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044657&amp;artikel=II%20T%2FM%20IX&amp;g=2023-01-01" onderdeel="artikel=II%20T%2FM%20IX" korte-verwijzing="1.0:c:BWBR0044657&amp;artikel=II%20T%2FM%20IX"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044657&amp;artikel=II_T/M_IX&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=II_T/M_IX" korte-verwijzing="jci1.3:c:BWBR0044657&amp;artikel=II_T/M_IX"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelX" stam-id="15799153" versie-id="27391182" id="C38677221" label-id="15736404" inwerking="2021-07-01" label="Artikel X" bron="Stb.2020-507" effect="nieuwe-regeling" ondertekening_bron="2020-11-11" publicatie_bron="2020-12-11" publicatie_iwt="2020-12-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">X</nr>
+    <titel status="officieel">Wijziging van de <extref doc="jci1.3:c:BWBR0018831" label-id="7456484" verwijzing-id="3044710" bwb-id="BWBR0018831">Wet verplichte beroepspensioenregeling</extref></titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet verplichte beroepspensioenregeling.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-507"><publicatiejaar>2020</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-11">11-11-2020</ondertekeningsdatum><dossierref dossier="34491">34491</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-508"><publicatiejaar>2020</publicatiejaar><publicatienr>508</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-01">01-12-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044657&amp;artikel=X&amp;g=2023-01-01" onderdeel="artikel=X" korte-verwijzing="1.0:c:BWBR0044657&amp;artikel=X"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044657&amp;artikel=X&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=X" korte-verwijzing="jci1.3:c:BWBR0044657&amp;artikel=X"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXI" stam-id="15799163" versie-id="27391192" id="C38677231" label-id="15736414" inwerking="2021-07-01" label="Artikel XI" bron="Stb.2020-507" effect="nieuwe-regeling" ondertekening_bron="2020-11-11" publicatie_bron="2020-12-11" publicatie_iwt="2020-12-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XI</nr>
+    <titel status="officieel">Wijziging van de <extref doc="jci1.3:c:BWBR0002698" label-id="1249244" verwijzing-id="3044711" bwb-id="BWBR0002698">Wet op de loonvorming</extref></titel>
+  </kop>
+  <al>
+    <nadruk type="cur">[vervallen]</nadruk>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-507"><publicatiejaar>2020</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-11">11-11-2020</ondertekeningsdatum><dossierref dossier="34491">34491</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-508"><publicatiejaar>2020</publicatiejaar><publicatienr>508</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-01">01-12-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044657&amp;artikel=XI&amp;g=2023-01-01" onderdeel="artikel=XI" korte-verwijzing="1.0:c:BWBR0044657&amp;artikel=XI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044657&amp;artikel=XI&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=XI" korte-verwijzing="jci1.3:c:BWBR0044657&amp;artikel=XI"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXII" stam-id="15799173" versie-id="27391202" id="C38677241" label-id="15736424" inwerking="2021-07-01" label="Artikel XII" bron="Stb.2020-507" effect="nieuwe-regeling" ondertekening_bron="2020-11-11" publicatie_bron="2020-12-11" publicatie_iwt="2020-12-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XII</nr>
+    <titel status="officieel">Wijziging van de <extref doc="jci1.3:c:BWBR0005181" label-id="2986364" verwijzing-id="3044712" bwb-id="BWBR0005181">Woningwet</extref></titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Woningwet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-507"><publicatiejaar>2020</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-11">11-11-2020</ondertekeningsdatum><dossierref dossier="34491">34491</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-508"><publicatiejaar>2020</publicatiejaar><publicatienr>508</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-01">01-12-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044657&amp;artikel=XII&amp;g=2023-01-01" onderdeel="artikel=XII" korte-verwijzing="1.0:c:BWBR0044657&amp;artikel=XII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044657&amp;artikel=XII&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=XII" korte-verwijzing="jci1.3:c:BWBR0044657&amp;artikel=XII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXIIIenXIV" stam-id="15799183" versie-id="27391212" id="C38677251" label-id="15736434" inwerking="2021-07-01" label="Artikelen XIII en XIV" bron="Stb.2020-507" effect="nieuwe-regeling" ondertekening_bron="2020-11-11" publicatie_bron="2020-12-11" publicatie_iwt="2020-12-11" status="goed">
+  <kop>
+    <label>Artikelen</label>
+    <nr status="officieel">XIII en XIV</nr>
+  </kop>
+  <al>
+    <nadruk type="cur">[vervallen]</nadruk>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-507"><publicatiejaar>2020</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-11">11-11-2020</ondertekeningsdatum><dossierref dossier="34491">34491</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-508"><publicatiejaar>2020</publicatiejaar><publicatienr>508</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-01">01-12-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044657&amp;artikel=XIII%20en%20XIV&amp;g=2023-01-01" onderdeel="artikel=XIII%20en%20XIV" korte-verwijzing="1.0:c:BWBR0044657&amp;artikel=XIII%20en%20XIV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044657&amp;artikel=XIII_en_XIV&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=XIII_en_XIV" korte-verwijzing="jci1.3:c:BWBR0044657&amp;artikel=XIII_en_XIV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXV" stam-id="15799193" versie-id="28871402" id="C40912231" label-id="15736444" inwerking="2023-01-01" label="Artikel XV" bron="Stb.2022-345" effect="wijziging" ondertekening_bron="2022-08-22" publicatie_bron="2022-09-07" publicatie_iwt="2022-09-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XV</nr>
+    <titel status="officieel">Overgangsrecht</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/ArtikelXV/Lid1" label-id="15736444L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De <extref doc="jci1.3:c:BWBR0002565&amp;artikel=29" label-id="2937414" verwijzing-id="3044713" bwb-id="BWBR0002565">artikelen 29, eerste lid</extref>, <extref doc="jci1.3:c:BWBR0002565&amp;artikel=74" label-id="2937884" verwijzing-id="3044714" bwb-id="BWBR0002565">74</extref>, <extref doc="jci1.3:c:BWBR0002565&amp;artikel=79" label-id="2937944" verwijzing-id="3044715" bwb-id="BWBR0002565">79</extref> en <extref doc="jci1.3:c:BWBR0002565&amp;artikel=80" label-id="2937954" verwijzing-id="3044716" bwb-id="BWBR0002565">80 Overgangswet nieuw Burgerlijk Wetboek</extref> zijn van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044657&amp;artikel=XV&amp;lid=1&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelXV/Lid2" label-id="15736444L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De algemene vergadering kan, indien een vereniging, coöperatie of onderlinge waarborgmaatschappij voorafgaand aan de inwerkingtreding van deze wet is vertegenwoordigd door het bestuur of een bestuurder terwijl er een tegenstrijdig belang was met een of meer bestuurders, die vertegenwoordiging bekrachtigen door de vertegenwoordiger of vertegenwoordigers daartoe aan te wijzen op of na de datum van inwerkingtreding van de wet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044657&amp;artikel=XV&amp;lid=2&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelXV/Lid3" label-id="15736444L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Op een statutaire regeling die inhoudt dat in alle gevallen waarin de vereniging, coöperatie of onderlinge waarborgmaatschappij een tegenstrijdig belang heeft met een of meer bestuurders of commissarissen, de vereniging, coöperatie of onderlinge waarborgmaatschappij wordt vertegenwoordigd door een ander dan het bestuur of een bestuurder, kan na de inwerkingtreding van de wet geen beroep meer worden gedaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044657&amp;artikel=XV&amp;lid=3&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelXV/Lid4" label-id="15736444L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De rechtspersoon brengt bij de eerstvolgende statutenwijziging na inwerkingtreding van deze wet de statuten in overeenstemming met <extref doc="jci1.3:c:BWBR0003045&amp;artikel=44" label-id="2868464" verwijzing-id="3044717" bwb-id="BWBR0003045">artikel 44 leden 4 en 5</extref>, <extref doc="jci1.3:c:BWBR0003045&amp;artikel=47" label-id="2868494" verwijzing-id="3044718" bwb-id="BWBR0003045">artikel 47 leden 4 en 5</extref>, <extref doc="jci1.3:c:BWBR0003045&amp;artikel=142" label-id="2869914" verwijzing-id="3179632" bwb-id="BWBR0003045">artikel 142 lid 4</extref>, <extref doc="jci1.3:c:BWBR0003045&amp;artikel=291" label-id="2871704" verwijzing-id="3044719" bwb-id="BWBR0003045">artikel 291 leden 4 en 5</extref> en <extref doc="jci1.3:c:BWBR0003045&amp;artikel=292a" label-id="15735654" verwijzing-id="3044720" bwb-id="BWBR0003045">artikel 292a leden 4 en 5 van Boek 2 van het Burgerlijk Wetboek</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044657&amp;artikel=XV&amp;lid=4&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelXV/Lid5" label-id="15736444L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Een statutaire bepaling die vóór inwerkingtreding van deze wet bepaalt dat een bepaalde bestuurder of een commissaris van een vereniging, een coöperatie, een onderlinge waarborgmaatschappij of een stichting, meer stemmen kan uitbrengen dan de andere bestuurders respectievelijk commissarissen tezamen, is geldig tot uiterlijk vijf jaar na de datum van inwerkingtreding van deze wet of tot de eerstvolgende statutenwijziging na de inwerkingtreding van deze wet, naar gelang welk moment eerst valt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044657&amp;artikel=XV&amp;lid=5&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-345"><publicatiejaar>2022</publicatiejaar><publicatienr>345</publicatienr><uitgiftedatum isodatum="2022-09-07">07-09-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-08-22">22-08-2022</ondertekeningsdatum><dossierref dossier="36003">36003</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-364"><publicatiejaar>2022</publicatiejaar><publicatienr>364</publicatienr><uitgiftedatum isodatum="2022-09-21">21-09-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-09-16">16-09-2022</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-01-01">01-01-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044657&amp;artikel=XV&amp;g=2023-01-01" onderdeel="artikel=XV" korte-verwijzing="1.0:c:BWBR0044657&amp;artikel=XV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044657&amp;artikel=XV&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=XV" korte-verwijzing="jci1.3:c:BWBR0044657&amp;artikel=XV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXVI" stam-id="15799203" versie-id="27391232" id="C38677271" label-id="15736454" inwerking="2021-07-01" label="Artikel XVI" bron="Stb.2020-507" effect="nieuwe-regeling" ondertekening_bron="2020-11-11" publicatie_bron="2020-12-11" publicatie_iwt="2020-12-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XVI</nr>
+    <titel status="officieel">Samenloop</titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet continuïteit ondernemingen I.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-507"><publicatiejaar>2020</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-11">11-11-2020</ondertekeningsdatum><dossierref dossier="34491">34491</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-508"><publicatiejaar>2020</publicatiejaar><publicatienr>508</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-01">01-12-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044657&amp;artikel=XVI&amp;g=2023-01-01" onderdeel="artikel=XVI" korte-verwijzing="1.0:c:BWBR0044657&amp;artikel=XVI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044657&amp;artikel=XVI&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=XVI" korte-verwijzing="jci1.3:c:BWBR0044657&amp;artikel=XVI"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXVIa" stam-id="15799213" versie-id="27391242" id="C38677281" label-id="15736464" inwerking="2021-07-01" label="Artikel XVIa" bron="Stb.2020-507" effect="nieuwe-regeling" ondertekening_bron="2020-11-11" publicatie_bron="2020-12-11" publicatie_iwt="2020-12-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XVIa</nr>
+    <titel status="officieel">Evaluatie</titel>
+  </kop>
+  <al>Onze Minister voor Rechtsbescherming zendt binnen vijf jaar na de inwerkingtreding van de Wet bestuur en toezicht rechtspersonen aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-507"><publicatiejaar>2020</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-11">11-11-2020</ondertekeningsdatum><dossierref dossier="34491">34491</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-508"><publicatiejaar>2020</publicatiejaar><publicatienr>508</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-01">01-12-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044657&amp;artikel=XVIa&amp;g=2023-01-01" onderdeel="artikel=XVIa" korte-verwijzing="1.0:c:BWBR0044657&amp;artikel=XVIa"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044657&amp;artikel=XVIa&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=XVIa" korte-verwijzing="jci1.3:c:BWBR0044657&amp;artikel=XVIa"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXVII" stam-id="15799223" versie-id="27391252" id="C38677291" label-id="15736474" inwerking="2021-07-01" label="Artikel XVII" bron="Stb.2020-507" effect="nieuwe-regeling" ondertekening_bron="2020-11-11" publicatie_bron="2020-12-11" publicatie_iwt="2020-12-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XVII</nr>
+    <titel status="officieel">Inwerkingtreding</titel>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-507"><publicatiejaar>2020</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-11">11-11-2020</ondertekeningsdatum><dossierref dossier="34491">34491</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-508"><publicatiejaar>2020</publicatiejaar><publicatienr>508</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-01">01-12-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044657&amp;artikel=XVII&amp;g=2023-01-01" onderdeel="artikel=XVII" korte-verwijzing="1.0:c:BWBR0044657&amp;artikel=XVII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044657&amp;artikel=XVII&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=XVII" korte-verwijzing="jci1.3:c:BWBR0044657&amp;artikel=XVII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXVIII" stam-id="15799233" versie-id="27391262" id="C38677301" label-id="15736484" inwerking="2021-07-01" label="Artikel XVIII" bron="Stb.2020-507" effect="nieuwe-regeling" ondertekening_bron="2020-11-11" publicatie_bron="2020-12-11" publicatie_iwt="2020-12-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XVIII</nr>
+    <titel status="officieel">Citeertitel</titel>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet bestuur en toezicht rechtspersonen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-507"><publicatiejaar>2020</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-11">11-11-2020</ondertekeningsdatum><dossierref dossier="34491">34491</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-508"><publicatiejaar>2020</publicatiejaar><publicatienr>508</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-01">01-12-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044657&amp;artikel=XVIII&amp;g=2023-01-01" onderdeel="artikel=XVIII" korte-verwijzing="1.0:c:BWBR0044657&amp;artikel=XVIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044657&amp;artikel=XVIII&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=XVIII" korte-verwijzing="jci1.3:c:BWBR0044657&amp;artikel=XVIII"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="15799243" versie-id="27391272" id="C38677311" label-id="15736494" inwerking="2021-07-01" bron="Stb.2020-507" effect="nieuwe-regeling" ondertekening_bron="2020-11-11" publicatie_bron="2020-12-11" publicatie_iwt="2020-12-11" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>’s-Gravenhage</plaats>
+      <datum isodatum="2020-11-11">11 november 2020</datum>
+    </dagtekening>
+    <koning>Willem-Alexander</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister voor Rechtsbescherming,</functie>
+    <naam>
+      <voornaam>S.</voornaam>
+      <achternaam>Dekker</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2020-12-11">de <nadruk type="cur">elfde</nadruk> december 2020</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie en Veiligheid,</functie>
+      <naam>
+        <voornaam>F.B.J.</voornaam>
+        <achternaam>Grapperhaus</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-507"><publicatiejaar>2020</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-11">11-11-2020</ondertekeningsdatum><dossierref dossier="34491">34491</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-508"><publicatiejaar>2020</publicatiejaar><publicatienr>508</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-01">01-12-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-507"><publicatiejaar>2020</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-11">11-11-2020</ondertekeningsdatum><dossierref dossier="34491">34491</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-508"><publicatiejaar>2020</publicatiejaar><publicatienr>508</publicatienr><uitgiftedatum isodatum="2020-12-11">11-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-01">01-12-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044657&amp;g=2023-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0044657"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044657&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0044657"/></jcis></meta-data></wetgeving></toestand>

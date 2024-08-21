@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0002098/2021-07-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0002098" inwerkingtreding="2021-07-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="435543" versie-id="11332132" id="C15268711" label-id="423664" inwerkingtredingsdatum="2004-12-02">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="435613" versie-id="639272" id="C639271" label-id="423374" inwerking="1952-08-21" bron="Stb.1952-407" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">Wet van 10 juli 1952, ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden <meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>407</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2419">2419</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>407</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2419">2419</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-21">21-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="435623" versie-id="11332742" id="C15798291" label-id="423384" inwerking="2005-03-16" bron="Stb.2004-686" effect="wijziging" ondertekening_bron="2004-12-02" publicatie_bron="2004-12-28" publicatie_iwt="2005-03-15">Wet beschikbaarheid goederen <meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2004-686"><publicatiejaar>2004</publicatiejaar><publicatienr>686</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-02">02-12-2004</ondertekeningsdatum><dossierref dossier="29514">29514</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-118"><publicatiejaar>2005</publicatiejaar><publicatienr>118</publicatienr><uitgiftedatum isodatum="2005-03-15">15-03-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-02-23">23-02-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-03-16">16-03-2005</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="435633" versie-id="639292" id="C639291" label-id="423394" inwerking="1952-08-21" bron="Stb.1952-407" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <wij>Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz. </wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten: </considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is, maatregelen te kunnen treffen ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verbandhoudende buitengewone omstandigheden; </considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze: </al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>407</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2419">2419</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>407</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2419">2419</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-21">21-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" code="a-1" stam-id="435643" versie-id="639302" id="C20935751" label-id="423404" inwerking="1992-01-01" label="Artikel 1" bron="Stb.1989-492" effect="wijziging" ondertekening_bron="1989-10-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>Deze wet verstaat onder: </al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>goederen: hetgeen artikel 1 van Boek 3 van het Burgerlijk Wetboek daar onder verstaat; </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=1&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>rechthebbenden: personen en lichamen die een recht hebben ten aanzien van een goed dan wel de bezitter of houder van een goed zijn; </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=1&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>bevel: een last, gegeven krachtens <intref verwijzing-id="1624551" doc="jci1.3:c:BWBR0002098&amp;artikel=2&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0002098" label-id="423414" bwb-ng-variabel-deel="/Artikel2">artikel 2</intref> of <intref verwijzing-id="1624552" doc="jci1.3:c:BWBR0002098&amp;artikel=2a&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0002098" label-id="423434" bwb-ng-variabel-deel="/Artikel2a">artikel 2a</intref>. </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=1&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1989</publicatiejaar><publicatienr>492</publicatienr><ondertekeningsdatum isodatum="1989-10-25">25-10-1989</ondertekeningsdatum><dossierref dossier="20503">20503</dossierref></publicatie><juncto><publicatie soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>609</publicatienr><ondertekeningsdatum isodatum="1991-12-04">04-12-1991</ondertekeningsdatum></publicatie></juncto></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1990</publicatiejaar><publicatienr>90</publicatienr><ondertekeningsdatum isodatum="1990-02-20">20-02-1990</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-01-01">01-01-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002098&amp;artikel=1&amp;g=2021-07-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0002098&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0002098&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" stam-id="435653" versie-id="25562752" id="C36488761" label-id="423414" inwerking="2019-01-01" label="Artikel 2" bron="Stb.2018-487" effect="wijziging" ondertekening_bron="2018-12-05" publicatie_bron="2018-12-27" publicatie_iwt="2018-12-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="423414L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Ieder van Onze Ministers is, indien dit naar zijn oordeel noodzakelijk is ter verzekering van het beschikbaar blijven van goederen ter voorbereiding op noodsituaties, bevoegd aan de rechthebbende bij algemeen of bijzonder bevel te gelasten:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>in of aan een goed, dan wel in de toestand waarin of de plaats waar het zich bevindt, of in de wijze waarop het wordt gebruikt, zonder door of vanwege die Minister verleende vergunning geen veranderingen of geen, bij het bevel omschreven veranderingen aan te brengen noch toe te laten, dat dit door anderen geschiedt; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=2&amp;lid=1&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>in of aan een goed, dan wel in de toestand waarin of de plaats waar het zich bevindt, of in de wijze waarop het wordt gebruikt, de bij het bevel omschreven veranderingen aan te brengen of toe te laten, dat zulks door of vanwege die Minister geschiedt; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=2&amp;lid=1&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>een goed niet te verbruiken of te verwerken zonder een door of vanwege die Minister verleende vergunning; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=2&amp;lid=1&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>zorg te dragen voor een doeltreffend onderhoud van een goed. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=2&amp;lid=1&amp;o=d&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=2&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="423414L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Het bevel kan bepalingen inhouden omtrent de plaats en de tijd waarop aan het bevel moet worden voldaan. De plaats waarop aan het bevel moet worden voldaan, kan ook buiten het Rijk zijn gelegen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=2&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid3" label-id="423414L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Een bevel wordt niet gegeven dan in overeenstemming met Onze Minister van Economische Zaken en Klimaat. Indien het algemeen belang zulks dringend eist kan Onze voornoemde Minister bij voorraad zijn instemming verlenen voor groepen van gevallen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=2&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid4" label-id="423414L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> De rechthebbende op een goed, ten aanzien waarvan een bevel is gegeven, is verplicht van dit bevel kennis te geven aan zijn rechtsopvolger. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=2&amp;lid=4&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid5" label-id="423414L5">
+    <lidnr status="officieel">5</lidnr>
+    <al> Een bevel is mede van kracht voor de volgende rechthebbenden op de in het bevel begrepen goederen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=2&amp;lid=5&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid6" label-id="423414L6">
+    <lidnr status="officieel">6</lidnr>
+    <al> Voor zover het registergoederen betreft, doet Onze Minister die het bevel heeft gegeven, de beschikking waarbij het bevel wordt gegeven, zo spoedig mogelijk inschrijven in de openbare registers, bedoeld in <extref doc="jci1.3:c:BWBR0005291&amp;afdeling=2" label-id="2898854" verwijzing-id="125643" bwb-id="BWBR0005291">afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek</extref>. Indien <intref doc="jci1.3:c:BWBR0002098&amp;artikel=4&amp;z=2021-07-01&amp;g=2021-07-01" label-id="423484" verwijzing-id="1624555" bwb-id="BWBR0002098" bwb-ng-variabel-deel="/Artikel4">artikel 4, eerste lid</intref>, toepassing heeft gevonden en het bevel namens een Onzer Ministers is gegeven, doet de gemachtigde persoon de beschikking zo spoedig mogelijk tezamen met de machtiging inschrijven. Het bepaalde in de tweede zin is van overeenkomstige toepassing in gevallen als bedoeld in <intref doc="jci1.3:c:BWBR0002098&amp;artikel=4&amp;z=2021-07-01&amp;g=2021-07-01" label-id="423484" verwijzing-id="1624556" bwb-id="BWBR0002098" bwb-ng-variabel-deel="/Artikel4">artikel 4, tweede lid</intref>, met dien verstande dat de ter inschrijving aangeboden beschikking vermeldt de dagtekening van de beschikking waarbij de betrokken persoon als gemachtigde is aangewezen alsmede de datum en het nummer van de <nadruk type="cur">Nederlandse Staatscourant</nadruk> waarin die beschikking is bekend gemaakt dan wel het tijdstip waarop door middel van de radio-omroep de machtiging van de betrokken persoon is bekend gemaakt. Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek is niet van toepassing. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=2&amp;lid=6&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-487"><publicatiejaar>2018</publicatiejaar><publicatienr>487</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-05">05-12-2018</ondertekeningsdatum><dossierref dossier="34987">34987</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-488"><publicatiejaar>2018</publicatiejaar><publicatienr>488</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-18">18-12-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-01-01">01-01-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002098&amp;artikel=2&amp;g=2021-07-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0002098&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0002098&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2a" stam-id="435673" versie-id="25562762" id="C36488771" label-id="423434" inwerking="2019-01-01" label="Artikel 2a" bron="Stb.2018-487" effect="wijziging" ondertekening_bron="2018-12-05" publicatie_bron="2018-12-27" publicatie_iwt="2018-12-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2a/Lid1" label-id="423434L1">
+    <lidnr status="redactioneel">1</lidnr>
+    <al>Ieder van Onze Ministers is, indien dit naar zijn oordeel noodzakelijk is in het belang van de voorbereiding of de nakoming van bevelen als in <intref doc="jci1.3:c:BWBR0002098&amp;artikel=2&amp;z=2021-07-01&amp;g=2021-07-01" label-id="423414" verwijzing-id="1624557" bwb-id="BWBR0002098" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid</intref>, bedoeld, bevoegd aan de rechthebbende bij algemeen of bijzonder bevel te gelasten om een goed tot het ondergaan van een onderzoek naar zijn toestand of geschiktheid tijdelijk ter beschikking te stellen van degene die het bevel geeft.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=2a&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2a/Lid2" label-id="423434L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>
+      <intref doc="jci1.3:c:BWBR0002098&amp;artikel=2&amp;z=2021-07-01&amp;g=2021-07-01" label-id="423414" verwijzing-id="1624558" bwb-id="BWBR0002098" bwb-ng-variabel-deel="/Artikel2">Artikel 2, tweede lid, eerste volzin, vierde, vijfde en zesde lid</intref>, is van toepassing. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=2a&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2a/Lid3" label-id="423434L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Van ieder krachtens het eerste lid gegeven bevel wordt een afschrift gezonden aan Onze Minister van Economische Zaken en Klimaat. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=2a&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-487"><publicatiejaar>2018</publicatiejaar><publicatienr>487</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-05">05-12-2018</ondertekeningsdatum><dossierref dossier="34987">34987</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-488"><publicatiejaar>2018</publicatiejaar><publicatienr>488</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-18">18-12-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-01-01">01-01-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002098&amp;artikel=2a&amp;g=2021-07-01" onderdeel="artikel=2a" korte-verwijzing="1.0:c:BWBR0002098&amp;artikel=2a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=2a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=2a" korte-verwijzing="jci1.3:c:BWBR0002098&amp;artikel=2a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2b" code="a-2b" stam-id="435693" versie-id="11332112" id="C15798271" label-id="423454" inwerking="2005-03-16" label="Artikel 2b" bron="Stb.2004-686" effect="wijziging" ondertekening_bron="2004-12-02" publicatie_bron="2004-12-28" publicatie_iwt="2005-03-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2b</nr>
+  </kop>
+  <al>Een door Onze Minister van Defensie ten behoeve van de uitvoering van de militaire taak gegeven bevel heeft voorrang boven een door een van Onze andere Ministers gegeven bevel, ook al was dit laatste eerder gegeven. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2004-686"><publicatiejaar>2004</publicatiejaar><publicatienr>686</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-02">02-12-2004</ondertekeningsdatum><dossierref dossier="29514">29514</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-118"><publicatiejaar>2005</publicatiejaar><publicatienr>118</publicatienr><uitgiftedatum isodatum="2005-03-15">15-03-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-02-23">23-02-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-03-16">16-03-2005</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002098&amp;artikel=2b&amp;g=2021-07-01" onderdeel="artikel=2b" korte-verwijzing="1.0:c:BWBR0002098&amp;artikel=2b"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=2b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=2b" korte-verwijzing="jci1.3:c:BWBR0002098&amp;artikel=2b"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="435713" versie-id="26955042" id="C39062371" label-id="423474" inwerking="2021-07-01" label="Artikel 3" bron="Stb.2020-262" effect="wijziging" ondertekening_bron="2020-07-01" publicatie_bron="2020-07-17" publicatie_iwt="2021-04-09" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="423474L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De bekendmaking van een algemeen bevel of van de wijziging of intrekking daarvan geschiedt door plaatsing in de <nadruk type="cur">Staatscourant</nadruk>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=3&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="423474L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien de bekendmaking van een bijzonder bevel niet kan geschieden op de wijze als voorzien in <extref doc="jci1.3:c:BWBR0005537&amp;artikel=3:41" label-id="2814644" verwijzing-id="125650" bwb-id="BWBR0005537">artikel 3:41, eerste lid, van de Algemene wet bestuursrecht</extref>, geschiedt zij door toezending of uitreiking aan de burgemeester van de gemeente waar het goed zich bevindt; deze doet het stuk op een plaats binnen de gemeente in bewaring houden. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=3&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-262"><publicatiejaar>2020</publicatiejaar><publicatienr>262</publicatienr><uitgiftedatum isodatum="2020-07-17">17-07-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-07-01">01-07-2020</ondertekeningsdatum><dossierref dossier="35218">35218</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-176"><publicatiejaar>2021</publicatiejaar><publicatienr>176</publicatienr><uitgiftedatum isodatum="2021-04-09">09-04-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-04-01">01-04-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002098&amp;artikel=3&amp;g=2021-07-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0002098&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0002098&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="a-4" stam-id="435723" versie-id="639392" id="C5192461" label-id="423484" inwerking="1994-01-01" label="Artikel 4" bron="Stb.1992-422" effect="wijziging" ondertekening_bron="1992-06-04" publicatie_iwt="1993-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="423484L1">
+    <lidnr>1</lidnr>
+    <al>Ieder, die op de voet van <intref verwijzing-id="1624559" doc="jci1.3:c:BWBR0002098&amp;artikel=2&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0002098" label-id="423414" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid</intref>, of <intref verwijzing-id="1624560" doc="jci1.3:c:BWBR0002098&amp;artikel=2a&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0002098" label-id="423434" bwb-ng-variabel-deel="/Artikel2a">artikel 2<nadruk type="cur">a</nadruk>, eerste lid</intref>, is aangewezen om namens Onze Minister een bevel of bevelen te geven, moet voorzien zijn van een algemene of bijzondere schriftelijke machtiging, waaruit blijkt gedurende welke termijn de lasthebber daartoe bevoegd is. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=4&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="423484L2">
+    <lidnr>2</lidnr>
+    <al> De eis, in het vorige lid gesteld, geldt niet in spoedeisende gevallen, mits het besluit, waarbij personen zijn aangewezen, die bevoegd zijn namens een Onzer Ministers te gelasten, in de <nadruk type="cur">Nederlandse Staatscourant</nadruk> of door middel van de radio-omroep bekend gemaakt is. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=4&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>422</publicatienr><ondertekeningsdatum isodatum="1992-06-04">04-06-1992</ondertekeningsdatum><dossierref dossier="22061">22061</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>693</publicatienr><uitgiftedatum isodatum="1993-12-23">23-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002098&amp;artikel=4&amp;g=2021-07-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0002098&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=4&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0002098&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="a-5" stam-id="435743" versie-id="639412" id="C639411" label-id="423504" inwerking="1952-08-21" label="Artikel 5" bron="Stb.1952-407" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid1" label-id="423504L1">
+    <lidnr>1</lidnr>
+    <al>Indien ingevolge een bevel de rechthebbenden schade lijden, worden zij ten laste van het Rijk schadeloos gesteld overeenkomstig door Ons bij algemene maatregel van bestuur te stellen regelen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=5&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid2" label-id="423504L2">
+    <lidnr>2</lidnr>
+    <al> De bedragen der schadeloosstellingen worden, zo mogelijk, door of namens Onze Minister, die het bevel heeft gegeven of doen geven, en de in het vorig lid genoemde rechthebbenden in onderling overleg vastgesteld. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=5&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid3" label-id="423504L3">
+    <lidnr>3</lidnr>
+    <al> Aan de rechthebbende, met wie ten aanzien van de schadeloosstelling overeenstemming wordt bereikt, wordt deze terstond tegen kwitantie uitbetaald. Kan de schadeloosstelling niet terstond worden uitbetaald, dan wordt aan de rechthebbende een door hem en door of namens Onze Minister ondertekend bewijs afgegeven, vermeldende: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Artikel5/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>Onze Minister, die het bevel heeft gegeven of doen geven; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=5&amp;lid=3&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel5/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de naam, de voornaam, de hoedanigheid en de woonplaats van de rechthebbende; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=5&amp;lid=3&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel5/Lid3/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>een omschrijving van het in het bevel begrepen goed, alsmede van de strekking van het bevel; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=5&amp;lid=3&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel5/Lid3/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>het overeengekomen bedrag der schadeloosstelling; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=5&amp;lid=3&amp;o=d&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel5/Lid3/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>degene, die het bedrag der schadeloosstelling zal uitbetalen. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=5&amp;lid=3&amp;o=e&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=e"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=5&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>407</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2419">2419</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>407</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2419">2419</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-21">21-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002098&amp;artikel=5&amp;g=2021-07-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0002098&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=5&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0002098&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="a-6" stam-id="435753" versie-id="639422" id="C639421" label-id="423514" inwerking="1952-08-21" label="Artikel 6" bron="Stb.1952-407" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid1" label-id="423514L1">
+    <lidnr>1</lidnr>
+    <al>Aan een rechthebbende, met wie ten aanzien van de schadeloosstelling, geen overeenstemming wordt bereikt, wordt een door of namens Onze Minister, die het bevel heeft gegeven of doen geven, gedagtekend en ondertekend bewijs verstrekt, hetwelk de bedragen vermeldt, die als schadeloosstelling zijn aangeboden, onderscheidenlijk verlangd. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=6&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid2" label-id="423514L2">
+    <lidnr>2</lidnr>
+    <al> De schadeloosstelling wordt alsdan in hoogste ressort vastgesteld door commissiën, welke daartoe door Ons worden ingesteld. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=6&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid3" label-id="423514L3">
+    <lidnr>3</lidnr>
+    <al> De rechthebbende dient bij ongezegeld verzoekschrift zijn vordering tot het bedrag, waarop hij meent recht te hebben, binnen twee maanden, na verzending van het in het eerste lid vermelde bewijs, bij de bevoegde commissie in. Indien de rechthebbende niet binnen deze termijn een verzoekschrift heeft ingediend, kan Onze Minister, die het bevel heeft gegeven of doen geven, een verzoekschrift tot vaststelling van de schadeloosstelling in hoogste ressort bij de bevoegde commissie indienen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=6&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid4" label-id="423514L4">
+    <lidnr>4</lidnr>
+    <al> Wij stellen bij algemene maatregel van bestuur regelen vast over de samenstelling, benoeming, werkwijze en bevoegdheid der commissiën. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=6&amp;lid=4&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid5" label-id="423514L5">
+    <lidnr>5</lidnr>
+    <al> De overeenkomstig het tweede lid vastgestelde schadeloosstelling wordt terstond betaalbaar gesteld. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=6&amp;lid=5&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>407</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2419">2419</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>407</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2419">2419</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-21">21-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002098&amp;artikel=6&amp;g=2021-07-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0002098&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=6&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0002098&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="c1-7" stam-id="435773" versie-id="639632" id="C5192471" label-id="423534" inwerking="1998-01-01" label="Artikel 7" bron="Stb.1997-510" effect="wijziging" ondertekening_bron="1997-11-06" publicatie_bron="1997-11-18" publicatie_iwt="1997-12-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid1" label-id="423534L1">
+    <lidnr>1</lidnr>
+    <al>Met het toezicht op de naleving van het bepaalde bij of krachtens <intref verwijzing-id="1624561" doc="jci1.3:c:BWBR0002098&amp;artikel=2&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0002098" label-id="423414" bwb-ng-variabel-deel="/Artikel2">artikel 2</intref> of 2<nadruk type="cur">a</nadruk> zijn belast de bij besluit van Onze Ministers wie het aangaat aangewezen personen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=7&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid2" label-id="423534L2">
+    <lidnr>2</lidnr>
+    <al>Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de <nadruk type="cur">Staatscourant</nadruk>. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=7&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid3" label-id="423534L3">
+    <lidnr>3</lidnr>
+    <al>De toezichthouder beschikt niet over de bevoegdheden, genoemd in de <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:18" verwijzing-id="125669" bwb-id="BWBR0005537" label-id="2820054">artikelen 5:18</extref> en <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:19" verwijzing-id="125673" bwb-id="BWBR0005537" label-id="2820064">5:19 van de Algemene wet bestuursrecht</extref>. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=7&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid4" label-id="423534L4">
+    <lidnr>4</lidnr>
+    <al>De toezichthouder is bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=7&amp;lid=4&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid5" label-id="423534L5">
+    <lidnr>5</lidnr>
+    <al>Een machtiging als bedoeld in <extref doc="jci1.3:c:BWBR0006763&amp;artikel=2" verwijzing-id="125677" bwb-id="BWBR0006763" label-id="1202434">artikel 2 van de Algemene wet op het binnentreden</extref> kan worden gegeven door Onze Minister, die een bevel heeft gegeven of doen geven. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=7&amp;lid=5&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-510"><publicatiejaar>1997</publicatiejaar><publicatienr>510</publicatienr><uitgiftedatum isodatum="1997-11-18">18-11-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-11-06">06-11-1997</ondertekeningsdatum><dossierref dossier="25280">25280</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-581"><publicatiejaar>1997</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002098&amp;artikel=7&amp;g=2021-07-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0002098&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=7&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0002098&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" code="c1-8" stam-id="435783" versie-id="16494152" id="C22716481" label-id="423544" inwerking="2009-07-01" label="Artikel 8" bron="Stb.2009-265" effect="wijziging" ondertekening_bron="2009-06-25" publicatie_bron="2009-06-30" publicatie_iwt="2009-06-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid1" label-id="423544L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister, die een bevel heeft gegeven of doen geven, is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=8&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid2" label-id="423544L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het personeel van degene tot wie het bevel gericht is, is verplicht de diensten te verrichten die ter uitvoering van het bevel worden gevorderd door degene die met de uitvoering van de in het eerste lid genoemde bestuursdwang belast is. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=8&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-265"><publicatiejaar>2009</publicatiejaar><publicatienr>265</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum><dossierref dossier="31124">31124</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-266"><publicatiejaar>2009</publicatiejaar><publicatienr>266</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-07-01">01-07-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002098&amp;artikel=8&amp;g=2021-07-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0002098&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=8&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0002098&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" code="a-9" stam-id="435803" versie-id="639472" id="C5192481" label-id="423564" inwerking="1988-04-30" label="Artikel 9" bron="Stb.1988-77" effect="wijziging" ondertekening_bron="1988-02-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>9</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid1" label-id="423564L1">
+    <lidnr>1</lidnr>
+    <al>Met gevangenisstraf van ten hoogste twee jaar of geldboete van de vijfde categorie wordt gestraft hij die opzettelijk: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Artikel9/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>een krachtens <intref verwijzing-id="1624562" doc="jci1.3:c:BWBR0002098&amp;artikel=2&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0002098" label-id="423414" bwb-ng-variabel-deel="/Artikel2">artikel 2</intref> gegeven bevel niet nakomt; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=9&amp;lid=1&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel9/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>met betrekking tot zodanig bevel <intref verwijzing-id="1624563" doc="jci1.3:c:BWBR0002098&amp;artikel=2&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0002098" label-id="423414" bwb-ng-variabel-deel="/Artikel2">artikel 2, vierde lid</intref>, overtreedt; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=9&amp;lid=1&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel9/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de nakoming van zodanig bevel of van een in verband met zodanig bevel krachtens <intref verwijzing-id="1624564" doc="jci1.3:c:BWBR0002098&amp;artikel=8&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0002098" label-id="423544" bwb-ng-variabel-deel="/Artikel8">artikel 8, eerste lid</intref>, getroffen maatregel verhindert of belemmert; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=9&amp;lid=1&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel9/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>een in verband met zodanige maatregel krachtens <intref verwijzing-id="1624565" doc="jci1.3:c:BWBR0002098&amp;artikel=8&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0002098" label-id="423544" bwb-ng-variabel-deel="/Artikel8">artikel 8, tweede lid</intref>, van hem gevorderde dienst niet verleent. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=9&amp;lid=1&amp;o=d&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=9&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid2" label-id="423564L2">
+    <lidnr>2</lidnr>
+    <al> Met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft hij, aan wiens schuld te wijten is: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Artikel9/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het niet nakomen van een krachtens <intref verwijzing-id="1624566" doc="jci1.3:c:BWBR0002098&amp;artikel=2&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0002098" label-id="423414" bwb-ng-variabel-deel="/Artikel2">artikel 2</intref> gegeven bevel; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=9&amp;lid=2&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel9/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>het overtreden met betrekking tot zodanig bevel van <intref verwijzing-id="1624567" doc="jci1.3:c:BWBR0002098&amp;artikel=2&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0002098" label-id="423414" bwb-ng-variabel-deel="/Artikel2">artikel 2, vierde lid</intref>; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=9&amp;lid=2&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel9/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>het verhinderen of belemmeren van de nakoming van zodanig bevel of van een in verband met zodanig bevel krachtens <intref verwijzing-id="1624568" doc="jci1.3:c:BWBR0002098&amp;artikel=8&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0002098" label-id="423544" bwb-ng-variabel-deel="/Artikel8">artikel 8, eerste lid</intref>, getroffen maatregel; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=9&amp;lid=2&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel9/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>het niet verlenen van een in verband met zodanige maatregel krachtens <intref verwijzing-id="1624569" doc="jci1.3:c:BWBR0002098&amp;artikel=8&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0002098" label-id="423544" bwb-ng-variabel-deel="/Artikel8">artikel 8, tweede lid</intref>, van hem gevorderde dienst. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=9&amp;lid=2&amp;o=d&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=9&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid3" label-id="423564L3">
+    <lidnr>3</lidnr>
+    <al> Met hechtenis van ten hoogste een maand of geldboete van de tweede categorie wordt gestraft hij die: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Artikel9/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>een krachtens <intref verwijzing-id="1624570" doc="jci1.3:c:BWBR0002098&amp;artikel=2a&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0002098" label-id="423434" bwb-ng-variabel-deel="/Artikel2a">artikel 2<nadruk type="cur">a</nadruk></intref> gegeven bevel niet nakomt; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=9&amp;lid=3&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel9/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>met betrekking tot zodanig bevel <intref verwijzing-id="1624571" doc="jci1.3:c:BWBR0002098&amp;artikel=2&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0002098" label-id="423414" bwb-ng-variabel-deel="/Artikel2">artikel 2, vierde lid</intref>, overtreedt; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=9&amp;lid=3&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel9/Lid3/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de nakoming van zodanig bevel of van een in verband met zodanig bevel krachtens <intref verwijzing-id="1624572" doc="jci1.3:c:BWBR0002098&amp;artikel=8&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0002098" label-id="423544" bwb-ng-variabel-deel="/Artikel8">artikel 8, eerste lid</intref>, getroffen maatregel verhindert of belemmert; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=9&amp;lid=3&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel9/Lid3/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>een in verband met zodanige maatregel krachtens <intref verwijzing-id="1624573" doc="jci1.3:c:BWBR0002098&amp;artikel=8&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0002098" label-id="423544" bwb-ng-variabel-deel="/Artikel8">artikel 8, tweede lid</intref>, van hem gevorderde dienst niet verleent. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=9&amp;lid=3&amp;o=d&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=9&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid4" label-id="423564L4">
+    <lidnr>4</lidnr>
+    <al> De in het eerste en het tweede lid strafbaar gestelde feiten zijn misdrijven; de in het derde lid strafbaar gestelde feiten zijn overtredingen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=9&amp;lid=4&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>77</publicatienr><ondertekeningsdatum isodatum="1988-02-11">11-02-1988</ondertekeningsdatum><dossierref dossier="19803">19803</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>172</publicatienr><ondertekeningsdatum isodatum="1988-04-20">20-04-1988</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1988-04-30">30-04-1988</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002098&amp;artikel=9&amp;g=2021-07-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0002098&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=9&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0002098&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" stam-id="435813" versie-id="639482" id="C639481" label-id="423574" inwerking="1976-09-01" label="Artikel 10" bron="Stb.1976-377" effect="vervallen" ondertekening_bron="1976-06-23" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>10</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1976</publicatiejaar><publicatienr>377</publicatienr><ondertekeningsdatum isodatum="1976-06-23">23-06-1976</ondertekeningsdatum><dossierref dossier="13655">13655</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1976</publicatiejaar><publicatienr>377</publicatienr><ondertekeningsdatum isodatum="1976-06-23">23-06-1976</ondertekeningsdatum><dossierref dossier="13655">13655</dossierref></publicatie><inwerkingtreding.datum isodatum="1976-09-01">01-09-1976</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002098&amp;artikel=10&amp;g=2021-07-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0002098&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=10&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0002098&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" stam-id="435833" versie-id="27628642" id="C39206071" label-id="423594" inwerking="2021-07-01" label="Artikel 11" bron="Stb.2021-135" effect="wijziging" ondertekening_bron="2021-03-03" publicatie_bron="2021-03-17" publicatie_iwt="2021-06-02" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid1" label-id="423594L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Met de opsporing van de in <intref doc="jci1.3:c:BWBR0002098&amp;artikel=9&amp;z=2021-07-01&amp;g=2021-07-01" label-id="423564" verwijzing-id="1624553" bwb-id="BWBR0002098" bwb-ng-variabel-deel="/Artikel9">artikel 9</intref> strafbaar gestelde feiten zijn, onverminderd <extref doc="jci1.3:c:BWBR0001903&amp;artikel=141" label-id="3003844" verwijzing-id="125687" bwb-id="BWBR0001903">artikel 141 van het Wetboek van Strafvordering</extref>, belast de daartoe door of vanwege een van Onze Ministers aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van feiten, strafbaar gesteld in de <extref doc="jci1.3:c:BWBR0001854&amp;artikel=179" label-id="2966294,2966304,2966314,2966324" verwijzing-id="2224807" bwb-id="BWBR0001854">artikelen 179 tot en met 182</extref> en <extref doc="jci1.3:c:BWBR0001854&amp;artikel=184" label-id="2966344" verwijzing-id="125696" bwb-id="BWBR0001854">184 van het Wetboek van Strafrecht</extref>, voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=11&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid2" label-id="423594L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de <nadruk type="cur">Staatscourant</nadruk>. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=11&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid3" label-id="423594L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:13" label-id="2820004" verwijzing-id="2204517" bwb-id="BWBR0005537">artikelen 5:13</extref>, <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:15" label-id="2820024" verwijzing-id="2204518" bwb-id="BWBR0005537">5:15</extref>, <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:16" label-id="2820034" verwijzing-id="2204519" bwb-id="BWBR0005537">5:16</extref>, <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:17" label-id="2820044" verwijzing-id="2204520" bwb-id="BWBR0005537">5:17</extref> en <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:20" label-id="2820074" verwijzing-id="2204521" bwb-id="BWBR0005537">5:20, eerste en tweede lid, van de Algemene wet bestuursrecht</extref> zijn van overeenkomstige toepassing ten aanzien van de in het eerste lid bedoelde ambtenaren. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=11&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid4" label-id="423594L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De in het eerste lid bedoelde ambtenaren zijn bevoegd bij het opsporen van de in <intref doc="jci1.3:c:BWBR0002098&amp;artikel=9&amp;z=2021-07-01&amp;g=2021-07-01" label-id="423564" verwijzing-id="1624554" bwb-id="BWBR0002098" bwb-ng-variabel-deel="/Artikel9">artikel 9</intref> strafbaar gestelde feiten, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=11&amp;lid=4&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-135"><publicatiejaar>2021</publicatiejaar><publicatienr>135</publicatienr><uitgiftedatum isodatum="2021-03-17">17-03-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-03-03">03-03-2021</ondertekeningsdatum><dossierref dossier="35256">35256</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-254"><publicatiejaar>2021</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2021-06-02">02-06-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-05-18">18-05-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002098&amp;artikel=11&amp;g=2021-07-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0002098&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=11&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0002098&amp;artikel=11"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel12" code="a-12" stam-id="435843" versie-id="639672" id="C639671" label-id="423604" inwerking="1998-01-01" label="Artikel 12" bron="Stb.1997-510" effect="vervallen" ondertekening_bron="1997-11-06" publicatie_bron="1997-11-18" publicatie_iwt="1997-12-18" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>12</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-1997-510"><publicatiejaar>1997</publicatiejaar><publicatienr>510</publicatienr><uitgiftedatum isodatum="1997-11-18">18-11-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-11-06">06-11-1997</ondertekeningsdatum><dossierref dossier="25280">25280</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-1997-581"><publicatiejaar>1997</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002098&amp;artikel=12&amp;g=2021-07-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0002098&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=12&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0002098&amp;artikel=12"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13" stam-id="435863" versie-id="639532" id="C639531" label-id="423624" inwerking="1967-08-09" label="Artikel 13" bron="Stb.1967-377" effect="vervallen" ondertekening_bron="1967-06-30" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>13</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1967</publicatiejaar><publicatienr>377</publicatienr><ondertekeningsdatum isodatum="1967-06-30">30-06-1967</ondertekeningsdatum><dossierref dossier="8538">8538</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1967</publicatiejaar><publicatienr>377</publicatienr><ondertekeningsdatum isodatum="1967-06-30">30-06-1967</ondertekeningsdatum><dossierref dossier="8538">8538</dossierref></publicatie><inwerkingtreding.datum isodatum="1967-08-09">09-08-1967</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002098&amp;artikel=13&amp;g=2021-07-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0002098&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=13&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0002098&amp;artikel=13"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel14" code="a-14" stam-id="435873" versie-id="11332122" id="C15798281" label-id="423634" inwerking="2005-03-16" label="Artikel 14" bron="Stb.2004-686" effect="wijziging" ondertekening_bron="2004-12-02" publicatie_bron="2004-12-28" publicatie_iwt="2005-03-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>14</nr>
+  </kop>
+  <al>De maatregelen, krachtens deze wet genomen, blijven zonder gevolg, voorzover zij onverenigbaar zijn met maatregelen, krachtens enige andere wet genomen ten behoeve van de uitvoering van de militaire taak. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2004-686"><publicatiejaar>2004</publicatiejaar><publicatienr>686</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-02">02-12-2004</ondertekeningsdatum><dossierref dossier="29514">29514</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-118"><publicatiejaar>2005</publicatiejaar><publicatienr>118</publicatienr><uitgiftedatum isodatum="2005-03-15">15-03-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-02-23">23-02-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-03-16">16-03-2005</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002098&amp;artikel=14&amp;g=2021-07-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0002098&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=14&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0002098&amp;artikel=14"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel15" stam-id="6542943" versie-id="11333042" id="C15798301" label-id="6531384" inwerking="2005-03-16" label="Artikel 15" bron="Stb.2004-686" effect="nieuw" ondertekening_bron="2004-12-02" publicatie_bron="2004-12-28" publicatie_iwt="2005-03-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>15</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet beschikbaarheid goederen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2004-686"><publicatiejaar>2004</publicatiejaar><publicatienr>686</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-02">02-12-2004</ondertekeningsdatum><dossierref dossier="29514">29514</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2005-118"><publicatiejaar>2005</publicatiejaar><publicatienr>118</publicatienr><uitgiftedatum isodatum="2005-03-15">15-03-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-02-23">23-02-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-03-16">16-03-2005</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002098&amp;artikel=15&amp;g=2021-07-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0002098&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;artikel=15&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0002098&amp;artikel=15"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="435883" versie-id="639562" id="C639561" label-id="423654" inwerking="1952-08-21" bron="Stb.1952-407" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven ten Paleize Soestdijk</plaats>
+      <datum isodatum="">10 Juli 1952. </datum>
+    </dagtekening>
+    <koning>JULIANA. </koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister-President, Minister van Algemene Zaken, </functie>
+    <naam>
+      <achternaam>W. DREES.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Binnenlandse Zaken, </functie>
+    <naam>
+      <achternaam>BEEL.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister zonder Portefeuille, </functie>
+    <naam>
+      <achternaam>TEULINGS.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Economische Zaken, </functie>
+    <naam>
+      <achternaam>VAN DEN BRINK.</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de eerste Augustus 1952. </datum>
+    <ondertekening>
+      <functie>De Minister van Justitie a.i., </functie>
+      <naam>
+        <achternaam>BEEL.</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>407</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2419">2419</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>407</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2419">2419</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-21">21-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2004-686"><publicatiejaar>2004</publicatiejaar><publicatienr>686</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-02">02-12-2004</ondertekeningsdatum><dossierref dossier="29514">29514</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2004-686"><publicatiejaar>2004</publicatiejaar><publicatienr>686</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-02">02-12-2004</ondertekeningsdatum><dossierref dossier="29514">29514</dossierref></publicatie><inwerkingtreding.datum isodatum="2004-12-02">02-12-2004</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002098&amp;g=2021-07-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0002098"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002098&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0002098"/></jcis></meta-data></wetgeving></toestand>

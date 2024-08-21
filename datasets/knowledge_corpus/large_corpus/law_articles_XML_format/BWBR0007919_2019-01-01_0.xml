@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0007919/2019-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0007919" inwerkingtreding="2019-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="1555623" versie-id="25563672" id="C36489821" label-id="1511324" inwerkingtredingsdatum="2018-12-05">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="1555673" versie-id="2307892" id="C2307891" label-id="1511154" inwerking="1998-01-01" bron="Stb.1996-180" effect="nieuwe-regeling" ondertekening_bron="1996-02-29" publicatie_bron="1996-03-26" publicatie_iwt="1997-12-16" status="goed">Wet van 29 februari 1996, houdende vaststelling regels inzake de verstrekking van subsidies door de Minister van Economische Zaken<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-180"><publicatiejaar>1996</publicatiejaar><publicatienr>180</publicatienr><uitgiftedatum isodatum="1996-03-26">26-03-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-02-29">29-02-1996</ondertekeningsdatum><dossierref dossier="24416">24416</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-637"><publicatiejaar>1997</publicatiejaar><publicatienr>637</publicatienr><uitgiftedatum isodatum="1997-12-16">16-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-04">04-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="1555683" versie-id="25563702" id="C36489861" label-id="1511164" inwerking="2019-01-01" bron="Stb.2018-487" effect="wijziging" ondertekening_bron="2018-12-05" publicatie_bron="2018-12-27" publicatie_iwt="2018-12-27">Kaderwet EZK- en LNV-subsidies<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-487"><publicatiejaar>2018</publicatiejaar><publicatienr>487</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-05">05-12-2018</ondertekeningsdatum><dossierref dossier="34987">34987</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-488"><publicatiejaar>2018</publicatiejaar><publicatienr>488</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-18">18-12-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-01-01">01-01-2019</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="1555693" versie-id="2307912" id="C32104081" label-id="1511174" inwerking="1998-01-01" bron="Stb.1996-180" effect="nieuwe-regeling" ondertekening_bron="1996-02-29" publicatie_bron="1996-03-26" publicatie_iwt="1997-12-16" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo wij in overweging genomen hebben, dat de totstandkoming van de derde tranche van de <extref doc="jci1.3:c:BWBR0005537" label-id="2816734" verwijzing-id="527729" bwb-id="BWBR0005537">Algemene wet bestuursrecht</extref> het wenselijk maakt de Kaderwet verstrekking financiële middelen EZ en de Kaderwet specifieke uitkeringen EZ te vervangen door nieuwe regels die een wettelijk kader scheppen voor de verstrekking van subsidies door de Minister van Economische Zaken;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-180"><publicatiejaar>1996</publicatiejaar><publicatienr>180</publicatienr><uitgiftedatum isodatum="1996-03-26">26-03-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-02-29">29-02-1996</ondertekeningsdatum><dossierref dossier="24416">24416</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-637"><publicatiejaar>1997</publicatiejaar><publicatienr>637</publicatienr><uitgiftedatum isodatum="1997-12-16">16-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-04">04-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="1555703" versie-id="25563652" id="C36489801" label-id="1511184" inwerking="2019-01-01" label="Artikel 1" bron="Stb.2018-487" effect="wijziging" ondertekening_bron="2018-12-05" publicatie_bron="2018-12-27" publicatie_iwt="2018-12-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Minister: Onze Minister van Economische Zaken en Klimaat onderscheidenlijk Onze Minister van Landbouw, Natuur en Voedselkwaliteit, ieder voor zover het betreft het beleidsterrein waarvoor hij verantwoordelijk is, bedoeld in <intref doc="jci1.3:c:BWBR0007919&amp;artikel=2&amp;z=2019-01-01&amp;g=2019-01-01" label-id="1511194" verwijzing-id="2920902" bwb-id="BWBR0007919" bwb-ng-variabel-deel="/Artikel2">artikel 2</intref> onderscheidenlijk <intref doc="jci1.3:c:BWBR0007919&amp;artikel=2a&amp;z=2019-01-01&amp;g=2019-01-01" label-id="14882334" verwijzing-id="2920903" bwb-id="BWBR0007919" bwb-ng-variabel-deel="/Artikel2a">artikel 2a</intref>.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-487"><publicatiejaar>2018</publicatiejaar><publicatienr>487</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-05">05-12-2018</ondertekeningsdatum><dossierref dossier="34987">34987</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-488"><publicatiejaar>2018</publicatiejaar><publicatienr>488</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-18">18-12-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-01-01">01-01-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007919&amp;artikel=1&amp;g=2019-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0007919&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0007919&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" stam-id="1555713" versie-id="25563662" id="C36489811" label-id="1511194" inwerking="2019-01-01" label="Artikel 2" bron="Stb.2018-487" effect="wijziging" ondertekening_bron="2018-12-05" publicatie_bron="2018-12-27" publicatie_iwt="2018-12-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="1511194L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister van Economische Zaken en Klimaat kan subsidies verstrekken voor activiteiten die passen in het beleid inzake:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>energie en duurzaamheid;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2&amp;lid=1&amp;o=a&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>innovatie;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2&amp;lid=1&amp;o=b&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>mededinging;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2&amp;lid=1&amp;o=c&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>ondernemerschap;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2&amp;lid=1&amp;o=d&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>post;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2&amp;lid=1&amp;o=e&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>regionale economische ontwikkeling;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2&amp;lid=1&amp;o=f&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>telecommunicatie;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2&amp;lid=1&amp;o=g&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=g"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelh">
+        <li.nr>h.</li.nr>
+        <al>klimaat.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2&amp;lid=1&amp;o=h&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=h"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="1511194L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister van Economische Zaken en Klimaat kan voorts subsidies verstrekken voor activiteiten op het gebied van de onderwerpen die genoemd zijn in de begrotingsstaat, onderdeel uitgaven en verplichtingen, behorend bij de wet, houdende vaststelling van de begroting van uitgaven en ontvangsten van het Ministerie van Economische Zaken en Klimaat voor het desbetreffende jaar, of voor een voorafgaand jaar voor zover daarin een beschikking tot subsidieverlening is gegeven. Indien bij de aanvang van enig jaar bedoelde wet nog niet in werking is getreden, wordt tot die inwerkingtreding het voorstel daartoe in aanmerking genomen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-487"><publicatiejaar>2018</publicatiejaar><publicatienr>487</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-05">05-12-2018</ondertekeningsdatum><dossierref dossier="34987">34987</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-488"><publicatiejaar>2018</publicatiejaar><publicatienr>488</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-18">18-12-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-01-01">01-01-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007919&amp;artikel=2&amp;g=2019-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0007919&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2a" stam-id="14931583" versie-id="25563682" id="C36489831" label-id="14882334" inwerking="2019-01-01" label="Artikel 2a" bron="Stb.2018-487" effect="nieuw" ondertekening_bron="2018-12-05" publicatie_bron="2018-12-27" publicatie_iwt="2018-12-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2a/Lid1" label-id="14882334L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister van Landbouw, Natuur en Voedselkwaliteit kan subsidies verstrekken voor activiteiten die passen in het beleid inzake:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2a/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>bosbouw;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2a&amp;lid=1&amp;o=a&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2a/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>dierenwelzijn;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2a&amp;lid=1&amp;o=b&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2a/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>landbouw;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2a&amp;lid=1&amp;o=c&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2a/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>natuur;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2a&amp;lid=1&amp;o=d&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2a/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>groen onderzoek;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2a&amp;lid=1&amp;o=e&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2a/Lid1/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>regionale economische ontwikkeling;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2a&amp;lid=1&amp;o=f&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2a/Lid1/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>visserij;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2a&amp;lid=1&amp;o=g&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=g"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2a/Lid1/Onderdeelh">
+        <li.nr>h.</li.nr>
+        <al>voedselkwaliteit.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2a&amp;lid=1&amp;o=h&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=h"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2a&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2a/Lid2" label-id="14882334L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister van Landbouw, Natuur en Voedselkwaliteit kan voorts subsidies verstrekken voor activiteiten op het gebied van de onderwerpen die genoemd zijn in de begrotingsstaat, onderdeel uitgaven en verplichtingen, behorend bij de wet, houdende vaststelling van de begroting van uitgaven en ontvangsten van het Ministerie van Landbouw, Natuur en Voedselkwaliteit voor het desbetreffende jaar, of voor een voorafgaand jaar voor zover daarin een beschikking tot subsidieverlening is gegeven. Indien bij de aanvang van enig jaar bedoelde wet nog niet in werking is getreden, wordt tot die inwerkingtreding het voorstel daartoe in aanmerking genomen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2a&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2018-487"><publicatiejaar>2018</publicatiejaar><publicatienr>487</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-05">05-12-2018</ondertekeningsdatum><dossierref dossier="34987">34987</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2018-488"><publicatiejaar>2018</publicatiejaar><publicatienr>488</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-18">18-12-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-01-01">01-01-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007919&amp;artikel=2a&amp;g=2019-01-01" onderdeel="artikel=2a" korte-verwijzing="1.0:c:BWBR0007919&amp;artikel=2a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2a&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=2a" korte-verwijzing="jci1.3:c:BWBR0007919&amp;artikel=2a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="1555723" versie-id="25029312" id="C35904171" label-id="1511204" inwerking="2018-07-01" label="Artikel 3" bron="Stb.2018-142" effect="wijziging" ondertekening_bron="2018-04-25" publicatie_bron="2018-05-24" publicatie_iwt="2018-06-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="1511204L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onverminderd <extref doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=3" label-id="186674" verwijzing-id="2598754" bwb-id="BWBR0008290">hoofdstuk 3 van de Financiële-verhoudingswet</extref> kunnen bij of krachtens algemene maatregel van bestuur of bij regeling van Onze Minister de activiteiten waarvoor subsidie kan worden verstrekt, nader worden bepaald alsmede andere criteria voor die verstrekking worden vastgesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=3&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="1511204L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Bij of krachtens algemene maatregel van bestuur of bij regeling van Onze Minister kunnen voorts regels worden vastgesteld met betrekking tot: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel3/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het bedrag van de subsidie dan wel de wijze waarop dit bedrag wordt bepaald;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=3&amp;lid=2&amp;o=a&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de aanvraag van een subsidie en de besluitvorming daarover;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=3&amp;lid=2&amp;o=b&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de voorwaarden waaronder de subsidie wordt verleend;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=3&amp;lid=2&amp;o=c&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de verplichtingen voor de subsidie-ontvanger;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=3&amp;lid=2&amp;o=d&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid2/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>de vaststelling van de subsidie;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=3&amp;lid=2&amp;o=e&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid2/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>intrekking en wijziging van de subsidieverlening of -vaststelling;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=3&amp;lid=2&amp;o=f&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid2/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>de betaling van de subsidie en het verlenen van voorschotten;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=3&amp;lid=2&amp;o=g&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=g"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid2/Onderdeelh">
+        <li.nr>h.</li.nr>
+        <al>het verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk, bedoeld in <extref doc="jci1.3:c:BWBR0005537&amp;artikel=4:24" label-id="2819224" verwijzing-id="2598755" bwb-id="BWBR0005537">artikel 4:24 van de Algemene wet bestuursrecht</extref>.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=3&amp;lid=2&amp;o=h&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=h"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=3&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid3" label-id="1511204L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Bij of krachtens algemene maatregel van bestuur of een ministeriële regeling als bedoeld in het eerste lid wordt voorzien in de vaststelling van een subsidieplafond en de regeling van de wijze van verdeling ervan, tenzij Onze Minister van Financiën heeft ingestemd met het achterwege laten daarvan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=3&amp;lid=3&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid4" label-id="1511204L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>In afwijking van <extref doc="jci1.3:c:BWBR0005537&amp;artikel=4:21" label-id="2819194" verwijzing-id="527732" bwb-id="BWBR0005537">artikel 4:21, derde lid, van de Algemene wet bestuursrecht</extref> is titel 4.2 van die wet van toepassing op subsidies die worden verstrekt op grond van een algemene maatregel van bestuur of ministeriële regeling als bedoeld in het eerste lid, die uitsluitend voorziet in verstrekking aan rechtspersonen die krachtens publiekrecht zijn ingesteld. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=3&amp;lid=4&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid5" label-id="1511204L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Onze Minister kan de uitvoering van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in het eerste lid, met inbegrip van het nemen van besluiten op grond van deze regels, delegeren aan andere bestuursorganen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=3&amp;lid=5&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-142"><publicatiejaar>2018</publicatiejaar><publicatienr>142</publicatienr><uitgiftedatum isodatum="2018-05-24">24-05-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-04-25">25-04-2018</ondertekeningsdatum><dossierref dossier="34860">34860</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-207"><publicatiejaar>2018</publicatiejaar><publicatienr>207</publicatienr><uitgiftedatum isodatum="2018-06-29">29-06-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-06-19">19-06-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-07-01">01-07-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007919&amp;artikel=3&amp;g=2019-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0007919&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=3&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0007919&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="a-4" stam-id="1555733" versie-id="2308102" id="C5230521" label-id="1511214" inwerking="1998-01-01" label="Artikel 4" bron="Stb.1997-510" effect="wijziging" ondertekening_bron="1997-11-06" publicatie_bron="1997-11-18" publicatie_iwt="1997-12-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>4</nr>
+  </kop>
+  <al>Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in <intref verwijzing-id="1631397" doc="jci1.3:c:BWBR0007919&amp;artikel=3&amp;z=2019-01-01&amp;g=2019-01-01" bwb-id="BWBR0007919" label-id="1511204" bwb-ng-variabel-deel="/Artikel3">artikel 3</intref>, tenzij het een subsidie betreft: </al>
+  <lijst>
+    <li bwb-ng-variabel-deel="/Artikel4/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>als bedoeld in <extref doc="jci1.3:c:BWBR0005537&amp;artikel=4:23" verwijzing-id="527733" bwb-id="BWBR0005537" label-id="2819214">artikel 4:23, derde lid, van de Algemene wet bestuursrecht</extref> of</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=4&amp;o=a&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel4/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>waarvan de voorgenomen verstrekking tevoren schriftelijk is medegedeeld aan de beide Kamers der Staten-Generaal.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=4&amp;o=b&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-180"><publicatiejaar>1996</publicatiejaar><publicatienr>180</publicatienr><uitgiftedatum isodatum="1996-03-26">26-03-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-02-29">29-02-1996</ondertekeningsdatum><dossierref dossier="24416">24416</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-637"><publicatiejaar>1997</publicatiejaar><publicatienr>637</publicatienr><uitgiftedatum isodatum="1997-12-16">16-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-04">04-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-510"><publicatiejaar>1997</publicatiejaar><publicatienr>510</publicatienr><uitgiftedatum isodatum="1997-11-18">18-11-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-11-06">06-11-1997</ondertekeningsdatum><dossierref dossier="25280">25280</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-581"><publicatiejaar>1997</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007919&amp;artikel=4&amp;g=2019-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0007919&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=4&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0007919&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" stam-id="1555743" versie-id="25029462" id="C35904161" label-id="1511224" inwerking="2018-07-01" label="Artikel 5" bron="Stb.2018-142" effect="wijziging" ondertekening_bron="2018-04-25" publicatie_bron="2018-05-24" publicatie_iwt="2018-06-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <al>Indien de in <intref doc="jci1.3:c:BWBR0007919&amp;artikel=3&amp;z=2019-01-01&amp;g=2019-01-01" label-id="1511204" verwijzing-id="2598756" bwb-id="BWBR0007919" bwb-ng-variabel-deel="/Artikel3">artikel 3, eerste lid</intref>, bedoelde regels bepalen dat de subsidie kan worden verstrekt in de openbare lichamen Bonaire, Sint Eustatius of Saba, is deze wet voor die subsidie aldaar van toepassing.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-142"><publicatiejaar>2018</publicatiejaar><publicatienr>142</publicatienr><uitgiftedatum isodatum="2018-05-24">24-05-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-04-25">25-04-2018</ondertekeningsdatum><dossierref dossier="34860">34860</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-207"><publicatiejaar>2018</publicatiejaar><publicatienr>207</publicatienr><uitgiftedatum isodatum="2018-06-29">29-06-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-06-19">19-06-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-07-01">01-07-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007919&amp;artikel=5&amp;g=2019-01-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0007919&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=5&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0007919&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="a-6" stam-id="1555753" versie-id="2308112" id="C5230541" label-id="1511234" inwerking="1998-01-01" label="Artikel 6" bron="Stb.1997-510" effect="wijziging" ondertekening_bron="1997-11-06" publicatie_bron="1997-11-18" publicatie_iwt="1997-12-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid1" label-id="1511234L1">
+    <lidnr>1</lidnr>
+    <al>Onze Minister kan met betrekking tot een subsidie, die niet op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in <intref verwijzing-id="1631399" doc="jci1.3:c:BWBR0007919&amp;artikel=3&amp;z=2019-01-01&amp;g=2019-01-01" bwb-id="BWBR0007919" label-id="1511204" bwb-ng-variabel-deel="/Artikel3">artikel 3</intref> wordt verstrekt, bij de subsidieverlening of, indien geen beschikking tot subsidieverlening is gegeven, bij de subsidievaststelling bepalen, dat een subsidie-ontvanger een vergoeding voor vermogensvorming verschuldigd is overeenkomstig <extref doc="jci1.3:c:BWBR0005537&amp;artikel=4:41" verwijzing-id="527734" bwb-id="BWBR0005537" label-id="2819424">artikel 4:41 van de Algemene wet bestuursrecht</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=6&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid2" label-id="1511234L2">
+    <lidnr>2</lidnr>
+    <al> De wijze waarop de hoogte van de vergoeding wordt bepaald wordt vermeld in de beschikking tot subsidieverlening of subsidievaststelling, bedoeld in het eerste lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=6&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-180"><publicatiejaar>1996</publicatiejaar><publicatienr>180</publicatienr><uitgiftedatum isodatum="1996-03-26">26-03-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-02-29">29-02-1996</ondertekeningsdatum><dossierref dossier="24416">24416</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-637"><publicatiejaar>1997</publicatiejaar><publicatienr>637</publicatienr><uitgiftedatum isodatum="1997-12-16">16-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-04">04-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-510"><publicatiejaar>1997</publicatiejaar><publicatienr>510</publicatienr><uitgiftedatum isodatum="1997-11-18">18-11-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-11-06">06-11-1997</ondertekeningsdatum><dossierref dossier="25280">25280</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-581"><publicatiejaar>1997</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007919&amp;artikel=6&amp;g=2019-01-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0007919&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=6&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0007919&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="a-7" stam-id="1555763" versie-id="20928382" id="C30047761" label-id="1511244" inwerking="2014-01-01" label="Artikel 7" bron="Stb.2013-482" effect="wijziging" ondertekening_bron="2013-11-11" publicatie_bron="2013-12-05" publicatie_iwt="2013-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid1" label-id="1511244L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Voor zover subsidieverstrekking in strijd zou zijn met ingevolge een verdrag voor de Staat geldende verplichtingen, kan Onze Minister:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel7/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>subsidieverstrekking weigeren;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=7&amp;lid=1&amp;o=a&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel7/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>een subsidie lager vaststellen dan overeenkomstig de subsidieverlening;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=7&amp;lid=1&amp;o=b&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel7/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>een subsidieverlening of subsidievaststelling intrekken of ten nadele van de ontvanger wijzigen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=7&amp;lid=1&amp;o=c&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=7&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid2" label-id="1511244L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Bij de vaststelling, intrekking of wijziging kan worden bepaald, dat over onverschuldigd betaalde subsidiebedragen een rentevergoeding verschuldigd is. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=7&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid3" label-id="1511244L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is verstrekt, tenzij bij de intrekking of wijziging anders is bepaald. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=7&amp;lid=3&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid4" label-id="1511244L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De <extref doc="jci1.3:c:BWBR0005537&amp;artikel=4:49" verwijzing-id="527735" bwb-id="BWBR0005537" label-id="2819524">artikelen 4:49, derde lid</extref>, en <extref doc="jci1.3:c:BWBR0005537&amp;artikel=4:57" verwijzing-id="2282456" bwb-id="BWBR0005537" label-id="2819614">4:57, vierde lid, van de Algemene wet bestuursrecht</extref> zijn niet van toepassing op de vaststelling, intrekking en wijziging, bedoeld in het eerste lid. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=7&amp;lid=4&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-482"><publicatiejaar>2013</publicatiejaar><publicatienr>482</publicatienr><uitgiftedatum isodatum="2013-12-05">05-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-11-11">11-11-2013</ondertekeningsdatum><dossierref dossier="33656">33656</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-483"><publicatiejaar>2013</publicatiejaar><publicatienr>483</publicatienr><uitgiftedatum isodatum="2013-12-05">05-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-11-25">25-11-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2014-01-01">01-01-2014</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007919&amp;artikel=7&amp;g=2019-01-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0007919&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=7&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0007919&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" code="a-8" stam-id="1555773" versie-id="20928392" id="C30047721" label-id="1511254" inwerking="2014-01-01" label="Artikel 8" bron="Stb.2013-482" effect="wijziging" ondertekening_bron="2013-11-11" publicatie_bron="2013-12-05" publicatie_iwt="2013-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid1" label-id="1511254L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen personen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=8&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid2" label-id="1511254L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de <nadruk type="cur">Staatscourant</nadruk>. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=8&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid3" label-id="1511254L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Aan subsidies op grond van deze wet is de verplichting verbonden dat de subsidie-ontvanger aan een toezichthouder alle medewerking verleent die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=8&amp;lid=3&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-482"><publicatiejaar>2013</publicatiejaar><publicatienr>482</publicatienr><uitgiftedatum isodatum="2013-12-05">05-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-11-11">11-11-2013</ondertekeningsdatum><dossierref dossier="33656">33656</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-483"><publicatiejaar>2013</publicatiejaar><publicatienr>483</publicatienr><uitgiftedatum isodatum="2013-12-05">05-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-11-25">25-11-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2014-01-01">01-01-2014</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007919&amp;artikel=8&amp;g=2019-01-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0007919&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=8&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0007919&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" code="a-9" stam-id="1555783" versie-id="20020712" id="C28244841" label-id="1511264" inwerking="2013-01-01" label="Artikel 9" bron="Stb.2012-682" effect="vervallen" ondertekening_bron="2012-12-20" publicatie_bron="2012-12-27" publicatie_iwt="2012-12-27" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>9</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2012-682"><publicatiejaar>2012</publicatiejaar><publicatienr>682</publicatienr><uitgiftedatum isodatum="2012-12-27">27-12-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="32450">32450</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2012-684"><publicatiejaar>2012</publicatiejaar><publicatienr>684</publicatienr><uitgiftedatum isodatum="2012-12-27">27-12-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Deel C, artikel I, van Stb. 2012/682 bevat overgangsrecht m.b.t. deze wijziging.
+</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007919&amp;artikel=9&amp;g=2019-01-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0007919&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=9&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0007919&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" stam-id="1555793" versie-id="2308142" id="C32110931" label-id="1511274" inwerking="1998-01-01" label="Artikel 10" bron="Stb.1997-510" effect="wijziging" ondertekening_bron="1997-11-06" publicatie_bron="1997-11-18" publicatie_iwt="1997-12-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid1" label-id="1511274L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De Kaderwet verstrekking financiële middelen EZ en de Kaderwet specifieke uitkeringen EZ worden ingetrokken, met dien verstande dat zij van toepassing blijven op subsidies die voor de inwerkingtreding van deze wet zijn verleend of vastgesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=10&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid2" label-id="1511274L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Na de inwerkingtreding van deze wet berusten de op grond van artikel 2 van de Kaderwet verstrekking financiële middelen EZ en artikel 2 van de Kaderwet specifieke uitkeringen EZ berustende algemene maatregelen van bestuur en ministeriële regelingen op <intref doc="jci1.3:c:BWBR0007919&amp;artikel=3&amp;z=2019-01-01&amp;g=2019-01-01" label-id="1511204" verwijzing-id="1631396" bwb-id="BWBR0007919" bwb-ng-variabel-deel="/Artikel3">artikel 3</intref> van deze wet. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=10&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-180"><publicatiejaar>1996</publicatiejaar><publicatienr>180</publicatienr><uitgiftedatum isodatum="1996-03-26">26-03-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-02-29">29-02-1996</ondertekeningsdatum><dossierref dossier="24416">24416</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-637"><publicatiejaar>1997</publicatiejaar><publicatienr>637</publicatienr><uitgiftedatum isodatum="1997-12-16">16-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-04">04-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-510"><publicatiejaar>1997</publicatiejaar><publicatienr>510</publicatienr><uitgiftedatum isodatum="1997-11-18">18-11-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-11-06">06-11-1997</ondertekeningsdatum><dossierref dossier="25280">25280</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-581"><publicatiejaar>1997</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007919&amp;artikel=10&amp;g=2019-01-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0007919&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=10&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0007919&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" code="b1-11" stam-id="1555803" versie-id="20928402" id="C30047731" label-id="1511284" inwerking="2014-01-01" label="Artikel 11" bron="Stb.2013-482" effect="wijziging" ondertekening_bron="2013-11-11" publicatie_bron="2013-12-05" publicatie_iwt="2013-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid1" label-id="1511284L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Na de inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482) berusten de op grond van <extref doc="jci1.3:c:BWBR0009194&amp;artikel=4" verwijzing-id="2598757" bwb-id="BWBR0009194" label-id="638894">artikel 4 van de Kaderwet LNV-subsidies</extref> vastgestelde ministeriële regelingen op <intref verwijzing-id="2598758" doc="jci1.3:c:BWBR0007919&amp;artikel=3&amp;z=2019-01-01&amp;g=2019-01-01" bwb-id="BWBR0007919" label-id="1511204" bwb-ng-variabel-deel="/Artikel3">artikel 3</intref> van deze wet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=11&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid2" label-id="1511284L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het bij of krachtens de <extref doc="jci1.3:c:BWBR0009194" verwijzing-id="2598759" bwb-id="BWBR0009194" label-id="639054">Kaderwet LNV-subsidies</extref> bepaalde blijft van toepassing op subsidies die voor de inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482) zijn verstrekt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=11&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-482"><publicatiejaar>2013</publicatiejaar><publicatienr>482</publicatienr><uitgiftedatum isodatum="2013-12-05">05-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-11-11">11-11-2013</ondertekeningsdatum><dossierref dossier="33656">33656</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-483"><publicatiejaar>2013</publicatiejaar><publicatienr>483</publicatienr><uitgiftedatum isodatum="2013-12-05">05-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-11-25">25-11-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2014-01-01">01-01-2014</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007919&amp;artikel=11&amp;g=2019-01-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0007919&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=11&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0007919&amp;artikel=11"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel12" code="a-12" stam-id="1555813" versie-id="2308032" id="C2308031" label-id="1511294" inwerking="1998-01-01" label="Artikel 12" bron="Stb.1996-180" effect="nieuwe-regeling" ondertekening_bron="1996-02-29" publicatie_bron="1996-03-26" publicatie_iwt="1997-12-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>12</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-180"><publicatiejaar>1996</publicatiejaar><publicatienr>180</publicatienr><uitgiftedatum isodatum="1996-03-26">26-03-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-02-29">29-02-1996</ondertekeningsdatum><dossierref dossier="24416">24416</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-637"><publicatiejaar>1997</publicatiejaar><publicatienr>637</publicatienr><uitgiftedatum isodatum="1997-12-16">16-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-04">04-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007919&amp;artikel=12&amp;g=2019-01-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0007919&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=12&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0007919&amp;artikel=12"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13" stam-id="1555823" versie-id="25563692" id="C36489841" label-id="1511304" inwerking="2019-01-01" label="Artikel 13" bron="Stb.2018-487" effect="wijziging" ondertekening_bron="2018-12-05" publicatie_bron="2018-12-27" publicatie_iwt="2018-12-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Kaderwet EZK- en LNV-subsidies.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-487"><publicatiejaar>2018</publicatiejaar><publicatienr>487</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-05">05-12-2018</ondertekeningsdatum><dossierref dossier="34987">34987</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-488"><publicatiejaar>2018</publicatiejaar><publicatienr>488</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-18">18-12-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-01-01">01-01-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007919&amp;artikel=13&amp;g=2019-01-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0007919&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;artikel=13&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0007919&amp;artikel=13"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="1555833" versie-id="2308052" id="C2308051" label-id="1511314" inwerking="1998-01-01" bron="Stb.1996-180" effect="nieuwe-regeling" ondertekening_bron="1996-02-29" publicatie_bron="1996-03-26" publicatie_iwt="1997-12-16" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">29 februari 1996</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Economische Zaken,</functie>
+    <naam>
+      <achternaam>G. J. Wijers</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Staatssecretaris van Economische Zaken,</functie>
+    <naam>
+      <achternaam>A. van Dok-van Weele</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de zesentwintigste maart 1996</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>W. Sorgdrager</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-180"><publicatiejaar>1996</publicatiejaar><publicatienr>180</publicatienr><uitgiftedatum isodatum="1996-03-26">26-03-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-02-29">29-02-1996</ondertekeningsdatum><dossierref dossier="24416">24416</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-637"><publicatiejaar>1997</publicatiejaar><publicatienr>637</publicatienr><uitgiftedatum isodatum="1997-12-16">16-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-04">04-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2018-487"><publicatiejaar>2018</publicatiejaar><publicatienr>487</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-05">05-12-2018</ondertekeningsdatum><dossierref dossier="34987">34987</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2018-487"><publicatiejaar>2018</publicatiejaar><publicatienr>487</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-05">05-12-2018</ondertekeningsdatum><dossierref dossier="34987">34987</dossierref></publicatie><inwerkingtreding.datum isodatum="2018-12-05">05-12-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007919&amp;g=2019-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0007919"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007919&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0007919"/></jcis></meta-data></wetgeving></toestand>

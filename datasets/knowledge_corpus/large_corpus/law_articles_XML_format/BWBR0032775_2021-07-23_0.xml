@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0032775/2021-07-23/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0032775" inwerkingtreding="2021-07-23"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="12061553" versie-id="20098392" id="C28571281" label-id="12033734" inwerkingtredingsdatum="2013-04-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="12061573" versie-id="20097852" id="C28571411" label-id="12033194" inwerking="2013-04-01" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">Wet van 20 december 2012, houdende regels inzake het aanhouden van voorraden aardolieproducten (Wet voorraadvorming aardolieproducten 2012)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="12061583" versie-id="20097862" id="C28571431" label-id="12033204" inwerking="2013-04-01" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28">Wet voorraadvorming aardolieproducten 2012<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="12061593" versie-id="20097872" id="C28571421" label-id="12033214" inwerking="2013-04-01" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is de <extref doc="jci1.3:c:BWBR0012373" verwijzing-id="2545942" bwb-id="BWBR0012373" label-id="1522564">Wet voorraadvorming aardolieproducten 2001</extref> integraal te herzien ter implementatie van <extref doc="32009L0119" label="richtlijn" reeks="Celex">Richtlijn 2009/119/EG</extref> van de Raad van 14 september 2009, houdende verplichting voor de lidstaten om minimumvoorraden ruwe aardolie en/of aardolieproducten in opslag te houden (PbEU 2009, L 265);</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk1" stam-id="12061623" versie-id="20097902" id="C28571291" label-id="12033244" inwerking="2013-04-01" label="Hoofdstuk 1" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">1</nr>
+    <titel status="officieel">Algemene bepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1" stam-id="12061603" versie-id="27921352" id="C39367951" label-id="12033224" inwerking="2021-07-23" label="Artikel 1" bron="Stb.2021-369" effect="wijziging" ondertekening_bron="2021-07-07" publicatie_bron="2021-07-22" publicatie_iwt="2021-07-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._1">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">bilateraal akkoord:</nadruk> tussen Nederland en een andere staat geldend verdrag als bedoeld in artikel 3 van de bijlage bij de Overeenkomst inzake een Internationaal Energieprogramma (Trb. 1975, 47);</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._2">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">binnenlands verbruik:</nadruk> het overeenkomstig bijlage II van <extref doc="32009L0119" label="richtlijn" reeks="Celex">richtlijn 2009/119/EG</extref> berekende totaal van de in Nederland geleverde hoeveelheden aardolieproducten voor energie- en niet-energiedoeleinden, met dien verstande dat dit totaal bestaat uit de leveringen aan de omzettingssector, de industrie, de vervoersector, de huishoudens en andere sectoren met het oog op eindverbruik; dit totaal omvat mede het eigen gebruik van de energiesector zelf (met uitzondering van het verbruik van raffinaderijbrandstof);</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._3">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">biobrandstof:</nadruk> voor vervoer bestemde vloeibare of gasvormige brandstof gemaakt uit biomassa, waarbij onder «biomassa» wordt verstaan het biologisch afbreekbare deel van producten, afvalstoffen en residuen van de landbouw (met inbegrip van plantaardige en dierlijke stoffen), de bosbouw en aanverwante bedrijfstakken, alsmede het biologisch afbreekbare deel van industrieel en huishoudelijk afval;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._4">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">bunkervoorraden van de internationale zeescheepvaart:</nadruk> totaal dat is gedefinieerd in bijlage A, punt 2.1, van <extref doc="32008R1099" label="verordening" reeks="Celex">Verordening (EG) nr. 1099/2008</extref> van het Europees Parlement en de Raad van de Europese Unie van 22 oktober 2008 (PbEU 2008, L 304) betreffende energiestatistieken;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._5">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">centrale entiteit:</nadruk> instelling of dienst als bedoeld in artikel 7 van <extref doc="32009L0119" label="richtlijn" reeks="Celex">richtlijn 2009/119/EG</extref> waaraan de bevoegdheid is gegeven om te handelen met het oog op het kopen, in stand houden en verkopen van olievoorraden, met inbegrip van veiligheidsvoorraden en speciale voorraden;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._6">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">COVA:</nadruk> Stichting Centraal Orgaan Voorraadvorming Aardolieproducten, zijnde voor Nederland de centrale entiteit;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._7">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">internationale verplichtingen:</nadruk> verplichtingen tot het aanhouden van een voorraad aardolieproducten, voortvloeiend uit de Overeenkomst inzake een Internationaal Energieprogramma (Trb. 1975, 47) en uit <extref doc="32009L0119" label="richtlijn" reeks="Celex">richtlijn 2009/119/EG</extref>;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._8">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">marktdeelnemer:</nadruk> vergunninghouder als bedoeld in <intref doc="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=4&amp;z=2021-07-23&amp;g=2021-07-23" label-id="12033264" verwijzing-id="2545953" bwb-id="BWBR0032775" bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel4">artikel 4, eerste lid, onder a</intref>;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._9">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">olievoorraden:</nadruk> voorraden ruwe aardolie of andere aardolieproducten, gedefinieerd in hoofdstuk 3.4 van bijlage A, van <extref doc="32008R1099" label="verordening" reeks="Celex">Verordening (EG) nr. 1099/2008</extref> van het Europees Parlement en de Raad van 22 oktober 2008 betreffende energiestatistieken (PbEG 2008, L 304);</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._10">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">Onze Minister:</nadruk> Onze Minister van Economische Zaken en Klimaat;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._11">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">referentiejaar:</nadruk> kalenderjaar dat voorafgaat aan het voorraadjaar;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._12">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">richtlijn 2009/119/EG:</nadruk>
+        <extref doc="32009L0119" label="richtlijn" reeks="Celex">Richtlijn 2009/119/EG</extref> van de Raad van 14 september 2009 houdende verplichting voor de lidstaten om minimumvoorraden ruwe aardolie en/of aardolieproducten in opslag te houden (PbEU 2009, L 265);</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._13">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">speciale voorraad:</nadruk> olievoorraad die voldoet aan de in artikel 9, eerste tot en met vierde lid, van <extref doc="32009L0119" label="richtlijn" reeks="Celex">richtlijn 2009/119/EG</extref> genoemde voorwaarden;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._14">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">toevoegingen:</nadruk> andere stoffen dan koolwaterstoffen die aan een product worden toegevoegd of erdoor worden gemengd om de eigenschappen ervan te veranderen;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._15">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">uitslag:</nadruk> uitslag tot verbruik als bedoeld in <extref doc="jci1.3:c:BWBR0005251&amp;artikel=2" label-id="881924" verwijzing-id="2545943" bwb-id="BWBR0005251">artikel 2 van de Wet op de accijns</extref>, met uitzondering van afleveringen met bestemming internationale zeevaart;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._16">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">veiligheidsvoorraden:</nadruk> olievoorraden die elke lidstaat van de Europese Unie op grond van artikel 3 van <extref doc="32009L0119" label="richtlijn" reeks="Celex">richtlijn 2009/119/EG</extref> verplicht is aan te houden;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._17">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">voorraadjaar:</nadruk> tijdvak van 12 maanden dat begint op 1 juli van enig jaar;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._18">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">voorraadplichtige:</nadruk> degene die op grond van deze wet een voorraad aardolieproducten moet aanhouden;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._19">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">wettelijke voorraad:</nadruk> voorraad aardolieproducten waarmee wordt beoogd aan de voor Nederland geldende internationale verplichtingen te voldoen.</al>
+    </li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-369"><publicatiejaar>2021</publicatiejaar><publicatienr>369</publicatienr><uitgiftedatum isodatum="2021-07-22">22-07-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-07-07">07-07-2021</ondertekeningsdatum><dossierref dossier="35693">35693</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-369"><publicatiejaar>2021</publicatiejaar><publicatienr>369</publicatienr><uitgiftedatum isodatum="2021-07-22">22-07-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-07-07">07-07-2021</ondertekeningsdatum><dossierref dossier="35693">35693</dossierref></publicatie><inwerkingtreding.datum isodatum="2021-07-23">23-07-2021</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2020-07-01">01-07-2020</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=1&amp;g=2021-07-23" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=1&amp;artikel=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=1"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2" stam-id="12061613" versie-id="27921392" id="C39368011" label-id="12033234" inwerking="2021-07-23" label="Artikel 2" bron="Stb.2021-369" effect="wijziging" ondertekening_bron="2021-07-07" publicatie_bron="2021-07-22" publicatie_iwt="2021-07-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <al>Voor de toepassing van het bij of krachtens deze wet bepaalde worden aardolieproducten, gedefinieerd in hoofdstuk 3.4 van bijlage A, van <extref doc="32008R1099" label="verordening" reeks="Celex">Verordening (EG) nr. 1099/2008</extref> van het Europees Parlement en de Raad van 22 oktober 2008 betreffende energiestatistieken (PbEG 2008, L 304), verdeeld in de volgende categorieën:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>ruwe aardolie en aardgascondensaat,</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=1&amp;artikel=2&amp;o=a&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>motorbenzine,</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=1&amp;artikel=2&amp;o=b&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>vliegtuigbenzine,</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=1&amp;artikel=2&amp;o=c&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>lichte reactiemotorbrandstof (van het naftatype of JP4),</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=1&amp;artikel=2&amp;o=d&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=d"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Onderdeele">
+      <li.nr>e.</li.nr>
+      <al>reactiemotorbrandstof van het kerosinetype,</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=1&amp;artikel=2&amp;o=e&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=e"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Onderdeelf">
+      <li.nr>f.</li.nr>
+      <al>andere dan de onder e bedoelde kerosine,</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=1&amp;artikel=2&amp;o=f&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=f"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Onderdeelg">
+      <li.nr>g.</li.nr>
+      <al>gasolie/dieselolie (aardoliedistillaat),</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=1&amp;artikel=2&amp;o=g&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=g"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Onderdeelh">
+      <li.nr>h.</li.nr>
+      <al>stookolie (met hoog en laag zwavelgehalte),</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=1&amp;artikel=2&amp;o=h&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=h"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Onderdeeli">
+      <li.nr>i.</li.nr>
+      <al>raffinagegrondstoffen van de onder b tot en met h genoemde producten en</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=1&amp;artikel=2&amp;o=i&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=i"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Onderdeelj">
+      <li.nr>j.</li.nr>
+      <al>overige producten: ethaan, LPG, white spirit en speciale benzinesoorten, smeermiddelen, bitumen, paraffine en petroleumcoke.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=1&amp;artikel=2&amp;o=j&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=j"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-369"><publicatiejaar>2021</publicatiejaar><publicatienr>369</publicatienr><uitgiftedatum isodatum="2021-07-22">22-07-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-07-07">07-07-2021</ondertekeningsdatum><dossierref dossier="35693">35693</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-369"><publicatiejaar>2021</publicatiejaar><publicatienr>369</publicatienr><uitgiftedatum isodatum="2021-07-22">22-07-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-07-07">07-07-2021</ondertekeningsdatum><dossierref dossier="35693">35693</dossierref></publicatie><inwerkingtreding.datum isodatum="2021-07-23">23-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=2&amp;g=2021-07-23" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=1&amp;artikel=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=2"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;hoofdstuk=1&amp;g=2021-07-23" onderdeel="hoofdstuk=1" korte-verwijzing="1.0:c:BWBR0032775&amp;hoofdstuk=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="hoofdstuk=1" korte-verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=1"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk2" stam-id="12061963" versie-id="20098242" id="C28571301" label-id="12033584" inwerking="2013-04-01" label="Hoofdstuk 2" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">2</nr>
+    <titel status="officieel">Het aanhouden van voorraden ter naleving van internationale verplichtingen van Nederland</titel>
+  </kop><titeldeel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1" stam-id="12061853" versie-id="20098132" id="C28571331" label-id="12033474" inwerking="2013-04-01" label="Titel 1" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Titel</label>
+    <nr status="officieel">1</nr>
+    <titel status="officieel">Bepalingen die zich richten tot alle voorraadplichtigen</titel>
+  </kop><paragraaf bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1" stam-id="12061683" versie-id="20097962" id="C28571361" label-id="12033304" inwerking="2013-04-01" label="§ 1" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">1</nr>
+    <titel status="officieel">Diverse voorraadplichtigen en de omvang van hun wettelijke voorraad</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel3" stam-id="12061633" versie-id="20097912" id="C28571461" label-id="12033254" inwerking="2013-04-01" label="Artikel 3" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <al>De wettelijke voorraad is ten minste gelijk aan de grootste van de twee volgende hoeveelheden: 90 maal het daggemiddelde van de netto invoer van aardolieproducten of 61 maal het daggemiddelde van het binnenlands verbruik, berekend overeenkomstig artikel 3 van <extref doc="32009L0119" label="richtlijn" reeks="Celex">richtlijn 2009/119/EG</extref>.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=3&amp;g=2021-07-23" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=3&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=3"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel4" stam-id="12061643" versie-id="20097922" id="C28571471" label-id="12033264" inwerking="2013-04-01" label="Artikel 4" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel4/Lid1" label-id="12033264L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister stelt jaarlijks uiterlijk 31 maart voor het daarop volgende voorraadjaar de omvang en samenstelling van de in voorraad aan te houden aardolieproducten vast:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel4/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>voor elke vergunninghouder voor een of meer accijnsgoederenplaatsen voor minerale oliën als bedoeld in <extref doc="jci1.3:c:BWBR0005251&amp;artikel=39" verwijzing-id="2545944" bwb-id="BWBR0005251" label-id="882574">artikel 39 van de Wet op de accijns</extref>, die in het referentiejaar een hoeveelheid aardolieproducten heeft uitgeslagen dan wel een hoeveelheid reactiemotorbrandstof van het kerosinetype voor de voortstuwing van luchtvaartuigen heeft geleverd, die in totaal ligt boven de in het tweede lid bedoelde drempel, en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=4&amp;lid=1&amp;o=a&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel4/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>voor COVA.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=4&amp;lid=1&amp;o=b&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=4&amp;lid=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel4/Lid2" label-id="12033264L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De hoogte van de drempel wordt bepaald bij algemene maatregel van bestuur.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=4&amp;lid=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel4/Lid3" label-id="12033264L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het eerste lid, onder a, is niet van toepassing op de Nederlandse krijgsmacht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=4&amp;lid=3&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel4/Lid4" label-id="12033264L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Marktdeelnemers en COVA houden de krachtens het eerste lid vastgestelde voorraad aardolieproducten aan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=4&amp;lid=4&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel4/Lid5" label-id="12033264L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Indien een marktdeelnemer deel uitmaakt van een groep als bedoeld in <extref doc="jci1.3:c:BWBR0003045&amp;artikel=24b" verwijzing-id="2545945" bwb-id="BWBR0003045" label-id="2868214">artikel 24b van Boek 2 van het Burgerlijk Wetboek</extref>, rust de verplichting bij de rechtspersoon of vennootschap die aan het hoofd staat van de groep.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=4&amp;lid=5&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel4/Lid6" label-id="12033264L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>De relatieve omvang van de verplichting voor marktdeelnemers wordt berekend naar de aangiften, bedoeld in <extref doc="jci1.3:c:BWBR0005251&amp;artikel=53" verwijzing-id="2545946" bwb-id="BWBR0005251" label-id="882854">artikel 53 van de Wet op de accijns</extref>, over het referentiejaar, alsmede naar de hoeveelheid reactiemotorbrandstof van het kerosinetype die voor de voorstuwing van luchtvaartuigen is geleverd over het referentiejaar. De berekening wordt gedaan op een bij ministeriële regeling te bepalen wijze.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=4&amp;lid=6&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=4&amp;g=2021-07-23" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=4&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=4"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel5" stam-id="12061653" versie-id="20097932" id="C28571481" label-id="12033274" inwerking="2013-04-01" label="Artikel 5" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel5/Lid1" label-id="12033274L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De vaststelling, bedoeld in <intref verwijzing-id="2545961" doc="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=4&amp;z=2021-07-23&amp;g=2021-07-23" bwb-id="BWBR0032775" label-id="12033264" bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel4">artikel 4, eerste lid</intref>, geschiedt overeenkomstig de artikelen 4 en 9, vijfde lid, van <extref doc="32009L0119" label="richtlijn" reeks="Celex">richtlijn 2009/119/EG</extref> en wel zodanig dat:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel5/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>ten minste 1/3 van de wettelijke voorraad wordt aangehouden in de vorm van de volgende aardolieproducten: motorbenzine, gasolie/dieselolie (aardoliedistillaat) en reactiemotorbrandstof van het kerosinetype;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=5&amp;lid=1&amp;o=a&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel5/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de hoeveelheid reactiemotorbrandstof van het kerosinetype beperkt blijft tot 15 verbruiksdagen naar het gemiddeld binnenlands verbruik daarvan in het referentiejaar en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=5&amp;lid=1&amp;o=b&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel5/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de hoeveelheid van de overige aardolieproducten wordt bepaald naar rato van het binnenlands verbruik daarvan in het referentiejaar.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=5&amp;lid=1&amp;o=c&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=5&amp;lid=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel5/Lid2" label-id="12033274L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De hoeveelheid aardolieproducten die wordt aangehouden door een marktdeelnemer wordt bepaald door:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel5/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de drempel, bedoeld in <intref verwijzing-id="2545962" doc="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=4&amp;z=2021-07-23&amp;g=2021-07-23" bwb-id="BWBR0032775" label-id="12033264" bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel4">artikel 4, tweede lid</intref>, te verdelen over de diverse categorieën aardolieproducten naar rato van de uitslag van elke categorie in het referentiejaar;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=5&amp;lid=2&amp;o=a&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel5/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>per categorie aardolieproducten de in het referentiejaar uitgeslagen hoeveelheid te verminderen met de hoeveelheid die is berekend met toepassing van onderdeel a en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=5&amp;lid=2&amp;o=b&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel5/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de met toepassing van onderdeel b berekende hoeveelheid te vermenigvuldigen met een bij algemene maatregel van bestuur vast te stellen percentage.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=5&amp;lid=2&amp;o=c&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=5&amp;lid=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel5/Lid3" label-id="12033274L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Ten minste de helft van de aldus voor een marktdeelnemer vastgestelde verplicht aan te houden voorraad wordt aangehouden in de vorm van aardolieproducten, bedoeld in <intref verwijzing-id="2545963" doc="jci1.3:c:BWBR0032775&amp;hoofdstuk=1&amp;artikel=2&amp;z=2021-07-23&amp;g=2021-07-23" bwb-id="BWBR0032775" label-id="12033234" bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2">artikel 2, onderdelen b, e of g</intref>. Het overige deel mag worden aangehouden met de aardolieproducten, bedoeld in artikel 2, onderdelen a tot en met i.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=5&amp;lid=3&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel5/Lid4" label-id="12033274L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De totale hoeveelheid aardolieproducten die COVA moet aanhouden, wordt bepaald door de wettelijke voorraad te verminderen met de totale hoeveelheid aardolieproducten die marktdeelnemers aan moeten houden. Voor zover met de voorraadplicht van de marktdeelnemers tezamen niet wordt voldaan aan het eerste lid, onderdeel a, wordt het resterende deel van de bedoelde aardolieproducten door COVA aangehouden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=5&amp;lid=4&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=5&amp;g=2021-07-23" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=5&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=5"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel6" stam-id="12061663" versie-id="20097942" id="C28571491" label-id="12033284" inwerking="2013-04-01" label="Artikel 6" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <al>Onze Minister kan met het oog op een dreigende oliecrisis bepalen dat het voor COVA vastgestelde gedeelte van de wettelijke voorraad met een door hem te bepalen hoeveelheid wordt verhoogd.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=6&amp;g=2021-07-23" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=6&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=6"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel7" stam-id="12061673" versie-id="20097952" id="C28571501" label-id="12033294" inwerking="2013-04-01" label="Artikel 7" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel7/Lid1" label-id="12033294L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister kan met het oog op een oliecrisis dan wel een dreigende oliecrisis bepalen dat:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel7/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het voor COVA dan wel voor een marktdeelnemer vastgestelde gedeelte van de wettelijke voorraad, met een door hem te bepalen gedeelte tijdelijk mag worden verminderd;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=7&amp;lid=1&amp;o=a&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel7/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>aardolieproducten die door COVA of een marktdeelnemer worden aangehouden als onderdeel van de wettelijke voorraad en die zich niet in Nederland bevinden, binnen een door hem te bepalen termijn naar Nederland worden overgebracht.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=7&amp;lid=1&amp;o=b&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=7&amp;lid=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel7/Lid2" label-id="12033294L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Een krachtens het eerste lid, onder a, vastgesteld besluit kan beperkingen inhouden, waaronder een beperking van de categorieën aardolieproducten waarmee de voorraad mag worden verminderd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=7&amp;lid=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=7&amp;g=2021-07-23" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=7&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=7"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;paragraaf=1&amp;g=2021-07-23" onderdeel="paragraaf=1" korte-verwijzing="1.0:c:BWBR0032775&amp;paragraaf=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="paragraaf=1" korte-verwijzing="jci1.3:c:BWBR0032775&amp;paragraaf=1"/></jcis></meta-data></paragraaf><paragraaf bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf2" stam-id="12061723" versie-id="20098002" id="C28571371" label-id="12033344" inwerking="2013-04-01" label="§ 2" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">2</nr>
+    <titel status="officieel">Eisen aan de wettelijke voorraad</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf2/Artikel8" stam-id="12061693" versie-id="20097972" id="C28571511" label-id="12033314" inwerking="2013-04-01" label="Artikel 8" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf2/Artikel8/Lid1" label-id="12033314L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een product wordt slechts tot de wettelijke voorraad gerekend, indien het zich bevindt in een lidstaat van de Europese Unie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=2&amp;artikel=8&amp;lid=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf2/Artikel8/Lid2" label-id="12033314L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Als het product zich niet in Nederland bevindt, wordt het slechts tot de wettelijke voorraad gerekend indien is voldaan aan het gestelde bij of krachtens de <intref verwijzing-id="2545955" doc="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=2&amp;artikel=10&amp;z=2021-07-23&amp;g=2021-07-23" bwb-id="BWBR0032775" label-id="12033334" bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf2/Artikel10">artikelen 10</intref>, <intref verwijzing-id="2545956" doc="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=12&amp;z=2021-07-23&amp;g=2021-07-23" bwb-id="BWBR0032775" label-id="12033364" bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel12">12</intref>, <intref verwijzing-id="2545957" doc="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=14&amp;z=2021-07-23&amp;g=2021-07-23" bwb-id="BWBR0032775" label-id="12033384" bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel14">14</intref> en <intref verwijzing-id="2545958" doc="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=15&amp;z=2021-07-23&amp;g=2021-07-23" bwb-id="BWBR0032775" label-id="12033394" bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel15">15</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=2&amp;artikel=8&amp;lid=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=8&amp;g=2021-07-23" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=2&amp;artikel=8&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=8"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf2/Artikel9" stam-id="12061703" versie-id="20097982" id="C28571521" label-id="12033324" inwerking="2013-04-01" label="Artikel 9" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+  </kop>
+  <al>Biobrandstoffen en toevoegingen worden slechts tot de wettelijke voorraad gerekend indien deze:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf2/Artikel9/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>vermengd zijn met aardolieproducten die behoren tot de wettelijke voorraad, of</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=2&amp;artikel=9&amp;o=a&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf2/Artikel9/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>opgeslagen zijn op het grondgebied van Nederland en</al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf2/Artikel9/Onderdeelb/Onderdeel._1">
+          <li.nr>–</li.nr>
+          <al>bestemd zijn om te worden gemengd met aardolieproducten die behoren tot de wettelijke voorraad, en</al>
+        </li>
+        <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf2/Artikel9/Onderdeelb/Onderdeel._2">
+          <li.nr>–</li.nr>
+          <al>bestemd zijn om bij vervoer te worden gebruikt.</al>
+        </li>
+      </lijst>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=2&amp;artikel=9&amp;o=b&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=b"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=9&amp;g=2021-07-23" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=2&amp;artikel=9&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=9"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf2/Artikel10" stam-id="12061713" versie-id="20097992" id="C28571531" label-id="12033334" inwerking="2013-04-01" label="Artikel 10" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf2/Artikel10/Lid1" label-id="12033334L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Tot de wettelijke voorraad worden niet gerekend producten:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf2/Artikel10/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>die zich bevinden in pijpleidingen of verwerkingsinstallaties van een raffinaderij,</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=2&amp;artikel=10&amp;lid=1&amp;o=a&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf2/Artikel10/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>die zich bevinden in pijpleidingen, tankauto's of tankwagons,</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=2&amp;artikel=10&amp;lid=1&amp;o=b&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf2/Artikel10/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>die, al dan niet uitsluitend, voorhanden zijn voor rechtstreekse aflevering ten behoeve van wegverkeer,</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=2&amp;artikel=10&amp;lid=1&amp;o=c&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf2/Artikel10/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>die behoren tot de bunkervoorraden van de internationale zeescheepvaart,</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=2&amp;artikel=10&amp;lid=1&amp;o=d&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf2/Artikel10/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>die worden gehouden ter naleving van internationale verplichtingen van een andere staat dan Nederland dan wel van een onderdaan van die staat, ten aanzien waarvan is gewaarborgd dat Nederland de overbrenging naar die andere staat niet zal belemmeren of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=2&amp;artikel=10&amp;lid=1&amp;o=e&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf2/Artikel10/Lid1/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>die ingevolge de uitvoering van <extref doc="32009L0119" label="richtlijn" reeks="Celex">richtlijn 2009/119/EG</extref> ten behoeve van een voorraadplichtige uit een andere lidstaat in Nederland worden gehouden.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=2&amp;artikel=10&amp;lid=1&amp;o=f&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=f"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=2&amp;artikel=10&amp;lid=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf2/Artikel10/Lid2" label-id="12033334L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Voorts wordt niet tot de wettelijke voorraad gerekend stookolie (met hoog en laag zwavelgehalte) en ruwe aardolie die zich bevindt in installaties die gebruikt worden voor de winning van ruwe aardolie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=2&amp;artikel=10&amp;lid=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=10&amp;g=2021-07-23" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=2&amp;artikel=10&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=10"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;paragraaf=2&amp;g=2021-07-23" onderdeel="paragraaf=2" korte-verwijzing="1.0:c:BWBR0032775&amp;paragraaf=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="paragraaf=2" korte-verwijzing="jci1.3:c:BWBR0032775&amp;paragraaf=2"/></jcis></meta-data></paragraaf><paragraaf bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3" stam-id="12061783" versie-id="20098062" id="C28571381" label-id="12033404" inwerking="2013-04-01" label="§ 3" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">3</nr>
+    <titel status="officieel">Beheer en overdracht van de wettelijke voorraad</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel11" stam-id="12061733" versie-id="20098012" id="C28571541" label-id="12033354" inwerking="2013-04-01" label="Artikel 11" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel11/Lid1" label-id="12033354L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>COVA kan taken betreffende het beheer van het voor haar vastgestelde gedeelte van de wettelijke voorraad voor een bepaalde termijn overdragen aan uitsluitend:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel11/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>een lidstaat van de Europese Unie, op het grondgebied waarvan de voorraad zich bevindt,</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=11&amp;lid=1&amp;o=a&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel11/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>een door een lidstaat van de Europese Unie, op het grondgebied waarvan de voorraad zich bevindt, ingestelde centrale entiteit, dan wel</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=11&amp;lid=1&amp;o=b&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel11/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>een bedrijf dat een voorraad aardolieproducten aanhoudt in een lidstaat van de Europese Unie.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=11&amp;lid=1&amp;o=c&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=11&amp;lid=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel11/Lid2" label-id="12033354L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De beheerstaken mogen niet verder worden overgedragen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=11&amp;lid=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel11/Lid3" label-id="12033354L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De beheerstaken behoeven wat betreft de overdracht en wijziging daarvan aan een bedrijf dat een voorraad aardolieproducten aanhoudt in een andere lidstaat van de Europese Unie, de voorafgaande instemming van Onze Minister en van die lidstaat.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=11&amp;lid=3&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel11/Lid4" label-id="12033354L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De overdracht aan een bedrijf in Nederland en wijziging daarvan wordt vooraf gemeld aan Onze Minister.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=11&amp;lid=4&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=11&amp;g=2021-07-23" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=11&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=11"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel12" stam-id="12061743" versie-id="20098022" id="C28571551" label-id="12033364" inwerking="2013-04-01" label="Artikel 12" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">12</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel12/Lid1" label-id="12033364L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een product wordt slechts tot de wettelijke voorraad gerekend, indien het op elk moment daadwerkelijk ter beschikking staat van de voorraadplichtige.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=12&amp;lid=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel12/Lid2" label-id="12033364L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Als de voorraadplichtige niet enig rechthebbende is op een product dat op het grondgebied van Nederland wordt aangehouden, wordt het slechts tot de wettelijke voorraad gerekend indien hij ten aanzien daarvan een beschikkingsrecht heeft:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel12/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>dat is ingegaan per de eerste van een maand en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=12&amp;lid=2&amp;o=a&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel12/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>een geldingsduur heeft van een maand of veelvoud daarvan.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=12&amp;lid=2&amp;o=b&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=12&amp;lid=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel12/Lid3" label-id="12033364L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Als de voorraadplichtige niet enig rechthebbende is op een product dat op het grondgebied van een andere lidstaat van de Europese Unie wordt aangehouden, wordt het slechts tot de wettelijke voorraad gerekend indien hij ten aanzien daarvan een beschikkingsrecht heeft:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel12/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>dat is ingegaan per de eerste van een kwartaal, en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=12&amp;lid=3&amp;o=a&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel12/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>een geldingsduur heeft van een kwartaal of veelvoud daarvan.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=12&amp;lid=3&amp;o=b&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=12&amp;lid=3&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel12/Lid4" label-id="12033364L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Onze Minister kan bepalen dat een marktdeelnemer enig rechthebbende dient te zijn op ten minste een door hem te bepalen gedeelte van de wettelijke voorraad, indien is gebleken dat in het verleden door deze marktdeelnemer of ten opzichte van deze marktdeelnemer, niet werd voldaan aan het tweede en derde lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=12&amp;lid=4&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=12&amp;g=2021-07-23" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=12&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=12"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel13" stam-id="12061753" versie-id="20098032" id="C28571561" label-id="12033374" inwerking="2013-04-01" label="Artikel 13" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel13/Lid1" label-id="12033374L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>COVA aanvaardt voor een marktdeelnemer tegen kostprijs de overdracht van de verplichting om een voorraad aardolieproducten aan te houden als onderdeel van de wettelijke voorraad.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=13&amp;lid=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel13/Lid2" label-id="12033374L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>COVA aanvaardt een dergelijke overdracht onder objectieve, transparante en niet-discriminerende voorwaarden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=13&amp;lid=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel13/Lid3" label-id="12033374L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>COVA kan aan een dergelijke overdracht de voorwaarde verbinden dat de marktdeelnemer een garantie of andere zekerheid stelt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=13&amp;lid=3&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=13&amp;g=2021-07-23" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=13&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=13"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel14" stam-id="12061763" versie-id="20098042" id="C28571571" label-id="12033384" inwerking="2013-04-01" label="Artikel 14" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">14</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel14/Lid1" label-id="12033384L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een marktdeelnemer kan de verplichting om een voorraad aardolieproducten aan te houden als onderdeel van de wettelijke voorraad ten minste gedeeltelijk overdragen aan uitsluitend:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel14/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>COVA, mits de overdracht plaatsvindt ten minste 170 dagen voorafgaande aan de termijn waarop de verplichting betrekking heeft;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=14&amp;lid=1&amp;o=a&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel14/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>een door een andere lidstaat van de Europese Unie ingestelde centrale entiteit, mits de overdracht plaatsvindt ten minste 170 dagen voorafgaande aan de termijn waarop de verplichting betrekking heeft en die entiteit, Onze Minister en de lidstaat, op het grondgebied waarvan de voorraad zal worden aangehouden, daarmee vooraf hebben ingestemd,</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=14&amp;lid=1&amp;o=b&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel14/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>een bedrijf op het grondgebied van een andere lidstaat van de Europese Unie, mits Onze Minister en de lidstaat, op het grondgebied waarvan de voorraad zal worden aangehouden, daarmee vooraf hebben ingestemd, dan wel</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=14&amp;lid=1&amp;o=c&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel14/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>een bedrijf in Nederland, mits de overdracht vooraf aan Onze Minister is gemeld.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=14&amp;lid=1&amp;o=d&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=14&amp;lid=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel14/Lid2" label-id="12033384L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Wijziging of verlenging van een overdracht als bedoeld in het eerste lid, onder b en c, gaat pas in nadat daarmee is ingestemd door Onze Minister en de betrokken lidstaat.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=14&amp;lid=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel14/Lid3" label-id="12033384L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Een overgedragen verplichting als bedoeld in het eerste lid, onder c en d, mag niet verder worden overgedragen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=14&amp;lid=3&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel14/Lid4" label-id="12033384L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Onze Minister kan aan een overdracht als bedoeld in het eerste lid, onder d, voorschriften en beperkingen verbinden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=14&amp;lid=4&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel14/Lid5" label-id="12033384L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Wijziging of uitbreiding van een overdracht als bedoeld in het eerste lid, onder d, wordt beschouwd als een nieuwe overdracht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=14&amp;lid=5&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=14&amp;g=2021-07-23" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=14&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=14"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel15" code="b1-15" stam-id="12061773" versie-id="21195112" id="C30431621" label-id="12033394" inwerking="2014-01-25" label="Artikel 15" bron="Stb.2014-14" effect="wijziging" ondertekening_bron="2013-12-18" publicatie_bron="2014-01-17" publicatie_iwt="2014-01-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel15/Lid1" label-id="12033394L1">
+    <lidnr status="officieel">1</lidnr>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=15&amp;lid=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <al>Bij algemene maatregel van bestuur kunnen nadere voorschriften en beperkingen worden gesteld aan het buiten Nederland aanhouden van een voorraad aardolieproducten als onderdeel van de wettelijke voorraad.</al>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel15/Lid2" label-id="12033394L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister kan nadere regels stellen met betrekking tot de melding van overdrachten als bedoeld in de <intref verwijzing-id="2618644" doc="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=11&amp;z=2021-07-23&amp;g=2021-07-23" bwb-id="BWBR0032775" label-id="12033354" bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel11">artikelen 11, vierde lid</intref>, en <intref verwijzing-id="2618645" doc="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=14&amp;z=2021-07-23&amp;g=2021-07-23" bwb-id="BWBR0032775" label-id="12033384" bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf3/Artikel14">14, eerste lid, onder d</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=15&amp;lid=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-14"><publicatiejaar>2014</publicatiejaar><publicatienr>14</publicatienr><uitgiftedatum isodatum="2014-01-17">17-01-2014</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-18">18-12-2013</ondertekeningsdatum><dossierref dossier="33773">33773</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-31"><publicatiejaar>2014</publicatiejaar><publicatienr>31</publicatienr><uitgiftedatum isodatum="2014-01-24">24-01-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-01-20">20-01-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2014-01-25">25-01-2014</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=15&amp;g=2021-07-23" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;artikel=15&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=15"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;paragraaf=3&amp;g=2021-07-23" onderdeel="paragraaf=3" korte-verwijzing="1.0:c:BWBR0032775&amp;paragraaf=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=3&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="paragraaf=3" korte-verwijzing="jci1.3:c:BWBR0032775&amp;paragraaf=3"/></jcis></meta-data></paragraaf><paragraaf bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf4" stam-id="12061823" versie-id="20098102" id="C28571391" label-id="12033444" inwerking="2013-04-01" label="§ 4" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">4</nr>
+    <titel status="officieel">Informatie- en administratieverplichtingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf4/Artikel16" stam-id="12061793" versie-id="20098072" id="C28571591" label-id="12033414" inwerking="2013-04-01" label="Artikel 16" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">16</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf4/Artikel16/Lid1" label-id="12033414L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister houdt, onder verwijzing naar de categorieën genoemd in <intref verwijzing-id="2545954" doc="jci1.3:c:BWBR0032775&amp;hoofdstuk=1&amp;artikel=2&amp;z=2021-07-23&amp;g=2021-07-23" bwb-id="BWBR0032775" label-id="12033234" bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2">artikel 2</intref>, een register in stand van de wettelijke voorraad. Dit register bevat de in het tweede en derde lid bedoelde informatie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=4&amp;artikel=16&amp;lid=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf4/Artikel16/Lid2" label-id="12033414L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De voorraadplichtige verstrekt aan Onze Minister gegevens omtrent de omvang en samenstelling van de in voorraad aangehouden aardolieproducten, de plaats waar deze producten worden aangehouden, zijn rechtsbetrekking daartoe, alsmede, indien er sprake is van overdracht van de verplichting om voorraden aardolieproducten aan te houden, omtrent de in dit verband gehanteerde financiële vergoeding, als bij ministeriële regeling bepaald.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=4&amp;artikel=16&amp;lid=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf4/Artikel16/Lid3" label-id="12033414L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het tweede lid is van overeenkomstige toepassing op degene die, zelf niet voorraadplichtig, ten behoeve van een voorraadplichtige een voorraad aardolieproducten beheert.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=4&amp;artikel=16&amp;lid=3&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf4/Artikel16/Lid4" label-id="12033414L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De regeling, bedoeld in het tweede lid, heeft betrekking op de inhoud van de gevraagde gegevens, de wijze waarop zij worden verstrekt, en de tijdstippen waarop zij worden verstrekt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=4&amp;artikel=16&amp;lid=4&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf4/Artikel16/Lid5" label-id="12033414L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Een voorraadplichtige meldt aan Onze Minister zodra hij in staat van surseance van betaling dan wel van faillissement is komen te verkeren, alsmede indien op het voor hem vastgestelde gedeelte van de wettelijke voorraad beslag is gelegd dan wel ten aanzien van hem andere executiemaatregelen zijn getroffen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=4&amp;artikel=16&amp;lid=5&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=16&amp;g=2021-07-23" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=4&amp;artikel=16&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=16"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf4/Artikel17" stam-id="12061803" versie-id="20098082" id="C28571601" label-id="12033424" inwerking="2013-04-01" label="Artikel 17" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">17</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf4/Artikel17/Lid1" label-id="12033424L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>COVA houdt een openbaar register in stand van:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf4/Artikel17/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>alle gegevens over de hoeveelheid aardolieproducten waarover COVA per productcategorie beschikt om een voorraad aardolieproducten aan te houden ten behoeve van marktdeelnemers of van centrale entiteiten van andere lidstaten;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=4&amp;artikel=17&amp;lid=1&amp;o=a&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf4/Artikel17/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de voorwaarden waaronder zij bereid is voor marktdeelnemers een voorraad aardolieproducten aan te houden.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=4&amp;artikel=17&amp;lid=1&amp;o=b&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=4&amp;artikel=17&amp;lid=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf4/Artikel17/Lid2" label-id="12033424L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De in het eerste lid, onder b, bedoelde voorwaarden worden ten minste zeven maanden voorafgaand aan de overdracht van de verplichting om een voorraad aardolieproducten aan te houden, bekend gemaakt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=4&amp;artikel=17&amp;lid=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=17&amp;g=2021-07-23" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=4&amp;artikel=17&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=17"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf4/Artikel18" stam-id="12061813" versie-id="20098092" id="C28571611" label-id="12033434" inwerking="2013-04-01" label="Artikel 18" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">18</nr>
+  </kop>
+  <al>De voorraadplichtige bewaart gegevens, overzichten en bescheiden met betrekking tot een wettelijke voorraad gedurende ten minste vijf jaar.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=18&amp;g=2021-07-23" onderdeel="artikel=18" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=18"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=4&amp;artikel=18&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=18" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=18"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;paragraaf=4&amp;g=2021-07-23" onderdeel="paragraaf=4" korte-verwijzing="1.0:c:BWBR0032775&amp;paragraaf=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=4&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="paragraaf=4" korte-verwijzing="jci1.3:c:BWBR0032775&amp;paragraaf=4"/></jcis></meta-data></paragraaf><paragraaf bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf5" stam-id="12061843" versie-id="20098122" id="C28571401" label-id="12033464" inwerking="2013-04-01" label="§ 5" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">5</nr>
+    <titel status="officieel">Ontheffingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf5/Artikel19" stam-id="12061833" versie-id="20098112" id="C28571621" label-id="12033454" inwerking="2013-04-01" label="Artikel 19" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">19</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf5/Artikel19/Lid1" label-id="12033454L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister kan op verzoek van een voorraadplichtige ontheffing verlenen van de <intref verwijzing-id="2545966" doc="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=4&amp;z=2021-07-23&amp;g=2021-07-23" bwb-id="BWBR0032775" label-id="12033264" bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel4">artikelen 4, eerste lid, onder a</intref>, en <intref verwijzing-id="2545967" doc="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=4&amp;artikel=16&amp;z=2021-07-23&amp;g=2021-07-23" bwb-id="BWBR0032775" label-id="12033414" bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf4/Artikel16">16, tweede lid</intref>, indien de voorraadplicht voor de voorraadplichtige leidt tot een onevenredig zware financiële belasting doordat hij</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf5/Artikel19/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>niet of slechts voor een zeer gering deel de in voorraad te houden aardolieproducten in eigendom heeft en niet of slechts in geringe mate beschikt over opslagcapaciteit voor de aardolieproducten of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=5&amp;artikel=19&amp;lid=1&amp;o=a&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf5/Artikel19/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>in omstandigheden als bedoeld in <intref verwijzing-id="2545968" doc="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=4&amp;artikel=16&amp;z=2021-07-23&amp;g=2021-07-23" bwb-id="BWBR0032775" label-id="12033414" bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf4/Artikel16">artikel 16, vijfde lid</intref>, verkeert of dreigt te gaan verkeren of getroffen wordt of dreigt te worden getroffen door de daar bedoelde maatregelen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=5&amp;artikel=19&amp;lid=1&amp;o=b&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=5&amp;artikel=19&amp;lid=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf5/Artikel19/Lid2" label-id="12033454L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De ontheffing kan betrekking hebben op een deel van de verplichting of een bepaalde categorie aardolieproducten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=5&amp;artikel=19&amp;lid=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf5/Artikel19/Lid3" label-id="12033454L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Geen ontheffing wordt verleend indien de voorraadplichtige in dezelfde periode tegen betaling voorraden van dezelfde categorie aardolieproduct voor derden aanhoudt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=5&amp;artikel=19&amp;lid=3&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf5/Artikel19/Lid4" label-id="12033454L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de voorwaarden waaronder een ontheffing wordt verleend.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=5&amp;artikel=19&amp;lid=4&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf5/Artikel19/Lid5" label-id="12033454L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Een ontheffing kan onder beperkingen worden verleend en aan een ontheffing kunnen voorschriften worden verbonden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=5&amp;artikel=19&amp;lid=5&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf5/Artikel19/Lid6" label-id="12033454L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Een voorraadplichtige is verplicht zich te houden aan de opgelegde beperkingen en voorschriften.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=5&amp;artikel=19&amp;lid=6&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf5/Artikel19/Lid7" label-id="12033454L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Een ontheffing kan worden gewijzigd of ingetrokken</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf5/Artikel19/Lid7/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>op verzoek van de houder van de ontheffing,</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=5&amp;artikel=19&amp;lid=7&amp;o=a&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf5/Artikel19/Lid7/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>indien niet voldaan wordt aan de opgelegde beperkingen of voorschriften,</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=5&amp;artikel=19&amp;lid=7&amp;o=b&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf5/Artikel19/Lid7/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>indien gedurende de looptijd blijkt dat de voorraadplichtige tegen betaling voorraden van dezelfde categorie aardolieproduct voor derden aanhoudt of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=5&amp;artikel=19&amp;lid=7&amp;o=c&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf5/Artikel19/Lid7/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>ambtshalve, indien dit naar het oordeel van Onze Minister om gewichtige redenen noodzakelijk is.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=5&amp;artikel=19&amp;lid=7&amp;o=d&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=5&amp;artikel=19&amp;lid=7&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=7"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=19&amp;g=2021-07-23" onderdeel="artikel=19" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=19"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=5&amp;artikel=19&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=19" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=19"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;paragraaf=5&amp;g=2021-07-23" onderdeel="paragraaf=5" korte-verwijzing="1.0:c:BWBR0032775&amp;paragraaf=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=5&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="paragraaf=5" korte-verwijzing="jci1.3:c:BWBR0032775&amp;paragraaf=5"/></jcis></meta-data></paragraaf><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;titeldeel=1&amp;g=2021-07-23" onderdeel="titeldeel=1" korte-verwijzing="1.0:c:BWBR0032775&amp;titeldeel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="titeldeel=1" korte-verwijzing="jci1.3:c:BWBR0032775&amp;titeldeel=1"/></jcis></meta-data></titeldeel><titeldeel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel2" stam-id="12061923" versie-id="20098202" id="C28571341" label-id="12033544" inwerking="2013-04-01" label="Titel 2" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Titel</label>
+    <nr status="officieel">2</nr>
+    <titel status="officieel">Institutionele bepalingen omtrent COVA</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel2/Artikel20" stam-id="12061863" versie-id="20098142" id="C28571631" label-id="12033484" inwerking="2013-04-01" label="Artikel 20" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">20</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel2/Artikel20/Lid1" label-id="12033484L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister draagt er zorg voor dat er een Stichting Centraal Orgaan Voorraadvorming Aardolieproducten is.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=2&amp;artikel=20&amp;lid=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel2/Artikel20/Lid2" label-id="12033484L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>COVA heeft tot taak om, met inachtneming van de vereiste zekerheid van voorziening van aardolieproducten, haar gedeelte van de wettelijke voorraad tegen zo laag mogelijke kosten aan te houden en te doen al hetgeen daarvoor bevorderlijk kan zijn.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=2&amp;artikel=20&amp;lid=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=20&amp;g=2021-07-23" onderdeel="artikel=20" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=20"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=2&amp;artikel=20&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=20" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=20"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel2/Artikel21" stam-id="12061873" versie-id="20098152" id="C28571641" label-id="12033494" inwerking="2013-04-01" label="Artikel 21" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">21</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel2/Artikel21/Lid1" label-id="12033494L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het bestuur van COVA bestaat uit ten minste drie en ten hoogste vijf leden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=2&amp;artikel=21&amp;lid=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel2/Artikel21/Lid2" label-id="12033494L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister benoemt en ontslaat de voorzitter en de overige leden van het bestuur.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=2&amp;artikel=21&amp;lid=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=21&amp;g=2021-07-23" onderdeel="artikel=21" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=21"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=2&amp;artikel=21&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=21" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=21"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel2/Artikel22" stam-id="12061883" versie-id="20098162" id="C28571651" label-id="12033504" inwerking="2013-04-01" label="Artikel 22" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">22</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel2/Artikel22/Lid1" label-id="12033504L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Slechts Onze Minister kan de statuten van COVA wijzigen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=2&amp;artikel=22&amp;lid=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel2/Artikel22/Lid2" label-id="12033504L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister kan, het bestuur van COVA gehoord, COVA bindende aanwijzingen geven, die hij voor een goede taakvervulling van COVA noodzakelijk acht. Deze aanwijzingen kunnen onder meer betrekking hebben op de categorieën van producten die COVA dient aan te houden, op de wijze en plaats van opslag daarvan en op de aanwending van de voorraden van COVA bij een oliecrisis of dreigende oliecrisis.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=2&amp;artikel=22&amp;lid=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel2/Artikel22/Lid3" label-id="12033504L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>COVA verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=2&amp;artikel=22&amp;lid=3&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=22&amp;g=2021-07-23" onderdeel="artikel=22" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=22"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=2&amp;artikel=22&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=22" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=22"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel2/Artikel23" stam-id="12061893" versie-id="20098172" id="C28571661" label-id="12033514" inwerking="2013-04-01" label="Artikel 23" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">23</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel2/Artikel23/Lid1" label-id="12033514L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De begroting van inkomsten en uitgaven en de jaarrekening van COVA behoeven, na door het bestuur van COVA te zijn vastgesteld, de goedkeuring van Onze Minister.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=2&amp;artikel=23&amp;lid=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel2/Artikel23/Lid2" label-id="12033514L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het bestuur van COVA biedt jaarlijks vóór 1 februari aan Onze Minister ter goedkeuring de begroting voor het betreffende kalenderjaar aan, vergezeld van de nodige toelichting en bescheiden. Indien de begroting niet vóór de aanvang van het kalenderjaar waarvoor zij moet dienen, is goedgekeurd, kan Onze Minister COVA machtigen bepaalde uitgaven te doen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=2&amp;artikel=23&amp;lid=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel2/Artikel23/Lid3" label-id="12033514L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het bestuur van COVA biedt Onze Minister jaarlijks vóór 1 juli aan de rekening van inkomsten en uitgaven over het afgelopen kalenderjaar, alsmede een overzicht van de grootte en samenstelling van het vermogen aan het einde van dat jaar en een bijbehorende toelichting. De overgelegde stukken behoeven een verklaring van een accountant als bedoeld in <extref doc="jci1.3:c:BWBR0003045&amp;artikel=393" verwijzing-id="2545947" bwb-id="BWBR0003045" label-id="2872984">artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek</extref>, die door het bestuur van COVA is aangewezen. Zij gaan verder vergezeld van een verslag van de accountant, bevattende opmerkingen waartoe diens onderzoek aanleiding geeft.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=2&amp;artikel=23&amp;lid=3&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel2/Artikel23/Lid4" label-id="12033514L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De goedkeuring van de jaarrekening strekt, voor zover het de daarbij goedgekeurde inkomsten en uitgaven betreft, tot decharge van het bestuur, behoudens in geval van later gebleken valsheid in bewijsstukken of andere onregelmatigheden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=2&amp;artikel=23&amp;lid=4&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=23&amp;g=2021-07-23" onderdeel="artikel=23" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=23"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=2&amp;artikel=23&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=23" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=23"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel2/Artikel24" stam-id="12061903" versie-id="20098182" id="C28571671" label-id="12033524" inwerking="2013-04-01" label="Artikel 24" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">24</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel2/Artikel24/Lid1" label-id="12033524L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien COVA naar het oordeel van Onze Minister haar taak ernstig verwaarloost, kan Onze Minister de noodzakelijke voorzieningen treffen, zo nodig met afwijking van de statuten van COVA.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=2&amp;artikel=24&amp;lid=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel2/Artikel24/Lid2" label-id="12033524L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De voorzieningen worden, spoedeisende gevallen uitgezonderd, niet eerder getroffen dan nadat COVA in de gelegenheid is gesteld om binnen een door Onze Minister gestelde termijn alsnog haar taak naar behoren uit te voeren.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=2&amp;artikel=24&amp;lid=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=24&amp;g=2021-07-23" onderdeel="artikel=24" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=24"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=2&amp;artikel=24&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=24" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=24"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel2/Artikel25" stam-id="12061913" versie-id="20098192" id="C28571681" label-id="12033534" inwerking="2013-04-01" label="Artikel 25" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">25</nr>
+  </kop>
+  <al>De staat is aansprakelijk voor schulden van COVA, die mochten overblijven na haar liquidatie als rechtspersoon.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=25&amp;g=2021-07-23" onderdeel="artikel=25" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=25"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=2&amp;artikel=25&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=25" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=25"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;titeldeel=2&amp;g=2021-07-23" onderdeel="titeldeel=2" korte-verwijzing="1.0:c:BWBR0032775&amp;titeldeel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="titeldeel=2" korte-verwijzing="jci1.3:c:BWBR0032775&amp;titeldeel=2"/></jcis></meta-data></titeldeel><titeldeel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel3" stam-id="12061953" versie-id="20098232" id="C28571351" label-id="12033574" inwerking="2013-04-01" label="Titel 3" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Titel</label>
+    <nr status="officieel">3</nr>
+    <titel status="officieel">Voorraadheffing ten behoeve van de financiering van COVA</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel3/Artikel26" stam-id="12061933" versie-id="20098212" id="C28571691" label-id="12033554" inwerking="2013-04-01" label="Artikel 26" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">26</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel3/Artikel26/Lid1" label-id="12033554L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onder de naam voorraadheffing wordt een heffing geheven van de in <intref verwijzing-id="2545964" doc="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=3&amp;artikel=27&amp;z=2021-07-23&amp;g=2021-07-23" bwb-id="BWBR0032775" label-id="12033564" bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel3/Artikel27">artikel 27</intref> bedoelde producten. De voorraadheffing strekt tot financiering van de exploitatiekosten van COVA.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=3&amp;artikel=26&amp;lid=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel3/Artikel26/Lid2" label-id="12033554L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De voorraadheffing wordt vanwege Onze Minister van Financiën door de rijksbelastingdienst geheven en ingevorderd als ware het accijns.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=3&amp;artikel=26&amp;lid=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel3/Artikel26/Lid3" label-id="12033554L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Onze Minister van Financiën keert de opbrengst van de voorraadheffing uit aan COVA, of, na liquidatie van COVA als rechtspersoon, aan Onze Minister.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=3&amp;artikel=26&amp;lid=3&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=26&amp;g=2021-07-23" onderdeel="artikel=26" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=26"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=3&amp;artikel=26&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=26" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=26"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel3/Artikel27" stam-id="12061943" versie-id="20098222" id="C28571701" label-id="12033564" inwerking="2013-04-01" label="Artikel 27" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">27</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel3/Artikel27/Lid1" label-id="12033564L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De heffing bedraagt voor:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel3/Artikel27/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>lichte olie, per 1 000 liter bij een temperatuur van 15 graden Celsius: € 8,00;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=3&amp;artikel=27&amp;lid=1&amp;o=a&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel3/Artikel27/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>halfzware olie, per 1 000 liter bij een temperatuur van 15 graden Celsius: € 8,00;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=3&amp;artikel=27&amp;lid=1&amp;o=b&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel3/Artikel27/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>gasolie, per 1 000 liter bij een temperatuur van 15 graden Celsius: € 8,00;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=3&amp;artikel=27&amp;lid=1&amp;o=c&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel3/Artikel27/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>vloeibaar gemaakt petroleumgas, per 1 000 kilogram: € 8,00.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=3&amp;artikel=27&amp;lid=1&amp;o=d&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=3&amp;artikel=27&amp;lid=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel3/Artikel27/Lid2" label-id="12033564L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onder de in het eerste lid genoemde producten wordt verstaan hetgeen daaronder wordt verstaan ingevolge de <extref doc="jci1.3:c:BWBR0005251&amp;artikel=26" verwijzing-id="2545948" bwb-id="BWBR0005251" label-id="882394">artikelen 26</extref> en <extref doc="jci1.3:c:BWBR0005251&amp;artikel=28" verwijzing-id="2545949" bwb-id="BWBR0005251" label-id="882424">28 van de Wet op de accijns</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=3&amp;artikel=27&amp;lid=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=27&amp;g=2021-07-23" onderdeel="artikel=27" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=27"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=3&amp;artikel=27&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=27" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=27"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;titeldeel=3&amp;g=2021-07-23" onderdeel="titeldeel=3" korte-verwijzing="1.0:c:BWBR0032775&amp;titeldeel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=3&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="titeldeel=3" korte-verwijzing="jci1.3:c:BWBR0032775&amp;titeldeel=3"/></jcis></meta-data></titeldeel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;hoofdstuk=2&amp;g=2021-07-23" onderdeel="hoofdstuk=2" korte-verwijzing="1.0:c:BWBR0032775&amp;hoofdstuk=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="hoofdstuk=2" korte-verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=2"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk3" stam-id="12062003" versie-id="20098282" id="C28571311" label-id="12033624" inwerking="2013-04-01" label="Hoofdstuk 3" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">3</nr>
+    <titel status="officieel">Het in Nederland aanhouden van voorraden ter naleving van internationale verplichtingen van andere landen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk3/Artikel28" stam-id="12061973" versie-id="20098252" id="C28571711" label-id="12033594" inwerking="2013-04-01" label="Artikel 28" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">28</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel28/Lid1" label-id="12033594L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het in Nederland aanhouden van een voorraad aardolieproducten ter naleving van internationale verplichtingen van een andere staat dan Nederland dan wel van een onderdaan van die staat, behoeft de voorafgaande instemming van Onze Minister.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=3&amp;artikel=28&amp;lid=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel28/Lid2" label-id="12033594L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister kan een aanvraag tot het mogen aanhouden van voorraad slechts weigeren indien:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel28/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>instemming naar zijn oordeel zou kunnen leiden tot een situatie die in strijd zou zijn met <extref doc="32009L0119" label="richtlijn" reeks="Celex">richtlijn 2009/119/EG</extref> onderscheidenlijk met de krachtens <intref verwijzing-id="2545959" doc="jci1.3:c:BWBR0032775&amp;hoofdstuk=3&amp;artikel=30&amp;z=2021-07-23&amp;g=2021-07-23" bwb-id="BWBR0032775" label-id="12033614" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel30">artikel 30</intref> gestelde regels of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=3&amp;artikel=28&amp;lid=2&amp;o=a&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel28/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>weigering naar zijn oordeel anderszins noodzakelijk is met het oog op de naleving van voor Nederland geldende internationale verplichtingen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=3&amp;artikel=28&amp;lid=2&amp;o=b&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=3&amp;artikel=28&amp;lid=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=28&amp;g=2021-07-23" onderdeel="artikel=28" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=28"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=3&amp;artikel=28&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=28" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=28"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk3/Artikel29" code="b1-29" stam-id="12061983" versie-id="20098262" id="C28571721" label-id="12033604" inwerking="2013-04-01" label="Artikel 29" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">29</nr>
+  </kop>
+  <al>De <intref verwijzing-id="2545981" doc="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=4&amp;artikel=16&amp;z=2021-07-23&amp;g=2021-07-23" bwb-id="BWBR0032775" label-id="12033414" bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf4/Artikel16">artikelen 16</intref> en <intref verwijzing-id="2545982" doc="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=4&amp;artikel=18&amp;z=2021-07-23&amp;g=2021-07-23" bwb-id="BWBR0032775" label-id="12033434" bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf4/Artikel18">18 </intref>zijn van overeenkomstige toepassing op degene die in Nederland een voorraad aardolieproducten aanhoudt ter naleving van internationale verplichtingen van een andere staat dan Nederland dan wel van een onderdaan van die staat.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=29&amp;g=2021-07-23" onderdeel="artikel=29" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=29"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=3&amp;artikel=29&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=29" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=29"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk3/Artikel30" stam-id="12061993" versie-id="20098272" id="C28571731" label-id="12033614" inwerking="2013-04-01" label="Artikel 30" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">30</nr>
+  </kop>
+  <al>Bij algemene maatregel van bestuur kunnen nadere voorschriften en beperkingen worden gesteld aan het in Nederland aanhouden van een voorraad aardolieproducten ter naleving van internationale verplichtingen van een andere staat dan Nederland dan wel van een onderdaan van die staat.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=30&amp;g=2021-07-23" onderdeel="artikel=30" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=30"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=3&amp;artikel=30&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=30" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=30"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;hoofdstuk=3&amp;g=2021-07-23" onderdeel="hoofdstuk=3" korte-verwijzing="1.0:c:BWBR0032775&amp;hoofdstuk=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=3&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="hoofdstuk=3" korte-verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=3"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk4" stam-id="12062093" versie-id="20098372" id="C28571321" label-id="12033714" inwerking="2013-04-01" label="Hoofdstuk 4" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">4</nr>
+    <titel status="officieel">Slotbepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Artikel31" code="b1-31" stam-id="12062013" versie-id="21195122" id="C30431631" label-id="12033634" inwerking="2014-01-25" label="Artikel 31" bron="Stb.2014-14" effect="wijziging" ondertekening_bron="2013-12-18" publicatie_bron="2014-01-17" publicatie_iwt="2014-01-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">31</nr>
+  </kop>
+  <al>De voor het uitoefenen van toezicht aangewezen ambtenaren zijn belast met het verlenen van bijstand aan inspecties op grond van richtlijn 2009/119/EG door personen die de Europese Commissie daartoe heeft gemachtigd. Op deze inspecties is <extref doc="jci1.3:c:BWBR0005537&amp;afdeling=5.2" verwijzing-id="2618646" bwb-id="BWBR0005537" label-id="2820084">afdeling 5.2 van de Algemene wet bestuursrecht</extref> van overeenkomstige toepassing.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-14"><publicatiejaar>2014</publicatiejaar><publicatienr>14</publicatienr><uitgiftedatum isodatum="2014-01-17">17-01-2014</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-18">18-12-2013</ondertekeningsdatum><dossierref dossier="33773">33773</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-31"><publicatiejaar>2014</publicatiejaar><publicatienr>31</publicatienr><uitgiftedatum isodatum="2014-01-24">24-01-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-01-20">20-01-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2014-01-25">25-01-2014</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=31&amp;g=2021-07-23" onderdeel="artikel=31" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=31"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=4&amp;artikel=31&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=31" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=31"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Artikel32" stam-id="12062023" versie-id="20119682" id="C28571821" label-id="12033644" inwerking="2013-04-01" label="Artikel 32" bron="Stb.2013-15" effect="vervallen" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>32</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=32&amp;g=2021-07-23" onderdeel="artikel=32" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=32"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=4&amp;artikel=32&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=32" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=32"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Artikel33" stam-id="12062033" versie-id="20098312" id="C28571761" label-id="12033654" inwerking="2013-04-01" label="Artikel 33" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">33</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de economische delicten.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=33&amp;g=2021-07-23" onderdeel="artikel=33" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=33"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=4&amp;artikel=33&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=33" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=33"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Artikel34" stam-id="12062043" versie-id="20098322" id="C28571771" label-id="12033664" inwerking="2013-04-01" label="Artikel 34" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">34</nr>
+  </kop>
+  <al>Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet, en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk en over de doeltreffendheid en doelmatigheid van het functioneren van COVA.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=34&amp;g=2021-07-23" onderdeel="artikel=34" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=34"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=4&amp;artikel=34&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=34" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=34"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Artikel35" stam-id="12062053" versie-id="20098332" id="C28571781" label-id="12033674" inwerking="2013-04-01" label="Artikel 35" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">35</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt deze wet en de Algemene wet bestuursrecht.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=35&amp;g=2021-07-23" onderdeel="artikel=35" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=35"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=4&amp;artikel=35&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=35" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=35"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Artikel36" stam-id="12062063" versie-id="20098342" id="C28571791" label-id="12033684" inwerking="2013-04-01" label="Artikel 36" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">36</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel36/Lid1" label-id="12033684L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De <extref doc="jci1.3:c:BWBR0012373" verwijzing-id="2545951" bwb-id="BWBR0012373" label-id="1522564">Wet voorraadvorming aardolieproducten 2001</extref> wordt ingetrokken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=4&amp;artikel=36&amp;lid=1&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel36/Lid2" label-id="12033684L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De bepalingen van de <extref doc="jci1.3:c:BWBR0012373" verwijzing-id="2545952" bwb-id="BWBR0012373" label-id="1522564">Wet voorraadvorming aardolieproducten 2001</extref> blijven van toepassing met betrekking tot feiten die leiden tot de verschuldigdheid van voorraadheffing of tot de voldoening van voorraadheffing, die hebben plaatsgevonden voor 1 april 2013 en met betrekking tot strafbare feiten die hebben plaatsgevonden voor die datum.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=4&amp;artikel=36&amp;lid=2&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel36/Lid3" label-id="12033684L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>In afwijking van <intref verwijzing-id="2545960" doc="jci1.3:c:BWBR0032775&amp;hoofdstuk=2&amp;titeldeel=1&amp;paragraaf=1&amp;artikel=4&amp;z=2021-07-23&amp;g=2021-07-23" bwb-id="BWBR0032775" label-id="12033264" bwb-ng-variabel-deel="/Hoofdstuk2/Titeldeel1/Paragraaf1/Artikel4">artikel 4, eerste lid</intref>, stelt Onze Minister met betrekking tot een periode liggende tussen 31 december 2012 tot en met 31 maart 2013 de omvang en samenstelling van de in voorraad aan te houden aardolieproducten vast overeenkomstig artikel 3, derde lid, van <extref doc="32009L0119" label="richtlijn" reeks="Celex">richtlijn 2009/119/EG</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=4&amp;artikel=36&amp;lid=3&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=36&amp;g=2021-07-23" onderdeel="artikel=36" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=36"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=4&amp;artikel=36&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=36" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=36"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Artikel37" stam-id="12062073" versie-id="20098352" id="C28571801" label-id="12033694" inwerking="2013-04-01" label="Artikel 37" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">37</nr>
+  </kop>
+  <al>De artikelen van deze wet treden in werking met ingang van een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=37&amp;g=2021-07-23" onderdeel="artikel=37" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=37"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=4&amp;artikel=37&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=37" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=37"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Artikel38" stam-id="12062083" versie-id="20098362" id="C28571811" label-id="12033704" inwerking="2013-04-01" label="Artikel 38" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">38</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet voorraadvorming aardolieproducten 2012.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;artikel=38&amp;g=2021-07-23" onderdeel="artikel=38" korte-verwijzing="1.0:c:BWBR0032775&amp;artikel=38"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=4&amp;artikel=38&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="artikel=38" korte-verwijzing="jci1.3:c:BWBR0032775&amp;artikel=38"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;hoofdstuk=4&amp;g=2021-07-23" onderdeel="hoofdstuk=4" korte-verwijzing="1.0:c:BWBR0032775&amp;hoofdstuk=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=4&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="hoofdstuk=4" korte-verwijzing="jci1.3:c:BWBR0032775&amp;hoofdstuk=4"/></jcis></meta-data></hoofdstuk>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="12062103" versie-id="20098382" id="C28571831" label-id="12033724" inwerking="2013-04-01" bron="Stb.2013-15" effect="nieuwe-regeling" ondertekening_bron="2012-12-20" publicatie_bron="2013-01-17" publicatie_iwt="2013-03-28" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>’s-Gravenhage</plaats>
+      <datum isodatum="2012-12-20">20 december 2012</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Economische Zaken,</functie>
+    <naam>
+      <voornaam>H. G. J.</voornaam>
+      <achternaam>Kamp</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2013-01-17">de <nadruk type="cur">zeventiende</nadruk> januari 2013</datum>
+    <ondertekening>
+      <functie>De Minister van Veiligheid en Justitie,</functie>
+      <naam>
+        <voornaam>I. W.</voornaam>
+        <achternaam>Opstelten</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-15"><publicatiejaar>2013</publicatiejaar><publicatienr>15</publicatienr><uitgiftedatum isodatum="2013-01-17">17-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33357">33357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-113"><publicatiejaar>2013</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2013-03-28">28-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-12">12-03-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-04-01">01-04-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032775&amp;g=2021-07-23" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0032775"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032775&amp;z=2021-07-23&amp;g=2021-07-23" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0032775"/></jcis></meta-data></wetgeving></toestand>

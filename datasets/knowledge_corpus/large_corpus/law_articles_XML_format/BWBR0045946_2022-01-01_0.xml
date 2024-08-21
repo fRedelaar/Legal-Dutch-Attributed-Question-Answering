@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0045946/2022-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0045946" inwerkingtreding="2022-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="16163003" versie-id="28200842" id="C39861131" label-id="16091424" inwerkingtredingsdatum="2022-01-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="16163023" versie-id="28200742" id="C39861141" label-id="16091324" inwerking="2022-01-01" bron="Stb.2021-576" effect="nieuwe-regeling" ondertekening_bron="2021-11-17" publicatie_bron="2021-11-30" publicatie_iwt="2021-12-17" status="goed">Wet van 17 november 2021, houdende instelling van een adviescollege op het terrein van de rechtspositie van politieke ambtsdragers (Wet adviescollege rechtspositie politieke ambtsdragers)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-576"><publicatiejaar>2021</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2021-11-30">30-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-17">17-11-2021</ondertekeningsdatum><dossierref dossier="35530">35530</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-622"><publicatiejaar>2021</publicatiejaar><publicatienr>622</publicatienr><uitgiftedatum isodatum="2021-12-17">17-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-12-08">08-12-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="16163033" versie-id="28200752" id="C39861091" label-id="16091334" inwerking="2022-01-01" bron="Stb.2021-576" effect="nieuwe-regeling" ondertekening_bron="2021-11-17" publicatie_bron="2021-11-30" publicatie_iwt="2021-12-17">Wet adviescollege rechtspositie politieke ambtsdragers<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-576"><publicatiejaar>2021</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2021-11-30">30-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-17">17-11-2021</ondertekeningsdatum><dossierref dossier="35530">35530</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-622"><publicatiejaar>2021</publicatiejaar><publicatienr>622</publicatienr><uitgiftedatum isodatum="2021-12-17">17-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-12-08">08-12-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="16163043" versie-id="28200762" id="C39861151" label-id="16091344" inwerking="2022-01-01" bron="Stb.2021-576" effect="nieuwe-regeling" ondertekening_bron="2021-11-17" publicatie_bron="2021-11-30" publicatie_iwt="2021-12-17" status="goed">
+  <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is een adviescollege in te stellen dat de regering adviseert over de geldelijke aanspraken van politieke ambtsdragers en leden van de Hoge Colleges van Staat;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-576"><publicatiejaar>2021</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2021-11-30">30-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-17">17-11-2021</ondertekeningsdatum><dossierref dossier="35530">35530</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-622"><publicatiejaar>2021</publicatiejaar><publicatienr>622</publicatienr><uitgiftedatum isodatum="2021-12-17">17-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-12-08">08-12-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="16163053" versie-id="28200772" id="C39861111" label-id="16091354" inwerking="2022-01-01" label="Artikel 1" bron="Stb.2021-576" effect="nieuwe-regeling" ondertekening_bron="2021-11-17" publicatie_bron="2021-11-30" publicatie_iwt="2021-12-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid1" label-id="16091354L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Er is een adviescollege rechtspositie politieke ambtsdragers.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045946&amp;artikel=1&amp;lid=1&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid2" label-id="16091354L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het adviescollege bestaat, met inbegrip van de voorzitter, uit ten minste vijf leden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045946&amp;artikel=1&amp;lid=2&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-576"><publicatiejaar>2021</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2021-11-30">30-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-17">17-11-2021</ondertekeningsdatum><dossierref dossier="35530">35530</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-622"><publicatiejaar>2021</publicatiejaar><publicatienr>622</publicatienr><uitgiftedatum isodatum="2021-12-17">17-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-12-08">08-12-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045946&amp;artikel=1&amp;g=2022-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0045946&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045946&amp;artikel=1&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0045946&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" stam-id="16163063" versie-id="28200782" id="C39861071" label-id="16091364" inwerking="2022-01-01" label="Artikel 2" bron="Stb.2021-576" effect="nieuwe-regeling" ondertekening_bron="2021-11-17" publicatie_bron="2021-11-30" publicatie_iwt="2021-12-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <al>Het adviescollege heeft tot taak de regering te adviseren over het beloningsniveau, de onderlinge beloningsverhoudingen en overige geldelijke aanspraken van:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeel._1">
+      <li.nr>–</li.nr>
+      <al>de leden van de Eerste en Tweede Kamer der Staten-Generaal;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeel._2">
+      <li.nr>–</li.nr>
+      <al>Onze ministers en staatssecretarissen;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeel._3">
+      <li.nr>–</li.nr>
+      <al>de leden van de Raad van State;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeel._4">
+      <li.nr>–</li.nr>
+      <al>de leden van de Algemene Rekenkamer;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeel._5">
+      <li.nr>–</li.nr>
+      <al>de Nationale ombudsman en de substituut-ombudsmannen;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeel._6">
+      <li.nr>–</li.nr>
+      <al>de leden van provinciale staten;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeel._7">
+      <li.nr>–</li.nr>
+      <al>de commissarissen van de Koning en gedeputeerden;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeel._8">
+      <li.nr>–</li.nr>
+      <al>de leden van gemeenteraden;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeel._9">
+      <li.nr>–</li.nr>
+      <al>de burgemeesters en wethouders;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeel._10">
+      <li.nr>–</li.nr>
+      <al>de leden van het algemeen bestuur van waterschappen;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeel._11">
+      <li.nr>–</li.nr>
+      <al>de voorzitters en leden van het dagelijks bestuur van waterschappen;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeel._12">
+      <li.nr>–</li.nr>
+      <al>de leden van de eilandsraden;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeel._13">
+      <li.nr>–</li.nr>
+      <al>de gezaghebbers en de eilandgedeputeerden, en</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeel._14">
+      <li.nr>–</li.nr>
+      <al>de Rijksvertegenwoordiger BES.</al>
+    </li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-576"><publicatiejaar>2021</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2021-11-30">30-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-17">17-11-2021</ondertekeningsdatum><dossierref dossier="35530">35530</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-622"><publicatiejaar>2021</publicatiejaar><publicatienr>622</publicatienr><uitgiftedatum isodatum="2021-12-17">17-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-12-08">08-12-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045946&amp;artikel=2&amp;g=2022-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0045946&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045946&amp;artikel=2&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0045946&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="16163073" versie-id="28200792" id="C39861081" label-id="16091374" inwerking="2022-01-01" label="Artikel 3" bron="Stb.2021-576" effect="nieuwe-regeling" ondertekening_bron="2021-11-17" publicatie_bron="2021-11-30" publicatie_iwt="2021-12-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="16091374L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De leden van het adviescollege hebben zitting zonder last.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045946&amp;artikel=3&amp;lid=1&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="16091374L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De leden van het adviescollege vervullen geen functies waarvan de uitoefening onverenigbaar is met de onafhankelijke taakvervulling van het adviescollege.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045946&amp;artikel=3&amp;lid=2&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid3" label-id="16091374L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Een lid van het adviescollege bekleedt geen functie, genoemd in <intref doc="jci1.3:c:BWBR0045946&amp;artikel=2&amp;z=2022-01-01&amp;g=2022-01-01" label-id="16091364" verwijzing-id="3119458" bwb-id="BWBR0045946" bwb-ng-variabel-deel="/Artikel2">artikel 2</intref>, en heeft gedurende de twee jaar voorafgaand aan diens benoeming niet een in artikel 2, met uitzondering van de functies van lid van de Raad van State, lid van de Algemene Rekenkamer, Nationale ombudsman of substituut-ombudsman of Rijksvertegenwoordiger BES, genoemde functie bekleed.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045946&amp;artikel=3&amp;lid=3&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid4" label-id="16091374L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Een lid van het adviescollege bekleedt geen functie als topfunctionaris als bedoeld in <extref doc="jci1.3:c:BWBR0032249&amp;artikel=1.1" label-id="11886144" verwijzing-id="3119457" bwb-id="BWBR0032249">artikel 1.1, onderdeel b, van de Wet normering topinkomens</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045946&amp;artikel=3&amp;lid=4&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid5" label-id="16091374L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Alvorens hun lidmaatschap te aanvaarden, leggen de te benoemen voorzitter en leden een verklaring af dat zij tot het verkrijgen van hun benoeming rechtstreeks noch middellijk, onder welke naam of onder welk voorwendsel ook, aan iemand iets hebben gegeven of beloofd, alsmede dat zij om iets in hun ambt te doen of te laten rechtstreeks noch middellijk van iemand enig geschenk of enige belofte hebben aangenomen of zullen aannemen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045946&amp;artikel=3&amp;lid=5&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid6" label-id="16091374L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>De verklaring gaat vergezeld van een opgave van de functies die de te benoemen leden vervullen</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045946&amp;artikel=3&amp;lid=6&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-576"><publicatiejaar>2021</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2021-11-30">30-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-17">17-11-2021</ondertekeningsdatum><dossierref dossier="35530">35530</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-622"><publicatiejaar>2021</publicatiejaar><publicatienr>622</publicatienr><uitgiftedatum isodatum="2021-12-17">17-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-12-08">08-12-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045946&amp;artikel=3&amp;g=2022-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0045946&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045946&amp;artikel=3&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0045946&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" stam-id="16163083" versie-id="28200802" id="C39861121" label-id="16091384" inwerking="2022-01-01" label="Artikel 4" bron="Stb.2021-576" effect="nieuwe-regeling" ondertekening_bron="2021-11-17" publicatie_bron="2021-11-30" publicatie_iwt="2021-12-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="16091384L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Aanpassingen in het beloningsniveau, de onderlinge beloningsverhoudingen en overige geldelijke aanspraken van de leden van de Eerste respectievelijk Tweede Kamer der Staten-Generaal als gevolg van een advies van het adviescollege treden niet in werking dan nadat een nieuw gekozen Eerste respectievelijk Tweede Kamer is samengekomen na het tijdstip dat het advies gegeven is.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045946&amp;artikel=4&amp;lid=1&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="16091384L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Aanpassingen in het beloningsniveau, de onderlinge beloningsverhoudingen en overige geldelijke aanspraken van Onze ministers en staatssecretarissen als gevolg van een advies van het adviescollege treden niet in werking dan nadat nieuwe ministers en staatssecretarissen naar aanleiding van een nieuw gekozen Tweede Kamer beëdigd zijn na het tijdstip dat het advies gegeven is.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045946&amp;artikel=4&amp;lid=2&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-576"><publicatiejaar>2021</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2021-11-30">30-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-17">17-11-2021</ondertekeningsdatum><dossierref dossier="35530">35530</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-622"><publicatiejaar>2021</publicatiejaar><publicatienr>622</publicatienr><uitgiftedatum isodatum="2021-12-17">17-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-12-08">08-12-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045946&amp;artikel=4&amp;g=2022-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0045946&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045946&amp;artikel=4&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0045946&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" stam-id="16163093" versie-id="28200812" id="C39861061" label-id="16091394" inwerking="2022-01-01" label="Artikel 5" bron="Stb.2021-576" effect="nieuwe-regeling" ondertekening_bron="2021-11-17" publicatie_bron="2021-11-30" publicatie_iwt="2021-12-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-576"><publicatiejaar>2021</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2021-11-30">30-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-17">17-11-2021</ondertekeningsdatum><dossierref dossier="35530">35530</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-622"><publicatiejaar>2021</publicatiejaar><publicatienr>622</publicatienr><uitgiftedatum isodatum="2021-12-17">17-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-12-08">08-12-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045946&amp;artikel=5&amp;g=2022-01-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0045946&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045946&amp;artikel=5&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0045946&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" stam-id="16163103" versie-id="28200822" id="C39861051" label-id="16091404" inwerking="2022-01-01" label="Artikel 6" bron="Stb.2021-576" effect="nieuwe-regeling" ondertekening_bron="2021-11-17" publicatie_bron="2021-11-30" publicatie_iwt="2021-12-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet adviescollege rechtspositie politieke ambtsdragers.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-576"><publicatiejaar>2021</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2021-11-30">30-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-17">17-11-2021</ondertekeningsdatum><dossierref dossier="35530">35530</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-622"><publicatiejaar>2021</publicatiejaar><publicatienr>622</publicatienr><uitgiftedatum isodatum="2021-12-17">17-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-12-08">08-12-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045946&amp;artikel=6&amp;g=2022-01-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0045946&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045946&amp;artikel=6&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0045946&amp;artikel=6"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="16163113" versie-id="28200832" id="C39861101" label-id="16091414" inwerking="2022-01-01" bron="Stb.2021-576" effect="nieuwe-regeling" ondertekening_bron="2021-11-17" publicatie_bron="2021-11-30" publicatie_iwt="2021-12-17" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>’s-Gravenhage</plaats>
+      <datum isodatum="2021-11-17">17 november 2021</datum>
+    </dagtekening>
+    <koning>Willem-Alexander</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Binnenlandse Zaken en Koninkrijksrelaties,</functie>
+    <naam>
+      <voornaam>K.H.</voornaam>
+      <achternaam>Ollongren</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,</functie>
+    <naam>
+      <voornaam>R.W.</voornaam>
+      <achternaam>Knops</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2021-11-30">de <nadruk type="cur">dertigste</nadruk> november 2021</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie en Veiligheid,</functie>
+      <naam>
+        <voornaam>F.B.J.</voornaam>
+        <achternaam>Grapperhaus</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-576"><publicatiejaar>2021</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2021-11-30">30-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-17">17-11-2021</ondertekeningsdatum><dossierref dossier="35530">35530</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-622"><publicatiejaar>2021</publicatiejaar><publicatienr>622</publicatienr><uitgiftedatum isodatum="2021-12-17">17-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-12-08">08-12-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-576"><publicatiejaar>2021</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2021-11-30">30-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-17">17-11-2021</ondertekeningsdatum><dossierref dossier="35530">35530</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-622"><publicatiejaar>2021</publicatiejaar><publicatienr>622</publicatienr><uitgiftedatum isodatum="2021-12-17">17-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-12-08">08-12-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045946&amp;g=2022-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0045946"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045946&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0045946"/></jcis></meta-data></wetgeving></toestand>

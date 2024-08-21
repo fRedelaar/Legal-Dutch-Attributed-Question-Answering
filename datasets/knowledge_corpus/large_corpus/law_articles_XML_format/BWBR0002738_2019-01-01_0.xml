@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0002738/2019-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0002738" inwerkingtreding="2019-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="1268263" versie-id="1881892" id="C1881891" label-id="1227994" inwerkingtredingsdatum="1970-12-31">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="1268293" versie-id="1881822" id="C1881821" label-id="1227924" inwerking="1970-12-31" bron="Stb.1970-605" effect="nieuwe-regeling" ondertekening_bron="1970-12-24" status="goed">Wet van 24 december 1970, tot tijdelijke verhoging of verlaging van belasting op grond van conjuncturele overwegingen<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>605</publicatienr><ondertekeningsdatum isodatum="1970-12-24">24-12-1970</ondertekeningsdatum><dossierref dossier="10940">10940</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>605</publicatienr><ondertekeningsdatum isodatum="1970-12-24">24-12-1970</ondertekeningsdatum><dossierref dossier="10940">10940</dossierref></publicatie><inwerkingtreding.datum isodatum="1970-12-31">31-12-1970</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="1268303" versie-id="1881832" id="C1881831" label-id="1227934" inwerking="1970-12-31" bron="Stb.1970-605" effect="nieuwe-regeling" ondertekening_bron="1970-12-24">Conjunctuurwet<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>605</publicatienr><ondertekeningsdatum isodatum="1970-12-24">24-12-1970</ondertekeningsdatum><dossierref dossier="10940">10940</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>605</publicatienr><ondertekeningsdatum isodatum="1970-12-24">24-12-1970</ondertekeningsdatum><dossierref dossier="10940">10940</dossierref></publicatie><inwerkingtreding.datum isodatum="1970-12-31">31-12-1970</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="1268313" versie-id="1881842" id="C1881841" label-id="1227944" inwerking="1970-12-31" bron="Stb.1970-605" effect="nieuwe-regeling" ondertekening_bron="1970-12-24" status="goed">
+  <wij>Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is aan de instrumenten waarmede de conjunctuur kan worden beïnvloed toe te voegen de mogelijkheid de inkomstenbelasting, de loonbelasting, de vennootschapsbelasting, de omzetbelasting en de bijzondere verbruiksbelasting van personenauto's op korte termijn tijdelijk te verhogen of te verlagen;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>605</publicatienr><ondertekeningsdatum isodatum="1970-12-24">24-12-1970</ondertekeningsdatum><dossierref dossier="10940">10940</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>605</publicatienr><ondertekeningsdatum isodatum="1970-12-24">24-12-1970</ondertekeningsdatum><dossierref dossier="10940">10940</dossierref></publicatie><inwerkingtreding.datum isodatum="1970-12-31">31-12-1970</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="1268323" versie-id="25559682" id="C36485371" label-id="1227954" inwerking="2019-01-01" label="Artikel 1" bron="Stb.2018-507" effect="wijziging" ondertekening_bron="2018-12-19" publicatie_bron="2018-12-28" publicatie_iwt="2018-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid1" label-id="1227954L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister kan, in overeenstemming met Onze Minister van Economische Zaken en Klimaat, de inkomstenbelasting, de loonbelasting, de vennootschapsbelasting, de omzetbelasting geheven naar de in artikel 9, eerste lid, en in <extref doc="jci1.3:c:BWBR0002629&amp;artikel=20" label-id="1254884" verwijzing-id="419514" bwb-id="BWBR0002629">artikel 20, eerste lid, van de Wet op de omzetbelasting 1968</extref> (<nadruk type="cur">Stb.</nadruk> 329) opgenomen tarieven en de belasting van personenauto's en motorrijwielen gezamenlijk verhogen of verlagen met een geheel percentage van ten hoogste vijf. De verhoging of verlaging en de beëindiging van de verhoging of verlaging vinden niet eerder toepassing dan met ingang van het kalenderkwartaal dat aanvangt nadat sedert het tot stand komen van de beschikking twee maanden zijn verstreken. Ingeval de verhoging of verlaging toepassing zal vinden vanaf een tijdstip dat samenvalt met of ligt ten hoogste zes maanden na het tijdstip met ingang van hetwelk een bij wet tot stand gebrachte verhoging onderscheidenlijk verlaging van een dezer belastingen toepassing vindt, kan Onze Minister voor die belasting de verhoging of verlaging beperken of achterwege laten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002738&amp;artikel=1&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid2" label-id="1227954L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Onverwijld na het tot stand komen van een beschikking tot verhoging of verlaging wordt een afschrift van deze beschikking aan de Staten-Generaal gezonden. Dit afschrift gaat vergezeld van een nota, houdende de aan de economische omstandigheden en vooruitzichten ontleende gronden waarop de beschikking rust.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002738&amp;artikel=1&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid3" label-id="1227954L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Binnen twee maanden na het tot stand komen van een beschikking tot verhoging of verlaging, alsmede telkens voordat na het tot stand komen daarvan een twaalftal maanden is verstreken, wordt - tenzij de beschikking is ingetrokken en de verhoging of verlaging geen toepassing vindt na afloop van het kalenderkwartaal waarin de beschikking tot intrekking tot stand is gekomen - een voorstel van wet tot goedkeuring, onderscheidenlijk tot handhaving van de goedkeuring, aan de Tweede Kamer der Staten-Generaal gezonden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002738&amp;artikel=1&amp;lid=3&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid4" label-id="1227954L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> Indien het voorstel wordt ingetrokken of indien een van de Kamers der Staten-Generaal tot het niet-aannemen van het voorstel besluit, wordt de beschikking tot verhoging of verlaging onverwijld ingetrokken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002738&amp;artikel=1&amp;lid=4&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid5" label-id="1227954L5">
+    <lidnr status="officieel">5</lidnr>
+    <al> Een verhoging of verlaging van belastingen als bedoeld in het eerste lid gaat voor de periode, waarin zij van kracht is, gepaard met een verlaging resp. verhoging van de rijksuitgaven tot een bedrag van ten minste één vijfde van het bedrag dat naar schatting met de wijziging van de belastingen is gemoeid. Het voorstel van wet als bedoeld in het derde lid gaat vergezeld van een nota, houdende een overzicht van de recente ontwikkeling van de rijksfinanciën, van de noodzakelijk geachte wijzigingen in de rijksuitgaven, alsmede van de voornemens ten aanzien van de financiering.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002738&amp;artikel=1&amp;lid=5&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid6" label-id="1227954L6">
+    <lidnr status="officieel">6</lidnr>
+    <al> De vermeerdering van de belastingopbrengst ten gevolge van een verhoging krachtens het eerste lid wordt niet aangewend voor uitgaven van het Rijk, de provincies en de gemeenten. De vermindering van de belastingopbrengst ten gevolge van een verlaging krachtens het eerste lid wordt niet ten laste van de uitgaven van het Rijk, de provincies en de gemeenten gebracht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002738&amp;artikel=1&amp;lid=6&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-507"><publicatiejaar>2018</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2018-12-28">28-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-19">19-12-2018</ondertekeningsdatum><dossierref dossier="35027">35027</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-507"><publicatiejaar>2018</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2018-12-28">28-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-19">19-12-2018</ondertekeningsdatum><dossierref dossier="35027">35027</dossierref></publicatie><inwerkingtreding.datum isodatum="2019-01-01">01-01-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002738&amp;artikel=1&amp;g=2019-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0002738&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002738&amp;artikel=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0002738&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="a-2" stam-id="1268333" versie-id="1881902" id="C5037981" label-id="1227964" inwerking="2001-01-01" label="Artikel 2" bron="Stb.2000-216" effect="wijziging" ondertekening_bron="2000-05-11" publicatie_bron="2000-05-30" publicatie_iwt="2000-05-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="1227964L1">
+    <lidnr>1</lidnr>
+    <al>Onze Minister regelt de berekening van de krachtens <intref verwijzing-id="1615615" doc="jci1.3:c:BWBR0002738&amp;artikel=1&amp;z=2019-01-01&amp;g=2019-01-01" bwb-id="BWBR0002738" label-id="1227954" bwb-ng-variabel-deel="/Artikel1">artikel 1</intref> verhoogde of verlaagde belastingen, en wel op zodanige wijze dat voor de inkomstenbelasting en de vennootschapsbelasting de verhoging of verlaging voor zoveel nodig naar tijdsgelang in aanmerking wordt genomen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002738&amp;artikel=2&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="1227964L2">
+    <lidnr>2</lidnr>
+    <al> Onze Minister regelt voorts met betrekking tot de omzetbelasting en de belasting van personenauto's en motorrijwielen de door hem nodig geachte aanpassingen aan de verhoging of verlaging.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002738&amp;artikel=2&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid3" label-id="1227964L3">
+    <lidnr>3</lidnr>
+    <al> Onze Minister is bevoegd voor het toepassen van formules en van afrondingen in geringe mate van het percentage van de verhoging of verlaging af te wijken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002738&amp;artikel=2&amp;lid=3&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2000-216"><publicatiejaar>2000</publicatiejaar><publicatienr>216</publicatienr><uitgiftedatum isodatum="2000-05-30">30-05-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-05-11">11-05-2000</ondertekeningsdatum><dossierref dossier="26728">26728</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2000-216"><publicatiejaar>2000</publicatiejaar><publicatienr>216</publicatienr><uitgiftedatum isodatum="2000-05-30">30-05-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-05-11">11-05-2000</ondertekeningsdatum><dossierref dossier="26728">26728</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002738&amp;artikel=2&amp;g=2019-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0002738&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002738&amp;artikel=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0002738&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="a-3" stam-id="1268343" versie-id="1881872" id="C5037991" label-id="1227974" inwerking="1970-12-31" label="Artikel 3" bron="Stb.1970-605" effect="nieuwe-regeling" ondertekening_bron="1970-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="1227974L1">
+    <lidnr>1</lidnr>
+    <al>Deze wet treedt in werking met ingang van de tweede dag na de datum van uitgifte van het <nadruk type="cur">Staatsblad</nadruk>, waarin zij wordt geplaatst.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002738&amp;artikel=3&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="1227974L2">
+    <lidnr>2</lidnr>
+    <al> Met betrekking tot een verhoging van de inkomstenbelasting, de loonbelasting, de vennootschapsbelasting, de bijzondere verbruiksbelasting van personenauto's en de accijns op benzine met een percentage van drie, die toepassing vindt met ingang van 1 januari 1971, blijft <intref verwijzing-id="1615616" doc="jci1.3:c:BWBR0002738&amp;artikel=1&amp;z=2019-01-01&amp;g=2019-01-01" bwb-id="BWBR0002738" label-id="1227954" bwb-ng-variabel-deel="/Artikel1">artikel 1, eerste lid, tweede volzin</intref>, buiten toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002738&amp;artikel=3&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>605</publicatienr><ondertekeningsdatum isodatum="1970-12-24">24-12-1970</ondertekeningsdatum><dossierref dossier="10940">10940</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>605</publicatienr><ondertekeningsdatum isodatum="1970-12-24">24-12-1970</ondertekeningsdatum><dossierref dossier="10940">10940</dossierref></publicatie><inwerkingtreding.datum isodatum="1970-12-31">31-12-1970</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002738&amp;artikel=3&amp;g=2019-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0002738&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002738&amp;artikel=3&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0002738&amp;artikel=3"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="1268353" versie-id="1881882" id="C1881881" label-id="1227984" inwerking="1970-12-31" bron="Stb.1970-605" effect="nieuwe-regeling" ondertekening_bron="1970-12-24" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven ten Paleize Soestdijk</plaats>
+      <datum isodatum="">24 december 1970</datum>
+    </dagtekening>
+    <koning>JULIANA.</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Financiën,</functie>
+    <naam>
+      <achternaam>H. J. WITTEVEEN.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Staatssecretaris van Financiën,</functie>
+    <naam>
+      <achternaam>F. H. M. GRAPPERHAUS.</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de negenentwintigste december 1970.</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie a.i.,</functie>
+      <naam>
+        <achternaam>H. K. J. BEERNINK.</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>605</publicatienr><ondertekeningsdatum isodatum="1970-12-24">24-12-1970</ondertekeningsdatum><dossierref dossier="10940">10940</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>605</publicatienr><ondertekeningsdatum isodatum="1970-12-24">24-12-1970</ondertekeningsdatum><dossierref dossier="10940">10940</dossierref></publicatie><inwerkingtreding.datum isodatum="1970-12-31">31-12-1970</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>605</publicatienr><ondertekeningsdatum isodatum="1970-12-24">24-12-1970</ondertekeningsdatum><dossierref dossier="10940">10940</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>605</publicatienr><ondertekeningsdatum isodatum="1970-12-24">24-12-1970</ondertekeningsdatum><dossierref dossier="10940">10940</dossierref></publicatie><inwerkingtreding.datum isodatum="1970-12-31">31-12-1970</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002738&amp;g=2019-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0002738"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002738&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0002738"/></jcis></meta-data></wetgeving></toestand>

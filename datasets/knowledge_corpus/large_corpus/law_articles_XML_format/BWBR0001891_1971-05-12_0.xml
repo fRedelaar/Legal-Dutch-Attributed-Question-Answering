@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0001891/1971-05-12/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0001891" inwerkingtreding="1971-05-12"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties><redactionele-correctie label-id="1237514" oud-revisie-id="34491571" nieuw-revisie-id="34491571"/></redactionele-correcties><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="1277943" versie-id="1899542" id="C1899541" label-id="1237534" inwerkingtredingsdatum="1916-04-30">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="1277963" versie-id="1899422" id="C1899421" label-id="1237464" inwerking="1916-04-30" bron="Stb.1916-174" effect="nieuwe-regeling" ondertekening_bron="1916-04-28" status="goed">Wet van 28 april 1916, tot nadere voorziening betreffende het eedsvraagstuk<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1916</publicatiejaar><publicatienr>174</publicatienr><ondertekeningsdatum isodatum="1916-04-28">28-04-1916</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1916</publicatiejaar><publicatienr>174</publicatienr><ondertekeningsdatum isodatum="1916-04-28">28-04-1916</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1916-04-30">30-04-1916</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="1277973" versie-id="1899442" id="C1899441" label-id="1237474" inwerking="1916-04-30" bron="Stb.1916-174" effect="nieuwe-regeling" ondertekening_bron="1916-04-28">Eedswet 1971<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1916</publicatiejaar><publicatienr>174</publicatienr><ondertekeningsdatum isodatum="1916-04-28">28-04-1916</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1916</publicatiejaar><publicatienr>174</publicatienr><ondertekeningsdatum isodatum="1916-04-28">28-04-1916</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1916-04-30">30-04-1916</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="1277983" versie-id="1899462" id="C1899461" label-id="1237484" inwerking="1916-04-30" bron="Stb.1916-174" effect="nieuwe-regeling" ondertekening_bron="1916-04-28" status="goed">
+  <wij>Wij WILHELMINA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of hooren lezen, salut! doen te weten:</considerans.al>
+    <considerans.al>Alzoo Wij in overweging genomen hebben, dat het eedsvraagstuk nadere voorziening behoeft;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1916</publicatiejaar><publicatienr>174</publicatienr><ondertekeningsdatum isodatum="1916-04-28">28-04-1916</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1916</publicatiejaar><publicatienr>174</publicatienr><ondertekeningsdatum isodatum="1916-04-28">28-04-1916</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1916-04-30">30-04-1916</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" code="a-1" stam-id="1277993" versie-id="1899482" id="C8601581" label-id="1237494" inwerking="1971-05-12" label="Artikel 1" bron="Stb.1971-211" effect="nieuw" ondertekening_bron="1971-04-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>1</nr>
+  </kop>
+  <al>In elk geval waarin een wettelijk voorschrift het afleggen van een eed vordert of daaraan rechtsgevolgen verbindt, kan ter keuze van de betrokkene in de plaats van de eed de belofte worden afgelegd of, in voorkomend geval, de bevestiging worden gegeven.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier=""><publicatiejaar>1971</publicatiejaar><publicatienr>211</publicatienr><ondertekeningsdatum isodatum="1971-04-08">08-04-1971</ondertekeningsdatum><dossierref dossier="10260">10260</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier=""><publicatiejaar>1971</publicatiejaar><publicatienr>211</publicatienr><ondertekeningsdatum isodatum="1971-04-08">08-04-1971</ondertekeningsdatum><dossierref dossier="10260">10260</dossierref></publicatie><inwerkingtreding.datum isodatum="1971-05-12">12-05-1971</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001891&amp;artikel=1&amp;g=1971-05-12" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0001891&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001891&amp;artikel=1&amp;z=1971-05-12&amp;g=1971-05-12" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0001891&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="a-2" stam-id="1278003" versie-id="1899502" id="C1899501" label-id="1237504" inwerking="1971-05-12" label="Artikel 2" bron="Stb.1971-211" effect="wijziging" ondertekening_bron="1971-04-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <al>In wettelijke voorschriften wordt onder eed begrepen de belofte of bevestiging, welke krachtens deze wet voor een eed in de plaats treedt.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1971</publicatiejaar><publicatienr>211</publicatienr><ondertekeningsdatum isodatum="1971-04-08">08-04-1971</ondertekeningsdatum><dossierref dossier="10260">10260</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1971</publicatiejaar><publicatienr>211</publicatienr><ondertekeningsdatum isodatum="1971-04-08">08-04-1971</ondertekeningsdatum><dossierref dossier="10260">10260</dossierref></publicatie><inwerkingtreding.datum isodatum="1971-05-12">12-05-1971</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001891&amp;artikel=2&amp;g=1971-05-12" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0001891&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001891&amp;artikel=2&amp;z=1971-05-12&amp;g=1971-05-12" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0001891&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="1278013" versie-id="23996002" id="C34491571" label-id="1237514" inwerking="1971-05-12" label="Artikel 3" bron="Stb.1971-211" effect="wijziging" ondertekening_bron="1971-04-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <al>Deze wet kan worden aangehaald als Eedswet 1971. </al>
+  <al>Overgangsbepaling</al>
+  <al>De eeden, vóór het in werking treden dezer wet afgelegd door personen, die op het tijdstip der eedsaflegging niet tot eene godsdienstige gezindheid behoorden, worden geacht te zijn afgelegd op wettige wijze. Slotbepaling</al>
+  <al>Deze wet treedt in werking met ingang van den dag na dien harer afkondiging.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1971</publicatiejaar><publicatienr>211</publicatienr><ondertekeningsdatum isodatum="1971-04-08">08-04-1971</ondertekeningsdatum><dossierref dossier="10260">10260</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1971</publicatiejaar><publicatienr>211</publicatienr><ondertekeningsdatum isodatum="1971-04-08">08-04-1971</ondertekeningsdatum><dossierref dossier="10260">10260</dossierref></publicatie><inwerkingtreding.datum isodatum="1971-05-12">12-05-1971</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001891&amp;artikel=3&amp;g=1971-05-12" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0001891&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001891&amp;artikel=3&amp;z=1971-05-12&amp;g=1971-05-12" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0001891&amp;artikel=3"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="1278023" versie-id="1899532" id="C1899531" label-id="1237524" inwerking="1916-04-30" bron="Stb.1916-174" effect="nieuwe-regeling" ondertekening_bron="1916-04-28" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">den 28sten April 1916</datum>
+    </dagtekening>
+    <koning>WILHELMINA.</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Justitie,</functie>
+    <naam>
+      <achternaam>B. ORT.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Buitenlandsche Zaken,</functie>
+    <naam>
+      <achternaam>J. LOUDON.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Staat, Minister van Binnenlandsche Zaken,</functie>
+    <naam>
+      <achternaam>CORT V. D. LINDEN.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Marine,</functie>
+    <naam>
+      <achternaam>J. J. RAMBONNET.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Financiën,</functie>
+    <naam>
+      <achternaam>ANT. VAN GIJN.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Oorlog,</functie>
+    <naam>
+      <achternaam>BOSBOOM.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Waterstaat,</functie>
+    <naam>
+      <achternaam>C. LELY.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Landbouw, Nijverheid en Handel,</functie>
+    <naam>
+      <achternaam>POSTHUMA.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Koloniën,</functie>
+    <naam>
+      <achternaam>TH. B. PLEYTE.</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">den negen en twintigsten April 1916.</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>B. ORT.</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1916</publicatiejaar><publicatienr>174</publicatienr><ondertekeningsdatum isodatum="1916-04-28">28-04-1916</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1916</publicatiejaar><publicatienr>174</publicatienr><ondertekeningsdatum isodatum="1916-04-28">28-04-1916</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1916-04-30">30-04-1916</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1916</publicatiejaar><publicatienr>174</publicatienr><ondertekeningsdatum isodatum="1916-04-28">28-04-1916</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1916</publicatiejaar><publicatienr>174</publicatienr><ondertekeningsdatum isodatum="1916-04-28">28-04-1916</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1916-04-30">30-04-1916</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001891&amp;g=1971-05-12" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0001891"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001891&amp;z=1971-05-12&amp;g=1971-05-12" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0001891"/></jcis></meta-data></wetgeving></toestand>

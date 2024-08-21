@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0006968/2011-07-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0006968" inwerkingtreding="2011-07-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="463563" versie-id="683902" id="C683911" label-id="450984" inwerkingtredingsdatum="1994-11-23">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="463903" versie-id="683392" id="C683391" label-id="450574" inwerking="1994-11-23" bron="Stb.1994-800" effect="nieuwe-regeling" ondertekening_bron="1994-10-13" status="goed">Wet van 13 oktober 1994, houdende regels omtrent de vrijwillige verplaatsing naar het buitenland van de statutaire zetel van naamloze vennootschappen, besloten vennootschappen, coöperaties, onderlinge waarborgmaatschappijen en stichtingen in tijden van nood<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie><inwerkingtreding.datum isodatum="1994-11-23">23-11-1994</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="463943" versie-id="683442" id="C683441" label-id="450614" inwerking="1994-11-23" bron="Stb.1994-800" effect="nieuwe-regeling" ondertekening_bron="1994-10-13">Wet vrijwillige zetelverplaatsing derde landen<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie><inwerkingtreding.datum isodatum="1994-11-23">23-11-1994</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="463973" versie-id="683482" id="C683481" label-id="450644" inwerking="1994-11-23" bron="Stb.1994-800" effect="nieuwe-regeling" ondertekening_bron="1994-10-13" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het gewenst is voor naamloze vennootschappen, besloten vennootschappen met beperkte aansprakelijkheid, coöperaties, onderlinge waarborgmaatschappijen en stichtingen de mogelijkheid te openen in tijden van nood hun statutaire zetel vanuit Nederland naar een plaats buiten het Koninkrijk over te brengen;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie><inwerkingtreding.datum isodatum="1994-11-23">23-11-1994</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" code="a-1" stam-id="464033" versie-id="683552" id="C17232611" label-id="450704" inwerking="1994-11-23" label="Artikel 1" bron="Stb.1994-800" effect="nieuwe-regeling" ondertekening_bron="1994-10-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid1" label-id="450704L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een naamloze vennootschap, een besloten vennootschap met beperkte aansprakelijkheid, een coöperatie, een onderlinge waarborgmaatschappij en een stichting kunnen de zetel van de rechtspersoon verplaatsen naar een plaats buiten het Koninkrijk.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=1&amp;lid=1&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid2" label-id="450704L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Een besluit tot zetelverplaatsing treedt niet in werking dan in geval van oorlog, onmiddellijk oorlogsgevaar, revolutie of daarmee vergelijkbare buitengewone omstandigheden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=1&amp;lid=2&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid3" label-id="450704L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Het in werking treden van het besluit heeft van rechtswege tot gevolg dat de plaats waarheen de zetel is overgebracht, geldt als de zetel van de rechtspersoon.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=1&amp;lid=3&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie><inwerkingtreding.datum isodatum="1994-11-23">23-11-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006968&amp;artikel=1&amp;g=2011-07-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0006968&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=1&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0006968&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="a-2" stam-id="464063" versie-id="683592" id="C17232631" label-id="450734" inwerking="1994-11-23" label="Artikel 2" bron="Stb.1994-800" effect="nieuwe-regeling" ondertekening_bron="1994-10-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="450734L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Bevoegd tot het nemen van een besluit tot zetelverplaatsing zijn: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het bestuur van de rechtspersoon;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=2&amp;lid=1&amp;o=a&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de algemene vergadering met volstrekte meerderheid van de uitgebrachte stemmen van de ter vergadering aanwezige of vertegenwoordigde stemgerechtigden, indien het niet een stichting betreft;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=2&amp;lid=1&amp;o=b&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>een of meer door de algemene vergadering of door het bestuur bij een in Nederland verleden notariële akte aangewezen personen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=2&amp;lid=1&amp;o=c&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=2&amp;lid=1&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="450734L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Het besluit tot zetelverplaatsing kan inhouden dat de rechtspersoon de staat van naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid, coöperatie, onderlinge waarborgmaatschappij of stichting verliest en de staat verkrijgt van de daarmee vergelijkbare rechtspersoon van het recht van het land waarheen de zetel wordt overgebracht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=2&amp;lid=2&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid3" label-id="450734L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Het besluit kan wijziging van de statuten inhouden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=2&amp;lid=3&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid4" label-id="450734L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> Zolang het besluit niet in werking is getreden, kunnen zij die het hebben genomen dat besluit intrekken of, onder handhaving van dat besluit, wijzigingen in de statuten aanbrengen die van kracht worden indien het besluit in werking treedt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=2&amp;lid=4&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid5" label-id="450734L5">
+    <lidnr status="officieel">5</lidnr>
+    <al> Ieder die overeenkomstig het eerste lid bevoegd is het besluit te nemen en ieder door hem bij een in Nederland verleden notariële akte aangewezen persoon, is bevoegd de veranderingen aan te brengen die nodig blijken om een vereiste goedkeuring of erkenning te verkrijgen van het land waarnaar de zetel is verplaatst.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=2&amp;lid=5&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid6" label-id="450734L6">
+    <lidnr status="officieel">6</lidnr>
+    <al> Bij het besluit tot zetelverplaatsing kunnen bestuurders en commissarissen en, bij een stichting, leden van een toezichthoudend orgaan worden benoemd en ontslagen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=2&amp;lid=6&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid7" label-id="450734L7">
+    <lidnr status="officieel">7</lidnr>
+    <al> Bij een aanwijzing als bedoeld in het eerste lid, onder <nadruk type="cur">c</nadruk>, kunnen de bevoegdheden bedoeld in het derde tot en met het zesde lid voor een of meer van de aangewezen personen worden uitgesloten of beperkt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=2&amp;lid=7&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie><inwerkingtreding.datum isodatum="1994-11-23">23-11-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006968&amp;artikel=2&amp;g=2011-07-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0006968&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=2&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0006968&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="a-3" stam-id="464093" versie-id="683642" id="C17232651" label-id="450774" inwerking="1994-11-23" label="Artikel 3" bron="Stb.1994-800" effect="nieuwe-regeling" ondertekening_bron="1994-10-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="450774L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Van het besluit tot zetelverplaatsing en van de besluiten bedoeld in <intref verwijzing-id="1624889" doc="jci1.3:c:BWBR0006968&amp;artikel=2&amp;z=2011-07-01&amp;g=2011-07-01" bwb-id="BWBR0006968" label-id="450734" bwb-ng-variabel-deel="/Artikel2">artikel 2, tweede tot en met vijfde lid</intref>, wordt op straffe van nietigheid een in Nederland te verlijden notariële akte opgemaakt, dan wel worden de vormen in acht genomen die voor wijziging van de statuten zijn vereist in het land waarheen de zetel wordt overgebracht. De akte wordt verleden in de Nederlandse taal of in de officiële taal van het land waarnaar de zetel wordt overgebracht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=3&amp;lid=1&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="450774L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Onverminderd het bepaalde in <intref verwijzing-id="1624890" doc="jci1.3:c:BWBR0006968&amp;artikel=1&amp;z=2011-07-01&amp;g=2011-07-01" bwb-id="BWBR0006968" label-id="450704" bwb-ng-variabel-deel="/Artikel1">artikel 1, tweede lid</intref>, is de zetel verplaatst en zijn de besluiten in werking getreden met ingang van de dag waarop de akte is verleden onderscheidenlijk de vormen in acht zijn genomen, tenzij daarvoor een later tijdstip is bepaald. Is de inwerkingtreding afhankelijk van de vervulling van een voorwaarde, dan geschiedt zij met ingang van de dag waarop de voorwaarde is vervuld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=3&amp;lid=2&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid3" label-id="450774L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> De notaris ten overstaan van wie de akte is verleden, zendt onverwijld een afschrift van de akte aan Onze Minister van Justitie. Indien de zetelverplaatsing geschiedt met inachtneming van de vormen voor wijziging van statuten, vereist in het land waarnaar de zetel wordt overgebracht, doet het bestuur dan wel de persoon die tot het nemen van het besluit tot zetelverplaatsing bevoegd is mededeling van de zetelverplaatsing aan Onze Minister van Justitie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=3&amp;lid=3&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie><inwerkingtreding.datum isodatum="1994-11-23">23-11-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006968&amp;artikel=3&amp;g=2011-07-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0006968&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=3&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0006968&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="a-4" stam-id="464143" versie-id="683712" id="C17232661" label-id="450824" inwerking="1994-11-23" label="Artikel 4" bron="Stb.1994-800" effect="nieuwe-regeling" ondertekening_bron="1994-10-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="450824L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een rechtspersoon waarvan de zetel overeenkomstig deze wet is verplaatst naar een land buiten het Koninkrijk en die de staat van naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid, coöperatie, onderlinge waarborgmaatschappij of stichting heeft behouden, kan zijn zetel naar Nederland terugbrengen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=4&amp;lid=1&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="450824L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Een besluit tot het verplaatsen van de zetel wordt genomen door het bestuur of, indien het niet een stichting betreft, door de algemene vergadering.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=4&amp;lid=2&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid3" label-id="450824L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Van het besluit tot het terugbrengen van de zetel wordt op straffe van nietigheid een in Nederland te verlijden notariële akte opgemaakt. De akte wordt verleden in de Nederlandse taal.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=4&amp;lid=3&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid4" label-id="450824L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> De zetel is naar Nederland verplaatst met ingang van de dag waarop de akte is verleden, tenzij daarvoor in de akte een later tijdstip is bepaald. Is het verplaatsen van de zetel in de akte afhankelijk gesteld van de vervulling van een voorwaarde, dan geschiedt zij met ingang van de dag waarop de voorwaarde is vervuld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=4&amp;lid=4&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid5" label-id="450824L5">
+    <lidnr status="officieel">5</lidnr>
+    <al> De notaris zendt van de akte bedoeld in het derde lid onverwijld een afschrift aan Onze Minister van Justitie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=4&amp;lid=5&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie><inwerkingtreding.datum isodatum="1994-11-23">23-11-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006968&amp;artikel=4&amp;g=2011-07-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0006968&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=4&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0006968&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="a-5" stam-id="464163" versie-id="17526652" id="C25855461" label-id="450854" inwerking="2011-07-01" label="Artikel 5" bron="Stb.2010-280" effect="wijziging" ondertekening_bron="2010-07-07" publicatie_bron="2010-07-15" publicatie_iwt="2011-04-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid1" label-id="450854L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De rechtspersoon die door het verplaatsen van de statutaire zetel naar een land buiten het Koninkrijk de staat van naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid, coöperatie, onderlinge waarborgmaatschappij of stichting heeft verloren, kan zijn zetel naar Nederland terugbrengen, indien het toepasselijke recht zich daartegen niet verzet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=5&amp;lid=1&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid2" label-id="450854L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> De rechtspersoon zal dezelfde rechtsvorm dienen aan te nemen als hij bezat voordat zijn zetel vanuit Nederland is overgegaan, met dien verstande dat een gewezen naamloze vennootschap de rechtsvorm van een besloten vennootschap met beperkte aansprakelijkheid en een gewezen besloten vennootschap met beperkte aansprakelijkheid de rechtsvorm van een naamloze vennootschap kan aannemen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=5&amp;lid=2&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid3" label-id="450854L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> De verplaatsing van de zetel naar Nederland komt tot stand doordat Onze Minister van Justitie het daartoe strekkende besluit van de rechtspersoon goedkeurt en een in Nederland verleden notariële akte is opgemaakt waarin de statuten zijn opgenomen. De akte wordt verleden in de Nederlandse taal. Aan de goedkeuring kan terugwerkende kracht worden verleend, uiterlijk tot het tijdstip van het besluit tot het terugverplaatsen van de zetel dan wel, indien het in werking treden van dat besluit afhankelijk is gesteld van de vervulling van een voorwaarde, tot het tijdstip van het vervullen van die voorwaarde.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=5&amp;lid=3&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid4" label-id="450854L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> Bij het verzoek tot goedkeuring worden overgelegd: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel5/Lid4/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>voldoende bewijs dat de rechtspersoon bestaat;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=5&amp;lid=4&amp;o=a&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel5/Lid4/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>het besluit tot het verplaatsen van de zetel naar Nederland;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=5&amp;lid=4&amp;o=b&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel5/Lid4/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>het besluit tot wijziging van de statuten, indien wijziging nodig is om de statuten in overeenstemming te doen zijn met het Nederlandse recht;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=5&amp;lid=4&amp;o=c&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel5/Lid4/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>een afschrift of een ontwerp van een notariële akte als bedoeld in het derde lid.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=5&amp;lid=4&amp;o=d&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=5&amp;lid=4&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid5" label-id="450854L5">
+    <lidnr status="officieel">5</lidnr>
+    <al> De goedkeuring wordt geweigerd indien: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel5/Lid5/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het besluit niet overeenkomstig het toepasselijke recht is genomen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=5&amp;lid=5&amp;o=a&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel5/Lid5/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de statuten van de rechtspersoon niet in overeenstemming zijn met de wettelijke bepalingen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=5&amp;lid=5&amp;o=b&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=5&amp;lid=5&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid6" label-id="450854L6">
+    <lidnr status="officieel">6</lidnr>
+    <al> De zetelverplaatsing brengt mee dat de rechtspersoon voortbestaat als rechtspersoon naar Nederlands recht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=5&amp;lid=6&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid7" label-id="450854L7">
+    <lidnr status="officieel">7</lidnr>
+    <al> De rechtspersoon doet na de zetelverplaatsing onverwijld de nodige opgaven ter inschrijving in het handelsregister. Bij de opgave wordt een authentiek afschrift van de akte bedoeld in het derde lid overgelegd. Zolang de opgave ter inschrijving niet is geschied, zijn de bestuurders naast de rechtspersoon hoofdelijk aansprakelijk voor elke tijdens hun bestuur verrichte rechtshandeling waardoor de rechtspersoon verbonden wordt sedert de dag van de ministeriële goedkeuring, dan wel sedert de dag van de akte indien deze is verleden na de ministeriële goedkeuring.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=5&amp;lid=7&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2010-280"><publicatiejaar>2010</publicatiejaar><publicatienr>280</publicatienr><uitgiftedatum isodatum="2010-07-15">15-07-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-07-07">07-07-2010</ondertekeningsdatum><dossierref dossier="31948">31948</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2011-194"><publicatiejaar>2011</publicatiejaar><publicatienr>194</publicatienr><uitgiftedatum isodatum="2011-04-29">29-04-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-04-21">21-04-2011</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2011-07-01">01-07-2011</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006968&amp;artikel=5&amp;g=2011-07-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0006968&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=5&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0006968&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="a-6" stam-id="464183" versie-id="683772" id="C17232711" label-id="450874" inwerking="1994-11-23" label="Artikel 6" bron="Stb.1994-800" effect="nieuwe-regeling" ondertekening_bron="1994-10-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid1" label-id="450874L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een consulaire ambtenaar als bedoeld in de <extref doc="jci1.3:c:BWBR0001847" verwijzing-id="132715" bwb-id="BWBR0001847" label-id="1228314">Consulaire Wet</extref> is bevoegd tot het verlijden van een akte als bedoeld in de <intref verwijzing-id="1624891" doc="jci1.3:c:BWBR0006968&amp;artikel=2&amp;z=2011-07-01&amp;g=2011-07-01" bwb-id="BWBR0006968" label-id="450734" bwb-ng-variabel-deel="/Artikel2">artikelen 2, eerste lid, onder <nadruk type="cur">c</nadruk>, en vijfde lid</intref>, <intref verwijzing-id="1624892" doc="jci1.3:c:BWBR0006968&amp;artikel=3&amp;z=2011-07-01&amp;g=2011-07-01" bwb-id="BWBR0006968" label-id="450774" bwb-ng-variabel-deel="/Artikel3">3, eerste lid</intref>, <intref verwijzing-id="1624893" doc="jci1.3:c:BWBR0006968&amp;artikel=4&amp;z=2011-07-01&amp;g=2011-07-01" bwb-id="BWBR0006968" label-id="450824" bwb-ng-variabel-deel="/Artikel4">4, derde lid</intref>, en <intref verwijzing-id="1624894" doc="jci1.3:c:BWBR0006968&amp;artikel=5&amp;z=2011-07-01&amp;g=2011-07-01" bwb-id="BWBR0006968" label-id="450854" bwb-ng-variabel-deel="/Artikel5">5, derde lid</intref>, met dien verstande dat de beperking tot Nederlanders in <extref doc="jci1.3:c:BWBR0001847&amp;artikel=1" verwijzing-id="132717" bwb-id="BWBR0001847" label-id="1228044">artikel 1, vierde lid, van de Consulaire Wet</extref> niet van toepassing is.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=6&amp;lid=1&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid2" label-id="450874L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> De <intref verwijzing-id="1624895" doc="jci1.3:c:BWBR0006968&amp;artikel=3&amp;z=2011-07-01&amp;g=2011-07-01" bwb-id="BWBR0006968" label-id="450774" bwb-ng-variabel-deel="/Artikel3">artikelen 3, derde lid, eerste volzin</intref>, en <intref verwijzing-id="1624896" doc="jci1.3:c:BWBR0006968&amp;artikel=4&amp;z=2011-07-01&amp;g=2011-07-01" bwb-id="BWBR0006968" label-id="450824" bwb-ng-variabel-deel="/Artikel4">4, vijfde lid</intref>, zijn ten aanzien van de consulaire ambtenaar van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=6&amp;lid=2&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid3" label-id="450874L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> De door een consulaire ambtenaar of te zijnen overstaan overeenkomstig deze wet verleden akten hebben gelijke kracht als waren zij in Nederland notarieel verleden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=6&amp;lid=3&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie><inwerkingtreding.datum isodatum="1994-11-23">23-11-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006968&amp;artikel=6&amp;g=2011-07-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0006968&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=6&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0006968&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="a-7" stam-id="464203" versie-id="683802" id="C683801" label-id="450894" inwerking="1994-11-23" label="Artikel 7" bron="Stb.1994-800" effect="nieuwe-regeling" ondertekening_bron="1994-10-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+  <al>Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het <nadruk type="cur">Staatsblad</nadruk> waarin zij wordt geplaatst.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie><inwerkingtreding.datum isodatum="1994-11-23">23-11-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006968&amp;artikel=7&amp;g=2011-07-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0006968&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=7&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0006968&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" code="a-8" stam-id="464233" versie-id="683832" id="C683831" label-id="450924" inwerking="1994-11-23" label="Artikel 8" bron="Stb.1994-800" effect="nieuwe-regeling" ondertekening_bron="1994-10-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>8</nr>
+  </kop>
+  <al>Deze wet kan worden aangehaald als: Wet vrijwillige zetelverplaatsing derde landen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie><inwerkingtreding.datum isodatum="1994-11-23">23-11-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006968&amp;artikel=8&amp;g=2011-07-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0006968&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;artikel=8&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0006968&amp;artikel=8"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="464253" versie-id="683872" id="C683871" label-id="450954" inwerking="1994-11-23" bron="Stb.1994-800" effect="nieuwe-regeling" ondertekening_bron="1994-10-13" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">13 oktober 1994</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Justitie,</functie>
+    <naam>
+      <achternaam>W. Sorgdrager</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de tweeëntwintigste november 1994</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>W. Sorgdrager</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie><inwerkingtreding.datum isodatum="1994-11-23">23-11-1994</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>800</publicatienr><ondertekeningsdatum isodatum="1994-10-13">13-10-1994</ondertekeningsdatum><dossierref dossier="23316">23316</dossierref></publicatie><inwerkingtreding.datum isodatum="1994-11-23">23-11-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006968&amp;g=2011-07-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0006968"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006968&amp;z=2011-07-01&amp;g=2011-07-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0006968"/></jcis></meta-data></wetgeving></toestand>

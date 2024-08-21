@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0023480/2009-01-14/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0023480" inwerkingtreding="2009-01-14"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="9418743" versie-id="15163792" id="C22061121" label-id="9396264" inwerkingtredingsdatum="2009-01-14">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="9418763" versie-id="15163652" id="C22061131" label-id="9396124" inwerking="2009-01-14" bron="Stb.2008-44" effect="nieuwe-regeling" ondertekening_bron="2007-12-20" publicatie_bron="2008-02-19" publicatie_iwt="2009-01-13" status="goed">Wet van 20 december 2007, houdende wijziging van de Gemeentewet in verband met de invoering van een bestuurlijke boete voor overtreding van een aantal voorschriften bepaald bij gemeentelijke verordening betreffende overlast in de openbare ruimte (Wet bestuurlijke boete overlast in de openbare ruimte)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-44"><publicatiejaar>2008</publicatiejaar><publicatienr>44</publicatienr><uitgiftedatum isodatum="2008-02-19">19-02-2008</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-20">20-12-2007</ondertekeningsdatum><dossierref dossier="30101">30101</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-9"><publicatiejaar>2009</publicatiejaar><publicatienr>9</publicatienr><uitgiftedatum isodatum="2009-01-13">13-01-2009</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-14">14-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="9418773" versie-id="15163662" id="C22061151" label-id="9396134" inwerking="2009-01-14" bron="Stb.2008-44" effect="nieuwe-regeling" ondertekening_bron="2007-12-20" publicatie_bron="2008-02-19" publicatie_iwt="2009-01-13">Wet bestuurlijke boete overlast in de openbare ruimte<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-44"><publicatiejaar>2008</publicatiejaar><publicatienr>44</publicatienr><uitgiftedatum isodatum="2008-02-19">19-02-2008</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-20">20-12-2007</ondertekeningsdatum><dossierref dossier="30101">30101</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-9"><publicatiejaar>2009</publicatiejaar><publicatienr>9</publicatienr><uitgiftedatum isodatum="2009-01-13">13-01-2009</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-14">14-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="9418783" versie-id="15163672" id="C22061141" label-id="9396144" inwerking="2009-01-14" bron="Stb.2008-44" effect="nieuwe-regeling" ondertekening_bron="2007-12-20" publicatie_bron="2008-02-19" publicatie_iwt="2009-01-13" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is gemeenten de mogelijkheid te geven over te gaan tot de invoering van een bestuurlijke boete voor overtreding van voorschriften uit de gemeentelijke verordening betreffende bepaalde gedragingen die kunnen leiden tot overlast in de openbare ruimte;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-44"><publicatiejaar>2008</publicatiejaar><publicatienr>44</publicatienr><uitgiftedatum isodatum="2008-02-19">19-02-2008</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-20">20-12-2007</ondertekeningsdatum><dossierref dossier="30101">30101</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-9"><publicatiejaar>2009</publicatiejaar><publicatienr>9</publicatienr><uitgiftedatum isodatum="2009-01-13">13-01-2009</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-14">14-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/ArtikelI" stam-id="9418793" versie-id="15163682" id="C22061231" label-id="9396154" inwerking="2009-01-14" label="Artikel I" bron="Stb.2008-44" effect="nieuwe-regeling" ondertekening_bron="2007-12-20" publicatie_bron="2008-02-19" publicatie_iwt="2009-01-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">I</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Gemeentewet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-44"><publicatiejaar>2008</publicatiejaar><publicatienr>44</publicatienr><uitgiftedatum isodatum="2008-02-19">19-02-2008</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-20">20-12-2007</ondertekeningsdatum><dossierref dossier="30101">30101</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-9"><publicatiejaar>2009</publicatiejaar><publicatienr>9</publicatienr><uitgiftedatum isodatum="2009-01-13">13-01-2009</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-14">14-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0023480&amp;artikel=I&amp;g=2009-01-14" onderdeel="artikel=I" korte-verwijzing="1.0:c:BWBR0023480&amp;artikel=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0023480&amp;artikel=I&amp;z=2009-01-14&amp;g=2009-01-14" onderdeel="artikel=I" korte-verwijzing="jci1.3:c:BWBR0023480&amp;artikel=I"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelII" stam-id="9418803" versie-id="15163692" id="C22061221" label-id="9396164" inwerking="2009-01-14" label="Artikel II" bron="Stb.2008-44" effect="nieuwe-regeling" ondertekening_bron="2007-12-20" publicatie_bron="2008-02-19" publicatie_iwt="2009-01-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">II</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de rechterlijke organisatie.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-44"><publicatiejaar>2008</publicatiejaar><publicatienr>44</publicatienr><uitgiftedatum isodatum="2008-02-19">19-02-2008</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-20">20-12-2007</ondertekeningsdatum><dossierref dossier="30101">30101</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-9"><publicatiejaar>2009</publicatiejaar><publicatienr>9</publicatienr><uitgiftedatum isodatum="2009-01-13">13-01-2009</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-14">14-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0023480&amp;artikel=II&amp;g=2009-01-14" onderdeel="artikel=II" korte-verwijzing="1.0:c:BWBR0023480&amp;artikel=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0023480&amp;artikel=II&amp;z=2009-01-14&amp;g=2009-01-14" onderdeel="artikel=II" korte-verwijzing="jci1.3:c:BWBR0023480&amp;artikel=II"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIIa" stam-id="9418813" versie-id="15163702" id="C22061211" label-id="9396174" inwerking="2009-01-14" label="Artikel IIa" bron="Stb.2008-44" effect="nieuwe-regeling" ondertekening_bron="2007-12-20" publicatie_bron="2008-02-19" publicatie_iwt="2009-01-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">IIa</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt deze wet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-44"><publicatiejaar>2008</publicatiejaar><publicatienr>44</publicatienr><uitgiftedatum isodatum="2008-02-19">19-02-2008</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-20">20-12-2007</ondertekeningsdatum><dossierref dossier="30101">30101</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-9"><publicatiejaar>2009</publicatiejaar><publicatienr>9</publicatienr><uitgiftedatum isodatum="2009-01-13">13-01-2009</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-14">14-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0023480&amp;artikel=IIa&amp;g=2009-01-14" onderdeel="artikel=IIa" korte-verwijzing="1.0:c:BWBR0023480&amp;artikel=IIa"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0023480&amp;artikel=IIa&amp;z=2009-01-14&amp;g=2009-01-14" onderdeel="artikel=IIa" korte-verwijzing="jci1.3:c:BWBR0023480&amp;artikel=IIa"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIIb" code="b1-IIb" stam-id="9418823" versie-id="15163712" id="C22061201" label-id="9396184" inwerking="2009-01-14" label="Artikel IIb" bron="Stb.2008-44" effect="nieuwe-regeling" ondertekening_bron="2007-12-20" publicatie_bron="2008-02-19" publicatie_iwt="2009-01-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">IIb</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet OM-afdoening.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-44"><publicatiejaar>2008</publicatiejaar><publicatienr>44</publicatienr><uitgiftedatum isodatum="2008-02-19">19-02-2008</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-20">20-12-2007</ondertekeningsdatum><dossierref dossier="30101">30101</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-9"><publicatiejaar>2009</publicatiejaar><publicatienr>9</publicatienr><uitgiftedatum isodatum="2009-01-13">13-01-2009</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-14">14-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0023480&amp;artikel=IIb&amp;g=2009-01-14" onderdeel="artikel=IIb" korte-verwijzing="1.0:c:BWBR0023480&amp;artikel=IIb"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0023480&amp;artikel=IIb&amp;z=2009-01-14&amp;g=2009-01-14" onderdeel="artikel=IIb" korte-verwijzing="jci1.3:c:BWBR0023480&amp;artikel=IIb"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIII" stam-id="9418833" versie-id="15163722" id="C22061191" label-id="9396194" inwerking="2009-01-14" label="Artikel III" bron="Stb.2008-44" effect="nieuwe-regeling" ondertekening_bron="2007-12-20" publicatie_bron="2008-02-19" publicatie_iwt="2009-01-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">III</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt deze wet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-44"><publicatiejaar>2008</publicatiejaar><publicatienr>44</publicatienr><uitgiftedatum isodatum="2008-02-19">19-02-2008</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-20">20-12-2007</ondertekeningsdatum><dossierref dossier="30101">30101</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-9"><publicatiejaar>2009</publicatiejaar><publicatienr>9</publicatienr><uitgiftedatum isodatum="2009-01-13">13-01-2009</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-14">14-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0023480&amp;artikel=III&amp;g=2009-01-14" onderdeel="artikel=III" korte-verwijzing="1.0:c:BWBR0023480&amp;artikel=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0023480&amp;artikel=III&amp;z=2009-01-14&amp;g=2009-01-14" onderdeel="artikel=III" korte-verwijzing="jci1.3:c:BWBR0023480&amp;artikel=III"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIV" stam-id="9418843" versie-id="15163732" id="C22061181" label-id="9396204" inwerking="2009-01-14" label="Artikel IV" bron="Stb.2008-44" effect="nieuwe-regeling" ondertekening_bron="2007-12-20" publicatie_bron="2008-02-19" publicatie_iwt="2009-01-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">IV</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet bestuurlijke boete fout parkeren en andere lichte verkeersovertredingen en wijzigt deze wet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-44"><publicatiejaar>2008</publicatiejaar><publicatienr>44</publicatienr><uitgiftedatum isodatum="2008-02-19">19-02-2008</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-20">20-12-2007</ondertekeningsdatum><dossierref dossier="30101">30101</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-9"><publicatiejaar>2009</publicatiejaar><publicatienr>9</publicatienr><uitgiftedatum isodatum="2009-01-13">13-01-2009</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-14">14-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0023480&amp;artikel=IV&amp;g=2009-01-14" onderdeel="artikel=IV" korte-verwijzing="1.0:c:BWBR0023480&amp;artikel=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0023480&amp;artikel=IV&amp;z=2009-01-14&amp;g=2009-01-14" onderdeel="artikel=IV" korte-verwijzing="jci1.3:c:BWBR0023480&amp;artikel=IV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelV" stam-id="9418853" versie-id="15163742" id="C22061171" label-id="9396214" inwerking="2009-01-14" label="Artikel V" bron="Stb.2008-44" effect="nieuwe-regeling" ondertekening_bron="2007-12-20" publicatie_bron="2008-02-19" publicatie_iwt="2009-01-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">V</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet bestuurlijke boete fout parkeren en andere lichte verkeersovertredingen.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-44"><publicatiejaar>2008</publicatiejaar><publicatienr>44</publicatienr><uitgiftedatum isodatum="2008-02-19">19-02-2008</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-20">20-12-2007</ondertekeningsdatum><dossierref dossier="30101">30101</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-9"><publicatiejaar>2009</publicatiejaar><publicatienr>9</publicatienr><uitgiftedatum isodatum="2009-01-13">13-01-2009</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-14">14-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0023480&amp;artikel=V&amp;g=2009-01-14" onderdeel="artikel=V" korte-verwijzing="1.0:c:BWBR0023480&amp;artikel=V"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0023480&amp;artikel=V&amp;z=2009-01-14&amp;g=2009-01-14" onderdeel="artikel=V" korte-verwijzing="jci1.3:c:BWBR0023480&amp;artikel=V"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVI" stam-id="9418863" versie-id="15163752" id="C22061161" label-id="9396224" inwerking="2009-01-14" label="Artikel VI" bron="Stb.2008-44" effect="nieuwe-regeling" ondertekening_bron="2007-12-20" publicatie_bron="2008-02-19" publicatie_iwt="2009-01-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">VI</nr>
+  </kop>
+  <al>Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt, in overeenstemming met Onze Minister van Justitie, binnen drie respectievelijk zes jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-44"><publicatiejaar>2008</publicatiejaar><publicatienr>44</publicatienr><uitgiftedatum isodatum="2008-02-19">19-02-2008</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-20">20-12-2007</ondertekeningsdatum><dossierref dossier="30101">30101</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-9"><publicatiejaar>2009</publicatiejaar><publicatienr>9</publicatienr><uitgiftedatum isodatum="2009-01-13">13-01-2009</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-14">14-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0023480&amp;artikel=VI&amp;g=2009-01-14" onderdeel="artikel=VI" korte-verwijzing="1.0:c:BWBR0023480&amp;artikel=VI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0023480&amp;artikel=VI&amp;z=2009-01-14&amp;g=2009-01-14" onderdeel="artikel=VI" korte-verwijzing="jci1.3:c:BWBR0023480&amp;artikel=VI"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVII" code="b1-VII" stam-id="9418873" versie-id="15163762" id="C22061251" label-id="9396234" inwerking="2009-01-14" label="Artikel VII" bron="Stb.2008-44" effect="nieuwe-regeling" ondertekening_bron="2007-12-20" publicatie_bron="2008-02-19" publicatie_iwt="2009-01-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">VII</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-44"><publicatiejaar>2008</publicatiejaar><publicatienr>44</publicatienr><uitgiftedatum isodatum="2008-02-19">19-02-2008</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-20">20-12-2007</ondertekeningsdatum><dossierref dossier="30101">30101</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-9"><publicatiejaar>2009</publicatiejaar><publicatienr>9</publicatienr><uitgiftedatum isodatum="2009-01-13">13-01-2009</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-14">14-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0023480&amp;artikel=VII&amp;g=2009-01-14" onderdeel="artikel=VII" korte-verwijzing="1.0:c:BWBR0023480&amp;artikel=VII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0023480&amp;artikel=VII&amp;z=2009-01-14&amp;g=2009-01-14" onderdeel="artikel=VII" korte-verwijzing="jci1.3:c:BWBR0023480&amp;artikel=VII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVIII" code="b1-VIII" stam-id="9418883" versie-id="15163772" id="C22061241" label-id="9396244" inwerking="2009-01-14" label="Artikel VIII" bron="Stb.2008-44" effect="nieuwe-regeling" ondertekening_bron="2007-12-20" publicatie_bron="2008-02-19" publicatie_iwt="2009-01-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">VIII</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet bestuurlijke boete overlast in de openbare ruimte.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-44"><publicatiejaar>2008</publicatiejaar><publicatienr>44</publicatienr><uitgiftedatum isodatum="2008-02-19">19-02-2008</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-20">20-12-2007</ondertekeningsdatum><dossierref dossier="30101">30101</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-9"><publicatiejaar>2009</publicatiejaar><publicatienr>9</publicatienr><uitgiftedatum isodatum="2009-01-13">13-01-2009</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-14">14-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0023480&amp;artikel=VIII&amp;g=2009-01-14" onderdeel="artikel=VIII" korte-verwijzing="1.0:c:BWBR0023480&amp;artikel=VIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0023480&amp;artikel=VIII&amp;z=2009-01-14&amp;g=2009-01-14" onderdeel="artikel=VIII" korte-verwijzing="jci1.3:c:BWBR0023480&amp;artikel=VIII"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="9418893" versie-id="15163782" id="C22061261" label-id="9396254" inwerking="2009-01-14" bron="Stb.2008-44" effect="nieuwe-regeling" ondertekening_bron="2007-12-20" publicatie_bron="2008-02-19" publicatie_iwt="2009-01-13" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats> 's-Gravenhage</plaats>
+      <datum isodatum="20 december 2008">20 december 2007</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Binnenlandse Zaken en Koninkrijksrelaties, </functie>
+    <naam>
+      <voornaam>G. ter</voornaam>
+      <achternaam>Horst</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Justitie,</functie>
+    <naam>
+      <voornaam>E. M. H.</voornaam>
+      <achternaam>Hirsch Ballin</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2008-02-19">de <nadruk type="cur">negentiende</nadruk> februari 2008</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie, </functie>
+      <naam>
+        <voornaam>E. M. H.</voornaam>
+        <achternaam>Hirsch Ballin</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-44"><publicatiejaar>2008</publicatiejaar><publicatienr>44</publicatienr><uitgiftedatum isodatum="2008-02-19">19-02-2008</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-20">20-12-2007</ondertekeningsdatum><dossierref dossier="30101">30101</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-9"><publicatiejaar>2009</publicatiejaar><publicatienr>9</publicatienr><uitgiftedatum isodatum="2009-01-13">13-01-2009</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-14">14-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-44"><publicatiejaar>2008</publicatiejaar><publicatienr>44</publicatienr><uitgiftedatum isodatum="2008-02-19">19-02-2008</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-20">20-12-2007</ondertekeningsdatum><dossierref dossier="30101">30101</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-9"><publicatiejaar>2009</publicatiejaar><publicatienr>9</publicatienr><uitgiftedatum isodatum="2009-01-13">13-01-2009</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-14">14-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0023480&amp;g=2009-01-14" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0023480"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0023480&amp;z=2009-01-14&amp;g=2009-01-14" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0023480"/></jcis></meta-data></wetgeving></toestand>

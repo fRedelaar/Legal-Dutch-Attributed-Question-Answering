@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0012091/2004-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0012091" inwerkingtreding="2004-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties><redactionele-correctie label-id="1439964" oud-revisie-id="2212231" nieuw-revisie-id="32103521"/><redactionele-correctie label-id="1440204" oud-revisie-id="14425781" nieuw-revisie-id="32123421"/></redactionele-correcties><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="1482423" versie-id="2212582" id="C2212581" label-id="1440284" inwerkingtredingsdatum="2001-01-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="1482573" versie-id="2212052" id="C2212051" label-id="1439794" inwerking="2001-01-01" bron="Stb.2000-627" effect="nieuwe-regeling" ondertekening_bron="2000-12-21" publicatie_bron="2000-12-28" publicatie_iwt="2000-12-28" status="goed">Wet van 21 december 2000 tot wijziging van een aantal socialeverzekeringswetten ter verkorting van beslistermijnen bij beschikkingen op aanvraag (Wet beslistermijnen sociale verzekeringen)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="1482583" versie-id="2212062" id="C2212061" label-id="1439804" inwerking="2001-01-01" bron="Stb.2000-627" effect="nieuwe-regeling" ondertekening_bron="2000-12-21" publicatie_bron="2000-12-28" publicatie_iwt="2000-12-28">Wet beslistermijnen sociale verzekeringen<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="1482613" versie-id="2212082" id="C2212081" label-id="1439814" inwerking="2001-01-01" bron="Stb.2000-627" effect="nieuwe-regeling" ondertekening_bron="2000-12-21" publicatie_bron="2000-12-28" publicatie_iwt="2000-12-28" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is de termijn waarbinnen een uitvoeringsorgaan een beschikking op aanvraag op grond van socialeverzekeringswetten dient te geven op eenduidige wijze in de diverse wetten vast te leggen en waar mogelijk in vergelijking met de huidige situatie te verkorten en in verband daarmee een aantal wetten te wijzigen;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/ArtikelI" code="b1-i" stam-id="1482633" versie-id="2212092" id="C2212091" label-id="1439824" inwerking="2001-01-01" label="Artikel I" bron="Stb.2000-627" effect="nieuwe-regeling" ondertekening_bron="2000-12-21" publicatie_bron="2000-12-28" publicatie_iwt="2000-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>I</nr>
+    <titel status="officieel">
+      <extref doc="jci1.3:c:BWBR0002368" verwijzing-id="503714" bwb-id="BWBR0002368" label-id="452894">Algemene Kinderbijslagwet</extref>
+    </titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Algemene Kinderbijslagwet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=I&amp;g=2004-01-01" onderdeel="artikel=I" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=I&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=I" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=I"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelII" code="b1-ii" stam-id="1482643" versie-id="2212102" id="C2212101" label-id="1439834" inwerking="2001-01-01" label="Artikel II" bron="Stb.2000-627" effect="nieuwe-regeling" ondertekening_bron="2000-12-21" publicatie_bron="2000-12-28" publicatie_iwt="2000-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>II</nr>
+    <titel status="officieel">
+      <extref doc="jci1.3:c:BWBR0007795" verwijzing-id="503715" bwb-id="BWBR0007795" label-id="2494864">Algemene nabestaandenwet</extref>
+    </titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Algemene nabestaandenwet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=II&amp;g=2004-01-01" onderdeel="artikel=II" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=II&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=II" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=II"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIII" code="b1-iii" stam-id="1482653" versie-id="2212112" id="C2212111" label-id="1439844" inwerking="2001-01-01" label="Artikel III" bron="Stb.2000-627" effect="nieuwe-regeling" ondertekening_bron="2000-12-21" publicatie_bron="2000-12-28" publicatie_iwt="2000-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>III</nr>
+    <titel status="officieel">
+      <extref doc="jci1.3:c:BWBR0002221" verwijzing-id="503716" bwb-id="BWBR0002221" label-id="2498844">Algemene Ouderdomswet</extref>
+    </titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Algemene Ouderdomswet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=III&amp;g=2004-01-01" onderdeel="artikel=III" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=III&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=III" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=III"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIV" code="b1-iv" stam-id="1482683" versie-id="2212162" id="C2212161" label-id="1439884" inwerking="2001-01-01" label="Artikel IV" bron="Stb.2000-627" effect="nieuwe-regeling" ondertekening_bron="2000-12-21" publicatie_bron="2000-12-28" publicatie_iwt="2000-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>IV</nr>
+    <titel status="officieel">
+      <extref doc="jci1.3:c:BWBR0002126" verwijzing-id="503717" bwb-id="BWBR0002126" label-id="2596934">Coördinatiewet Sociale Verzekering</extref>
+    </titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Coördinatiewet Sociale Verzekering.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=IV&amp;g=2004-01-01" onderdeel="artikel=IV" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=IV&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=IV" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=IV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelV" code="b1-v" stam-id="1482743" versie-id="2212202" id="C2212201" label-id="1439934" inwerking="2001-01-01" label="Artikel V" bron="Stb.2000-627" effect="nieuwe-regeling" ondertekening_bron="2000-12-21" publicatie_bron="2000-12-28" publicatie_iwt="2000-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>V</nr>
+    <titel status="officieel">
+      <extref doc="jci1.3:c:BWBR0004046" verwijzing-id="503718" bwb-id="BWBR0004046" label-id="2910214">Invoeringswet stelselherziening sociale zekerheid</extref>
+    </titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Invoeringswet stelselherziening sociale zekerheid.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=V&amp;g=2004-01-01" onderdeel="artikel=V" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=V"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=V&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=V" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=V"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVI" stam-id="1482763" versie-id="2212232" id="C32103521" label-id="1439964" inwerking="2001-01-01" label="Artikel VI" bron="Stb.2000-627" effect="nieuwe-regeling" ondertekening_bron="2000-12-21" publicatie_bron="2000-12-28" publicatie_iwt="2000-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">VI</nr>
+    <titel status="officieel"> Organisatiewet sociale verzekeringen 1997 </titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Organisatiewet sociale verzekeringen 1997.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=VI&amp;g=2004-01-01" onderdeel="artikel=VI" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=VI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=VI&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=VI" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=VI"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVII" code="b1-vii" stam-id="1482773" versie-id="2212242" id="C2212241" label-id="1439974" inwerking="2001-01-01" label="Artikel VII" bron="Stb.2000-627" effect="nieuwe-regeling" ondertekening_bron="2000-12-21" publicatie_bron="2000-12-28" publicatie_iwt="2000-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>VII</nr>
+    <titel status="officieel">
+      <extref doc="jci1.3:c:BWBR0004043" verwijzing-id="503725" bwb-id="BWBR0004043" label-id="1723734">Toeslagenwet</extref>
+    </titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Toeslagenwet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=VII&amp;g=2004-01-01" onderdeel="artikel=VII" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=VII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=VII&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=VII" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=VII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVIII" code="b1-viii" stam-id="1482793" versie-id="2212272" id="C2212271" label-id="1439994" inwerking="2001-01-01" label="Artikel VIII" bron="Stb.2000-627" effect="nieuwe-regeling" ondertekening_bron="2000-12-21" publicatie_bron="2000-12-28" publicatie_iwt="2000-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>VIII</nr>
+    <titel status="officieel">
+      <extref doc="jci1.3:c:BWBR0004045" verwijzing-id="503727" bwb-id="BWBR0004045" label-id="2975634">Werkloosheidswet</extref>
+    </titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Werkloosheidswet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=VIII&amp;g=2004-01-01" onderdeel="artikel=VIII" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=VIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=VIII&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=VIII" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=VIII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIX" code="b1-ix" stam-id="1482803" versie-id="2212282" id="C2212281" label-id="1440014" inwerking="2001-01-01" label="Artikel IX" bron="Stb.2000-627" effect="nieuwe-regeling" ondertekening_bron="2000-12-21" publicatie_bron="2000-12-28" publicatie_iwt="2000-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>IX</nr>
+    <titel status="officieel">
+      <extref doc="jci1.3:c:BWBR0008656" verwijzing-id="503728" bwb-id="BWBR0008656" label-id="2972634">Wet arbeidsongeschiktheidsverzekering zelfstandigen</extref>
+    </titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=IX&amp;g=2004-01-01" onderdeel="artikel=IX" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=IX"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=IX&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=IX" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=IX"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelX" code="b1-x" stam-id="1482813" versie-id="10018182" id="C13536101" label-id="1440024" inwerking="2004-01-01" label="Artikel X" bron="Stb.2003-544" effect="wijziging" ondertekening_bron="2003-12-19" publicatie_bron="2003-12-30" publicatie_iwt="2003-12-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>X</nr>
+    <titel status="officieel">Wijziging <extref doc="jci1.3:c:BWBR0008656" verwijzing-id="503729" bwb-id="BWBR0008656" label-id="2972634">Wet arbeidsongeschiktheidsverzekering zelfstandigen</extref> per 2004</titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2003-544"><publicatiejaar>2003</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2003-12-30">30-12-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-12-19">19-12-2003</ondertekeningsdatum><dossierref dossier="28978">28978</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2003-545"><publicatiejaar>2003</publicatiejaar><publicatienr>545</publicatienr><uitgiftedatum isodatum="2003-12-30">30-12-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-12-19">19-12-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2004-01-01">01-01-2004</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=X&amp;g=2004-01-01" onderdeel="artikel=X" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=X"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=X&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=X" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=X"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXI" code="b1-xi" stam-id="1482843" versie-id="2212322" id="C2212321" label-id="1440034" inwerking="2001-01-01" label="Artikel XI" bron="Stb.2000-627" effect="nieuwe-regeling" ondertekening_bron="2000-12-21" publicatie_bron="2000-12-28" publicatie_iwt="2000-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XI</nr>
+    <titel status="officieel">
+      <extref doc="jci1.3:c:BWBR0008657" verwijzing-id="503730" bwb-id="BWBR0008657" label-id="2976804">Wet arbeidsongeschiktheidsvoorziening jonggehandicapten</extref>
+    </titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=XI&amp;g=2004-01-01" onderdeel="artikel=XI" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=XI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XI&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=XI" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XI"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXII" code="b1-xii" stam-id="1482863" versie-id="10018192" id="C13536111" label-id="1440044" inwerking="2004-01-01" label="Artikel XII" bron="Stb.2003-544" effect="wijziging" ondertekening_bron="2003-12-19" publicatie_bron="2003-12-30" publicatie_iwt="2003-12-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XII</nr>
+    <titel status="officieel">Wijziging <extref doc="jci1.3:c:BWBR0008657" verwijzing-id="503731" bwb-id="BWBR0008657" label-id="2976804">Wet arbeidsongeschiktheidsvoorziening jonggehandicapten</extref> per 2004</titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2003-544"><publicatiejaar>2003</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2003-12-30">30-12-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-12-19">19-12-2003</ondertekeningsdatum><dossierref dossier="28978">28978</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2003-545"><publicatiejaar>2003</publicatiejaar><publicatienr>545</publicatienr><uitgiftedatum isodatum="2003-12-30">30-12-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-12-19">19-12-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2004-01-01">01-01-2004</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=XII&amp;g=2004-01-01" onderdeel="artikel=XII" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=XII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XII&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=XII" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXIII" code="b1-xiii" stam-id="1482873" versie-id="2212342" id="C2212341" label-id="1440054" inwerking="2001-01-01" label="Artikel XIII" bron="Stb.2000-627" effect="nieuwe-regeling" ondertekening_bron="2000-12-21" publicatie_bron="2000-12-28" publicatie_iwt="2000-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XIII</nr>
+    <titel status="officieel">
+      <extref doc="jci1.3:c:BWBR0002524" verwijzing-id="503732" bwb-id="BWBR0002524" label-id="2828254">Wet op de arbeidsongeschiktheidsverzekering</extref>
+    </titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=XIII&amp;g=2004-01-01" onderdeel="artikel=XIII" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=XIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XIII&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=XIII" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XIII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXIV" code="b1-xiv" stam-id="1482883" versie-id="10018212" id="C13536131" label-id="1440064" inwerking="2004-01-01" label="Artikel XIV" bron="Stb.2003-544" effect="wijziging" ondertekening_bron="2003-12-19" publicatie_bron="2003-12-30" publicatie_iwt="2003-12-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XIV</nr>
+    <titel status="officieel">Wijziging <extref doc="jci1.3:c:BWBR0002524" verwijzing-id="503733" bwb-id="BWBR0002524" label-id="2828254">Wet op de arbeidsongeschiktheidsverzekering</extref> per 2004</titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2003-544"><publicatiejaar>2003</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2003-12-30">30-12-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-12-19">19-12-2003</ondertekeningsdatum><dossierref dossier="28978">28978</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2003-545"><publicatiejaar>2003</publicatiejaar><publicatienr>545</publicatienr><uitgiftedatum isodatum="2003-12-30">30-12-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-12-19">19-12-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2004-01-01">01-01-2004</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=XIV&amp;g=2004-01-01" onderdeel="artikel=XIV" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=XIV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XIV&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=XIV" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XIV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXV" code="b1-xv" stam-id="1482903" versie-id="2212382" id="C2212381" label-id="1440094" inwerking="2001-01-01" label="Artikel XV" bron="Stb.2000-627" effect="nieuwe-regeling" ondertekening_bron="2000-12-21" publicatie_bron="2000-12-28" publicatie_iwt="2000-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XV</nr>
+    <titel status="officieel">
+      <extref doc="jci1.3:c:BWBR0009565" verwijzing-id="503734" bwb-id="BWBR0009565" label-id="788364">Wet op de (re)integratie arbeidsgehandicapten</extref>
+    </titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de (re)integratie arbeidsgehandicapten.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=XV&amp;g=2004-01-01" onderdeel="artikel=XV" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=XV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XV&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=XV" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXVI" code="b1-xvi" stam-id="1482953" versie-id="10018222" id="C13536141" label-id="1440134" inwerking="2004-01-01" label="Artikel XVI" bron="Stb.2003-544" effect="vervallen" ondertekening_bron="2003-12-19" publicatie_bron="2003-12-30" publicatie_iwt="2003-12-30" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>XVI</nr>
+    <titel status="officieel">Wijziging <extref doc="onbekend" verwijzing-id="503735">Wet op de (re)integratie arbeidsgehandicapten</extref> per 2004</titel>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2003-544"><publicatiejaar>2003</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2003-12-30">30-12-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-12-19">19-12-2003</ondertekeningsdatum><dossierref dossier="28978">28978</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2003-545"><publicatiejaar>2003</publicatiejaar><publicatienr>545</publicatienr><uitgiftedatum isodatum="2003-12-30">30-12-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-12-19">19-12-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2004-01-01">01-01-2004</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=XVI&amp;g=2004-01-01" onderdeel="artikel=XVI" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=XVI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XVI&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=XVI" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XVI"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXVII" code="b1-xvii" stam-id="1482993" versie-id="2212472" id="C2212471" label-id="1440184" inwerking="2001-01-01" label="Artikel XVII" bron="Stb.2000-627" effect="nieuwe-regeling" ondertekening_bron="2000-12-21" publicatie_bron="2000-12-28" publicatie_iwt="2000-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XVII</nr>
+    <titel status="officieel">
+      <extref doc="jci1.3:c:BWBR0008510" verwijzing-id="503736" bwb-id="BWBR0008510" label-id="230554">Wet premieregime bij marginale arbeid</extref>
+    </titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet premieregime bij marginale arbeid.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=XVII&amp;g=2004-01-01" onderdeel="artikel=XVII" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=XVII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XVII&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=XVII" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XVII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXVIII" code="b1-xviii" stam-id="1483003" versie-id="2212482" id="C2212481" label-id="1440194" inwerking="2001-01-01" label="Artikel XVIII" bron="Stb.2000-627" effect="nieuwe-regeling" ondertekening_bron="2000-12-21" publicatie_bron="2000-12-28" publicatie_iwt="2000-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XVIII</nr>
+    <titel status="officieel">
+      <extref doc="jci1.3:c:BWBR0001888" verwijzing-id="503737" bwb-id="BWBR0001888" label-id="2990404">Ziektewet</extref>
+    </titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Ziektewet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=XVIII&amp;g=2004-01-01" onderdeel="artikel=XVIII" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=XVIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XVIII&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=XVIII" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XVIII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXIX" stam-id="1483013" versie-id="2212492" id="C32123421" label-id="1440204" inwerking="2001-01-01" label="Artikel XIX" bron="Stb.2000-627" effect="nieuwe-regeling" ondertekening_bron="2000-12-21" publicatie_bron="2000-12-28" publicatie_iwt="2000-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XIX</nr>
+    <titel status="officieel">Overgangsbepaling</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/ArtikelXIX/Lid1" label-id="1440204L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Op aanvragen ontvangen voor inwerkingtreding van deze wet blijven de <extref doc="jci1.3:c:BWBR0002368&amp;artikel=5b" label-id="451674" verwijzing-id="503751" bwb-id="BWBR0002368">artikelen 5b van de Algemene Kinderbijslagwet</extref>, <extref doc="jci1.3:c:BWBR0007795&amp;artikel=33" label-id="2493974" verwijzing-id="503752" bwb-id="BWBR0007795">33, vijfde lid, van de Algemene nabestaandenwet</extref>, <extref doc="jci1.3:c:BWBR0002221&amp;artikel=5" label-id="2497924" verwijzing-id="503753" bwb-id="BWBR0002221">5 van de Algemene Ouderdomswet</extref>, <extref doc="jci1.3:c:BWBR0002126&amp;artikel=3c" label-id="2596324" verwijzing-id="503754" bwb-id="BWBR0002126">3c van de Coördinatiewet Sociale Verzekering</extref>, 114 van de Organisatiewet sociale verzekeringen 1997, <extref doc="jci1.3:c:BWBR0004043&amp;artikel=1a" label-id="1721314" verwijzing-id="503756" bwb-id="BWBR0004043">1a van de Toeslagenwet</extref>, <extref doc="jci1.3:c:BWBR0004045&amp;artikel=2a" label-id="2973724" verwijzing-id="503757" bwb-id="BWBR0004045">2a van de Werkloosheidswet</extref>, <extref doc="jci1.3:c:BWBR0008656&amp;artikel=95" label-id="2972494" verwijzing-id="1863027" bwb-id="BWBR0008656">95 van de Wet arbeidsongeschikheidsverzekering zelfstandigen</extref>, <extref doc="jci1.3:c:BWBR0008657&amp;artikel=69" label-id="2976654" verwijzing-id="503758" bwb-id="BWBR0008657">69 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten</extref>, <extref doc="jci1.3:c:BWBR0002524&amp;artikel=87" label-id="2827994" verwijzing-id="503759" bwb-id="BWBR0002524">87 van de Wet op de arbeidsongeschiktheidsverzekering</extref>, <extref doc="jci1.3:c:BWBR0009565&amp;artikel=50" label-id="787864" verwijzing-id="503760" bwb-id="BWBR0009565">50 van de Wet op de (re)integratie arbeidsgehandicapten</extref>, <extref doc="jci1.3:c:BWBR0001888&amp;artikel=2b" label-id="2989194" verwijzing-id="503761" bwb-id="BWBR0001888">2b van de Ziektewet</extref>, en de op die artikelen berustende bepalingen zoals deze luidden op de dag voor inwerkingtreding van deze wet van toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XIX&amp;lid=1&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelXIX/Lid2" label-id="1440204L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Artikel 106 Organisatiewet sociale verzekeringen 1997, is uitsluitend van toepassing op bezwaarschriften op grond van die wet die met ingang van 1 januari 2001 door het Landelijk instituut sociale verzekeringen worden ontvangen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XIX&amp;lid=2&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=XIX&amp;g=2004-01-01" onderdeel="artikel=XIX" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=XIX"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XIX&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=XIX" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XIX"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXX" code="b1-xx" stam-id="1483023" versie-id="2212502" id="C2212501" label-id="1440214" inwerking="2001-01-01" label="Artikel XX" bron="Stb.2000-627" effect="nieuwe-regeling" ondertekening_bron="2000-12-21" publicatie_bron="2000-12-28" publicatie_iwt="2000-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XX</nr>
+    <titel status="officieel">Evaluatiebepaling</titel>
+  </kop>
+  <al>Onze Minister van Sociale Zaken en Werkgelegenheid zendt voor 1 januari 2003 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=XX&amp;g=2004-01-01" onderdeel="artikel=XX" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=XX"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XX&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=XX" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XX"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXXI" code="b1-xxi" stam-id="1483043" versie-id="2213062" id="C2213061" label-id="1440244" inwerking="2002-01-01" label="Artikel XXI" bron="Stb.2001-692" effect="wijziging" ondertekening_bron="2001-12-20" publicatie_bron="2001-12-28" publicatie_iwt="2001-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XXI</nr>
+    <titel status="officieel">Overgangsbepaling per 2004</titel>
+  </kop>
+  <al>Op aanvragen ontvangen met ingang van 1 januari 2001 doch voor 1 januari 2004 blijven de <extref doc="jci1.3:c:BWBR0008656&amp;artikel=35" verwijzing-id="503769" bwb-id="BWBR0008656" label-id="2971794">artikelen 35, vijfde lid</extref>, en <extref doc="jci1.3:c:BWBR0008656&amp;artikel=95a" verwijzing-id="503772" bwb-id="BWBR0008656" label-id="2972834">95a van de Wet arbeidsongeschiktheidsverzekering zelfstandigen</extref>, <extref doc="jci1.3:c:BWBR0008657&amp;artikel=28" verwijzing-id="503775" bwb-id="BWBR0008657" label-id="2976154">28, vijfde lid</extref>, <extref doc="jci1.3:c:BWBR0008657&amp;artikel=69" verwijzing-id="503777" bwb-id="BWBR0008657" label-id="2976654">69</extref> en <extref doc="jci1.3:c:BWBR0008657&amp;artikel=69a" verwijzing-id="503778" bwb-id="BWBR0008657" label-id="2976914">69a van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten</extref>, <extref doc="jci1.3:c:BWBR0002524&amp;artikel=34" verwijzing-id="503779" bwb-id="BWBR0002524" label-id="2827134">34, vierde lid</extref>, en <extref doc="jci1.3:c:BWBR0002524&amp;artikel=87" verwijzing-id="503783" bwb-id="BWBR0002524" label-id="2827994">87 van de Wet op de arbeidsongeschiktheidsverzekering</extref>, zoals deze komen te luiden met ingang van 1 januari 2001, van toepassing.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2001-692"><publicatiejaar>2001</publicatiejaar><publicatienr>692</publicatienr><uitgiftedatum isodatum="2001-12-28">28-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-20">20-12-2001</ondertekeningsdatum><dossierref dossier="27897">27897</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2001-693"><publicatiejaar>2001</publicatiejaar><publicatienr>693</publicatienr><uitgiftedatum isodatum="2001-12-28">28-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-20">20-12-2001</ondertekeningsdatum><dossierref dossier="27897">27897</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=XXI&amp;g=2004-01-01" onderdeel="artikel=XXI" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=XXI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XXI&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=XXI" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XXI"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXXII" code="b1-xxii" stam-id="1483053" versie-id="2212542" id="C2212541" label-id="1440254" inwerking="2001-01-01" label="Artikel XXII" bron="Stb.2000-627" effect="nieuwe-regeling" ondertekening_bron="2000-12-21" publicatie_bron="2000-12-28" publicatie_iwt="2000-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XXII</nr>
+    <titel status="officieel">Inwerkingtreding</titel>
+  </kop>
+  <al>Deze wet treedt in werking met ingang van 1 januari 2001.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=XXII&amp;g=2004-01-01" onderdeel="artikel=XXII" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=XXII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XXII&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=XXII" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XXII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXXIII" code="b1-xxiii" stam-id="1483063" versie-id="2212552" id="C2212551" label-id="1440264" inwerking="2001-01-01" label="Artikel XXIII" bron="Stb.2000-627" effect="nieuwe-regeling" ondertekening_bron="2000-12-21" publicatie_bron="2000-12-28" publicatie_iwt="2000-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XXIII</nr>
+    <titel status="officieel">Citeertitel</titel>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet beslistermijnen sociale verzekeringen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;artikel=XXIII&amp;g=2004-01-01" onderdeel="artikel=XXIII" korte-verwijzing="1.0:c:BWBR0012091&amp;artikel=XXIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XXIII&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="artikel=XXIII" korte-verwijzing="jci1.3:c:BWBR0012091&amp;artikel=XXIII"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="1483093" versie-id="2212572" id="C20871441" label-id="1440274" inwerking="2001-01-01" bron="Stb.2000-627" effect="nieuwe-regeling" ondertekening_bron="2000-12-21" publicatie_bron="2000-12-28" publicatie_iwt="2000-12-28" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">21 december 2000</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Staatssecretaris van Sociale Zaken en Werkgelegenheid,</functie>
+    <naam>
+      <achternaam>J. F. Hoogervorst</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de <nadruk type="cur">achtentwintigste</nadruk> december 2000</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>A. H. Korthals</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2000-627"><publicatiejaar>2000</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2000-12-28">28-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-21">21-12-2000</ondertekeningsdatum><dossierref dossier="27248">27248</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0012091&amp;g=2004-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0012091"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0012091&amp;z=2004-01-01&amp;g=2004-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0012091"/></jcis></meta-data></wetgeving></toestand>

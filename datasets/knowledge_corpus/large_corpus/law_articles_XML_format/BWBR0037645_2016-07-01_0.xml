@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0037645/2016-07-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0037645" inwerkingtreding="2016-07-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="13418313" versie-id="23026562" id="C33439171" label-id="13385804" inwerkingtredingsdatum="2016-07-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="13418333" versie-id="23026382" id="C33439201" label-id="13385624" inwerking="2016-07-01" bron="Stb.2016-80" effect="nieuwe-regeling" ondertekening_bron="2016-02-10" publicatie_bron="2016-02-23" publicatie_iwt="2016-04-25" status="goed">Wet van 10 februari 2016 tot vaststelling van bepalingen op het gebied van jeugdverblijven (Wet op de jeugdverblijven)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-80"><publicatiejaar>2016</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2016-02-23">23-02-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-02-10">10-02-2016</ondertekeningsdatum><dossierref dossier="34053">34053</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-152"><publicatiejaar>2016</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2016-04-25">25-04-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-04-01">01-04-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-07-01">01-07-2016</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="13418343" versie-id="23026392" id="C33439141" label-id="13385634" inwerking="2016-07-01" bron="Stb.2016-80" effect="nieuwe-regeling" ondertekening_bron="2016-02-10" publicatie_bron="2016-02-23" publicatie_iwt="2016-04-25">Wet op de jeugdverblijven<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-80"><publicatiejaar>2016</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2016-02-23">23-02-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-02-10">10-02-2016</ondertekeningsdatum><dossierref dossier="34053">34053</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-152"><publicatiejaar>2016</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2016-04-25">25-04-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-04-01">01-04-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-07-01">01-07-2016</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="13418353" versie-id="23026402" id="C33439211" label-id="13385644" inwerking="2016-07-01" bron="Stb.2016-80" effect="nieuwe-regeling" ondertekening_bron="2016-02-10" publicatie_bron="2016-02-23" publicatie_iwt="2016-04-25" status="goed">
+  <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is regels te stellen aan jeugdverblijven teneinde voor de aldaar verblijvende minderjarigen hun veiligheid, hun ongestoorde ontwikkeling en het pedagogische klimaat te bevorderen;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-80"><publicatiejaar>2016</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2016-02-23">23-02-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-02-10">10-02-2016</ondertekeningsdatum><dossierref dossier="34053">34053</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-152"><publicatiejaar>2016</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2016-04-25">25-04-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-04-01">01-04-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-07-01">01-07-2016</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="13418363" versie-id="23026412" id="C33439081" label-id="13385654" inwerking="2016-07-01" label="Artikel 1" bron="Stb.2016-80" effect="nieuwe-regeling" ondertekening_bron="2016-02-10" publicatie_bron="2016-02-23" publicatie_iwt="2016-04-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid1" label-id="13385654L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>In deze wet wordt verstaan onder:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeel_1">
+        <al>
+          <nadruk type="cur">college:</nadruk> college van burgemeester en wethouders van de gemeente waar het jeugdverblijf is gevestigd;</al>
+      </li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeel_2">
+        <al>
+          <nadruk type="cur">houder:</nadruk> degene die een jeugdverblijf in stand houdt;</al>
+      </li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeel_3">
+        <al>
+          <nadruk type="cur">jeugdverblijf:</nadruk> inrichting, niet door een Nederlandse overheid of krachtens een wettelijk voorschrift bekostigd, waar ten minste vier minderjarigen elk gedurende een half jaar meer dan de helft van de tijd buiten familie- of gezinsverband overnachten of naar verwachting zullen overnachten.</al>
+      </li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=1&amp;lid=1&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid2" label-id="13385654L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Deze wet is niet van toepassing op inrichtingen waarvoor een op grond van een andere dan deze wet geregelde vorm van toezicht op de veiligheid, de ontwikkeling en het pedagogisch klimaat van minderjarigen bestaat.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=1&amp;lid=2&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-80"><publicatiejaar>2016</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2016-02-23">23-02-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-02-10">10-02-2016</ondertekeningsdatum><dossierref dossier="34053">34053</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-152"><publicatiejaar>2016</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2016-04-25">25-04-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-04-01">01-04-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-07-01">01-07-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037645&amp;artikel=1&amp;g=2016-07-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0037645&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=1&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0037645&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" stam-id="13418373" versie-id="23026422" id="C33439221" label-id="13385664" inwerking="2016-07-01" label="Artikel 2" bron="Stb.2016-80" effect="nieuwe-regeling" ondertekening_bron="2016-02-10" publicatie_bron="2016-02-23" publicatie_iwt="2016-04-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <al>De houder doet van het in stand houden van een jeugdverblijf onverwijld eenmalig mededeling aan het college.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-80"><publicatiejaar>2016</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2016-02-23">23-02-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-02-10">10-02-2016</ondertekeningsdatum><dossierref dossier="34053">34053</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-152"><publicatiejaar>2016</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2016-04-25">25-04-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-04-01">01-04-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-07-01">01-07-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037645&amp;artikel=2&amp;g=2016-07-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0037645&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=2&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0037645&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="13418383" versie-id="23026432" id="C33439121" label-id="13385674" inwerking="2016-07-01" label="Artikel 3" bron="Stb.2016-80" effect="nieuwe-regeling" ondertekening_bron="2016-02-10" publicatie_bron="2016-02-23" publicatie_iwt="2016-04-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="13385674L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De houder stelt met het oog op het bevorderen van de veiligheid, het pedagogisch klimaat en het voorkomen van een ernstige bedreiging voor de ontwikkeling van de minderjarigen een kwaliteitskader met kwaliteitsvoorschriften vast in ieder geval betreffende de volgende onderwerpen:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de missie en de visie ten aanzien van het jeugdverblijf;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=3&amp;lid=1&amp;o=a&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de positie en de betrokkenheid van de verblijvende minderjarigen en hun ouders;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=3&amp;lid=1&amp;o=b&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>het klachtenbeleid;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=3&amp;lid=1&amp;o=c&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de verslaglegging ten aanzien van het beleid en de doelstellingen van het jeugdverblijf;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=3&amp;lid=1&amp;o=d&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>de veilige en gezonde werk- en leefomgeving, waaronder begrepen:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeele/Onderdeel1">
+            <li.nr>1°.</li.nr>
+            <al>agressie en discriminatie;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=3&amp;lid=1&amp;o=e&amp;o=1&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="o=1"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeele/Onderdeel2">
+            <li.nr>2°.</li.nr>
+            <al>alcohol en drugs;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=3&amp;lid=1&amp;o=e&amp;o=2&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="o=2"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeele/Onderdeel3">
+            <li.nr>3°.</li.nr>
+            <al>kindermishandeling;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=3&amp;lid=1&amp;o=e&amp;o=3&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="o=3"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeele/Onderdeel4">
+            <li.nr>4°.</li.nr>
+            <al>pesten.</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=3&amp;lid=1&amp;o=e&amp;o=4&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="o=4"/></jcis></meta-data></li>
+        </lijst>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=3&amp;lid=1&amp;o=e&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>het personeelsbeleid;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=3&amp;lid=1&amp;o=f&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>het pedagogisch beleid en het pedagogisch klimaat, waaronder begrepen:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelg/Onderdeel1">
+            <li.nr>1°.</li.nr>
+            <al>schorsing en verwijdering;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=3&amp;lid=1&amp;o=g&amp;o=1&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="o=1"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelg/Onderdeel2">
+            <li.nr>2°.</li.nr>
+            <al>sociale media;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=3&amp;lid=1&amp;o=g&amp;o=2&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="o=2"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelg/Onderdeel3">
+            <li.nr>3°.</li.nr>
+            <al>burgerschap;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=3&amp;lid=1&amp;o=g&amp;o=3&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="o=3"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelg/Onderdeel4">
+            <li.nr>4°.</li.nr>
+            <al>straffen.</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=3&amp;lid=1&amp;o=g&amp;o=4&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="o=4"/></jcis></meta-data></li>
+        </lijst>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=3&amp;lid=1&amp;o=g&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="o=g"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=3&amp;lid=1&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="13385674L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De houder draagt zorg dat binnen het jeugdverblijf voldaan wordt aan de kwaliteitsvoorschriften, bedoeld in het eerste lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=3&amp;lid=2&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-80"><publicatiejaar>2016</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2016-02-23">23-02-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-02-10">10-02-2016</ondertekeningsdatum><dossierref dossier="34053">34053</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-152"><publicatiejaar>2016</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2016-04-25">25-04-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-04-01">01-04-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-07-01">01-07-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037645&amp;artikel=3&amp;g=2016-07-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0037645&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=3&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0037645&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" stam-id="13418393" versie-id="23026442" id="C33439111" label-id="13385684" inwerking="2016-07-01" label="Artikel 4" bron="Stb.2016-80" effect="nieuwe-regeling" ondertekening_bron="2016-02-10" publicatie_bron="2016-02-23" publicatie_iwt="2016-04-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="13385684L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Aan een jeugdverblijf is een vertrouwenspersoon verbonden, die minderjarigen, hun ouders of hun wettelijke vertegenwoordigers indien gewenst ondersteunt of informeert. De vertrouwenspersoon verricht zijn werkzaamheden in onafhankelijkheid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=4&amp;lid=1&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="13385684L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Als vertrouwenspersoon wordt niet aangewezen de persoon die:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel4/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>houder is;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=4&amp;lid=2&amp;o=a&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>in enige vorm of op enige wijze werkzaamheden verricht voor de houder, met uitzondering van de werkzaamheden die nodig zijn voor de uitoefening van de functie van vertrouwenspersoon; of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=4&amp;lid=2&amp;o=b&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>bloed- of aanverwant tot en met de derde graad, of de wettelijke vertegenwoordiger van een minderjarige in dat jeugdverblijf is.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=4&amp;lid=2&amp;o=c&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=4&amp;lid=2&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-80"><publicatiejaar>2016</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2016-02-23">23-02-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-02-10">10-02-2016</ondertekeningsdatum><dossierref dossier="34053">34053</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-152"><publicatiejaar>2016</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2016-04-25">25-04-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-04-01">01-04-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-07-01">01-07-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037645&amp;artikel=4&amp;g=2016-07-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0037645&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=4&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0037645&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" stam-id="13418403" versie-id="23026452" id="C33439101" label-id="13385694" inwerking="2016-07-01" label="Artikel 5" bron="Stb.2016-80" effect="nieuwe-regeling" ondertekening_bron="2016-02-10" publicatie_bron="2016-02-23" publicatie_iwt="2016-04-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid1" label-id="13385694L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor de kwaliteitsvoorschriften, bedoeld in <intref doc="jci1.3:c:BWBR0037645&amp;artikel=3&amp;z=2016-07-01&amp;g=2016-07-01" label-id="13385674" verwijzing-id="2747645" bwb-id="BWBR0037645" bwb-ng-variabel-deel="/Artikel3">artikel 3</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=5&amp;lid=1&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid2" label-id="13385694L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de <intref doc="jci1.3:c:BWBR0037645&amp;artikel=2&amp;z=2016-07-01&amp;g=2016-07-01" label-id="13385664" verwijzing-id="2747646" bwb-id="BWBR0037645" bwb-ng-variabel-deel="/Artikel2">artikelen 2</intref> en <intref doc="jci1.3:c:BWBR0037645&amp;artikel=4&amp;z=2016-07-01&amp;g=2016-07-01" label-id="13385684" verwijzing-id="2747647" bwb-id="BWBR0037645" bwb-ng-variabel-deel="/Artikel4">4</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=5&amp;lid=2&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-80"><publicatiejaar>2016</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2016-02-23">23-02-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-02-10">10-02-2016</ondertekeningsdatum><dossierref dossier="34053">34053</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-152"><publicatiejaar>2016</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2016-04-25">25-04-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-04-01">01-04-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-07-01">01-07-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037645&amp;artikel=5&amp;g=2016-07-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0037645&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=5&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0037645&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" stam-id="13418413" versie-id="23026462" id="C33439091" label-id="13385704" inwerking="2016-07-01" label="Artikel 6" bron="Stb.2016-80" effect="nieuwe-regeling" ondertekening_bron="2016-02-10" publicatie_bron="2016-02-23" publicatie_iwt="2016-04-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid1" label-id="13385704L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De houder is in het bezit van een verklaring omtrent het gedrag als bedoeld in <extref doc="jci1.3:c:BWBR0014194&amp;artikel=28" label-id="3212724" verwijzing-id="2747648" bwb-id="BWBR0014194">artikel 28 van de Wet justitiële en strafvorderlijke gegevens</extref>, ten aanzien van zichzelf en van een ieder die in het jeugdverblijf niet-incidenteel in contact kan komen met de minderjarigen of hun ouders.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=6&amp;lid=1&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid2" label-id="13385704L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Een verklaring als bedoeld in het eerste lid is niet eerder afgegeven dan drie maanden voor het tijdstip waarop de in het eerste lid bedoelde persoon bij het jeugdverblijf betrokken werd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=6&amp;lid=2&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-80"><publicatiejaar>2016</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2016-02-23">23-02-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-02-10">10-02-2016</ondertekeningsdatum><dossierref dossier="34053">34053</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-152"><publicatiejaar>2016</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2016-04-25">25-04-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-04-01">01-04-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-07-01">01-07-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037645&amp;artikel=6&amp;g=2016-07-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0037645&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=6&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0037645&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" stam-id="13418423" versie-id="23026472" id="C33439131" label-id="13385714" inwerking="2016-07-01" label="Artikel 7" bron="Stb.2016-80" effect="nieuwe-regeling" ondertekening_bron="2016-02-10" publicatie_bron="2016-02-23" publicatie_iwt="2016-04-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid1" label-id="13385714L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het college is belast met het toezicht op de naleving van deze wet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=7&amp;lid=1&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid2" label-id="13385714L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Toezichthouders zijn ambtenaren in dienst van een gemeentelijke gezondheidsdienst als bedoeld in <extref doc="jci1.3:c:BWBR0024705&amp;artikel=14" label-id="9743744" verwijzing-id="2747642" bwb-id="BWBR0024705">artikel 14 van de Wet publieke gezondheid</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=7&amp;lid=2&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid3" label-id="13385714L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De toezichthouder is bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner, voor zover die woning ten dienste staat van het jeugdverblijf.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=7&amp;lid=3&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-80"><publicatiejaar>2016</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2016-02-23">23-02-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-02-10">10-02-2016</ondertekeningsdatum><dossierref dossier="34053">34053</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-152"><publicatiejaar>2016</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2016-04-25">25-04-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-04-01">01-04-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-07-01">01-07-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037645&amp;artikel=7&amp;g=2016-07-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0037645&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=7&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0037645&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" stam-id="13418433" versie-id="23026482" id="C33439231" label-id="13385724" inwerking="2016-07-01" label="Artikel 8" bron="Stb.2016-80" effect="nieuwe-regeling" ondertekening_bron="2016-02-10" publicatie_bron="2016-02-23" publicatie_iwt="2016-04-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <al>De toezichthouder brengt ten minste eenmaal per jaar een bezoek aan het jeugdverblijf.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-80"><publicatiejaar>2016</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2016-02-23">23-02-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-02-10">10-02-2016</ondertekeningsdatum><dossierref dossier="34053">34053</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-152"><publicatiejaar>2016</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2016-04-25">25-04-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-04-01">01-04-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-07-01">01-07-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037645&amp;artikel=8&amp;g=2016-07-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0037645&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=8&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0037645&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" stam-id="13418443" versie-id="23026492" id="C33439151" label-id="13385734" inwerking="2016-07-01" label="Artikel 9" bron="Stb.2016-80" effect="nieuwe-regeling" ondertekening_bron="2016-02-10" publicatie_bron="2016-02-23" publicatie_iwt="2016-04-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid1" label-id="13385734L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het college kan aan de houder een aanwijzing geven bij constatering dat, ten aanzien van het door de houder in stand gehouden jeugdverblijf, het bij of krachtens deze wet bepaalde wordt overtreden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=9&amp;lid=1&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid2" label-id="13385734L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De aanwijzing bevat een termijn waarbinnen de houder ten aanzien van het jeugdverblijf aan de aanwijzing dient te voldoen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=9&amp;lid=2&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid3" label-id="13385734L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het college is bevoegd tot oplegging van een last onder dwangsom aan de houder, indien deze ten aanzien van het jeugdverblijf niet of niet afdoende uitvoering geeft aan de aanwijzing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=9&amp;lid=3&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-80"><publicatiejaar>2016</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2016-02-23">23-02-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-02-10">10-02-2016</ondertekeningsdatum><dossierref dossier="34053">34053</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-152"><publicatiejaar>2016</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2016-04-25">25-04-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-04-01">01-04-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-07-01">01-07-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037645&amp;artikel=9&amp;g=2016-07-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0037645&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=9&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0037645&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" stam-id="13418453" versie-id="23026502" id="C33439181" label-id="13385744" inwerking="2016-07-01" label="Artikel 10" bron="Stb.2016-80" effect="nieuwe-regeling" ondertekening_bron="2016-02-10" publicatie_bron="2016-02-23" publicatie_iwt="2016-04-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid1" label-id="13385744L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De burgemeester is bevoegd tot sluiting van het jeugdverblijf bij een gegrond vermoeden van een overtreding of misdrijf dat directe gevolgen heeft voor de veiligheid van de minderjarige dan wel een ernstige bedreiging vormt voor de ontwikkeling van de minderjarige in het jeugdverblijf.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=10&amp;lid=1&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid2" label-id="13385744L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het besluit, bedoeld in het eerste lid, bepaalt de sluitingsduur van het jeugdverblijf.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=10&amp;lid=2&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-80"><publicatiejaar>2016</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2016-02-23">23-02-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-02-10">10-02-2016</ondertekeningsdatum><dossierref dossier="34053">34053</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-152"><publicatiejaar>2016</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2016-04-25">25-04-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-04-01">01-04-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-07-01">01-07-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037645&amp;artikel=10&amp;g=2016-07-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0037645&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=10&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0037645&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" stam-id="13418463" versie-id="23026512" id="C33439241" label-id="13385754" inwerking="2016-07-01" label="Artikel 11" bron="Stb.2016-80" effect="nieuwe-regeling" ondertekening_bron="2016-02-10" publicatie_bron="2016-02-23" publicatie_iwt="2016-04-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Gemeentewet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-80"><publicatiejaar>2016</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2016-02-23">23-02-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-02-10">10-02-2016</ondertekeningsdatum><dossierref dossier="34053">34053</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-152"><publicatiejaar>2016</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2016-04-25">25-04-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-04-01">01-04-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-07-01">01-07-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037645&amp;artikel=11&amp;g=2016-07-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0037645&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=11&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0037645&amp;artikel=11"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel12" stam-id="13418473" versie-id="23026522" id="C33439251" label-id="13385764" inwerking="2016-07-01" label="Artikel 12" bron="Stb.2016-80" effect="nieuwe-regeling" ondertekening_bron="2016-02-10" publicatie_bron="2016-02-23" publicatie_iwt="2016-04-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">12</nr>
+  </kop>
+  <al>Onze Minister van Sociale Zaken en Werkgelegenheid en Onze Minister van Volksgezondheid, Welzijn en Sport zenden binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-80"><publicatiejaar>2016</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2016-02-23">23-02-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-02-10">10-02-2016</ondertekeningsdatum><dossierref dossier="34053">34053</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-152"><publicatiejaar>2016</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2016-04-25">25-04-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-04-01">01-04-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-07-01">01-07-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037645&amp;artikel=12&amp;g=2016-07-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0037645&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=12&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0037645&amp;artikel=12"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13" stam-id="13418483" versie-id="23026532" id="C33439191" label-id="13385774" inwerking="2016-07-01" label="Artikel 13" bron="Stb.2016-80" effect="nieuwe-regeling" ondertekening_bron="2016-02-10" publicatie_bron="2016-02-23" publicatie_iwt="2016-04-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13</nr>
+  </kop>
+  <al>De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-80"><publicatiejaar>2016</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2016-02-23">23-02-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-02-10">10-02-2016</ondertekeningsdatum><dossierref dossier="34053">34053</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-152"><publicatiejaar>2016</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2016-04-25">25-04-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-04-01">01-04-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-07-01">01-07-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037645&amp;artikel=13&amp;g=2016-07-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0037645&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=13&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0037645&amp;artikel=13"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel14" stam-id="13418493" versie-id="23026542" id="C33439261" label-id="13385784" inwerking="2016-07-01" label="Artikel 14" bron="Stb.2016-80" effect="nieuwe-regeling" ondertekening_bron="2016-02-10" publicatie_bron="2016-02-23" publicatie_iwt="2016-04-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">14</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet op de jeugdverblijven.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-80"><publicatiejaar>2016</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2016-02-23">23-02-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-02-10">10-02-2016</ondertekeningsdatum><dossierref dossier="34053">34053</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-152"><publicatiejaar>2016</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2016-04-25">25-04-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-04-01">01-04-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-07-01">01-07-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037645&amp;artikel=14&amp;g=2016-07-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0037645&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;artikel=14&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0037645&amp;artikel=14"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="13418503" versie-id="23026552" id="C33439161" label-id="13385794" inwerking="2016-07-01" bron="Stb.2016-80" effect="nieuwe-regeling" ondertekening_bron="2016-02-10" publicatie_bron="2016-02-23" publicatie_iwt="2016-04-25" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>Wassenaar</plaats>
+      <datum isodatum="2016-02-10">10 februari 2016</datum>
+    </dagtekening>
+    <koning>Willem-Alexander</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Staatssecretaris van Volksgezondheid, Welzijn en Sport, </functie>
+    <naam>
+      <voornaam>M.J. van</voornaam>
+      <achternaam>Rijn</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Sociale Zaken en Werkgelegenheid, </functie>
+    <naam>
+      <voornaam>L.F.</voornaam>
+      <achternaam>Asscher</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2016-02-23">de <nadruk type="cur">drieëntwintigste</nadruk> februari 2016</datum>
+    <ondertekening>
+      <functie>De Minister van Veiligheid en Justitie, </functie>
+      <naam>
+        <voornaam>G.A. van der</voornaam>
+        <achternaam>Steur</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-80"><publicatiejaar>2016</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2016-02-23">23-02-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-02-10">10-02-2016</ondertekeningsdatum><dossierref dossier="34053">34053</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-152"><publicatiejaar>2016</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2016-04-25">25-04-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-04-01">01-04-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-07-01">01-07-2016</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-80"><publicatiejaar>2016</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2016-02-23">23-02-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-02-10">10-02-2016</ondertekeningsdatum><dossierref dossier="34053">34053</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-152"><publicatiejaar>2016</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2016-04-25">25-04-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-04-01">01-04-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-07-01">01-07-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037645&amp;g=2016-07-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0037645"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037645&amp;z=2016-07-01&amp;g=2016-07-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0037645"/></jcis></meta-data></wetgeving></toestand>

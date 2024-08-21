@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0031796/2024-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0031796" inwerkingtreding="2024-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="11795883" versie-id="19531062" id="C27389461" label-id="11768324" inwerkingtredingsdatum="2012-08-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="11795903" versie-id="19530772" id="C27389171" label-id="11768034" inwerking="2012-08-01" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-07-18" status="goed">Wet van 12 juli 2012 tot invoering van een bankenbelasting (Wet bankenbelasting)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie><inwerkingtreding.datum isodatum="2012-08-01">01-08-2012</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="11795913" versie-id="19530782" id="C27389181" label-id="11768044" inwerking="2012-08-01" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-07-18">Wet bankenbelasting<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie><inwerkingtreding.datum isodatum="2012-08-01">01-08-2012</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="11795923" versie-id="19530792" id="C27389191" label-id="11768054" inwerking="2012-08-01" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-07-18" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is in aanvulling op andere maatregelen ter versterking van de financiële stabiliteit in Nederland te voorzien in een bankenbelasting;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie><inwerkingtreding.datum isodatum="2012-08-01">01-08-2012</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf1" stam-id="11795953" versie-id="19530822" id="C27556431" label-id="11768084" inwerking="2012-10-01" label="§ 1" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-09-21" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">1</nr>
+    <titel status="officieel">Algemene bepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf1/Artikel1" stam-id="11795933" versie-id="19530802" id="C31625191" label-id="11768064" inwerking="2012-10-01" label="Artikel 1" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-09-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>Onder de naam bankenbelasting wordt een belasting geheven van de in <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768124" verwijzing-id="2506431" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf2">paragraaf 2</intref> vermelde belastingplichtigen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-417"><publicatiejaar>2012</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2012-09-21">21-09-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-17">17-09-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-10-01">01-10-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;artikel=1&amp;g=2024-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0031796&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=1&amp;artikel=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0031796&amp;artikel=1"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf1/Artikel2" stam-id="11795943" versie-id="20827452" id="C31625201" label-id="11768074" inwerking="2014-01-01" label="Artikel 2" bron="Stb.2013-413" effect="wijziging" ondertekening_bron="2013-10-16" publicatie_bron="2013-10-25" publicatie_iwt="2013-10-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <al>Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel2/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>
+        <nadruk type="cur">balans:</nadruk> balans die is opgemaakt als onderdeel van de enkelvoudige jaarrekening, bedoeld in <extref doc="jci1.3:c:BWBR0003045&amp;titeldeel=9" label-id="2873654" verwijzing-id="2506410" bwb-id="BWBR0003045">titel 9 van Boek 2 van het Burgerlijk Wetboek</extref>, of van een naar aard en strekking vergelijkbare enkelvoudige jaarrekening volgens het recht van een andere staat;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=1&amp;artikel=2&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel2/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>
+        <nadruk type="cur">bank:</nadruk> bank als bedoeld in <extref doc="jci1.3:c:BWBR0020368&amp;artikel=1:1" label-id="8654364" verwijzing-id="2506411" bwb-id="BWBR0020368">artikel 1:1 van de Wet op het financieel toezicht</extref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=1&amp;artikel=2&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel2/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>
+        <nadruk type="cur">bijkantoor:</nadruk> bijkantoor als bedoeld in onderdeel a van de definitie van bijkantoor in <extref doc="jci1.3:c:BWBR0020368&amp;artikel=1:1" label-id="8654364" verwijzing-id="2506412" bwb-id="BWBR0020368">artikel 1:1 van de Wet op het financieel toezicht</extref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=1&amp;artikel=2&amp;o=c&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel2/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>
+        <nadruk type="cur">deposito:</nadruk> deposito als bedoeld in <extref doc="jci1.3:c:BWBR0020368&amp;artikel=1:1" label-id="8654364" verwijzing-id="2506413" bwb-id="BWBR0020368">artikel 1:1 van de Wet op het financieel toezicht</extref> of een naar aard en strekking vergelijkbaar deposito volgens het recht van een andere staat;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=1&amp;artikel=2&amp;o=d&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel2/Onderdeele">
+      <li.nr>e.</li.nr>
+      <al>
+        <nadruk type="cur">depositogarantiestelsel:</nadruk> stelsel als bedoeld in <extref doc="jci1.3:c:BWBR0020368&amp;artikel=1:1" label-id="8654364" verwijzing-id="2506414" bwb-id="BWBR0020368">artikel 1:1 van de Wet op het financieel toezicht</extref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=1&amp;artikel=2&amp;o=e&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel2/Onderdeelf">
+      <li.nr>f.</li.nr>
+      <al>
+        <nadruk type="cur">geconsolideerde balans:</nadruk> balans die is opgemaakt als onderdeel van de geconsolideerde jaarrekening, bedoeld in <extref doc="jci1.3:c:BWBR0003045&amp;titeldeel=9" label-id="2873654" verwijzing-id="2506415" bwb-id="BWBR0003045">titel 9 van Boek 2 van het Burgerlijk Wetboek</extref> of in artikel 4 van de IAS-verordening, dan wel van een naar aard en strekking vergelijkbare geconsolideerde jaarrekening volgens het recht van een andere staat;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=1&amp;artikel=2&amp;o=f&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel2/Onderdeelg">
+      <li.nr>g.</li.nr>
+      <al>
+        <nadruk type="cur">IAS-verordening:</nadruk> Verordening (EG) nr. 1606/2002 van het Europees Parlement en de Raad van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG 2002, L 243);</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=1&amp;artikel=2&amp;o=g&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=g"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel2/Onderdeelh">
+      <li.nr>h.</li.nr>
+      <al>
+        <nadruk type="cur">lidstaat:</nadruk> lidstaat als bedoeld in <extref doc="jci1.3:c:BWBR0020368&amp;artikel=1:1" label-id="8654364" verwijzing-id="2506416" bwb-id="BWBR0020368">artikel 1:1 van de Wet op het financieel toezicht</extref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=1&amp;artikel=2&amp;o=h&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=h"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel2/Onderdeeli">
+      <li.nr>i.</li.nr>
+      <al>
+        <nadruk type="cur">Nederlandsche Bank:</nadruk> De Nederlandsche Bank N.V.;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=1&amp;artikel=2&amp;o=i&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=i"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel2/Onderdeelj">
+      <li.nr>j.</li.nr>
+      <al>
+        <nadruk type="cur">toetsingsvermogen:</nadruk> vermogen dat wordt berekend overeenkomstig de bij algemene maatregel van bestuur vastgestelde regels, bedoeld in <extref doc="jci1.3:c:BWBR0020368&amp;artikel=3:57" label-id="8658604" verwijzing-id="2506417" bwb-id="BWBR0020368">artikel 3:57, tweede lid, van de Wet op het financieel toezicht</extref>, of naar aard en strekking vergelijkbare regels volgens het recht van een andere staat;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=1&amp;artikel=2&amp;o=j&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=j"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel2/Onderdeelk">
+      <li.nr>k.</li.nr>
+      <al>
+        <nadruk type="cur">variabele beloning:</nadruk> beloningsbestanddeel waarvan de toekenning afhankelijk is gesteld van het bereiken van bepaalde doelen of van het zich voordoen van bepaalde omstandigheden;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=1&amp;artikel=2&amp;o=k&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=k"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel2/Onderdeell">
+      <li.nr>l.</li.nr>
+      <al>
+        <nadruk type="cur">vaste beloning:</nadruk> beloningsbestanddeel dat niet kan worden aangemerkt als variabele beloning;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=1&amp;artikel=2&amp;o=l&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=l"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel2/Onderdeelm">
+      <li.nr>m.</li.nr>
+      <al>
+        <nadruk type="cur">verzekeraar:</nadruk> verzekeraar als bedoeld in <extref doc="jci1.3:c:BWBR0020368&amp;artikel=1:1" label-id="8654364" verwijzing-id="2506418" bwb-id="BWBR0020368">artikel 1:1 van de Wet op het financieel toezicht</extref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=1&amp;artikel=2&amp;o=m&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=m"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel2/Onderdeeln">
+      <li.nr>n.</li.nr>
+      <al>
+        <nadruk type="cur">zetel:</nadruk> zetel als bedoeld in <extref doc="jci1.3:c:BWBR0020368&amp;artikel=1:1" label-id="8654364" verwijzing-id="2506419" bwb-id="BWBR0020368">artikel 1:1 van de Wet op het financieel toezicht</extref>.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=1&amp;artikel=2&amp;o=n&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=n"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-413"><publicatiejaar>2013</publicatiejaar><publicatienr>413</publicatienr><uitgiftedatum isodatum="2013-10-25">25-10-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-10-16">16-10-2013</ondertekeningsdatum><dossierref dossier="33637">33637</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-413"><publicatiejaar>2013</publicatiejaar><publicatienr>413</publicatienr><uitgiftedatum isodatum="2013-10-25">25-10-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-10-16">16-10-2013</ondertekeningsdatum><dossierref dossier="33637">33637</dossierref></publicatie><inwerkingtreding.datum isodatum="2014-01-01">01-01-2014</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;artikel=2&amp;g=2024-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0031796&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=1&amp;artikel=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0031796&amp;artikel=2"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-417"><publicatiejaar>2012</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2012-09-21">21-09-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-17">17-09-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-10-01">01-10-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;paragraaf=1&amp;g=2024-01-01" onderdeel="paragraaf=1" korte-verwijzing="1.0:c:BWBR0031796&amp;paragraaf=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="paragraaf=1" korte-verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=1"/></jcis></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf2" stam-id="11795993" versie-id="19530862" id="C27556471" label-id="11768124" inwerking="2012-10-01" label="§ 2" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-09-21" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">2</nr>
+    <titel status="officieel">Belastingplicht</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf2/Artikel3" stam-id="11795963" versie-id="19530832" id="C31625221" label-id="11768094" inwerking="2012-10-01" label="Artikel 3" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-09-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <al>Belastingplichtig voor de bankenbelasting is:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Paragraaf2/Artikel3/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>een lichaam met zetel in Nederland dat een vergunning als bedoeld in <extref doc="jci1.3:c:BWBR0020368&amp;artikel=2:11" label-id="8656004" verwijzing-id="2506420" bwb-id="BWBR0020368">artikel 2:11, eerste lid, van de Wet op het financieel toezicht</extref> heeft voor het uitoefenen van het bedrijf van bank;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=3&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Paragraaf2/Artikel3/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>een lichaam met zetel in een andere lidstaat dan Nederland dat vanuit een in Nederland gelegen bijkantoor het bedrijf van bank uitoefent, een door een toezichthoudende instantie als bedoeld in <extref doc="jci1.3:c:BWBR0020368&amp;artikel=1:1" label-id="8654364" verwijzing-id="2506421" bwb-id="BWBR0020368">artikel 1:1 van de Wet op het financieel toezicht</extref> van die lidstaat verleende vergunning voor het uitoefenen van het bedrijf van bank heeft en een mededeling van de Nederlandsche Bank als bedoeld in <extref doc="jci1.3:c:BWBR0020368&amp;artikel=2:14" label-id="8656044" verwijzing-id="2506422" bwb-id="BWBR0020368">artikel 2:14, eerste of tweede lid, van de Wet op het financieel toezicht</extref> heeft ontvangen;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=3&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Paragraaf2/Artikel3/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>een lichaam met zetel in een andere staat dan Nederland dat vanuit een in Nederland gelegen bijkantoor het bedrijf van bank uitoefent en een door de Nederlandsche Bank verleende vergunning als bedoeld in de <extref doc="jci1.3:c:BWBR0020368&amp;artikel=2:16" label-id="8656064" verwijzing-id="2506423" bwb-id="BWBR0020368">artikelen 2:16, eerste lid</extref>, of <extref doc="jci1.3:c:BWBR0020368&amp;artikel=2:20" label-id="8656114" verwijzing-id="2506424" bwb-id="BWBR0020368">2:20, eerste lid, van de Wet op het financieel toezicht</extref> heeft.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=3&amp;o=c&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-417"><publicatiejaar>2012</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2012-09-21">21-09-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-17">17-09-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-10-01">01-10-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;artikel=3&amp;g=2024-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0031796&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0031796&amp;artikel=3"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf2/Artikel4" stam-id="11795973" versie-id="19530842" id="C31625231" label-id="11768104" inwerking="2012-10-01" label="Artikel 4" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-09-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf2/Artikel4/Lid1" label-id="11768104L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien de financiële gegevens van een lichaam als bedoeld in <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=3&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768094" verwijzing-id="2506439" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf2/Artikel3">artikel 3</intref> zijn opgenomen in een door een in Nederland gevestigd lichaam opgestelde geconsolideerde jaarrekening:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Paragraaf2/Artikel4/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>overeenkomstig de in artikel 4 van de IAS-verordening bedoelde internationale standaarden voor jaarrekeningen die volgens de procedure van artikel 6, tweede lid, van die verordening zijn goedgekeurd, of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=4&amp;lid=1&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf2/Artikel4/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>overeenkomstig <extref doc="jci1.3:c:BWBR0003045&amp;titeldeel=9" label-id="2873654" verwijzing-id="2506425" bwb-id="BWBR0003045">titel 9 van Boek 2 van het Burgerlijk Wetboek</extref>,</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=4&amp;lid=1&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+    <al>is, in afwijking van <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=3&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768094" verwijzing-id="2506440" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf2/Artikel3">artikel 3</intref>, niet het eerstgenoemde lichaam belastingplichtig, maar het in Nederland gevestigde lichaam dat die geconsolideerde jaarrekening heeft opgesteld. Indien de financiële gegevens van een lichaam als bedoeld in artikel 3 zijn opgenomen in een door dat lichaam opgestelde geconsolideerde jaarrekening als bedoeld in de eerste volzin, is dat lichaam niet op grond van artikel 3 maar op grond van dit artikel belastingplichtig.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=4&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf2/Artikel4/Lid2" label-id="11768104L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien de financiële gegevens van een lichaam dat ingevolge het eerste lid belastingplichtig is, zijn opgenomen in de geconsolideerde jaarrekening van een ander lichaam dat ingevolge het eerste lid belastingplichtig is, is, in afwijking van het eerste lid, alleen het laatstgenoemde lichaam belastingplichtig.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=4&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf2/Artikel4/Lid3" label-id="11768104L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het eerste lid vindt geen toepassing indien het balanstotaal van het lichaam, bedoeld in <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=3&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768094" verwijzing-id="2506441" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf2/Artikel3">artikel 3</intref>, van wie de financiële gegevens zijn opgenomen in de geconsolideerde jaarrekening, bedoeld in het eerste lid, of, ingeval de financiële gegevens van meerdere lichamen als bedoeld in artikel 3 zijn opgenomen in die geconsolideerde jaarrekening, het gezamenlijke bedrag van de balanstotalen van die lichamen:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Paragraaf2/Artikel4/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>minder bedraagt dan het in <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=9&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768164" verwijzing-id="2506442" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf3/Artikel9">artikel 9</intref> genoemde bedrag van de doelmatigheidsvrijstelling, of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=4&amp;lid=3&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf2/Artikel4/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>minder bedraagt dan 10% van het geconsolideerde balanstotaal zoals dat blijkt uit die geconsolideerde jaarrekening.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=4&amp;lid=3&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=4&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-417"><publicatiejaar>2012</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2012-09-21">21-09-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-17">17-09-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-10-01">01-10-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;artikel=4&amp;g=2024-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0031796&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0031796&amp;artikel=4"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf2/Artikel5" stam-id="11795983" versie-id="19530852" id="C31625241" label-id="11768114" inwerking="2012-10-01" label="Artikel 5" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-09-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf2/Artikel5/Lid1" label-id="11768114L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien de financiële gegevens van een lichaam als bedoeld in <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=3&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768094" verwijzing-id="2506454" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf2/Artikel3">artikel 3</intref> niet zijn opgenomen in een door een ander, in Nederland gevestigd, lichaam opgestelde geconsolideerde jaarrekening omdat het laatstgenoemde lichaam met toepassing van <extref doc="jci1.3:c:BWBR0003045&amp;artikel=403" label-id="2873114" verwijzing-id="2506426" bwb-id="BWBR0003045">artikel 403 van Boek 2 van het Burgerlijk Wetboek</extref> daarvan heeft mogen afzien, is, in afwijking van artikel 3, het laatstgenoemde lichaam belastingplichtig indien de schriftelijke verklaring, bedoeld in artikel 403, onderdeel f, van Boek 2 van het Burgerlijk Wetboek, die is vereist voor het mogen afzien van een geconsolideerde jaarrekening, is afgegeven door een niet in Nederland gevestigd lichaam. Indien de financiële gegevens van een lichaam als bedoeld in artikel 3 niet zijn opgenomen in een door dat lichaam opgestelde geconsolideerde jaarrekening omdat dat lichaam met toepassing van artikel 403 van Boek 2 van het Burgerlijk Wetboek daarvan heeft mogen afzien, is dat lichaam niet op grond van artikel 3 maar op grond van dit artikel belastingplichtig indien de schriftelijke verklaring, bedoeld in artikel 403, onderdeel f, van Boek 2 van het Burgerlijk Wetboek, die is vereist voor het mogen afzien van een geconsolideerde jaarrekening, is afgegeven door een niet in Nederland gevestigd lichaam.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=5&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf2/Artikel5/Lid2" label-id="11768114L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>
+      <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=4&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768104" verwijzing-id="2506455" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf2/Artikel4">Artikel 4, tweede en derde lid</intref>, is van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=5&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-417"><publicatiejaar>2012</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2012-09-21">21-09-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-17">17-09-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-10-01">01-10-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;artikel=5&amp;g=2024-01-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0031796&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0031796&amp;artikel=5"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-417"><publicatiejaar>2012</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2012-09-21">21-09-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-17">17-09-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-10-01">01-10-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;paragraaf=2&amp;g=2024-01-01" onderdeel="paragraaf=2" korte-verwijzing="1.0:c:BWBR0031796&amp;paragraaf=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="paragraaf=2" korte-verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=2"/></jcis></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf3" stam-id="11796043" versie-id="19530912" id="C27556521" label-id="11768174" inwerking="2012-10-01" label="§ 3" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-09-21" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">3</nr>
+    <titel status="officieel">Belastbare grondslag</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf3/Artikel6" stam-id="11796003" versie-id="19530872" id="C31625261" label-id="11768134" inwerking="2012-10-01" label="Artikel 6" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-09-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel6/Lid1" label-id="11768134L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De belasting wordt geheven naar het belastbare bedrag.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=6&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel6/Lid2" label-id="11768134L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het belastbare bedrag is de belastbare som, bedoeld in <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=7&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768144" verwijzing-id="2506450" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf3/Artikel7">artikel 7</intref>, verminderd met de doelmatigheidsvrijstelling, bedoeld in <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=9&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768164" verwijzing-id="2506451" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf3/Artikel9">artikel 9</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=6&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-417"><publicatiejaar>2012</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2012-09-21">21-09-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-17">17-09-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-10-01">01-10-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;artikel=6&amp;g=2024-01-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0031796&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=6&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0031796&amp;artikel=6"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf3/Artikel7" stam-id="11796013" versie-id="19530882" id="C31625281" label-id="11768144" inwerking="2012-10-01" label="Artikel 7" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-09-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel7/Lid1" label-id="11768144L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien sprake is van een belastingplichtige als bedoeld in <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=3&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768094" verwijzing-id="2506443" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf2/Artikel3">artikel 3</intref>, is de belastbare som het balanstotaal van de balans, verminderd met de in <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=8&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768154" verwijzing-id="2506444" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf3/Artikel8">artikel 8</intref> genoemde passiva van die balans.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=7&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel7/Lid2" label-id="11768144L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien sprake is van een belastingplichtige als bedoeld in <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=4&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768104" verwijzing-id="2506445" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf2/Artikel4">artikel 4</intref>, is de belastbare som het geconsolideerde balanstotaal van de geconsolideerde balans, verminderd met de in <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=8&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768154" verwijzing-id="2506446" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf3/Artikel8">artikel 8</intref> genoemde passiva van die geconsolideerde balans.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=7&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel7/Lid3" label-id="11768144L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Indien sprake is van een belastingplichtige als bedoeld in <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=5&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768114" verwijzing-id="2506447" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf2/Artikel5">artikel 5</intref>, is de belastbare som het geconsolideerde balanstotaal van de geconsolideerde balans van de geconsolideerde jaarrekening die zou moeten zijn opgesteld als <extref doc="jci1.3:c:BWBR0003045&amp;artikel=403" label-id="2873114" verwijzing-id="2506427" bwb-id="BWBR0003045">artikel 403 van Boek 2 van het Burgerlijk Wetboek</extref> niet van toepassing zou zijn geweest, verminderd met de in <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=8&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768154" verwijzing-id="2506448" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf3/Artikel8">artikel 8</intref> genoemde passiva van die geconsolideerde balans.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=7&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-417"><publicatiejaar>2012</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2012-09-21">21-09-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-17">17-09-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-10-01">01-10-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;artikel=7&amp;g=2024-01-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0031796&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=7&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0031796&amp;artikel=7"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf3/Artikel8" stam-id="11796023" versie-id="19530892" id="C31625291" label-id="11768154" inwerking="2012-10-01" label="Artikel 8" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-09-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <al>De passiva, bedoeld in <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=7&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768144" verwijzing-id="2506434" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf3/Artikel7">artikel 7</intref>, zijn:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Paragraaf3/Artikel8/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>ten aanzien van een belastingplichtige als bedoeld in <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=3&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768094" verwijzing-id="2506435" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf2/Artikel3">artikel 3, onderdeel a</intref>, <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=4&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768104" verwijzing-id="2506436" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf2/Artikel4">artikel 4</intref> of <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=5&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768114" verwijzing-id="2506437" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf2/Artikel5">artikel 5</intref>:</al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li bwb-ng-variabel-deel="/Paragraaf3/Artikel8/Onderdeela/Onderdeel1">
+          <li.nr>1°.</li.nr>
+          <al>het toetsingsvermogen;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=8&amp;o=a&amp;o=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=1"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/Paragraaf3/Artikel8/Onderdeela/Onderdeel2">
+          <li.nr>2°.</li.nr>
+          <al>de deposito’s, voor zover die voor voldoening ingevolge een depositogarantiestelsel in aanmerking komen;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=8&amp;o=a&amp;o=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=2"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/Paragraaf3/Artikel8/Onderdeela/Onderdeel3">
+          <li.nr>3°.</li.nr>
+          <al>de passiva die betrekking hebben op de entiteit die het bedrijf van verzekeraar uitoefent;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=8&amp;o=a&amp;o=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=3"/></jcis></meta-data></li>
+      </lijst>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=8&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Paragraaf3/Artikel8/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>ten aanzien van een belastingplichtige als bedoeld in <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=3&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768094" verwijzing-id="2506438" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf2/Artikel3">artikel 3, onderdelen b of c</intref>:</al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li bwb-ng-variabel-deel="/Paragraaf3/Artikel8/Onderdeelb/Onderdeel1">
+          <li.nr>1°.</li.nr>
+          <al>de passiva die niet zijn toe te rekenen aan het in Nederland gelegen bijkantoor;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=8&amp;o=b&amp;o=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=1"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/Paragraaf3/Artikel8/Onderdeelb/Onderdeel2">
+          <li.nr>2°.</li.nr>
+          <al>het aan het bijkantoor toe te rekenen toetsingsvermogen;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=8&amp;o=b&amp;o=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=2"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/Paragraaf3/Artikel8/Onderdeelb/Onderdeel3">
+          <li.nr>3°.</li.nr>
+          <al>de aan het bijkantoor toe te rekenen deposito’s, voor zover die voor voldoening ingevolge een depositogarantiestelsel in aanmerking komen.</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=8&amp;o=b&amp;o=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=3"/></jcis></meta-data></li>
+      </lijst>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=8&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-417"><publicatiejaar>2012</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2012-09-21">21-09-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-17">17-09-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-10-01">01-10-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;artikel=8&amp;g=2024-01-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0031796&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=8&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0031796&amp;artikel=8"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf3/Artikel9" stam-id="11796033" versie-id="29284212" id="C41712431" label-id="11768164" inwerking="2023-03-16" label="Artikel 9" bron="Stcrt.2023-7968" effect="wijziging" ondertekening_bron="2023-02-22" publicatie_bron="2023-03-15" publicatie_iwt="2023-03-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel9/Lid1" label-id="11768164L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De doelmatigheidsvrijstelling bedraagt € 23.500.000.000.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=9&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel9/Lid2" label-id="11768164L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien het bedrag van de belastbare som, bedoeld in <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=7&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768144" verwijzing-id="2506453" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf3/Artikel7">artikel 7</intref>, minder is dan € 23.500.000.000, bedraagt de doelmatigheidsvrijstelling het bedrag van de belastbare som.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=9&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stcrt" urlidentifier="stcrt-2023-7968"><publicatiejaar>2023</publicatiejaar><publicatienr>7968</publicatienr><uitgiftedatum isodatum="2023-03-15">15-03-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-02-22">22-02-2023</ondertekeningsdatum><kenmerk>2023-0000004070</kenmerk></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stcrt" urlidentifier="stcrt-2023-7968"><publicatiejaar>2023</publicatiejaar><publicatienr>7968</publicatienr><uitgiftedatum isodatum="2023-03-15">15-03-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-02-22">22-02-2023</ondertekeningsdatum><kenmerk>2023-0000004070</kenmerk></publicatie><inwerkingtreding.datum isodatum="2023-03-16">16-03-2023</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2023-01-01">01-01-2023</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;artikel=9&amp;g=2024-01-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0031796&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=9&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0031796&amp;artikel=9"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-417"><publicatiejaar>2012</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2012-09-21">21-09-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-17">17-09-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-10-01">01-10-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;paragraaf=3&amp;g=2024-01-01" onderdeel="paragraaf=3" korte-verwijzing="1.0:c:BWBR0031796&amp;paragraaf=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="paragraaf=3" korte-verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=3"/></jcis></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf4" stam-id="11796063" versie-id="19530932" id="C27556541" label-id="11768194" inwerking="2012-10-01" label="§ 4" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-09-21" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">4</nr>
+    <titel status="officieel">Tarief</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf4/Artikel10" stam-id="11796053" versie-id="29854882" id="C42803371" label-id="11768184" inwerking="2024-01-01" label="Artikel 10" bron="Stb.2023-499" effect="wijziging" ondertekening_bron="2023-12-20" publicatie_bron="2023-12-27" publicatie_iwt="2023-12-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf4/Artikel10/Lid1" label-id="11768184L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De belasting bedraagt de som van:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Paragraaf4/Artikel10/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>0,058% over het deel van het belastbare bedrag dat wordt verkregen door het belastbare bedrag te vermenigvuldigen met A/B, waarbij A is het totaalbedrag van de schulden op de in aanmerking te nemen balans of geconsolideerde balans die een looptijd hebben van minder dan één jaar en B het totaalbedrag van alle schulden op die balans of geconsolideerde balans, en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=4&amp;artikel=10&amp;lid=1&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf4/Artikel10/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>0,029% over het resterende deel van het belastbare bedrag.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=4&amp;artikel=10&amp;lid=1&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=4&amp;artikel=10&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf4/Artikel10/Lid2" label-id="11768184L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien de variabele beloning van ten minste één bestuurder van de belastingplichtige over het boekjaar waarover de balans of de geconsolideerde balans wordt opgemaakt meer bedraagt dan 25% van diens vaste beloning, worden de belastingpercentages, genoemd in het eerste lid, vermenigvuldigd met een factor 1,1.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=4&amp;artikel=10&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-499"><publicatiejaar>2023</publicatiejaar><publicatienr>499</publicatienr><uitgiftedatum isodatum="2023-12-27">27-12-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-12-20">20-12-2023</ondertekeningsdatum><dossierref dossier="36418">36418</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-499"><publicatiejaar>2023</publicatiejaar><publicatienr>499</publicatienr><uitgiftedatum isodatum="2023-12-27">27-12-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-12-20">20-12-2023</ondertekeningsdatum><dossierref dossier="36418">36418</dossierref></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;artikel=10&amp;g=2024-01-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0031796&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=4&amp;artikel=10&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0031796&amp;artikel=10"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-417"><publicatiejaar>2012</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2012-09-21">21-09-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-17">17-09-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-10-01">01-10-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;paragraaf=4&amp;g=2024-01-01" onderdeel="paragraaf=4" korte-verwijzing="1.0:c:BWBR0031796&amp;paragraaf=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="paragraaf=4" korte-verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=4"/></jcis></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf5" stam-id="11796083" versie-id="19530952" id="C27556561" label-id="11768214" inwerking="2012-10-01" label="§ 5" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-09-21" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">5</nr>
+    <titel status="officieel">Wijze van heffing</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf5/Artikel11" stam-id="11796073" versie-id="19530942" id="C31625401" label-id="11768204" inwerking="2012-10-01" label="Artikel 11" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-09-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf5/Artikel11/Lid1" label-id="11768204L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De belasting moet op aangifte worden voldaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=5&amp;artikel=11&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf5/Artikel11/Lid2" label-id="11768204L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De belasting wordt verschuldigd op de eerste dag van de tiende kalendermaand na de datum naar welke de balans of de geconsolideerde balans is opgemaakt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=5&amp;artikel=11&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf5/Artikel11/Lid3" label-id="11768204L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Indien de voor de belastingheffing in aanmerking te nemen jaarrekening nog niet is vastgesteld op het tijdstip waarop de belasting op grond van het tweede lid zou zijn verschuldigd, wordt de belasting niet op dat tijdstip verschuldigd, maar op de eerste dag van de kalendermaand na het tijdstip waarop die jaarrekening is vastgesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=5&amp;artikel=11&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf5/Artikel11/Lid4" label-id="11768204L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>In afwijking van het tweede en derde lid wordt bij een belastingplichtige als bedoeld in <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=2&amp;artikel=5&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768114" verwijzing-id="2506432" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf2/Artikel5">artikel 5</intref> de belasting verschuldigd op de eerste dag van de tiende kalendermaand na de datum naar welke de geconsolideerde balans zou moeten zijn opgemaakt als bedoeld in <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=7&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768144" verwijzing-id="2506433" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf3/Artikel7">artikel 7, derde lid</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=5&amp;artikel=11&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-417"><publicatiejaar>2012</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2012-09-21">21-09-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-17">17-09-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-10-01">01-10-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;artikel=11&amp;g=2024-01-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0031796&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=5&amp;artikel=11&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0031796&amp;artikel=11"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-417"><publicatiejaar>2012</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2012-09-21">21-09-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-17">17-09-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-10-01">01-10-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;paragraaf=5&amp;g=2024-01-01" onderdeel="paragraaf=5" korte-verwijzing="1.0:c:BWBR0031796&amp;paragraaf=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="paragraaf=5" korte-verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=5"/></jcis></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf6" stam-id="11796103" versie-id="19530972" id="C27556581" label-id="11768234" inwerking="2012-10-01" label="§ 6" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-09-21" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">6</nr>
+    <titel status="officieel">Indexatie</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf6/Artikel12" stam-id="11796093" versie-id="19530962" id="C31625431" label-id="11768224" inwerking="2012-10-01" label="Artikel 12" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-09-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">12</nr>
+  </kop>
+  <al>De in <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=3&amp;artikel=9&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768164" verwijzing-id="2506452" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf3/Artikel9">artikel 9</intref> vermelde bedragen worden elke vijf jaar met ingang van 1 januari van een jaar bij ministeriële regeling gewijzigd. Deze wijziging vindt voor het eerst plaats op 1 januari 2018. De <extref doc="jci1.3:c:BWBR0011353&amp;artikel=10.1" label-id="2786684" verwijzing-id="2506428" bwb-id="BWBR0011353">artikelen 10.1</extref> en <extref doc="jci1.3:c:BWBR0011353&amp;artikel=10.2" label-id="2786694" verwijzing-id="2506429" bwb-id="BWBR0011353">10.2 van de Wet inkomstenbelasting 2001</extref> zijn van overeenkomstige toepassing, met dien verstande dat als correctiefactor wordt genomen het product van de tabelcorrectiefactoren van de laatste vijf kalenderjaren. Bij de berekening wordt het bedrag van de doelmatigheidsvrijstelling naar boven afgerond op een veelvoud van € 100 000 000.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-417"><publicatiejaar>2012</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2012-09-21">21-09-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-17">17-09-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-10-01">01-10-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;artikel=12&amp;g=2024-01-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0031796&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=6&amp;artikel=12&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0031796&amp;artikel=12"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-417"><publicatiejaar>2012</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2012-09-21">21-09-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-17">17-09-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-10-01">01-10-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;paragraaf=6&amp;g=2024-01-01" onderdeel="paragraaf=6" korte-verwijzing="1.0:c:BWBR0031796&amp;paragraaf=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=6&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="paragraaf=6" korte-verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=6"/></jcis></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf7" stam-id="11796173" versie-id="19531042" id="C27389441" label-id="11768304" inwerking="2012-08-01" label="§ 7" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-07-18" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">7</nr>
+    <titel status="officieel">Overige bepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf7/Artikel13" stam-id="11796113" versie-id="19530982" id="C31625461" label-id="11768244" inwerking="2012-10-01" label="Artikel 13" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-09-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13</nr>
+  </kop>
+  <al>Bij ministeriële regeling kunnen regels worden gesteld volgens welke de inspecteur onder door hem te stellen voorwaarden de belastingplichtige op zijn verzoek kan toestaan het belastbare bedrag te berekenen in een andere geldeenheid dan de euro. Daarbij wordt onder meer aangegeven tegen welke koers het bedrag van de doelmatigheidsvrijstelling wordt omgerekend in de andere geldeenheid en tegen welke koers het in de andere geldeenheid berekende belastbare bedrag wordt omgerekend in euro’s. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-417"><publicatiejaar>2012</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2012-09-21">21-09-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-17">17-09-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-10-01">01-10-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;artikel=13&amp;g=2024-01-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0031796&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=7&amp;artikel=13&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0031796&amp;artikel=13"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf7/Artikel14" stam-id="11796123" versie-id="19530992" id="C27556601" label-id="11768254" inwerking="2012-10-01" label="Artikel 14" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-09-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">14</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de vennootschapsbelasting 1969.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-417"><publicatiejaar>2012</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2012-09-21">21-09-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-17">17-09-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-10-01">01-10-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;artikel=14&amp;g=2024-01-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0031796&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=7&amp;artikel=14&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0031796&amp;artikel=14"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf7/Artikel14bis" code="b1-geen" stam-id="11796133" versie-id="19531002" id="C27556611" label-id="11768264" inwerking="2012-10-01" label="Artikel 14bis" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-09-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">14bis</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt deze wet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-417"><publicatiejaar>2012</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2012-09-21">21-09-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-17">17-09-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-10-01">01-10-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;artikel=14bis&amp;g=2024-01-01" onderdeel="artikel=14bis" korte-verwijzing="1.0:c:BWBR0031796&amp;artikel=14bis"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=7&amp;artikel=14bis&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=14bis" korte-verwijzing="jci1.3:c:BWBR0031796&amp;artikel=14bis"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf7/Artikel14a" stam-id="11796143" versie-id="19531012" id="C27389411" label-id="11768274" inwerking="2012-08-01" label="Artikel 14a" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-07-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">14a</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie><inwerkingtreding.datum isodatum="2012-08-01">01-08-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;artikel=14a&amp;g=2024-01-01" onderdeel="artikel=14a" korte-verwijzing="1.0:c:BWBR0031796&amp;artikel=14a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=7&amp;artikel=14a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=14a" korte-verwijzing="jci1.3:c:BWBR0031796&amp;artikel=14a"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf7/Artikel15" stam-id="11796153" versie-id="19531022" id="C31625481" label-id="11768284" inwerking="2012-10-01" label="Artikel 15" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-09-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15</nr>
+  </kop>
+  <al>Deze wet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip en vindt voor het eerst toepassing met betrekking tot belasting waarvan de verschuldigdheid is ontstaan op of na dat tijdstip, met dien verstande dat <intref doc="jci1.3:c:BWBR0031796&amp;paragraaf=7&amp;artikel=14a&amp;z=2024-01-01&amp;g=2024-01-01" label-id="11768274" verwijzing-id="2506449" bwb-id="BWBR0031796" bwb-ng-variabel-deel="/Paragraaf7/Artikel14a">artikel 14a</intref>:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Paragraaf7/Artikel15/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>met ingang van 1 juli 2012 in werking treedt ingeval het Staatsblad waarin deze wet wordt geplaatst wordt uitgegeven vóór 1 juli 2012;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=7&amp;artikel=15&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Paragraaf7/Artikel15/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>met ingang van de eerste dag van de maand volgend op die waarin de uitgifte van het Staatsblad waarin deze wet wordt geplaatst heeft plaatsgevonden, ingeval de uitgifte van dat Staatsblad plaatsvindt na 30 juni 2012 maar vóór 1 oktober 2012;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=7&amp;artikel=15&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Paragraaf7/Artikel15/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>niet in werking treedt ingeval het Staatsblad waarin deze wet wordt geplaatst wordt uitgegeven na 30 september 2012.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=7&amp;artikel=15&amp;o=c&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-417"><publicatiejaar>2012</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2012-09-21">21-09-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-17">17-09-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-10-01">01-10-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;artikel=15&amp;g=2024-01-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0031796&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=7&amp;artikel=15&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0031796&amp;artikel=15"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf7/Artikel16" stam-id="11796163" versie-id="19531032" id="C31625501" label-id="11768294" inwerking="2012-10-01" label="Artikel 16" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-09-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">16</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet bankenbelasting.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-417"><publicatiejaar>2012</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2012-09-21">21-09-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-17">17-09-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-10-01">01-10-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;artikel=16&amp;g=2024-01-01" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0031796&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=7&amp;artikel=16&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0031796&amp;artikel=16"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie><inwerkingtreding.datum isodatum="2012-08-01">01-08-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;paragraaf=7&amp;g=2024-01-01" onderdeel="paragraaf=7" korte-verwijzing="1.0:c:BWBR0031796&amp;paragraaf=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=7&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="paragraaf=7" korte-verwijzing="jci1.3:c:BWBR0031796&amp;paragraaf=7"/></jcis></meta-data></paragraaf>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="11796183" versie-id="19531052" id="C27389451" label-id="11768314" inwerking="2012-08-01" bron="Stb.2012-325" effect="nieuwe-regeling" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-18" publicatie_iwt="2012-07-18" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>’s-Gravenhage</plaats>
+      <datum isodatum="2012-07-12">12 juli 2012</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Financiën,</functie>
+    <naam>
+      <voornaam>J. C. de</voornaam>
+      <achternaam>Jager</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Staatssecretaris van Financiën,</functie>
+    <naam>
+      <voornaam>F. H. H.</voornaam>
+      <achternaam>Weekers</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2012-07-18">de <nadruk type="cur">achttiende</nadruk> juli 2012</datum>
+    <ondertekening>
+      <functie>De Minister van Veiligheid en Justitie,</functie>
+      <naam>
+        <voornaam>I. W.</voornaam>
+        <achternaam>Opstelten</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie><inwerkingtreding.datum isodatum="2012-08-01">01-08-2012</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-325"><publicatiejaar>2012</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="33121">33121</dossierref></publicatie><inwerkingtreding.datum isodatum="2012-08-01">01-08-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031796&amp;g=2024-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0031796"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031796&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0031796"/></jcis></meta-data></wetgeving></toestand>

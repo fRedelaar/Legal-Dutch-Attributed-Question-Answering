@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0045852/2022-08-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0045852" inwerkingtreding="2022-08-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="16142233" versie-id="28166402" id="C39890391" label-id="16071524" inwerkingtredingsdatum="2022-01-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="16142253" versie-id="28166202" id="C39890351" label-id="16071324" inwerking="2022-01-01" bron="Stb.2021-548" effect="nieuwe-regeling" ondertekening_bron="2021-11-11" publicatie_bron="2021-11-15" publicatie_iwt="2021-12-03" status="goed">Wet van 11 november 2021 tot wijziging van de Wet educatie en beroepsonderwijs en de Wet op het voortgezet onderwijs in verband met een vereenvoudiging van de bestuurlijke inrichting van het stelsel voor beroepsonderwijs door omvorming van het aoc tot verticale scholengemeenschap en een andere invulling van bevoegd gezag (Wet bestuurlijke harmonisatie beroepsonderwijs)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-548"><publicatiejaar>2021</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="2021-11-15">15-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-11">11-11-2021</ondertekeningsdatum><dossierref dossier="35606">35606</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-590"><publicatiejaar>2021</publicatiejaar><publicatienr>590</publicatienr><uitgiftedatum isodatum="2021-12-03">03-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-26">26-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="16142263" versie-id="28166212" id="C39890331" label-id="16071334" inwerking="2022-01-01" bron="Stb.2021-548" effect="nieuwe-regeling" ondertekening_bron="2021-11-11" publicatie_bron="2021-11-15" publicatie_iwt="2021-12-03">Wet bestuurlijke harmonisatie beroepsonderwijs<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-548"><publicatiejaar>2021</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="2021-11-15">15-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-11">11-11-2021</ondertekeningsdatum><dossierref dossier="35606">35606</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-590"><publicatiejaar>2021</publicatiejaar><publicatienr>590</publicatienr><uitgiftedatum isodatum="2021-12-03">03-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-26">26-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="16142273" versie-id="28166222" id="C39890361" label-id="16071344" inwerking="2022-01-01" bron="Stb.2021-548" effect="nieuwe-regeling" ondertekening_bron="2021-11-11" publicatie_bron="2021-11-15" publicatie_iwt="2021-12-03" status="goed">
+  <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is de bestuurlijke inrichting van het stelsel voor beroepsonderwijs te stroomlijnen door het agrarisch opleidingscentrum voortaan vorm te geven als een verticale scholengemeenschap en voor bijzondere instellingen de rechtspersoon die de instelling in stand houdt als normadressant in de wet aan te duiden (bestuurlijke harmonisatie beroepsonderwijs);</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-548"><publicatiejaar>2021</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="2021-11-15">15-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-11">11-11-2021</ondertekeningsdatum><dossierref dossier="35606">35606</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-590"><publicatiejaar>2021</publicatiejaar><publicatienr>590</publicatienr><uitgiftedatum isodatum="2021-12-03">03-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-26">26-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/ArtikelI" stam-id="16142283" versie-id="28344002" id="C39957731" label-id="16071354" inwerking="2022-08-01" label="Artikel I" bron="Stb.2021-548" effect="wijziging" ondertekening_bron="2021-11-11" publicatie_bron="2021-11-15" publicatie_iwt="2021-12-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">I</nr>
+    <titel status="officieel">Wijziging <extref doc="jci1.3:c:BWBR0007625" label-id="2478204" verwijzing-id="3117028" bwb-id="BWBR0007625">Wet educatie en beroepsonderwijs</extref></titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet educatie en beroepsonderwijs.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-548"><publicatiejaar>2021</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="2021-11-15">15-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-11">11-11-2021</ondertekeningsdatum><dossierref dossier="35606">35606</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-590"><publicatiejaar>2021</publicatiejaar><publicatienr>590</publicatienr><uitgiftedatum isodatum="2021-12-03">03-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-26">26-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-08-01">01-08-2022</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Onderdelen A, subonderdeel 1, D, E, I, J, subonderdeel 1, N,
+    subonderdeel 2, O, P, Q, U, X, Y, CC, DD, EE, subonderdeel 2, FF tot
+    en met HH, JJa, KKa, OO, subonderdeel 2, en QQ.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045852&amp;artikel=I&amp;g=2022-08-01" onderdeel="artikel=I" korte-verwijzing="1.0:c:BWBR0045852&amp;artikel=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045852&amp;artikel=I&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=I" korte-verwijzing="jci1.3:c:BWBR0045852&amp;artikel=I"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelII" stam-id="16142293" versie-id="28166242" id="C39890241" label-id="16071364" inwerking="2022-01-01" label="Artikel II" bron="Stb.2021-548" effect="nieuwe-regeling" ondertekening_bron="2021-11-11" publicatie_bron="2021-11-15" publicatie_iwt="2021-12-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">II</nr>
+    <titel status="officieel">Wijziging <extref doc="jci1.3:c:BWBR0028395" label-id="10747774" verwijzing-id="3117029" bwb-id="BWBR0028395">Wet educatie en beroepsonderwijs BES</extref></titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet educatie en beroepsonderwijs BES.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-548"><publicatiejaar>2021</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="2021-11-15">15-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-11">11-11-2021</ondertekeningsdatum><dossierref dossier="35606">35606</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-590"><publicatiejaar>2021</publicatiejaar><publicatienr>590</publicatienr><uitgiftedatum isodatum="2021-12-03">03-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-26">26-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045852&amp;artikel=II&amp;g=2022-08-01" onderdeel="artikel=II" korte-verwijzing="1.0:c:BWBR0045852&amp;artikel=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045852&amp;artikel=II&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=II" korte-verwijzing="jci1.3:c:BWBR0045852&amp;artikel=II"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIII" stam-id="16142303" versie-id="28344012" id="C39957741" label-id="16071374" inwerking="2022-08-01" label="Artikel III" bron="Stb.2021-548" effect="wijziging" ondertekening_bron="2021-11-11" publicatie_bron="2021-11-15" publicatie_iwt="2021-12-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">III</nr>
+    <titel status="officieel">Wijziging <extref doc="jci1.3:c:BWBR0002399" label-id="3001384" verwijzing-id="3117030" bwb-id="BWBR0002399">Wet op het voortgezet onderwijs</extref></titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op het voortgezet onderwijs.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-548"><publicatiejaar>2021</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="2021-11-15">15-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-11">11-11-2021</ondertekeningsdatum><dossierref dossier="35606">35606</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-590"><publicatiejaar>2021</publicatiejaar><publicatienr>590</publicatienr><uitgiftedatum isodatum="2021-12-03">03-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-26">26-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-08-01">01-08-2022</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Onderdelen A, subonderdelen 2 en 3, B, C tot en met H, N, O, P, Qa
+    en R.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045852&amp;artikel=III&amp;g=2022-08-01" onderdeel="artikel=III" korte-verwijzing="1.0:c:BWBR0045852&amp;artikel=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045852&amp;artikel=III&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=III" korte-verwijzing="jci1.3:c:BWBR0045852&amp;artikel=III"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelV" stam-id="16142313" versie-id="28166262" id="C39957701" label-id="16071384" inwerking="2022-08-01" label="Artikel V" bron="Stb.2021-548" effect="nieuwe-regeling" ondertekening_bron="2021-11-11" publicatie_bron="2021-11-15" publicatie_iwt="2021-12-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">V</nr>
+    <titel status="officieel">Wijziging <extref doc="jci1.3:c:BWBR0012438" label-id="2856104" verwijzing-id="3117031" bwb-id="BWBR0012438">Wet tegemoetkoming onderwijsbijdrage en schoolkosten</extref></titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-548"><publicatiejaar>2021</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="2021-11-15">15-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-11">11-11-2021</ondertekeningsdatum><dossierref dossier="35606">35606</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-590"><publicatiejaar>2021</publicatiejaar><publicatienr>590</publicatienr><uitgiftedatum isodatum="2021-12-03">03-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-26">26-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-08-01">01-08-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045852&amp;artikel=V&amp;g=2022-08-01" onderdeel="artikel=V" korte-verwijzing="1.0:c:BWBR0045852&amp;artikel=V"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045852&amp;artikel=V&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=V" korte-verwijzing="jci1.3:c:BWBR0045852&amp;artikel=V"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVI" stam-id="16142323" versie-id="28166272" id="C39890251" label-id="16071394" inwerking="2022-01-01" label="Artikel VI" bron="Stb.2021-548" effect="nieuwe-regeling" ondertekening_bron="2021-11-11" publicatie_bron="2021-11-15" publicatie_iwt="2021-12-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">VI</nr>
+    <titel status="officieel">Wijziging <extref doc="jci1.3:c:BWBR0005682" label-id="2885604" verwijzing-id="3117032" bwb-id="BWBR0005682">Wet op het hoger onderwijs en wetenschappelijk onderzoek</extref></titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-548"><publicatiejaar>2021</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="2021-11-15">15-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-11">11-11-2021</ondertekeningsdatum><dossierref dossier="35606">35606</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-590"><publicatiejaar>2021</publicatiejaar><publicatienr>590</publicatienr><uitgiftedatum isodatum="2021-12-03">03-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-26">26-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045852&amp;artikel=VI&amp;g=2022-08-01" onderdeel="artikel=VI" korte-verwijzing="1.0:c:BWBR0045852&amp;artikel=VI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045852&amp;artikel=VI&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=VI" korte-verwijzing="jci1.3:c:BWBR0045852&amp;artikel=VI"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVII" stam-id="16142333" versie-id="28166282" id="C39890261" label-id="16071404" inwerking="2022-01-01" label="Artikel VII" bron="Stb.2021-548" effect="nieuwe-regeling" ondertekening_bron="2021-11-11" publicatie_bron="2021-11-15" publicatie_iwt="2021-12-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">VII</nr>
+    <titel status="officieel">Wijziging <extref doc="jci1.3:c:BWBR0003420" label-id="2851954" verwijzing-id="3117033" bwb-id="BWBR0003420">Wet op het primair onderwijs</extref></titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op het primair onderwijs.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-548"><publicatiejaar>2021</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="2021-11-15">15-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-11">11-11-2021</ondertekeningsdatum><dossierref dossier="35606">35606</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-590"><publicatiejaar>2021</publicatiejaar><publicatienr>590</publicatienr><uitgiftedatum isodatum="2021-12-03">03-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-26">26-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045852&amp;artikel=VII&amp;g=2022-08-01" onderdeel="artikel=VII" korte-verwijzing="1.0:c:BWBR0045852&amp;artikel=VII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045852&amp;artikel=VII&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=VII" korte-verwijzing="jci1.3:c:BWBR0045852&amp;artikel=VII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVIII" stam-id="16142343" versie-id="28166292" id="C39890301" label-id="16071414" inwerking="2022-01-01" label="Artikel VIII" bron="Stb.2021-548" effect="nieuwe-regeling" ondertekening_bron="2021-11-11" publicatie_bron="2021-11-15" publicatie_iwt="2021-12-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">VIII</nr>
+    <titel status="officieel">Wijziging <extref doc="jci1.3:c:BWBR0003549" label-id="2630144" verwijzing-id="3117034" bwb-id="BWBR0003549">Wet op de expertisecentra</extref></titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de expertisecentra.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-548"><publicatiejaar>2021</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="2021-11-15">15-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-11">11-11-2021</ondertekeningsdatum><dossierref dossier="35606">35606</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-590"><publicatiejaar>2021</publicatiejaar><publicatienr>590</publicatienr><uitgiftedatum isodatum="2021-12-03">03-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-26">26-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045852&amp;artikel=VIII&amp;g=2022-08-01" onderdeel="artikel=VIII" korte-verwijzing="1.0:c:BWBR0045852&amp;artikel=VIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045852&amp;artikel=VIII&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=VIII" korte-verwijzing="jci1.3:c:BWBR0045852&amp;artikel=VIII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIX" stam-id="16142353" versie-id="28166302" id="C39890371" label-id="16071424" inwerking="2022-01-01" label="Artikel IX" bron="Stb.2021-548" effect="nieuwe-regeling" ondertekening_bron="2021-11-11" publicatie_bron="2021-11-15" publicatie_iwt="2021-12-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">IX</nr>
+    <titel status="officieel">Wijziging <extref doc="jci1.3:c:BWBR0005537" label-id="2816734" verwijzing-id="3117035" bwb-id="BWBR0005537">Algemene wet bestuursrecht</extref></titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Algemene wet bestuursrecht.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-548"><publicatiejaar>2021</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="2021-11-15">15-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-11">11-11-2021</ondertekeningsdatum><dossierref dossier="35606">35606</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-590"><publicatiejaar>2021</publicatiejaar><publicatienr>590</publicatienr><uitgiftedatum isodatum="2021-12-03">03-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-26">26-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045852&amp;artikel=IX&amp;g=2022-08-01" onderdeel="artikel=IX" korte-verwijzing="1.0:c:BWBR0045852&amp;artikel=IX"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045852&amp;artikel=IX&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=IX" korte-verwijzing="jci1.3:c:BWBR0045852&amp;artikel=IX"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelX" stam-id="16142363" versie-id="28166312" id="C39890311" label-id="16071434" inwerking="2022-01-01" label="Artikel X" bron="Stb.2021-548" effect="nieuwe-regeling" ondertekening_bron="2021-11-11" publicatie_bron="2021-11-15" publicatie_iwt="2021-12-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">X</nr>
+    <titel status="officieel">Wijziging <extref doc="jci1.3:c:BWBR0032249" label-id="11886744" verwijzing-id="3117036" bwb-id="BWBR0032249">Wet normering topinkomens</extref></titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet normering topinkomens.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-548"><publicatiejaar>2021</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="2021-11-15">15-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-11">11-11-2021</ondertekeningsdatum><dossierref dossier="35606">35606</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-590"><publicatiejaar>2021</publicatiejaar><publicatienr>590</publicatienr><uitgiftedatum isodatum="2021-12-03">03-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-26">26-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045852&amp;artikel=X&amp;g=2022-08-01" onderdeel="artikel=X" korte-verwijzing="1.0:c:BWBR0045852&amp;artikel=X"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045852&amp;artikel=X&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=X" korte-verwijzing="jci1.3:c:BWBR0045852&amp;artikel=X"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXa" stam-id="16142373" versie-id="28498652" id="C40213691" label-id="16071444" inwerking="2022-08-01" label="Artikel Xa" bron="Stb.2022-116" effect="wijziging" ondertekening_bron="2022-02-23" publicatie_bron="2022-03-21" publicatie_iwt="2021-12-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">Xa</nr>
+    <titel status="officieel">Wijziging <extref doc="jci1.3:c:BWBR0020685" label-id="8758394" verwijzing-id="3117037" bwb-id="BWBR0020685">Wet medezeggenschap op scholen</extref></titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet medezeggenschap op scholen.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-116"><publicatiejaar>2022</publicatiejaar><publicatienr>116</publicatienr><uitgiftedatum isodatum="2022-03-21">21-03-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-02-23">23-02-2022</ondertekeningsdatum><dossierref dossier="35946">35946</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-590"><publicatiejaar>2021</publicatiejaar><publicatienr>590</publicatienr><uitgiftedatum isodatum="2021-12-03">03-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-26">26-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-08-01">01-08-2022</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De wijziging is in werking getreden op 23 maart 2022 door Stb. 2022/117.</al></opmerkingen-inhoud></brondata><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-548"><publicatiejaar>2021</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="2021-11-15">15-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-11">11-11-2021</ondertekeningsdatum><dossierref dossier="35606">35606</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-590"><publicatiejaar>2021</publicatiejaar><publicatienr>590</publicatienr><uitgiftedatum isodatum="2021-12-03">03-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-26">26-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-08-01">01-08-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045852&amp;artikel=Xa&amp;g=2022-08-01" onderdeel="artikel=Xa" korte-verwijzing="1.0:c:BWBR0045852&amp;artikel=Xa"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045852&amp;artikel=Xa&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=Xa" korte-verwijzing="jci1.3:c:BWBR0045852&amp;artikel=Xa"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXI" stam-id="16142383" versie-id="28166332" id="C39890281" label-id="16071454" inwerking="2022-01-01" label="Artikel XI" bron="Stb.2021-548" effect="nieuwe-regeling" ondertekening_bron="2021-11-11" publicatie_bron="2021-11-15" publicatie_iwt="2021-12-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XI</nr>
+    <titel status="officieel">Evaluatie</titel>
+  </kop>
+  <al>Onze Minister zendt binnen 5 jaren na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-548"><publicatiejaar>2021</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="2021-11-15">15-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-11">11-11-2021</ondertekeningsdatum><dossierref dossier="35606">35606</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-590"><publicatiejaar>2021</publicatiejaar><publicatienr>590</publicatienr><uitgiftedatum isodatum="2021-12-03">03-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-26">26-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045852&amp;artikel=XI&amp;g=2022-08-01" onderdeel="artikel=XI" korte-verwijzing="1.0:c:BWBR0045852&amp;artikel=XI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045852&amp;artikel=XI&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=XI" korte-verwijzing="jci1.3:c:BWBR0045852&amp;artikel=XI"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXII" stam-id="16142393" versie-id="28166342" id="C39890291" label-id="16071464" inwerking="2022-01-01" label="Artikel XII" bron="Stb.2021-548" effect="nieuwe-regeling" ondertekening_bron="2021-11-11" publicatie_bron="2021-11-15" publicatie_iwt="2021-12-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XII</nr>
+    <titel status="officieel">Samenloopbepaling <extref doc="jci1.3:c:BWBR0044212" label-id="15610054" verwijzing-id="3117038" bwb-id="BWBR0044212">Wet voortgezet onderwijs 2020</extref></titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">a. Wijzigt deze wet.</redactie>
+  </al>
+  <al>
+    <redactie type="vervanging">b. Wijzigt de Wet educatie en beroepsonderwijs.</redactie>
+  </al>
+  <al>
+    <redactie type="vervanging">c. Wijzigt de Wet voortgezet onderwijs 2020.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-548"><publicatiejaar>2021</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="2021-11-15">15-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-11">11-11-2021</ondertekeningsdatum><dossierref dossier="35606">35606</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-590"><publicatiejaar>2021</publicatiejaar><publicatienr>590</publicatienr><uitgiftedatum isodatum="2021-12-03">03-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-26">26-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045852&amp;artikel=XII&amp;g=2022-08-01" onderdeel="artikel=XII" korte-verwijzing="1.0:c:BWBR0045852&amp;artikel=XII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045852&amp;artikel=XII&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=XII" korte-verwijzing="jci1.3:c:BWBR0045852&amp;artikel=XII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXIIa" stam-id="16142403" versie-id="28166352" id="C39890221" label-id="16071474" inwerking="2022-01-01" label="Artikel XIIa" bron="Stb.2021-548" effect="nieuwe-regeling" ondertekening_bron="2021-11-11" publicatie_bron="2021-11-15" publicatie_iwt="2021-12-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XIIa</nr>
+    <titel status="officieel">Samenloopbepaling <extref doc="jci1.3:c:BWBR0043961" label-id="15524324" verwijzing-id="3117039" bwb-id="BWBR0043961">Wet elektronische publicaties</extref></titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet elektronische publicaties.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-548"><publicatiejaar>2021</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="2021-11-15">15-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-11">11-11-2021</ondertekeningsdatum><dossierref dossier="35606">35606</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-590"><publicatiejaar>2021</publicatiejaar><publicatienr>590</publicatienr><uitgiftedatum isodatum="2021-12-03">03-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-26">26-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045852&amp;artikel=XIIa&amp;g=2022-08-01" onderdeel="artikel=XIIa" korte-verwijzing="1.0:c:BWBR0045852&amp;artikel=XIIa"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045852&amp;artikel=XIIa&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=XIIa" korte-verwijzing="jci1.3:c:BWBR0045852&amp;artikel=XIIa"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXIIb" stam-id="16142413" versie-id="28166362" id="C39890231" label-id="16071484" inwerking="2022-01-01" label="Artikel XIIb" bron="Stb.2021-548" effect="nieuwe-regeling" ondertekening_bron="2021-11-11" publicatie_bron="2021-11-15" publicatie_iwt="2021-12-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XIIb</nr>
+    <titel status="officieel">Samenloopbepaling vereenvoudiging grondslagen bekostiging vo-scholen</titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet educatie en beroepsonderwijs.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-548"><publicatiejaar>2021</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="2021-11-15">15-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-11">11-11-2021</ondertekeningsdatum><dossierref dossier="35606">35606</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-590"><publicatiejaar>2021</publicatiejaar><publicatienr>590</publicatienr><uitgiftedatum isodatum="2021-12-03">03-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-26">26-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045852&amp;artikel=XIIb&amp;g=2022-08-01" onderdeel="artikel=XIIb" korte-verwijzing="1.0:c:BWBR0045852&amp;artikel=XIIb"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045852&amp;artikel=XIIb&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=XIIb" korte-verwijzing="jci1.3:c:BWBR0045852&amp;artikel=XIIb"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXIII" stam-id="16142423" versie-id="28166372" id="C39890201" label-id="16071494" inwerking="2022-01-01" label="Artikel XIII" bron="Stb.2021-548" effect="nieuwe-regeling" ondertekening_bron="2021-11-11" publicatie_bron="2021-11-15" publicatie_iwt="2021-12-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XIII</nr>
+    <titel status="officieel">Inwerkingtreding</titel>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-548"><publicatiejaar>2021</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="2021-11-15">15-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-11">11-11-2021</ondertekeningsdatum><dossierref dossier="35606">35606</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-590"><publicatiejaar>2021</publicatiejaar><publicatienr>590</publicatienr><uitgiftedatum isodatum="2021-12-03">03-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-26">26-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045852&amp;artikel=XIII&amp;g=2022-08-01" onderdeel="artikel=XIII" korte-verwijzing="1.0:c:BWBR0045852&amp;artikel=XIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045852&amp;artikel=XIII&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=XIII" korte-verwijzing="jci1.3:c:BWBR0045852&amp;artikel=XIII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXIV" stam-id="16142433" versie-id="28166382" id="C39890321" label-id="16071504" inwerking="2022-01-01" label="Artikel XIV" bron="Stb.2021-548" effect="nieuwe-regeling" ondertekening_bron="2021-11-11" publicatie_bron="2021-11-15" publicatie_iwt="2021-12-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XIV</nr>
+    <titel status="officieel">Citeertitel</titel>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet bestuurlijke harmonisatie beroepsonderwijs.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-548"><publicatiejaar>2021</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="2021-11-15">15-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-11">11-11-2021</ondertekeningsdatum><dossierref dossier="35606">35606</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-590"><publicatiejaar>2021</publicatiejaar><publicatienr>590</publicatienr><uitgiftedatum isodatum="2021-12-03">03-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-26">26-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045852&amp;artikel=XIV&amp;g=2022-08-01" onderdeel="artikel=XIV" korte-verwijzing="1.0:c:BWBR0045852&amp;artikel=XIV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045852&amp;artikel=XIV&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=XIV" korte-verwijzing="jci1.3:c:BWBR0045852&amp;artikel=XIV"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="16142443" versie-id="28166392" id="C39890341" label-id="16071514" inwerking="2022-01-01" bron="Stb.2021-548" effect="nieuwe-regeling" ondertekening_bron="2021-11-11" publicatie_bron="2021-11-15" publicatie_iwt="2021-12-03" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>’s-Gravenhage</plaats>
+      <datum isodatum="2021-11-11">11 november 2021</datum>
+    </dagtekening>
+    <koning>Willem-Alexander</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Onderwijs, Cultuur en Wetenschap,</functie>
+    <naam>
+      <voornaam>I.K. van</voornaam>
+      <achternaam>Engelshoven</achternaam>
+    </naam>
+    <functie>De Minister voor Basis- en Voortgezet Onderwijs en Media,</functie>
+    <naam>
+      <voornaam>A.</voornaam>
+      <achternaam>Slob</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2021-11-15">de <nadruk type="cur">vijftiende</nadruk> november 2021</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie en Veiligheid,</functie>
+      <naam>
+        <voornaam>F.B.J.</voornaam>
+        <achternaam>Grapperhaus</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-548"><publicatiejaar>2021</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="2021-11-15">15-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-11">11-11-2021</ondertekeningsdatum><dossierref dossier="35606">35606</dossierref><rectificatie><publicatie soort="Stb" urlidentifier="stb-2021-548"><publicatiejaar/><publicatienr>548</publicatienr><uitgiftedatum isodatum="2021-11-15">15-11-2021</uitgiftedatum></publicatie></rectificatie></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-590"><publicatiejaar>2021</publicatiejaar><publicatienr>590</publicatienr><uitgiftedatum isodatum="2021-12-03">03-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-26">26-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-548"><publicatiejaar>2021</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="2021-11-15">15-11-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-11">11-11-2021</ondertekeningsdatum><dossierref dossier="35606">35606</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-590"><publicatiejaar>2021</publicatiejaar><publicatienr>590</publicatienr><uitgiftedatum isodatum="2021-12-03">03-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-26">26-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0045852&amp;g=2022-08-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0045852"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0045852&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0045852"/></jcis></meta-data></wetgeving></toestand>

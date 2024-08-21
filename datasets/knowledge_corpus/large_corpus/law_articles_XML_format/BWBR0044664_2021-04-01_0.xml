@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0044664/2021-04-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0044664" inwerkingtreding="2021-04-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="15800083" versie-id="27393942" id="C38841671" label-id="15737424" inwerkingtredingsdatum="2021-04-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="15800103" versie-id="27393862" id="C38841681" label-id="15737344" inwerking="2021-04-01" bron="Stb.2020-500" effect="nieuwe-regeling" ondertekening_bron="2020-11-18" publicatie_bron="2020-12-09" publicatie_iwt="2021-02-16" status="goed">Wet van 18 november 2020 tot wijziging van de Algemene wet bestuursrecht naar aanleiding van de evaluatie van de regeling over bestuursrechtelijke geldschulden (Evaluatiewet bestuursrechtelijke geldschuldenregeling Awb)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-500"><publicatiejaar>2020</publicatiejaar><publicatienr>500</publicatienr><uitgiftedatum isodatum="2020-12-09">09-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-18">18-11-2020</ondertekeningsdatum><dossierref dossier="35477">35477</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-68"><publicatiejaar>2021</publicatiejaar><publicatienr>68</publicatienr><uitgiftedatum isodatum="2021-02-16">16-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-02">02-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-04-01">01-04-2021</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="15800113" versie-id="27393872" id="C38841661" label-id="15737354" inwerking="2021-04-01" bron="Stb.2020-500" effect="nieuwe-regeling" ondertekening_bron="2020-11-18" publicatie_bron="2020-12-09" publicatie_iwt="2021-02-16">Evaluatiewet bestuursrechtelijke geldschuldenregeling Awb<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-500"><publicatiejaar>2020</publicatiejaar><publicatienr>500</publicatienr><uitgiftedatum isodatum="2020-12-09">09-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-18">18-11-2020</ondertekeningsdatum><dossierref dossier="35477">35477</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-68"><publicatiejaar>2021</publicatiejaar><publicatienr>68</publicatienr><uitgiftedatum isodatum="2021-02-16">16-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-02">02-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-04-01">01-04-2021</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="15800123" versie-id="27393882" id="C38841631" label-id="15737364" inwerking="2021-04-01" bron="Stb.2020-500" effect="nieuwe-regeling" ondertekening_bron="2020-11-18" publicatie_bron="2020-12-09" publicatie_iwt="2021-02-16" status="goed">
+  <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het naar aanleiding van de evaluatie van de regeling over bestuursrechtelijke geldschulden in <extref doc="jci1.3:c:BWBR0005537&amp;titeldeel=4.4" label-id="10067154" verwijzing-id="3044864" bwb-id="BWBR0005537">titel 4.4 van de Algemene wet bestuursrecht</extref> wenselijk is hierin een kwijtscheldingsbepaling op te nemen en enkele wijzigingen van technische aard aan te brengen;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-500"><publicatiejaar>2020</publicatiejaar><publicatienr>500</publicatienr><uitgiftedatum isodatum="2020-12-09">09-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-18">18-11-2020</ondertekeningsdatum><dossierref dossier="35477">35477</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-68"><publicatiejaar>2021</publicatiejaar><publicatienr>68</publicatienr><uitgiftedatum isodatum="2021-02-16">16-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-02">02-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-04-01">01-04-2021</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/ArtikelI" stam-id="15800133" versie-id="27393892" id="C38841691" label-id="15737374" inwerking="2021-04-01" label="Artikel I" bron="Stb.2020-500" effect="nieuwe-regeling" ondertekening_bron="2020-11-18" publicatie_bron="2020-12-09" publicatie_iwt="2021-02-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">I</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Algemene wet bestuursrecht.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-500"><publicatiejaar>2020</publicatiejaar><publicatienr>500</publicatienr><uitgiftedatum isodatum="2020-12-09">09-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-18">18-11-2020</ondertekeningsdatum><dossierref dossier="35477">35477</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-68"><publicatiejaar>2021</publicatiejaar><publicatienr>68</publicatienr><uitgiftedatum isodatum="2021-02-16">16-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-02">02-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-04-01">01-04-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044664&amp;artikel=I&amp;g=2021-04-01" onderdeel="artikel=I" korte-verwijzing="1.0:c:BWBR0044664&amp;artikel=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044664&amp;artikel=I&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=I" korte-verwijzing="jci1.3:c:BWBR0044664&amp;artikel=I"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelII" stam-id="15800143" versie-id="27393902" id="C38841641" label-id="15737384" inwerking="2021-04-01" label="Artikel II" bron="Stb.2020-500" effect="nieuwe-regeling" ondertekening_bron="2020-11-18" publicatie_bron="2020-12-09" publicatie_iwt="2021-02-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">II</nr>
+  </kop>
+  <al>Op een beschikking tot invordering van een dwangsom die is gegeven voor het tijdstip van inwerkingtreding van deze wet blijft het recht van toepassing zoals dat gold voor dat tijdstip.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-500"><publicatiejaar>2020</publicatiejaar><publicatienr>500</publicatienr><uitgiftedatum isodatum="2020-12-09">09-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-18">18-11-2020</ondertekeningsdatum><dossierref dossier="35477">35477</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-68"><publicatiejaar>2021</publicatiejaar><publicatienr>68</publicatienr><uitgiftedatum isodatum="2021-02-16">16-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-02">02-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-04-01">01-04-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044664&amp;artikel=II&amp;g=2021-04-01" onderdeel="artikel=II" korte-verwijzing="1.0:c:BWBR0044664&amp;artikel=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044664&amp;artikel=II&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=II" korte-verwijzing="jci1.3:c:BWBR0044664&amp;artikel=II"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIII" stam-id="15800153" versie-id="27393912" id="C38841621" label-id="15737394" inwerking="2021-04-01" label="Artikel III" bron="Stb.2020-500" effect="nieuwe-regeling" ondertekening_bron="2020-11-18" publicatie_bron="2020-12-09" publicatie_iwt="2021-02-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">III</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-500"><publicatiejaar>2020</publicatiejaar><publicatienr>500</publicatienr><uitgiftedatum isodatum="2020-12-09">09-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-18">18-11-2020</ondertekeningsdatum><dossierref dossier="35477">35477</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-68"><publicatiejaar>2021</publicatiejaar><publicatienr>68</publicatienr><uitgiftedatum isodatum="2021-02-16">16-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-02">02-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-04-01">01-04-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044664&amp;artikel=III&amp;g=2021-04-01" onderdeel="artikel=III" korte-verwijzing="1.0:c:BWBR0044664&amp;artikel=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044664&amp;artikel=III&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=III" korte-verwijzing="jci1.3:c:BWBR0044664&amp;artikel=III"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIV" stam-id="15800163" versie-id="27393922" id="C38841701" label-id="15737404" inwerking="2021-04-01" label="Artikel IV" bron="Stb.2020-500" effect="nieuwe-regeling" ondertekening_bron="2020-11-18" publicatie_bron="2020-12-09" publicatie_iwt="2021-02-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">IV</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Evaluatiewet bestuursrechtelijke geldschuldenregeling Awb.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-500"><publicatiejaar>2020</publicatiejaar><publicatienr>500</publicatienr><uitgiftedatum isodatum="2020-12-09">09-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-18">18-11-2020</ondertekeningsdatum><dossierref dossier="35477">35477</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-68"><publicatiejaar>2021</publicatiejaar><publicatienr>68</publicatienr><uitgiftedatum isodatum="2021-02-16">16-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-02">02-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-04-01">01-04-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044664&amp;artikel=IV&amp;g=2021-04-01" onderdeel="artikel=IV" korte-verwijzing="1.0:c:BWBR0044664&amp;artikel=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044664&amp;artikel=IV&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=IV" korte-verwijzing="jci1.3:c:BWBR0044664&amp;artikel=IV"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="15800173" versie-id="27393932" id="C38841651" label-id="15737414" inwerking="2021-04-01" bron="Stb.2020-500" effect="nieuwe-regeling" ondertekening_bron="2020-11-18" publicatie_bron="2020-12-09" publicatie_iwt="2021-02-16" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te</label>
+    <dagtekening>
+      <plaats>’s-Gravenhage</plaats>
+      <datum isodatum="2020-11-18">18 november 2020</datum>
+    </dagtekening>
+    <koning>Willem-Alexander</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister voor Rechtsbescherming,</functie>
+    <naam>
+      <voornaam>S.</voornaam>
+      <achternaam>Dekker</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Binnenlandse Zaken en Koninkrijksrelaties,</functie>
+    <naam>
+      <voornaam>K.H.</voornaam>
+      <achternaam>Ollongren</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2020-12-09">de <nadruk type="cur">negende</nadruk> december 2020</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie en Veiligheid,</functie>
+      <naam>
+        <voornaam>F.B.J.</voornaam>
+        <achternaam>Grapperhaus</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-500"><publicatiejaar>2020</publicatiejaar><publicatienr>500</publicatienr><uitgiftedatum isodatum="2020-12-09">09-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-18">18-11-2020</ondertekeningsdatum><dossierref dossier="35477">35477</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-68"><publicatiejaar>2021</publicatiejaar><publicatienr>68</publicatienr><uitgiftedatum isodatum="2021-02-16">16-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-02">02-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-04-01">01-04-2021</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-500"><publicatiejaar>2020</publicatiejaar><publicatienr>500</publicatienr><uitgiftedatum isodatum="2020-12-09">09-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-18">18-11-2020</ondertekeningsdatum><dossierref dossier="35477">35477</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-68"><publicatiejaar>2021</publicatiejaar><publicatienr>68</publicatienr><uitgiftedatum isodatum="2021-02-16">16-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-02">02-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-04-01">01-04-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044664&amp;g=2021-04-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0044664"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044664&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0044664"/></jcis></meta-data></wetgeving></toestand>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0002798/2002-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0002798" inwerkingtreding="2002-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="1837763" versie-id="2741822" id="C2741821" label-id="1792284" inwerkingtredingsdatum="1972-01-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="1837793" versie-id="2741742" id="C11267031" label-id="1792204" inwerking="1972-01-01" bron="Stb.1971-748" effect="nieuwe-regeling" ondertekening_bron="1971-12-15" status="goed">Wet van 15 december 1971, houdende een nieuwe regeling betreffende het ambtelijk toezicht bij openbare verkopingen<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1971</publicatiejaar><publicatienr>748</publicatienr><ondertekeningsdatum isodatum="1971-12-15">15-12-1971</ondertekeningsdatum><dossierref dossier="10981">10981</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1972</publicatiejaar><publicatienr>355</publicatienr><ondertekeningsdatum isodatum="1972-01-01">01-01-1972</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1972-01-01">01-01-1972</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="1837803" versie-id="2741752" id="C2741751" label-id="1792214" inwerking="1972-01-01" bron="Stb.1971-748" effect="nieuwe-regeling" ondertekening_bron="1971-12-15">Wet ambtelijk toezicht bij openbare verkopingen<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1971</publicatiejaar><publicatienr>748</publicatienr><ondertekeningsdatum isodatum="1971-12-15">15-12-1971</ondertekeningsdatum><dossierref dossier="10981">10981</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1972</publicatiejaar><publicatienr>355</publicatienr><ondertekeningsdatum isodatum="1972-01-01">01-01-1972</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1972-01-01">01-01-1972</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="1837813" versie-id="2741762" id="C2741761" label-id="1792224" inwerking="1972-01-01" bron="Stb.1971-748" effect="nieuwe-regeling" ondertekening_bron="1971-12-15" status="goed">
+  <wij>Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is dat openbare verkopingen ook na intrekking van <extref doc="onbekend" verwijzing-id="632658">artikel 103 van de Registratiewet</extref> 1917 ten overstaan van notarissen of deurwaarders zullen plaatsvinden;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1971</publicatiejaar><publicatienr>748</publicatienr><ondertekeningsdatum isodatum="1971-12-15">15-12-1971</ondertekeningsdatum><dossierref dossier="10981">10981</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1972</publicatiejaar><publicatienr>355</publicatienr><ondertekeningsdatum isodatum="1972-01-01">01-01-1972</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1972-01-01">01-01-1972</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" code="a-1" stam-id="1837823" versie-id="2741832" id="C21700161" label-id="1792234" inwerking="2002-01-01" label="Artikel 1" bron="Stb.2001-584" effect="wijziging" ondertekening_bron="2001-12-06" publicatie_bron="2001-12-18" publicatie_iwt="2001-12-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>1</nr>
+  </kop>
+  <al>Het is verboden openbare verkopingen bij opbod, bij opbod en afslag of bij afslag van roerende zaken, met uitzondering van zaken, toebehorende aan of beheerd door de Staat, provincies, gemeenten, waterschappen, veenschappen, veenpolders of andere lichamen aan wie krachtens de <extref doc="jci1.3:c:BWBR0001840" verwijzing-id="632659" bwb-id="BWBR0001840" label-id="2942374">Grondwet</extref> verordenende bevoegdheid is verleend, te houden, anders dan ten overstaan van notarissen of van deurwaarders bij de rechterlijke colleges.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2001-584"><publicatiejaar>2001</publicatiejaar><publicatienr>584</publicatienr><uitgiftedatum isodatum="2001-12-18">18-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-06">06-12-2001</ondertekeningsdatum><dossierref dossier="27878">27878</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2001-621"><publicatiejaar>2001</publicatiejaar><publicatienr>621</publicatienr><uitgiftedatum isodatum="2001-12-20">20-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-10">10-12-2001</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002798&amp;artikel=1&amp;g=2002-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0002798&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002798&amp;artikel=1&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0002798&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="a-2" stam-id="1837833" versie-id="2741782" id="C14752921" label-id="1792244" inwerking="1972-01-01" label="Artikel 2" bron="Stb.1971-748" effect="nieuwe-regeling" ondertekening_bron="1971-12-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="1792244L1">
+    <lidnr>1</lidnr>
+    <al>De bepaling van <intref verwijzing-id="1632349" doc="jci1.3:c:BWBR0002798&amp;artikel=1&amp;z=2002-01-01&amp;g=2002-01-01" bwb-id="BWBR0002798" label-id="1792234" bwb-ng-variabel-deel="/Artikel1">artikel 1</intref> is niet van toepassing op verkopingen, welke gedurende ten minste zes weken van het jaar ten minste eenmaal per week in hetzelfde gebouw of op het zelfde terrein plaats hebben en waarbij uitsluitend voortbrengselen van een zelfde tak van bedrijf worden verkocht alsmede op verkopingen van te velde staande gewassen en op verkopingen door de strandvonder, bedoeld in de <extref doc="jci1.3:c:BWBR0001951&amp;artikel=14" verwijzing-id="632660" bwb-id="BWBR0001951" label-id="1315584">artikelen 14</extref> en <extref doc="jci1.3:c:BWBR0001951&amp;artikel=17" verwijzing-id="632661" bwb-id="BWBR0001951" label-id="1315614">17 van de Wet op de strandvonderij</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002798&amp;artikel=2&amp;lid=1&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="1792244L2">
+    <lidnr>2</lidnr>
+    <al> Onze Minister van Justitie kan bepalen, dat de bepaling van <intref verwijzing-id="1632350" doc="jci1.3:c:BWBR0002798&amp;artikel=1&amp;z=2002-01-01&amp;g=2002-01-01" bwb-id="BWBR0002798" label-id="1792234" bwb-ng-variabel-deel="/Artikel1">artikel 1</intref> niet van toepassing is op de door hem aan te wijzen openbare verkopingen bij afslag.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002798&amp;artikel=2&amp;lid=2&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1971</publicatiejaar><publicatienr>748</publicatienr><ondertekeningsdatum isodatum="1971-12-15">15-12-1971</ondertekeningsdatum><dossierref dossier="10981">10981</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1972</publicatiejaar><publicatienr>355</publicatienr><ondertekeningsdatum isodatum="1972-01-01">01-01-1972</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1972-01-01">01-01-1972</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002798&amp;artikel=2&amp;g=2002-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0002798&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002798&amp;artikel=2&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0002798&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="a-3" stam-id="1837843" versie-id="2741792" id="C2741791" label-id="1792254" inwerking="1972-01-01" label="Artikel 3" bron="Stb.1971-748" effect="nieuwe-regeling" ondertekening_bron="1971-12-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>3</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1971</publicatiejaar><publicatienr>748</publicatienr><ondertekeningsdatum isodatum="1971-12-15">15-12-1971</ondertekeningsdatum><dossierref dossier="10981">10981</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1972</publicatiejaar><publicatienr>355</publicatienr><ondertekeningsdatum isodatum="1972-01-01">01-01-1972</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1972-01-01">01-01-1972</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002798&amp;artikel=3&amp;g=2002-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0002798&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002798&amp;artikel=3&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0002798&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="a-4" stam-id="1837853" versie-id="2741802" id="C14752941" label-id="1792264" inwerking="1972-01-01" label="Artikel 4" bron="Stb.1971-748" effect="nieuwe-regeling" ondertekening_bron="1971-12-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>4</nr>
+  </kop>
+  <al>Deze wet kan worden aangehaald als Wet ambtelijk toezicht bij openbare verkopingen en treedt in werking op het tijdstip waarop <extref doc="onbekend" verwijzing-id="632662">artikel 103, tweede, derde en vierde lid van de Registratiewet</extref> 1917 vervalt.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1971</publicatiejaar><publicatienr>748</publicatienr><ondertekeningsdatum isodatum="1971-12-15">15-12-1971</ondertekeningsdatum><dossierref dossier="10981">10981</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1972</publicatiejaar><publicatienr>355</publicatienr><ondertekeningsdatum isodatum="1972-01-01">01-01-1972</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1972-01-01">01-01-1972</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002798&amp;artikel=4&amp;g=2002-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0002798&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002798&amp;artikel=4&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0002798&amp;artikel=4"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="1837863" versie-id="2741812" id="C2741811" label-id="1792274" inwerking="1972-01-01" bron="Stb.1971-748" effect="nieuwe-regeling" ondertekening_bron="1971-12-15" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven ten Paleize Soestdijk</plaats>
+      <datum isodatum="">15 december 1971</datum>
+    </dagtekening>
+    <koning>JULIANA.</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Justitie,</functie>
+    <naam>
+      <achternaam>VAN AGT.</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de drieëntwintigste december 1971.</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>VAN AGT.</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1971</publicatiejaar><publicatienr>748</publicatienr><ondertekeningsdatum isodatum="1971-12-15">15-12-1971</ondertekeningsdatum><dossierref dossier="10981">10981</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1972</publicatiejaar><publicatienr>355</publicatienr><ondertekeningsdatum isodatum="1972-01-01">01-01-1972</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1972-01-01">01-01-1972</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1971</publicatiejaar><publicatienr>748</publicatienr><ondertekeningsdatum isodatum="1971-12-15">15-12-1971</ondertekeningsdatum><dossierref dossier="10981">10981</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1972</publicatiejaar><publicatienr>355</publicatienr><ondertekeningsdatum isodatum="1972-01-01">01-01-1972</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1972-01-01">01-01-1972</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002798&amp;g=2002-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0002798"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002798&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0002798"/></jcis></meta-data></wetgeving></toestand>

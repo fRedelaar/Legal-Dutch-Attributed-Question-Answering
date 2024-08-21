@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0048434/2024-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0048434" inwerkingtreding="2024-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="16812373" versie-id="29536862" id="C42457631" label-id="16726004" inwerkingtredingsdatum="2024-01-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="16812393" versie-id="29536752" id="C42457571" label-id="16725904" inwerking="2024-01-01" bron="Stb.2023-242" effect="nieuwe-regeling" ondertekening_bron="2023-06-03" publicatie_bron="2023-07-05" publicatie_iwt="2023-10-12" status="goed">Wet van 3 juni 2023 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en de Wet dieren met het oog op de versterking en aanvulling van het instrumentarium ten behoeve van de opsporing, vervolging en bestuursrechtelijke sanctionering van dierenmishandeling, dierverwaarlozing en overtreding van bepalingen inzake dierenwelzijn, dierengezondheid en het aanhitsen van dieren (Wet aanpak dierenmishandeling en dierverwaarlozing)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-242"><publicatiejaar>2023</publicatiejaar><publicatienr>242</publicatienr><uitgiftedatum isodatum="2023-07-05">05-07-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-06-03">03-06-2023</ondertekeningsdatum><dossierref dossier="35892">35892</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-334"><publicatiejaar>2023</publicatiejaar><publicatienr>334</publicatienr><uitgiftedatum isodatum="2023-10-12">12-10-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-10-06">06-10-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="16812403" versie-id="29536762" id="C42457591" label-id="16725914" inwerking="2024-01-01" bron="Stb.2023-242" effect="nieuwe-regeling" ondertekening_bron="2023-06-03" publicatie_bron="2023-07-05" publicatie_iwt="2023-10-12">Wet aanpak dierenmishandeling en dierverwaarlozing<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-242"><publicatiejaar>2023</publicatiejaar><publicatienr>242</publicatienr><uitgiftedatum isodatum="2023-07-05">05-07-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-06-03">03-06-2023</ondertekeningsdatum><dossierref dossier="35892">35892</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-334"><publicatiejaar>2023</publicatiejaar><publicatienr>334</publicatienr><uitgiftedatum isodatum="2023-10-12">12-10-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-10-06">06-10-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="16812413" versie-id="29536772" id="C42457551" label-id="16725924" inwerking="2024-01-01" bron="Stb.2023-242" effect="nieuwe-regeling" ondertekening_bron="2023-06-03" publicatie_bron="2023-07-05" publicatie_iwt="2023-10-12" status="goed">
+  <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die dezen zullen zien of horen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben dat het wenselijk is om het bestaande instrumentarium voor de opsporing, vervolging en bestuursrechtelijke sanctionering van dierenmishandeling, dierverwaarlozing en bepalingen betreffende dierenwelzijn en dierengezondheid te versterken en aan te vullen;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-242"><publicatiejaar>2023</publicatiejaar><publicatienr>242</publicatienr><uitgiftedatum isodatum="2023-07-05">05-07-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-06-03">03-06-2023</ondertekeningsdatum><dossierref dossier="35892">35892</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-334"><publicatiejaar>2023</publicatiejaar><publicatienr>334</publicatienr><uitgiftedatum isodatum="2023-10-12">12-10-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-10-06">06-10-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/ArtikelI" stam-id="16812423" versie-id="29536782" id="C42457621" label-id="16725934" inwerking="2024-01-01" label="Artikel I" bron="Stb.2023-242" effect="nieuwe-regeling" ondertekening_bron="2023-06-03" publicatie_bron="2023-07-05" publicatie_iwt="2023-10-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">I</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt het Wetboek van Strafrecht.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-242"><publicatiejaar>2023</publicatiejaar><publicatienr>242</publicatienr><uitgiftedatum isodatum="2023-07-05">05-07-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-06-03">03-06-2023</ondertekeningsdatum><dossierref dossier="35892">35892</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-334"><publicatiejaar>2023</publicatiejaar><publicatienr>334</publicatienr><uitgiftedatum isodatum="2023-10-12">12-10-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-10-06">06-10-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0048434&amp;artikel=I&amp;g=2024-01-01" onderdeel="artikel=I" korte-verwijzing="1.0:c:BWBR0048434&amp;artikel=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0048434&amp;artikel=I&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=I" korte-verwijzing="jci1.3:c:BWBR0048434&amp;artikel=I"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelII" stam-id="16812433" versie-id="29536792" id="C42457581" label-id="16725944" inwerking="2024-01-01" label="Artikel II" bron="Stb.2023-242" effect="nieuwe-regeling" ondertekening_bron="2023-06-03" publicatie_bron="2023-07-05" publicatie_iwt="2023-10-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">II</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt het Wetboek van Strafvordering.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-242"><publicatiejaar>2023</publicatiejaar><publicatienr>242</publicatienr><uitgiftedatum isodatum="2023-07-05">05-07-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-06-03">03-06-2023</ondertekeningsdatum><dossierref dossier="35892">35892</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-334"><publicatiejaar>2023</publicatiejaar><publicatienr>334</publicatienr><uitgiftedatum isodatum="2023-10-12">12-10-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-10-06">06-10-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0048434&amp;artikel=II&amp;g=2024-01-01" onderdeel="artikel=II" korte-verwijzing="1.0:c:BWBR0048434&amp;artikel=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0048434&amp;artikel=II&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=II" korte-verwijzing="jci1.3:c:BWBR0048434&amp;artikel=II"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIII" stam-id="16812443" versie-id="29536802" id="C42457601" label-id="16725954" inwerking="2024-01-01" label="Artikel III" bron="Stb.2023-242" effect="nieuwe-regeling" ondertekening_bron="2023-06-03" publicatie_bron="2023-07-05" publicatie_iwt="2023-10-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">III</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet dieren.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-242"><publicatiejaar>2023</publicatiejaar><publicatienr>242</publicatienr><uitgiftedatum isodatum="2023-07-05">05-07-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-06-03">03-06-2023</ondertekeningsdatum><dossierref dossier="35892">35892</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-334"><publicatiejaar>2023</publicatiejaar><publicatienr>334</publicatienr><uitgiftedatum isodatum="2023-10-12">12-10-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-10-06">06-10-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0048434&amp;artikel=III&amp;g=2024-01-01" onderdeel="artikel=III" korte-verwijzing="1.0:c:BWBR0048434&amp;artikel=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0048434&amp;artikel=III&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=III" korte-verwijzing="jci1.3:c:BWBR0048434&amp;artikel=III"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIV" stam-id="16812453" versie-id="29536812" id="C42457651" label-id="16725964" inwerking="2024-01-01" label="Artikel IV" bron="Stb.2023-242" effect="nieuwe-regeling" ondertekening_bron="2023-06-03" publicatie_bron="2023-07-05" publicatie_iwt="2023-10-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">IV</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de economische delicten.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-242"><publicatiejaar>2023</publicatiejaar><publicatienr>242</publicatienr><uitgiftedatum isodatum="2023-07-05">05-07-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-06-03">03-06-2023</ondertekeningsdatum><dossierref dossier="35892">35892</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-334"><publicatiejaar>2023</publicatiejaar><publicatienr>334</publicatienr><uitgiftedatum isodatum="2023-10-12">12-10-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-10-06">06-10-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0048434&amp;artikel=IV&amp;g=2024-01-01" onderdeel="artikel=IV" korte-verwijzing="1.0:c:BWBR0048434&amp;artikel=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0048434&amp;artikel=IV&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=IV" korte-verwijzing="jci1.3:c:BWBR0048434&amp;artikel=IV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelV" stam-id="16812463" versie-id="29536822" id="C42457561" label-id="16725974" inwerking="2024-01-01" label="Artikel V" bron="Stb.2023-242" effect="nieuwe-regeling" ondertekening_bron="2023-06-03" publicatie_bron="2023-07-05" publicatie_iwt="2023-10-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">V</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet aanpak dierenmishandeling en dierverwaarlozing</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-242"><publicatiejaar>2023</publicatiejaar><publicatienr>242</publicatienr><uitgiftedatum isodatum="2023-07-05">05-07-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-06-03">03-06-2023</ondertekeningsdatum><dossierref dossier="35892">35892</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-334"><publicatiejaar>2023</publicatiejaar><publicatienr>334</publicatienr><uitgiftedatum isodatum="2023-10-12">12-10-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-10-06">06-10-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0048434&amp;artikel=V&amp;g=2024-01-01" onderdeel="artikel=V" korte-verwijzing="1.0:c:BWBR0048434&amp;artikel=V"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0048434&amp;artikel=V&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=V" korte-verwijzing="jci1.3:c:BWBR0048434&amp;artikel=V"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVI" stam-id="16812473" versie-id="29536832" id="C42457641" label-id="16725984" inwerking="2024-01-01" label="Artikel VI" bron="Stb.2023-242" effect="nieuwe-regeling" ondertekening_bron="2023-06-03" publicatie_bron="2023-07-05" publicatie_iwt="2023-10-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">VI</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-242"><publicatiejaar>2023</publicatiejaar><publicatienr>242</publicatienr><uitgiftedatum isodatum="2023-07-05">05-07-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-06-03">03-06-2023</ondertekeningsdatum><dossierref dossier="35892">35892</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-334"><publicatiejaar>2023</publicatiejaar><publicatienr>334</publicatienr><uitgiftedatum isodatum="2023-10-12">12-10-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-10-06">06-10-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0048434&amp;artikel=VI&amp;g=2024-01-01" onderdeel="artikel=VI" korte-verwijzing="1.0:c:BWBR0048434&amp;artikel=VI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0048434&amp;artikel=VI&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=VI" korte-verwijzing="jci1.3:c:BWBR0048434&amp;artikel=VI"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="16812483" versie-id="29536842" id="C42457611" label-id="16725994" inwerking="2024-01-01" bron="Stb.2023-242" effect="nieuwe-regeling" ondertekening_bron="2023-06-03" publicatie_bron="2023-07-05" publicatie_iwt="2023-10-12" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>’s-Gravenhage</plaats>
+      <datum isodatum="2023-06-03">3 juni 2023</datum>
+    </dagtekening>
+    <koning>Willem-Alexander</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Justitie en Veiligheid,</functie>
+    <naam>
+      <voornaam>D.</voornaam>
+      <achternaam>Yeşilgöz-Zegerius</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Landbouw, Natuur en Voedselkwaliteit,</functie>
+    <naam>
+      <voornaam>P.</voornaam>
+      <achternaam>Adema</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2023-07-05">de <nadruk type="cur">vijfde</nadruk> juli 2023</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie en Veiligheid,</functie>
+      <naam>
+        <voornaam>D.</voornaam>
+        <achternaam>Yeşilgöz-Zegerius</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-242"><publicatiejaar>2023</publicatiejaar><publicatienr>242</publicatienr><uitgiftedatum isodatum="2023-07-05">05-07-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-06-03">03-06-2023</ondertekeningsdatum><dossierref dossier="35892">35892</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-334"><publicatiejaar>2023</publicatiejaar><publicatienr>334</publicatienr><uitgiftedatum isodatum="2023-10-12">12-10-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-10-06">06-10-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-242"><publicatiejaar>2023</publicatiejaar><publicatienr>242</publicatienr><uitgiftedatum isodatum="2023-07-05">05-07-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-06-03">03-06-2023</ondertekeningsdatum><dossierref dossier="35892">35892</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-334"><publicatiejaar>2023</publicatiejaar><publicatienr>334</publicatienr><uitgiftedatum isodatum="2023-10-12">12-10-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-10-06">06-10-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0048434&amp;g=2024-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0048434"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0048434&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0048434"/></jcis></meta-data></wetgeving></toestand>

@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0038054/2024-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0038054" inwerkingtreding="2024-01-01"><bwb-inputbestand>BWBR0038054_2023-08-21_0</bwb-inputbestand><bwb-wijzigingen/><redactionele-correcties><redactionele-correctie label-id="16659524" oud-revisie-id="42717381" nieuw-revisie-id="42913471"/><redactionele-correctie label-id="16659484" oud-revisie-id="42241561" nieuw-revisie-id="42913431"/><redactionele-correctie label-id="16659474" oud-revisie-id="42008021" nieuw-revisie-id="42913421"/><redactionele-correctie label-id="16659494" oud-revisie-id="42008041" nieuw-revisie-id="42913441"/><redactionele-correctie label-id="16659504" oud-revisie-id="42008051" nieuw-revisie-id="42913451"/><redactionele-correctie label-id="16659514" oud-revisie-id="42008061" nieuw-revisie-id="42913461"/><redactionele-correctie label-id="16659534" oud-revisie-id="42008081" nieuw-revisie-id="42913501"/><redactionele-correctie label-id="16659544" oud-revisie-id="42008091" nieuw-revisie-id="42913491"/><redactionele-correctie label-id="16659554" oud-revisie-id="42008101" nieuw-revisie-id="42913511"/></redactionele-correcties><wetgeving dtdversie="2.0" soort="wet" stam-id="13650083" versie-id="29398972" id="C42007811" label-id="13617014" inwerkingtredingsdatum="2023-02-22">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="13650103" versie-id="23367562" id="C33684461" label-id="13616684" inwerking="2016-06-18" bron="Stb.2016-219" effect="nieuwe-regeling" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2016-06-17" status="goed">Wet van 1 juni 2016, houdende Regeling van de arbeidsvoorwaarden van gedetacheerde werknemers in verband met de implementatie van Richtlijn 2014/67/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake de handhaving van de detacheringsrichtlijn en tot wijziging van de IMI-verordening over de administratieve samenwerking via het Informatiesysteem interne markt (Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-220"><publicatiejaar>2016</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-08">08-06-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-18">18-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="13650113" versie-id="23367572" id="C33684471" label-id="13616694" inwerking="2016-06-18" bron="Stb.2016-219" effect="nieuwe-regeling" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2016-06-17">Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-220"><publicatiejaar>2016</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-08">08-06-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-18">18-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="13650123" versie-id="23367582" id="C33684481" label-id="13616704" inwerking="2016-06-18" bron="Stb.2016-219" effect="nieuwe-regeling" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2016-06-17" status="goed">
+  <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het noodzakelijk is in verband met de implementatie van <extref doc="32014L0067" label="richtlijn" reeks="Celex">Richtlijn 2014/67</extref>/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake de handhaving van <extref doc="31996L0071" label="richtlijn" reeks="Celex">Richtlijn 96/71/EG</extref> betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten (de detacheringsrichtlijn) en tot wijziging van Verordening (EU) nr. 1024/2012 betreffende de administratieve samenwerking via het Informatiesysteem interne markt (PbEG2014,L159/11(«de IMI-verordening»)), kort aangeduid als de handhavingsrichtlijn, een nieuwe wet vast te stellen tot regeling van de arbeidsvoorwaarden voor gedetacheerde werknemers in de Europese Unie ter vervanging van de <extref doc="jci1.3:c:BWBR0010925" label-id="1148044" verwijzing-id="2769553" bwb-id="BWBR0010925">Wet arbeidsvoorwaarden grensoverschrijdende arbeid</extref> en voorts de <extref doc="jci1.3:c:BWBR0001987" label-id="1360004" verwijzing-id="2769554" bwb-id="BWBR0001987">Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten</extref> aan te passen, waarbij tevens de samenwerking en wederzijdse bijstand in de handhaving in de Europese Unie wordt geregeld en ter bevordering van die handhaving een meldingssysteem wordt ingevoerd, en overtredingen van deze meldingsplicht en van informatieverplichtingen met een bestuurlijke boete worden gesanctioneerd;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-220"><publicatiejaar>2016</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-08">08-06-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-18">18-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukI" stam-id="13650143" versie-id="23367602" id="C33684501" label-id="13616724" inwerking="2016-06-18" label="Hoofdstuk I" bron="Stb.2016-219" effect="nieuwe-regeling" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2016-06-17" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">I</nr>
+    <titel status="officieel">Begripsbepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukI/Artikel1" stam-id="13650133" versie-id="29399272" id="C42008121" label-id="13616714" inwerking="2023-06-01" label="Artikel 1" bron="Stb.2023-151" effect="wijziging" ondertekening_bron="2023-02-22" publicatie_bron="2023-05-10" publicatie_iwt="2023-05-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Lid1" label-id="13616714L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+      <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Lid1/Onderdeel._1">
+        <li.nr>–</li.nr>
+        <al>
+          <nadruk type="cur">bevoegde instantie:</nadruk> de bevoegde instantie in een andere lidstaat, bedoeld in artikel 2, onderdeel a, van de handhavingsrichtlijn;</al>
+      </li>
+      <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Lid1/Onderdeel._2">
+        <li.nr>–</li.nr>
+        <al>
+          <nadruk type="cur">derde land:</nadruk> een land dat geen lidstaat is;</al>
+      </li>
+      <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Lid1/Onderdeel._3">
+        <li.nr>–</li.nr>
+        <al>
+          <nadruk type="cur">detacheringsrichtlijn:</nadruk>
+          <extref doc="31996L0071" label="richtlijn" reeks="Celex">Richtlijn 96/71/EG</extref> van het Europees Parlement en de Raad van 16 december 1996 betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten (PbEG 1997, L018);</al>
+      </li>
+      <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Lid1/Onderdeel._4">
+        <li.nr>–</li.nr>
+        <al>
+          <nadruk type="cur">dienstontvanger:</nadruk> de natuurlijke persoon die in Nederland zijn woonplaats of gewone verblijfplaats heeft of de onderneming of rechtspersoon, bedoeld in <extref doc="jci1.3:c:BWBR0021777&amp;artikel=5" label-id="9037704" verwijzing-id="2853113" bwb-id="BWBR0021777">artikel 5</extref> onderscheidenlijk <extref doc="jci1.3:c:BWBR0021777&amp;artikel=6" label-id="9037714" verwijzing-id="2853114" bwb-id="BWBR0021777">artikel 6 van de Handelsregisterwet 2007</extref>, die in Nederland is gevestigd, dan wel de onderneming, die in Nederland werkzaam is of er werkzaamheden doet verrichten maar niet in Nederland is gevestigd, waarvoor een gedetacheerde werknemer of zelfstandige in het kader van transnationale dienstverrichting werkzaamheden verricht;</al>
+      </li>
+      <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Lid1/Onderdeel._5">
+        <li.nr>–</li.nr>
+        <al>
+          <nadruk type="cur">dienstverrichter:</nadruk> degene die vanuit een andere lidstaat in het kader van transnationale dienstverrichting zijn werknemer ter beschikking stelt om tijdelijk arbeid te verrichten in Nederland;</al>
+      </li>
+      <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Lid1/Onderdeel._6">
+        <li.nr>–</li.nr>
+        <al>
+          <nadruk type="cur">gedetacheerde werknemer:</nadruk> de werknemer die in het kader van transnationale dienstverrichting op basis van een arbeidsovereenkomst tijdelijk arbeid verricht in Nederland en niet gewoonlijk in of vanuit Nederland arbeid verricht;</al>
+      </li>
+      <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Lid1/Onderdeel._7">
+        <li.nr>–</li.nr>
+        <al>
+          <nadruk type="cur">Handels- en samenwerkingsovereenkomst EU-VK:</nadruk> Handels- en samenwerkingsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie, enerzijds, en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, anderzijds (PbEU 2021, L 149);</al>
+      </li>
+      <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Lid1/Onderdeel._8">
+        <li.nr>–</li.nr>
+        <al>
+          <nadruk type="cur">handhavingsrichtlijn:</nadruk>
+          <extref doc="32014L0067" label="richtlijn" reeks="Celex">Richtlijn 2014/67</extref>/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake de handhaving van <extref doc="31996L0071" label="richtlijn" reeks="Celex">Richtlijn 96/71/EG</extref> betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten en tot wijziging van Verordening (EU) nr. 1024/2012 betreffende de administratieve samenwerking via het Informatiesysteem interne markt (PbEU 2014, L159/11);</al>
+      </li>
+      <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Lid1/Onderdeel._9">
+        <li.nr>–</li.nr>
+        <al>
+          <nadruk type="cur">IMI:</nadruk> het Informatiesysteem interne markt, bedoeld in de IMI-verordening, met inbegrip van de openbare met dit systeem verbonden interface;</al>
+      </li>
+      <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Lid1/Onderdeel._10">
+        <li.nr>–</li.nr>
+        <al>
+          <nadruk type="cur">IMI-verordening:</nadruk>
+          <extref doc="32012R1024" label="verordening" reeks="Celex">Verordening (EU) nr. 1024/2012</extref> van het Europees Parlement en de Raad van 25 oktober 2012 betreffende de administratieve samenwerking via het Informatiesysteem interne markt en tot intrekking van Beschikking 2008/49/EG van de Commissie (PbEU 2012, L 316);</al>
+      </li>
+      <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Lid1/Onderdeel._11">
+        <li.nr>–</li.nr>
+        <al>
+          <nadruk type="cur">lidstaat:</nadruk> een staat binnen de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland;</al>
+      </li>
+      <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Lid1/Onderdeel._12">
+        <li.nr>–</li.nr>
+        <al>
+          <nadruk type="cur">mobiliteitsrichtlijn:</nadruk>
+          <extref doc="32020L1057" label="richtlijn" reeks="Celex">Richtlijn (EU) 2020/1057</extref> van het Europees Parlement en de Raad van 15 juli 2020 tot vaststelling van specifieke regels met betrekking tot <extref doc="31996L0071" label="richtlijn" reeks="Celex">Richtlijn 96/71/EG</extref> en <extref doc="32014L0067" label="richtlijn" reeks="Celex">Richtlijn 2014/67</extref>/EU wat betreft de detachering van bestuurders in de wegvervoersector en tot wijziging van <extref doc="32006L0022" label="richtlijn" reeks="Celex">Richtlijn 2006/22/EG</extref> wat betreft de handhavingsvoorschriften en <extref doc="32012R1024" label="verordening" reeks="Celex">Verordening (EU) nr. 1024/2012</extref> (PbEU 2020, L 249);</al>
+      </li>
+      <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Lid1/Onderdeel._13">
+        <li.nr>–</li.nr>
+        <al>
+          <nadruk type="cur">Onze Minister:</nadruk> Onze Minister van Sociale Zaken en Werkgelegenheid;</al>
+      </li>
+      <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Lid1/Onderdeel._14">
+        <li.nr>–</li.nr>
+        <al>
+          <nadruk type="cur">transnationale dienstverrichting:</nadruk>
+        </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Lid1/Onderdeel._14/Onderdeel1">
+            <li.nr>1.</li.nr>
+            <al>het voor rekening en onder toezicht en leiding van de dienstverrichter ter beschikking stellen van een werknemer aan de dienstontvanger om arbeid te verrichten in een andere lidstaat in het kader van een overeenkomst tussen de dienstverrichter en de dienstontvanger;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=I&amp;artikel=1&amp;lid=1&amp;o=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=1"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Lid1/Onderdeel._14/Onderdeel2">
+            <li.nr>2.</li.nr>
+            <al>het ter beschikking stellen van een werknemer van een onderneming aan een vestiging van die onderneming of aan een tot hetzelfde concern behorende onderneming in een andere lidstaat;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=I&amp;artikel=1&amp;lid=1&amp;o=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=2"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Lid1/Onderdeel._14/Onderdeel3">
+            <li.nr>3.</li.nr>
+            <al>het door de dienstverrichter tegen vergoeding ter beschikking stellen van een werknemer aan de dienstontvanger om onder toezicht en leiding van de dienstontvanger arbeid te verrichten op het grondgebied van een andere lidstaat;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=I&amp;artikel=1&amp;lid=1&amp;o=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=3"/></jcis></meta-data></li>
+        </lijst>
+      </li>
+      <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Lid1/Onderdeel._15">
+        <li.nr>–</li.nr>
+        <al>
+          <nadruk type="cur">zelfstandige:</nadruk> degene die in de uitoefening van beroep of bedrijf vanuit een andere lidstaat tijdelijk arbeid verricht in Nederland, maar niet in Nederland zijn woonplaats of gewone verblijfplaats heeft of niet gewoonlijk in of vanuit Nederland arbeid verricht.</al>
+      </li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=I&amp;artikel=1&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Lid2" label-id="13616714L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Deze wet is niet van toepassing op zeevarend personeel van koopvaardijondernemingen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=I&amp;artikel=1&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Lid3" label-id="13616714L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Bij algemene maatregel van bestuur worden de begrippen zeevarend personeel en koopvaardijondernemingen, bedoeld in het tweede lid, nader omschreven.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=I&amp;artikel=1&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-151"><publicatiejaar>2023</publicatiejaar><publicatienr>151</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-02-22">22-02-2023</ondertekeningsdatum><dossierref dossier="36166">36166</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-152"><publicatiejaar>2023</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-26">26-04-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-06-01">01-06-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=1&amp;g=2024-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=I&amp;artikel=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=1"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-220"><publicatiejaar>2016</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-08">08-06-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-18">18-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;hoofdstuk=I&amp;g=2024-01-01" onderdeel="hoofdstuk=I" korte-verwijzing="1.0:c:BWBR0038054&amp;hoofdstuk=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=I&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="hoofdstuk=I" korte-verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=I"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukII" stam-id="13650173" versie-id="28256282" id="C39841121" label-id="13616754" inwerking="2021-12-15" label="Hoofdstuk II" bron="Stb.2021-627" effect="structuurwijziging" ondertekening_bron="2021-12-15" publicatie_bron="2021-12-20" publicatie_iwt="2021-12-20" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">II</nr>
+    <titel status="officieel">Arbeidsvoorwaarden gedetacheerde werknemers</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukII/Artikel2" stam-id="13650153" versie-id="26898112" id="C42039481" label-id="13616734" inwerking="2020-07-30" label="Artikel 2" bron="Stb.2020-249" effect="wijziging" ondertekening_bron="2020-07-01" publicatie_bron="2020-07-15" publicatie_iwt="2020-07-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel2/Lid1" label-id="13616734L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De volgende artikelen zijn van toepassing op gedetacheerde werknemers wier arbeidsovereenkomst wordt beheerst door ander recht dan het Nederlandse recht:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukII/Artikel2/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>ten aanzien van het loon: <extref doc="jci1.3:c:BWBR0005290&amp;artikel=616a" label-id="13149694,13149704,13149714,13149724,13149734,13149744" verwijzing-id="3012909" bwb-id="BWBR0005290">616a tot en met 616f</extref> en <extref doc="jci1.3:c:BWBR0005290&amp;artikel=626" label-id="2913734" verwijzing-id="3012897" bwb-id="BWBR0005290">626 van Boek 7 van het Burgerlijk Wetboek</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=2&amp;lid=1&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukII/Artikel2/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>ten aanzien van vakantie en verlof: <extref doc="jci1.3:c:BWBR0005290&amp;artikel=634" label-id="2913824,2913834,2913844,2913854,2913864,2913874,2913884,2913894,2913904,11343714" verwijzing-id="3012898" bwb-id="BWBR0005290">634 tot en met 642</extref>, <extref doc="jci1.3:c:BWBR0005290&amp;artikel=645" label-id="2913934" verwijzing-id="3012899" bwb-id="BWBR0005290">645</extref>, <extref doc="jci1.3:c:BWBR0005290&amp;artikel=646" label-id="2913954" verwijzing-id="3012900" bwb-id="BWBR0005290">646</extref>, <extref doc="jci1.3:c:BWBR0005290&amp;artikel=648" label-id="2913974" verwijzing-id="3012901" bwb-id="BWBR0005290">648</extref>, en <extref doc="jci1.3:c:BWBR0005290&amp;artikel=649" label-id="3202694" verwijzing-id="3012902" bwb-id="BWBR0005290">649 van Boek 7 van het Burgerlijk Wetboek</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=2&amp;lid=1&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukII/Artikel2/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>ten aanzien van verplichtingen van de werkgever: <extref doc="jci1.3:c:BWBR0005290&amp;artikel=655" label-id="2914054" verwijzing-id="3012903" bwb-id="BWBR0005290">655</extref> en <extref doc="jci1.3:c:BWBR0005290&amp;artikel=658" label-id="2914084" verwijzing-id="3012904" bwb-id="BWBR0005290">658 van Boek 7 van het Burgerlijk Wetboek</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=2&amp;lid=1&amp;o=c&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukII/Artikel2/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>ten aanzien van het einde van de arbeidsovereenkomst: <extref doc="jci1.3:c:BWBR0005290&amp;artikel=670" label-id="2914234" verwijzing-id="3012905" bwb-id="BWBR0005290">670, tweede lid</extref>, en <extref doc="jci1.3:c:BWBR0005290&amp;artikel=681" label-id="2914344" verwijzing-id="3012906" bwb-id="BWBR0005290">681, eerste lid, onderdeel c, van Boek 7 van het Burgerlijk Wetboek</extref>.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=2&amp;lid=1&amp;o=d&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=2&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel2/Lid2" label-id="13616734L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Wanneer de detachering meer dan twaalf maanden bedraagt, zijn op de gedetacheerde werknemer vanaf de dertiende maand alle wettelijke arbeidsvoorwaarden en -omstandigheden van toepassing, met uitzondering van procedures, formaliteiten en voorwaarden van de sluiting en de beëindiging van de arbeidsovereenkomst, waaronder concurrentiebedingen, en pensioen als bedoeld in <extref doc="jci1.3:c:BWBR0020809&amp;artikel=1" label-id="8800594" verwijzing-id="3012907" bwb-id="BWBR0020809">artikel 1 van de Pensioenwet</extref> dan wel <extref doc="jci1.3:c:BWBR0018831&amp;artikel=1" label-id="7454944" verwijzing-id="3012908" bwb-id="BWBR0018831">artikel 1, eerste lid, van de Wet verplichte beroepspensioenregeling</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=2&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel2/Lid3" label-id="13616734L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De in het tweede lid genoemde termijn van twaalf maanden bedraagt achttien maanden indien de dienstverrichter, gedurende de laatste drie maanden van de periode van ten hoogste twaalf maanden waarin de detachering plaatsvindt, aan Onze Minister een gemotiveerde kennisgeving verstrekt, dat de in eerste instantie opgegeven vermoedelijke duur van de werkzaamheden zal worden overschreden tot ten hoogste achttien maanden. Wanneer de detachering in geval van verdere verlenging meer dan achttien maanden bedraagt, gelden de in het tweede lid bedoelde arbeidsvoorwaarden en -omstandigheden vanaf de negentiende maand.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=2&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel2/Lid4" label-id="13616734L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Indien een gedetacheerde werknemer door de dienstverrichter wordt vervangen door een andere gedetacheerde werknemer die op dezelfde plaats hetzelfde werk uitvoert, is de duur van de detachering de totale duur van de perioden van detachering van de afzonderlijke gedetacheerde werknemers gezamenlijk.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=2&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-249"><publicatiejaar>2020</publicatiejaar><publicatienr>249</publicatienr><uitgiftedatum isodatum="2020-07-15">15-07-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-07-01">01-07-2020</ondertekeningsdatum><dossierref dossier="35358">35358</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-250"><publicatiejaar>2020</publicatiejaar><publicatienr>250</publicatienr><uitgiftedatum isodatum="2020-07-15">15-07-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-07-09">09-07-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-07-30">30-07-2020</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Artikel VII, eerste lid, van Stb. 2020/249 bevat overgangsrecht
+    m.b.t. deze wijziging.</al><al>Treedt voor de sector wegvervoer in werking op 1 juni 2023 (Stb. 2023/152).</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=2&amp;g=2024-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=2"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukII/Artikel3" stam-id="13650163" versie-id="28754892" id="C40691281" label-id="13616744" inwerking="2022-08-01" label="Artikel 3" bron="Stb.2022-277" effect="wijziging" ondertekening_bron="2022-06-22" publicatie_bron="2022-07-06" publicatie_iwt="2022-07-06" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel3/Lid1" label-id="13616744L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een werknemer die tijdelijk buiten Nederland arbeid verricht of heeft verricht in een lidstaat kan, ongeacht het recht dat de arbeidsovereenkomst beheerst, met betrekking tot die arbeid aanspraken ontlenen aan het recht dat die lidstaat heeft vastgesteld ter uitvoering van de detacheringsrichtlijn.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=3&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel3/Lid2" label-id="13616744L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien sprake is van een werknemer op wie de detacheringsrichtlijn van toepassing is, stelt de werkgever de werknemer, voor zijn vertrek naar de andere lidstaat, in kennis van:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukII/Artikel3/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het loon waarop de werknemer recht heeft volgens het geldende recht van de ontvangende lidstaat;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=3&amp;lid=2&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukII/Artikel3/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>in voorkomend geval, alle toeslagen in verband met de detachering en alle regelingen voor de vergoeding van reis-, verblijf- en maaltijdkosten; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=3&amp;lid=2&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukII/Artikel3/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de link naar de door de ontvangende lidstaat uit hoofde van artikel 5, tweede lid, van de handhavingsrichtlijn ontwikkelde unieke officiële nationale website(s).</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=3&amp;lid=2&amp;o=c&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=3&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel3/Lid3" label-id="13616744L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>
+      <extref doc="jci1.3:c:BWBR0005290&amp;artikel=655" label-id="2914054" verwijzing-id="3168247" bwb-id="BWBR0005290">Artikel 655, tweede lid, tweede zin, van Boek 7 van het Burgerlijk Wetboek</extref> is van overeenkomstige toepassing op het tweede lid, onderdeel a.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=3&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel3/Lid4" label-id="13616744L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Het tweede lid is niet van toepassing op een zeevarende werkzaam op basis van een arbeidsovereenkomst in de zeevisserij als bedoeld in <extref doc="jci1.3:c:BWBR0005290&amp;artikel=739" label-id="11404084" verwijzing-id="3168248" bwb-id="BWBR0005290">artikel 739 van Boek 7 van het Burgerlijk Wetboek</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=3&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel3/Lid5" label-id="13616744L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte de in dit artikel aan hem toegekende rechten geldend maakt, ter zake bijstand heeft verleend of een klacht hierover heeft ingediend.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=3&amp;lid=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-277"><publicatiejaar>2022</publicatiejaar><publicatienr>277</publicatienr><uitgiftedatum isodatum="2022-07-06">06-07-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-06-22">22-06-2022</ondertekeningsdatum><dossierref dossier="35962">35962</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-277"><publicatiejaar>2022</publicatiejaar><publicatienr>277</publicatienr><uitgiftedatum isodatum="2022-07-06">06-07-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-06-22">22-06-2022</ondertekeningsdatum><dossierref dossier="35962">35962</dossierref></publicatie><inwerkingtreding.datum isodatum="2022-08-01">01-08-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=3&amp;g=2024-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=3"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukII/Artikel3a" stam-id="15569823" versie-id="27272492" id="C38929811" label-id="15511334" inwerking="2021-01-01" label="Artikel 3a" bron="Stb.2020-496" effect="wijziging" ondertekening_bron="2020-11-25" publicatie_bron="2020-12-04" publicatie_iwt="2020-12-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel3a/Lid1" label-id="15511334L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De werknemer die ter beschikking is gesteld in de zin van onderdeel 3 van transnationale dienstverrichting als bedoeld in <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=I&amp;artikel=1&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616714" verwijzing-id="3012896" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukI/Artikel1">artikel 1, eerste lid</intref>, en door de dienstontvanger in het kader van transnationale dienstverrichting ter beschikking wordt gesteld om tijdelijk arbeid te verrichten in een andere lidstaat dan de lidstaat waar de werknemer gewoonlijk werkt voor hetzij de dienstverrichter, hetzij de dienstontvanger, wordt geacht in die lidstaat ter beschikking te zijn gesteld door de dienstverrichter.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=3a&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel3a/Lid2" label-id="15511334L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De dienstontvanger informeert de dienstverrichter tijdig en voor aanvang van de terbeschikkingstelling, bedoeld in het eerste lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=3a&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel3a/Lid3" label-id="15511334L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het eerste en tweede lid zijn van overeenkomstige toepassing met betrekking tot de arbeidskracht die ter beschikking is gesteld, bedoeld in <extref doc="jci1.3:c:BWBR0009616&amp;artikel=1" label-id="786624" verwijzing-id="3037008" bwb-id="BWBR0009616">artikel 1 van de Wet allocatie arbeidskrachten door intermediairs</extref>, met dien verstande dat onder dienstontvanger wordt verstaan de inlener als bedoeld in <extref doc="jci1.3:c:BWBR0009616&amp;artikel=7a" label-id="11732614" verwijzing-id="3037009" bwb-id="BWBR0009616">artikel 7a van die wet</extref>, en onder dienstverrichter degene die de arbeidskracht ter beschikking stelt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=3a&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-496"><publicatiejaar>2020</publicatiejaar><publicatienr>496</publicatienr><uitgiftedatum isodatum="2020-12-04">04-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-25">25-11-2020</ondertekeningsdatum><dossierref dossier="35494">35494</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-497"><publicatiejaar>2020</publicatiejaar><publicatienr>497</publicatienr><uitgiftedatum isodatum="2020-12-04">04-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-30">30-11-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=3a&amp;g=2024-01-01" onderdeel="artikel=3a" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=3a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=3a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=3a" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=3a"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukII/Artikel3b" stam-id="16191473" versie-id="28256292" id="C40052641" label-id="16119554" inwerking="2022-01-01" label="Artikel 3b" bron="Stb.2021-627" effect="nieuw" ondertekening_bron="2021-12-15" publicatie_bron="2021-12-20" publicatie_iwt="2021-12-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3b</nr>
+  </kop>
+  <al>De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer een gerechtelijke of administratieve procedure start om de in deze wet of de in <extref doc="jci1.3:c:BWBR0001987&amp;artikel=2a" label-id="1359824" verwijzing-id="3124191" bwb-id="BWBR0001987">artikel 2a van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten</extref> aan hem toegekende rechten geldend te maken.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2021-627"><publicatiejaar>2021</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2021-12-20">20-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-12-15">15-12-2021</ondertekeningsdatum><dossierref dossier="35897">35897</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2021-628"><publicatiejaar>2021</publicatiejaar><publicatienr>628</publicatienr><uitgiftedatum isodatum="2021-12-20">20-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-12-15">15-12-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=3b&amp;g=2024-01-01" onderdeel="artikel=3b" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=3b"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=3b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=3b" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=3b"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2021-627"><publicatiejaar>2021</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2021-12-20">20-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-12-15">15-12-2021</ondertekeningsdatum><dossierref dossier="35897">35897</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2021-627"><publicatiejaar>2021</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2021-12-20">20-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-12-15">15-12-2021</ondertekeningsdatum><dossierref dossier="35897">35897</dossierref></publicatie><inwerkingtreding.datum isodatum="2021-12-15">15-12-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;hoofdstuk=II&amp;g=2024-01-01" onderdeel="hoofdstuk=II" korte-verwijzing="1.0:c:BWBR0038054&amp;hoofdstuk=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="hoofdstuk=II" korte-verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=II"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukIII" stam-id="13650243" versie-id="23367702" id="C33684601" label-id="13616824" inwerking="2016-06-18" label="Hoofdstuk III" bron="Stb.2016-219" effect="nieuwe-regeling" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2016-06-17" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">III</nr>
+    <titel status="officieel">Informatie, administratieve samenwerking en melding</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukIII/Artikel4" stam-id="13650183" versie-id="29399282" id="C42008131" label-id="13616764" inwerking="2023-06-01" label="Artikel 4" bron="Stb.2023-151" effect="wijziging" ondertekening_bron="2023-02-22" publicatie_bron="2023-05-10" publicatie_iwt="2023-05-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel4/Lid1" label-id="13616764L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Bij Onze Minister berust het verbindingsbureau, bedoeld in artikel 4 van de detacheringsrichtlijn, voor de administratieve samenwerking, bedoeld in artikel 5, onderdeel b, van de IMI-verordening, tussen de lidstaten in verband met het toezicht op de naleving van de arbeidsvoorwaarden en de arbeidsomstandigheden, bedoeld in artikel 3 van de detacheringsrichtlijn. Door Onze Minister aangewezen ambtenaren zijn belast met de verwerking van gegevens over gedetacheerde werknemers en dienstverrichters ten behoeve van deze administratieve samenwerking.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=4&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel4/Lid2" label-id="13616764L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De door Onze Minister aangewezen ambtenaren verwerken gegevens, die zij verkrijgen ten behoeve van het toezicht op de naleving van de Wet arbeid vreemdelingen, de Wet allocatie arbeidskrachten door intermediairs, de Wet minimumloon en minimumvakantiebijslag, de <extref doc="jci1.3:c:BWBR0010346" label-id="1016544" verwijzing-id="2768715" bwb-id="BWBR0010346">Arbeidsomstandighedenwet</extref>, de <extref doc="jci1.3:c:BWBR0007671" label-id="2583414" verwijzing-id="2768716" bwb-id="BWBR0007671">Arbeidstijdenwet</extref>, de <extref doc="jci1.3:c:BWBR0001987" label-id="1360004" verwijzing-id="2768717" bwb-id="BWBR0001987">Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten</extref> en deze wet verder ten behoeve van de administratieve samenwerking, bedoeld in het eerste lid, en de wederzijdse bijstand bij de handhaving, bedoeld in <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616904" verwijzing-id="2768737" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIV">hoofdstuk IV</intref>, en verstrekken daarbij uit eigen beweging gegevens aan de bevoegde instanties in andere lidstaten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=4&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel4/Lid3" label-id="13616764L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Gegevens die de door Onze Minister aangewezen ambtenaren in verband met de in het eerste lid bedoelde samenwerking verkrijgen van bevoegde instanties in andere lidstaten kunnen door Onze Minister verder worden verwerkt voor het toezicht op de naleving door dienstverrichters van de wetten, genoemd in het tweede lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=4&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel4/Lid4" label-id="13616764L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Bestuursorganen en toezichthouders verstrekken desgevraagd of uit eigen beweging aan Onze Minister alle gegevens en inlichtingen, die noodzakelijk zijn voor de uitoefening van zijn taken in verband met de uitvoering van deze wet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=4&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel4/Lid5" label-id="13616764L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Onze Minister verstrekt de gegevens, die hij verwerkt op grond van het tweede en derde lid, aan bestuursorganen en toezichthouders, die noodzakelijk zijn voor de uitoefening van hun taken in verband met transnationale dienstverrichting.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=4&amp;lid=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel4/Lid6" label-id="13616764L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Met het oog op de in het eerste lid genoemde samenwerking en de wederzijdse bijstand bij de handhaving, bedoeld in <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616904" verwijzing-id="2768738" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIV">hoofdstuk IV</intref>, geeft Onze Minister gehoor aan met gerechtvaardigde redenen omklede verzoeken van bevoegde instanties uit andere lidstaten om informatie en om uitvoering van controles, inspecties en onderzoeken met betrekking tot de transnationale dienstverrichting.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=4&amp;lid=6&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel4/Lid7" label-id="13616764L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de gegevens die verwerkt worden op grond van dit artikel, de wijze waarop die gegevens worden verwerkt alsmede de bij de gegevensverstrekkingen in acht te nemen termijnen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=4&amp;lid=7&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-151"><publicatiejaar>2023</publicatiejaar><publicatienr>151</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-02-22">22-02-2023</ondertekeningsdatum><dossierref dossier="36166">36166</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-152"><publicatiejaar>2023</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-26">26-04-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-06-01">01-06-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=4&amp;g=2024-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=4"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIII/Artikel5" stam-id="13650193" versie-id="23367652" id="C36417791" label-id="13616774" inwerking="2016-06-18" label="Artikel 5" bron="Stb.2016-219" effect="nieuwe-regeling" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2016-06-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel5/Lid1" label-id="13616774L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de door Onze Minister aangewezen ambtenaren.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=5&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel5/Lid2" label-id="13616774L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Van een besluit als bedoeld in het eerste lid, wordt mededeling gedaan door plaatsing in de Staatscourant.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=5&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-220"><publicatiejaar>2016</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-08">08-06-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-18">18-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=5&amp;g=2024-01-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=5"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIII/Artikel6" stam-id="13650203" versie-id="24716562" id="C38929821" label-id="13616784" inwerking="2020-03-01" label="Artikel 6" bron="Stb.2017-484" effect="wijziging" ondertekening_bron="2017-11-29" publicatie_bron="2017-12-15" publicatie_iwt="2020-02-14" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Lid1" label-id="13616784L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De dienstverrichter verstrekt desgevraagd aan Onze Minister en de door Onze Minister aangewezen ambtenaren, bedoeld in <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=5&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616774" verwijzing-id="2768730" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIII/Artikel5">artikel 5</intref>, alle gegevens en inlichtingen, die noodzakelijk zijn voor de uitvoering van deze wet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=6&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Lid2" label-id="13616784L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het eerste lid is van overeenkomstige toepassing op zelfstandigen voor wie de verplichting geldt, bedoeld in <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616804" verwijzing-id="2982229" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIII/Artikel8">artikel 8, zesde lid</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=6&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Lid3" label-id="13616784L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Indien dit in het kader van de handhaving noodzakelijk is, beoordelen de door Onze Minister aangewezen ambtenaren, bedoeld in <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=5&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616774" verwijzing-id="2768732" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIII/Artikel5">artikel 5</intref>, aan de hand van de bij algemene maatregel van bestuur vastgestelde elementen:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>of een onderneming als bedoeld in artikel 1, eerste lid, van de detacheringsrichtlijn, daadwerkelijk substantiële activiteiten verricht om werknemers ter beschikking te stellen in het kader van transnationale dienstverrichting;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=6&amp;lid=3&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>of een gedetacheerde werknemer tijdelijk arbeid in Nederland verricht.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=6&amp;lid=3&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=6&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-57"><publicatiejaar>2020</publicatiejaar><publicatienr>57</publicatienr><uitgiftedatum isodatum="2020-02-14">14-02-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-02-08">08-02-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-03-01">01-03-2020</inwerkingtreding.datum></inwerkingtreding></brondata><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-484"><publicatiejaar>2017</publicatiejaar><publicatienr>484</publicatienr><uitgiftedatum isodatum="2017-12-15">15-12-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-11-29">29-11-2017</ondertekeningsdatum><dossierref dossier="34766">34766</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-57"><publicatiejaar>2020</publicatiejaar><publicatienr>57</publicatienr><uitgiftedatum isodatum="2020-02-14">14-02-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-02-08">08-02-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-03-01">01-03-2020</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De wijziging is in werking getreden op 1 januari 2018 (Stb. 2017/485).</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=6&amp;g=2024-01-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=6&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=6"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIII/Artikel7" stam-id="13650213" versie-id="23367672" id="C36417811" label-id="13616794" inwerking="2016-06-18" label="Artikel 7" bron="Stb.2016-219" effect="nieuwe-regeling" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2016-06-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <al>De dienstverrichter wijst voor de periode van transnationale dienstverrichting een contactpersoon, die als aanspreekpunt van de dienstverrichter fungeert en die in de lidstaat waar de arbeid wordt verricht beschikbaar is voor het verzenden en ontvangen van informatie met betrekking tot de transnationale dienstverrichting, aan in Nederland ten behoeve van Onze Minister in verband met de detachering naar Nederland.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-220"><publicatiejaar>2016</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-08">08-06-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-18">18-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=7&amp;g=2024-01-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=7&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=7"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIII/Artikel8" stam-id="13650223" versie-id="29802872" id="C42717311" label-id="13616804" inwerking="2024-01-01" label="Artikel 8" bron="Stb.2023-417" effect="wijziging" ondertekening_bron="2023-11-08" publicatie_bron="2023-11-21" publicatie_iwt="2023-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel8/Lid1" label-id="13616804L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De dienstverrichter, die een werknemer detacheert naar Nederland, is verplicht dit schriftelijk of elektronisch aan Onze Minister te melden op een tijdstip voor aanvang van de werkzaamheden, waarbij hij meldt:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel8/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>zijn identiteit;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;lid=1&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel8/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de identiteit van de dienstontvanger en van de gedetacheerde werknemer;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;lid=1&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel8/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de contactpersoon, bedoeld in <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=7&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616794" verwijzing-id="2768744" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIII/Artikel7">artikel 7</intref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;lid=1&amp;o=c&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel8/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de aard en de vermoedelijke duur van de werkzaamheden;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;lid=1&amp;o=d&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel8/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>het adres van de werkplek; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;lid=1&amp;o=e&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel8/Lid1/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>de bijdrage voor toepasselijke socialezekerheidsregelingen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;lid=1&amp;o=f&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel8/Lid2" label-id="13616804L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien de dienstverrichter een werknemer detacheert naar Nederland, verstrekt de dienstverrichter voor aanvang van de werkzaamheden aan de dienstontvanger een schriftelijk of elektronisch afschrift van de melding, bedoeld in het eerste lid, met daarin ten minste de gegevens over zijn identiteit en de identiteit van de gedetacheerde werknemer, het adres van de werkplek en de aard en duur van de werkzaamheden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel8/Lid3" label-id="13616804L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De dienstontvanger controleert of het afschrift van de melding, bedoeld in het tweede lid, de in het tweede lid genoemde gegevens vermeldt en meldt onjuistheden, of het niet hebben ontvangen van het afschrift, uiterlijk vijf werkdagen na aanvang van de werkzaamheden schriftelijk of elektronisch aan Onze Minister.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel8/Lid4" label-id="13616804L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De gegevens die op grond van dit artikel door Onze Minister worden verwerkt worden verstrekt aan bestuursorganen en toezichthouders, voor zover die noodzakelijk zijn voor de uitoefening van hun taken in verband met transnationale dienstverrichting.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel8/Lid5" label-id="13616804L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Bij ministeriële regeling kunnen voorschriften worden gegeven met betrekking tot het model van de melding, de taal, de wijze van melding, de over te leggen bescheiden en het tijdstip van de melding, bedoeld in het eerste lid, en het verstrekken van gegevens op grond van dit artikel aan bestuursorganen en toezichthouders.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;lid=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel8/Lid6" label-id="13616804L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>De verplichting in het eerste lid, aangaande de melding van de aard en vermoedelijke duur van de werkzaamheden, de identiteit van de persoon die de werkzaamheden uitvoert en de verplichting uit het tweede lid zijn van overeenkomstige toepassing op zelfstandigen die werkzaam zijn in bij algemene maatregel van bestuur aangewezen sectoren van het beroeps- of bedrijfsleven.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;lid=6&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel8/Lid7" label-id="13616804L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Bij algemene maatregel van bestuur worden categorieën van gedetacheerde werknemers en dienstverrichters aangewezen waarop dit artikel niet van toepassing is of voor wie voor de melding nadere bij deze algemene maatregel van bestuur te bepalen regels gelden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;lid=7&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel8/Lid8" label-id="13616804L8">
+    <lidnr status="officieel">8</lidnr>
+    <al>De werkzaamheden van Onze Minister in verband met dit artikel kunnen worden uitgevoerd door een door Onze Minister aan te wijzen zelfstandig bestuursorgaan. Onze Minister kan voor de verwerking van de gegevens op grond van dit artikel een verwerker aanwijzen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;lid=8&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=8"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel8/Lid9" label-id="13616804L9">
+    <lidnr status="officieel">9</lidnr>
+    <al>De dienstverrichter en de zelfstandige voor wie de verplichting geldt, bedoeld in artikel 8, zesde lid, houden de melding actueel.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;lid=9&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=9"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-417"><publicatiejaar>2023</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2023-11-21">21-11-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-11-08">08-11-2023</ondertekeningsdatum><dossierref dossier="36415">36415</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-437"><publicatiejaar>2023</publicatiejaar><publicatienr>437</publicatienr><uitgiftedatum isodatum="2023-12-05">05-12-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-11-29">29-11-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=8&amp;g=2024-01-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=8"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIII/Artikel9" stam-id="13650233" versie-id="29802912" id="C42717351" label-id="13616814" inwerking="2024-01-01" label="Artikel 9" bron="Stb.2023-417" effect="wijziging" ondertekening_bron="2023-11-08" publicatie_bron="2023-11-21" publicatie_iwt="2023-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel9/Lid1" label-id="13616814L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Tijdens de periode van detachering draagt de dienstverrichter er zorg voor dat op de werkplek, bedoeld in <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616804" verwijzing-id="3274543" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIII/Artikel8">artikel 8, eerste lid, onderdeel e</intref>, schriftelijk of elektronisch beschikbaar zijn:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel9/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>een loonstrookje, waarop ten minste wordt vermeld het loonbedrag, inclusief de gespecificeerde bedragen waaruit dit is samengesteld en de bedragen die op het loon zijn ingehouden, de namen van de werkgever en werknemer, de termijn waarover het loon is berekend en de overeengekomen arbeidsduur;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;lid=1&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel9/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>een arbeidsovereenkomst, of een gelijkwaardig document in de zin van <extref doc="32019L1152" label="richtlijn" reeks="Celex">Richtlijn (EU) 2019/1152</extref> van het Europees Parlement en de Raad van 20 juni 2019 betreffende transparante en voorspelbare arbeidsvoorwaarden in de Europese Unie (PbEU 2019, L 186), waarin ten minste wordt vermeld:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel9/Lid1/Onderdeelb/Onderdeel1">
+            <li.nr>1°.</li.nr>
+            <al>de identiteit van partijen;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;lid=1&amp;o=b&amp;o=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=1"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel9/Lid1/Onderdeelb/Onderdeel2">
+            <li.nr>2°.</li.nr>
+            <al>indien de arbeid niet of niet hoofdzakelijk op een vaste werkplek wordt verricht, de vermelding dat de werknemer zijn arbeid op verschillende plaatsen verricht of vrij is zijn werkplek te bepalen;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;lid=1&amp;o=b&amp;o=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=2"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel9/Lid1/Onderdeelb/Onderdeel3">
+            <li.nr>3°.</li.nr>
+            <al>de functie van de werknemer of de aard van zijn arbeid;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;lid=1&amp;o=b&amp;o=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=3"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel9/Lid1/Onderdeelb/Onderdeel4">
+            <li.nr>4°.</li.nr>
+            <al>het tijdstip van indiensttreding;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;lid=1&amp;o=b&amp;o=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=4"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel9/Lid1/Onderdeelb/Onderdeel5">
+            <li.nr>5°.</li.nr>
+            <al>indien de overeenkomst voor bepaalde tijd is gesloten, de einddatum of de duur van de overeenkomst;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;lid=1&amp;o=b&amp;o=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=5"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel9/Lid1/Onderdeelb/Onderdeel6">
+            <li.nr>6°.</li.nr>
+            <al>de aanspraak op vakantie of ander betaald verlof waarop de werknemer recht heeft of de wijze van berekening van die aanspraken;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;lid=1&amp;o=b&amp;o=6&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=6"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel9/Lid1/Onderdeelb/Onderdeel7">
+            <li.nr>7°.</li.nr>
+            <al>het loon, met inbegrip van het aanvangsbedrag, de afzonderlijke bestanddelen ervan, de wijze en frequentie van uitbetaling en indien het loon afhankelijk is van de uitkomsten van de te verrichten arbeid, de per dag of per week aan te bieden hoeveelheid arbeid, de prijs per stuk en de tijd die redelijkerwijs met de uitvoering is gemoeid;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;lid=1&amp;o=b&amp;o=7&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=7"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel9/Lid1/Onderdeelb/Onderdeel8">
+            <li.nr>8°.</li.nr>
+            <al>de normale dagelijkse of wekelijkse arbeidstijd van de werknemer;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;lid=1&amp;o=b&amp;o=8&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=8"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel9/Lid1/Onderdeelb/Onderdeel9">
+            <li.nr>9°.</li.nr>
+            <al>de toepasselijke collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan, dan wel de toepasselijke arbeidsvoorwaarden op grond van <extref doc="jci1.3:c:BWBR0009616&amp;artikel=8" label-id="786714" verwijzing-id="3274541" bwb-id="BWBR0009616">artikel 8</extref> of <extref doc="jci1.3:c:BWBR0009616&amp;artikel=8a" label-id="11694634" verwijzing-id="3274542" bwb-id="BWBR0009616">8a van de Wet allocatie arbeidskrachten door intermediairs</extref>;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;lid=1&amp;o=b&amp;o=9&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=9"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel9/Lid1/Onderdeelb/Onderdeel10">
+            <li.nr>10°.</li.nr>
+            <al>indien van toepassing, de duur en voorwaarden van de proeftijd;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;lid=1&amp;o=b&amp;o=10&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=10"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel9/Lid1/Onderdeelb/Onderdeel11">
+            <li.nr>11°.</li.nr>
+            <al>indien van toepassing, het door de werkgever geboden recht op scholing;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;lid=1&amp;o=b&amp;o=11&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=11"/></jcis></meta-data></li>
+        </lijst>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;lid=1&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel9/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>bescheiden waaruit blijkt hoeveel uren de gedetacheerde werknemer heeft gewerkt;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;lid=1&amp;o=c&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel9/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>bewijsstukken waaruit de bijdrage voor socialezekerheidsregelingen en de identiteit van de dienstverrichter, de dienstontvanger en de gedetacheerde werknemer blijken; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;lid=1&amp;o=d&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel9/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>een bewijs waaruit blijkt welk loon aan de gedetacheerde werknemer is voldaan.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;lid=1&amp;o=e&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel9/Lid2" label-id="13616814L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De zelfstandige voor wie de verplichting geldt, bedoeld in <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616804" verwijzing-id="3274544" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIII/Artikel8">artikel 8, zesde lid</intref>, draagt er zorg voor dat tijdens de periode, waarin hij werkzaamheden verricht, op de werkplek bewijsstukken aanwezig zijn waaruit zijn identiteit en de identiteit van de dienstontvanger blijken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel9/Lid3" label-id="13616814L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De dienstverrichter en de zelfstandige dragen er zorg voor dat de bescheiden, bedoeld in het eerste en tweede lid, na de periode van detachering of de periode waarin de werkzaamheden worden verricht binnen redelijke termijn op verzoek aan de aangewezen ambtenaren, bedoeld in <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=5&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616774" verwijzing-id="2768735" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIII/Artikel5">artikel 5</intref>, worden verstrekt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel9/Lid4" label-id="13616814L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de vereisten waaraan de bescheiden, bedoeld in het eerste en tweede lid, voldoen, de plaats waar deze bescheiden beschikbaar worden gesteld en met betrekking tot het derde lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-417"><publicatiejaar>2023</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2023-11-21">21-11-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-11-08">08-11-2023</ondertekeningsdatum><dossierref dossier="36415">36415</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-437"><publicatiejaar>2023</publicatiejaar><publicatienr>437</publicatienr><uitgiftedatum isodatum="2023-12-05">05-12-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-11-29">29-11-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=9&amp;g=2024-01-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=9"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-220"><publicatiejaar>2016</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-08">08-06-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-18">18-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;hoofdstuk=III&amp;g=2024-01-01" onderdeel="hoofdstuk=III" korte-verwijzing="1.0:c:BWBR0038054&amp;hoofdstuk=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="hoofdstuk=III" korte-verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=III"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukIIIa" stam-id="16743713" versie-id="29399262" id="C42008111" label-id="16659564" inwerking="2023-06-01" label="Hoofdstuk IIIa" bron="Stb.2023-151" effect="nieuw" ondertekening_bron="2023-02-22" publicatie_bron="2023-05-10" publicatie_iwt="2023-05-10" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">IIIa</nr>
+    <titel status="officieel">Specifieke regels met betrekking tot de wegvervoersector</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9a" stam-id="16743623" versie-id="29399172" id="C42913421" label-id="16659474" inwerking="2023-06-01" label="Artikel 9a" bron="Stb.2023-151" effect="nieuw" ondertekening_bron="2023-02-22" publicatie_bron="2023-05-10" publicatie_iwt="2023-05-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9a/Lid1" label-id="16659474L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>In de artikelen van dit hoofdstuk wordt verstaan onder:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9a/Lid1/Onderdeel._1">
+        <li.nr>–</li.nr>
+        <al>
+          <nadruk type="cur">gedetacheerde bestuurder:</nadruk> de gedetacheerde werknemer, die als bestuurder in de wegvervoersector ter beschikking wordt gesteld in de zin van onderdeel 1 van de begripsbepaling van transnationale dienstverrichting, anders dan voor de activiteiten, bedoeld in <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9b&amp;z=2024-01-01&amp;g=2024-01-01" label-id="16659484" verwijzing-id="3232247" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9b">artikel 9b, tweede lid</intref>;</al>
+      </li>
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9a/Lid1/Onderdeel._2">
+        <li.nr>–</li.nr>
+        <al>
+          <nadruk type="cur">Richtlijn 92/106/EEG:</nadruk>
+          <extref doc="31992L0106" label="richtlijn" reeks="Celex">Richtlijn 92/106/EEG</extref> van de Raad van 7 december 1992 houdende vaststelling van gemeenschappelijke voorschriften voor bepaalde vormen van gecombineerd vervoer van goederen tussen Lid-Staten (PbEG 1992, L 368);</al>
+      </li>
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9a/Lid1/Onderdeel._3">
+        <li.nr>–</li.nr>
+        <al>
+          <nadruk type="cur">Verordening 1071/2009/EG:</nadruk>
+          <extref doc="32009R1071" label="verordening" reeks="Celex">Verordening (EG) nr. 1071/2009</extref> van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels betreffende de voorwaarden waaraan moet zijn voldaan om het beroep van wegvervoerondernemer uit te oefenen en tot intrekking van <extref doc="31996L0026" label="richtlijn" reeks="Celex">Richtlijn 96/26/EG</extref> van de Raad (PbEU L 300/51);</al>
+      </li>
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9a/Lid1/Onderdeel._4">
+        <li.nr>–</li.nr>
+        <al>
+          <nadruk type="cur">Verordening 1072/2009/EG:</nadruk>
+          <extref doc="32009R1072" label="verordening" reeks="Celex">Verordening (EG) nr. 1072/2009</extref> van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels voor toegang tot de markt voor internationaal goederenvervoer over de weg (PbEU 2009, L 300/72);</al>
+      </li>
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9a/Lid1/Onderdeel._5">
+        <li.nr>–</li.nr>
+        <al>
+          <nadruk type="cur">Verordening 1073/2009/EG:</nadruk>
+          <extref doc="32009R1073" label="verordening" reeks="Celex">Verordening (EG) nr. 1073/2009</extref> van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels voor toegang tot de internationale markt voor touringcar- en autobusdiensten en tot wijziging van <extref doc="32006R0561" label="verordening" reeks="Celex">Verordening (EG) nr. 561/2006</extref> (PbEU 2009, L 300/88);</al>
+      </li>
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9a/Lid1/Onderdeel._6">
+        <li.nr>–</li.nr>
+        <al>
+          <nadruk type="cur">Verordening 165/2014/EU:</nadruk>
+          <extref doc="32014R0165" label="verordening" reeks="Celex">Verordening (EU) nr. 165/2014</extref> van het Europees Parlement en de Raad van 4 februari 2014 betreffende tachografen in het wegvervoer, tot intrekking van <extref doc="31985R3821" label="verordening" reeks="Celex">Verordening (EEG) nr. 3821/85</extref> van de Raad betreffende het controleapparaat in het wegvervoer en tot wijziging van <extref doc="32006R0561" label="verordening" reeks="Celex">Verordening (EG) nr. 561/2006</extref> van het Europees Parlement en de Raad tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer (PbEU L 60/1);</al>
+      </li>
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9a/Lid1/Onderdeel._7">
+        <li.nr>–</li.nr>
+        <al>
+          <nadruk type="cur">Verordening 561/2006/EG:</nadruk>
+          <extref doc="32006R0561" label="verordening" reeks="Celex">Verordening (EG) nr. 561/2006</extref> van het Europees Parlement en de Raad van 15 maart 2006 tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer, tot wijziging van <extref doc="31985R3821" label="verordening" reeks="Celex">Verordeningen (EEG) nr. 3821/85</extref> en <extref doc="31998R2135" label="verordening" reeks="Celex">(EG) nr. 2135/98</extref> van de Raad en tot intrekking van <extref doc="31985R3820" label="verordening" reeks="Celex">Verordening (EEG) nr. 3820/85</extref> van de Raad (PbEU L 102/1).</al>
+      </li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9a&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9a/Lid2" label-id="16659474L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>In afwijking van <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=I&amp;artikel=1&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616714" verwijzing-id="3232231" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukI/Artikel1">artikel 1, eerste lid</intref>, wordt voor de toepassing van dit hoofdstuk onder lidstaat verstaan: een staat binnen de Europese Unie en bij ministeriële regeling aangewezen staten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9a&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-151"><publicatiejaar>2023</publicatiejaar><publicatienr>151</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-02-22">22-02-2023</ondertekeningsdatum><dossierref dossier="36166">36166</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-152"><publicatiejaar>2023</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-26">26-04-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-06-01">01-06-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=9a&amp;g=2024-01-01" onderdeel="artikel=9a" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=9a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=9a" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=9a"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9b" stam-id="16743633" versie-id="29399322" id="C42913431" label-id="16659484" inwerking="2023-08-21" label="Artikel 9b" bron="Stb.2023-151" effect="wijziging" ondertekening_bron="2023-02-22" publicatie_bron="2023-05-10" publicatie_iwt="2023-07-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9b</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9b/Lid1" label-id="16659484L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een bestuurder wordt aangemerkt als gedetacheerde werknemer, indien hij:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9b/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>in Nederland cabotage verricht als bedoeld in <extref doc="32009R1072" label="verordening" reeks="Celex">Verordeningen 1072/2009/EG</extref> en <extref doc="32009R1073" label="verordening" reeks="Celex">1073/2009/EG</extref>; of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9b&amp;lid=1&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9b/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>niet-bilaterale vervoersactiviteiten verricht, bestaande in:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9b/Lid1/Onderdeelb/Onderdeel1">
+            <li.nr>1°.</li.nr>
+            <al>het vervoer van goederen op basis van een vervoersovereenkomst buiten de lidstaat van vestiging, bedoeld in artikel 2, onderdeel 8, van <extref doc="32009R1071" label="verordening" reeks="Celex">Verordening 1071/2009/EG</extref>, tussen Nederland en een andere lidstaat of een derde land; of</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9b&amp;lid=1&amp;o=b&amp;o=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=1"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9b/Lid1/Onderdeelb/Onderdeel2">
+            <li.nr>2°.</li.nr>
+            <al>het vervoer van personen buiten de lidstaat van vestiging, tussen Nederland en een andere lidstaat of een derde land.</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9b&amp;lid=1&amp;o=b&amp;o=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=2"/></jcis></meta-data></li>
+        </lijst>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9b&amp;lid=1&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9b&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9b/Lid2" label-id="16659484L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Een bestuurder wordt niet aangemerkt als gedetacheerde werknemer, indien hij:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9b/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>bilaterale vervoersactiviteiten in het goederenvervoer verricht, bestaande in:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9b/Lid2/Onderdeela/Onderdeel1">
+            <li.nr>1°.</li.nr>
+            <al>het vervoer van goederen op basis van een vervoersovereenkomst van de lidstaat van vestiging, bedoeld in artikel 2, onderdeel 8, van <extref doc="32009R1071" label="verordening" reeks="Celex">Verordening 1071/2009/EG</extref>, naar een andere lidstaat of een derde land;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9b&amp;lid=2&amp;o=a&amp;o=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=1"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9b/Lid2/Onderdeela/Onderdeel2">
+            <li.nr>2°.</li.nr>
+            <al>het vervoer van goederen op basis van een vervoersovereenkomst van een andere lidstaat of een derde land naar de lidstaat van vestiging;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9b&amp;lid=2&amp;o=a&amp;o=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=2"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9b/Lid2/Onderdeela/Onderdeel3">
+            <li.nr>3°.</li.nr>
+            <al>het verrichten van een bilaterale vervoersactiviteit als bedoeld in subonderdeel 1° of 2°, naast het verrichten van ten hoogste één laad- en één losactiviteit in de lidstaten of derde landen die worden doorkruist, mits de bestuurder de goederen niet laadt en lost in dezelfde lidstaat en gebruikmaakt van een voertuig waarin een slimme tachograaf is aangesloten als bedoeld in de artikelen 8 tot en met 10 van <extref doc="32014R0165" label="verordening" reeks="Celex">Verordening 165/2014</extref>/EU;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9b&amp;lid=2&amp;o=a&amp;o=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=3"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9b/Lid2/Onderdeela/Onderdeel4">
+            <li.nr>4°.</li.nr>
+            <al>het verrichten van een bilaterale vervoersactiviteit vanuit de lidstaat van vestiging, waarbij geen extra activiteit wordt verricht, gevolgd door een bilaterale vervoersactiviteit naar de lidstaat van vestiging, waarbij ten hoogste twee extra laad- en twee losactiviteiten worden verricht in de lidstaten of derde landen die worden doorkruist, mits de bestuurder de goederen niet laadt en lost in dezelfde lidstaat en gebruikmaakt van een voertuig waarin een slimme tachograaf is aangesloten als bedoeld in de artikelen 8 tot en met 10 van <extref doc="32014R0165" label="verordening" reeks="Celex">Verordening 165/2014</extref>/EU; of</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9b&amp;lid=2&amp;o=a&amp;o=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=4"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9b/Lid2/Onderdeela/Onderdeel5">
+            <li.nr>5°.</li.nr>
+            <al>het uitvoeren van het begin- of eindtraject van gecombineerd vervoer als bedoeld in <extref doc="31992L0106" label="richtlijn" reeks="Celex">Richtlijn 92/106/EEG</extref>, mits het wegtraject bestaat uit bilaterale vervoersactiviteiten als bedoeld in de subonderdelen 1° tot en met 4°;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9b&amp;lid=2&amp;o=a&amp;o=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=5"/></jcis></meta-data></li>
+        </lijst>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9b&amp;lid=2&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9b/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>bilaterale vervoersactiviteiten in het personenvervoer verricht, bestaande in:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9b/Lid2/Onderdeelb/Onderdeel1">
+            <li.nr>1°.</li.nr>
+            <al>het meenemen van passagiers vanuit de lidstaat van vestiging, bedoeld in onderdeel a, en het afzetten van deze passagiers in een andere lidstaat of derde land;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9b&amp;lid=2&amp;o=b&amp;o=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=1"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9b/Lid2/Onderdeelb/Onderdeel2">
+            <li.nr>2°.</li.nr>
+            <al>het meenemen van passagiers vanuit een lidstaat of derde land en het afzetten van deze passagiers in de lidstaat van vestiging;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9b&amp;lid=2&amp;o=b&amp;o=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=2"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9b/Lid2/Onderdeelb/Onderdeel3">
+            <li.nr>3°.</li.nr>
+            <al>het meenemen van passagiers en het afzetten van deze passagiers in de lidstaat van vestiging om plaatselijke excursies in een andere lidstaat of een derde land uit te voeren, overeenkomstig <extref doc="32009R1073" label="verordening" reeks="Celex">Verordening 1073/2009/EG</extref>; of</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9b&amp;lid=2&amp;o=b&amp;o=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=3"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9b/Lid2/Onderdeelb/Onderdeel4">
+            <li.nr>4°.</li.nr>
+            <al>het verrichten van een activiteit als bedoeld in subonderdeel 1° of 2°, of de terugrit van dit traject, naast het ten hoogste eenmaal laten instappen en eenmaal laten uitstappen van passagiers in de lidstaten of derde landen die worden doorkruist, mits de bestuurder geen personenvervoersdiensten tussen twee locaties binnen de doorkruiste lidstaat aanbiedt en gebruikmaakt van een voertuig waarin een slimme tachograaf is aangesloten als bedoeld in de artikelen 8 tot en met 10 van <extref doc="32014R0165" label="verordening" reeks="Celex">Verordening 165/2014</extref>/EU; of</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9b&amp;lid=2&amp;o=b&amp;o=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=4"/></jcis></meta-data></li>
+        </lijst>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9b&amp;lid=2&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9b/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>door Nederland heen rijdt zonder dat er vracht wordt geladen of gelost en zonder dat er passagiers in- of uitstappen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9b&amp;lid=2&amp;o=c&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9b&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-151"><publicatiejaar>2023</publicatiejaar><publicatienr>151</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-02-22">22-02-2023</ondertekeningsdatum><dossierref dossier="36166">36166</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-273"><publicatiejaar>2023</publicatiejaar><publicatienr>273</publicatienr><uitgiftedatum isodatum="2023-07-27">27-07-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-07-21">21-07-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-08-21">21-08-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=9b&amp;g=2024-01-01" onderdeel="artikel=9b" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=9b"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=9b" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=9b"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9c" stam-id="16743643" versie-id="29399192" id="C42913441" label-id="16659494" inwerking="2023-06-01" label="Artikel 9c" bron="Stb.2023-151" effect="nieuw" ondertekening_bron="2023-02-22" publicatie_bron="2023-05-10" publicatie_iwt="2023-05-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9c</nr>
+  </kop>
+  <al>Voor de toepassing van <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=2&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616734" verwijzing-id="3232232" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukII/Artikel2">artikel 2, tweede tot en met vierde lid</intref>, wordt de detachering van een gedetacheerde bestuurder geacht te zijn beëindigd wanneer hij bij het verrichten van het internationaal vervoer van goederen of personen Nederland verlaat. Deze detacheringsperiode wordt niet gecumuleerd met eerdere detacheringsperiodes in het kader van dergelijke internationale activiteiten van dezelfde bestuurder of van de bestuurder die hij vervangt.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-151"><publicatiejaar>2023</publicatiejaar><publicatienr>151</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-02-22">22-02-2023</ondertekeningsdatum><dossierref dossier="36166">36166</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-152"><publicatiejaar>2023</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-26">26-04-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-06-01">01-06-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=9c&amp;g=2024-01-01" onderdeel="artikel=9c" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=9c"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9c&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=9c" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=9c"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9d" stam-id="16743653" versie-id="29399202" id="C42913451" label-id="16659504" inwerking="2023-06-01" label="Artikel 9d" bron="Stb.2023-151" effect="nieuw" ondertekening_bron="2023-02-22" publicatie_bron="2023-05-10" publicatie_iwt="2023-05-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9d</nr>
+  </kop>
+  <al>In afwijking van <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=7&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616794" verwijzing-id="3232233" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIII/Artikel7">artikel 7</intref> wijst de dienstverrichter die een gedetacheerde bestuurder detacheert als contactpersoon de vervoersmanager of een andere persoon in de lidstaat van vestiging aan, die optreedt als tussenpersoon met de door Onze Minister aangewezen ambtenaren en met wie documenten of berichten worden uitgewisseld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-151"><publicatiejaar>2023</publicatiejaar><publicatienr>151</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-02-22">22-02-2023</ondertekeningsdatum><dossierref dossier="36166">36166</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-152"><publicatiejaar>2023</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-26">26-04-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-06-01">01-06-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=9d&amp;g=2024-01-01" onderdeel="artikel=9d" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=9d"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9d&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=9d" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=9d"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9e" stam-id="16743663" versie-id="29399212" id="C42913461" label-id="16659514" inwerking="2023-06-01" label="Artikel 9e" bron="Stb.2023-151" effect="nieuw" ondertekening_bron="2023-02-22" publicatie_bron="2023-05-10" publicatie_iwt="2023-05-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9e</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9e/Lid1" label-id="16659514L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>In afwijking van <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616804" verwijzing-id="3232234" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIII/Artikel8">artikel 8</intref> is de dienstverrichter, die een gedetacheerde bestuurder detacheert naar Nederland, verplicht om op een tijdstip voor aanvang van de werkzaamheden een detacheringsverklaring in te dienen bij Onze Minister via het IMI, met de volgende informatie:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9e/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de identiteit van de dienstverrichter;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9e&amp;lid=1&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9e/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de contactgegevens van de contactpersoon;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9e&amp;lid=1&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9e/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de identiteit, de verblijfplaats en het nummer van het rijbewijs van de gedetacheerde bestuurder;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9e&amp;lid=1&amp;o=c&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9e/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de aanvangsdatum van de arbeidsovereenkomst van de gedetacheerde bestuurder en het daarop toepasselijke recht;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9e&amp;lid=1&amp;o=d&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9e/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>de vermoedelijke duur van de detachering;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9e&amp;lid=1&amp;o=e&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9e/Lid1/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>de kentekenplaten van de motorvoertuigen; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9e&amp;lid=1&amp;o=f&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9e/Lid1/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>de aard van de verrichte vervoersdiensten.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9e&amp;lid=1&amp;o=g&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=g"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9e&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9e/Lid2" label-id="16659514L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De dienstverrichter houdt de detacheringsverklaringen actueel in het IMI.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9e&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-151"><publicatiejaar>2023</publicatiejaar><publicatienr>151</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-02-22">22-02-2023</ondertekeningsdatum><dossierref dossier="36166">36166</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-152"><publicatiejaar>2023</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-26">26-04-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-06-01">01-06-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=9e&amp;g=2024-01-01" onderdeel="artikel=9e" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=9e"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9e&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=9e" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=9e"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9f" stam-id="16743673" versie-id="29802942" id="C42913471" label-id="16659524" inwerking="2024-01-01" label="Artikel 9f" bron="Stb.2023-417" effect="wijziging" ondertekening_bron="2023-11-08" publicatie_bron="2023-11-21" publicatie_iwt="2023-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9f</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9f/Lid1" label-id="16659524L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>In afwijking van <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616814" verwijzing-id="3232248" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIII/Artikel9">artikel 9</intref> draagt de dienstverrichter, die een gedetacheerde bestuurder detacheert naar Nederland, er zorg voor dat deze bestuurder schriftelijk of elektronisch beschikbaar heeft en ter beschikking stelt wanneer daar bij een wegcontrole om wordt verzocht:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9f/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>een kopie van de detacheringsverklaring, bedoeld in <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9e&amp;z=2024-01-01&amp;g=2024-01-01" label-id="16659514" verwijzing-id="3232236" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9e">artikel 9e</intref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9f&amp;lid=1&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9f/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>bewijs van het vervoer dat plaatsvindt in Nederland, zoals een elektronische vrachtbrief of een bewijs als bedoeld in artikel 8, derde lid, van <extref doc="32009R1072" label="verordening" reeks="Celex">Verordening 1072/2009/EG</extref>; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9f&amp;lid=1&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9f/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de tachograafgegevens, met name de landsymbolen van de lidstaten waar de bestuurder zich bevond tijdens internationaal wegvervoer of cabotage, in overeenstemming met de registratievoorschriften in het kader van <extref doc="32006R0561" label="verordening" reeks="Celex">Verordening 561/2006/EG</extref> en <extref doc="32014R0165" label="verordening" reeks="Celex">Verordening 165/2014</extref>/EU.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9f&amp;lid=1&amp;o=c&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9f&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9f/Lid2" label-id="16659524L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Na de detacheringsperiode verstrekt de dienstverrichter, uiterlijk acht weken na een verzoek van de door Onze Minister aangewezen ambtenaren, via het IMI:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9f/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>kopieën van de in het eerste lid, onderdelen b en c, bedoelde documenten;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9f&amp;lid=2&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9f/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>documentatie in verband met de beloning van de bestuurder met betrekking tot de detacheringsperiode;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9f&amp;lid=2&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9f/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de arbeidsovereenkomst met de bestuurder of een gelijkwaardig document als bedoeld in <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616814" verwijzing-id="3274545" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIII/Artikel9">artikel 9, eerste lid, onderdeel b</intref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9f&amp;lid=2&amp;o=c&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9f/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>bescheiden waaruit blijkt hoeveel uren de bestuurder heeft gewerkt; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9f&amp;lid=2&amp;o=d&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9f/Lid2/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>een bewijs, waaruit blijkt welk loon aan de bestuurder is voldaan.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9f&amp;lid=2&amp;o=e&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9f&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-417"><publicatiejaar>2023</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2023-11-21">21-11-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-11-08">08-11-2023</ondertekeningsdatum><dossierref dossier="36415">36415</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-437"><publicatiejaar>2023</publicatiejaar><publicatienr>437</publicatienr><uitgiftedatum isodatum="2023-12-05">05-12-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-11-29">29-11-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=9f&amp;g=2024-01-01" onderdeel="artikel=9f" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=9f"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9f&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=9f" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=9f"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9g" stam-id="16743683" versie-id="29399232" id="C42913501" label-id="16659534" inwerking="2023-06-01" label="Artikel 9g" bron="Stb.2023-151" effect="nieuw" ondertekening_bron="2023-02-22" publicatie_bron="2023-05-10" publicatie_iwt="2023-05-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9g</nr>
+  </kop>
+  <al>In afwijking van <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616814" verwijzing-id="3232238" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIII/Artikel9">artikel 9</intref> draagt de dienstverrichter, die een bestuurder in Nederland arbeid in de wegvervoersector laat verrichten in de zin van onderdeel 1 van de begripsbepaling van transnationale dienstverrichting, zonder als gedetacheerde bestuurder te worden aangemerkt, er zorg voor dat de bestuurder schriftelijk of elektronisch beschikbaar heeft en ter beschikking stelt wanneer daar bij een wegcontrole om wordt verzocht:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9g/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>het bewijs van het betrokken internationaal vervoer, zoals een elektronische vrachtbrief of een bewijs als bedoeld in artikel 8, derde lid, van <extref doc="32009R1072" label="verordening" reeks="Celex">Verordening 1072/2009/EG</extref>; en</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9g&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9g/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>de tachograafgegevens, met name de landsymbolen van de lidstaten waar de bestuurder zich bevond tijdens internationaal wegvervoer of cabotage, in overeenstemming met de registratievoorschriften in het kader van <extref doc="32006R0561" label="verordening" reeks="Celex">Verordening 561/2006/EG</extref> en <extref doc="32014R0165" label="verordening" reeks="Celex">Verordening 165/2014</extref>/EU.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9g&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-151"><publicatiejaar>2023</publicatiejaar><publicatienr>151</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-02-22">22-02-2023</ondertekeningsdatum><dossierref dossier="36166">36166</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-152"><publicatiejaar>2023</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-26">26-04-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-06-01">01-06-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=9g&amp;g=2024-01-01" onderdeel="artikel=9g" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=9g"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9g&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=9g" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=9g"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9h" stam-id="16743693" versie-id="29399242" id="C42913491" label-id="16659544" inwerking="2023-06-01" label="Artikel 9h" bron="Stb.2023-151" effect="nieuw" ondertekening_bron="2023-02-22" publicatie_bron="2023-05-10" publicatie_iwt="2023-05-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9h</nr>
+  </kop>
+  <al>Voor de toepassing van dit hoofdstuk, van het bepaalde bij of krachtens de <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=II&amp;artikel=2&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616734" verwijzing-id="3232239" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukII/Artikel2">artikelen 2</intref>, <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=4&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616764" verwijzing-id="3232240" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIII/Artikel4">4</intref>, <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=6&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616784" verwijzing-id="3232241" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIII/Artikel6">6</intref>, <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=7&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616794" verwijzing-id="3232242" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIII/Artikel7">7</intref>, <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=12&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616854" verwijzing-id="3232243" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIV/Artikel12">12</intref> en <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=14&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616874" verwijzing-id="3232244" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIV/Artikel14">14</intref> van deze wet en van de <extref doc="jci1.3:c:BWBR0001987&amp;artikel=2a" label-id="1359824" verwijzing-id="3232245" bwb-id="BWBR0001987">artikelen 2a</extref> en <extref doc="jci1.3:c:BWBR0001987&amp;artikel=10a" label-id="1359914" verwijzing-id="3232246" bwb-id="BWBR0001987">10a van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten</extref>, wordt degene die vanuit het Verenigd Koninkrijk een gedetacheerde bestuurder ter beschikking stelt om tijdelijk arbeid te verrichten in Nederland, bestaande in het vervoer van goederen over de weg, aangemerkt als dienstverrichter.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-151"><publicatiejaar>2023</publicatiejaar><publicatienr>151</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-02-22">22-02-2023</ondertekeningsdatum><dossierref dossier="36166">36166</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-152"><publicatiejaar>2023</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-26">26-04-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-06-01">01-06-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=9h&amp;g=2024-01-01" onderdeel="artikel=9h" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=9h"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9h&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=9h" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=9h"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9i" stam-id="16743703" versie-id="29399252" id="C42913511" label-id="16659554" inwerking="2023-06-01" label="Artikel 9i" bron="Stb.2023-151" effect="nieuw" ondertekening_bron="2023-02-22" publicatie_bron="2023-05-10" publicatie_iwt="2023-05-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9i</nr>
+  </kop>
+  <al>In een derde land gevestigde vervoersondernemingen mogen geen gunstiger behandeling krijgen dan gelijksoortige in een lidstaat gevestigde ondernemingen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-151"><publicatiejaar>2023</publicatiejaar><publicatienr>151</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-02-22">22-02-2023</ondertekeningsdatum><dossierref dossier="36166">36166</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-152"><publicatiejaar>2023</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-26">26-04-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-06-01">01-06-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=9i&amp;g=2024-01-01" onderdeel="artikel=9i" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=9i"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9i&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=9i" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=9i"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-151"><publicatiejaar>2023</publicatiejaar><publicatienr>151</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-02-22">22-02-2023</ondertekeningsdatum><dossierref dossier="36166">36166</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-152"><publicatiejaar>2023</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-26">26-04-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-06-01">01-06-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;g=2024-01-01" onderdeel="hoofdstuk=IIIa" korte-verwijzing="1.0:c:BWBR0038054&amp;hoofdstuk=IIIa"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="hoofdstuk=IIIa" korte-verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukIV" stam-id="13650323" versie-id="23367782" id="C33684681" label-id="13616904" inwerking="2016-06-18" label="Hoofdstuk IV" bron="Stb.2016-219" effect="nieuwe-regeling" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2016-06-17" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">IV</nr>
+    <titel status="officieel">Wederzijdse bijstand bij handhaving en bestuurlijke handhaving</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel10" stam-id="13650253" versie-id="29399312" id="C42008161" label-id="13616834" inwerking="2023-06-01" label="Artikel 10" bron="Stb.2023-151" effect="wijziging" ondertekening_bron="2023-02-22" publicatie_bron="2023-05-10" publicatie_iwt="2023-05-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel10/Lid1" label-id="13616834L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Bij besluit van Onze Minister aangewezen ambtenaren zijn bevoegd voor de wederzijdse bijstand, bedoeld in Hoofdstuk VI van de handhavingsrichtlijn, voor de wederzijdse bijstand, bedoeld in artikel 1, elfde lid, van de mobiliteitsrichtlijn en voor de wederzijdse bijstand, bedoeld in artikel 6 van bijlage 31, deel A, afdeling 2, behorende bij artikel 463, vierde lid, van de Handels- en samenwerkingsovereenkomst EU-VK.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=10&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel10/Lid2" label-id="13616834L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Op verzoek van de bevoegde instantie zijn de aangewezen ambtenaren, bedoeld in het eerste lid, verplicht:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Artikel10/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>tot invordering van een onherroepelijke administratieve sanctie of boete, opgelegd in een andere lidstaat;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=10&amp;lid=2&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Artikel10/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>tot kennisgeving van de beslissing tot oplegging van een administratieve sanctie of boete, opgelegd in een andere lidstaat.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=10&amp;lid=2&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=10&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel10/Lid3" label-id="13616834L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De administratieve sanctie of boete, bedoeld in het tweede lid, onderdeel a, kan worden ingevorderd bij dwangbevel.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=10&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel10/Lid4" label-id="13616834L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>
+      <extref doc="jci1.3:c:BWBR0005537&amp;titeldeel=4.4" label-id="10067154" verwijzing-id="2768721" bwb-id="BWBR0005537">Titel 4.4. van de Algemene wet bestuursrecht</extref> is van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=10&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel10/Lid5" label-id="13616834L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de vorm en de inhoud van het verzoek, bedoeld in het tweede lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=10&amp;lid=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel10/Lid6" label-id="13616834L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de gronden voor afwijzing van het verzoek, bedoeld in het tweede lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=10&amp;lid=6&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-151"><publicatiejaar>2023</publicatiejaar><publicatienr>151</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-02-22">22-02-2023</ondertekeningsdatum><dossierref dossier="36166">36166</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-152"><publicatiejaar>2023</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-26">26-04-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-06-01">01-06-2023</inwerkingtreding.datum></inwerkingtreding></brondata><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-151"><publicatiejaar>2023</publicatiejaar><publicatienr>151</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-02-22">22-02-2023</ondertekeningsdatum><dossierref dossier="36166">36166</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-152"><publicatiejaar>2023</publicatiejaar><publicatienr>152</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-26">26-04-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-06-01">01-06-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=10&amp;g=2024-01-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=10&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=10"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel11" stam-id="13650263" versie-id="23367722" id="C36417881" label-id="13616844" inwerking="2016-06-18" label="Artikel 11" bron="Stb.2016-219" effect="nieuwe-regeling" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2016-06-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+  </kop>
+  <al>De bedragen van de ingevorderde administratieve sancties of boetes, bedoeld in <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=10&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616834" verwijzing-id="2768745" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIV/Artikel10">artikel 10</intref>, komen toe aan het Rijk.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-220"><publicatiejaar>2016</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-08">08-06-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-18">18-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=11&amp;g=2024-01-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=11&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=11"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel12" stam-id="13650273" versie-id="29802952" id="C42717391" label-id="13616854" inwerking="2024-01-01" label="Artikel 12" bron="Stb.2023-417" effect="wijziging" ondertekening_bron="2023-11-08" publicatie_bron="2023-11-21" publicatie_iwt="2023-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">12</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel12/Lid1" label-id="13616854L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister kan een bestuurlijke boete opleggen voor de overtredingen, bedoeld in het tweede lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=12&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel12/Lid2" label-id="13616854L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Als overtreding wordt aangemerkt:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Artikel12/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het door een dienstverrichter of een zelfstandige, bedoeld in <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616804" verwijzing-id="2982456" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIII/Artikel8">artikel 8, zesde lid</intref>, niet of onvoldoende nakomen van de informatieverplichting, bedoeld in <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=6&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616784" verwijzing-id="2768740" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIII/Artikel6">artikel 6, eerste lid of tweede lid</intref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=12&amp;lid=2&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Artikel12/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>het door de dienstverrichter, de dienstontvanger of de zelfstandige, bedoeld in <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616804" verwijzing-id="2982454" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIII/Artikel8">artikel 8, zesde lid</intref>, niet of onvoldoende nakomen van de administratieve eisen en controlemaatregelen, bedoeld in artikel 8, eerste, derde, zesde of negende lid;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=12&amp;lid=2&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Artikel12/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>het door de dienstverrichter of de zelfstandige, bedoeld in <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616804" verwijzing-id="2982455" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIII/Artikel8">artikel 8, zesde lid</intref>, niet of onvoldoende nakomen van de administratieve eisen, bedoeld in <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=9&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616814" verwijzing-id="2768743" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIII/Artikel9">artikel 9, eerste, tweede of derde lid</intref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=12&amp;lid=2&amp;o=c&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Artikel12/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>het door de dienstverrichter niet of onvoldoende nakomen van de administratieve eisen en controlemaatregelen, bedoeld in <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9e&amp;z=2024-01-01&amp;g=2024-01-01" label-id="16659514" verwijzing-id="3232249" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9e">artikel 9e, eerste of tweede lid</intref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=12&amp;lid=2&amp;o=d&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Artikel12/Lid2/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>het door de dienstverrichter niet of onvoldoende nakomen van de administratieve eisen en controlemaatregelen, bedoeld in <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9f&amp;z=2024-01-01&amp;g=2024-01-01" label-id="16659524" verwijzing-id="3232250" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9f">artikel 9f, eerste en tweede lid</intref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=12&amp;lid=2&amp;o=e&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Artikel12/Lid2/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>het door de dienstverrichter niet of onvoldoende nakomen van de administratieve eisen en controlemaatregelen, bedoeld in <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=IIIa&amp;artikel=9g&amp;z=2024-01-01&amp;g=2024-01-01" label-id="16659534" verwijzing-id="3232251" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIIIa/Artikel9g">artikel 9g</intref>.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=12&amp;lid=2&amp;o=f&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=12&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel12/Lid3" label-id="13616854L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Indien de dienstverrichter een overtreding begaat als bedoeld in het tweede lid, onder d of e, wordt de verzender, expediteur, contractant of subcontractant geacht dezelfde overtreding te hebben begaan wanneer hij wist of, rekening houdend met alle relevante omstandigheden, had moeten weten dat de vervoersdienst waartoe hij opdracht gaf, een inbreuk zou inhouden op deze bepalingen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=12&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-417"><publicatiejaar>2023</publicatiejaar><publicatienr>417</publicatienr><uitgiftedatum isodatum="2023-11-21">21-11-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-11-08">08-11-2023</ondertekeningsdatum><dossierref dossier="36415">36415</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-437"><publicatiejaar>2023</publicatiejaar><publicatienr>437</publicatienr><uitgiftedatum isodatum="2023-12-05">05-12-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-11-29">29-11-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=12&amp;g=2024-01-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=12&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=12"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel13" stam-id="13650283" versie-id="23367742" id="C36417931" label-id="13616864" inwerking="2016-06-18" label="Artikel 13" bron="Stb.2016-219" effect="nieuwe-regeling" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2016-06-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel13/Lid1" label-id="13616864L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onverminderd <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:48" label-id="10067564" verwijzing-id="2768722" bwb-id="BWBR0005537">artikel 5:48, tweede lid, van de Algemene wet bestuursrecht</extref> vermeldt het rapport in ieder geval de bij de overtreding betrokken persoon of personen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=13&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel13/Lid2" label-id="13616864L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het rapport wordt toegezonden aan de daartoe door Onze Minister aangewezen ambtenaar.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=13&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-220"><publicatiejaar>2016</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-08">08-06-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-18">18-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=13&amp;g=2024-01-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=13&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=13"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel14" stam-id="13650293" versie-id="23367752" id="C36417941" label-id="13616874" inwerking="2016-06-18" label="Artikel 14" bron="Stb.2016-219" effect="nieuwe-regeling" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2016-06-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">14</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel14/Lid1" label-id="13616874L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een daartoe door Onze Minister aangewezen, onder hem ressorterende, ambtenaar legt namens hem de bestuurlijke boete op aan degene op wie de verplichtingen rusten die voortvloeien uit deze wet, voor zover het niet naleven daarvan is aangeduid als een overtreding.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=14&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel14/Lid2" label-id="13616874L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De terzake van deze wet gestelde overtredingen, gelden ten opzichte van elke persoon, met of ten aanzien van wie een overtreding is begaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=14&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-220"><publicatiejaar>2016</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-08">08-06-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-18">18-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=14&amp;g=2024-01-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=14&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=14"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel15" stam-id="13650303" versie-id="23367762" id="C36417951" label-id="13616884" inwerking="2016-06-18" label="Artikel 15" bron="Stb.2016-219" effect="nieuwe-regeling" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2016-06-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel15/Lid1" label-id="13616884L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De bestuurlijke boete die voor een overtreding kan worden opgelegd bedraagt ten hoogste het bedrag van de vierde categorie, bedoeld in <extref doc="jci1.3:c:BWBR0001854&amp;artikel=23" label-id="2962974" verwijzing-id="2768723" bwb-id="BWBR0001854">artikel 23, vierde lid, van het Wetboek van Strafrecht</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=15&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel15/Lid2" label-id="13616884L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onverminderd het eerste lid verhoogt de op grond van <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=14&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616874" verwijzing-id="2768728" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIV/Artikel14">artikel 14</intref> aangewezen ambtenaar de op te leggen bestuurlijke boete met 100 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting, is geconstateerd en de bestuurlijke boete wegens de eerdere overtreding onherroepelijk is geworden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=15&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel15/Lid3" label-id="13616884L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De verhoging van de bestuurlijke boete, bedoeld in het tweede lid, bedraagt 200 procent indien zowel de overtreding als de eerdere overtreding, bedoeld in dat lid, bij of krachtens algemene maatregel van bestuur zijn aangewezen als ernstige overtredingen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=15&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel15/Lid4" label-id="13616884L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Onverminderd het eerste lid verhoogt de op grond van <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=14&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616874" verwijzing-id="2768729" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIV/Artikel14">artikel 14</intref> aangewezen ambtenaar de op te leggen bestuurlijke boete met 200 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding twee maal een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden op grond van deze wet of andere wetten, is geconstateerd en de bestuurlijke boeten wegens de eerdere overtredingen onherroepelijk zijn geworden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=15&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel15/Lid5" label-id="13616884L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>In afwijking van het tweede en vierde lid is het tijdvak van vijf jaar in die leden tien jaar indien de onherroepelijke boetes, bedoeld in die leden, zijn opgelegd wegens bij of krachtens algemene maatregel van bestuur aangewezen ernstige overtredingen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=15&amp;lid=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel15/Lid6" label-id="13616884L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Onze Minister stelt beleidsregels vast waarin de boetebedragen voor de overtredingen worden vastgesteld. <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:53" label-id="10067614" verwijzing-id="2768724" bwb-id="BWBR0005537">Artikel 5:53 van de Algemene wet bestuursrecht</extref> is van toepassing indien een artikel gesteld bij of krachtens deze wet op grond waarvan een bestuurlijke boete kan worden opgelegd, niet is nageleefd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=15&amp;lid=6&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel15/Lid7" label-id="13616884L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>In afwijking van <extref doc="jci1.3:c:BWBR0005537&amp;artikel=8:69" label-id="2816384" verwijzing-id="2768725" bwb-id="BWBR0005537">artikel 8:69 van de Algemene wet bestuursrecht</extref> kan de rechter in beroep of hoger beroep de hoogte van de bestuurlijke boete ook ten nadele van de belanghebbende wijzigen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=15&amp;lid=7&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-220"><publicatiejaar>2016</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-08">08-06-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-18">18-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=15&amp;g=2024-01-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=15&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=15"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel16" stam-id="13650313" versie-id="23367772" id="C36417961" label-id="13616894" inwerking="2016-06-18" label="Artikel 16" bron="Stb.2016-219" effect="nieuwe-regeling" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2016-06-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">16</nr>
+  </kop>
+  <al>Indien een bestuurlijke boete ten onrechte is opgelegd, wordt deze binnen zes weken nadat is vastgesteld dat de bestuurlijke boete ten onrechte is opgelegd, aan de rechthebbende terugbetaald.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-220"><publicatiejaar>2016</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-08">08-06-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-18">18-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=16&amp;g=2024-01-01" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;artikel=16&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=16"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-220"><publicatiejaar>2016</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-08">08-06-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-18">18-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;hoofdstuk=IV&amp;g=2024-01-01" onderdeel="hoofdstuk=IV" korte-verwijzing="1.0:c:BWBR0038054&amp;hoofdstuk=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="hoofdstuk=IV" korte-verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=IV"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukV" stam-id="13650363" versie-id="23367822" id="C33684721" label-id="13616944" inwerking="2016-06-18" label="Hoofdstuk V" bron="Stb.2016-219" effect="nieuwe-regeling" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2016-06-17" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">V</nr>
+    <titel status="officieel">Wijziging van andere wetten</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukV/Artikel17" stam-id="13650333" versie-id="23377692" id="C37634251" label-id="13616914" inwerking="2020-03-01" label="Artikel 17" bron="Stb.2016-219" effect="wijziging" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2020-02-14" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">17</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-57"><publicatiejaar>2020</publicatiejaar><publicatienr>57</publicatienr><uitgiftedatum isodatum="2020-02-14">14-02-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-02-08">08-02-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-03-01">01-03-2020</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Onderdeel B, voor zover het betreft artikel 10a, eerste en tweede lid.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=17&amp;g=2024-01-01" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=V&amp;artikel=17&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=17"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV/Artikel18" stam-id="13650343" versie-id="23367802" id="C33684701" label-id="13616924" inwerking="2016-06-18" label="Artikel 18" bron="Stb.2016-219" effect="nieuwe-regeling" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2016-06-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">18</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt het Wetboek van Burgerlijke Rechtsvordering.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-220"><publicatiejaar>2016</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-08">08-06-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-18">18-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=18&amp;g=2024-01-01" onderdeel="artikel=18" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=18"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=V&amp;artikel=18&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=18" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=18"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV/Artikel18a" stam-id="13650353" versie-id="23367812" id="C33684711" label-id="13616934" inwerking="2016-07-01" label="Artikel 18a" bron="Stb.2016-219" effect="nieuwe-regeling" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2016-06-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">18a</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt het Burgerlijk Wetboek Boek 7.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-220"><publicatiejaar>2016</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-08">08-06-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-07-01">01-07-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=18a&amp;g=2024-01-01" onderdeel="artikel=18a" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=18a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=V&amp;artikel=18a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=18a" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=18a"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-220"><publicatiejaar>2016</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-08">08-06-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-18">18-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;hoofdstuk=V&amp;g=2024-01-01" onderdeel="hoofdstuk=V" korte-verwijzing="1.0:c:BWBR0038054&amp;hoofdstuk=V"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=V&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="hoofdstuk=V" korte-verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=V"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukVI" stam-id="13650413" versie-id="23367872" id="C33684771" label-id="13616994" inwerking="2016-06-18" label="Hoofdstuk VI" bron="Stb.2016-219" effect="nieuwe-regeling" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2016-06-17" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">VI</nr>
+    <titel status="officieel">Slotbepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukVI/Artikel19" stam-id="13650373" versie-id="23367832" id="C36417991" label-id="13616954" inwerking="2016-06-18" label="Artikel 19" bron="Stb.2016-219" effect="nieuwe-regeling" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2016-06-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">19</nr>
+  </kop>
+  <al>Onze Minister zendt binnen twee jaar na inwerkingtreding van <intref doc="jci1.3:c:BWBR0038054&amp;hoofdstuk=III&amp;artikel=8&amp;z=2024-01-01&amp;g=2024-01-01" label-id="13616804" verwijzing-id="2768736" bwb-id="BWBR0038054" bwb-ng-variabel-deel="/HoofdstukIII/Artikel8">artikel 8</intref> aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit artikel in de praktijk.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-220"><publicatiejaar>2016</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-08">08-06-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-18">18-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=19&amp;g=2024-01-01" onderdeel="artikel=19" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=19"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=VI&amp;artikel=19&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=19" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=19"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVI/Artikel20" stam-id="13650383" versie-id="23367842" id="C36418001" label-id="13616964" inwerking="2016-06-18" label="Artikel 20" bron="Stb.2016-219" effect="nieuwe-regeling" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2016-06-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">20</nr>
+  </kop>
+  <al>De <extref doc="jci1.3:c:BWBR0010925" label-id="1148044" verwijzing-id="2768726" bwb-id="BWBR0010925">Wet arbeidsvoorwaarden grensoverschrijdende arbeid</extref> wordt ingetrokken.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-220"><publicatiejaar>2016</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-08">08-06-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-18">18-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=20&amp;g=2024-01-01" onderdeel="artikel=20" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=20"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=VI&amp;artikel=20&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=20" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=20"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVI/Artikel21" stam-id="13650393" versie-id="23367852" id="C36418011" label-id="13616974" inwerking="2016-06-18" label="Artikel 21" bron="Stb.2016-219" effect="nieuwe-regeling" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2016-06-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">21</nr>
+  </kop>
+  <al>De artikelen van deze wet treden in werking op bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit wordt zo nodig toepassing gegeven aan <extref doc="jci1.3:c:BWBR0036443&amp;artikel=12" label-id="13086544" verwijzing-id="2768727" bwb-id="BWBR0036443">artikel 12, eerste lid, van de Wet raadgevend referendum</extref>.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-220"><publicatiejaar>2016</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-08">08-06-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-18">18-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=21&amp;g=2024-01-01" onderdeel="artikel=21" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=21"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=VI&amp;artikel=21&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=21" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=21"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVI/Artikel22" stam-id="13650403" versie-id="23367862" id="C36418021" label-id="13616984" inwerking="2016-06-18" label="Artikel 22" bron="Stb.2016-219" effect="nieuwe-regeling" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2016-06-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">22</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-220"><publicatiejaar>2016</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-08">08-06-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-18">18-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;artikel=22&amp;g=2024-01-01" onderdeel="artikel=22" korte-verwijzing="1.0:c:BWBR0038054&amp;artikel=22"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=VI&amp;artikel=22&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=22" korte-verwijzing="jci1.3:c:BWBR0038054&amp;artikel=22"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-220"><publicatiejaar>2016</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-08">08-06-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-18">18-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;hoofdstuk=VI&amp;g=2024-01-01" onderdeel="hoofdstuk=VI" korte-verwijzing="1.0:c:BWBR0038054&amp;hoofdstuk=VI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=VI&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="hoofdstuk=VI" korte-verwijzing="jci1.3:c:BWBR0038054&amp;hoofdstuk=VI"/></jcis></meta-data></hoofdstuk>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="13650423" versie-id="23367882" id="C33684781" label-id="13617004" inwerking="2016-06-18" bron="Stb.2016-219" effect="nieuwe-regeling" ondertekening_bron="2016-06-01" publicatie_bron="2016-06-17" publicatie_iwt="2016-06-17" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>Wassenaar</plaats>
+      <datum isodatum="2016-06-01">1 juni 2016</datum>
+    </dagtekening>
+    <koning>Willem-Alexander</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Sociale Zaken en Werkgelegenheid, </functie>
+    <naam>
+      <voornaam>L.F.</voornaam>
+      <achternaam>Asscher</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2016-06-17">de <nadruk type="cur">zeventiende</nadruk> juni 2016</datum>
+    <ondertekening>
+      <functie>De Minister van Veiligheid en Justitie, </functie>
+      <naam>
+        <voornaam>G.A. van der</voornaam>
+        <achternaam>Steur</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-219"><publicatiejaar>2016</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-01">01-06-2016</ondertekeningsdatum><dossierref dossier="34408">34408</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-220"><publicatiejaar>2016</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2016-06-17">17-06-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-06-08">08-06-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-18">18-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2023-151"><publicatiejaar>2023</publicatiejaar><publicatienr>151</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-02-22">22-02-2023</ondertekeningsdatum><dossierref dossier="36166">36166</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2023-151"><publicatiejaar>2023</publicatiejaar><publicatienr>151</publicatienr><uitgiftedatum isodatum="2023-05-10">10-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-02-22">22-02-2023</ondertekeningsdatum><dossierref dossier="36166">36166</dossierref></publicatie><inwerkingtreding.datum isodatum="2023-02-22">22-02-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0038054&amp;g=2024-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0038054"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0038054&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0038054"/></jcis></meta-data></wetgeving></toestand>

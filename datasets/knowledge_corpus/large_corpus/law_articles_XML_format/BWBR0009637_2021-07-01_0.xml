@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0009637/2021-07-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0009637" inwerkingtreding="2021-07-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="804293" versie-id="1165492" id="C1165491" label-id="779024" inwerkingtredingsdatum="1998-06-12">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="804333" versie-id="1165272" id="C1165271" label-id="778824" inwerking="1998-06-12" bron="Stb.1998-325" effect="nieuwe-regeling" ondertekening_bron="1998-05-25" publicatie_bron="1998-06-11" publicatie_iwt="1998-06-11" status="goed"> Wet van 25 mei 1998, houdende regels over tegemoetkoming in de schade en de kosten in geval van overstromingen door zoet water, aardbevingen of andere rampen en zware ongevallen (Wet tegemoetkoming schade bij rampen en zware ongevallen)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-325"><publicatiejaar>1998</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="1998-06-11">11-06-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-05-25">25-05-1998</ondertekeningsdatum><dossierref dossier="25159">25159</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-325"><publicatiejaar>1998</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="1998-06-11">11-06-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-05-25">25-05-1998</ondertekeningsdatum><dossierref dossier="25159">25159</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-06-12">12-06-1998</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="804343" versie-id="17257542" id="C24218081" label-id="778844" inwerking="2010-10-01" bron="Stb.2010-146" effect="wijziging" ondertekening_bron="2010-03-11" publicatie_bron="2010-04-01" publicatie_iwt="2010-07-01">Wet tegemoetkoming schade bij rampen<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2010-146"><publicatiejaar>2010</publicatiejaar><publicatienr>146</publicatienr><uitgiftedatum isodatum="2010-04-01">01-04-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-03-11">11-03-2010</ondertekeningsdatum><dossierref dossier="31968">31968</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2010-252"><publicatiejaar>2010</publicatiejaar><publicatienr>252</publicatienr><uitgiftedatum isodatum="2010-07-01">01-07-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-06-24">24-06-2010</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2010-10-01">01-10-2010</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="804353" versie-id="1165292" id="C1165291" label-id="778854" inwerking="1998-06-12" bron="Stb.1998-325" effect="nieuwe-regeling" ondertekening_bron="1998-05-25" publicatie_bron="1998-06-11" publicatie_iwt="1998-06-11" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz. </wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten: </considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is regels te stellen inzake een tegemoetkoming door het Rijk aan gedupeerden in de schade en de kosten in geval van een overstroming door zoet water, een aardbeving dan wel een andere ramp of een ander zwaar ongeval;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-325"><publicatiejaar>1998</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="1998-06-11">11-06-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-05-25">25-05-1998</ondertekeningsdatum><dossierref dossier="25159">25159</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-325"><publicatiejaar>1998</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="1998-06-11">11-06-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-05-25">25-05-1998</ondertekeningsdatum><dossierref dossier="25159">25159</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-06-12">12-06-1998</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="804363" versie-id="22712022" id="C33095691" label-id="778864" inwerking="2016-01-01" label="Artikel 1" bron="Stb.2015-345" effect="wijziging" ondertekening_bron="2015-09-23" publicatie_bron="2015-10-08" publicatie_iwt="2015-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder: </al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>Onze Minister: Onze Minister van Binnenlandse Zaken; </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=1&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>overstroming door zoet water: een overstroming die een ramp is als bedoeld in <extref doc="jci1.3:c:BWBR0027466&amp;artikel=1" label-id="10461984" verwijzing-id="2342056" bwb-id="BWBR0027466">artikel 1 van de Wet veiligheidsregio’s</extref> en die inhoudt: </al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li bwb-ng-variabel-deel="/Artikel1/Onderdeelb/Onderdeel1">
+          <li.nr>1°.</li.nr>
+          <al>hoge waterstanden, veroorzaakt door een rivierafvoer met een gemiddelde kans van voorkomen van minder dan 1/50 per jaar, voor zover het gaat om het gedeelte van de Maas waar geen gereglementeerde waterkeringen aanwezig zijn, </al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=1&amp;o=b&amp;o=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=1"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/Artikel1/Onderdeelb/Onderdeel2">
+          <li.nr>2°.</li.nr>
+          <al>het buiten de oevers treden van andere wateren binnen Nederland waar geen primaire of anderszins gereglementeerde waterkeringen aanwezig zijn, of </al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=1&amp;o=b&amp;o=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=2"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/Artikel1/Onderdeelb/Onderdeel3">
+          <li.nr>3°.</li.nr>
+          <al>het overlopen of bezwijken van primaire waterkeringen, dan wel het overlopen of bezwijken van anderszins gereglementeerde waterkeringen die binnen een door primaire waterkeringen beschermd gebied liggen, met dien verstande dat het overlopen of bezwijken van primaire waterkeringen langs de Noordzee, de Waddenzee en de Westerschelde tot de stormvloedkeringen in de Nieuwe Waterweg en de Oosterschelde, met inbegrip van deze stormvloedkeringen, en als direct gevolg daarvan het overlopen of bezwijken van andere primaire waterkeringen, niet wordt aangemerkt als overstroming door zoet water; </al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=1&amp;o=b&amp;o=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=3"/></jcis></meta-data></li>
+      </lijst>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=1&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>aardbeving: een ramp als bedoeld in <extref doc="jci1.3:c:BWBR0027466&amp;artikel=1" label-id="10461984" verwijzing-id="2342057" bwb-id="BWBR0027466">artikel 1 van de Wet veiligheidsregio’s</extref> die wordt veroorzaakt door een trilling aan het aardoppervlak als gevolg van een plotselinge beweging in de aardkorst, met een magnitude van minimaal 4,5 op de schaal van Richter, gemeten door Onze Minister van Infrastructuur en Milieu; </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=1&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>schadegebied: het bij ministeriële regeling vastgestelde, in Nederland gelegen gebied waarin een overstroming door zoet water, een aardbeving dan wel een ramp waarop deze wet ingevolge <intref doc="jci1.3:c:BWBR0009637&amp;artikel=3&amp;z=2021-07-01&amp;g=2021-07-01" label-id="778884" verwijzing-id="1626851" bwb-id="BWBR0009637" bwb-ng-variabel-deel="/Artikel3">artikel 3</intref> van toepassing is verklaard, heeft plaatsgevonden en waarin als gevolg daarvan schade is geleden dan wel kosten zijn gemaakt als bedoeld in <intref doc="jci1.3:c:BWBR0009637&amp;artikel=4&amp;z=2021-07-01&amp;g=2021-07-01" label-id="778894" verwijzing-id="1626852" bwb-id="BWBR0009637" bwb-ng-variabel-deel="/Artikel4">artikel 4, eerste of tweede lid</intref>; </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=1&amp;o=d&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeele">
+      <li.nr>e.</li.nr>
+      <al>gedupeerde: degene die schade heeft geleden dan wel kosten heeft gemaakt als bedoeld in <intref doc="jci1.3:c:BWBR0009637&amp;artikel=4&amp;z=2021-07-01&amp;g=2021-07-01" label-id="778894" verwijzing-id="1626853" bwb-id="BWBR0009637" bwb-ng-variabel-deel="/Artikel4">artikel 4, eerste of tweede lid</intref>. </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=1&amp;o=e&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=e"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2015-345"><publicatiejaar>2015</publicatiejaar><publicatienr>345</publicatienr><uitgiftedatum isodatum="2015-10-08">08-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-09-23">23-09-2015</ondertekeningsdatum><dossierref dossier="33802">33802</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2015-526"><publicatiejaar>2015</publicatiejaar><publicatienr>526</publicatienr><uitgiftedatum isodatum="2015-12-22">22-12-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-10">10-12-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-01-01">01-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009637&amp;artikel=1&amp;g=2021-07-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0009637&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0009637&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="b1-2" stam-id="804373" versie-id="11984462" id="C25169731" label-id="778874" inwerking="2005-09-28" label="Artikel 2" bron="Stb.2005-275" effect="wijziging" ondertekening_bron="2005-04-28" publicatie_bron="2005-06-16" publicatie_iwt="2005-09-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <al>In de periode dat de in het Deltaplan grote rivieren bedoelde werkzaamheden ter bescherming tegen hoogwater langs de Maas nog niet volledig ten uitvoer zijn gelegd wordt, in afwijking van het bepaalde in <intref verwijzing-id="1626854" doc="jci1.3:c:BWBR0009637&amp;artikel=1&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0009637" label-id="778864" bwb-ng-variabel-deel="/Artikel1">artikel 1, onder b, onderdeel 1°</intref>, onder hoge waterstanden verstaan: hoge waterstanden, veroorzaakt door een rivierafvoer met een gemiddelde kans van voorkomen van minder dan 1/10 per jaar, voor zover het gaat om het gedeelte van de Maas waar geen gereglementeerde waterkeringen aanwezig zijn.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-275"><publicatiejaar>2005</publicatiejaar><publicatienr>275</publicatienr><uitgiftedatum isodatum="2005-06-16">16-06-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-04-28">28-04-2005</ondertekeningsdatum><dossierref dossier="29747">29747</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-461"><publicatiejaar>2005</publicatiejaar><publicatienr>461</publicatienr><uitgiftedatum isodatum="2005-09-27">27-09-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-07-16">16-07-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-09-28">28-09-2005</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009637&amp;artikel=2&amp;g=2021-07-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0009637&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0009637&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="b1-3" stam-id="804383" versie-id="17257502" id="C25169741" label-id="778884" inwerking="2010-10-01" label="Artikel 3" bron="Stb.2010-146" effect="wijziging" ondertekening_bron="2010-03-11" publicatie_bron="2010-04-01" publicatie_iwt="2010-07-01" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <al>Bij koninklijk besluit kan deze wet van toepassing worden verklaard in geval van een ramp als bedoeld in <extref doc="jci1.3:c:BWBR0027466&amp;artikel=1" verwijzing-id="2342058" bwb-id="BWBR0027466" label-id="10461984">artikel 1 van de Wet veiligheidsregio’s</extref>, die van ten minste vergelijkbare orde is als een overstroming door zoet water of een aardbeving. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2010-146"><publicatiejaar>2010</publicatiejaar><publicatienr>146</publicatienr><uitgiftedatum isodatum="2010-04-01">01-04-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-03-11">11-03-2010</ondertekeningsdatum><dossierref dossier="31968">31968</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2010-252"><publicatiejaar>2010</publicatiejaar><publicatienr>252</publicatienr><uitgiftedatum isodatum="2010-07-01">01-07-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-06-24">24-06-2010</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2010-10-01">01-10-2010</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009637&amp;artikel=3&amp;g=2021-07-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0009637&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0009637&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="b1-4" stam-id="804393" versie-id="17257512" id="C25169751" label-id="778894" inwerking="2010-10-01" label="Artikel 4" bron="Stb.2010-146" effect="wijziging" ondertekening_bron="2010-03-11" publicatie_bron="2010-04-01" publicatie_iwt="2010-07-01" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="778894L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een gedupeerde heeft recht op een tegemoetkoming in de hierna te noemen categorieën van schaden, voor zover de schade die hij heeft geleden, is ontstaan in het schadegebied en het rechtstreeks en onmiddellijk gevolg is van een overstroming door zoet water, een aardbeving dan wel een ramp waarop deze wet ingevolge <intref verwijzing-id="1626855" doc="jci1.3:c:BWBR0009637&amp;artikel=3&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0009637" label-id="778884" bwb-ng-variabel-deel="/Artikel3">artikel 3</intref> van toepassing is verklaard, alsmede in de hierna te noemen categorieën van kosten die daarmee verband houden: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel4/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de schade aan de woning, de woonwagen of het woonschip; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4&amp;lid=1&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de schade aan de inboedel, bedoeld in <extref doc="jci1.3:c:BWBR0005291&amp;artikel=5" verwijzing-id="234274" bwb-id="BWBR0005291" label-id="2898554">artikel 5 van Boek 3 van het Burgerlijk Wetboek</extref>; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4&amp;lid=1&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de schade aan de openbare infrastructurele voorzieningen; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4&amp;lid=1&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de schade aan de vaste en de vlottende activa; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4&amp;lid=1&amp;o=d&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>de teeltplanschade, waaronder wordt verstaan het financieel verlies dat is geleden door een mindere opbrengst dan redelijkerwijs mocht worden verwacht gedurende een bij ministeriële regeling te bepalen schadetermijn als gevolg van verlies of beschadiging van gewassen, waardoor een vermindering in kwantiteit of kwaliteit is ontstaan of als gevolg van het niet of niet tijdig kunnen uitvoeren van de voorgenomen teelt van gewassen; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4&amp;lid=1&amp;o=e&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid1/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>de bedrijfsschade, waaronder wordt verstaan het financieel verlies dat is geleden door een mindere opbrengst dan redelijkerwijs mocht worden verwacht gedurende een bij ministeriële regeling te bepalen schadetermijn als gevolg van verlies of fysieke beschadiging van dieren, waardoor een vermindering in kwantiteit of kwaliteit is ontstaan of als gevolg van het niet of niet tijdig kunnen uitvoeren van de voorgenomen productiecyclus; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4&amp;lid=1&amp;o=f&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid1/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>de opstartkosten, waaronder worden verstaan de kosten die zijn gemaakt in verband met het opnieuw starten van het productieproces in een installatie; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4&amp;lid=1&amp;o=g&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=g"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid1/Onderdeelh">
+        <li.nr>h.</li.nr>
+        <al>de evacuatiekosten per risico-adres, waaronder worden verstaan: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li bwb-ng-variabel-deel="/Artikel4/Lid1/Onderdeelh/Onderdeel1">
+            <li.nr>1°.</li.nr>
+            <al>de reis- en verblijfkosten die de gedupeerde heeft gemaakt als gevolg van een advies of een gebod van het bevoegd gezag om zijn woon- of vestigingsplaats te verlaten, voor zover verschuldigd aan derden; </al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4&amp;lid=1&amp;o=h&amp;o=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=1"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Artikel4/Lid1/Onderdeelh/Onderdeel2">
+            <li.nr>2°.</li.nr>
+            <al>de kosten voor transport, opslag en huisvesting van de roerende zaken van de gedupeerde, voor zover verschuldigd aan derden of toe te rekenen aan arbeid in eigen beheer volgens bij of krachtens algemene maatregel van bestuur vast te stellen regels; </al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4&amp;lid=1&amp;o=h&amp;o=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=2"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Artikel4/Lid1/Onderdeelh/Onderdeel3">
+            <li.nr>3°.</li.nr>
+            <al>de met de in onderdeel 2° genoemde activiteiten samenhangende kosten voor verzekering; </al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4&amp;lid=1&amp;o=h&amp;o=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=3"/></jcis></meta-data></li>
+        </lijst>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4&amp;lid=1&amp;o=h&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=h"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid1/Onderdeeli">
+        <li.nr>i.</li.nr>
+        <al>de bereddingskosten per risico-adres, waaronder worden verstaan de kosten die de gedupeerde heeft gemaakt in verband met het treffen van maatregelen ter voorkoming of beperking van schade of kosten, voor zover verschuldigd aan derden of toe te rekenen aan arbeid in eigen beheer volgens bij of krachtens algemene maatregel van bestuur vast te stellen regels; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4&amp;lid=1&amp;o=i&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=i"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid1/Onderdeelj">
+        <li.nr>j.</li.nr>
+        <al>de kosten voor opruiming per risico-adres, voor zover verschuldigd aan derden of toe te rekenen aan extra arbeid in eigen beheer volgens bij of krachtens algemene maatregel van bestuur vast te stellen regels. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4&amp;lid=1&amp;o=j&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=j"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="778894L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Bij ministeriële regeling kan worden bepaald dat, met uitzondering van schade die het gevolg is van gederfde omzet, andere schade- en kostencategorieën dan de in het eerste lid genoemde voor een tegemoetkoming in aanmerking komen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid3" label-id="778894L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Een gedupeerde heeft geen recht op een tegemoetkoming in de schade of de kosten, voor zover: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel4/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de schade of de kosten redelijkerwijs verzekerbaar waren; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4&amp;lid=3&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de gedupeerde uit anderen hoofde een tegemoetkoming in de schade of de kosten heeft verkregen of kan verkrijgen; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4&amp;lid=3&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid3/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de schade of de kosten zijn veroorzaakt door eigen schuld van de gedupeerde; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4&amp;lid=3&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid3/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de gedupeerde onvoldoende maatregelen heeft getroffen ter voorkoming of beperking van die schade of kosten; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4&amp;lid=3&amp;o=d&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid3/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>de schade of de kosten het gevolg zijn van een overstroming door zoet water en zijn ontstaan aan bij algemene maatregel van bestuur vast te stellen activiteiten die vanaf 19 april 1996 hebben plaatsgevonden in het winterbed van bij algemene maatregel van bestuur aan te wijzen rivieren. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4&amp;lid=3&amp;o=e&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=e"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2010-146"><publicatiejaar>2010</publicatiejaar><publicatienr>146</publicatienr><uitgiftedatum isodatum="2010-04-01">01-04-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-03-11">11-03-2010</ondertekeningsdatum><dossierref dossier="31968">31968</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2010-252"><publicatiejaar>2010</publicatiejaar><publicatienr>252</publicatienr><uitgiftedatum isodatum="2010-07-01">01-07-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-06-24">24-06-2010</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2010-10-01">01-10-2010</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009637&amp;artikel=4&amp;g=2021-07-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0009637&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0009637&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="b1-5" stam-id="804403" versie-id="16978012" id="C25169761" label-id="778904" inwerking="2009-12-28" label="Artikel 5" bron="Stb.2009-616" effect="wijziging" ondertekening_bron="2009-12-23" publicatie_bron="2009-12-24" publicatie_iwt="2009-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid1" label-id="778904L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De omvang van de schade en, voor zover nodig, de kosten wordt door een schade-expert opgenomen en neergelegd in een schaderapport.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=5&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid2" label-id="778904L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De schade-expert verstrekt aan de gedupeerde een afschrift van het schaderapport. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=5&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid3" label-id="778904L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Al dan niet op verzoek van de gedupeerde kan de omvang van de schade en de kosten opnieuw door een schade-expert worden opgenomen en neergelegd in een schaderapport. Het tweede lid is van toepassing. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=5&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid4" label-id="778904L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De kosten van het opnemen van de omvang van de schade en de kosten, bedoeld in het eerste en derde lid, komen voor rekening van het Rijk, met uitzondering van het opnemen, bedoeld in het derde lid, dat op verzoek van de gedupeerde is gedaan indien blijkt dat de omvang van de schade en de kosten in eerste instantie op juiste wijze is opgenomen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=5&amp;lid=4&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-616"><publicatiejaar>2009</publicatiejaar><publicatienr>616</publicatienr><uitgiftedatum isodatum="2009-12-24">24-12-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-12-23">23-12-2009</ondertekeningsdatum><dossierref dossier="31859">31859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-617"><publicatiejaar>2009</publicatiejaar><publicatienr>617</publicatienr><uitgiftedatum isodatum="2009-12-24">24-12-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-12-23">23-12-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-12-28">28-12-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009637&amp;artikel=5&amp;g=2021-07-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0009637&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=5&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0009637&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="b1-6" stam-id="804413" versie-id="17257522" id="C25169771" label-id="778914" inwerking="2010-10-01" label="Artikel 6" bron="Stb.2010-146" effect="wijziging" ondertekening_bron="2010-03-11" publicatie_bron="2010-04-01" publicatie_iwt="2010-07-01" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid1" label-id="778914L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De hoogte van de tegemoetkoming wordt volgens bij of krachtens algemene maatregel van bestuur vast te stellen regels: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel6/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>voor zover het de schade betreft, berekend met inachtneming van de schaderapporten, bedoeld in <intref verwijzing-id="1626857" doc="jci1.3:c:BWBR0009637&amp;artikel=5&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0009637" label-id="778904" bwb-ng-variabel-deel="/Artikel5">artikel 5, en het tweede tot en met vierde lid</intref>; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=6&amp;lid=1&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel6/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>voor zover het de kosten betreft, berekend op basis van die kosten die in een redelijke verhouding staan tot de getroffen maatregelen die in de gegeven omstandigheden als noodzakelijk konden worden beschouwd, berekend met inachtneming van de schaderapporten, bedoeld in <intref verwijzing-id="1626858" doc="jci1.3:c:BWBR0009637&amp;artikel=5&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0009637" label-id="778904" bwb-ng-variabel-deel="/Artikel5">artikel 5</intref>, voor zover dit van toepassing is, en het tweede tot en met vierde lid. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=6&amp;lid=1&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=6&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid2" label-id="778914L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Bij het bepalen van de hoogte van de tegemoetkoming kan een eigen risico en een drempelbedrag worden gehanteerd waarvan de hoogte bij ministeriële regeling wordt vastgesteld en wordt in voorkomend geval rekening gehouden met de omstandigheid dat een gedupeerde binnen een periode van twee jaar in verband met een overstroming door zoet water, een aardbeving dan wel een ramp waarop deze wet ingevolge <intref verwijzing-id="1626856" doc="jci1.3:c:BWBR0009637&amp;artikel=3&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0009637" label-id="778884" bwb-ng-variabel-deel="/Artikel3">artikel 3</intref> van toepassing is verklaard, een tegemoetkoming in de geleden schade of de gemaakte kosten heeft ontvangen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=6&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid3" label-id="778914L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Bij ministeriële regeling worden regels gesteld over de hoogte van de tegemoetkoming. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=6&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid4" label-id="778914L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Bij ministeriële regeling kan een maximum voor de tegemoetkoming worden vastgesteld. Dit maximum kan afhankelijk worden gesteld van een bij die regeling vastgesteld bedrag dat voor het totaal van de tegemoetkoming beschikbaar is. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=6&amp;lid=4&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid5" label-id="778914L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>De regels, bedoeld in het tweede tot en met vierde lid, kunnen voor verschillende categorieën gedupeerden verschillend worden gesteld. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=6&amp;lid=5&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2010-146"><publicatiejaar>2010</publicatiejaar><publicatienr>146</publicatienr><uitgiftedatum isodatum="2010-04-01">01-04-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-03-11">11-03-2010</ondertekeningsdatum><dossierref dossier="31968">31968</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2010-252"><publicatiejaar>2010</publicatiejaar><publicatienr>252</publicatienr><uitgiftedatum isodatum="2010-07-01">01-07-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-06-24">24-06-2010</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2010-10-01">01-10-2010</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009637&amp;artikel=6&amp;g=2021-07-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0009637&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=6&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0009637&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="b1-7" stam-id="804423" versie-id="1165362" id="C25169781" label-id="778924" inwerking="1998-06-12" label="Artikel 7" bron="Stb.1998-325" effect="nieuwe-regeling" ondertekening_bron="1998-05-25" publicatie_bron="1998-06-11" publicatie_iwt="1998-06-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid1" label-id="778924L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een aanvraag voor een tegemoetkoming wordt volgens bij ministeriële regeling vast te stellen regels ingediend. Bij ministeriële regeling kan een termijn worden gesteld waarbinnen een aanvraag moet zijn ingediend. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=7&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid2" label-id="778924L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Een aanvrager is verplicht alle inlichtingen te verstrekken over alle feiten en omstandigheden, waarvan het hem redelijkerwijs duidelijk is of kan zijn dat zij van invloed kunnen zijn op het recht of op de hoogte van de tegemoetkoming. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=7&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid3" label-id="778924L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Indien de aanvrager de verplichting, bedoeld in het tweede lid, niet nakomt, kan de tegemoetkoming worden geweigerd dan wel verminderd. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=7&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-325"><publicatiejaar>1998</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="1998-06-11">11-06-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-05-25">25-05-1998</ondertekeningsdatum><dossierref dossier="25159">25159</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-325"><publicatiejaar>1998</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="1998-06-11">11-06-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-05-25">25-05-1998</ondertekeningsdatum><dossierref dossier="25159">25159</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-06-12">12-06-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009637&amp;artikel=7&amp;g=2021-07-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0009637&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=7&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0009637&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" code="b1-8" stam-id="804433" versie-id="1165372" id="C25169791" label-id="778934" inwerking="1998-06-12" label="Artikel 8" bron="Stb.1998-325" effect="nieuwe-regeling" ondertekening_bron="1998-05-25" publicatie_bron="1998-06-11" publicatie_iwt="1998-06-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <al>Van de ministeriële regelingen, bedoeld in de <intref verwijzing-id="1626859" doc="jci1.3:c:BWBR0009637&amp;artikel=6&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0009637" label-id="778914" bwb-ng-variabel-deel="/Artikel6">artikelen 6, derde lid</intref>, en <intref verwijzing-id="1626860" doc="jci1.3:c:BWBR0009637&amp;artikel=7&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0009637" label-id="778924" bwb-ng-variabel-deel="/Artikel7">7, eerste lid</intref>, kan worden afgeweken voor zover toepassing gelet op het belang dat deze wet beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-325"><publicatiejaar>1998</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="1998-06-11">11-06-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-05-25">25-05-1998</ondertekeningsdatum><dossierref dossier="25159">25159</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-325"><publicatiejaar>1998</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="1998-06-11">11-06-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-05-25">25-05-1998</ondertekeningsdatum><dossierref dossier="25159">25159</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-06-12">12-06-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009637&amp;artikel=8&amp;g=2021-07-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0009637&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=8&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0009637&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" code="b1-9" stam-id="804443" versie-id="1165382" id="C25169801" label-id="778944" inwerking="1998-06-12" label="Artikel 9" bron="Stb.1998-325" effect="nieuwe-regeling" ondertekening_bron="1998-05-25" publicatie_bron="1998-06-11" publicatie_iwt="1998-06-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+  </kop>
+  <al>Bij ministeriële regeling kan worden vastgesteld in welke gevallen bij de aanvraag, bedoeld in <intref verwijzing-id="1626861" doc="jci1.3:c:BWBR0009637&amp;artikel=7&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0009637" label-id="778924" bwb-ng-variabel-deel="/Artikel7">artikel 7, eerste lid</intref>, een voorschot op de tegemoetkoming kan worden aangevraagd. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-325"><publicatiejaar>1998</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="1998-06-11">11-06-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-05-25">25-05-1998</ondertekeningsdatum><dossierref dossier="25159">25159</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-325"><publicatiejaar>1998</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="1998-06-11">11-06-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-05-25">25-05-1998</ondertekeningsdatum><dossierref dossier="25159">25159</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-06-12">12-06-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009637&amp;artikel=9&amp;g=2021-07-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0009637&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=9&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0009637&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" stam-id="804463" versie-id="27628732" id="C39206141" label-id="778954" inwerking="2021-07-01" label="Artikel 10" bron="Stb.2021-135" effect="wijziging" ondertekening_bron="2021-03-03" publicatie_bron="2021-03-17" publicatie_iwt="2021-06-02" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+  </kop>
+  <al>De beschikking tot het toekennen van een tegemoetkoming kan worden gewijzigd of ingetrokken, indien: </al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel10/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>er feiten of omstandigheden zijn waarvan Onze Minister bij het nemen van die beschikking redelijkerwijs niet op de hoogte kon zijn en op grond waarvan de tegemoetkoming lager zou zijn vastgesteld, </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=10&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel10/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>de hoogte van de toegekende tegemoetkoming onjuist was en de ontvanger dit wist of behoorde te weten, of </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=10&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel10/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>de ontvanger niet voldoet aan de plicht tot het verlenen van medewerking, bedoeld in <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:20" label-id="2820074" verwijzing-id="234284" bwb-id="BWBR0005537">artikel 5:20, eerste lid, van de Algemene wet bestuursrecht</extref>. </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=10&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-135"><publicatiejaar>2021</publicatiejaar><publicatienr>135</publicatienr><uitgiftedatum isodatum="2021-03-17">17-03-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-03-03">03-03-2021</ondertekeningsdatum><dossierref dossier="35256">35256</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-254"><publicatiejaar>2021</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2021-06-02">02-06-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-05-18">18-05-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009637&amp;artikel=10&amp;g=2021-07-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0009637&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=10&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0009637&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" code="b1-11" stam-id="804483" versie-id="1165422" id="C25169821" label-id="778964" inwerking="1998-06-12" label="Artikel 11" bron="Stb.1998-325" effect="nieuwe-regeling" ondertekening_bron="1998-05-25" publicatie_bron="1998-06-11" publicatie_iwt="1998-06-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+  </kop>
+  <al>Onverschuldigde tegemoetkomingen en voorschotten kunnen worden teruggevorderd voor zover na de dag waarop de tegemoetkoming is toegekend, nog geen vijf jaren zijn verstreken. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-325"><publicatiejaar>1998</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="1998-06-11">11-06-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-05-25">25-05-1998</ondertekeningsdatum><dossierref dossier="25159">25159</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-325"><publicatiejaar>1998</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="1998-06-11">11-06-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-05-25">25-05-1998</ondertekeningsdatum><dossierref dossier="25159">25159</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-06-12">12-06-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009637&amp;artikel=11&amp;g=2021-07-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0009637&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=11&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0009637&amp;artikel=11"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel12" code="b1-12" stam-id="804493" versie-id="12420992" id="C16702651" label-id="778974" inwerking="2006-03-08" label="Artikel 12" bron="Stb.2005-532" effect="wijziging" ondertekening_bron="2005-10-06" publicatie_bron="2005-11-01" publicatie_iwt="2005-11-01" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">12</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel12/Lid1" label-id="778974L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister is, in overeenstemming met Onze Ministers wie het mede aangaat, belast met de uitvoering van deze wet. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=12&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel12/Lid2" label-id="778974L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Regeling en bestuur kunnen van de gemeenteraad en het college van burgemeester en wethouders en provinciale staten en gedeputeerde staten worden gevorderd ter verzekering van een goede uitvoering van deze wet. Bij ministeriële regeling worden hierover en over de vergoeding van de kosten die aan de uitvoering van de eerste volzin zijn verbonden, regels gesteld. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=12&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-532"><publicatiejaar>2005</publicatiejaar><publicatienr>532</publicatienr><uitgiftedatum isodatum="2005-11-01">01-11-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-10-06">06-10-2005</ondertekeningsdatum><dossierref dossier="29316">29316</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-533"><publicatiejaar>2005</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2005-11-01">01-11-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-10-20">20-10-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2006-03-08">08-03-2006</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De wijzigingsopdracht is niet geheel juist.</al></opmerkingen-inhoud></brondata><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-530"><publicatiejaar>2005</publicatiejaar><publicatienr>530</publicatienr><uitgiftedatum isodatum="2005-11-01">01-11-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-10-06">06-10-2005</ondertekeningsdatum><dossierref dossier="28995">28995</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-531"><publicatiejaar>2005</publicatiejaar><publicatienr>531</publicatienr><uitgiftedatum isodatum="2005-11-01">01-11-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-10-20">20-10-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2006-03-08">08-03-2006</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009637&amp;artikel=12&amp;g=2021-07-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0009637&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=12&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0009637&amp;artikel=12"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13" code="b1-13" stam-id="804503" versie-id="1165452" id="C25169841" label-id="778984" inwerking="1998-06-12" label="Artikel 13" bron="Stb.1998-325" effect="nieuwe-regeling" ondertekening_bron="1998-05-25" publicatie_bron="1998-06-11" publicatie_iwt="1998-06-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid1" label-id="778984L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit aangewezen ambtenaren en andere personen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=13&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid2" label-id="778984L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=13&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-325"><publicatiejaar>1998</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="1998-06-11">11-06-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-05-25">25-05-1998</ondertekeningsdatum><dossierref dossier="25159">25159</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-325"><publicatiejaar>1998</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="1998-06-11">11-06-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-05-25">25-05-1998</ondertekeningsdatum><dossierref dossier="25159">25159</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-06-12">12-06-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009637&amp;artikel=13&amp;g=2021-07-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0009637&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=13&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0009637&amp;artikel=13"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel14" code="b1-14" stam-id="804513" versie-id="1165462" id="C14607091" label-id="778994" inwerking="1998-06-12" label="Artikel 14" bron="Stb.1998-325" effect="nieuwe-regeling" ondertekening_bron="1998-05-25" publicatie_bron="1998-06-11" publicatie_iwt="1998-06-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>14</nr>
+  </kop>
+  <al>Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-325"><publicatiejaar>1998</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="1998-06-11">11-06-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-05-25">25-05-1998</ondertekeningsdatum><dossierref dossier="25159">25159</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-325"><publicatiejaar>1998</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="1998-06-11">11-06-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-05-25">25-05-1998</ondertekeningsdatum><dossierref dossier="25159">25159</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-06-12">12-06-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009637&amp;artikel=14&amp;g=2021-07-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0009637&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=14&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0009637&amp;artikel=14"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel15" code="b1-15" stam-id="804533" versie-id="17257532" id="C24218071" label-id="779004" inwerking="2010-10-01" label="Artikel 15" bron="Stb.2010-146" effect="wijziging" ondertekening_bron="2010-03-11" publicatie_bron="2010-04-01" publicatie_iwt="2010-07-01" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet tegemoetkoming schade bij rampen. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2010-146"><publicatiejaar>2010</publicatiejaar><publicatienr>146</publicatienr><uitgiftedatum isodatum="2010-04-01">01-04-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-03-11">11-03-2010</ondertekeningsdatum><dossierref dossier="31968">31968</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2010-252"><publicatiejaar>2010</publicatiejaar><publicatienr>252</publicatienr><uitgiftedatum isodatum="2010-07-01">01-07-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-06-24">24-06-2010</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2010-10-01">01-10-2010</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009637&amp;artikel=15&amp;g=2021-07-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0009637&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;artikel=15&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0009637&amp;artikel=15"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="804543" versie-id="1165482" id="C20864841" label-id="779014" inwerking="1998-06-12" bron="Stb.1998-325" effect="nieuwe-regeling" ondertekening_bron="1998-05-25" publicatie_bron="1998-06-11" publicatie_iwt="1998-06-11" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden. </al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">25 mei 1998 </datum>
+    </dagtekening>
+    <koning>Beatrix </koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Binnenlandse Zaken, </functie>
+    <naam>
+      <achternaam>H. F. Dijkstal </achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de <nadruk type="cur">elfde</nadruk> juni 1998 </datum>
+    <ondertekening>
+      <functie>De Minister van Justitie a.i., </functie>
+      <naam>
+        <achternaam>H. F. Dijkstal </achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-325"><publicatiejaar>1998</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="1998-06-11">11-06-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-05-25">25-05-1998</ondertekeningsdatum><dossierref dossier="25159">25159</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-325"><publicatiejaar>1998</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="1998-06-11">11-06-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-05-25">25-05-1998</ondertekeningsdatum><dossierref dossier="25159">25159</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-06-12">12-06-1998</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-325"><publicatiejaar>1998</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="1998-06-11">11-06-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-05-25">25-05-1998</ondertekeningsdatum><dossierref dossier="25159">25159</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-325"><publicatiejaar>1998</publicatiejaar><publicatienr>325</publicatienr><uitgiftedatum isodatum="1998-06-11">11-06-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-05-25">25-05-1998</ondertekeningsdatum><dossierref dossier="25159">25159</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-06-12">12-06-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009637&amp;g=2021-07-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0009637"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009637&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0009637"/></jcis></meta-data></wetgeving></toestand>

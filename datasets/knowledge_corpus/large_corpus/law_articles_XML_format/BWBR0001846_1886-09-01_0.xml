@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0001846/1886-09-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0001846" inwerkingtreding="1886-09-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="1834523" versie-id="2737582" id="C2737581" label-id="1789134" inwerkingtredingsdatum="1870-10-09">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="1834543" versie-id="2737462" id="C2737461" label-id="1789014" inwerking="1870-10-09" bron="Stb.1870-162" effect="nieuwe-regeling" ondertekening_bron="1870-09-17" status="goed">Wet van 17 september 1870, tot afschaffing der doodstraf <meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1870</publicatiejaar><publicatienr>162</publicatienr><ondertekeningsdatum isodatum="1870-09-17">17-09-1870</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1870</publicatiejaar><publicatienr>162</publicatienr><ondertekeningsdatum isodatum="1870-09-17">17-09-1870</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1870-10-09">09-10-1870</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="1834553" versie-id="2737472" id="C2737471" label-id="1789024" inwerking="1870-10-09" bron="Stb.1870-162" effect="nieuwe-regeling" ondertekening_bron="1870-09-17">Wet afschaffing doodstraf <meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1870</publicatiejaar><publicatienr>162</publicatienr><ondertekeningsdatum isodatum="1870-09-17">17-09-1870</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1870</publicatiejaar><publicatienr>162</publicatienr><ondertekeningsdatum isodatum="1870-09-17">17-09-1870</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1870-10-09">09-10-1870</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="1834563" versie-id="2737482" id="C2737481" label-id="1789034" inwerking="1870-10-09" bron="Stb.1870-162" effect="nieuwe-regeling" ondertekening_bron="1870-09-17" status="goed">
+  <wij>Wij WILLEM III, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, Groot-Hertog van Luxemburg, enz., enz., enz. </wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of hooren lezen, salut! doen te weten: </considerans.al>
+    <considerans.al>Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is de doodstraf af te schaffen, met het na te melden voorbehoud ten aanzien van de militaire strafwetten; </considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze: </al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1870</publicatiejaar><publicatienr>162</publicatienr><ondertekeningsdatum isodatum="1870-09-17">17-09-1870</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1870</publicatiejaar><publicatienr>162</publicatienr><ondertekeningsdatum isodatum="1870-09-17">17-09-1870</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1870-10-09">09-10-1870</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="1834573" versie-id="2737492" id="C2737491" label-id="1789044" inwerking="1886-09-01" label="Artikel 1" bron="Stb.1886-64" effect="vervallen" ondertekening_bron="1886-04-15" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>1</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1886</publicatiejaar><publicatienr>64</publicatienr><ondertekeningsdatum isodatum="1886-04-15">15-04-1886</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1886</publicatiejaar><publicatienr>64</publicatienr><ondertekeningsdatum isodatum="1886-04-15">15-04-1886</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1886-09-01">01-09-1886</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001846&amp;artikel=1&amp;g=1886-09-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0001846&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001846&amp;artikel=1&amp;z=1886-09-01&amp;g=1886-09-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0001846&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="a-2" stam-id="1834583" versie-id="2737502" id="C2737501" label-id="1789054" inwerking="1870-10-09" label="Artikel 2" bron="Stb.1870-162" effect="nieuwe-regeling" ondertekening_bron="1870-09-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="1789054L1">
+    <lidnr status="redactioneel">1</lidnr>
+    <al>De doodstraf wordt mede afgeschaft in de gevallen, waarin zij door de militaire strafwetten wordt bedreigd, doch alleen ten aanzien van misdrijven in tijd van vrede en niet voor den vijand gepleegd. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001846&amp;artikel=2&amp;lid=1&amp;z=1886-09-01&amp;g=1886-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="1789054L2">
+    <lidnr status="redactioneel">2</lidnr>
+    <al>Niettemin blijft de doodstraf gehandhaafd in alle gevallen van oproer, opstand, zamenzwering, zamenrotting of muiterij, voorzien bij de artt. 85 tot 92 van het Crimineel Wetboek voor het krijgsvolk te water, voor zooverre deze misdrijven aan boord worden gepleegd in volle zee of in den vreemde ook in tijd van vrede. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001846&amp;artikel=2&amp;lid=2&amp;z=1886-09-01&amp;g=1886-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1870</publicatiejaar><publicatienr>162</publicatienr><ondertekeningsdatum isodatum="1870-09-17">17-09-1870</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1870</publicatiejaar><publicatienr>162</publicatienr><ondertekeningsdatum isodatum="1870-09-17">17-09-1870</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1870-10-09">09-10-1870</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001846&amp;artikel=2&amp;g=1886-09-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0001846&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001846&amp;artikel=2&amp;z=1886-09-01&amp;g=1886-09-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0001846&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="1834593" versie-id="2737512" id="C2737511" label-id="1789064" inwerking="1886-09-01" label="Artikel 3" bron="Stb.1886-64" effect="vervallen" ondertekening_bron="1886-04-15" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>3</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1886</publicatiejaar><publicatienr>64</publicatienr><ondertekeningsdatum isodatum="1886-04-15">15-04-1886</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1886</publicatiejaar><publicatienr>64</publicatienr><ondertekeningsdatum isodatum="1886-04-15">15-04-1886</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1886-09-01">01-09-1886</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001846&amp;artikel=3&amp;g=1886-09-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0001846&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001846&amp;artikel=3&amp;z=1886-09-01&amp;g=1886-09-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0001846&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" stam-id="1834603" versie-id="2737522" id="C2737521" label-id="1789074" inwerking="1886-09-01" label="Artikel 4" bron="Stb.1886-64" effect="vervallen" ondertekening_bron="1886-04-15" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>4</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1886</publicatiejaar><publicatienr>64</publicatienr><ondertekeningsdatum isodatum="1886-04-15">15-04-1886</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1886</publicatiejaar><publicatienr>64</publicatienr><ondertekeningsdatum isodatum="1886-04-15">15-04-1886</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1886-09-01">01-09-1886</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001846&amp;artikel=4&amp;g=1886-09-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0001846&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001846&amp;artikel=4&amp;z=1886-09-01&amp;g=1886-09-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0001846&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" stam-id="1834613" versie-id="2737532" id="C2737531" label-id="1789084" inwerking="1886-09-01" label="Artikel 5" bron="Stb.1886-64" effect="vervallen" ondertekening_bron="1886-04-15" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>5</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1886</publicatiejaar><publicatienr>64</publicatienr><ondertekeningsdatum isodatum="1886-04-15">15-04-1886</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1886</publicatiejaar><publicatienr>64</publicatienr><ondertekeningsdatum isodatum="1886-04-15">15-04-1886</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1886-09-01">01-09-1886</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001846&amp;artikel=5&amp;g=1886-09-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0001846&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001846&amp;artikel=5&amp;z=1886-09-01&amp;g=1886-09-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0001846&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" stam-id="1834623" versie-id="2737542" id="C2737541" label-id="1789094" inwerking="1886-09-01" label="Artikel 6" bron="Stb.1886-64" effect="vervallen" ondertekening_bron="1886-04-15" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1886</publicatiejaar><publicatienr>64</publicatienr><ondertekeningsdatum isodatum="1886-04-15">15-04-1886</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1886</publicatiejaar><publicatienr>64</publicatienr><ondertekeningsdatum isodatum="1886-04-15">15-04-1886</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1886-09-01">01-09-1886</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001846&amp;artikel=6&amp;g=1886-09-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0001846&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001846&amp;artikel=6&amp;z=1886-09-01&amp;g=1886-09-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0001846&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="a-7" stam-id="1834633" versie-id="2737552" id="C8156191" label-id="1789104" inwerking="1886-09-01" label="Artikel 7" bron="Stb.1886-64" effect="nieuw" ondertekening_bron="1886-04-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+  <al>De doodstraf, door de militaire strafwetten bedreigd, wordt, in de gevallen, voorzien bij het <intref verwijzing-id="1632347" doc="jci1.3:c:BWBR0001846&amp;artikel=2&amp;z=1886-09-01&amp;g=1886-09-01" bwb-id="BWBR0001846" label-id="1789054" bwb-ng-variabel-deel="/Artikel2">eerste lid van art. 2</intref>, vervangen: </al>
+  <al>die met den strop door militaire gevangenisstraf van ten hoogste twintig jaren; </al>
+  <al>die met den kogel door militaire gevangenisstraf van ten hoogste tien jaren. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier=""><publicatiejaar>1886</publicatiejaar><publicatienr>64</publicatienr><ondertekeningsdatum isodatum="1886-04-15">15-04-1886</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier=""><publicatiejaar>1886</publicatiejaar><publicatienr>64</publicatienr><ondertekeningsdatum isodatum="1886-04-15">15-04-1886</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1886-09-01">01-09-1886</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001846&amp;artikel=7&amp;g=1886-09-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0001846&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001846&amp;artikel=7&amp;z=1886-09-01&amp;g=1886-09-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0001846&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" stam-id="1834643" versie-id="2737562" id="C2737561" label-id="1789114" inwerking="1886-09-01" label="Artikel 8" bron="Stb.1886-64" effect="vervallen" ondertekening_bron="1886-04-15" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>8</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1886</publicatiejaar><publicatienr>64</publicatienr><ondertekeningsdatum isodatum="1886-04-15">15-04-1886</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1886</publicatiejaar><publicatienr>64</publicatienr><ondertekeningsdatum isodatum="1886-04-15">15-04-1886</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1886-09-01">01-09-1886</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001846&amp;artikel=8&amp;g=1886-09-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0001846&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001846&amp;artikel=8&amp;z=1886-09-01&amp;g=1886-09-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0001846&amp;artikel=8"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="1834653" versie-id="2737572" id="C2737571" label-id="1789124" inwerking="1870-10-09" bron="Stb.1870-162" effect="nieuwe-regeling" ondertekening_bron="1870-09-17" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Collegien en Ambtenaren, wien zulks aangaat, aan de naauwkeurige uitvoering de hand zullen houden. </al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's Gravenhage </plaats>
+      <datum isodatum="">den 17den September 1870 </datum>
+    </dagtekening>
+    <koning>WILLEM. </koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Justitie, </functie>
+    <naam>
+      <achternaam>VAN LILAAR. </achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Oorlog, </functie>
+    <naam>
+      <achternaam>J. J. VAN MULKEN. </achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Marine, </functie>
+    <naam>
+      <achternaam>BROCX. </achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">den negentienden September 1870. </datum>
+    <ondertekening>
+      <functie>De Minister van Justitie, </functie>
+      <naam>
+        <achternaam>VAN LILAAR. </achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1870</publicatiejaar><publicatienr>162</publicatienr><ondertekeningsdatum isodatum="1870-09-17">17-09-1870</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1870</publicatiejaar><publicatienr>162</publicatienr><ondertekeningsdatum isodatum="1870-09-17">17-09-1870</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1870-10-09">09-10-1870</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1870</publicatiejaar><publicatienr>162</publicatienr><ondertekeningsdatum isodatum="1870-09-17">17-09-1870</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1870</publicatiejaar><publicatienr>162</publicatienr><ondertekeningsdatum isodatum="1870-09-17">17-09-1870</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1870-10-09">09-10-1870</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001846&amp;g=1886-09-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0001846"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001846&amp;z=1886-09-01&amp;g=1886-09-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0001846"/></jcis></meta-data></wetgeving></toestand>

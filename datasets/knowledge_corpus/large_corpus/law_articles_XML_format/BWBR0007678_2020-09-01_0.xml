@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0007678/2020-09-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0007678" inwerkingtreding="2020-09-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="1963563" versie-id="2910182" id="C2910181" label-id="1913404" inwerkingtredingsdatum="1995-12-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="1963593" versie-id="2909662" id="C2909661" label-id="1912914" inwerking="1995-12-01" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">Wet van 29 november 1995, tot goedkeuring van het op 9 februari 1994 te Brussel tot stand gekomen verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens alsmede invoering van een belasting met betrekking tot zware motorrijtuigen<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="1963603" versie-id="2909672" id="C2909671" label-id="1912924" inwerking="1995-12-01" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30">Wet belasting zware motorrijtuigen<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="1963613" versie-id="2909682" id="C18673231" label-id="1912934" inwerking="1995-12-01" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het op 9 februari 1994 te Brussel tot stand gekomen verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens ingevolge <extref doc="jci1.3:c:BWBR0001840&amp;artikel=91" verwijzing-id="681762" bwb-id="BWBR0001840" label-id="2941494">artikel 91, eerste lid, van de Grondwet</extref> de goedkeuring van de Staten-Generaal behoeft, alvorens het Koninkrijk daaraan kan worden gebonden; alsmede dat het wenselijk is, gelet op dit verdrag en gelet op de <extref doc="31993L0089" label="richtlijn" reeks="Celex">richtlijn nr. 93/89/EEG</extref> van de Raad van de Europese Gemeenschappen van 25 oktober 1993 (<nadruk type="cur">PbEG</nadruk> L 279) betreffende de toepassing door de Lid-Staten van de belastingen op sommige voor het goederenvervoer over de weg gebruikte voertuigen en van de voor het gebruik van sommige infrastructuurvoorzieningen geheven tolgelden en gebruiksrechten, een belasting te heffen met betrekking tot zware motorrijtuigen;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukI" stam-id="1963633" versie-id="2909702" id="C2909701" label-id="1912954" inwerking="1995-12-01" label="Hoofdstuk I" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>I</nr>
+    <titel status="officieel">Goedkeuring verdrag</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukI/Artikel1" code="a-1" stam-id="1963623" versie-id="2909692" id="C2909691" label-id="1912944" inwerking="1995-12-01" label="Artikel 1" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>1</nr>
+  </kop>
+  <al>Het op 9 februari 1994 te Brussel tot stand gekomen verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, waarvan de Nederlandse en Franse tekst is geplaatst in <nadruk type="cur">Tractatenblad</nadruk> 1994, 69, wordt goedgekeurd voor Nederland.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=1&amp;g=2020-09-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=I&amp;artikel=1&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=1"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;hoofdstuk=I&amp;g=2020-09-01" onderdeel="hoofdstuk=I" korte-verwijzing="1.0:c:BWBR0007678&amp;hoofdstuk=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=I&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="hoofdstuk=I" korte-verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=I"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukII" stam-id="1963703" versie-id="2909782" id="C2909781" label-id="1913024" inwerking="1995-12-01" label="Hoofdstuk II" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>II</nr>
+    <titel status="officieel">Inleidende bepalingen</titel>
+  </kop><afdeling bwb-ng-variabel-deel="/HoofdstukII/Afdeling1" stam-id="1963653" versie-id="2909722" id="C2909721" label-id="1912974" inwerking="1995-12-01" label="Afdeling 1" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Afdeling</label>
+    <nr>1</nr>
+    <titel status="officieel">Belastbaar feit</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukII/Afdeling1/Artikel2" code="a-2" stam-id="1963643" versie-id="2909712" id="C2909711" label-id="1912964" inwerking="1995-12-01" label="Artikel 2" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <al>Het gemeenschappelijke gebruiksrecht, bedoeld in het in <intref verwijzing-id="681768" doc="jci1.3:c:BWBR0007678&amp;hoofdstuk=I&amp;artikel=1&amp;z=2020-09-01&amp;g=2020-09-01" bwb-id="BWBR0007678" label-id="1912944" bwb-ng-variabel-deel="/HoofdstukI/Artikel1">artikel 1</intref> genoemde verdrag, wordt in Nederland onder de naam "belasting zware motorrijtuigen" geheven ter zake van het gebruik van de autosnelweg met een zwaar motorrijtuig.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=2&amp;g=2020-09-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=II&amp;afdeling=1&amp;artikel=2&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=2"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;afdeling=1&amp;g=2020-09-01" onderdeel="afdeling=1" korte-verwijzing="1.0:c:BWBR0007678&amp;afdeling=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=II&amp;afdeling=1&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="afdeling=1" korte-verwijzing="jci1.3:c:BWBR0007678&amp;afdeling=1"/></jcis></meta-data></afdeling><afdeling bwb-ng-variabel-deel="/HoofdstukII/Afdeling2" stam-id="1963673" versie-id="2909752" id="C2909751" label-id="1912994" inwerking="1995-12-01" label="Afdeling 2" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Afdeling</label>
+    <nr>2</nr>
+    <titel status="officieel">Definities</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukII/Afdeling2/Artikel3" stam-id="1963663" versie-id="26986092" id="C38188041" label-id="1912984" inwerking="2020-09-01" label="Artikel 3" bron="Stb.2020-293" effect="wijziging" ondertekening_bron="2020-07-08" publicatie_bron="2020-08-20" publicatie_iwt="2020-08-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <al>In deze wet en in de daarop berustende regelingen wordt verstaan onder: </al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/HoofdstukII/Afdeling2/Artikel3/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>zwaar motorrijtuig: een motorrijtuig als bedoeld in <extref doc="jci1.3:c:BWBR0006324&amp;artikel=2" label-id="2845164" verwijzing-id="681769" bwb-id="BWBR0006324">artikel 2, onderdeel <nadruk type="cur">f</nadruk>, van de Wet op de motorrijtuigenbelasting 1994</extref>, bestemd of gebruikt voor het goederenvervoer over de weg, waarvan de toegestane maximum massa 12 000 kilogram of meer bedraagt dan wel waarvan de toegestane maximum massa vermeerderd met de toegestane maximum massa van het voertuig, niet zijnde een motorrijtuig, dat door dat motorrijtuig wordt voortbewogen, 12 000 kilogram of meer bedraagt;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=II&amp;afdeling=2&amp;artikel=3&amp;o=a&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukII/Afdeling2/Artikel3/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>toegestane maximum massa: de eigen massa van het voertuig vermeerderd met de voor het voertuig toegestane maximum massa aan lading;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=II&amp;afdeling=2&amp;artikel=3&amp;o=b&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukII/Afdeling2/Artikel3/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>weg: elke voor het openbaar rijverkeer of ander verkeer openstaande weg en elk zodanig pad, de in de weg of het pad liggende bruggen en duikers alsmede de tot de weg behorende paden en bermen of zijkanten;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=II&amp;afdeling=2&amp;artikel=3&amp;o=c&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukII/Afdeling2/Artikel3/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>autosnelweg: een weg die speciaal is ontworpen en aangelegd voor verkeer met motorrijtuigen, zonder uitwegen naar aanliggende percelen, en die: </al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li bwb-ng-variabel-deel="/HoofdstukII/Afdeling2/Artikel3/Onderdeeld/Onderdeel1">
+          <li.nr>1°.</li.nr>
+          <al>behalve op bepaalde plaatsen of tijdelijk is voorzien van gescheiden rijbanen voor beide verkeersrichtingen, welke rijbanen van elkaar gescheiden zijn door een strook die niet voor het verkeer is bestemd, hetzij, bij uitzondering, op andere wijze;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=II&amp;afdeling=2&amp;artikel=3&amp;o=d&amp;o=1&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=1"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/HoofdstukII/Afdeling2/Artikel3/Onderdeeld/Onderdeel2">
+          <li.nr>2°.</li.nr>
+          <al>geen andere weg, geen spoor- of tramweg of voetpad gelijkvloers kruist; en</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=II&amp;afdeling=2&amp;artikel=3&amp;o=d&amp;o=2&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=2"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/HoofdstukII/Afdeling2/Artikel3/Onderdeeld/Onderdeel3">
+          <li.nr>3°.</li.nr>
+          <al>door specifieke verkeerstekens als autosnelweg is aangeduid;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=II&amp;afdeling=2&amp;artikel=3&amp;o=d&amp;o=3&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=3"/></jcis></meta-data></li>
+      </lijst>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=II&amp;afdeling=2&amp;artikel=3&amp;o=d&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=d"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukII/Afdeling2/Artikel3/Onderdeele">
+      <li.nr>e.</li.nr>
+      <al>richtlijn: <extref doc="31999L0062" label="richtlijn" reeks="Celex">Richtlijn 1999/62/EG</extref> van het Europees Parlement en de Raad van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen (PbEG 1999, L 187);</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=II&amp;afdeling=2&amp;artikel=3&amp;o=e&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=e"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukII/Afdeling2/Artikel3/Onderdeelf">
+      <li.nr>f.</li.nr>
+      <al>categorieën EURO 0, EURO I, EURO II, EURO III, EURO IV en EURO V: motorrijtuigen met een emissiegrenswaarde als bedoeld in de respectievelijke tabel van bijlage 0 bij de richtlijn;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=II&amp;afdeling=2&amp;artikel=3&amp;o=f&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=f"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukII/Afdeling2/Artikel3/Onderdeelg">
+      <li.nr>g.</li.nr>
+      <al>categorie EURO VI en schoner: motorrijtuigen met een emissiegrenswaarde als bedoeld in bijlage I bij verordening (EG) nr. <extref doc="32495L2009" label="richtlijn" reeks="Celex">595/2009</extref> van het Europees Parlement en de Raad van 18 juni 2009 betreffende de typegoedkeuring van motorvoertuigen en motoren met betrekking tot emissies van zware bedrijfsvoertuigen (Euro VI) en tot wijziging van Verordening (EG) nr. <extref doc="32615L2007" label="richtlijn" reeks="Celex">715/2007</extref> en <extref doc="32007L0046" label="richtlijn" reeks="Celex">Richtlijn 2007/46/EG</extref> en tot intrekking van de <extref doc="31980L1269" label="richtlijn" reeks="Celex">Richtlijnen 80/1269/EEG</extref>, <extref doc="32005L0055" label="richtlijn" reeks="Celex">2005/55/EG</extref> en <extref doc="32005L0078" label="richtlijn" reeks="Celex">2005/78/EG</extref> (PbEU 2009, L 188) of een lagere emissiegrenswaarde.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=II&amp;afdeling=2&amp;artikel=3&amp;o=g&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=g"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-293"><publicatiejaar>2020</publicatiejaar><publicatienr>293</publicatienr><uitgiftedatum isodatum="2020-08-20">20-08-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-07-08">08-07-2020</ondertekeningsdatum><dossierref dossier="35427">35427</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-293"><publicatiejaar>2020</publicatiejaar><publicatienr>293</publicatienr><uitgiftedatum isodatum="2020-08-20">20-08-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-07-08">08-07-2020</ondertekeningsdatum><dossierref dossier="35427">35427</dossierref></publicatie><inwerkingtreding.datum isodatum="2020-09-01">01-09-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=3&amp;g=2020-09-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=II&amp;afdeling=2&amp;artikel=3&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=3"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;afdeling=2&amp;g=2020-09-01" onderdeel="afdeling=2" korte-verwijzing="1.0:c:BWBR0007678&amp;afdeling=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=II&amp;afdeling=2&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="afdeling=2" korte-verwijzing="jci1.3:c:BWBR0007678&amp;afdeling=2"/></jcis></meta-data></afdeling><afdeling bwb-ng-variabel-deel="/HoofdstukII/Afdeling3" stam-id="1963693" versie-id="2909772" id="C2909771" label-id="1913014" inwerking="1995-12-01" label="Afdeling 3" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Afdeling</label>
+    <nr>3</nr>
+    <titel status="officieel">Voorwerp van de belasting</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukII/Afdeling3/Artikel4" code="a-4" stam-id="1963683" versie-id="2909762" id="C2909761" label-id="1913004" inwerking="1995-12-01" label="Artikel 4" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>4</nr>
+  </kop>
+  <al>De belasting wordt geheven met betrekking tot elk motorrijtuig afzonderlijk.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=4&amp;g=2020-09-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=II&amp;afdeling=3&amp;artikel=4&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=4"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;afdeling=3&amp;g=2020-09-01" onderdeel="afdeling=3" korte-verwijzing="1.0:c:BWBR0007678&amp;afdeling=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=II&amp;afdeling=3&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="afdeling=3" korte-verwijzing="jci1.3:c:BWBR0007678&amp;afdeling=3"/></jcis></meta-data></afdeling><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;hoofdstuk=II&amp;g=2020-09-01" onderdeel="hoofdstuk=II" korte-verwijzing="1.0:c:BWBR0007678&amp;hoofdstuk=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=II&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="hoofdstuk=II" korte-verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=II"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukIII" stam-id="1963753" versie-id="2909832" id="C2909831" label-id="1913074" inwerking="1995-12-01" label="Hoofdstuk III" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>III</nr>
+    <titel status="officieel">Belastingplichtige</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukIII/Artikel5" code="a-5" stam-id="1963713" versie-id="2909792" id="C2909791" label-id="1913034" inwerking="1995-12-01" label="Artikel 5" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>5</nr>
+  </kop>
+  <al>De belasting wordt geheven van de houder van het motorrijtuig.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=5&amp;g=2020-09-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=III&amp;artikel=5&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=5"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIII/Artikel6" stam-id="1963723" versie-id="21882152" id="C31404371" label-id="1913044" inwerking="2015-01-01" label="Artikel 6" bron="Stb.2014-481" effect="wijziging" ondertekening_bron="2014-12-03" publicatie_bron="2014-12-10" publicatie_iwt="2014-12-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <al>Als houder wordt aangemerkt: </al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>van een motorrijtuig dat in het kentekenregister, genoemd in <extref doc="jci1.3:c:BWBR0006622&amp;artikel=1" label-id="2956914" verwijzing-id="2670237" bwb-id="BWBR0006622">artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994</extref>, is ingeschreven op basis van de <extref doc="jci1.3:c:BWBR0006622" label-id="2959334" verwijzing-id="681775" bwb-id="BWBR0006622">Wegenverkeerswet 1994</extref>, degene op wiens naam het motorrijtuig is gesteld;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=III&amp;artikel=6&amp;o=a&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>van een motorrijtuig dat niet in het kentekenregister, genoemd in <extref doc="jci1.3:c:BWBR0006622&amp;artikel=1" label-id="2956914" verwijzing-id="2670238" bwb-id="BWBR0006622">artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994</extref>, is ingeschreven, degene die het motorrijtuig feitelijk ter beschikking heeft;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=III&amp;artikel=6&amp;o=b&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>van een in het buitenland geregistreerd motorrijtuig, degene die het motorrijtuig in Nederland feitelijk ter beschikking heeft.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=III&amp;artikel=6&amp;o=c&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=c"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-481"><publicatiejaar>2014</publicatiejaar><publicatienr>481</publicatienr><uitgiftedatum isodatum="2014-12-10">10-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-03">03-12-2014</ondertekeningsdatum><dossierref dossier="33950">33950</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-481"><publicatiejaar>2014</publicatiejaar><publicatienr>481</publicatienr><uitgiftedatum isodatum="2014-12-10">10-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-03">03-12-2014</ondertekeningsdatum><dossierref dossier="33950">33950</dossierref></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2014-01-01">01-01-2014</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=6&amp;g=2020-09-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=III&amp;artikel=6&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=6"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIII/Artikel7" stam-id="1963733" versie-id="21882602" id="C31405031" label-id="1913054" inwerking="2015-01-01" label="Artikel 7" bron="Stb.2014-481" effect="wijziging" ondertekening_bron="2014-12-03" publicatie_bron="2014-12-10" publicatie_iwt="2014-12-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel7/Lid1" label-id="1913054L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien een motorrijtuig als bedoeld in <intref doc="jci1.3:c:BWBR0007678&amp;hoofdstuk=III&amp;artikel=6&amp;z=2020-09-01&amp;g=2020-09-01" label-id="1913044" verwijzing-id="681776" bwb-id="BWBR0007678" bwb-ng-variabel-deel="/HoofdstukIII/Artikel6">artikel 6, onderdeel a</intref>, feitelijk en niet geheel voorbijgaand ter beschikking staat van een ander dan degene op wiens naam het motorrijtuig in het kentekenregister, genoemd in <extref doc="jci1.3:c:BWBR0006622&amp;artikel=1" label-id="2956914" verwijzing-id="2670239" bwb-id="BWBR0006622">artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994</extref>, is gesteld, kan de inspecteur: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel7/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>deze op gezamenlijk verzoek aanmerken als degene die het motorrijtuig houdt;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=III&amp;artikel=7&amp;lid=1&amp;o=a&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel7/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>deze ambtshalve aanmerken als degene die het motorrijtuig houdt.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=III&amp;artikel=7&amp;lid=1&amp;o=b&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=III&amp;artikel=7&amp;lid=1&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel7/Lid2" label-id="1913054L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> De inspecteur neemt de beslissing op het verzoek, bedoeld in het eerste lid, onderdeel <nadruk type="cur">a</nadruk>, en de beslissing, bedoeld in het eerste lid, onderdeel <nadruk type="cur">b</nadruk>, bij voor bezwaar vatbare beschikking.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=III&amp;artikel=7&amp;lid=2&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-481"><publicatiejaar>2014</publicatiejaar><publicatienr>481</publicatienr><uitgiftedatum isodatum="2014-12-10">10-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-03">03-12-2014</ondertekeningsdatum><dossierref dossier="33950">33950</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-481"><publicatiejaar>2014</publicatiejaar><publicatienr>481</publicatienr><uitgiftedatum isodatum="2014-12-10">10-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-03">03-12-2014</ondertekeningsdatum><dossierref dossier="33950">33950</dossierref></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2014-01-01">01-01-2014</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=7&amp;g=2020-09-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=III&amp;artikel=7&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=7"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIII/Artikel8" code="a-8" stam-id="1963743" versie-id="19959932" id="C28156731" label-id="1913064" inwerking="2013-01-01" label="Artikel 8" bron="Stb.2012-669" effect="wijziging" ondertekening_bron="2012-12-20" publicatie_bron="2012-12-27" publicatie_iwt="2012-12-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <al>Als degene die het motorrijtuig feitelijk ter beschikking heeft, wordt beschouwd degene ten aanzien van wie het gebruik van de autosnelweg is geconstateerd, met dien verstande dat ingeval het gebruik van de autosnelweg met een in het buitenland geregistreerd motorrijtuig wordt geconstateerd zonder dat gevorderd wordt het motorrijtuig te doen stilstaan, degene op wiens naam het buitenlandse kenteken is gesteld wordt beschouwd als degene ten aanzien van wie het gebruik van de autosnelweg is geconstateerd.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2012-669"><publicatiejaar>2012</publicatiejaar><publicatienr>669</publicatienr><uitgiftedatum isodatum="2012-12-27">27-12-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33403">33403</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2012-669"><publicatiejaar>2012</publicatiejaar><publicatienr>669</publicatienr><uitgiftedatum isodatum="2012-12-27">27-12-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="33403">33403</dossierref></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=8&amp;g=2020-09-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=III&amp;artikel=8&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=8"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;hoofdstuk=III&amp;g=2020-09-01" onderdeel="hoofdstuk=III" korte-verwijzing="1.0:c:BWBR0007678&amp;hoofdstuk=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=III&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="hoofdstuk=III" korte-verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=III"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukIV" stam-id="1963823" versie-id="2909922" id="C2909921" label-id="1913144" inwerking="1995-12-01" label="Hoofdstuk IV" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>IV</nr>
+    <titel status="officieel">Wijze van heffing en tarief</titel>
+  </kop><afdeling bwb-ng-variabel-deel="/HoofdstukIV/Afdeling1" stam-id="1963773" versie-id="2909852" id="C2909851" label-id="1913094" inwerking="1995-12-01" label="Afdeling 1" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Afdeling</label>
+    <nr>1</nr>
+    <titel status="officieel">Tijdvak</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukIV/Afdeling1/Artikel9" code="a-9" stam-id="1963763" versie-id="2909842" id="C2909841" label-id="1913084" inwerking="1995-12-01" label="Artikel 9" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>9</nr>
+  </kop>
+  <al>Het tijdvak waarover de belasting moet worden betaald is een dag, een week, een maand of een jaar.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=9&amp;g=2020-09-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=1&amp;artikel=9&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=9"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=1&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="afdeling=1" korte-verwijzing="jci1.3:c:BWBR0007678&amp;afdeling=1"/></jcis></meta-data></afdeling><afdeling bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2" stam-id="1963793" versie-id="2909882" id="C2909881" label-id="1913114" inwerking="1995-12-01" label="Afdeling 2" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Afdeling</label>
+    <nr>2</nr>
+    <titel status="officieel">Tarief</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10" stam-id="1963783" versie-id="25576052" id="C37469031" label-id="1913104" inwerking="2020-01-01" label="Artikel 10" bron="Stb.2018-506" effect="wijziging" ondertekening_bron="2018-12-19" publicatie_bron="2018-12-28" publicatie_iwt="2018-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10/Lid1" label-id="1913104L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het tarief bedraagt voor een tijdvak van één jaar voor motorrijtuigen:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>met drie assen of minder en in de categorie:</al>
+        <table colsep="0" frame="none" pgwide="1" rowsep="0" tabstyle="xml1">
+          <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+            <colspec colname="col1" colnum="1" colwidth="92.5*"/>
+            <colspec align="right" colname="col2" colnum="2" colwidth="20*"/>
+            <tbody valign="top">
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>1°. EURO 0</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 1.407</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>2°. EURO I</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 1.223</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>3°. EURO II</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 1.065</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>4°. EURO III</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 926</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>5°. EURO IV</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 842</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>6°. EURO V</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 796</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>7°. EURO VI en schoner</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 750;</al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;lid=1&amp;o=a&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>met vier assen of meer en in de categorie:</al>
+        <table colsep="0" frame="none" pgwide="1" rowsep="0" tabstyle="xml1">
+          <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+            <colspec colname="col1" colnum="1" colwidth="92.5*"/>
+            <colspec align="right" colname="col2" colnum="2" colwidth="20*"/>
+            <tbody valign="top">
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>1°. EURO 0</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 2.359</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>2°. EURO I</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 2.042</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>3°. EURO II</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 1.776</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>4°. EURO III</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 1.543</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>5°. EURO IV</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 1.404</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>6°. EURO V</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 1.327</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>7°. EURO VI en schoner</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 1.250.</al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;lid=1&amp;o=b&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;lid=1&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10/Lid2" label-id="1913104L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het tarief bedraagt voor een tijdvak van één maand voor motorrijtuigen:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>met drie assen of minder en in de categorie:</al>
+        <table colsep="0" frame="none" pgwide="1" rowsep="0" tabstyle="xml1">
+          <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+            <colspec colname="col1" colnum="1" colwidth="92.5*"/>
+            <colspec align="right" colname="col2" colnum="2" colwidth="20*"/>
+            <tbody valign="top">
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>1°. EURO 0</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 140</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>2°. EURO I</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 122</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>3°. EURO II</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 106</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>4°. EURO III</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 92</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>5°. EURO IV</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 84</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>6°. EURO V</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 79</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>7°. EURO VI en schoner</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 75;</al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;lid=2&amp;o=a&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>met vier assen of meer en in de categorie:</al>
+        <table colsep="0" frame="none" pgwide="1" rowsep="0" tabstyle="xml1">
+          <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+            <colspec colname="col1" colnum="1" colwidth="92.5*"/>
+            <colspec align="right" colname="col2" colnum="2" colwidth="20*"/>
+            <tbody valign="top">
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>1°. EURO 0</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 235</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>2°. EURO I</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 204</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>3°. EURO II</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 177</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>4°. EURO III</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 154</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>5°. EURO IV</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 140</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>6°. EURO V</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 132</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>7°. EURO VI en schoner</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 125.</al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;lid=2&amp;o=b&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;lid=2&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10/Lid3" label-id="1913104L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het tarief bedraagt voor een tijdvak van één week voor motorrijtuigen:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>met drie assen of minder en in de categorie:</al>
+        <table colsep="0" frame="none" pgwide="1" rowsep="0" tabstyle="xml1">
+          <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+            <colspec colname="col1" colnum="1" colwidth="92.5*"/>
+            <colspec align="right" colname="col2" colnum="2" colwidth="20*"/>
+            <tbody valign="top">
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>1°. EURO 0</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 37</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>2°. EURO I</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 32</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>3°. EURO II</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 28</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>4°. EURO III</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 24</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>5°. EURO IV</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 22</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>6°. EURO V</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 21</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>7°. EURO VI en schoner</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 20;</al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;lid=3&amp;o=a&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>met vier assen of meer en in de categorie:</al>
+        <table colsep="0" frame="none" pgwide="1" rowsep="0" tabstyle="xml1">
+          <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+            <colspec colname="col1" colnum="1" colwidth="92.5*"/>
+            <colspec align="right" colname="col2" colnum="2" colwidth="20*"/>
+            <tbody valign="top">
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>1°. EURO 0</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 62</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>2°. EURO I</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 54</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>3°. EURO II</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 47</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>4°. EURO III</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 41</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>5°. EURO IV</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 37</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>6°. EURO V</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 35</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>7°. EURO VI en schoner</al>
+                </entry>
+                <entry align="right" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>€ 33.</al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;lid=3&amp;o=b&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;lid=3&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10/Lid4" label-id="1913104L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Het tarief bedraagt voor een tijdvak van één dag: € 12.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;lid=4&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10/Lid5" label-id="1913104L5">
+    <lidnr status="officieel">5</lidnr>
+    <al> Onder het aantal assen van een motorrijtuig wordt verstaan het aantal assen van het motorrijtuig tezamen met het aantal assen van een met dat motorrijtuig verbonden voertuig, niet zijnde een motorrijtuig.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;lid=5&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10/Lid6" label-id="1913104L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Indien de Euronorm van een motorrijtuig niet is geregistreerd, wordt voor de bepaling van de Euronorm uitgegaan van de datum van eerste toelating van dit motorrijtuig zoals vermeld in het kentekenregister.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;lid=6&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10/Lid7" label-id="1913104L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Het motorrijtuig waarvan ten aanzien van de Euronorm geen aantekening in het kentekenregister of op het kentekenbewijs aanwezig is, wordt voor de toepassing van het eerste, tweede en derde lid aangemerkt als:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10/Lid7/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>EURO 0 – motorrijtuig wanneer blijkens de aantekening in het kentekenregister of op het kentekenbewijs de datum voor de eerste toelating tot het verkeer voor 1 juli 1992 ligt;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;lid=7&amp;o=a&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10/Lid7/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>EURO I – motorrijtuig wanneer blijkens de aantekening in het kentekenregister of op het kentekenbewijs de datum voor de eerste toelating tot het verkeer na 30 juni 1992 maar voor 1 oktober 1995 ligt;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;lid=7&amp;o=b&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10/Lid7/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>EURO II – motorrijtuig wanneer blijkens de aantekening in het kentekenregister of op het kentekenbewijs de datum voor de eerste toelating tot het verkeer na 30 september 1995 maar voor 1 oktober 2000 ligt;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;lid=7&amp;o=c&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10/Lid7/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>EURO III – motorrijtuig wanneer blijkens de aantekening in het kentekenregister of op het kentekenbewijs de datum voor de eerste toelating tot het verkeer na 30 september 2000 maar voor 1 oktober 2005 ligt;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;lid=7&amp;o=d&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10/Lid7/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>EURO IV – motorrijtuig wanneer blijkens de aantekening in het kentekenregister of op het kentekenbewijs de datum voor de eerste toelating tot het verkeer na 30 september 2005 maar voor 1 oktober 2008 ligt;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;lid=7&amp;o=e&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10/Lid7/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>EURO V – motorrijtuig wanneer blijkens de aantekening in het kentekenregister of op het kentekenbewijs de datum voor de eerste toelating tot het verkeer na 30 september 2008 maar voor 1 januari 2013 ligt;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;lid=7&amp;o=f&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10/Lid7/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>EURO VI – motorrijtuig en schoner wanneer blijkens de aantekening in het kentekenregister of op het kentekenbewijs de datum voor de eerste toelating tot het verkeer na 31 december 2012 ligt.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;lid=7&amp;o=g&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=g"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;lid=7&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-506"><publicatiejaar>2018</publicatiejaar><publicatienr>506</publicatienr><uitgiftedatum isodatum="2018-12-28">28-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-19">19-12-2018</ondertekeningsdatum><dossierref dossier="35029">35029</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-506"><publicatiejaar>2018</publicatiejaar><publicatienr>506</publicatienr><uitgiftedatum isodatum="2018-12-28">28-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-19">19-12-2018</ondertekeningsdatum><dossierref dossier="35029">35029</dossierref></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=10&amp;g=2020-09-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=10"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="afdeling=2" korte-verwijzing="jci1.3:c:BWBR0007678&amp;afdeling=2"/></jcis></meta-data></afdeling><afdeling bwb-ng-variabel-deel="/HoofdstukIV/Afdeling3" stam-id="1963813" versie-id="2909902" id="C2909911" label-id="1913134" inwerking="1995-12-01" label="Afdeling 3" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Afdeling</label>
+    <nr>3</nr>
+    <titel status="officieel">Aangifte</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukIV/Afdeling3/Artikel11" stam-id="1963803" versie-id="22742342" id="C32883171" label-id="1913124" inwerking="2015-11-01" label="Artikel 11" bron="Stb.2015-378" effect="wijziging" ondertekening_bron="2015-10-14" publicatie_bron="2015-10-28" publicatie_iwt="2015-10-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Afdeling3/Artikel11/Lid1" label-id="1913124L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De belasting moet op aangifte worden voldaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=3&amp;artikel=11&amp;lid=1&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Afdeling3/Artikel11/Lid2" label-id="1913124L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> In afwijking van <extref doc="jci1.3:c:BWBR0002320&amp;artikel=19" label-id="2873974" verwijzing-id="681780" bwb-id="BWBR0002320">artikel 19 van de Algemene wet inzake rijksbelastingen</extref> moet de belasting worden betaald vóór de aanvang van het gebruik van de autosnelweg.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=3&amp;artikel=11&amp;lid=2&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Afdeling3/Artikel11/Lid3" label-id="1913124L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Op bij ministeriële regeling aangewezen aangiftepunten kan door invoering van tijdvak, tarief alsmede identiteit en nationaliteit van het motorrijtuig in de op deze aangiftepunten aanwezige betalingsapparatuur aangifte worden gedaan, gelijktijdig met de ingevolge het tweede lid te verrichten betaling.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=3&amp;artikel=11&amp;lid=3&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Afdeling3/Artikel11/Lid4" label-id="1913124L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>
+      <extref doc="jci1.3:c:BWBR0002320&amp;hoofdstuk=II" label-id="2873874" verwijzing-id="681782" bwb-id="BWBR0002320">Hoofdstuk II van de Algemene wet inzake rijksbelastingen</extref> is, met uitzondering van <extref doc="jci1.3:c:BWBR0002320&amp;artikel=8" label-id="2873844" verwijzing-id="2462346" bwb-id="BWBR0002320">artikel 8, tweede lid, van die wet</extref>, niet van toepassing op de in het derde lid bedoelde aangifte.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=3&amp;artikel=11&amp;lid=4&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2015-378"><publicatiejaar>2015</publicatiejaar><publicatienr>378</publicatienr><uitgiftedatum isodatum="2015-10-28">28-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-14">14-10-2015</ondertekeningsdatum><dossierref dossier="34196">34196</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2015-379"><publicatiejaar>2015</publicatiejaar><publicatienr>379</publicatienr><uitgiftedatum isodatum="2015-10-28">28-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-14">14-10-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-11-01">01-11-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=11&amp;g=2020-09-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=3&amp;artikel=11&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=11"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=3&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="afdeling=3" korte-verwijzing="jci1.3:c:BWBR0007678&amp;afdeling=3"/></jcis></meta-data></afdeling><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;hoofdstuk=IV&amp;g=2020-09-01" onderdeel="hoofdstuk=IV" korte-verwijzing="1.0:c:BWBR0007678&amp;hoofdstuk=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="hoofdstuk=IV" korte-verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukV" stam-id="1963843" versie-id="15034382" id="C21553191" label-id="1913164" inwerking="2008-10-01" label="Hoofdstuk V" bron="Stb.2007-563" effect="vervallen" ondertekening_bron="2007-12-20" publicatie_bron="2007-12-27" publicatie_iwt="2008-09-30" status="vervallen">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>V</nr>
+    <titel status="officieel">Het certificaat</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukV/Artikel12" code="a-12" stam-id="1963833" versie-id="15034372" id="C21553181" label-id="1913154" inwerking="2008-10-01" label="Artikel 12" bron="Stb.2007-563" effect="vervallen" ondertekening_bron="2007-12-20" publicatie_bron="2007-12-27" publicatie_iwt="2008-09-30" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>12</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2007-563"><publicatiejaar>2007</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="2007-12-27">27-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-20">20-12-2007</ondertekeningsdatum><dossierref dossier="31206">31206</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2008-386"><publicatiejaar>2008</publicatiejaar><publicatienr>386</publicatienr><uitgiftedatum isodatum="2008-09-30">30-09-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-09-24">24-09-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-10-01">01-10-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=12&amp;g=2020-09-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=V&amp;artikel=12&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=12"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2007-563"><publicatiejaar>2007</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="2007-12-27">27-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-20">20-12-2007</ondertekeningsdatum><dossierref dossier="31206">31206</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2008-386"><publicatiejaar>2008</publicatiejaar><publicatienr>386</publicatienr><uitgiftedatum isodatum="2008-09-30">30-09-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-09-24">24-09-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-10-01">01-10-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;hoofdstuk=V&amp;g=2020-09-01" onderdeel="hoofdstuk=V" korte-verwijzing="1.0:c:BWBR0007678&amp;hoofdstuk=V"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=V&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="hoofdstuk=V" korte-verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=V"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukVI" stam-id="1963863" versie-id="2909962" id="C2909961" label-id="1913184" inwerking="1995-12-01" label="Hoofdstuk VI" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>VI</nr>
+    <titel status="officieel">Boetebepaling</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukVI/Artikel13" stam-id="1963853" versie-id="26351232" id="C37450741" label-id="1913174" inwerking="2020-01-01" label="Artikel 13" bron="Stcrt.2019-66970" effect="wijziging" ondertekening_bron="2019-12-18" publicatie_bron="2019-12-30" publicatie_iwt="2019-12-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukVI/Artikel13/Lid1" label-id="1913174L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien wordt geconstateerd dat de verschuldigde belasting niet, niet tijdig of niet geheel is betaald, vormt dit een verzuim ter zake waarvan de inspecteur, in afwijking van de <extref doc="jci1.3:c:BWBR0002320&amp;artikel=67b" label-id="2875474" verwijzing-id="681794" bwb-id="BWBR0002320">artikelen 67b</extref>, <extref doc="jci1.3:c:BWBR0002320&amp;artikel=67c" label-id="2875484" verwijzing-id="681796" bwb-id="BWBR0002320">67c</extref> en <extref doc="jci1.3:c:BWBR0002320&amp;artikel=67f" label-id="2875524" verwijzing-id="681799" bwb-id="BWBR0002320">67f van de Algemene wet inzake rijksbelastingen</extref>, een bestuurlijke boete van ten hoogste € 5.514 kan opleggen aan de houder. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VI&amp;artikel=13&amp;lid=1&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVI/Artikel13/Lid2" label-id="1913174L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>
+      <extref doc="jci1.3:c:BWBR0002320&amp;artikel=67cb" label-id="10330234" verwijzing-id="2323447" bwb-id="BWBR0002320">Artikel 67cb van de Algemene wet inzake rijksbelastingen</extref> is van overeenkomstige toepassing op het bedrag van de boete, genoemd in het eerste lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VI&amp;artikel=13&amp;lid=2&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVI/Artikel13/Lid3" label-id="1913174L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Indien de verschuldigde belasting wordt nageheven, legt de inspecteur de boete op gelijktijdig met de vaststelling van de naheffingsaanslag. In andere gevallen vervalt, in afwijking van <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:45" label-id="10067524" verwijzing-id="2282693" bwb-id="BWBR0005537">artikel 5:45, tweede lid, van de Algemene wet bestuursrecht</extref>, de bevoegdheid tot het opleggen van de boete door verloop van vijf jaren na het einde van het kalenderjaar waarin de constatering, bedoeld in het eerste lid, heeft plaatsgevonden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VI&amp;artikel=13&amp;lid=3&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stcrt" urlidentifier="stcrt-2019-66970"><publicatiejaar>2019</publicatiejaar><publicatienr>66970</publicatienr><uitgiftedatum isodatum="2019-12-30">30-12-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-12-18">18-12-2019</ondertekeningsdatum><kenmerk>2019-0000202068</kenmerk></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stcrt" urlidentifier="stcrt-2019-66970"><publicatiejaar>2019</publicatiejaar><publicatienr>66970</publicatienr><uitgiftedatum isodatum="2019-12-30">30-12-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-12-18">18-12-2019</ondertekeningsdatum><kenmerk>2019-0000202068</kenmerk></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=13&amp;g=2020-09-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VI&amp;artikel=13&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=13"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;hoofdstuk=VI&amp;g=2020-09-01" onderdeel="hoofdstuk=VI" korte-verwijzing="1.0:c:BWBR0007678&amp;hoofdstuk=VI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VI&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="hoofdstuk=VI" korte-verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VI"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukVII" stam-id="1963913" versie-id="2910012" id="C2910011" label-id="1913234" inwerking="1995-12-01" label="Hoofdstuk VII" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>VII</nr>
+    <titel status="officieel">Overige regelingen</titel>
+  </kop><afdeling bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1" stam-id="1963883" versie-id="2911442" id="C2911441" label-id="1913204" inwerking="2000-08-01" label="Afdeling 1" bron="Stb.1998-725" effect="structuurwijziging" ondertekening_bron="1998-12-17" publicatie_bron="1998-12-29" publicatie_iwt="2000-07-25" status="goed">
+  <kop>
+    <label>Afdeling</label>
+    <nr>1</nr>
+    <titel status="officieel">Teruggaaf</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1/Artikel14" code="a-14" stam-id="1963873" versie-id="15958522" id="C21866711" label-id="1913194" inwerking="2008-12-30" label="Artikel 14" bron="Stb.2008-567" effect="wijziging" ondertekening_bron="2008-12-18" publicatie_bron="2008-12-29" publicatie_iwt="2008-12-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">14</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1/Artikel14/Lid1" label-id="1913194L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Op verzoek wordt aan de houder van het motorrijtuig teruggaaf van belasting verleend.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;artikel=14&amp;lid=1&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1/Artikel14/Lid2" label-id="1913194L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De teruggaaf wordt verleend over het op de datum van indiening van het verzoek nog niet verstreken aantal dagen van het tijdvak. <intref verwijzing-id="2250091" doc="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;artikel=14a&amp;z=2020-09-01&amp;g=2020-09-01" bwb-id="BWBR0007678" label-id="1914434" bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1/Artikel14a">Artikel 14a, zesde lid</intref>, is van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;artikel=14&amp;lid=2&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1/Artikel14/Lid3" label-id="1913194L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Het verzoek om teruggaaf wordt gedaan bij de inspecteur, die daarop bij voor bezwaar vatbare beschikking beslist.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;artikel=14&amp;lid=3&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1/Artikel14/Lid4" label-id="1913194L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> De ingevolge het tweede lid berekende teruggaaf wordt verminderd met een bedrag van € 25 voor administratiekosten. Onder bij ministeriële regeling te stellen voorwaarden wordt geen vermindering toegepast.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;artikel=14&amp;lid=4&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-567"><publicatiejaar>2008</publicatiejaar><publicatienr>567</publicatienr><uitgiftedatum isodatum="2008-12-29">29-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum><dossierref dossier="31717">31717</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-567"><publicatiejaar>2008</publicatiejaar><publicatienr>567</publicatienr><uitgiftedatum isodatum="2008-12-29">29-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum><dossierref dossier="31717">31717</dossierref></publicatie><inwerkingtreding.datum isodatum="2008-12-30">30-12-2008</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2008-10-01">01-10-2008</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=14&amp;g=2020-09-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;artikel=14&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=14"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1/Artikel14a" code="h1-14a" stam-id="1965123" versie-id="14019022" id="C19069281" label-id="1914434" inwerking="2007-01-01" label="Artikel 14a" bron="Stb.2006-681" effect="wijziging" ondertekening_bron="2006-12-14" publicatie_bron="2006-12-22" publicatie_iwt="2006-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">14a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1/Artikel14a/Lid1" label-id="1914434L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Voor motorrijtuigen die worden gebruikt voor gecombineerd vervoer wordt op verzoek teruggaaf verleend van de belasting of een gedeelte daarvan. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;artikel=14a&amp;lid=1&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1/Artikel14a/Lid2" label-id="1914434L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onder gecombineerd vervoer wordt verstaan: het goederenvervoer tussen lidstaten van de Europese Unie waarbij de vrachtwagen, de aanhangwagen, de oplegger met of zonder trekker, de wissellaadbak of de container van 20 voet en meer gebruik maken van de weg voor het eerste of het laatste gedeelte in het traject, en voor het andere gedeelte van het spoor of de binnenwateren, of van een zeetraject wanneer dat traject meer bedraagt dan 100 km hemelsbreed gemeten, en het begin- of het eindvervoer over de weg verrichten: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1/Artikel14a/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>hetzij tussen de laadplaats van de goederen en het dichtstbij gelegen geschikte station van inlading, wat het beginvervoer betreft, en tussen het dichtstbij gelegen geschikte station van uitlading en de losplaats van de goederen, wat het eindvervoer betreft; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;artikel=14a&amp;lid=2&amp;o=a&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1/Artikel14a/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>hetzij binnen een afstand van ten hoogste 150 km hemelsbreed gemeten, vanaf de rivier- of zeehaven van in- of uitlading. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;artikel=14a&amp;lid=2&amp;o=b&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;artikel=14a&amp;lid=2&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1/Artikel14a/Lid3" label-id="1914434L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Indien goederen worden vervoerd over zee of per spoor, wordt dat vervoer, in afwijking in zoverre van het tweede lid, slechts begrepen onder gecombineerd vervoer indien voor het betreffende traject over zee of per spoor een alternatief vervoerstraject over de weg voorhanden is. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;artikel=14a&amp;lid=3&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1/Artikel14a/Lid4" label-id="1914434L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De teruggaaf wordt verleend voor iedere dag waarop het motorrijtuig is gebruikt voor een begin- of eindtraject over de weg dat deel uitmaakt van een traject van gecombineerd vervoer, waarbij de plaats van in- of uitlading van de vrachtwagen, de aanhangwagen, de oplegger met of zonder trekker, de wissellaadbak of de container van 20 voet en meer in Nederland is gelegen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;artikel=14a&amp;lid=4&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1/Artikel14a/Lid5" label-id="1914434L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>De periode waarover de teruggaaf wordt uitbetaald, is niet korter dan drie maanden. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;artikel=14a&amp;lid=5&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1/Artikel14a/Lid6" label-id="1914434L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>De teruggaaf voor een dag bedraagt voor een motorrijtuig waarvoor de belasting is betaald over een tijdvak van: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1/Artikel14a/Lid6/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>een dag: de voor het motorrijtuig over het tijdvak betaalde belasting; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;artikel=14a&amp;lid=6&amp;o=a&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1/Artikel14a/Lid6/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>een week: een zevende deel van de voor het motorrijtuig over het tijdvak betaalde belasting; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;artikel=14a&amp;lid=6&amp;o=b&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1/Artikel14a/Lid6/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>een maand: een dertigste deel van de voor het motorrijtuig over het tijdvak betaalde belasting; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;artikel=14a&amp;lid=6&amp;o=c&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1/Artikel14a/Lid6/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>een jaar: een driehonderdvijfenzestigste deel van de voor het motorrijtuig over het tijdvak betaalde belasting. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;artikel=14a&amp;lid=6&amp;o=d&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;artikel=14a&amp;lid=6&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1/Artikel14a/Lid7" label-id="1914434L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Het verzoek om teruggaaf wordt gedaan bij de inspecteur, die daarop bij voor bezwaar vatbare beschikking beslist.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;artikel=14a&amp;lid=7&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1/Artikel14a/Lid8" label-id="1914434L8">
+    <lidnr status="officieel">8</lidnr>
+    <al>Bij ministeriële regeling kunnen nadere voorwaarden en beperkingen worden gesteld ter uitvoering van de teruggaaf en met betrekking tot de administratieve vereisten waaraan voldaan moet worden om voor teruggaaf in aanmerking te komen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;artikel=14a&amp;lid=8&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=8"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2006-681"><publicatiejaar>2006</publicatiejaar><publicatienr>681</publicatienr><uitgiftedatum isodatum="2006-12-22">22-12-2006</uitgiftedatum><ondertekeningsdatum isodatum="2006-12-14">14-12-2006</ondertekeningsdatum><dossierref dossier="30577">30577</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2006-681"><publicatiejaar>2006</publicatiejaar><publicatienr>681</publicatienr><uitgiftedatum isodatum="2006-12-22">22-12-2006</uitgiftedatum><ondertekeningsdatum isodatum="2006-12-14">14-12-2006</ondertekeningsdatum><dossierref dossier="30577">30577</dossierref></publicatie><inwerkingtreding.datum isodatum="2007-01-01">01-01-2007</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=14a&amp;g=2020-09-01" onderdeel="artikel=14a" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=14a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;artikel=14a&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=14a" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=14a"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-1998-725"><publicatiejaar>1998</publicatiejaar><publicatienr>725</publicatienr><uitgiftedatum isodatum="1998-12-29">29-12-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-12-17">17-12-1998</ondertekeningsdatum><dossierref dossier="26245">26245</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2000-310"><publicatiejaar>2000</publicatiejaar><publicatienr>310</publicatienr><uitgiftedatum isodatum="2000-07-25">25-07-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-07-14">14-07-2000</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2000-08-01">01-08-2000</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="afdeling=1" korte-verwijzing="jci1.3:c:BWBR0007678&amp;afdeling=1"/></jcis></meta-data></afdeling><afdeling bwb-ng-variabel-deel="/HoofdstukVII/Afdeling2" stam-id="1963903" versie-id="2910002" id="C2910001" label-id="1913224" inwerking="1995-12-01" label="Afdeling 2" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Afdeling</label>
+    <nr>2</nr>
+    <titel status="officieel">Vrijstelling</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukVII/Afdeling2/Artikel15" code="a-15" stam-id="1963893" versie-id="18965802" id="C26532061" label-id="1913214" inwerking="2012-01-01" label="Artikel 15" bron="Stb.2011-575" effect="wijziging" ondertekening_bron="2011-12-01" publicatie_bron="2011-12-09" publicatie_iwt="2011-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukVII/Afdeling2/Artikel15/Lid1" label-id="1913214L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Vrijstelling van belasting wordt, onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen, verleend voor motorrijtuigen: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukVII/Afdeling2/Artikel15/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>die uitsluitend worden gebruikt door defensie;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=2&amp;artikel=15&amp;lid=1&amp;o=a&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukVII/Afdeling2/Artikel15/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>die uitsluitend worden gebruikt door politie en brandweer en als zodanig uiterlijk herkenbaar zijn;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=2&amp;artikel=15&amp;lid=1&amp;o=b&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukVII/Afdeling2/Artikel15/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>die behoren tot een bedrijfsvoorraad, bedoeld in <extref doc="jci1.3:c:BWBR0006324&amp;artikel=2" verwijzing-id="681811" bwb-id="BWBR0006324" label-id="2845164">artikel 2, onderdeel i, van de Wet op de motorrijtuigenbelasting 1994</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=2&amp;artikel=15&amp;lid=1&amp;o=c&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukVII/Afdeling2/Artikel15/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>die zijn ingericht en uitsluitend worden gebruikt voor de aanleg en het onderhoud van wegen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=2&amp;artikel=15&amp;lid=1&amp;o=d&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukVII/Afdeling2/Artikel15/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>waarmee gewoonlijk slechts over een geringe afstand gebruik van de autosnelweg wordt gemaakt;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=2&amp;artikel=15&amp;lid=1&amp;o=e&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukVII/Afdeling2/Artikel15/Lid1/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>die uitsluitend worden gebruikt voor het vervoer van kermis- of circusbenodigdheden.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=2&amp;artikel=15&amp;lid=1&amp;o=f&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="o=f"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=2&amp;artikel=15&amp;lid=1&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVII/Afdeling2/Artikel15/Lid2" label-id="1913214L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>
+      <extref doc="jci1.3:c:BWBR0005537&amp;paragraaf=4.1.3.3" verwijzing-id="2464329" bwb-id="BWBR0005537" label-id="10274674">Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht</extref> is van toepassing op verzoeken aan de inspecteur tot vrijstelling als bedoeld in het eerste lid, onderdeel e.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=2&amp;artikel=15&amp;lid=2&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2011-575"><publicatiejaar>2011</publicatiejaar><publicatienr>575</publicatienr><uitgiftedatum isodatum="2011-12-09">09-12-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-12-01">01-12-2011</ondertekeningsdatum><dossierref dossier="32454">32454</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2011-627"><publicatiejaar>2011</publicatiejaar><publicatienr>627</publicatienr><uitgiftedatum isodatum="2011-12-21">21-12-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-12-15">15-12-2011</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-01-01">01-01-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=15&amp;g=2020-09-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=2&amp;artikel=15&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=15"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=2&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="afdeling=2" korte-verwijzing="jci1.3:c:BWBR0007678&amp;afdeling=2"/></jcis></meta-data></afdeling><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;hoofdstuk=VII&amp;g=2020-09-01" onderdeel="hoofdstuk=VII" korte-verwijzing="1.0:c:BWBR0007678&amp;hoofdstuk=VII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="hoofdstuk=VII" korte-verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukVIII" stam-id="1963983" versie-id="2910082" id="C2910081" label-id="1913304" inwerking="1995-12-01" label="Hoofdstuk VIII" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>VIII</nr>
+    <titel status="officieel">Aanvullende bepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukVIII/Artikel16" code="j1-16" stam-id="1963923" versie-id="2911512" id="C2911511" label-id="1913244" inwerking="2001-01-01" label="Artikel 16" bron="Stb.2000-569" effect="wijziging" ondertekening_bron="2000-12-14" publicatie_bron="2000-12-27" publicatie_iwt="2000-12-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>16</nr>
+  </kop>
+  <al>Voor motorrijtuigen die in Griekenland geregistreerd staan wordt tot 1 juli 2002 een reductie van 50% toegepast op het tarief, genoemd in <intref verwijzing-id="681815" doc="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;z=2020-09-01&amp;g=2020-09-01" bwb-id="BWBR0007678" label-id="1913104" bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10">artikel 10, eerste tot en met vierde lid</intref>.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2000-569"><publicatiejaar>2000</publicatiejaar><publicatienr>569</publicatienr><uitgiftedatum isodatum="2000-12-27">27-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-14">14-12-2000</ondertekeningsdatum><dossierref dossier="27431">27431</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2000-569"><publicatiejaar>2000</publicatiejaar><publicatienr>569</publicatienr><uitgiftedatum isodatum="2000-12-27">27-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-14">14-12-2000</ondertekeningsdatum><dossierref dossier="27431">27431</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=16&amp;g=2020-09-01" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VIII&amp;artikel=16&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=16"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVIII/Artikel17" code="a-17" stam-id="1963933" versie-id="2910032" id="C2910031" label-id="1913254" inwerking="1995-12-01" label="Artikel 17" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>17</nr>
+  </kop>
+  <al>Bij algemene maatregel van bestuur kunnen met name om redenen van verkeersveiligheid bepaalde wegen, niet zijnde autosnelwegen, of delen daarvan worden aangewezen waarvan het gebruik aan de belasting is onderworpen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=17&amp;g=2020-09-01" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VIII&amp;artikel=17&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=17"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVIII/Artikel18" stam-id="1963943" versie-id="25565802" id="C36492141" label-id="1913264" inwerking="2019-01-01" label="Artikel 18" bron="Stb.2018-507" effect="wijziging" ondertekening_bron="2018-12-19" publicatie_bron="2018-12-28" publicatie_iwt="2018-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">18</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukVIII/Artikel18/Lid1" label-id="1913264L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Op eerste vordering van ambtenaren van de rijksbelastingdienst, van opsporingsambtenaren als bedoeld in <extref doc="jci1.3:c:BWBR0001903&amp;artikel=141" label-id="3003844" verwijzing-id="681818" bwb-id="BWBR0001903">artikel 141 van het Wetboek van Strafvordering</extref>, of van bij besluit van Onze Minister van Financiën in overeenstemming met Onze Minister van Infrastructuur en Waterstaat aangewezen ambtenaren van het Ministerie van Infrastructuur en Waterstaat, is de bestuurder van een motorrijtuig verplicht dat te doen stilstaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VIII&amp;artikel=18&amp;lid=1&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVIII/Artikel18/Lid2" label-id="1913264L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VIII&amp;artikel=18&amp;lid=2&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-507"><publicatiejaar>2018</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2018-12-28">28-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-19">19-12-2018</ondertekeningsdatum><dossierref dossier="35027">35027</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-507"><publicatiejaar>2018</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2018-12-28">28-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-19">19-12-2018</ondertekeningsdatum><dossierref dossier="35027">35027</dossierref></publicatie><inwerkingtreding.datum isodatum="2019-01-01">01-01-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=18&amp;g=2020-09-01" onderdeel="artikel=18" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=18"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VIII&amp;artikel=18&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=18" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=18"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVIII/Artikel19" code="a-19" stam-id="1963953" versie-id="2910052" id="C2910051" label-id="1913274" inwerking="1995-12-01" label="Artikel 19" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>19</nr>
+  </kop>
+  <al>De in <intref verwijzing-id="681824" doc="jci1.3:c:BWBR0007678&amp;hoofdstuk=VIII&amp;artikel=18&amp;z=2020-09-01&amp;g=2020-09-01" bwb-id="BWBR0007678" label-id="1913264" bwb-ng-variabel-deel="/HoofdstukVIII/Artikel18">artikel 18</intref> bedoelde ambtenaren zijn bevoegd een motorrijtuig, alsmede het daarmee verbonden voertuig te onderwerpen aan een onderzoek en het daartoe te brengen of te doen brengen naar een nabij gelegen plaats. De bestuurder van het motorrijtuig of bij diens afwezigheid degene die het motorrijtuig houdt, is verplicht desgevorderd zijn voor het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het motorrijtuig te vervoeren.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=19&amp;g=2020-09-01" onderdeel="artikel=19" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=19"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VIII&amp;artikel=19&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=19" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=19"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVIII/Artikel20" code="a-20" stam-id="1963963" versie-id="15034432" id="C21553171" label-id="1913284" inwerking="2008-10-01" label="Artikel 20" bron="Stb.2007-563" effect="wijziging" ondertekening_bron="2007-12-20" publicatie_bron="2007-12-27" publicatie_iwt="2008-09-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">20</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukVIII/Artikel20/Lid1" label-id="1913284L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Voorzover ter zake van een motorrijtuig het gemeenschappelijke gebruiksrecht, bedoeld in het in <intref verwijzing-id="681830" doc="jci1.3:c:BWBR0007678&amp;hoofdstuk=I&amp;artikel=1&amp;z=2020-09-01&amp;g=2020-09-01" bwb-id="BWBR0007678" label-id="1912944" bwb-ng-variabel-deel="/HoofdstukI/Artikel1">artikel 1</intref> genoemde verdrag, buiten Nederland is voldaan vóór aanvang van het gebruik van de autosnelweg in Nederland, blijft de heffing in Nederland achterwege.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VIII&amp;artikel=20&amp;lid=1&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVIII/Artikel20/Lid2" label-id="1913284L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien het gemeenschappelijke gebruiksrecht buiten Nederland is voldaan, is daarop <intref verwijzing-id="681832" doc="jci1.3:c:BWBR0007678&amp;hoofdstuk=VII&amp;afdeling=1&amp;artikel=14a&amp;z=2020-09-01&amp;g=2020-09-01" bwb-id="BWBR0007678" label-id="1914434" bwb-ng-variabel-deel="/HoofdstukVII/Afdeling1/Artikel14a">artikel 14a</intref> van overeenkomstige toepassing. De teruggaaf wordt verleend op basis van het in <intref verwijzing-id="681834" doc="jci1.3:c:BWBR0007678&amp;hoofdstuk=IV&amp;afdeling=2&amp;artikel=10&amp;z=2020-09-01&amp;g=2020-09-01" bwb-id="BWBR0007678" label-id="1913104" bwb-ng-variabel-deel="/HoofdstukIV/Afdeling2/Artikel10">artikel 10</intref> bedoelde tarief, zoals dat gold voor het tijdvak waarvoor het gemeenschappelijke gebruiksrecht is voldaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VIII&amp;artikel=20&amp;lid=2&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2007-563"><publicatiejaar>2007</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="2007-12-27">27-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-20">20-12-2007</ondertekeningsdatum><dossierref dossier="31206">31206</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-386"><publicatiejaar>2008</publicatiejaar><publicatienr>386</publicatienr><uitgiftedatum isodatum="2008-09-30">30-09-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-09-24">24-09-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-10-01">01-10-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=20&amp;g=2020-09-01" onderdeel="artikel=20" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=20"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VIII&amp;artikel=20&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=20" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=20"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVIII/Artikel21" stam-id="1963973" versie-id="2910072" id="C5311311" label-id="1913294" inwerking="1995-12-01" label="Artikel 21" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>21</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukVIII/Artikel21/Lid1" label-id="1913294L1">
+    <lidnr>1</lidnr>
+    <al>Bij algemene maatregel van bestuur kunnen ter verzekering van een juiste toepassing van de wet nadere regels worden gesteld ter aanvulling van de in deze wet geregelde onderwerpen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VIII&amp;artikel=21&amp;lid=1&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVIII/Artikel21/Lid2" label-id="1913294L2">
+    <lidnr>2</lidnr>
+    <al> Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van de in het eerste lid bedoelde algemene maatregel van bestuur.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VIII&amp;artikel=21&amp;lid=2&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=21&amp;g=2020-09-01" onderdeel="artikel=21" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=21"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VIII&amp;artikel=21&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=21" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=21"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;hoofdstuk=VIII&amp;g=2020-09-01" onderdeel="hoofdstuk=VIII" korte-verwijzing="1.0:c:BWBR0007678&amp;hoofdstuk=VIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VIII&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="hoofdstuk=VIII" korte-verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=VIII"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukIX" stam-id="1964023" versie-id="2910122" id="C2910121" label-id="1913344" inwerking="1995-12-01" label="Hoofdstuk IX" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>IX</nr>
+    <titel status="officieel">Bijzondere bepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukIX/Artikel22" code="a-22" stam-id="1963993" versie-id="2910092" id="C2910091" label-id="1913314" inwerking="1995-12-01" label="Artikel 22" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>22</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=22&amp;g=2020-09-01" onderdeel="artikel=22" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=22"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IX&amp;artikel=22&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=22" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=22"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIX/Artikel23" code="a-23" stam-id="1964003" versie-id="2910102" id="C2910101" label-id="1913324" inwerking="1995-12-01" label="Artikel 23" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>23</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=23&amp;g=2020-09-01" onderdeel="artikel=23" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=23"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IX&amp;artikel=23&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=23" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=23"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIX/Artikel24" code="a-24" stam-id="1964013" versie-id="2910112" id="C2910111" label-id="1913334" inwerking="1995-12-01" label="Artikel 24" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>24</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=24&amp;g=2020-09-01" onderdeel="artikel=24" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=24"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IX&amp;artikel=24&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=24" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=24"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;hoofdstuk=IX&amp;g=2020-09-01" onderdeel="hoofdstuk=IX" korte-verwijzing="1.0:c:BWBR0007678&amp;hoofdstuk=IX"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IX&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="hoofdstuk=IX" korte-verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=IX"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukX" stam-id="1964063" versie-id="2910162" id="C2910161" label-id="1913384" inwerking="1995-12-01" label="Hoofdstuk X" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>X</nr>
+    <titel status="officieel">Slotbepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukX/Artikel25" code="a-25" stam-id="1964033" versie-id="2910132" id="C2910131" label-id="1913354" inwerking="1995-12-01" label="Artikel 25" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>25</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in deze regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=25&amp;g=2020-09-01" onderdeel="artikel=25" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=25"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=X&amp;artikel=25&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=25" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=25"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukX/Artikel26" code="a-26" stam-id="1964043" versie-id="2910142" id="C2910141" label-id="1913364" inwerking="1995-12-01" label="Artikel 26" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>26</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukX/Artikel26/Lid1" label-id="1913364L1">
+    <lidnr>1</lidnr>
+    <al>Deze wet treedt in werking met ingang van 1 december 1995, met uitzondering van <intref verwijzing-id="681842" doc="jci1.3:c:BWBR0007678&amp;hoofdstuk=I&amp;artikel=1&amp;z=2020-09-01&amp;g=2020-09-01" bwb-id="BWBR0007678" label-id="1912944" bwb-ng-variabel-deel="/HoofdstukI/Artikel1">artikel 1</intref>, dat in werking treedt met ingang van de dag na de datum van uitgifte van het <nadruk type="cur">Staatsblad</nadruk> waarin zij wordt geplaatst.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=X&amp;artikel=26&amp;lid=1&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukX/Artikel26/Lid2" label-id="1913364L2">
+    <lidnr>2</lidnr>
+    <al> In afwijking in zoverre van het eerste lid vangt het eerste tijdvak waarover de belasting ingevolge deze wet kan worden geheven, aan met ingang van 1 januari 1996.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=X&amp;artikel=26&amp;lid=2&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=26&amp;g=2020-09-01" onderdeel="artikel=26" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=26"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=X&amp;artikel=26&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=26" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=26"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukX/Artikel27" code="a-27" stam-id="1964053" versie-id="2910152" id="C2910151" label-id="1913374" inwerking="1995-12-01" label="Artikel 27" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>27</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet belasting zware motorrijtuigen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;artikel=27&amp;g=2020-09-01" onderdeel="artikel=27" korte-verwijzing="1.0:c:BWBR0007678&amp;artikel=27"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=X&amp;artikel=27&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="artikel=27" korte-verwijzing="jci1.3:c:BWBR0007678&amp;artikel=27"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;hoofdstuk=X&amp;g=2020-09-01" onderdeel="hoofdstuk=X" korte-verwijzing="1.0:c:BWBR0007678&amp;hoofdstuk=X"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=X&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="hoofdstuk=X" korte-verwijzing="jci1.3:c:BWBR0007678&amp;hoofdstuk=X"/></jcis></meta-data></hoofdstuk>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="1964073" versie-id="2910172" id="C2910171" label-id="1913394" inwerking="1995-12-01" bron="Stb.1995-563" effect="nieuwe-regeling" ondertekening_bron="1995-11-29" publicatie_bron="1995-11-30" publicatie_iwt="1995-11-30" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">29 november 1995</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Staatssecretaris van Financiën,</functie>
+    <naam>
+      <achternaam>W. A. F. G. Vermeend</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Staatssecretaris van Buitenlandse Zaken,</functie>
+    <naam>
+      <achternaam>M. Patijn</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Verkeer en Waterstaat,</functie>
+    <naam>
+      <achternaam>A. Jorritsma-Lebbink</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de dertigste november 1995</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>W. Sorgdrager</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-563"><publicatiejaar>1995</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="1995-11-30">30-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-29">29-11-1995</ondertekeningsdatum><dossierref dossier="24070">24070</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-01">01-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007678&amp;g=2020-09-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0007678"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007678&amp;z=2020-09-01&amp;g=2020-09-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0007678"/></jcis></meta-data></wetgeving></toestand>

@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0037546/2023-04-19/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0037546" inwerkingtreding="2023-04-19"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="13394423" versie-id="22973232" id="C33217301" label-id="13362354" inwerkingtredingsdatum="2016-01-18">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="13394443" versie-id="22972832" id="C33216901" label-id="13361954" inwerking="2016-01-18" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">Wet van 23 december 2015, houdende regels met betrekking tot de veiligheid en het in de handel brengen van pleziervaartuigen (Wet pleziervaartuigen 2016)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="13394453" versie-id="22972842" id="C33216911" label-id="13361964" inwerking="2016-01-18" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15">Wet pleziervaartuigen 2016<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="13394463" versie-id="22972852" id="C33216921" label-id="13361974" inwerking="2016-01-18" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben dat het wenselijk is dat het, gelet op <extref doc="32013L0053" label="richtlijn" reeks="Celex">richtlijn 2013/53</extref>/EU van het Europees Parlement en de Raad van de Europese Unie van 20 november 2013 betreffende pleziervaartuigen en waterscooters en tot intrekking van <extref doc="31994L0025" label="richtlijn" reeks="Celex">richtlijn 94/25/EG</extref> (PbEU L 354), noodzakelijk is regels te stellen met betrekking tot de veiligheid en het in de handel brengen van pleziervaartuigen;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk1" stam-id="13394493" versie-id="22972882" id="C33216951" label-id="13362004" inwerking="2016-01-18" label="Hoofdstuk 1" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">1</nr>
+    <titel status="officieel">Inleidende bepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1" stam-id="13394473" versie-id="29272702" id="C41868271" label-id="13361984" inwerking="2023-04-19" label="Artikel 1" bron="Stb.2023-66" effect="wijziging" ondertekening_bron="2022-11-02" publicatie_bron="2023-03-01" publicatie_iwt="2023-04-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_1">
+      <al>
+        <nadruk type="cur">accreditatie:</nadruk> accreditatie zoals bedoeld in artikel 2, tiende lid, van de verordening;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_2">
+      <al>
+        <nadruk type="cur">CE-markering:</nadruk> markering waarmee de fabrikant aangeeft dat een product in overeenstemming is met alle toepasselijke eisen van de harmonisatiewetgeving van de Europese Unie die in het aanbrengen van die markering voorziet;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_3">
+      <al>
+        <nadruk type="cur">distributeur:</nadruk> natuurlijke of rechtspersoon in de toeleveringsketen, anders dan de fabrikant of de importeur, die een product op de markt aanbiedt;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_4">
+      <al>
+        <nadruk type="cur">EU-conformiteitsverklaring:</nadruk> verklaring afgegeven door de fabrikant dat een product voldoet aan de eisen, bedoeld in artikel 15, eerste tot en met derde lid, van de richtlijn;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_5">
+      <al>
+        <nadruk type="cur">EU-verordening markttoezicht:</nadruk>
+        <extref doc="32920R2019" label="verordening" reeks="Celex">Verordening (EU) nr. 2019/1020</extref> van het Europees Parlement en de Raad van 20 juni 2019 betreffende markttoezicht en conformiteit van producten en tot wijziging van <extref doc="32004L0042" label="richtlijn" reeks="Celex">Richtlijn 2004/42/EG</extref> en <extref doc="32008R0765" label="verordening" reeks="Celex">Verordeningen (EG) nr. 765/2008</extref> en (EU) <extref doc="32011R0305" label="verordening" reeks="Celex">nr. 305/2011</extref> (PbEU 2019 L169);</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_6">
+      <al>
+        <nadruk type="cur">fabrikant:</nadruk> natuurlijke of rechtspersoon die een product vervaardigt of een product laat ontwerpen of vervaardigen en het onder zijn naam of merknaam verhandelt;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_7">
+      <al>
+        <nadruk type="cur">geharmoniseerde norm:</nadruk> geharmoniseerde norm als bedoeld in artikel 2, onderdeel 1, onder c, van Verordening (EU) nr. 1025/2012, betreffende Europese normalisatie, tot wijziging van de <extref doc="31989L0686" label="richtlijn" reeks="Celex">Richtlijnen 89/686/EEG</extref> en <extref doc="31993L0015" label="richtlijn" reeks="Celex">93/15/EEG</extref> van de Raad alsmede de Richtlijnen <extref doc="31994L0009" label="richtlijn" reeks="Celex">94/9/EG</extref>, <extref doc="31994L0025" label="richtlijn" reeks="Celex">94/25/EG</extref>, <extref doc="31995L0016" label="richtlijn" reeks="Celex">95/16/EG</extref>, <extref doc="31997L0023" label="richtlijn" reeks="Celex">97/23/EG</extref>, <extref doc="31998L0034" label="richtlijn" reeks="Celex">98/34/EG</extref>, <extref doc="32004L0022" label="richtlijn" reeks="Celex">2004/22/EG</extref>, <extref doc="32007L0023" label="richtlijn" reeks="Celex">2007/23/EG</extref>, <extref doc="32009L0023" label="richtlijn" reeks="Celex">2009/23/EG</extref> en <extref doc="32009L0105" label="richtlijn" reeks="Celex">2009/105/EG</extref> van het Europees Parlement en de Raad en tot intrekking van Beschikking <extref doc="31987L0095" label="richtlijn" reeks="Celex">87/95/EEG</extref> van de Raad en Besluit <extref doc="33573L2006" label="richtlijn" reeks="Celex">nr. 1673/2006/EG</extref> van het Europees Parlement en de Raad;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_8">
+      <al>
+        <nadruk type="cur">gemachtigde:</nadruk> in de Europese Unie gevestigde natuurlijke of rechtspersoon die schriftelijk door de fabrikant is gemachtigd om namens hem specifieke taken te vervullen;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_9">
+      <al>
+        <nadruk type="cur">harmonisatiewetgeving van de Unie:</nadruk> alle wetgeving van de Europese Unie die de voorwaarden voor het verhandelen van producten harmoniseert;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_10">
+      <al>
+        <nadruk type="cur">importeur:</nadruk> in de Europese Unie gevestigde natuurlijke of rechtspersoon die een product uit een derde land in de Europese Unie in de handel brengt;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_11">
+      <al>
+        <nadruk type="cur">in bedrijf stellen:</nadruk> eerste gebruik in de Europese Unie van een onder de richtlijn vallend product door de eindgebruiker ervan;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_12">
+      <al>
+        <nadruk type="cur">in de handel brengen:</nadruk> voor het eerst in de Europese Unie op de markt aanbieden van een product;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_13">
+      <al>
+        <nadruk type="cur">ingrijpende verbouwing van een vaartuig:</nadruk> een verbouwing van het vaartuig waarbij de wijze van voortstuwing van het vaartuig wordt veranderd, de motor ingrijpend wordt gewijzigd of het vaartuig zodanig wordt gewijzigd dat mogelijkerwijs niet meer wordt voldaan aan de toepasselijke essentiële veiligheids- en milieueisen van de richtlijn;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_14">
+      <al>
+        <nadruk type="cur">ingrijpende wijziging van een motor:</nadruk> een wijziging van een voortstuwingsmotor waardoor deze de in bijlage I, deel B, van de richtlijn vermelde emissiegrenswaarden zou kunnen overschrijden of waardoor het nominale vermogen van de motor met meer dan 15% toeneemt;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_15">
+      <al>
+        <nadruk type="cur">keuring:</nadruk> onderzoek waarmee wordt aangetoond of een product aan de eisen van de richtlijn voldoet;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_16">
+      <al>
+        <nadruk type="cur">keuringsinstantie:</nadruk> instantie die activiteiten in het kader van een keuring verricht, zoals ijken, testen, certificeren en inspecteren;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_17">
+      <al>
+        <nadruk type="cur">kleine of middelgrote onderneming:</nadruk> onderneming als bedoeld in de Aanbeveling 2003/361/EG van de Commissie, van 6 mei 2003, betreffende de definitie van kleine, middelgrote en micro-ondernemingen;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_18">
+      <al>
+        <nadruk type="cur">marktdeelnemers:</nadruk> fabrikant, gemachtigde, importeur en distributeur;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_19">
+      <al>
+        <nadruk type="cur">markttoezicht:</nadruk> activiteiten en maatregelen van overheidsinstanties om ervoor te zorgen dat producten voldoen aan de toepasselijke eisen die zijn opgenomen in de harmonisatiewetgeving van de Unie en geen gevaar opleveren voor de gezondheid en veiligheid of andere aspecten van de bescherming van het openbaar belang;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_20">
+      <al>
+        <nadruk type="cur">markttoezichthouder:</nadruk> door Onze Minister met het markttoezicht belaste ambtenaren;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_21">
+      <al>
+        <nadruk type="cur">nationale accreditatie-instantie:</nadruk> nationale accreditatie-instelling als bedoeld in artikel 2, elfde lid, van de verordening;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_22">
+      <al>
+        <nadruk type="cur">onderdelen:</nadruk> in bijlage II van <extref doc="32013L0053" label="richtlijn" reeks="Celex">richtlijn 2013/53</extref>/EU bedoelde onderdelen van vaartuigen, die afzonderlijk in de handel worden gebracht;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_23">
+      <al>
+        <nadruk type="cur">Onze Minister:</nadruk> Onze Minister van Infrastructuur en Milieu;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_24">
+      <al>
+        <nadruk type="cur">op de markt aanbieden:</nadruk> in het kader van een handelsactiviteit, al dan niet tegen betaling, verstrekken van een product met het oog op distributie, consumptie of gebruik op de markt van de Europese Unie;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_25">
+      <al>
+        <nadruk type="cur">particuliere importeur:</nadruk> in de Europese Unie gevestigde natuurlijke of rechtspersoon die in het kader van een niet-handelsactiviteit een product uit een derde land in de Unie invoert met het oogmerk dit voor eigen gebruik in bedrijf te stellen;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_26">
+      <al>
+        <nadruk type="cur">pleziervaartuig:</nadruk> voor sport- en vrijetijdsdoeleinden bedoeld vaartuig, niet zijnde een waterscooter, ongeacht het type of de wijze van voortstuwing, met een romplengte van 2,5 tot 24 meter;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_27">
+      <al>
+        <nadruk type="cur">richtlijn:</nadruk>
+        <extref doc="32013L0053" label="richtlijn" reeks="Celex">richtlijn nr. 2013/53</extref>/EU van het Europees Parlement en de Raad van de Europese Unie van 20 november 2013 betreffende pleziervaartuigen en waterscooters en tot intrekking van <extref doc="31994L0025" label="richtlijn" reeks="Celex">richtlijn 94/25/EG</extref> (PbEU L 354);</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_28">
+      <al>
+        <nadruk type="cur">uit de handel nemen:</nadruk> maatregel waarmee wordt beoogd te voorkomen dat een product dat zich in de toeleveringsketen bevindt, op de markt wordt aangeboden;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_29">
+      <al>
+        <nadruk type="cur">vaartuig:</nadruk> pleziervaartuig of waterscooter;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_30">
+      <al>
+        <nadruk type="cur">verordening:</nadruk>
+        <extref doc="32008R0765" label="verordening" reeks="Celex">verordening (EG) nr. 765/2008</extref> van het Europees parlement en de Raad van de Europese Unie van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van <extref doc="31993R0339" label="verordening" reeks="Celex">Verordening (EEG) nr. 339/93</extref> (PbEU L 218);</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_31">
+      <al>
+        <nadruk type="cur">voor eigen gebruik gebouwd vaartuig:</nadruk> vaartuig dat grotendeels door de toekomstige gebruiker voor eigen gebruik is gebouwd;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_32">
+      <al>
+        <nadruk type="cur">voortstuwingsmotor:</nadruk> direct of indirect voor voortstuwing gebruikte inwendige verbrandingsmotor met vonk- of compressieontsteking, die gemonteerd zijn of specifiek bestemd zijn voor montage op of in vaartuigen;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_33">
+      <al>
+        <nadruk type="cur">waterscooter:</nadruk> voor sport- en vrijetijdsdoeleinden bedoeld vaartuig met een romplengte van minder dan 4 meter dat een voortstuwingsmotor met een waterstraalpomp als primaire voortstuwingsbron gebruikt en ontworpen is om door (een) op en niet in de romp zittende, staande of knielende persoon (personen) te worden bediend;</al>
+    </li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-66"><publicatiejaar>2023</publicatiejaar><publicatienr>66</publicatienr><uitgiftedatum isodatum="2023-03-01">01-03-2023</uitgiftedatum><ondertekeningsdatum isodatum="2022-11-02">02-11-2022</ondertekeningsdatum><dossierref dossier="36093">36093</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-125"><publicatiejaar>2023</publicatiejaar><publicatienr>125</publicatienr><uitgiftedatum isodatum="2023-04-18">18-04-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-03">03-04-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-04-19">19-04-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=1&amp;g=2023-04-19" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=1"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2" stam-id="13394483" versie-id="22972872" id="C33216941" label-id="13361994" inwerking="2016-01-18" label="Artikel 2" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1" label-id="13361994L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Deze wet is niet van toepassing op:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>wat de ontwerp en bouwvoorschriften van bijlage I, deel A, van de richtlijn betreft:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeela/Onderdeel1">
+            <li.nr>1°.</li.nr>
+            <al>uitsluitend voor wedstrijden bedoelde vaartuigen, met inbegrip van wedstrijdroeiboten en trainingsroeiboten, die als zodanig door de fabrikant worden aangeduid;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=a&amp;o=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=1"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeela/Onderdeel2">
+            <li.nr>2°.</li.nr>
+            <al>kano’s en kajaks die ontworpen zijn om uitsluitend met menselijke kracht te worden voortgestuwd, gondels en waterfietsen;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=a&amp;o=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=2"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeela/Onderdeel3">
+            <li.nr>3°.</li.nr>
+            <al>surfplanken die uitsluitend zijn ontworpen om door de wind te worden voortgestuwd en die worden bediend door een of meer staande personen;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=a&amp;o=3&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=3"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeela/Onderdeel4">
+            <li.nr>4°.</li.nr>
+            <al>surfplanken;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=a&amp;o=4&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=4"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeela/Onderdeel5">
+            <li.nr>5°.</li.nr>
+            <al>originele historische vaartuigen en individuele replica’s daarvan die vóór 1950 zijn ontworpen en hoofdzakelijk met de oorspronkelijke materialen zijn gebouwd, en als zodanig door de fabrikant worden aangeduid;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=a&amp;o=5&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=5"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeela/Onderdeel6">
+            <li.nr>6°.</li.nr>
+            <al>experimentele vaartuigen, mits zij niet in de Europese Unie in de handel worden gebracht;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=a&amp;o=6&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=6"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeela/Onderdeel7">
+            <li.nr>7°.</li.nr>
+            <al>voor eigen gebruik gebouwde vaartuigen, onder de voorwaarde dat zij daarna gedurende een periode van vijf jaar, gerekend vanaf het in bedrijf stellen van het vaartuig, niet in de Europese Unie in de handel worden gebracht;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=a&amp;o=7&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=7"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeela/Onderdeel8">
+            <li.nr>8°.</li.nr>
+            <al>onverminderd het tweede lid, vaartuigen die specifiek bestemd zijn om te worden bemand en passagiers te vervoeren voor commerciële doeleinden, ongeacht het aantal passagiers;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=a&amp;o=8&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=8"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeela/Onderdeel9">
+            <li.nr>9°.</li.nr>
+            <al>duikboten;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=a&amp;o=9&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=9"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeela/Onderdeel10">
+            <li.nr>10°.</li.nr>
+            <al>luchtkussenvoertuigen;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=a&amp;o=10&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=10"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeela/Onderdeel11">
+            <li.nr>11°.</li.nr>
+            <al>draagvleugelboten;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=a&amp;o=11&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=11"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeela/Onderdeel12">
+            <li.nr>12°.</li.nr>
+            <al>met stoomkracht aangedreven vaartuigen met externe verbranding die als brandstof gebruikmaken van kolen, cokes, hout, olie of gas;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=a&amp;o=12&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=12"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeela/Onderdeel13">
+            <li.nr>13°.</li.nr>
+            <al>amfibische vaartuigen, te weten motorvoertuigen, op wielen of rupsbanden, die zowel op water als aan land kunnen worden gebruikt;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=a&amp;o=13&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=13"/></jcis></meta-data></li>
+        </lijst>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=a&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>wat de uitlaatemissievoorschriften van bijlage I, deel B, van de richtlijn betreft:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeelb/Onderdeel1">
+            <li.nr>1°.</li.nr>
+            <al>voortstuwingsmotoren die gemonteerd zijn op of specifiek bestemd zijn voor montage op:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeelb/Onderdeel1/Onderdeelaa">
+                <li.nr>aa.</li.nr>
+                <al>uitsluitend voor wedstrijden bedoelde vaartuigen die als zodanig door de fabrikant worden aangeduid;</al>
+              <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=b&amp;o=1&amp;o=aa&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=aa"/></jcis></meta-data></li>
+              <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeelb/Onderdeel1/Onderdeelbb">
+                <li.nr>bb.</li.nr>
+                <al>experimentele vaartuigen, op voorwaarde dat zij niet in de Europese Unie in de handel worden gebracht;</al>
+              <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=b&amp;o=1&amp;o=bb&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=bb"/></jcis></meta-data></li>
+              <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeelb/Onderdeel1/Onderdeelcc">
+                <li.nr>cc.</li.nr>
+                <al>vaartuigen die specifiek bestemd zijn om te worden bemand en passagiers te vervoeren voor commerciële doeleinden, onverminderd lid 3, ongeacht het aantal passagiers;</al>
+              <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=b&amp;o=1&amp;o=cc&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=cc"/></jcis></meta-data></li>
+              <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeelb/Onderdeel1/Onderdeeldd">
+                <li.nr>dd.</li.nr>
+                <al>duikboten;</al>
+              <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=b&amp;o=1&amp;o=dd&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=dd"/></jcis></meta-data></li>
+              <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeelb/Onderdeel1/Onderdeelee">
+                <li.nr>ee.</li.nr>
+                <al>luchtkussenvoertuigen;</al>
+              <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=b&amp;o=1&amp;o=ee&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=ee"/></jcis></meta-data></li>
+              <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeelb/Onderdeel1/Onderdeelff">
+                <li.nr>ff.</li.nr>
+                <al>draagvleugelboten;</al>
+              <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=b&amp;o=1&amp;o=ff&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=ff"/></jcis></meta-data></li>
+              <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeelb/Onderdeel1/Onderdeelgg">
+                <li.nr>gg.</li.nr>
+                <al>amfibische vaartuigen, te weten motorvoertuigen, op wielen of rupsbanden, die zowel op water als aan land kunnen worden gebruikt; </al>
+              <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=b&amp;o=1&amp;o=gg&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=gg"/></jcis></meta-data></li>
+            </lijst>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=b&amp;o=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=1"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeelb/Onderdeel2">
+            <li.nr>2°.</li.nr>
+            <al>originelen en individuele replica’s van historische voortstuwingsmotoren die op een ontwerp van vóór 1950 gebaseerd zijn, niet in serie geproduceerd zijn en gemonteerd worden op de in onderdeel a, onder 5° of 7°, bedoelde vaartuigen;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=b&amp;o=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=2"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeelb/Onderdeel3">
+            <li.nr>3°.</li.nr>
+            <al>voor eigen gebruik gebouwde voortstuwingsmotoren, op voorwaarde dat zij nadien gedurende een periode van vijf jaar, gerekend vanaf het moment waarop het vaartuig in bedrijf is gesteld, niet in de Europese Unie in de handel worden gebracht;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=b&amp;o=3&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=3"/></jcis></meta-data></li>
+        </lijst>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=b&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>wat de geluidsemissievoorschriften van bijlage I, deel C, van de richtlijn betreft:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeelc/Onderdeel1">
+            <li.nr>1°.</li.nr>
+            <al>alle in onderdeel b bedoelde vaartuigen;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=c&amp;o=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=1"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeelc/Onderdeel2">
+            <li.nr>2°.</li.nr>
+            <al>een voor eigen gebruik gebouwd vaartuig, op voorwaarde dat deze daarna gedurende een periode van vijf jaar, gerekend vanaf het in bedrijf stellen van het vaartuig, niet in de Europese Unie in de handel wordt gebracht.</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=c&amp;o=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=2"/></jcis></meta-data></li>
+        </lijst>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=c&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid2" label-id="13361994L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien hetzelfde vaartuig ook kan worden gebruikt voor de verhuur of voor sport- en vrijetijdscursussen is deze wet van toepassing indien het vaartuig voor recreatiedoeleinden in de Europese Unie in de handel wordt gebracht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;lid=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=2&amp;g=2023-04-19" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;artikel=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=2"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;hoofdstuk=1&amp;g=2023-04-19" onderdeel="hoofdstuk=1" korte-verwijzing="1.0:c:BWBR0037546&amp;hoofdstuk=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="hoofdstuk=1" korte-verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=1"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk2" stam-id="13394533" versie-id="22972922" id="C33216991" label-id="13362044" inwerking="2016-01-18" label="Hoofdstuk 2" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">2</nr>
+    <titel status="officieel">Algemene verplichtingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3" stam-id="13394503" versie-id="22972892" id="C33216961" label-id="13362014" inwerking="2016-01-18" label="Artikel 3" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid1" label-id="13362014L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Vaartuigen, gedeeltelijk afgebouwde vaartuigen, onderdelen, ingrijpend verbouwde vaartuigen, voortstuwingsmotoren of ingrijpend gewijzigde voortstuwingsmotoren worden slechts op de markt aangeboden of in bedrijf gesteld, indien zij bij gebruik volgens hun bestemming en indien zij op correcte wijze zijn gebouwd en worden onderhouden geen gevaar opleveren voor de veiligheid en gezondheid van personen, goederen of het milieu.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=3&amp;lid=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2" label-id="13362014L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De in het eerste lid bedoelde producten voldoen aan de in bijlage I van de richtlijn opgenomen essentiële eisen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid3" label-id="13362014L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>In vaartuigen ingebouwde voortstuwingsmotoren voldoen, onverminderd het eerste lid, tevens aan artikel 6, vierde lid, van de richtlijn, voor zover daarin aanvullende voorschriften zijn gesteld voor het op de markt aanbieden of in bedrijf stellen van die voortstuwingsmotoren.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=3&amp;lid=3&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=3&amp;g=2023-04-19" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=3&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=3"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel4" stam-id="13394513" versie-id="22972902" id="C33216971" label-id="13362024" inwerking="2016-01-18" label="Artikel 4" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel4/Lid1" label-id="13362024L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Voor de in <intref doc="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=3&amp;z=2023-04-19&amp;g=2023-04-19" label-id="13362014" verwijzing-id="2743069" bwb-id="BWBR0037546" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3">artikel 3, eerste lid</intref>, bedoelde producten die voldoen aan de in artikel 14 van de richtlijn bedoelde geharmoniseerde normen geldt als veronderstelling dat zij voldoen aan artikel 3, tweede lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=4&amp;lid=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel4/Lid2" label-id="13362024L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De keuring van de in het eerste lid, bedoelde producten geschiedt overeenkomstig de in de artikelen 19 tot en met 24 van de richtlijn opgenomen voorschriften en procedures.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=4&amp;lid=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel4/Lid3" label-id="13362024L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Indien de in <intref doc="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=3&amp;z=2023-04-19&amp;g=2023-04-19" label-id="13362014" verwijzing-id="2743070" bwb-id="BWBR0037546" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3">artikel 3, eerste lid</intref>, bedoelde producten, met uitzondering van gedeeltelijk afgebouwde vaartuigen, op de markt aangeboden of in bedrijf worden gesteld zijn deze:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel4/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>vergezeld van een EU-conformiteitsverklaring als bedoeld in artikel 15 van de richtlijn, in de door Onze Minister vast te stellen talen, en;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=4&amp;lid=3&amp;o=a&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel4/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>voorzien van een CE-markering.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=4&amp;lid=3&amp;o=b&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=4&amp;lid=3&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel4/Lid4" label-id="13362024L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Voor een van een CE-markering voorzien product geldt als veronderstelling dat het voldoet aan de in bijlage I van de richtlijn opgenomen essentiële eisen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=4&amp;lid=4&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=4&amp;g=2023-04-19" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=4&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=4"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5" stam-id="13394523" versie-id="22972912" id="C33216981" label-id="13362034" inwerking="2016-01-18" label="Artikel 5" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <al>In afwijking van <intref doc="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=4&amp;z=2023-04-19&amp;g=2023-04-19" label-id="13362024" verwijzing-id="2743063" bwb-id="BWBR0037546" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel4">artikel 4, derde lid</intref>, is het toegestaan om:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>gedeeltelijk afgebouwde vaartuigen op de markt aan te bieden wanneer deze vergezeld gaan van een verklaring van de fabrikant of importeur, overeenkomstig bijlage III van de richtlijn en in de door Onze Minister vast te stellen talen, waaruit blijkt dat deze bestemd zijn om door anderen te worden afgebouwd;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=5&amp;o=a&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>onderdelen op de markt aan te bieden of in bedrijf te stellen indien deze vergezeld gaan van een EU-conformiteitsverklaring van de fabrikant of van de importeur waaruit blijkt dat deze onderdelen aan de in bijlage I van de richtlijn opgenomen essentiële eisen voldoen en bestemd zijn om in vaartuigen te worden gemonteerd;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=5&amp;o=b&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>de in artikel 6, vierde lid, van de richtlijn bedoelde voortstuwingsmotoren onder de in dat artikel genoemde voorwaarden op de markt aan te bieden of in bedrijf te stellen;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=5&amp;o=c&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>de in <intref doc="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=3&amp;z=2023-04-19&amp;g=2023-04-19" label-id="13362014" verwijzing-id="2743064" bwb-id="BWBR0037546" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3">artikel 3, eerste lid</intref>, bedoelde producten die niet aan deze richtlijn voldoen, op handelsbeurzen, tentoonstellingen, demonstraties en soortgelijke evenementen te tonen, mits met een zichtbaar teken duidelijk is aangegeven dat die producten niet aan de in bijlage I van de richtlijn opgenomen essentiële eisen voldoen en niet in de Unie op de markt worden aangeboden of in bedrijf gesteld voordat zij daarmee in overeenstemming zijn gebracht.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=5&amp;o=d&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=d"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=5&amp;g=2023-04-19" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=5&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=5"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;hoofdstuk=2&amp;g=2023-04-19" onderdeel="hoofdstuk=2" korte-verwijzing="1.0:c:BWBR0037546&amp;hoofdstuk=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="hoofdstuk=2" korte-verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=2"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk3" stam-id="13394553" versie-id="22972942" id="C33217011" label-id="13362064" inwerking="2016-01-18" label="Hoofdstuk 3" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">3</nr>
+    <titel status="officieel">Verplichtingen van marktdeelnemers en particuliere importeurs</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk3/Artikel6" stam-id="13394543" versie-id="24800982" id="C35613851" label-id="13362054" inwerking="2018-02-17" label="Artikel 6" bron="Stb.2017-480" effect="wijziging" ondertekening_bron="2017-11-29" publicatie_bron="2017-12-15" publicatie_iwt="2018-02-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel6/Lid1" label-id="13362054L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De marktdeelnemers en particuliere importeurs nemen de in Hoofdstuk II en artikel 25 van de richtlijn opgenomen verplichtingen in acht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=3&amp;artikel=6&amp;lid=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel6/Lid2" label-id="13362054L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Een wijziging van Hoofdstuk II of artikel 25 van de richtlijn gaat voor de toepassing van deze wet gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=3&amp;artikel=6&amp;lid=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel6/Lid3" label-id="13362054L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Op verzoek van de fabrikant bepaalt Onze Minister de door de fabrikant te hanteren fabriekscode, bedoeld in Bijlage I, deel A, punt 2.1, onder 2., van de richtlijn.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=3&amp;artikel=6&amp;lid=3&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel6/Lid4" label-id="13362054L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Het in artikel 7, zevende lid, en artikel 9, vierde lid, van de richtlijn bedoelde product gaat vergezeld van een handleiding in de door Onze Minister vast te stellen talen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=3&amp;artikel=6&amp;lid=4&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-480"><publicatiejaar>2017</publicatiejaar><publicatienr>480</publicatienr><uitgiftedatum isodatum="2017-12-15">15-12-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-11-29">29-11-2017</ondertekeningsdatum><dossierref dossier="34757">34757</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-32"><publicatiejaar>2018</publicatiejaar><publicatienr>32</publicatienr><uitgiftedatum isodatum="2018-02-16">16-02-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-01-25">25-01-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-02-17">17-02-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=6&amp;g=2023-04-19" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=3&amp;artikel=6&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=6"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;hoofdstuk=3&amp;g=2023-04-19" onderdeel="hoofdstuk=3" korte-verwijzing="1.0:c:BWBR0037546&amp;hoofdstuk=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=3&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="hoofdstuk=3" korte-verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=3"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk4" stam-id="13394613" versie-id="22973002" id="C33217071" label-id="13362124" inwerking="2016-01-18" label="Hoofdstuk 4" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">4</nr>
+    <titel status="officieel">Aanmelding, beoordeling en taken van keuringsinstanties</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Artikel7" stam-id="13394563" versie-id="22972952" id="C33217021" label-id="13362074" inwerking="2016-01-18" label="Artikel 7" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <al>Keuringen ten aanzien van derden worden uitsluitend verricht door keuringsinstanties die in overeenstemming met <intref doc="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=8&amp;z=2023-04-19&amp;g=2023-04-19" label-id="13362084" verwijzing-id="2743057" bwb-id="BWBR0037546" bwb-ng-variabel-deel="/Hoofdstuk4/Artikel8">artikel 8</intref> beschikken over een aanmelding bij de Europese Commissie en de andere lidstaten van de Europese Unie.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=7&amp;g=2023-04-19" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=7&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=7"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Artikel8" stam-id="13394573" versie-id="22972962" id="C33217031" label-id="13362084" inwerking="2016-01-18" label="Artikel 8" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel8/Lid1" label-id="13362084L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister kan op verzoek keuringsinstanties, die voldoen aan de krachtens het derde lid gestelde voorschriften, aanwijzen en bij de Europese Commissie en de andere lidstaten van de Europese Unie aanmelden als de op grond van deze wet bevoegde keuringsinstanties met betrekking tot de door hem te bepalen categorieën pleziervaartuigen, voortstuwingsmotoren en onderdelen van pleziervaartuigen en belast met door hem aan te geven taken. Het toezicht op deze keuringsinstanties berust bij Onze Minister.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=8&amp;lid=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel8/Lid2" label-id="13362084L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister kan de beoordeling van verzoeken van keuringsinstanties, die voor aanwijzing en aanmelding in aanmerking willen komen, en het toezicht op die keuringsinstanties opdragen aan een nationale accreditatie-instantie als bedoeld in artikel 2 van de verordening.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=8&amp;lid=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel8/Lid3" label-id="13362084L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Bij ministeriële regeling worden regels gesteld betreffende de procedure voor de aanwijzing, bedoeld in het eerste lid, de criteria voor de beoordeling van keuringsinstanties die voor aanwijzing en aanmelding in aanmerking willen komen, de wijze van beoordeling en de door deze keuringsinstanties verschuldigde vergoeding voor de kosten van de beoordeling en de wijze en het tijdstip van betaling daarvan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=8&amp;lid=3&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel8/Lid4" label-id="13362084L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Aangemelde keuringsinstanties nemen rechtstreeks dan wel via een aangestelde vertegenwoordiger deel aan de werkzaamheden van de door Europese Commissie, overeenkomstig artikel 42 van de richtlijn, ingestelde sectorale groepen van aangemelde instanties.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=8&amp;lid=4&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel8/Lid5" label-id="13362084L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Onze Minister trekt een aanwijzing en aanmelding in, schort deze op of beperkt deze, indien hij van oordeel is dat de betreffende keuringsinstantie niet meer voldoet aan de krachtens het derde lid gestelde criteria of aan het vierde lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=8&amp;lid=5&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=8&amp;g=2023-04-19" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=8&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=8"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Artikel9" stam-id="13394583" versie-id="22972972" id="C33217041" label-id="13362094" inwerking="2016-01-18" label="Artikel 9" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+  </kop>
+  <al>Indien een keuringsinstantie aantoont dat zij voldoet aan de desbetreffende geharmoniseerde normen of delen ervan, waarvan de referenties in het Publicatieblad van de Europese Unie zijn bekendgemaakt, geldt als veronderstelling dat zij voldoet aan de krachtens <intref doc="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=8&amp;z=2023-04-19&amp;g=2023-04-19" label-id="13362084" verwijzing-id="2743073" bwb-id="BWBR0037546" bwb-ng-variabel-deel="/Hoofdstuk4/Artikel8">artikel 8, derde lid</intref>, gestelde criteria voor de beoordeling voor zover de toepasselijke geharmoniseerde normen met die criteria overeenkomen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=9&amp;g=2023-04-19" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=9&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=9"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Artikel10" stam-id="13394593" versie-id="22972982" id="C33217051" label-id="13362104" inwerking="2016-01-18" label="Artikel 10" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel10/Lid1" label-id="13362104L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een aangemelde keuringsinstantie voert keuringen uit volgens de keuringsprocedures, bedoeld in de artikelen 19 tot en met 24 van de richtlijn.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=10&amp;lid=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel10/Lid2" label-id="13362104L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De keuringen worden op evenredige wijze uitgevoerd, waarbij wordt voorkomen dat marktdeelnemers en particuliere importeurs onnodig worden belast. De keuringsinstantie houdt bij de uitoefening van haar activiteiten naar behoren rekening met de omvang van een onderneming, de sector waarin zij actief is, haar structuur, de relatieve technologische complexiteit van de producten en het massa- of seriële karakter van het productieproces. Daarbij eerbiedigt zij evenwel de striktheid en het beschermingsniveau die nodig zijn om het product aan deze richtlijn te laten voldoen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=10&amp;lid=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel10/Lid3" label-id="13362104L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Indien een aangemelde keuringsinstantie vaststelt dat een fabrikant of een particuliere importeur niet heeft voldaan aan de eisen van <intref doc="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=3&amp;z=2023-04-19&amp;g=2023-04-19" label-id="13362014" verwijzing-id="2743072" bwb-id="BWBR0037546" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3">artikel 3, eerste en tweede lid</intref>, of overeenkomstige geharmoniseerde normen, verlangt zij van die fabrikant of particuliere importeur dat hij passende corrigerende maatregelen neemt en verleent zij geen certificaat te bewijze van conformiteit aan die eisen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=10&amp;lid=3&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel10/Lid4" label-id="13362104L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Indien een aangemelde keuringsinstantie bij het toezicht op de conformiteit na verlening van een certificaat vaststelt dat een product niet meer conform is, verlangt zij van de fabrikant of particuliere importeur dat hij passende corrigerende maatregelen neemt. Zo nodig schort zij het certificaat op of trekt zij dit in.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=10&amp;lid=4&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel10/Lid5" label-id="13362104L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Indien geen corrigerende maatregelen door de fabrikant of particuliere importeur worden genomen of de genomen maatregelen niet het vereiste effect hebben, worden de certificaten door de aangemelde keuringsinstantie naargelang het geval beperkt, opgeschort of ingetrokken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=10&amp;lid=5&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel10/Lid6" label-id="13362104L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Een wijziging van de artikelen 19 tot en met 24 van de richtlijn gaat voor de toepassing van deze wet gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=10&amp;lid=6&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=10&amp;g=2023-04-19" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=10&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=10"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Artikel11" stam-id="13394603" versie-id="22972992" id="C33217061" label-id="13362114" inwerking="2016-01-18" label="Artikel 11" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel11/Lid1" label-id="13362114L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een aangemelde keuringsinstantie stelt Onze Minister in kennis van:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Artikel11/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>elke weigering, beperking, opschorting of intrekking van certificaten;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=11&amp;lid=1&amp;o=a&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Artikel11/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>omstandigheden die van invloed zijn op de werkingssfeer van en de voorwaarden voor aanmelding;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=11&amp;lid=1&amp;o=b&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Artikel11/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>informatieverzoeken over keuringsactiviteiten die zij van markttoezichtautoriteiten ontvangen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=11&amp;lid=1&amp;o=c&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=11&amp;lid=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel11/Lid2" label-id="13362114L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Een aangemelde keuringsinstantie brengt desgevraagd Onze Minister op de hoogte van de binnen de werkingssfeer van haar aanmelding verrichte keuringsactiviteiten en andere activiteiten, waaronder grensoverschrijdende activiteiten en uitbesteding.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=11&amp;lid=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel11/Lid3" label-id="13362114L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Een aangemelde keuringsinstantie verstrekt de andere uit hoofde van deze richtlijn aangemelde keuringsinstanties die soortgelijke keuringsactiviteiten voor dezelfde producten verrichten relevante informatie over negatieve keuringsresultaten en op verzoek ook over positieve keuringsresultaten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=11&amp;lid=3&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=11&amp;g=2023-04-19" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;artikel=11&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=11"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;hoofdstuk=4&amp;g=2023-04-19" onderdeel="hoofdstuk=4" korte-verwijzing="1.0:c:BWBR0037546&amp;hoofdstuk=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="hoofdstuk=4" korte-verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=4"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk5" stam-id="13394633" versie-id="22973022" id="C33217091" label-id="13362144" inwerking="2016-01-18" label="Hoofdstuk 5" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">5</nr>
+    <titel status="officieel">Verbodsbepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel12" stam-id="13394623" versie-id="29275672" id="C41868301" label-id="13362134" inwerking="2023-04-19" label="Artikel 12" bron="Stb.2023-66" effect="wijziging" ondertekening_bron="2022-11-02" publicatie_bron="2023-03-01" publicatie_iwt="2023-04-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">12</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel12/Lid1" label-id="13362134L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het is verboden een in <intref doc="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=3&amp;z=2023-04-19&amp;g=2023-04-19" label-id="13362014" verwijzing-id="2743059" bwb-id="BWBR0037546" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3">artikel 3, eerste lid</intref>, bedoeld product in de handel te brengen of als zodanig in bedrijf te stellen, indien dit niet voldoet aan de desbetreffende in bijlage I van de richtlijn opgenomen essentiële eisen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=5&amp;artikel=12&amp;lid=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel12/Lid2" label-id="13362134L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het is verboden een in <intref doc="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=3&amp;z=2023-04-19&amp;g=2023-04-19" label-id="13362014" verwijzing-id="2743060" bwb-id="BWBR0037546" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3">artikel 3, eerste lid</intref>, bedoeld product in de handel te brengen of als zodanig in bedrijf te stellen, indien dit niet op deugdelijke wijze is voorzien van de vereiste CE-markering.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=5&amp;artikel=12&amp;lid=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel12/Lid3" label-id="13362134L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het is verboden een CE-markering aan te brengen, indien niet een van toepassing zijnde procedure van conformiteitsbeoordeling is gevolgd of indien het betrokken product niet voldoet aan de desbetreffende in bijlage I van de richtlijn opgenomen essentiële eisen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=5&amp;artikel=12&amp;lid=3&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel12/Lid4" label-id="13362134L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Het is verboden merktekens of opschriften aan te brengen die anderen kunnen misleiden omtrent de betekenis of de grafische vormgeving van de CE-markering, of die de zichtbaarheid of de leesbaarheid van die CE-markering verminderen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=5&amp;artikel=12&amp;lid=4&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel12/Lid5" label-id="13362134L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Het is verboden te handelen in strijd met:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel12/Lid5/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de artikelen 7, 9, derde lid, tot en met 13 van de richtlijn, en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=5&amp;artikel=12&amp;lid=5&amp;o=a&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel12/Lid5/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>artikel 25 van de richtlijn.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=5&amp;artikel=12&amp;lid=5&amp;o=b&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=5&amp;artikel=12&amp;lid=5&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel12/Lid6" label-id="13362134L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Het is verboden te handelen in strijd met een door de markttoezichthouder opgelegde verplichting, verbod of beperking als bedoeld in de <intref doc="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=14&amp;z=2023-04-19&amp;g=2023-04-19" label-id="13362164" verwijzing-id="2743061" bwb-id="BWBR0037546" bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel14">artikelen 14, eerste en derde lid</intref>, of <intref doc="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=16&amp;z=2023-04-19&amp;g=2023-04-19" label-id="13362184" verwijzing-id="2743062" bwb-id="BWBR0037546" bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel16">16</intref> van deze wet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=5&amp;artikel=12&amp;lid=6&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel12/Lid7" label-id="13362134L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Het is verboden te handelen in strijd met:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel12/Lid7/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>artikel 4, eerste, derde en vierde lid, van de EU-verordening markttoezicht, en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=5&amp;artikel=12&amp;lid=7&amp;o=a&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel12/Lid7/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de artikelen 5, tweede lid, tweede volzin, en 7 van de EU-verordening markttoezicht.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=5&amp;artikel=12&amp;lid=7&amp;o=b&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=5&amp;artikel=12&amp;lid=7&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=7"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-66"><publicatiejaar>2023</publicatiejaar><publicatienr>66</publicatienr><uitgiftedatum isodatum="2023-03-01">01-03-2023</uitgiftedatum><ondertekeningsdatum isodatum="2022-11-02">02-11-2022</ondertekeningsdatum><dossierref dossier="36093">36093</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-125"><publicatiejaar>2023</publicatiejaar><publicatienr>125</publicatienr><uitgiftedatum isodatum="2023-04-18">18-04-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-03">03-04-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-04-19">19-04-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=12&amp;g=2023-04-19" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=5&amp;artikel=12&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=12"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;hoofdstuk=5&amp;g=2023-04-19" onderdeel="hoofdstuk=5" korte-verwijzing="1.0:c:BWBR0037546&amp;hoofdstuk=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=5&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="hoofdstuk=5" korte-verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=5"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk6" stam-id="13394743" versie-id="22973132" id="C33217201" label-id="13362254" inwerking="2016-01-18" label="Hoofdstuk 6" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">6</nr>
+    <titel status="officieel">Handhaving</titel>
+  </kop><paragraaf bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1" stam-id="13394683" versie-id="29275682" id="C41698551" label-id="13362194" inwerking="2022-11-02" label="§ 1" bron="Stb.2023-66" effect="structuurwijziging" ondertekening_bron="2022-11-02" publicatie_bron="2023-03-01" publicatie_iwt="2023-03-01" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">1</nr>
+    <titel status="officieel">
+      <nadruk type="cur">Toezicht waaronder markttoezicht</nadruk>
+    </titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13" stam-id="13394643" versie-id="22973032" id="C33217101" label-id="13362154" inwerking="2016-01-18" label="Artikel 13" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13/Lid1" label-id="13362154L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de door Onze Minister aangewezen ambtenaren van de Inspectie Leefomgeving en Transport.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13&amp;lid=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13/Lid2" label-id="13362154L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister kan tevens ambtenaren van een andere diensttak aanwijzen voor het toezicht op de naleving van het bij of krachtens deze wet bepaalde. Indien hij ambtenaren van een ander ministerie aanwijst, doet hij dit in overeenstemming met zijn ambtgenoot die het mede aangaat.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13&amp;lid=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13/Lid3" label-id="13362154L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Van een besluit als bedoeld in het tweede lid wordt mededeling gedaan in de Staatscourant.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13&amp;lid=3&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13/Lid4" label-id="13362154L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Het in het eerste en tweede lid bedoelde toezicht omvat mede de activiteiten en maatregelen in het kader van het markttoezicht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13&amp;lid=4&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=13&amp;g=2023-04-19" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=13"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13a" stam-id="16689513" versie-id="29275692" id="C41868311" label-id="16606784" inwerking="2023-04-19" label="Artikel 13a" bron="Stb.2023-66" effect="nieuw" ondertekening_bron="2022-11-02" publicatie_bron="2023-03-01" publicatie_iwt="2023-04-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13a/Lid1" label-id="16606784L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De ingevolge <intref doc="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13&amp;z=2023-04-19&amp;g=2023-04-19" label-id="13362154" verwijzing-id="3221651" bwb-id="BWBR0037546" bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13">artikel 13</intref> aangewezen ambtenaren, zijn in afwijking van <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:15" label-id="2820024" verwijzing-id="3221652" bwb-id="BWBR0005537">artikel 5:15, eerste lid, van de Algemene wet bestuursrecht</extref>, bevoegd met medeneming van de benodigde apparatuur een woning te betreden zonder toestemming van de bewoner ten behoeve van de uitoefening van de bevoegdheden, bedoeld in artikel 14, vierde lid, onderdelen a, d en e, van de EU-verordening markttoezicht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13a&amp;lid=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13a/Lid2" label-id="16606784L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Voor het uitoefenen van de bevoegdheid, bedoeld in het eerste lid, is een voorafgaande machtiging vereist van de rechter-commissaris. In het verzoek om afgifte van een machtiging worden de proportionaliteit en subsidiariteit van het verzoek gemotiveerd. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen. <extref doc="jci1.3:c:BWBR0001903&amp;artikel=171" label-id="3004234" verwijzing-id="3221653" bwb-id="BWBR0001903">Artikel 171 van het Wetboek van Strafvordering</extref> is van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13a&amp;lid=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13a/Lid3" label-id="16606784L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Tegen de beslissing van de rechter-commissaris, bedoeld in het tweede lid, staat voor zover het verzoek om een machtiging niet is toegewezen, voor Onze Minister binnen veertien dagen beroep open bij de rechtbank, sector strafrecht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13a&amp;lid=3&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13a/Lid4" label-id="16606784L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De <extref doc="jci1.3:c:BWBR0006763&amp;artikel=2" label-id="1202434" verwijzing-id="3221654" bwb-id="BWBR0006763">artikelen 2</extref> en <extref doc="jci1.3:c:BWBR0006763&amp;artikel=3" label-id="1202454" verwijzing-id="3221655" bwb-id="BWBR0006763">3 van de Algemene wet op het binnentreden</extref> zijn niet van toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13a&amp;lid=4&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-66"><publicatiejaar>2023</publicatiejaar><publicatienr>66</publicatienr><uitgiftedatum isodatum="2023-03-01">01-03-2023</uitgiftedatum><ondertekeningsdatum isodatum="2022-11-02">02-11-2022</ondertekeningsdatum><dossierref dossier="36093">36093</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-125"><publicatiejaar>2023</publicatiejaar><publicatienr>125</publicatienr><uitgiftedatum isodatum="2023-04-18">18-04-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-03">03-04-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-04-19">19-04-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=13a&amp;g=2023-04-19" onderdeel="artikel=13a" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=13a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13a&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=13a" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=13a"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13b" stam-id="16689523" versie-id="29275702" id="C41868321" label-id="16606794" inwerking="2023-04-19" label="Artikel 13b" bron="Stb.2023-66" effect="nieuw" ondertekening_bron="2022-11-02" publicatie_bron="2023-03-01" publicatie_iwt="2023-04-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13b</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13b/Lid1" label-id="16606794L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De ingevolge <intref doc="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13&amp;z=2023-04-19&amp;g=2023-04-19" label-id="13362154" verwijzing-id="3221656" bwb-id="BWBR0037546" bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13">artikel 13</intref> aangewezen ambtenaren zijn bevoegd om, ter uitvoering van de EU-verordening markttoezicht, onder verstrekking van onjuiste of onvolledige gegevens met betrekking tot hun identiteit en hoedanigheid, producten als bedoeld in artikel 3, eerste lid, te verkrijgen ten behoeve van het controleren van de kenmerken van deze producten en de verificatie van de documenten en de hieraan gerelateerde handelingen te verrichten voor zover dat voor de vervulling van hun taak noodzakelijk is. <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:12" label-id="2819994" verwijzing-id="3221657" bwb-id="BWBR0005537">Artikel 5:12, tweede lid, van de Algemene wet bestuursrecht</extref> is niet van toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13b&amp;lid=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13b/Lid2" label-id="16606794L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De ambtenaar die gebruik heeft gemaakt van de bevoegdheid bedoeld in het eerste lid, maakt daarvan een schriftelijk verslag op waarin wordt vermeld:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13b/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>zijn naam of nummer en hoedanigheid;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13b&amp;lid=2&amp;o=a&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13b/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de motivering van de noodzaak tot uitoefening van de bevoegdheid;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13b&amp;lid=2&amp;o=b&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13b/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de voorschriften op de naleving waarvan wordt toegezien;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13b&amp;lid=2&amp;o=c&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13b/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>het adres, waaronder indien van toepassing, het elektronische adres waar het product, bedoeld in het eerste lid, is verkregen en, voor zover bekend, de omschrijving van de betrokken marktdeelnemer;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13b&amp;lid=2&amp;o=d&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13b/Lid2/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>de onjuiste of onvolledige gegevens die zijn verstrekt bij de verkrijging van het product;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13b&amp;lid=2&amp;o=e&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13b/Lid2/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>de wijze waarop en het tijdvak waarin de handelingen hebben plaatsgevonden;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13b&amp;lid=2&amp;o=f&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13b/Lid2/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>wat de uitkomst is van het onderzoek van het verkregen product.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13b&amp;lid=2&amp;o=g&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=g"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13b&amp;lid=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-66"><publicatiejaar>2023</publicatiejaar><publicatienr>66</publicatienr><uitgiftedatum isodatum="2023-03-01">01-03-2023</uitgiftedatum><ondertekeningsdatum isodatum="2022-11-02">02-11-2022</ondertekeningsdatum><dossierref dossier="36093">36093</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-125"><publicatiejaar>2023</publicatiejaar><publicatienr>125</publicatienr><uitgiftedatum isodatum="2023-04-18">18-04-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-03">03-04-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-04-19">19-04-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=13b&amp;g=2023-04-19" onderdeel="artikel=13b" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=13b"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13b&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=13b" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=13b"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13c" stam-id="16689533" versie-id="29275712" id="C41868331" label-id="16606804" inwerking="2023-04-19" label="Artikel 13c" bron="Stb.2023-66" effect="nieuw" ondertekening_bron="2022-11-02" publicatie_bron="2023-03-01" publicatie_iwt="2023-04-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13c</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13c/Lid1" label-id="16606804L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Ter uitvoering van de EU-verordening markttoezicht kan Onze Minister, indien er geen andere doeltreffende middelen voorhanden zijn om een ernstig risico als bedoeld in artikel 3, onderdeel 20, van de EU-verordening markttoezicht, gevormd door het product, weg te nemen, een zelfstandige last opleggen aan degene die daartoe in staat is, om inhoud te verwijderen van of de toegang te beperken tot een online interface als bedoeld in artikel 3, onderdeel 15, van de EU-verordening markttoezicht of opdracht te geven tot de duidelijke weergave van een waarschuwing voor eindgebruikers, bedoeld in artikel 3, onderdeel 21, van de EU-verordening markttoezicht, wanneer zij zich toegang verschaffen tot een online interface.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13c&amp;lid=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13c/Lid2" label-id="16606804L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien niet binnen de daarvoor gestelde termijn aan een last als bedoeld in het eerste lid is voldaan, kan Onze Minister een zelfstandige last opleggen aan een aanbieder van diensten van de informatiemaatschappij, als bedoeld in artikel 3, onderdeel 14, van de EU-verordening markttoezicht om alle maatregelen te treffen die redelijkerwijs van hem kunnen worden gevergd om de toegang tot een online interface te beperken, onder meer door een daarvoor in aanmerking komende derde te verzoeken dergelijke maatregelen uit te voeren.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13c&amp;lid=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13c/Lid3" label-id="16606804L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Degene tot wie een zelfstandige last als bedoeld in het eerste of tweede lid is gericht, handelt overeenkomstig die last.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13c&amp;lid=3&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13c/Lid4" label-id="16606804L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Op grond van het eerste of tweede lid kan geen zelfstandige last worden opgelegd die leidt tot het blokkeren of filteren van internetverkeer.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13c&amp;lid=4&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13c/Lid5" label-id="16606804L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Voor een zelfstandige last als bedoeld in het eerste of tweede lid is voorafgaande machtiging vereist van de rechter-commissaris. In het verzoek om afgifte van een machtiging worden de proportionaliteit en subsidiariteit van het verzoek gemotiveerd. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen. <extref doc="jci1.3:c:BWBR0001903&amp;artikel=171" label-id="3004234" verwijzing-id="3221658" bwb-id="BWBR0001903">Artikel 171 van het Wetboek van Strafvordering</extref> is van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13c&amp;lid=5&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13c/Lid6" label-id="16606804L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Tegen de beslissing van de rechter-commissaris, bedoeld in het vijfde lid, staat voor zover het verzoek om een machtiging niet is toegewezen, voor Onze Minister, binnen veertien dagen beroep open bij de rechtbank, sector strafrecht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13c&amp;lid=6&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13c/Lid7" label-id="16606804L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Onze Minister maakt de machtiging van de rechter-commissaris gelijktijdig met de zelfstandige last, bedoeld in het eerste of tweede lid, bekend.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13c&amp;lid=7&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=7"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-66"><publicatiejaar>2023</publicatiejaar><publicatienr>66</publicatienr><uitgiftedatum isodatum="2023-03-01">01-03-2023</uitgiftedatum><ondertekeningsdatum isodatum="2022-11-02">02-11-2022</ondertekeningsdatum><dossierref dossier="36093">36093</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-125"><publicatiejaar>2023</publicatiejaar><publicatienr>125</publicatienr><uitgiftedatum isodatum="2023-04-18">18-04-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-03">03-04-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-04-19">19-04-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=13c&amp;g=2023-04-19" onderdeel="artikel=13c" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=13c"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13c&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=13c" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=13c"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13d" stam-id="16689543" versie-id="29275722" id="C41868281" label-id="16606814" inwerking="2023-04-19" label="Artikel 13d" bron="Stb.2023-66" effect="nieuw" ondertekening_bron="2022-11-02" publicatie_bron="2023-03-01" publicatie_iwt="2023-04-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13d</nr>
+  </kop>
+  <al>
+    <extref doc="jci1.3:c:BWBR0005537&amp;titeldeel=5.2" label-id="10067344" verwijzing-id="3221659" bwb-id="BWBR0005537">Titel 5.2 van de Algemene wet bestuursrecht</extref> is van overeenkomstige toepassing voor zover de krachtens <intref doc="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13&amp;z=2023-04-19&amp;g=2023-04-19" label-id="13362154" verwijzing-id="3221660" bwb-id="BWBR0037546" bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel13">artikel 13</intref> van de wet aangewezen toezichthouders bijstand verlenen aan een markttoezichtautoriteit uit een andere lidstaat van de Europese Unie op grond van artikel 22 of artikel 23 van die verordening.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-66"><publicatiejaar>2023</publicatiejaar><publicatienr>66</publicatienr><uitgiftedatum isodatum="2023-03-01">01-03-2023</uitgiftedatum><ondertekeningsdatum isodatum="2022-11-02">02-11-2022</ondertekeningsdatum><dossierref dossier="36093">36093</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-125"><publicatiejaar>2023</publicatiejaar><publicatienr>125</publicatienr><uitgiftedatum isodatum="2023-04-18">18-04-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-03">03-04-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-04-19">19-04-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=13d&amp;g=2023-04-19" onderdeel="artikel=13d" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=13d"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=13d&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=13d" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=13d"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel14" stam-id="13394653" versie-id="22973042" id="C33217111" label-id="13362164" inwerking="2016-01-18" label="Artikel 14" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">14</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel14/Lid1" label-id="13362164L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien de markttoezichthouder vaststelt dat een product als bedoeld in <intref doc="jci1.3:c:BWBR0037546&amp;hoofdstuk=2&amp;artikel=3&amp;z=2023-04-19&amp;g=2023-04-19" label-id="13362014" verwijzing-id="2743058" bwb-id="BWBR0037546" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3">artikel 3, eerste lid</intref>, gevaar kan opleveren voor de veiligheid en de gezondheid van personen, goederen of het milieu, legt hij direct de verantwoordelijke marktdeelnemer of particuliere importeur de verplichting op binnen een door hem vast te stellen termijn met de aard van het risico evenredige maatregelen te nemen om dat product in overeenstemming te brengen met bijlage I van de richtlijn, uit de handel te nemen of terug te roepen dan wel het in bedrijf stellen of het gebruik ervan op te schorten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=14&amp;lid=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel14/Lid2" label-id="13362164L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De in het eerste lid bedoelde marktdeelnemers of particuliere importeurs dragen er zorg voor de opgelegde maatregelen binnen de gestelde termijn uit te voeren.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=14&amp;lid=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel14/Lid3" label-id="13362164L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Indien geen of geen tijdige uitvoering wordt gegeven aan de krachtens het eerste lid opgelegde maatregelen neemt de markttoezichthouder alle passende voorlopige maatregelen om het op de markt aanbieden van het betreffende product te verbieden of te beperken, dit uit de handel te nemen of terug te roepen dan wel de inbedrijfstelling of het gebruik ervan te verbieden of te beperken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=14&amp;lid=3&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=14&amp;g=2023-04-19" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=14&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=14"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel15" stam-id="13394663" versie-id="22973052" id="C33217121" label-id="13362174" inwerking="2016-01-18" label="Artikel 15" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel15/Lid1" label-id="13362174L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De markttoezichthouder stelt de betrokken aangemelde keuringsinstantie in kennis van een situatie als bedoeld in <intref doc="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=14&amp;z=2023-04-19&amp;g=2023-04-19" label-id="13362164" verwijzing-id="2743055" bwb-id="BWBR0037546" bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel14">artikel 14, eerste lid</intref>, alsmede de Europese Commissie en de andere lidstaten van de Europese Unie, indien naar zijn oordeel het vastgestelde gevaar niet beperkt is tot het Nederlandse grondgebied.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=15&amp;lid=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel15/Lid2" label-id="13362174L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De markttoezichthouder stelt direct de Europese Commissie en de andere lidstaten van de Europese Unie overeenkomstig artikel 44, vijfde lid, van de richtlijn in kennis van een situatie als bedoeld in <intref doc="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=14&amp;z=2023-04-19&amp;g=2023-04-19" label-id="13362164" verwijzing-id="2743056" bwb-id="BWBR0037546" bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel14">artikel 14, derde lid</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=15&amp;lid=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=15&amp;g=2023-04-19" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=15&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=15"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel16" stam-id="13394673" versie-id="22973062" id="C33217131" label-id="13362184" inwerking="2016-01-18" label="Artikel 16" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">16</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel16/Lid1" label-id="13362184L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De markttoezichthouder draagt de desbetreffende marktdeelnemer of particuliere importeur op om een product in overeenstemming te brengen met de bij of krachtens deze wet geldende voorschriften indien hij vaststelt dat:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel16/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de CE-markering niet of ten onrechte is aangebracht;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=16&amp;lid=1&amp;o=a&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel16/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de EU-conformiteitsverklaring niet of incorrect is opgesteld;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=16&amp;lid=1&amp;o=b&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel16/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de verklaring van de fabrikant of importeur, bedoeld in bijlage III van de richtlijn, niet of incorrect is opgesteld;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=16&amp;lid=1&amp;o=c&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel16/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de technische documentatie niet beschikbaar of onvolledig is;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=16&amp;lid=1&amp;o=d&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel16/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>de naam, merknaam en contactgegevens van de fabrikant of importeur ontbreken, onjuist of onvolledig zijn;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=16&amp;lid=1&amp;o=e&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel16/Lid1/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>niet is voldaan aan enig ander administratief vereiste als bedoeld in de artikelen 7 of 9 van de richtlijn.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=16&amp;lid=1&amp;o=f&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="o=f"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=16&amp;lid=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf1/Artikel16/Lid2" label-id="13362184L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien de desbetreffende marktdeelnemer of particuliere importeur de opgedragen handelingen niet of niet tijdig uitvoert neemt de markttoezichthouder alle passende maatregelen om het aanbieden van het betreffende product te verbieden of te beperken, dit uit de handel te nemen of terug te roepen dan wel de inbedrijfstelling of het gebruik ervan te verbieden of te beperken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=16&amp;lid=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=16&amp;g=2023-04-19" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;artikel=16&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=16"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2023-66"><publicatiejaar>2023</publicatiejaar><publicatienr>66</publicatienr><uitgiftedatum isodatum="2023-03-01">01-03-2023</uitgiftedatum><ondertekeningsdatum isodatum="2022-11-02">02-11-2022</ondertekeningsdatum><dossierref dossier="36093">36093</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2023-66"><publicatiejaar>2023</publicatiejaar><publicatienr>66</publicatienr><uitgiftedatum isodatum="2023-03-01">01-03-2023</uitgiftedatum><ondertekeningsdatum isodatum="2022-11-02">02-11-2022</ondertekeningsdatum><dossierref dossier="36093">36093</dossierref></publicatie><inwerkingtreding.datum isodatum="2022-11-02">02-11-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;paragraaf=1&amp;g=2023-04-19" onderdeel="paragraaf=1" korte-verwijzing="1.0:c:BWBR0037546&amp;paragraaf=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="paragraaf=1" korte-verwijzing="jci1.3:c:BWBR0037546&amp;paragraaf=1"/></jcis></meta-data></paragraaf><paragraaf bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf2" stam-id="13394703" versie-id="22973092" id="C33217161" label-id="13362214" inwerking="2016-01-18" label="§ 2" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">2</nr>
+    <titel status="officieel">
+      <nadruk type="cur">Toezicht op de aangemelde keuringsinstanties</nadruk>
+    </titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf2/Artikel17" stam-id="13394693" versie-id="22973082" id="C33217151" label-id="13362204" inwerking="2016-01-18" label="Artikel 17" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">17</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf2/Artikel17/Lid1" label-id="13362204L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister kan het toezicht op de aangemelde keuringsinstanties opdragen aan een nationale accreditatie-instantie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=2&amp;artikel=17&amp;lid=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf2/Artikel17/Lid2" label-id="13362204L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Bij ministeriële regeling kunnen regels worden gegeven betreffende het op de aangemelde keuringsinstanties uit te oefenen toezicht en de door deze instanties verschuldigde vergoeding voor de kosten van de uitoefening van dat toezicht en de wijze en het tijdstip van betaling daarvan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=2&amp;artikel=17&amp;lid=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=17&amp;g=2023-04-19" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=2&amp;artikel=17&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=17"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;paragraaf=2&amp;g=2023-04-19" onderdeel="paragraaf=2" korte-verwijzing="1.0:c:BWBR0037546&amp;paragraaf=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="paragraaf=2" korte-verwijzing="jci1.3:c:BWBR0037546&amp;paragraaf=2"/></jcis></meta-data></paragraaf><paragraaf bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf3" stam-id="13394733" versie-id="22973122" id="C33217191" label-id="13362244" inwerking="2016-01-18" label="§ 3" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">3</nr>
+    <titel status="officieel">
+      <nadruk type="cur">Bestuurlijke boete</nadruk>
+    </titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf3/Artikel18" stam-id="13394713" versie-id="29275732" id="C41868291" label-id="13362224" inwerking="2023-04-19" label="Artikel 18" bron="Stb.2023-66" effect="wijziging" ondertekening_bron="2022-11-02" publicatie_bron="2023-03-01" publicatie_iwt="2023-04-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">18</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf3/Artikel18/Lid1" label-id="13362224L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister kan aan degene die handelt in strijd met de in <intref doc="jci1.3:c:BWBR0037546&amp;hoofdstuk=5&amp;artikel=12&amp;z=2023-04-19&amp;g=2023-04-19" label-id="13362134" verwijzing-id="3221661" bwb-id="BWBR0037546" bwb-ng-variabel-deel="/Hoofdstuk5/Artikel12">artikel 12, met uitzondering van het zevende lid, onderdeel b</intref>, gestelde verboden een bestuurlijke boete opleggen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=3&amp;artikel=18&amp;lid=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf3/Artikel18/Lid2" label-id="13362224L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De bestuurlijke boete die voor een overtreding van <intref doc="jci1.3:c:BWBR0037546&amp;hoofdstuk=5&amp;artikel=12&amp;z=2023-04-19&amp;g=2023-04-19" label-id="13362134" verwijzing-id="2743066" bwb-id="BWBR0037546" bwb-ng-variabel-deel="/Hoofdstuk5/Artikel12">artikel 12, tweede lid en vijfde lid, onderdeel b</intref>, ten hoogste kan worden opgelegd komt overeen met de boete van de derde categorie, bedoeld in <extref doc="jci1.3:c:BWBR0001854&amp;artikel=23" label-id="2962974" verwijzing-id="2743039" bwb-id="BWBR0001854">artikel 23, vierde lid, van het Wetboek van Strafrecht</extref>;</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=3&amp;artikel=18&amp;lid=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf3/Artikel18/Lid3" label-id="13362224L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De bestuurlijke boete die voor een overtreding van <intref doc="jci1.3:c:BWBR0037546&amp;hoofdstuk=5&amp;artikel=12&amp;z=2023-04-19&amp;g=2023-04-19" label-id="13362134" verwijzing-id="2743067" bwb-id="BWBR0037546" bwb-ng-variabel-deel="/Hoofdstuk5/Artikel12">artikel 12, eerste, derde, vierde en zesde lid</intref>, kan worden opgelegd komt overeen met de boete van de vierde categorie, bedoeld in <extref doc="jci1.3:c:BWBR0001854&amp;artikel=23" label-id="2962974" verwijzing-id="2743040" bwb-id="BWBR0001854">artikel 23, vierde lid van het Wetboek van Strafrecht</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=3&amp;artikel=18&amp;lid=3&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf3/Artikel18/Lid4" label-id="13362224L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De bestuurlijke boete die voor een overtreding van <intref doc="jci1.3:c:BWBR0037546&amp;hoofdstuk=5&amp;artikel=12&amp;z=2023-04-19&amp;g=2023-04-19" label-id="13362134" verwijzing-id="2743068" bwb-id="BWBR0037546" bwb-ng-variabel-deel="/Hoofdstuk5/Artikel12">artikel 12, vijfde lid, onderdeel a, en zevende lid, onderdeel a</intref> kan worden opgelegd komt overeen met de boete van de vijfde categorie, bedoeld in <extref doc="jci1.3:c:BWBR0001854&amp;artikel=23" label-id="2962974" verwijzing-id="2743041" bwb-id="BWBR0001854">artikel 23, vierde lid, van het Wetboek van Strafrecht</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=3&amp;artikel=18&amp;lid=4&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf3/Artikel18/Lid5" label-id="13362224L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>De op te leggen bestuurlijke boete kan met maximaal 50% worden verhoogd, indien binnen een periode van 48 maanden tweemaal voor een zelfde feit, elk afzonderlijk in een periode van maximaal 24 maanden voorafgaand aan dat feit, een boete is opgelegd en onherroepelijk is geworden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=3&amp;artikel=18&amp;lid=5&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-66"><publicatiejaar>2023</publicatiejaar><publicatienr>66</publicatienr><uitgiftedatum isodatum="2023-03-01">01-03-2023</uitgiftedatum><ondertekeningsdatum isodatum="2022-11-02">02-11-2022</ondertekeningsdatum><dossierref dossier="36093">36093</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-125"><publicatiejaar>2023</publicatiejaar><publicatienr>125</publicatienr><uitgiftedatum isodatum="2023-04-18">18-04-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-03">03-04-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-04-19">19-04-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=18&amp;g=2023-04-19" onderdeel="artikel=18" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=18"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=3&amp;artikel=18&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=18" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=18"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Paragraaf3/Artikel19" stam-id="13394723" versie-id="22973112" id="C33217181" label-id="13362234" inwerking="2016-01-18" label="Artikel 19" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">19</nr>
+  </kop>
+  <al>Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=19&amp;g=2023-04-19" onderdeel="artikel=19" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=19"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=3&amp;artikel=19&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=19" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=19"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;paragraaf=3&amp;g=2023-04-19" onderdeel="paragraaf=3" korte-verwijzing="1.0:c:BWBR0037546&amp;paragraaf=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;paragraaf=3&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="paragraaf=3" korte-verwijzing="jci1.3:c:BWBR0037546&amp;paragraaf=3"/></jcis></meta-data></paragraaf><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;hoofdstuk=6&amp;g=2023-04-19" onderdeel="hoofdstuk=6" korte-verwijzing="1.0:c:BWBR0037546&amp;hoofdstuk=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="hoofdstuk=6" korte-verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=6"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk8" stam-id="13394763" versie-id="22973152" id="C33217221" label-id="13362274" inwerking="2016-01-18" label="Hoofdstuk 8" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">8</nr>
+    <titel status="officieel">Overgangsbepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk8/Artikel20" stam-id="13394753" versie-id="22973142" id="C33217211" label-id="13362264" inwerking="2016-01-18" label="Artikel 20" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">20</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk8/Artikel20/Lid1" label-id="13362264L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Producten die voor 18 januari 2016 onder het toepassingsgebied van <extref doc="31994L0025" label="richtlijn" reeks="Celex">Richtlijn 94/25/EG</extref> vielen en daarmee in overeenstemming zijn, mogen tot 18 januari 2017 in de handel worden gebracht of in bedrijf gesteld met toepassing van de <extref doc="jci1.3:c:BWBR0008366" label-id="206784" verwijzing-id="2743042" bwb-id="BWBR0008366">Wet pleziervaartuigen</extref>, zoals die luidde op de dag voorafgaand aan die van inwerkingtreding van deze wet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=8&amp;artikel=20&amp;lid=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk8/Artikel20/Lid2" label-id="13362264L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Buitenboordvoortstuwingsmotoren met vonkontsteking met een vermogen van 15kW of minder, die door een kleine of middelgrote onderneming zijn vervaardigd,mogen op de markt worden aangeboden of in bedrijf worden gesteld wanneer die motoren voldoen aan de grenswaarden voor uitlaatemissies in bijlage I, deel B, punt 2.1, van de richtlijn en voor 18 januari 2020 in de handel zijn gebracht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=8&amp;artikel=20&amp;lid=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=20&amp;g=2023-04-19" onderdeel="artikel=20" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=20"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=8&amp;artikel=20&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=20" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=20"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;hoofdstuk=8&amp;g=2023-04-19" onderdeel="hoofdstuk=8" korte-verwijzing="1.0:c:BWBR0037546&amp;hoofdstuk=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=8&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="hoofdstuk=8" korte-verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=8"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk9" stam-id="13394823" versie-id="22973212" id="C33217281" label-id="13362334" inwerking="2016-01-18" label="Hoofdstuk 9" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">9</nr>
+    <titel status="officieel">Slotbepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk9/Artikel21" stam-id="13394773" versie-id="22973162" id="C33217231" label-id="13362284" inwerking="2016-01-18" label="Artikel 21" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">21</nr>
+  </kop>
+  <al>Een wijziging van de bijlagen bij de richtlijn gaat voor de toepassing van deze wet gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=21&amp;g=2023-04-19" onderdeel="artikel=21" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=21"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=9&amp;artikel=21&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=21" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=21"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk9/Artikel22" stam-id="13394783" versie-id="22973172" id="C33217241" label-id="13362294" inwerking="2016-01-18" label="Artikel 22" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">22</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de economische delicten.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=22&amp;g=2023-04-19" onderdeel="artikel=22" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=22"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=9&amp;artikel=22&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=22" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=22"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk9/Artikel23" stam-id="13394793" versie-id="22973182" id="C33217251" label-id="13362304" inwerking="2016-01-18" label="Artikel 23" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">23</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk9/Artikel23/Lid1" label-id="13362304L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De <extref doc="jci1.3:c:BWBR0008366" label-id="206784" verwijzing-id="2743252" bwb-id="BWBR0008366">Wet pleziervaartuigen</extref> wordt ingetrokken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=9&amp;artikel=23&amp;lid=1&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk9/Artikel23/Lid2" label-id="13362304L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Op producten die op de markt zijn aangeboden of in gebruik zijn genomen voor de inwerkingtreding van deze wet blijven de <extref doc="jci1.3:c:BWBR0008366&amp;artikel=3" label-id="206414" verwijzing-id="2743043" bwb-id="BWBR0008366">artikelen 3</extref>, <extref doc="jci1.3:c:BWBR0008366&amp;artikel=4" label-id="206424" verwijzing-id="2743044" bwb-id="BWBR0008366">4</extref>, <extref doc="jci1.3:c:BWBR0008366&amp;artikel=5" label-id="206444" verwijzing-id="2743045" bwb-id="BWBR0008366">5</extref>, <extref doc="jci1.3:c:BWBR0008366&amp;artikel=6" label-id="206454" verwijzing-id="2743046" bwb-id="BWBR0008366">6</extref>, <extref doc="jci1.3:c:BWBR0008366&amp;artikel=7" label-id="206464" verwijzing-id="2743047" bwb-id="BWBR0008366">7</extref>, <extref doc="jci1.3:c:BWBR0008366&amp;artikel=7a" label-id="6363814" verwijzing-id="2743048" bwb-id="BWBR0008366">7a</extref>, <extref doc="jci1.3:c:BWBR0008366&amp;artikel=7b" label-id="6363824" verwijzing-id="2743049" bwb-id="BWBR0008366">7b</extref>, <extref doc="jci1.3:c:BWBR0008366&amp;artikel=13" label-id="206544" verwijzing-id="2743050" bwb-id="BWBR0008366">13</extref>, <extref doc="jci1.3:c:BWBR0008366&amp;artikel=14" label-id="206554" verwijzing-id="2743051" bwb-id="BWBR0008366">14</extref>, <extref doc="jci1.3:c:BWBR0008366&amp;artikel=15" label-id="206584" verwijzing-id="2743052" bwb-id="BWBR0008366">15</extref>, <extref doc="jci1.3:c:BWBR0008366&amp;artikel=16" label-id="206594" verwijzing-id="2743053" bwb-id="BWBR0008366">16</extref> en <extref doc="jci1.3:c:BWBR0008366&amp;artikel=17" label-id="206614" verwijzing-id="2743054" bwb-id="BWBR0008366">17 van de Wet pleziervaartuigen</extref> van toepassing, zoals die luidde op de dag voorafgaand aan die van de inwerkingtreding van deze wet en is <intref doc="jci1.3:c:BWBR0037546&amp;hoofdstuk=9&amp;artikel=22&amp;z=2023-04-19&amp;g=2023-04-19" label-id="13362294" verwijzing-id="2743071" bwb-id="BWBR0037546" bwb-ng-variabel-deel="/Hoofdstuk9/Artikel22">artikel 22</intref> niet van toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=9&amp;artikel=23&amp;lid=2&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=23&amp;g=2023-04-19" onderdeel="artikel=23" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=23"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=9&amp;artikel=23&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=23" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=23"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk9/Artikel24" stam-id="13394803" versie-id="22973192" id="C33217261" label-id="13362314" inwerking="2016-01-18" label="Artikel 24" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">24</nr>
+  </kop>
+  <al>Deze wet treedt in werking met ingang van 18 januari 2016. Indien het Staatsblad waarin deze wet wordt geplaatst wordt uitgegeven na 17 januari 2016, treedt deze wet in werking met ingang van de dag, volgende op die van plaatsing van deze wet in het Staatsblad.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=24&amp;g=2023-04-19" onderdeel="artikel=24" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=24"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=9&amp;artikel=24&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=24" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=24"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk9/Artikel25" stam-id="13394813" versie-id="22973202" id="C33217271" label-id="13362324" inwerking="2016-01-18" label="Artikel 25" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">25</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet pleziervaartuigen 2016.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;artikel=25&amp;g=2023-04-19" onderdeel="artikel=25" korte-verwijzing="1.0:c:BWBR0037546&amp;artikel=25"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=9&amp;artikel=25&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="artikel=25" korte-verwijzing="jci1.3:c:BWBR0037546&amp;artikel=25"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;hoofdstuk=9&amp;g=2023-04-19" onderdeel="hoofdstuk=9" korte-verwijzing="1.0:c:BWBR0037546&amp;hoofdstuk=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=9&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="hoofdstuk=9" korte-verwijzing="jci1.3:c:BWBR0037546&amp;hoofdstuk=9"/></jcis></meta-data></hoofdstuk>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="13394833" versie-id="22973222" id="C33217291" label-id="13362344" inwerking="2016-01-18" bron="Stb.2016-26" effect="nieuwe-regeling" ondertekening_bron="2015-12-23" publicatie_bron="2016-01-15" publicatie_iwt="2016-01-15" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>Wassenaar</plaats>
+      <datum isodatum="2015-12-23">23 december 2015</datum>
+    </dagtekening>
+    <koning>Willem-Alexander</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Infrastructuur en Milieu, </functie>
+    <naam>
+      <voornaam>M.H.</voornaam>
+      <achternaam>Schultz van Haegen-Maas Geesteranus</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2016-01-15">de <nadruk type="cur">vijftiende</nadruk> januari 2016</datum>
+    <ondertekening>
+      <functie>De Minister van Veiligheid en Justitie, </functie>
+      <naam>
+        <voornaam>G.A. van der</voornaam>
+        <achternaam>Steur</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-26"><publicatiejaar>2016</publicatiejaar><publicatienr>26</publicatienr><uitgiftedatum isodatum="2016-01-15">15-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-23">23-12-2015</ondertekeningsdatum><dossierref dossier="34265">34265</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037546&amp;g=2023-04-19" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0037546"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037546&amp;z=2023-04-19&amp;g=2023-04-19" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0037546"/></jcis></meta-data></wetgeving></toestand>

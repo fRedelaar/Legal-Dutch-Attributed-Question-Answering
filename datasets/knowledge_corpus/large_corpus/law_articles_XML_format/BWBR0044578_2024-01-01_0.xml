@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0044578/2024-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0044578" inwerkingtreding="2024-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="15777013" versie-id="27342342" id="C38618411" label-id="15715074" inwerkingtredingsdatum="2021-01-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="15777033" versie-id="27342202" id="C38618271" label-id="15714934" inwerking="2021-01-01" bron="Stb.2020-544" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2020-12-23" publicatie_iwt="2020-12-23" status="goed">Wet van 16 december 2020 tot wijziging van de Wet belastingen op milieugrondslag en de Wet Milieubeheer voor de invoering van een CO2-heffing voor de industrie (Wet CO<inf>2</inf>-heffing industrie)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="15777043" versie-id="27342212" id="C38618281" label-id="15714944" inwerking="2021-01-01" bron="Stb.2020-544" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2020-12-23" publicatie_iwt="2020-12-23">Wet CO2-heffing industrie<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="15777053" versie-id="27342222" id="C38618291" label-id="15714954" inwerking="2021-01-01" bron="Stb.2020-544" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2020-12-23" publicatie_iwt="2020-12-23" status="goed">
+  <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is vanwege de aardopwarming te borgen dat de emissie van broeikasgassen bij en voor industriële productie en afvalverbranding verminderd wordt door voor die emissies een nationale heffing in te voeren;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/ArtikelI" stam-id="15777063" versie-id="27342232" id="C38618301" label-id="15714964" inwerking="2021-01-01" label="Artikel I" bron="Stb.2020-544" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2020-12-23" publicatie_iwt="2020-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">I</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet belastingen op milieugrondslag.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Onderdelen A, F en G.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044578&amp;artikel=I&amp;g=2024-01-01" onderdeel="artikel=I" korte-verwijzing="1.0:c:BWBR0044578&amp;artikel=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044578&amp;artikel=I&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=I" korte-verwijzing="jci1.3:c:BWBR0044578&amp;artikel=I"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelII" stam-id="15777073" versie-id="27342242" id="C38618311" label-id="15714974" inwerking="2021-01-01" label="Artikel II" bron="Stb.2020-544" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2020-12-23" publicatie_iwt="2020-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">II</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet milieubeheer.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Onderdelen A, B, E, F, G, H, I, J, K, L en M.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044578&amp;artikel=II&amp;g=2024-01-01" onderdeel="artikel=II" korte-verwijzing="1.0:c:BWBR0044578&amp;artikel=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044578&amp;artikel=II&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=II" korte-verwijzing="jci1.3:c:BWBR0044578&amp;artikel=II"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIII" stam-id="15777083" versie-id="27342252" id="C38618321" label-id="15714984" inwerking="2021-01-01" label="Artikel III" bron="Stb.2020-544" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2020-12-23" publicatie_iwt="2020-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">III</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Algemene wet bestuursrecht.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044578&amp;artikel=III&amp;g=2024-01-01" onderdeel="artikel=III" korte-verwijzing="1.0:c:BWBR0044578&amp;artikel=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044578&amp;artikel=III&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=III" korte-verwijzing="jci1.3:c:BWBR0044578&amp;artikel=III"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIV" stam-id="15777093" versie-id="27342262" id="C41739991" label-id="15714994" inwerking="2024-01-01" label="Artikel IV" bron="Stb.2020-544" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2020-12-23" publicatie_iwt="2023-03-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">IV</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet belastingen op milieugrondslag.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2023-89"><publicatiejaar>2023</publicatiejaar><publicatienr>89</publicatienr><uitgiftedatum isodatum="2023-03-22">22-03-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-03-20">20-03-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking op het tijdstip waarop hoofdstuk 5 van de
+    Omgevingswet in werking treedt.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044578&amp;artikel=IV&amp;g=2024-01-01" onderdeel="artikel=IV" korte-verwijzing="1.0:c:BWBR0044578&amp;artikel=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044578&amp;artikel=IV&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=IV" korte-verwijzing="jci1.3:c:BWBR0044578&amp;artikel=IV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelV" stam-id="15777103" versie-id="27342272" id="C38618341" label-id="15715004" inwerking="2021-01-01" label="Artikel V" bron="Stb.2020-544" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2020-12-23" publicatie_iwt="2020-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">V</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet minimum CO<inf>2</inf>-prijs elektriciteitsopwekking.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044578&amp;artikel=V&amp;g=2024-01-01" onderdeel="artikel=V" korte-verwijzing="1.0:c:BWBR0044578&amp;artikel=V"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044578&amp;artikel=V&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=V" korte-verwijzing="jci1.3:c:BWBR0044578&amp;artikel=V"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVI" stam-id="15777113" versie-id="27342282" id="C38618351" label-id="15715014" inwerking="2021-01-01" label="Artikel VI" bron="Stb.2020-544" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2020-12-23" publicatie_iwt="2020-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">VI</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet vliegbelasting.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044578&amp;artikel=VI&amp;g=2024-01-01" onderdeel="artikel=VI" korte-verwijzing="1.0:c:BWBR0044578&amp;artikel=VI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044578&amp;artikel=VI&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=VI" korte-verwijzing="jci1.3:c:BWBR0044578&amp;artikel=VI"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVII" stam-id="15777123" versie-id="27342292" id="C38618361" label-id="15715024" inwerking="2021-01-01" label="Artikel VII" bron="Stb.2020-544" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2020-12-23" publicatie_iwt="2020-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">VII</nr>
+  </kop>
+  <al>Onze Minister van Financiën zendt in overeenstemming met Onze Minister van Economische Zaken en Klimaat binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044578&amp;artikel=VII&amp;g=2024-01-01" onderdeel="artikel=VII" korte-verwijzing="1.0:c:BWBR0044578&amp;artikel=VII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044578&amp;artikel=VII&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=VII" korte-verwijzing="jci1.3:c:BWBR0044578&amp;artikel=VII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVIII" stam-id="15777133" versie-id="27342302" id="C38618371" label-id="15715034" inwerking="2021-01-01" label="Artikel VIII" bron="Stb.2020-544" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2020-12-23" publicatie_iwt="2020-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">VIII</nr>
+  </kop>
+  <al>De exploitant van een industriële installatie stelt, voor zover noodzakelijk, een industrieel monitoringsplan of een industrieel monitoringsmethodiekplan op als bedoeld in <extref doc="onbekend" label-id="15711844" verwijzing-id="3041536">artikel 16b.7</extref>, respectievelijk <extref doc="onbekend" label-id="15711994" verwijzing-id="3041537">artikel 16b.19, van de Wet milieubeheer</extref> uiterlijk binnen 4 maanden na inwerkingtreding van deze wet.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044578&amp;artikel=VIII&amp;g=2024-01-01" onderdeel="artikel=VIII" korte-verwijzing="1.0:c:BWBR0044578&amp;artikel=VIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044578&amp;artikel=VIII&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=VIII" korte-verwijzing="jci1.3:c:BWBR0044578&amp;artikel=VIII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIX" stam-id="15777143" versie-id="27342312" id="C38618381" label-id="15715044" inwerking="2021-01-01" label="Artikel IX" bron="Stb.2020-544" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2020-12-23" publicatie_iwt="2020-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">IX</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet CO<inf>2</inf>-heffing industrie.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044578&amp;artikel=IX&amp;g=2024-01-01" onderdeel="artikel=IX" korte-verwijzing="1.0:c:BWBR0044578&amp;artikel=IX"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044578&amp;artikel=IX&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=IX" korte-verwijzing="jci1.3:c:BWBR0044578&amp;artikel=IX"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelX" stam-id="15777153" versie-id="27342322" id="C38618391" label-id="15715054" inwerking="2021-01-01" label="Artikel X" bron="Stb.2020-544" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2020-12-23" publicatie_iwt="2020-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">X</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/ArtikelX/Lid1" label-id="15715054L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Deze wet treedt in werking op 1 januari 2021.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044578&amp;artikel=X&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelX/Lid2" label-id="15715054L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien het bij koninklijke boodschap van 3 juni 2019 ingediende voorstel van wet tot wijziging van de Wet belastingen op milieugrondslag en de Wet milieubeheer voor de invoering van een minimum CO<inf>2</inf>-prijs bij elektriciteitsopwekking (Wet minimum CO<inf>2</inf>-prijs elektriciteitsopwekking) (Kamerstukken <dossierref dossier="35216">35 216</dossierref>) later in werking treedt dan deze wet, treden in afwijking van het eerste lid <intref doc="jci1.3:c:BWBR0044578&amp;artikel=I&amp;z=2024-01-01&amp;g=2024-01-01" label-id="15714964" verwijzing-id="3041539" bwb-id="BWBR0044578" bwb-ng-variabel-deel="/ArtikelI">artikel I, onderdelen B, C, D en E</intref>, en <intref doc="jci1.3:c:BWBR0044578&amp;artikel=II&amp;z=2024-01-01&amp;g=2024-01-01" label-id="15714974" verwijzing-id="3041540" bwb-id="BWBR0044578" bwb-ng-variabel-deel="/ArtikelII">artikel II, onderdelen C en D</intref>, van deze wet in werking op het tijdstip dat het bij koninklijke boodschap van 3 juni 2019 ingediende voorstel van wet tot wijziging van de Wet belastingen op milieugrondslag en de Wet milieubeheer voor de invoering van een minimum CO<inf>2</inf>-prijs bij elektriciteitsopwekking (Wet minimum CO<inf>2</inf>-prijs elektriciteitsopwekking) (Kamerstukken <dossierref dossier="35216">35 216</dossierref>) in werking treedt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044578&amp;artikel=X&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelX/Lid3" label-id="15715054L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>In afwijking van het eerste lid treedt <intref doc="jci1.3:c:BWBR0044578&amp;artikel=IV&amp;z=2024-01-01&amp;g=2024-01-01" label-id="15714994" verwijzing-id="3041541" bwb-id="BWBR0044578" bwb-ng-variabel-deel="/ArtikelIV">artikel IV</intref> in werking op het tijdstip dat <extref doc="jci1.3:c:BWBR0037885&amp;hoofdstuk=5" label-id="13453394" verwijzing-id="3041538" bwb-id="BWBR0037885">hoofdstuk 5 van de Omgevingswet</extref> in werking treedt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044578&amp;artikel=X&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044578&amp;artikel=X&amp;g=2024-01-01" onderdeel="artikel=X" korte-verwijzing="1.0:c:BWBR0044578&amp;artikel=X"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044578&amp;artikel=X&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=X" korte-verwijzing="jci1.3:c:BWBR0044578&amp;artikel=X"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="15777163" versie-id="27342332" id="C38618401" label-id="15715064" inwerking="2021-01-01" bron="Stb.2020-544" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2020-12-23" publicatie_iwt="2020-12-23" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>’s-Gravenhage</plaats>
+      <datum isodatum="2020-12-16">16 december 2020</datum>
+    </dagtekening>
+    <koning>Willem-Alexander</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Staatssecretaris van Financiën,</functie>
+    <naam>
+      <voornaam>J.A.</voornaam>
+      <achternaam>Vijlbrief</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Economische Zaken en Klimaat,</functie>
+    <naam>
+      <voornaam>E.D.</voornaam>
+      <achternaam>Wiebes</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2020-12-23">de <nadruk type="cur">drieëntwintigste</nadruk> december 2020</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie en Veiligheid,</functie>
+      <naam>
+        <voornaam>F.B.J.</voornaam>
+        <achternaam>Grapperhaus</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-544"><publicatiejaar>2020</publicatiejaar><publicatienr>544</publicatienr><uitgiftedatum isodatum="2020-12-23">23-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35575">35575</dossierref></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044578&amp;g=2024-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0044578"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044578&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0044578"/></jcis></meta-data></wetgeving></toestand>

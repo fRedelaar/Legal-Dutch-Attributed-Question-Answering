@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0049889/2024-07-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0049889" inwerkingtreding="2024-07-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="17148743" versie-id="30182652" id="C43244581" label-id="17057014" inwerkingtredingsdatum="2024-07-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="17148763" versie-id="30182522" id="C43244451" label-id="17056884" inwerking="2024-07-01" bron="Stb.2024-193" effect="nieuwe-regeling" ondertekening_bron="2024-06-26" publicatie_bron="2024-06-28" publicatie_iwt="2024-06-28" status="goed">Wet van 26 juni 2024 tot wijziging van de Wet goed verhuurderschap, Boek 7 van het Burgerlijk Wetboek, de Uitvoeringswet huurprijzen woonruimte en enige andere wetten in verband met de regulering van huurprijzen en de bescherming van rechten van huurders (Wet betaalbare huur)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-193"><publicatiejaar>2024</publicatiejaar><publicatienr>193</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum><dossierref dossier="36496">36496</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-197"><publicatiejaar>2024</publicatiejaar><publicatienr>197</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="17148773" versie-id="30182532" id="C43244461" label-id="17056894" inwerking="2024-07-01" bron="Stb.2024-193" effect="nieuwe-regeling" ondertekening_bron="2024-06-26" publicatie_bron="2024-06-28" publicatie_iwt="2024-06-28">Wet betaalbare huur<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-193"><publicatiejaar>2024</publicatiejaar><publicatienr>193</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum><dossierref dossier="36496">36496</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-197"><publicatiejaar>2024</publicatiejaar><publicatienr>197</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="17148783" versie-id="30182542" id="C43244471" label-id="17056904" inwerking="2024-07-01" bron="Stb.2024-193" effect="nieuwe-regeling" ondertekening_bron="2024-06-26" publicatie_bron="2024-06-28" publicatie_iwt="2024-06-28" status="goed">
+  <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die dezen zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is een groter segment huurwoningen te reguleren en de rechten van huurders beter te waarborgen;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-193"><publicatiejaar>2024</publicatiejaar><publicatienr>193</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum><dossierref dossier="36496">36496</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-197"><publicatiejaar>2024</publicatiejaar><publicatienr>197</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/ArtikelI" stam-id="17148793" versie-id="30182552" id="C43244481" label-id="17056914" inwerking="2025-01-01" label="Artikel I" bron="Stb.2024-193" effect="nieuwe-regeling" ondertekening_bron="2024-06-26" publicatie_bron="2024-06-28" publicatie_iwt="2024-06-28" status="nogniet"><kop>
+    <label>Artikel</label>
+    <nr status="officieel">I</nr>
+  </kop><al><redactie type="vervanging">Wijzigt de Wet goed verhuurderschap.</redactie></al><al><redactie type="vervanging">Dit onderdeel is nog niet inwerking getreden</redactie></al></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelII" stam-id="17148803" versie-id="30182562" id="C43244491" label-id="17056924" inwerking="2024-07-01" label="Artikel II" bron="Stb.2024-193" effect="nieuwe-regeling" ondertekening_bron="2024-06-26" publicatie_bron="2024-06-28" publicatie_iwt="2024-06-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">II</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt het Burgerlijk Wetboek Boek 7.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-193"><publicatiejaar>2024</publicatiejaar><publicatienr>193</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum><dossierref dossier="36496">36496</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-197"><publicatiejaar>2024</publicatiejaar><publicatienr>197</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049889&amp;artikel=II&amp;g=2024-07-01" onderdeel="artikel=II" korte-verwijzing="1.0:c:BWBR0049889&amp;artikel=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049889&amp;artikel=II&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=II" korte-verwijzing="jci1.3:c:BWBR0049889&amp;artikel=II"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIII" stam-id="17148813" versie-id="30182572" id="C43244501" label-id="17056934" inwerking="2024-07-01" label="Artikel III" bron="Stb.2024-193" effect="nieuwe-regeling" ondertekening_bron="2024-06-26" publicatie_bron="2024-06-28" publicatie_iwt="2024-06-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">III</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Huisvestingswet 2014.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-193"><publicatiejaar>2024</publicatiejaar><publicatienr>193</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum><dossierref dossier="36496">36496</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-197"><publicatiejaar>2024</publicatiejaar><publicatienr>197</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049889&amp;artikel=III&amp;g=2024-07-01" onderdeel="artikel=III" korte-verwijzing="1.0:c:BWBR0049889&amp;artikel=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049889&amp;artikel=III&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=III" korte-verwijzing="jci1.3:c:BWBR0049889&amp;artikel=III"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIV" stam-id="17148823" versie-id="30182582" id="C43244511" label-id="17056944" inwerking="2024-07-01" label="Artikel IV" bron="Stb.2024-193" effect="nieuwe-regeling" ondertekening_bron="2024-06-26" publicatie_bron="2024-06-28" publicatie_iwt="2024-06-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">IV</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Overgangswet nieuw Burgerlijk Wetboek.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-193"><publicatiejaar>2024</publicatiejaar><publicatienr>193</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum><dossierref dossier="36496">36496</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-197"><publicatiejaar>2024</publicatiejaar><publicatienr>197</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049889&amp;artikel=IV&amp;g=2024-07-01" onderdeel="artikel=IV" korte-verwijzing="1.0:c:BWBR0049889&amp;artikel=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049889&amp;artikel=IV&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=IV" korte-verwijzing="jci1.3:c:BWBR0049889&amp;artikel=IV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelV" stam-id="17148833" versie-id="30182592" id="C43244521" label-id="17056954" inwerking="2024-07-01" label="Artikel V" bron="Stb.2024-193" effect="nieuwe-regeling" ondertekening_bron="2024-06-26" publicatie_bron="2024-06-28" publicatie_iwt="2024-06-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">V</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Uitvoeringswet huurprijzen woonruimte.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-193"><publicatiejaar>2024</publicatiejaar><publicatienr>193</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum><dossierref dossier="36496">36496</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-197"><publicatiejaar>2024</publicatiejaar><publicatienr>197</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049889&amp;artikel=V&amp;g=2024-07-01" onderdeel="artikel=V" korte-verwijzing="1.0:c:BWBR0049889&amp;artikel=V"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049889&amp;artikel=V&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=V" korte-verwijzing="jci1.3:c:BWBR0049889&amp;artikel=V"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVa" stam-id="17148843" versie-id="30182602" id="C43244531" label-id="17056964" inwerking="2024-07-01" label="Artikel Va" bron="Stb.2024-193" effect="nieuwe-regeling" ondertekening_bron="2024-06-26" publicatie_bron="2024-06-28" publicatie_iwt="2024-06-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">Va</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet maximering huurprijsverhogingen geliberaliseerde huurovereenkomsten.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-193"><publicatiejaar>2024</publicatiejaar><publicatienr>193</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum><dossierref dossier="36496">36496</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-197"><publicatiejaar>2024</publicatiejaar><publicatienr>197</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049889&amp;artikel=Va&amp;g=2024-07-01" onderdeel="artikel=Va" korte-verwijzing="1.0:c:BWBR0049889&amp;artikel=Va"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049889&amp;artikel=Va&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=Va" korte-verwijzing="jci1.3:c:BWBR0049889&amp;artikel=Va"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVI" stam-id="17148853" versie-id="30182612" id="C43244541" label-id="17056974" inwerking="2024-07-01" label="Artikel VI" bron="Stb.2024-193" effect="nieuwe-regeling" ondertekening_bron="2024-06-26" publicatie_bron="2024-06-28" publicatie_iwt="2024-06-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">VI</nr>
+  </kop>
+  <al>Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt binnen vijf jaar en vervolgens elke vijf jaar na het tijdstip van inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk, waarbij in het bijzonder aandacht wordt besteed aan de betaalbaarheid van huren voor middeninkomens, de investeringen in nieuwbouw en verduurzaming van middenhuurwoningen door particulieren, investeerders en woningcorporaties, de gevolgen voor de omvang van de diverse huursegmenten alsmede de gevolgen voor de woonkansen van verschillende groepen woningzoekenden op de woningmarkt, de uitvoerbaarheid van de middenhuurregulering voor de Huurcommissie en gemeenten en andere effecten van de middenhuurregulering voor huurders en verhuurders.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-193"><publicatiejaar>2024</publicatiejaar><publicatienr>193</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum><dossierref dossier="36496">36496</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-197"><publicatiejaar>2024</publicatiejaar><publicatienr>197</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049889&amp;artikel=VI&amp;g=2024-07-01" onderdeel="artikel=VI" korte-verwijzing="1.0:c:BWBR0049889&amp;artikel=VI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049889&amp;artikel=VI&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=VI" korte-verwijzing="jci1.3:c:BWBR0049889&amp;artikel=VI"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVII" stam-id="17148863" versie-id="30182622" id="C43244551" label-id="17056984" inwerking="2024-07-01" label="Artikel VII" bron="Stb.2024-193" effect="nieuwe-regeling" ondertekening_bron="2024-06-26" publicatie_bron="2024-06-28" publicatie_iwt="2024-06-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">VII</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-193"><publicatiejaar>2024</publicatiejaar><publicatienr>193</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum><dossierref dossier="36496">36496</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-197"><publicatiejaar>2024</publicatiejaar><publicatienr>197</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049889&amp;artikel=VII&amp;g=2024-07-01" onderdeel="artikel=VII" korte-verwijzing="1.0:c:BWBR0049889&amp;artikel=VII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049889&amp;artikel=VII&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=VII" korte-verwijzing="jci1.3:c:BWBR0049889&amp;artikel=VII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVIII" stam-id="17148873" versie-id="30182632" id="C43244561" label-id="17056994" inwerking="2024-07-01" label="Artikel VIII" bron="Stb.2024-193" effect="nieuwe-regeling" ondertekening_bron="2024-06-26" publicatie_bron="2024-06-28" publicatie_iwt="2024-06-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">VIII</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet betaalbare huur.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-193"><publicatiejaar>2024</publicatiejaar><publicatienr>193</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum><dossierref dossier="36496">36496</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-197"><publicatiejaar>2024</publicatiejaar><publicatienr>197</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049889&amp;artikel=VIII&amp;g=2024-07-01" onderdeel="artikel=VIII" korte-verwijzing="1.0:c:BWBR0049889&amp;artikel=VIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049889&amp;artikel=VIII&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=VIII" korte-verwijzing="jci1.3:c:BWBR0049889&amp;artikel=VIII"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="17148883" versie-id="30182642" id="C43244571" label-id="17057004" inwerking="2024-07-01" bron="Stb.2024-193" effect="nieuwe-regeling" ondertekening_bron="2024-06-26" publicatie_bron="2024-06-28" publicatie_iwt="2024-06-28" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>’s-Gravenhage</plaats>
+      <datum isodatum="2024-06-26">26 juni 2024</datum>
+    </dagtekening>
+    <koning>Willem-Alexander</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Binnenlandse Zaken en Koninkrijksrelaties,</functie>
+    <naam>
+      <voornaam>H.M. de</voornaam>
+      <achternaam>Jonge</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2024-06-28">de <nadruk type="cur">achtentwintigste</nadruk> juni 2024</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie en Veiligheid,</functie>
+      <naam>
+        <voornaam>D.</voornaam>
+        <achternaam>Yeşilgöz-Zegerius</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-193"><publicatiejaar>2024</publicatiejaar><publicatienr>193</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum><dossierref dossier="36496">36496</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-197"><publicatiejaar>2024</publicatiejaar><publicatienr>197</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-193"><publicatiejaar>2024</publicatiejaar><publicatienr>193</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum><dossierref dossier="36496">36496</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-197"><publicatiejaar>2024</publicatiejaar><publicatienr>197</publicatienr><uitgiftedatum isodatum="2024-06-28">28-06-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-06-26">26-06-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049889&amp;g=2024-07-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0049889"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049889&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0049889"/></jcis></meta-data></wetgeving></toestand>

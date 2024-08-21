@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0002162/1956-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0002162" inwerkingtreding="1956-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="1397363" versie-id="2096142" id="C2096141" label-id="1355114" inwerkingtredingsdatum="1956-01-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="1397393" versie-id="2096002" id="C2096001" label-id="1354974" inwerking="1956-01-01" bron="Stb.1954-530" effect="nieuwe-regeling" ondertekening_bron="1954-11-24" status="goed">Wet van 24 november 1954, houdende instelling van een productschap voor bier<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>530</publicatienr><ondertekeningsdatum isodatum="1954-11-24">24-11-1954</ondertekeningsdatum><dossierref dossier="3441">3441</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>479</publicatienr><ondertekeningsdatum isodatum="1955-10-14">14-10-1955</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1956-01-01">01-01-1956</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="1397403" versie-id="2096012" id="C2096011" label-id="1354984" inwerking="1956-01-01" bron="Stb.1954-530" effect="nieuwe-regeling" ondertekening_bron="1954-11-24">Instellingswet Productschap voor Bier<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>530</publicatienr><ondertekeningsdatum isodatum="1954-11-24">24-11-1954</ondertekeningsdatum><dossierref dossier="3441">3441</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>479</publicatienr><ondertekeningsdatum isodatum="1955-10-14">14-10-1955</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1956-01-01">01-01-1956</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="1397413" versie-id="2096022" id="C2096021" label-id="1354994" inwerking="1956-01-01" bron="Stb.1954-530" effect="nieuwe-regeling" ondertekening_bron="1954-11-24" status="goed">
+  <wij>Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is overeenkomstig het door de Sociaal-Economische Raad uit eigen beweging daartoe uitgebrachte advies over te gaan tot instelling van een productschap als bedoeld in de <extref doc="jci1.3:c:BWBR0002058" verwijzing-id="478120" bwb-id="BWBR0002058" label-id="1059564">Wet op de Bedrijfsorganisatie</extref> (<nadruk type="cur">Stb.</nadruk> 1950, K 22, sedert gewijzigd) voor ondernemingen op het gebied van de bereiding van en de binnenlandse handel in bier;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>530</publicatienr><ondertekeningsdatum isodatum="1954-11-24">24-11-1954</ondertekeningsdatum><dossierref dossier="3441">3441</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>479</publicatienr><ondertekeningsdatum isodatum="1955-10-14">14-10-1955</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1956-01-01">01-01-1956</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" code="a-1" stam-id="1397423" versie-id="2096032" id="C2096031" label-id="1355004" inwerking="1956-01-01" label="Artikel 1" bron="Stb.1954-530" effect="nieuwe-regeling" ondertekening_bron="1954-11-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid1" label-id="1355004L1">
+    <lidnr>1</lidnr>
+    <al>Er is een Productschap voor Bier.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=1&amp;lid=1&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid2" label-id="1355004L2">
+    <lidnr>2</lidnr>
+    <al> Het productschap heeft zijn zetel te Amsterdam.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=1&amp;lid=2&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>530</publicatienr><ondertekeningsdatum isodatum="1954-11-24">24-11-1954</ondertekeningsdatum><dossierref dossier="3441">3441</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>479</publicatienr><ondertekeningsdatum isodatum="1955-10-14">14-10-1955</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1956-01-01">01-01-1956</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002162&amp;artikel=1&amp;g=1956-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0002162&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=1&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0002162&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="a-2" stam-id="1397433" versie-id="2096042" id="C2096041" label-id="1355014" inwerking="1956-01-01" label="Artikel 2" bron="Stb.1954-530" effect="nieuwe-regeling" ondertekening_bron="1954-11-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="1355014L1">
+    <lidnr>1</lidnr>
+    <al>Het productschap is ingesteld voor de ondernemingen, waarin:</al>
+    <al>bier wordt bereid;</al>
+    <al>de binnenlandse handel in bier wordt uitgeoefend;</al>
+    <al>bier voor verbruik ter plaatse wordt verstrekt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=2&amp;lid=1&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="1355014L2">
+    <lidnr>2</lidnr>
+    <al> In deze wet wordt mede verstaan onder: </al>
+    <al>
+      <nadruk type="cur">bier:</nadruk> dranken, die in uiterlijk en samenstelling grote overeenkomst met bier vertonen; </al>
+    <al>
+      <nadruk type="cur">handel:</nadruk> de werkzaamheid van tussenpersonen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=2&amp;lid=2&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>530</publicatienr><ondertekeningsdatum isodatum="1954-11-24">24-11-1954</ondertekeningsdatum><dossierref dossier="3441">3441</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>479</publicatienr><ondertekeningsdatum isodatum="1955-10-14">14-10-1955</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1956-01-01">01-01-1956</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002162&amp;artikel=2&amp;g=1956-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0002162&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=2&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0002162&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="a-3" stam-id="1397443" versie-id="2096052" id="C2096051" label-id="1355024" inwerking="1956-01-01" label="Artikel 3" bron="Stb.1954-530" effect="nieuwe-regeling" ondertekening_bron="1954-11-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>3</nr>
+  </kop>
+  <al>Het bestuur van het productschap bestaat uit 22 leden. Daarvan worden benoemd: </al>
+  <table colsep="1" frame="topbot" orient="port" rowsep="0" tabstyle="sdu1">
+    <tgroup align="left" charoff="75" cols="3" tgroupstyle="sdu1">
+      <colspec colname="c1" colnum="1" colwidth="101mm"/>
+      <colspec colname="c2" colnum="2" colwidth="35mm"/>
+      <colspec colname="c3" colnum="3" colwidth="35mm"/>
+      <thead valign="bottom">
+        <row valign="top">
+          <entry morerows="0" rotate="0" rowsep="1" valign="top">
+            <al>voor de ondernemingen op het gebied van</al>
+          </entry>
+          <entry morerows="0" rotate="0" rowsep="1" valign="top">
+            <al>door organisaties van ondernemers</al>
+          </entry>
+          <entry morerows="0" rotate="0" rowsep="1" valign="top">
+            <al>door organisaties van werknemers </al>
+          </entry>
+        </row>
+      </thead>
+      <tbody valign="bottom">
+        <row valign="top">
+          <entry morerows="0" rotate="0">
+            <al>de brouwindustrie</al>
+          </entry>
+          <entry morerows="0" rotate="0">
+            <al>4 leden</al>
+          </entry>
+          <entry morerows="0" rotate="0">
+            <al>4 leden </al>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry morerows="0" rotate="0">
+            <al>de binnenlandse groothandel in bier</al>
+          </entry>
+          <entry morerows="0" rotate="0">
+            <al>3 leden</al>
+          </entry>
+          <entry morerows="0" rotate="0">
+            <al>3 leden </al>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry morerows="0" rotate="0">
+            <al>de detailhandel in bier en het hotel-, café- en restaurantbedrijf</al>
+          </entry>
+          <entry morerows="0" rotate="0">
+            <al>4 leden</al>
+          </entry>
+          <entry morerows="0" rotate="0">
+            <al>4 leden</al>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>530</publicatienr><ondertekeningsdatum isodatum="1954-11-24">24-11-1954</ondertekeningsdatum><dossierref dossier="3441">3441</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>479</publicatienr><ondertekeningsdatum isodatum="1955-10-14">14-10-1955</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1956-01-01">01-01-1956</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002162&amp;artikel=3&amp;g=1956-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0002162&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=3&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0002162&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="a-4" stam-id="1397453" versie-id="2096062" id="C2096061" label-id="1355034" inwerking="1956-01-01" label="Artikel 4" bron="Stb.1954-530" effect="nieuwe-regeling" ondertekening_bron="1954-11-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="1355034L1">
+    <lidnr>1</lidnr>
+    <al>Aan het productschap is overgelaten de regeling of nadere regeling van de navolgende onderwerpen: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>aangelegenheden, verband houdende met het economisch verkeer tussen verschillende stadia van voortbrenging en afzet;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=4&amp;lid=1&amp;o=a&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de registratie van de ondernemingen, waarvoor het productschap is ingesteld;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=4&amp;lid=1&amp;o=b&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>het verstrekken van de voor de vervulling van de taak van het productschap nodige gegevens.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=4&amp;lid=1&amp;o=c&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=4&amp;lid=1&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="1355034L2">
+    <lidnr>2</lidnr>
+    <al> Als aangelegenheden, bedoeld in het voorgaande lid, onder <nadruk type="cur">a</nadruk>, worden niet aangemerkt: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de vestiging, uitbreiding en stillegging van ondernemingen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=4&amp;lid=2&amp;o=a&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de in- en uitvoer;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=4&amp;lid=2&amp;o=b&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de prijzen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=4&amp;lid=2&amp;o=c&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=4&amp;lid=2&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid3" label-id="1355034L3">
+    <lidnr>3</lidnr>
+    <al> Verordeningen betreffende de in het eerste lid bedoelde onderwerpen hebben niet betrekking op de aanvoer-, transito- en driehoekshandel.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=4&amp;lid=3&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid4" label-id="1355034L4">
+    <lidnr>4</lidnr>
+    <al> Verordeningen betreffende het in het eerste lid, onder <nadruk type="cur">c</nadruk>, bedoelde onderwerp houden waarborgen in tegen misbruik van de ingevolge die verordeningen te verstrekken gegevens.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=4&amp;lid=4&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>530</publicatienr><ondertekeningsdatum isodatum="1954-11-24">24-11-1954</ondertekeningsdatum><dossierref dossier="3441">3441</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>479</publicatienr><ondertekeningsdatum isodatum="1955-10-14">14-10-1955</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1956-01-01">01-01-1956</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002162&amp;artikel=4&amp;g=1956-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0002162&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=4&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0002162&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="a-5" stam-id="1397463" versie-id="2096072" id="C2096071" label-id="1355044" inwerking="1956-01-01" label="Artikel 5" bron="Stb.1954-530" effect="nieuwe-regeling" ondertekening_bron="1954-11-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>5</nr>
+  </kop>
+  <al>Overtredingen van het bepaalde bij of krachtens een op grond van <extref doc="jci1.3:c:BWBR0002058&amp;artikel=93" verwijzing-id="478123" bwb-id="BWBR0002058" label-id="1058664">artikel 93, eerste lid, van de Wet op de Bedrijfsorganisatie</extref> (<nadruk type="cur">Stb.</nadruk> 1950, K 22, sedert gewijzigd) vastgestelde verordening kunnen bij die verordening worden aangewezen als strafbare feiten.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>530</publicatienr><ondertekeningsdatum isodatum="1954-11-24">24-11-1954</ondertekeningsdatum><dossierref dossier="3441">3441</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>479</publicatienr><ondertekeningsdatum isodatum="1955-10-14">14-10-1955</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1956-01-01">01-01-1956</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002162&amp;artikel=5&amp;g=1956-01-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0002162&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=5&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0002162&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="a-6" stam-id="1397473" versie-id="2096082" id="C2096081" label-id="1355054" inwerking="1956-01-01" label="Artikel 6" bron="Stb.1954-530" effect="nieuwe-regeling" ondertekening_bron="1954-11-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+  </kop>
+  <al>Bij een op grond van <extref doc="jci1.3:c:BWBR0002058&amp;artikel=93" verwijzing-id="478124" bwb-id="BWBR0002058" label-id="1058664">artikel 93, eerste lid, van de Wet op de Bedrijfsorganisatie</extref> vastgestelde verordening kan worden bepaald, dat de bij of krachtens die verordening gestelde regelen mede andere dan de in artikel 102, eerste lid, van genoemde wet bedoelde natuurlijke en rechtspersonen binden, voor zover deze handelingen verrichten, die bedrijfsmatig in de ondernemingen, waarvoor het productschap is ingesteld, plegen te worden verricht.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>530</publicatienr><ondertekeningsdatum isodatum="1954-11-24">24-11-1954</ondertekeningsdatum><dossierref dossier="3441">3441</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>479</publicatienr><ondertekeningsdatum isodatum="1955-10-14">14-10-1955</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1956-01-01">01-01-1956</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002162&amp;artikel=6&amp;g=1956-01-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0002162&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=6&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0002162&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="a-7" stam-id="1397483" versie-id="2096092" id="C2096091" label-id="1355064" inwerking="1956-01-01" label="Artikel 7" bron="Stb.1954-530" effect="nieuwe-regeling" ondertekening_bron="1954-11-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid1" label-id="1355064L1">
+    <lidnr>1</lidnr>
+    <al>Verordeningen, waarbij krachtens <extref doc="jci1.3:c:BWBR0002058&amp;artikel=126" verwijzing-id="478126" bwb-id="BWBR0002058" label-id="1059054">artikel 126, eerste lid, van de Wet op de Bedrijfsorganisatie</extref> een heffing wordt opgelegd tot een in die verordeningen vermeld ander doel dan dekking van de huishoudelijke uitgaven van het productschap, behoeven, in afwijking van het derde lid van dat artikel, de goedkeuring van Onze betrokken Ministers; zij worden terstond na vaststelling ter kennisneming aan de Sociaal-Economische Raad toegezonden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=7&amp;lid=1&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid2" label-id="1355064L2">
+    <lidnr>2</lidnr>
+    <al> Tot instelling van een fonds in het belang der bedrijfsgenoten wordt besloten bij verordening. Zodanige verordening behoeft de goedkeuring van Onze betrokken Ministers.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=7&amp;lid=2&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid3" label-id="1355064L3">
+    <lidnr>3</lidnr>
+    <al> Onze betrokken Ministers kunnen bepalen, dat besluiten tot uitbetalingen ten laste van een fonds in het belang der bedrijfsgenoten hun goedkeuring behoeven.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=7&amp;lid=3&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>530</publicatienr><ondertekeningsdatum isodatum="1954-11-24">24-11-1954</ondertekeningsdatum><dossierref dossier="3441">3441</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>479</publicatienr><ondertekeningsdatum isodatum="1955-10-14">14-10-1955</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1956-01-01">01-01-1956</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002162&amp;artikel=7&amp;g=1956-01-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0002162&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=7&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0002162&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" code="a-8" stam-id="1397493" versie-id="2096102" id="C2096101" label-id="1355074" inwerking="1956-01-01" label="Artikel 8" bron="Stb.1954-530" effect="nieuwe-regeling" ondertekening_bron="1954-11-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>8</nr>
+  </kop>
+  <al>Voor de toepassing van deze wet en van de <extref doc="jci1.3:c:BWBR0002058&amp;artikel=94" verwijzing-id="478128" bwb-id="BWBR0002058" label-id="1058674">artikelen 94</extref>, <extref doc="jci1.3:c:BWBR0002058&amp;artikel=100" verwijzing-id="478129" bwb-id="BWBR0002058" label-id="1058734">100</extref>, derde lid, en <extref doc="jci1.3:c:BWBR0002058&amp;artikel=104" verwijzing-id="478130" bwb-id="BWBR0002058" label-id="1058774">104, tweede lid, van de Wet op de Bedrijfsorganisatie</extref> ten aanzien van het productschap worden als Onze betrokken Ministers aangemerkt Onze Minister van Economische Zaken en, in bij algemene maatregel van bestuur te bepalen gevallen, Onze Minister van Landbouw, Visserij en Voedselvoorziening.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>530</publicatienr><ondertekeningsdatum isodatum="1954-11-24">24-11-1954</ondertekeningsdatum><dossierref dossier="3441">3441</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>479</publicatienr><ondertekeningsdatum isodatum="1955-10-14">14-10-1955</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1956-01-01">01-01-1956</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002162&amp;artikel=8&amp;g=1956-01-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0002162&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=8&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0002162&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" code="a-9" stam-id="1397503" versie-id="2096112" id="C2096111" label-id="1355084" inwerking="1956-01-01" label="Artikel 9" bron="Stb.1954-530" effect="nieuwe-regeling" ondertekening_bron="1954-11-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>9</nr>
+  </kop>
+  <al>Deze wet kan worden aangehaald als: Instellingswet Productschap voor Bier.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>530</publicatienr><ondertekeningsdatum isodatum="1954-11-24">24-11-1954</ondertekeningsdatum><dossierref dossier="3441">3441</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>479</publicatienr><ondertekeningsdatum isodatum="1955-10-14">14-10-1955</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1956-01-01">01-01-1956</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002162&amp;artikel=9&amp;g=1956-01-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0002162&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=9&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0002162&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" code="a-10" stam-id="1397513" versie-id="2096122" id="C2096121" label-id="1355094" inwerking="1956-01-01" label="Artikel 10" bron="Stb.1954-530" effect="nieuwe-regeling" ondertekening_bron="1954-11-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>10</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een door Ons te bepalen tijdstip.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>530</publicatienr><ondertekeningsdatum isodatum="1954-11-24">24-11-1954</ondertekeningsdatum><dossierref dossier="3441">3441</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>479</publicatienr><ondertekeningsdatum isodatum="1955-10-14">14-10-1955</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1956-01-01">01-01-1956</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002162&amp;artikel=10&amp;g=1956-01-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0002162&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;artikel=10&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0002162&amp;artikel=10"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="1397523" versie-id="2096132" id="C2096131" label-id="1355104" inwerking="1956-01-01" bron="Stb.1954-530" effect="nieuwe-regeling" ondertekening_bron="1954-11-24" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven ten Paleize Soestdijk</plaats>
+      <datum isodatum="">24 November 1954</datum>
+    </dagtekening>
+    <koning>JULIANA.</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister voor Publiekrechtelijke Bedrijfsorganisatie,</functie>
+    <naam>
+      <achternaam>A. C. DE BRUIJN.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Economische Zaken,</functie>
+    <naam>
+      <achternaam>J. ZIJLSTRA.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Landbouw, Visserij en Voedselvoorziening,</functie>
+    <naam>
+      <achternaam>MANSHOLT.</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de tiende December 1954.</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>L. A. DONKER.</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>530</publicatienr><ondertekeningsdatum isodatum="1954-11-24">24-11-1954</ondertekeningsdatum><dossierref dossier="3441">3441</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>479</publicatienr><ondertekeningsdatum isodatum="1955-10-14">14-10-1955</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1956-01-01">01-01-1956</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>530</publicatienr><ondertekeningsdatum isodatum="1954-11-24">24-11-1954</ondertekeningsdatum><dossierref dossier="3441">3441</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>479</publicatienr><ondertekeningsdatum isodatum="1955-10-14">14-10-1955</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1956-01-01">01-01-1956</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002162&amp;g=1956-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0002162"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002162&amp;z=1956-01-01&amp;g=1956-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0002162"/></jcis></meta-data></wetgeving></toestand>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0049509/2024-07-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0049509" inwerkingtreding="2024-07-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="17060733" versie-id="30021592" id="C43034021" label-id="16969614" inwerkingtredingsdatum="2024-07-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="17060753" versie-id="30021342" id="C43033771" label-id="16969364" inwerking="2024-07-01" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">Wet van 20 maart 2024 tot wijziging van het Wetboek van Strafrecht en andere wetten in verband met de modernisering van de strafbaarstelling van verschillende vormen van seksueel grensoverschrijdend gedrag (Wet seksuele misdrijven)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="17060763" versie-id="30021352" id="C43033781" label-id="16969374" inwerking="2024-07-01" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27">Wet seksuele misdrijven<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="17060773" versie-id="30021362" id="C43033791" label-id="16969384" inwerking="2024-07-01" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is in verband met ontwikkelingen inzake seksueel grensoverschrijdend gedrag het <extref doc="jci1.3:c:BWBR0001854" label-id="2970494" verwijzing-id="3298559" bwb-id="BWBR0001854">Wetboek van Strafrecht</extref> te moderniseren door in het <extref doc="jci1.3:c:BWBR0001854&amp;titeldeel=XIV" label-id="2967304" verwijzing-id="3298556" bwb-id="BWBR0001854">Tweede Boek Titel XIV</extref> Misdrijven tegen de zeden te vervangen door een nieuwe Titel XIV Seksuele misdrijven en een aantal misdrijven toe te voegen aan <extref doc="jci1.3:c:BWBR0001854&amp;titeldeel=V" label-id="2965884" verwijzing-id="3298557" bwb-id="BWBR0001854">Titel V Misdrijven tegen de openbare orde</extref> en in het <extref doc="jci1.3:c:BWBR0001854&amp;titeldeel=II" label-id="2969914" verwijzing-id="3298560" bwb-id="BWBR0001854">Derde Boek in Titel II</extref> seksuele intimidatie en openbare dronkenschap strafbaar te stellen als overtreding tegen de openbare orde en als gevolg hiervan aanpassingen in een aantal wetten door te voeren;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Afdeling advisering van Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/ArtikelI" stam-id="17060783" versie-id="30021372" id="C43033801" label-id="16969394" inwerking="2024-07-01" label="Artikel I" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">I</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt het Wetboek van Strafrecht.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049509&amp;artikel=I&amp;g=2024-07-01" onderdeel="artikel=I" korte-verwijzing="1.0:c:BWBR0049509&amp;artikel=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049509&amp;artikel=I&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=I" korte-verwijzing="jci1.3:c:BWBR0049509&amp;artikel=I"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelII" stam-id="17060793" versie-id="30021382" id="C43033811" label-id="16969404" inwerking="2024-07-01" label="Artikel II" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">II</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt het Wetboek van Strafvordering.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049509&amp;artikel=II&amp;g=2024-07-01" onderdeel="artikel=II" korte-verwijzing="1.0:c:BWBR0049509&amp;artikel=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049509&amp;artikel=II&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=II" korte-verwijzing="jci1.3:c:BWBR0049509&amp;artikel=II"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIIa" stam-id="17060803" versie-id="30021392" id="C43033821" label-id="16969414" inwerking="2024-07-01" label="Artikel IIa" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">IIa</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet schadefonds geweldsmisdrijven.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049509&amp;artikel=IIa&amp;g=2024-07-01" onderdeel="artikel=IIa" korte-verwijzing="1.0:c:BWBR0049509&amp;artikel=IIa"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049509&amp;artikel=IIa&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=IIa" korte-verwijzing="jci1.3:c:BWBR0049509&amp;artikel=IIa"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIII" stam-id="17060813" versie-id="30021402" id="C43033831" label-id="16969424" inwerking="2024-07-01" label="Artikel III" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">III</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Uitleveringswet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049509&amp;artikel=III&amp;g=2024-07-01" onderdeel="artikel=III" korte-verwijzing="1.0:c:BWBR0049509&amp;artikel=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049509&amp;artikel=III&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=III" korte-verwijzing="jci1.3:c:BWBR0049509&amp;artikel=III"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIV" stam-id="17060823" versie-id="30021412" id="C43033841" label-id="16969434" inwerking="2024-07-01" label="Artikel IV" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">IV</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet justitiële en strafvorderlijke gegevens.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049509&amp;artikel=IV&amp;g=2024-07-01" onderdeel="artikel=IV" korte-verwijzing="1.0:c:BWBR0049509&amp;artikel=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049509&amp;artikel=IV&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=IV" korte-verwijzing="jci1.3:c:BWBR0049509&amp;artikel=IV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelV" stam-id="17060833" versie-id="30021422" id="C43033851" label-id="16969444" inwerking="2024-07-01" label="Artikel V" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">V</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet wapens en munitie.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049509&amp;artikel=V&amp;g=2024-07-01" onderdeel="artikel=V" korte-verwijzing="1.0:c:BWBR0049509&amp;artikel=V"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049509&amp;artikel=V&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=V" korte-verwijzing="jci1.3:c:BWBR0049509&amp;artikel=V"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVI" stam-id="17060843" versie-id="30021432" id="C43033861" label-id="16969454" inwerking="2024-07-01" label="Artikel VI" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">VI</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet foetaal weefsel.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049509&amp;artikel=VI&amp;g=2024-07-01" onderdeel="artikel=VI" korte-verwijzing="1.0:c:BWBR0049509&amp;artikel=VI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049509&amp;artikel=VI&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=VI" korte-verwijzing="jci1.3:c:BWBR0049509&amp;artikel=VI"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVII" stam-id="17060853" versie-id="30021442" id="C43033871" label-id="16969464" inwerking="2024-07-01" label="Artikel VII" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">VII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de beroepen in de individuele gezondheidszorg.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049509&amp;artikel=VII&amp;g=2024-07-01" onderdeel="artikel=VII" korte-verwijzing="1.0:c:BWBR0049509&amp;artikel=VII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049509&amp;artikel=VII&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=VII" korte-verwijzing="jci1.3:c:BWBR0049509&amp;artikel=VII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVIII" stam-id="17060863" versie-id="30021452" id="C43033881" label-id="16969474" inwerking="2024-07-01" label="Artikel VIII" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">VIII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet educatie en beroepsonderwijs.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049509&amp;artikel=VIII&amp;g=2024-07-01" onderdeel="artikel=VIII" korte-verwijzing="1.0:c:BWBR0049509&amp;artikel=VIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049509&amp;artikel=VIII&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=VIII" korte-verwijzing="jci1.3:c:BWBR0049509&amp;artikel=VIII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIX" stam-id="17060873" versie-id="30021462" id="C43033891" label-id="16969484" inwerking="2024-07-01" label="Artikel IX" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">IX</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet kinderopvang.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049509&amp;artikel=IX&amp;g=2024-07-01" onderdeel="artikel=IX" korte-verwijzing="1.0:c:BWBR0049509&amp;artikel=IX"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049509&amp;artikel=IX&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=IX" korte-verwijzing="jci1.3:c:BWBR0049509&amp;artikel=IX"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelX" stam-id="17060883" versie-id="30021472" id="C43033901" label-id="16969494" inwerking="2024-07-01" label="Artikel X" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">X</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de expertisecentra.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049509&amp;artikel=X&amp;g=2024-07-01" onderdeel="artikel=X" korte-verwijzing="1.0:c:BWBR0049509&amp;artikel=X"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049509&amp;artikel=X&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=X" korte-verwijzing="jci1.3:c:BWBR0049509&amp;artikel=X"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXI" stam-id="17060893" versie-id="30021482" id="C43033911" label-id="16969504" inwerking="2024-07-01" label="Artikel XI" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XI</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049509&amp;artikel=XI&amp;g=2024-07-01" onderdeel="artikel=XI" korte-verwijzing="1.0:c:BWBR0049509&amp;artikel=XI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049509&amp;artikel=XI&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=XI" korte-verwijzing="jci1.3:c:BWBR0049509&amp;artikel=XI"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXII" stam-id="17060903" versie-id="30021492" id="C43033921" label-id="16969514" inwerking="2024-07-01" label="Artikel XII" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op het primair onderwijs.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049509&amp;artikel=XII&amp;g=2024-07-01" onderdeel="artikel=XII" korte-verwijzing="1.0:c:BWBR0049509&amp;artikel=XII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049509&amp;artikel=XII&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=XII" korte-verwijzing="jci1.3:c:BWBR0049509&amp;artikel=XII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXIII" stam-id="17060913" versie-id="30021502" id="C43033931" label-id="16969524" inwerking="2024-07-01" label="Artikel XIII" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XIII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op het voortgezet onderwijs.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049509&amp;artikel=XIII&amp;g=2024-07-01" onderdeel="artikel=XIII" korte-verwijzing="1.0:c:BWBR0049509&amp;artikel=XIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049509&amp;artikel=XIII&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=XIII" korte-verwijzing="jci1.3:c:BWBR0049509&amp;artikel=XIII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXIV" stam-id="17060923" versie-id="30021512" id="C43033941" label-id="16969534" inwerking="2024-07-01" label="Artikel XIV" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XIV</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de rechtsbijstand.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049509&amp;artikel=XIV&amp;g=2024-07-01" onderdeel="artikel=XIV" korte-verwijzing="1.0:c:BWBR0049509&amp;artikel=XIV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049509&amp;artikel=XIV&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=XIV" korte-verwijzing="jci1.3:c:BWBR0049509&amp;artikel=XIV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXV" stam-id="17060933" versie-id="30021522" id="C43033951" label-id="16969544" inwerking="2024-07-01" label="Artikel XV" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XV</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt deze wet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049509&amp;artikel=XV&amp;g=2024-07-01" onderdeel="artikel=XV" korte-verwijzing="1.0:c:BWBR0049509&amp;artikel=XV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049509&amp;artikel=XV&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=XV" korte-verwijzing="jci1.3:c:BWBR0049509&amp;artikel=XV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXVI" stam-id="17060943" versie-id="30021532" id="C43033961" label-id="16969554" inwerking="2024-07-01" label="Artikel XVI" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XVI</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt deze wet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049509&amp;artikel=XVI&amp;g=2024-07-01" onderdeel="artikel=XVI" korte-verwijzing="1.0:c:BWBR0049509&amp;artikel=XVI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049509&amp;artikel=XVI&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=XVI" korte-verwijzing="jci1.3:c:BWBR0049509&amp;artikel=XVI"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXVII" stam-id="17060953" versie-id="30021542" id="C43033971" label-id="16969564" inwerking="2024-07-01" label="Artikel XVII" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XVII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt deze wet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049509&amp;artikel=XVII&amp;g=2024-07-01" onderdeel="artikel=XVII" korte-verwijzing="1.0:c:BWBR0049509&amp;artikel=XVII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049509&amp;artikel=XVII&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=XVII" korte-verwijzing="jci1.3:c:BWBR0049509&amp;artikel=XVII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXVIII" stam-id="17060963" versie-id="30021552" id="C43033981" label-id="16969574" inwerking="2024-07-01" label="Artikel XVIII" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XVIII</nr>
+  </kop>
+  <al>Onze Minister van Justitie en Veiligheid zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049509&amp;artikel=XVIII&amp;g=2024-07-01" onderdeel="artikel=XVIII" korte-verwijzing="1.0:c:BWBR0049509&amp;artikel=XVIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049509&amp;artikel=XVIII&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=XVIII" korte-verwijzing="jci1.3:c:BWBR0049509&amp;artikel=XVIII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXIX" stam-id="17060973" versie-id="30021562" id="C43033991" label-id="16969584" inwerking="2024-07-01" label="Artikel XIX" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XIX</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049509&amp;artikel=XIX&amp;g=2024-07-01" onderdeel="artikel=XIX" korte-verwijzing="1.0:c:BWBR0049509&amp;artikel=XIX"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049509&amp;artikel=XIX&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=XIX" korte-verwijzing="jci1.3:c:BWBR0049509&amp;artikel=XIX"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXX" stam-id="17060983" versie-id="30021572" id="C43034001" label-id="16969594" inwerking="2024-07-01" label="Artikel XX" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XX</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet seksuele misdrijven.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049509&amp;artikel=XX&amp;g=2024-07-01" onderdeel="artikel=XX" korte-verwijzing="1.0:c:BWBR0049509&amp;artikel=XX"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049509&amp;artikel=XX&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=XX" korte-verwijzing="jci1.3:c:BWBR0049509&amp;artikel=XX"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="17060993" versie-id="30021582" id="C43034011" label-id="16969604" inwerking="2024-07-01" bron="Stb.2024-59" effect="nieuwe-regeling" ondertekening_bron="2024-03-20" publicatie_bron="2024-03-27" publicatie_iwt="2024-03-27" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>’s-Gravenhage</plaats>
+      <datum isodatum="2024-03-20">20 maart 2024</datum>
+    </dagtekening>
+    <koning>Willem-Alexander</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Justitie en Veiligheid,</functie>
+    <naam>
+      <voornaam>D.</voornaam>
+      <achternaam>Yeşilgöz-Zegerius</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2024-03-27">de <nadruk type="cur">zevenentwintigste</nadruk> maart 2024</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie en Veiligheid,</functie>
+      <naam>
+        <voornaam>D.</voornaam>
+        <achternaam>Yeşilgöz-Zegerius</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-59"><publicatiejaar>2024</publicatiejaar><publicatienr>59</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-20">20-03-2024</ondertekeningsdatum><dossierref dossier="36222">36222</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-61"><publicatiejaar>2024</publicatiejaar><publicatienr>61</publicatienr><uitgiftedatum isodatum="2024-03-27">27-03-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-03-25">25-03-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049509&amp;g=2024-07-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0049509"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049509&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0049509"/></jcis></meta-data></wetgeving></toestand>

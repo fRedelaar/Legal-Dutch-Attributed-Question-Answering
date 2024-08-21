@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0002905/2017-09-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0002905" inwerkingtreding="2017-09-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="477803" versie-id="708322" id="C708321" label-id="464454" inwerkingtredingsdatum="1973-12-17">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="477833" versie-id="707962" id="C707961" label-id="464124" inwerking="1973-12-17" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">Wet van 24 oktober 1973, houdende regelen inzake wettelijke aansprakelijkheid van exploitanten van nucleaire schepen<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="477843" versie-id="707972" id="C707971" label-id="464134" inwerking="1973-12-17" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24">Wet wettelijke aansprakelijkheid exploitanten nucleaire schepen<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="477853" versie-id="707982" id="C707981" label-id="464144" inwerking="1973-12-17" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <wij>Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is regelen vast te stellen inzake wettelijke aansprakelijkheid van exploitanten van nucleaire schepen, welke mede strekken ter uitvoering van het Verdrag van Brussel van 25 mei 1962 inzake de aansprakelijkheid van exploitanten van nucleaire schepen;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" code="a-1" stam-id="477863" versie-id="707992" id="C707991" label-id="464154" inwerking="1973-12-17" label="Artikel 1" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>1</nr>
+  </kop>
+  <al>Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder: </al>
+  <lijst>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>
+        <nadruk type="cur">nucleair schip:</nadruk> een schip, dat is uitgerust met een nucleaire krachtinstallatie;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=1&amp;o=a&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>
+        <nadruk type="cur">exploitant:</nadruk> hij, aan wie door een staat vergunning is verleend tot exploitatie van een nucleair schip onder zijn vlag, of een staat, die een nucleair schip exploiteert;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=1&amp;o=b&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>
+        <nadruk type="cur">splijtstoffen:</nadruk> alle stoffen, die het vermogen bezitten energie voort te brengen door middel van een zich zelf onderhoudende kettingreactie van kernsplijtingen en die worden gebruikt of bestemd zijn te worden gebruikt op een nucleair schip;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=1&amp;o=c&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>
+        <nadruk type="cur">radioactieve produkten of afvalstoffen:</nadruk> alle stoffen, met inbegrip van splijtstoffen, die radioactief zijn geworden door blootstelling aan bestraling door neutronen, verband houdende met het gebruik van splijtstoffen aan boord van een nucleair schip;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=1&amp;o=d&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="o=d"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeele">
+      <li.nr>e.</li.nr>
+      <al>
+        <nadruk type="cur">kernschade:</nadruk> schade door overlijden, schade aan personen en verlies van of schade aan goederen of vermogen, voortkomende uit of het gevolg zijnde van radioactieve eigenschappen of een combinatie van radioactieve eigenschappen met giftige, explosieve of andere gevaarlijke eigenschappen van splijtstoffen of radioactieve produkten of afvalstoffen;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=1&amp;o=e&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="o=e"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelf">
+      <li.nr>f.</li.nr>
+      <al>
+        <nadruk type="cur">kernongeval:</nadruk> elk feit, of elke opeenvolging van feiten met dezelfde oorzaak, waardoor kernschade wordt veroorzaakt;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=1&amp;o=f&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="o=f"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelg">
+      <li.nr>g.</li.nr>
+      <al>
+        <nadruk type="cur">nucleaire krachtinstallatie:</nadruk> iedere installatie ter opwekking van energie, waarin een kernreactor wordt gebruikt of bestemd is te worden gebruikt als krachtbron hetzij voor de voortbeweging van het schip hetzij voor enig ander doel;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=1&amp;o=g&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="o=g"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelh">
+      <li.nr>h.</li.nr>
+      <al>
+        <nadruk type="cur">kernreactor:</nadruk> iedere installatie, die op zodanige wijze splijtstoffen bevat, dat daarin een zich zelf onderhoudende kettingreactie van kernsplijtingen kan plaatsvinden zonder gebruikmaking van een andere neutronenbron.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=1&amp;o=h&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="o=h"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=1&amp;g=2017-09-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="a-2" stam-id="477873" versie-id="708002" id="C708001" label-id="464164" inwerking="1973-12-17" label="Artikel 2" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="464164L1">
+    <lidnr>1</lidnr>
+    <al>De exploitant van een nucleair schip is objectief aansprakelijk voor iedere kernschade, indien bewezen is, dat die schade is veroorzaakt door een kernongeval, waarbij de splijtstoffen van of de radioactieve produkten of afvalstoffen, voortgebracht op dat schip, zijn betrokken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=2&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="464164L2">
+    <lidnr>2</lidnr>
+    <al> Niemand anders dan de exploitant is aansprakelijk voor zodanige kernschade, tenzij in deze wet anders is bepaald. Voor de schade, waarvoor de exploitant overeenkomstig deze wet aansprakelijk is, kan hij niet uit anderen hoofde worden aangesproken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=2&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid3" label-id="464164L3">
+    <lidnr>3</lidnr>
+    <al> Kernschade, die wordt geleden door het nucleaire schip zelf, zijn uitrusting, brandstof of scheepsvoorraden, valt niet onder de aansprakelijkheid van de exploitant krachtens deze wet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=2&amp;lid=3&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid4" label-id="464164L4">
+    <lidnr>4</lidnr>
+    <al> De exploitant is niet aansprakelijk voor kernongevallen, die plaatsvinden, voordat de splijtstoffen door hem zijn overgenomen, of nadat de splijtstoffen of radioactieve produkten of afvalstoffen zijn overgenomen door een andere persoon, die daartoe wettelijk bevoegd is en die aansprakelijk is voor iedere door die stoffen of produkten veroorzaakte kernschade.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=2&amp;lid=4&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid5" label-id="464164L5">
+    <lidnr>5</lidnr>
+    <al> Indien de exploitant bewijst, dat de kernschade geheel of gedeeltelijk het gevolg is van een handelen of nalaten, met het opzet schade te veroorzaken, van de natuurlijke persoon, die schade heeft geleden, kan de rechter de exploitant geheel of gedeeltelijk ontheffen van zijn aansprakelijkheid tegenover die persoon.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=2&amp;lid=5&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid6" label-id="464164L6">
+    <lidnr>6</lidnr>
+    <al> Niettegenstaande het bepaalde in het eerste lid heeft de exploitant recht van verhaal: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid6/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>indien het kernongeval het gevolg is van een persoonlijk handelen of nalaten met het opzet schade te veroorzaken, op de natuurlijke persoon, die met dit opzet heeft gehandeld of heeft nagelaten te handelen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=2&amp;lid=6&amp;o=a&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid6/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>indien het kernongeval plaatsvond als gevolg van werkzaamheden, verbonden aan het lichten van een wrak, op de persoon of personen, die deze werkzaamheden hebben uitgevoerd zonder machtiging van de exploitant of van de staat, die de vergunning ten aanzien van het gezonken schip heeft verleend of van de staat, in wiens wateren het wrak zich bevindt;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=2&amp;lid=6&amp;o=b&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid6/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>indien verhaal uitdrukkelijk is overeengekomen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=2&amp;lid=6&amp;o=c&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=2&amp;lid=6&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=2&amp;g=2017-09-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="a-3" stam-id="477883" versie-id="708012" id="C708011" label-id="464174" inwerking="1973-12-17" label="Artikel 3" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="464174L1">
+    <lidnr>1</lidnr>
+    <al>De aansprakelijkheid van de exploitant met betrekking tot een enkel nucleair schip is per kernongeval beperkt tot een bedrag, gelijk aan de tegenwaarde in guldens van 1500 miljoen franken, zelfs indien het kernongeval het gevolg is geweest van een persoonlijke fout van die exploitant; onder het bedrag, waartoe de aansprakelijkheid is beperkt, zijn niet begrepen interesten of kosten, die door de rechter zijn toegewezen in een krachtens deze wet ingestelde rechtsvordering tot schadevergoeding.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=3&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="464174L2">
+    <lidnr>2</lidnr>
+    <al> Een frank, als bedoeld in het eerste lid, is een rekeneenheid, bestaande uit 65,5 milligram goud op basis van 900 duizendsten fijn.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=3&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=3&amp;g=2017-09-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=3&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="a-4" stam-id="477893" versie-id="708022" id="C5194141" label-id="464184" inwerking="1973-12-17" label="Artikel 4" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>4</nr>
+  </kop>
+  <al>De exploitant is gehouden overeenkomstig de <intref verwijzing-id="1624934" doc="jci1.3:c:BWBR0002905&amp;artikel=5&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464194" bwb-ng-variabel-deel="/Artikel5">artikelen 5</intref>, <intref verwijzing-id="1624935" doc="jci1.3:c:BWBR0002905&amp;artikel=6&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464204" bwb-ng-variabel-deel="/Artikel6">6</intref> of <intref verwijzing-id="1624936" doc="jci1.3:c:BWBR0002905&amp;artikel=7&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464214" bwb-ng-variabel-deel="/Artikel7">7</intref> dekking van zijn aansprakelijkheid te hebben en in stand te houden tot het in <intref verwijzing-id="1624937" doc="jci1.3:c:BWBR0002905&amp;artikel=3&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464174" bwb-ng-variabel-deel="/Artikel3">artikel 3, eerste lid</intref>, bedoelde bedrag.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=4&amp;g=2017-09-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=4&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="a-5" stam-id="477903" versie-id="708032" id="C708031" label-id="464194" inwerking="1973-12-17" label="Artikel 5" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid1" label-id="464194L1">
+    <lidnr>1</lidnr>
+    <al>De exploitant van een onder Nederlandse vlag varend nucleair schip is gehouden een verzekering of andere financiële zekerheid te hebben en in stand te houden van de aard en op de voorwaarden, als door Onze Minister van Financiën is vastgesteld, tot een bij algemene maatregel van bestuur, gelet op de mogelijkheden tot het verkrijgen van dekking, vast te stellen bedrag. Bij zodanige maatregel kunnen andere voorschriften worden gegeven met betrekking tot die financiële zekerheid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=5&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid2" label-id="464194L2">
+    <lidnr>2</lidnr>
+    <al> Indien een exploitant, als bedoeld in het eerste lid, naar het oordeel van Onze Minister van Financiën geen of geen voldoende zekerheid, als daar bedoeld, kan verkrijgen of indien deze financiële zekerheid naar het oordeel van Onze Minister van Financiën slechts tegen een onredelijke premie of vergoeding te verkrijgen is, is Onze voornoemde Minister gemachtigd op voorwaarden en tegen premies of vergoedingen, als door hem te bepalen, voor de Staat als verzekeraar verzekeringsovereenkomsten terzake aan te gaan of namens de Staat andere garanties terzake te verstrekken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=5&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid3" label-id="464194L3">
+    <lidnr>3</lidnr>
+    <al> Het eerste en tweede lid zijn niet van toepassing ten aanzien van een schip, dat door de Staat wordt geëxploiteerd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=5&amp;lid=3&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=5&amp;g=2017-09-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=5&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="a-6" stam-id="477913" versie-id="708042" id="C5194151" label-id="464204" inwerking="1973-12-17" label="Artikel 6" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid1" label-id="464204L1">
+    <lidnr>1</lidnr>
+    <al>Voor zover de overeenkomstig <intref verwijzing-id="1624938" doc="jci1.3:c:BWBR0002905&amp;artikel=5&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464194" bwb-ng-variabel-deel="/Artikel5">artikel 5</intref> beschikbaar komende middelen ontoereikend zijn voor vergoeding van de kernschade, stelt de Staat aan de exploitant openbare middelen beschikbaar tot het in <intref verwijzing-id="1624939" doc="jci1.3:c:BWBR0002905&amp;artikel=3&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464174" bwb-ng-variabel-deel="/Artikel3">artikel 3, eerste lid</intref>, bedoelde bedrag.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=6&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid2" label-id="464204L2">
+    <lidnr>2</lidnr>
+    <al> Voor zover het ontbreken van de financiële zekerheid, bedoeld in <intref verwijzing-id="1624940" doc="jci1.3:c:BWBR0002905&amp;artikel=5&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464194" bwb-ng-variabel-deel="/Artikel5">artikel 5</intref>, aan schuld van de exploitant te wijten is, heeft de Staat voor de in verband daarmede beschikbaar gestelde openbare middelen recht van verhaal op de exploitant.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=6&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid3" label-id="464204L3">
+    <lidnr>3</lidnr>
+    <al> De in <intref verwijzing-id="1624941" doc="jci1.3:c:BWBR0002905&amp;artikel=3&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464174" bwb-ng-variabel-deel="/Artikel3">artikel 3</intref> bedoelde interesten en kosten, verschuldigd door een exploitant, als bedoeld in <intref verwijzing-id="1624942" doc="jci1.3:c:BWBR0002905&amp;artikel=5&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464194" bwb-ng-variabel-deel="/Artikel5">artikel 5</intref>, zijn voor rekening van die exploitant en de Staat naar verhouding van de middelen, die ingevolge artikel 5, onderscheidenlijk het eerste lid van het onderhavige artikel, beschikbaar worden gesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=6&amp;lid=3&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid4" label-id="464204L4">
+    <lidnr>4</lidnr>
+    <al> Indien en voorzover de Staat ingevolge het eerste lid openbare middelen aan de exploitant beschikbaar heeft gesteld, heeft hij het recht van verhaal van de exploitant, bedoeld in <intref verwijzing-id="1624943" doc="jci1.3:c:BWBR0002905&amp;artikel=2&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464164" bwb-ng-variabel-deel="/Artikel2">artikel 2, zesde lid</intref>. Bij de uitoefening van dit recht heeft de Staat voorrang boven de verzekeraars of andere personen, die financiële zekerheid, als bedoeld in <intref verwijzing-id="1624944" doc="jci1.3:c:BWBR0002905&amp;artikel=5&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464194" bwb-ng-variabel-deel="/Artikel5">artikel 5, eerste lid</intref>, hebben gesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=6&amp;lid=4&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=6&amp;g=2017-09-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=6&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="a-7" stam-id="477923" versie-id="708052" id="C5194161" label-id="464214" inwerking="1973-12-17" label="Artikel 7" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+  <al>Voor wat een exploitant van een onder vreemde vlag varend nucleair schip betreft dient de in <intref verwijzing-id="1624945" doc="jci1.3:c:BWBR0002905&amp;artikel=4&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464184" bwb-ng-variabel-deel="/Artikel4">artikel 4</intref> bedoelde dekking voor zijn aansprakelijkheid naar het oordeel van Onze Minister van Financiën genoegzaam te zijn.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=7&amp;g=2017-09-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=7&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" code="a-8" stam-id="477933" versie-id="708062" id="C708061" label-id="464224" inwerking="1973-12-17" label="Artikel 8" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>8</nr>
+  </kop>
+  <al>In gevallen, waarin zowel kernschade als andere schade is veroorzaakt door een kernongeval of door een kernongeval en een of meer andere feiten tezamen, en deze andere schade redelijkerwijs niet valt te scheiden van de kernschade, wordt voor de toepassing van deze wet de gehele schade beschouwd als kernschade, uitsluitend veroorzaakt door het kernongeval. In gevallen echter, waarin schade wordt veroorzaakt zowel door een onder deze wet vallend kernongeval als door het vrijkomen van ioniserende straling of het vrijkomen van ioniserende straling in combinatie met de giftige, explosieve of andere gevaarlijke eigenschappen van een niet onder deze wet vallende stralingsbron, laat deze wet onverlet de aansprakelijkheid van de persoon, die op grond van het vrijkomen van ioniserende straling of van de giftige, explosieve of andere gevaarlijke eigenschappen van die stralingsbron aansprakelijk kan worden gesteld hetzij ten aanzien van de slachtoffers hetzij in de vorm van verhaal of van een bijdrage.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=8&amp;g=2017-09-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=8&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" code="a-9" stam-id="477943" versie-id="708362" id="C708361" label-id="464234" inwerking="1999-02-17" label="Artikel 9" bron="Stb.1999-30" effect="wijziging" ondertekening_bron="1999-01-28" publicatie_bron="1999-02-16" publicatie_iwt="1999-02-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>9</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid1" label-id="464234L1">
+    <lidnr>1</lidnr>
+    <al>Het recht op schadevergoeding krachtens deze wet vervalt, indien niet binnen tien jaar te rekenen van de datum van het kernongeval een rechtsvordering is ingesteld of het recht op schadevergoeding is erkend.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=9&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid2" label-id="464234L2">
+    <lidnr>2</lidnr>
+    <al> Ingeval kernschade is veroorzaakt door splijtstoffen of door radio-actieve produkten of afvalstoffen, die waren gestolen, verloren, geworpen of verlaten, wordt de in het eerste lid genoemde vervaltermijn gerekend van de datum, waarop het kernongeval, dat de kernschade heeft veroorzaakt, plaatsvond, doch deze termijn zal in geen geval langer zijn dan twintig jaar, te rekenen van de datum van de diefstal, het verlies, de werping of het verlaten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=9&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid3" label-id="464234L3">
+    <lidnr>3</lidnr>
+    <al> Onverminderd de vervaltermijn, gesteld in het eerste of tweede lid, verjaart een rechtsvordering tot vergoeding van schade krachtens deze wet door verloop van drie jaar na de dag, waarop de betrokkene of, indien hij een wettelijke vertegenwoordiger heeft, deze laatste kennis draagt of redelijkerwijs geacht kan worden kennis te dragen van de schade en van de aansprakelijke exploitant. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=9&amp;lid=3&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1999-30"><publicatiejaar>1999</publicatiejaar><publicatienr>30</publicatienr><uitgiftedatum isodatum="1999-02-16">16-02-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-01-28">28-01-1999</ondertekeningsdatum><dossierref dossier="25836">25836</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1999-40"><publicatiejaar>1999</publicatiejaar><publicatienr>40</publicatienr><uitgiftedatum isodatum="1999-02-16">16-02-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-02-04">04-02-1999</ondertekeningsdatum><dossierref dossier="25836">25836</dossierref></publicatie><inwerkingtreding.datum isodatum="1999-02-17">17-02-1999</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=9&amp;g=2017-09-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=9&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" code="a-10" stam-id="477953" versie-id="708082" id="C708081" label-id="464244" inwerking="1973-12-17" label="Artikel 10" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>10</nr>
+  </kop>
+  <al>Indien en voorzover ter vergoeding van kernschade recht bestaat op uitkering krachtens Nederlandse sociale wetten, komt het recht op vergoeding van die schade ingevolge deze wet toe aan degenen, te wier laste die uitkeringen komen, met dien verstande, dat bij periodieke uitkeringen als schade zal worden aangemerkt de gekapitaliseerde waarde van de verschuldigde uitkeringen.</al>
+  <al>Overigens blijven de bepalingen van bedoelde wetten van kracht.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=10&amp;g=2017-09-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=10&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" code="a-11" stam-id="477963" versie-id="708092" id="C5194021" label-id="464254" inwerking="1973-12-17" label="Artikel 11" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>11</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid1" label-id="464254L1">
+    <lidnr>1</lidnr>
+    <al>In gevallen, waarin kernschade aanleiding geeft tot aansprakelijkheid van meer dan één exploitant en het redelijkerwijs niet mogelijk is te bepalen, welk deel van de schade aan ieder hunner dient te worden toegerekend, zijn de betrokken exploitanten hoofdelijk aansprakelijk. Niettemin zal de aansprakelijkheid van ieder der exploitanten het in <intref verwijzing-id="1624908" doc="jci1.3:c:BWBR0002905&amp;artikel=3&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464174" bwb-ng-variabel-deel="/Artikel3">artikel 3, eerste lid</intref>, bedoelde bedrag niet te boven gaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=11&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid2" label-id="464254L2">
+    <lidnr>2</lidnr>
+    <al> In het geval van een kernongeval, waarbij de kernschade wordt veroorzaakt door of het gevolg is van splijtstoffen of radioactieve produkten of afvalstoffen van meer dan één nucleair schip van eenzelfde exploitant, is die exploitant ten aanzien van elk dier schepen aansprakelijk tot het in <intref verwijzing-id="1624909" doc="jci1.3:c:BWBR0002905&amp;artikel=3&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464174" bwb-ng-variabel-deel="/Artikel3">artikel 3, eerste lid</intref>, bedoelde bedrag.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=11&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid3" label-id="464254L3">
+    <lidnr>3</lidnr>
+    <al> Ingeval exploitanten hoofdelijk aansprakelijk zijn en met inachtneming van het eerste lid: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Artikel11/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>heeft elke exploitant het recht van de anderen een bijdrage te vorderen in verhouding tot de schuld van elk hunner;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=11&amp;lid=3&amp;o=a&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel11/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>wordt, indien de omstandigheden het vaststellen van ieders aandeel in de schuld onmogelijk maken, de totale aansprakelijkheid voor gelijke delen gedragen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=11&amp;lid=3&amp;o=b&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=11&amp;lid=3&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=11&amp;g=2017-09-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=11&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=11"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel12" code="a-12" stam-id="477973" versie-id="708102" id="C708101" label-id="464264" inwerking="1973-12-17" label="Artikel 12" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>12</nr>
+  </kop>
+  <al>Een exploitant is niet aansprakelijk krachtens deze wet voor kernschade, veroorzaakt door een kernongeval, dat rechtstreeks te wijten is aan een oorlogshandeling, vijandelijkheden, burgeroorlog of opstand.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=12&amp;g=2017-09-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=12&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=12"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13" code="a-13" stam-id="477983" versie-id="708122" id="C5194031" label-id="464274" inwerking="1973-12-17" label="Artikel 13" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>13</nr>
+  </kop>
+  <al>De ingevolge <intref verwijzing-id="1624910" doc="jci1.3:c:BWBR0002905&amp;artikel=4&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464184" bwb-ng-variabel-deel="/Artikel4">artikel 4</intref> ter beschikking komende middelen mogen uitsluitend worden aangewend voor de betaling van krachtens deze wet verschuldigde schadevergoeding.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=13&amp;g=2017-09-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=13&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=13"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel14" code="a-14" stam-id="477993" versie-id="708132" id="C708131" label-id="464284" inwerking="1991-08-07" label="Artikel 14" bron="Stb.1991-373" effect="wijziging" ondertekening_bron="1991-06-26" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>14</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid1" label-id="464284L1">
+    <lidnr>1</lidnr>
+    <al>Het recht op vergoeding van kernschade kan slechts worden uitgeoefend tegen de exploitant, die ingevolge deze wet aansprakelijk is.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=14&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid2" label-id="464284L2">
+    <lidnr>2</lidnr>
+    <al> Iedere persoon, die krachtens het recht van een andere staat of krachtens een internationale overeenkomst kernschade heeft vergoed, verkrijgt bij subrogatie de rechten, die de persoon aan wie hij schadevergoeding heeft betaald, ingevolge deze wet zou hebben gehad, tot het bedrag, dat hij heeft betaald. Niemand verkrijgt evenwel op deze wijze rechten, indien en voor zover de exploitant krachtens deze wet een recht van verhaal of op een bijdrage jegens hem heeft.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=14&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>373</publicatienr><ondertekeningsdatum isodatum="1991-06-26">26-06-1991</ondertekeningsdatum><dossierref dossier="21917">21917</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>373</publicatienr><ondertekeningsdatum isodatum="1991-06-26">26-06-1991</ondertekeningsdatum><dossierref dossier="21917">21917</dossierref></publicatie><inwerkingtreding.datum isodatum="1991-08-07">07-08-1991</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=14&amp;g=2017-09-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=14&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=14"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel15" code="a-15" stam-id="478003" versie-id="19508892" id="C27391271" label-id="464294" inwerking="2013-01-01" label="Artikel 15" bron="Stb.2012-313" effect="wijziging" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-13" publicatie_iwt="2012-07-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15</nr>
+  </kop>
+  <al>Rechtsvorderingen ingevolge deze wet en verzoeken overeenkomstig <intref verwijzing-id="1624911" doc="jci1.3:c:BWBR0002905&amp;artikel=18&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464324" bwb-ng-variabel-deel="/Artikel18">artikel 18, eerste lid</intref>, en <intref verwijzing-id="1624912" doc="jci1.3:c:BWBR0002905&amp;artikel=21&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464354" bwb-ng-variabel-deel="/Artikel21">artikel 21, eerste lid</intref>, kunnen in eerste aanleg uitsluitend worden ingesteld bij de rechtbank Den Haag.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2012-313"><publicatiejaar>2012</publicatiejaar><publicatienr>313</publicatienr><uitgiftedatum isodatum="2012-07-13">13-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="32891">32891</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2012-314"><publicatiejaar>2012</publicatiejaar><publicatienr>314</publicatienr><uitgiftedatum isodatum="2012-07-13">13-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=15&amp;g=2017-09-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=15&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=15"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel16" code="a-16" stam-id="478013" versie-id="708162" id="C5194051" label-id="464304" inwerking="1973-12-17" label="Artikel 16" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>16</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel16/Lid1" label-id="464304L1">
+    <lidnr>1</lidnr>
+    <al>Een exploitant van een onder Nederlandse vlag varend nucleair schip is gehouden onverwijld mededeling te doen aan Onze Minister van Financiën: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Artikel16/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>van elk kernongeval, waardoor schade, waarvoor hij aansprakelijk is, kan zijn veroorzaakt;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=16&amp;lid=1&amp;o=a&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel16/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>van elk in verband met een kernongeval buiten rechte bij hem ingediende vordering tot vergoeding van schade;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=16&amp;lid=1&amp;o=b&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel16/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>van elk in verband met een kernongeval in rechte tegen hem ingediende vordering tot vergoeding van schade;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=16&amp;lid=1&amp;o=c&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel16/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>van elke door hem in verband met een kernongeval uitgekeerde vergoeding van schade.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=16&amp;lid=1&amp;o=d&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=16&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel16/Lid2" label-id="464304L2">
+    <lidnr>2</lidnr>
+    <al> Voorzover de Staat openbare middelen, als bedoeld in <intref verwijzing-id="1624913" doc="jci1.3:c:BWBR0002905&amp;artikel=6&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464204" bwb-ng-variabel-deel="/Artikel6">artikel 6, eerste lid</intref>, van deze wet, beschikbaar stelt voor vergoeding van kernschade, met betrekking waartoe een van de in het eerste lid bedoelde mededelingen niet is gedaan, heeft de Staat voor het aldus betaalde bedrag recht van verhaal op de exploitant.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=16&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=16&amp;g=2017-09-01" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=16&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=16"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel17" code="a-17" stam-id="478023" versie-id="708172" id="C708171" label-id="464314" inwerking="1973-12-17" label="Artikel 17" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>17</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel17/Lid1" label-id="464314L1">
+    <lidnr>1</lidnr>
+    <al>Erkenning van en voldoening aan schadevorderingen zomede het aangaan van dadingen en schikkingen betreffende zodanige vorderingen kunnen door een exploitant van een onder Nederlandse vlag varend nucleair schip slechts met goedkeuring van Onze Minister van Financiën geschieden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=17&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel17/Lid2" label-id="464314L2">
+    <lidnr>2</lidnr>
+    <al> Handelingen in strijd met het eerste lid zijn van rechtswege nietig. De nietigheid wordt door de rechter ambtshalve uitgesproken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=17&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=17&amp;g=2017-09-01" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=17&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=17"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel18" stam-id="478033" versie-id="23495922" id="C34889491" label-id="464324" inwerking="2017-09-01" label="Artikel 18" bron="Stb.2016-290" effect="wijziging" ondertekening_bron="2016-07-13" publicatie_bron="2016-07-21" publicatie_iwt="2017-05-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">18</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid1" label-id="464324L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De rechtbank kan op verzoek van een belanghebbende bepalen, dat verzekeraars en andere personen, die de dekking, als bedoeld in <intref doc="jci1.3:c:BWBR0002905&amp;artikel=4&amp;z=2017-09-01&amp;g=2017-09-01" label-id="464184" verwijzing-id="1624914" bwb-id="BWBR0002905" bwb-ng-variabel-deel="/Artikel4">artikel 4</intref>, hebben verschaft, de middelen, welke zij dientengevolge ter voldoening van erkende of toegewezen schadevorderingen beschikbaar moeten stellen, rechtstreeks aan de betrokkene zullen uitkeren. Een zodanige beschikking kan door de rechtbank te allen tijde worden ingetrokken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=18&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid2" label-id="464324L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Op een verzoek, als bedoeld in het eerste lid, beslist de rechtbank niet, dan nadat de belanghebbende, die het verzoek heeft ingediend, Onze Minister van Financiën en de exploitant zijn gehoord of ten verhore zijn opgeroepen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=18&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid3" label-id="464324L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> De beschikking van de rechtbank wordt uitgesproken ter openbare zitting en door de griffier bekendgemaakt in de <nadruk type="cur">Staatscourant.</nadruk> De belanghebbenden kunnen van de beschikking in beroep komen bij het gerechtshof binnen veertien dagen na de dagtekening van de <nadruk type="cur">Staatscourant</nadruk>, waarin de bekendmaking is geplaatst.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=18&amp;lid=3&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid4" label-id="464324L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> De beschikking van het gerechtshof wordt uitgesproken ter openbare zitting en door de griffier bekendgemaakt in de <nadruk type="cur">Staatscourant</nadruk>. De belanghebbenden kunnen beroep in cassatie instellen binnen drie weken na de dagtekening van de <nadruk type="cur">Staatscourant</nadruk>, waarin de bekendmaking is geplaatst.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=18&amp;lid=4&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid5" label-id="464324L5">
+    <lidnr status="officieel">5</lidnr>
+    <al> Een beschikking, als bedoeld in de eerste volzin van het eerste lid, is uitvoerbaar bij voorraad. Ook indien deze beschikking wordt vernietigd in hoger beroep of in cassatie, blijven uitkeringen, welke overeenkomstig die beschikking zijn gedaan, voordat de beschikking tot vernietiging onherroepelijk is geworden, geldig en verbindend.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=18&amp;lid=5&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2016-290"><publicatiejaar>2016</publicatiejaar><publicatienr>290</publicatienr><uitgiftedatum isodatum="2016-07-21">21-07-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-07-13">13-07-2016</ondertekeningsdatum><dossierref dossier="34212">34212</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-174"><publicatiejaar>2017</publicatiejaar><publicatienr>174</publicatienr><uitgiftedatum isodatum="2017-05-04">04-05-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-05-01">01-05-2017</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2017-09-01">01-09-2017</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Artikel CIX van Stb. 2016/290 bevat overgangsrecht m.b.t. deze wijziging.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=18&amp;g=2017-09-01" onderdeel="artikel=18" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=18"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=18&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=18" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=18"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel19" code="a-19" stam-id="478043" versie-id="708192" id="C5194071" label-id="464334" inwerking="1973-12-17" label="Artikel 19" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>19</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel19/Lid1" label-id="464334L1">
+    <lidnr>1</lidnr>
+    <al>Onze Minister van Financiën kan te allen tijde bepalen, dat hij namens een exploitant van een onder Nederlandse vlag varend nuclear schip, alle of daarbij aangewezen rechten en verplichtingen van die exploitant ter zake van de afwikkeling van de kernschade zal uitoefenen, voorzover nodig in afwijking van de tussen de exploitant en verzekeraars of andere personen, die financiële zekerheid, als bedoeld in <intref verwijzing-id="1624915" doc="jci1.3:c:BWBR0002905&amp;artikel=5&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464194" bwb-ng-variabel-deel="/Artikel5">artikel 5, eerste lid</intref>, hebben gesteld, gesloten overeenkomsten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=19&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel19/Lid2" label-id="464334L2">
+    <lidnr>2</lidnr>
+    <al> Een beschikking, als in het eerste lid bedoeld, wordt bekend gemaakt in de <nadruk type="cur">Staatscourant</nadruk>. Een zodanige beschikking kan nadere regelen omtrent de indiening van vorderingen tot vergoeding van kernschade bevatten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=19&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=19&amp;g=2017-09-01" onderdeel="artikel=19" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=19"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=19&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=19" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=19"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel20" code="a-20" stam-id="478053" versie-id="708202" id="C5194081" label-id="464344" inwerking="1973-12-17" label="Artikel 20" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>20</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel20/Lid1" label-id="464344L1">
+    <lidnr>1</lidnr>
+    <al>Indien het totaal der door de exploitant voor de kernschade te betalen vergoedingen groter is dan het in <intref verwijzing-id="1624916" doc="jci1.3:c:BWBR0002905&amp;artikel=3&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464174" bwb-ng-variabel-deel="/Artikel3">artikel 3, eerste lid</intref>, bedoelde bedrag, worden de aanspraken op vergoeding verhoudingsgewijs verminderd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=20&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel20/Lid2" label-id="464344L2">
+    <lidnr>2</lidnr>
+    <al> Voor gevallen, waarin het eerste lid van toepassing is, kunnen bij algemene maatregel van bestuur regelen worden gesteld omtrent de wijze van afwikkeling van de betrokken schadevorderingen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=20&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=20&amp;g=2017-09-01" onderdeel="artikel=20" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=20"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=20&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=20" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=20"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel21" code="a-21" stam-id="478063" versie-id="708222" id="C5194091" label-id="464354" inwerking="1973-12-17" label="Artikel 21" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>21</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel21/Lid1" label-id="464354L1">
+    <lidnr>1</lidnr>
+    <al>Indien redelijkerwijs rekening moet worden gehouden met de mogelijkheid, dat het in <intref verwijzing-id="1624917" doc="jci1.3:c:BWBR0002905&amp;artikel=20&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464344" bwb-ng-variabel-deel="/Artikel20">artikel 20</intref> bedoelde geval zich voordoet, en de omvang van elk uit te keren schadebedrag nog niet is vastgesteld, kan een belanghebbende aan de rechtbank verzoeken de exploitant terzake van de vergoeding van de kernschade een verbod van betaling op te leggen. De griffier geeft van de indiening van zodanig verzoek onverwijld kennis aan de exploitant en in het geval, bedoeld in <intref verwijzing-id="1624918" doc="jci1.3:c:BWBR0002905&amp;artikel=13&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464274" bwb-ng-variabel-deel="/Artikel13">artikel 13</intref>, aan de verzekeraars en andere personen, die de dekking als bedoeld in <intref verwijzing-id="1624919" doc="jci1.3:c:BWBR0002905&amp;artikel=4&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464184" bwb-ng-variabel-deel="/Artikel4">artikel 4</intref>, hebben verschaft.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=21&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel21/Lid2" label-id="464354L2">
+    <lidnr>2</lidnr>
+    <al> De exploitant en in het geval, bedoeld in <intref verwijzing-id="1624920" doc="jci1.3:c:BWBR0002905&amp;artikel=18&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464324" bwb-ng-variabel-deel="/Artikel18">artikel 18</intref>, de verzekeraars en andere personen, die de dekking, als bedoeld in <intref verwijzing-id="1624921" doc="jci1.3:c:BWBR0002905&amp;artikel=4&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464184" bwb-ng-variabel-deel="/Artikel4">artikel 4</intref>, hebben verschaft, kunnen van de dag, waarop zij een verzoek, als in het eerste lid bedoeld, hebben ingediend, onderscheidenlijk kennis hebben gekregen van de indiening van een zodanig verzoek, terzake van de vergoeding van kernschade geen betalingen doen tot de dag, waarop een beschikking betreffende het verzoek kracht van gewijsde heeft verkregen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=21&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel21/Lid3" label-id="464354L3">
+    <lidnr>3</lidnr>
+    <al> Indien de rechtbank het verzoek gegrond acht, legt zij de exploitant en, zolang een beschikking, als bedoeld in <intref verwijzing-id="1624922" doc="jci1.3:c:BWBR0002905&amp;artikel=18&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464324" bwb-ng-variabel-deel="/Artikel18">artikel 18, eerste lid, eerste volzin</intref>, van kracht is, de verzekeraars en andere personen, die de dekking, als bedoeld in <intref verwijzing-id="1624923" doc="jci1.3:c:BWBR0002905&amp;artikel=4&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464184" bwb-ng-variabel-deel="/Artikel4">artikel 4</intref>, hebben verschaft, een verbod van betaling, als bedoeld in het eerste lid, op. Op zodanige beschikking alsmede op een beschikking, waarin het verzoek ongegrond wordt verklaard, is <intref verwijzing-id="1624924" doc="jci1.3:c:BWBR0002905&amp;artikel=18&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464324" bwb-ng-variabel-deel="/Artikel18">artikel 18, tweede, derde en vierde lid</intref>, van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=21&amp;lid=3&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel21/Lid4" label-id="464354L4">
+    <lidnr>4</lidnr>
+    <al> Handelingen in strijd met het tweede lid of met een beschikking, als bedoeld in het derde lid, eerste volzin, zijn van rechtswege nietig. De nietigheid wordt door de rechter ambtshalve uitgesproken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=21&amp;lid=4&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel21/Lid5" label-id="464354L5">
+    <lidnr>5</lidnr>
+    <al> De rechtbank kan ambtshalve of op verzoek van een belanghebbende het in het derde lid bedoelde verbod van betaling opheffen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=21&amp;lid=5&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=21&amp;g=2017-09-01" onderdeel="artikel=21" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=21"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=21&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=21" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=21"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel22" code="a-22" stam-id="478073" versie-id="708232" id="C5194101" label-id="464364" inwerking="1973-12-17" label="Artikel 22" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>22</nr>
+  </kop>
+  <al>Gedurende de tijd, dat het verbod van betaling, als bedoeld in <intref verwijzing-id="1624925" doc="jci1.3:c:BWBR0002905&amp;artikel=21&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464354" bwb-ng-variabel-deel="/Artikel21">artikel 21</intref>, geldt, dragen erkende of toegewezen schadevergoedingen een door Onze Minister van Financiën te bepalen interest.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=22&amp;g=2017-09-01" onderdeel="artikel=22" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=22"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=22&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=22" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=22"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel23" code="a-23" stam-id="478083" versie-id="708242" id="C5194111" label-id="464374" inwerking="1973-12-17" label="Artikel 23" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>23</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel23/Lid1" label-id="464374L1">
+    <lidnr>1</lidnr>
+    <al>Onze Minister van Financiën kan in gevallen, waarin een exploitant van een onder Nederlandse vlag varend nucleair schip aansprakelijk is, aan de betrokkenen de nodige voorschotten verlenen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=23&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel23/Lid2" label-id="464374L2">
+    <lidnr>2</lidnr>
+    <al> Onze Minister van Financiën bepaalt de grootte van de voorschotten, rekening houdende met de aard en omvang van de geleden kernschade, met de uitkering, waarop de betrokkene vermoedelijk aanspraak zal kunnen maken, en met diens persoonlijke omstandigheden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=23&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel23/Lid3" label-id="464374L3">
+    <lidnr>3</lidnr>
+    <al> Een genoten voorschot komt in mindering van het door de exploitant aan de betrokkene verschuldigde bedrag van de vergoeding.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=23&amp;lid=3&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel23/Lid4" label-id="464374L4">
+    <lidnr>4</lidnr>
+    <al> In afwijking van het bepaalde in <intref verwijzing-id="1624926" doc="jci1.3:c:BWBR0002905&amp;artikel=21&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464354" bwb-ng-variabel-deel="/Artikel21">artikel 21, derde en vierde lid</intref>, kan Onze Minister van Financiën gedurende de tijd, dat het verbod van betaling van kracht is, van de verzekeraars en andere personen, die financiële zekerheid, als bedoeld in <intref verwijzing-id="1624927" doc="jci1.3:c:BWBR0002905&amp;artikel=5&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464194" bwb-ng-variabel-deel="/Artikel5">artikel 5, eerste lid</intref>, hebben gesteld, vorderen, dat zij, naar gelang bedragen van geleden kernschade zijn erkend of toegewezen, de in <intref verwijzing-id="1624928" doc="jci1.3:c:BWBR0002905&amp;artikel=5&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464194" bwb-ng-variabel-deel="/Artikel5">artikel 5, eerste lid</intref>, bedoelde middelen aan hem uitkeren tot ten hoogste het bedrag van de door hem verleende voorschotten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=23&amp;lid=4&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=23&amp;g=2017-09-01" onderdeel="artikel=23" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=23"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=23&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=23" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=23"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel24" code="a-24" stam-id="478093" versie-id="708252" id="C5194121" label-id="464384" inwerking="1973-12-17" label="Artikel 24" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>24</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel24/Lid1" label-id="464384L1">
+    <lidnr>1</lidnr>
+    <al>Gedurende de termijnen, waarin ingevolge <intref verwijzing-id="1624929" doc="jci1.3:c:BWBR0002905&amp;artikel=21&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464354" bwb-ng-variabel-deel="/Artikel21">artikel 21, tweede en derde lid</intref>, ter zake van de vergoeding van kernschade door een exploitant van een onder vreemde vlag varend nucleair schip, geen betalingen kunnen plaatsvinden, kan de rechtbank op verzoek van een belanghebbende aan de exploitant, de verzekeraars en andere personen, die de dekking, als bedoeld in <intref verwijzing-id="1624930" doc="jci1.3:c:BWBR0002905&amp;artikel=4&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464184" bwb-ng-variabel-deel="/Artikel4">artikel 4</intref>, hebben verschaft, de verplichting opleggen de nodige voorschotten aan de betrokkenen te verlenen. Op zodanige beschikking alsmede op een beschikking, waarin het verzoek wordt afgewezen, is <intref verwijzing-id="1624931" doc="jci1.3:c:BWBR0002905&amp;artikel=18&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464324" bwb-ng-variabel-deel="/Artikel18">artikel 18, tweede, derde en vierde lid</intref>, van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=24&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel24/Lid2" label-id="464384L2">
+    <lidnr>2</lidnr>
+    <al>
+      <intref verwijzing-id="1624932" doc="jci1.3:c:BWBR0002905&amp;artikel=23&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464374" bwb-ng-variabel-deel="/Artikel23">Artikel 23, tweede en derde lid</intref>, is van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=24&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=24&amp;g=2017-09-01" onderdeel="artikel=24" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=24"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=24&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=24" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=24"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel25" code="a-25" stam-id="478103" versie-id="708262" id="C708261" label-id="464394" inwerking="1973-12-17" label="Artikel 25" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>25</nr>
+  </kop>
+  <al>Aan de exploitant van een nucleair schip wordt in gevallen, dat het Verdrag van Brussel van 25 mei 1962 inzake de aansprakelijkheid van exploitanten van nucleaire schepen (<nadruk type="cur">Trb.</nadruk> 1968, 90) niet van toepassing is, een vergunning, als bedoeld in <extref doc="jci1.3:c:BWBR0002402&amp;artikel=15" verwijzing-id="137781" bwb-id="BWBR0002402" label-id="2066634">artikel 15 van de Kernenergiewet</extref>, niet verleend, dan nadat hij zich bij overeenkomst met de Staat uitdrukkelijk heeft verbonden om kernschade, waarvoor hij volgens de in deze wet gestelde regelen aansprakelijk zal zijn, zonder enige in deze regelen niet uitdrukkelijk genoemde beperking te vergoeden.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=25&amp;g=2017-09-01" onderdeel="artikel=25" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=25"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=25&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=25" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=25"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel26" code="a-26" stam-id="478113" versie-id="708272" id="C708271" label-id="464404" inwerking="1973-12-17" label="Artikel 26" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>26</nr>
+  </kop>
+  <al>Wij behouden Ons de bevoegdheid voor met mogendheden, die geen partij zijn bij het Verdrag van Brussel van 25 mei 1962 inzake de aansprakelijkheid van exploitanten van nucleaire schepen, overeenkomsten te sluiten welke ten aanzien van de aansprakelijkheid voor nucleaire oorlogsschepen en voor nucleaire staatsschepen, welke uitsluitend voor de openbare dienst worden gebruikt, afwijken van de bepalingen van deze wet, mits door die mogelijkheden naar Ons oordeel tenminste gelijkwaardige zekerheid wordt gewaarborgd.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=26&amp;g=2017-09-01" onderdeel="artikel=26" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=26"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=26&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=26" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=26"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel27" code="a-27" stam-id="478123" versie-id="708282" id="C708281" label-id="464414" inwerking="1973-12-17" label="Artikel 27" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>27</nr>
+  </kop>
+  <al>Deze wet is van toepassing op een nucleair schip, dat in Nederland in aanbouw is, van het tijdstip van zijn tewaterlating af. Tussen het tijdstip van zijn tewaterlating en dat, waarop het gerechtigd is een vlag te voeren, wordt de eigenaar van het schip beschouwd als exploitant en wordt het schip geacht de Nederlandse vlag te voeren.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=27&amp;g=2017-09-01" onderdeel="artikel=27" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=27"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=27&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=27" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=27"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel28" code="a-28" stam-id="478133" versie-id="708292" id="C708291" label-id="464424" inwerking="1973-12-17" label="Artikel 28" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>28</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel28/Lid1" label-id="464424L1">
+    <lidnr>1</lidnr>
+    <al>Deze wet is voor wat betreft kernschade, veroorzaakt door een kernongeval, waarbij de splijtstoffen van of de radioactieve produkten of afvalstoffen, voortgebracht op een onder Nederlandse vlag varend nucleair schip, betrokken zijn, van toepassing, ongeacht waar ter wereld dit kernongeval plaatsvindt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=28&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel28/Lid2" label-id="464424L2">
+    <lidnr>2</lidnr>
+    <al> Deze wet is voor wat betreft kernschade, veroorzaakt door een kernongeval, waarbij de splijtstoffen van of de radioactieve produkten of afvalstoffen, voortgebracht op een onder vreemde vlag varend nucleair schip, betrokken zijn, van toepassing, indien hetzij het kernongeval op Nederlands grondgebied heeft plaatsgevonden hetzij de kernschade aldaar is geleden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=28&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=28&amp;g=2017-09-01" onderdeel="artikel=28" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=28"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=28&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=28" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=28"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel29" code="a-29" stam-id="478143" versie-id="708302" id="C5194131" label-id="464434" inwerking="1973-12-17" label="Artikel 29" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>29</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel29/Lid1" label-id="464434L1">
+    <lidnr>1</lidnr>
+    <al>In geval van kernschade, waarbij betrokken zijn de splijtstoffen van of de radioactieve produkten of afvalstoffen voortgebracht op een nucleair schip, voor de exploitatie waarvan ten tijde van het kernongeval geen vergunning door een staat was verleend, wordt voor de toepassing van deze wet de eigenaar van dat schip beschouwd als exploitant met dien verstande, dat artikel 3 niet van toepassing is.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=29&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel29/Lid2" label-id="464434L2">
+    <lidnr>2</lidnr>
+    <al> In een geval, als bedoeld in het eerste lid, heeft de Staat voor de door hem overeenkomstig <intref verwijzing-id="1624933" doc="jci1.3:c:BWBR0002905&amp;artikel=6&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0002905" label-id="464204" bwb-ng-variabel-deel="/Artikel6">artikel 6</intref> beschikbaar gestelde openbare middelen recht van verhaal op de eigenaar van het nucleaire schip.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=29&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;artikel=29&amp;g=2017-09-01" onderdeel="artikel=29" korte-verwijzing="1.0:c:BWBR0002905&amp;artikel=29"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;artikel=29&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=29" korte-verwijzing="jci1.3:c:BWBR0002905&amp;artikel=29"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="478153" versie-id="708312" id="C708311" label-id="464444" inwerking="1973-12-17" bron="Stb.1973-536" effect="nieuwe-regeling" ondertekening_bron="1973-10-24" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven ten Paleize Soestdijk</plaats>
+      <datum isodatum="">24 oktober 1973</datum>
+    </dagtekening>
+    <koning>JULIANA.</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Financiën,</functie>
+    <naam>
+      <achternaam>W. F. DUISENBERG.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Justitie,</functie>
+    <naam>
+      <achternaam>VAN AGT.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Verkeer en Waterstaat,</functie>
+    <naam>
+      <achternaam>WESTERTERP.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Defensie,</functie>
+    <naam>
+      <achternaam>VREDELING.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Buitenlandse Zaken,</functie>
+    <naam>
+      <achternaam>M. VAN DER STOEL.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Economische Zaken,</functie>
+    <naam>
+      <achternaam>R. F. M. LUBBERS.</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de zevenentwintigste november 1973.</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>VAN AGT.</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1973</publicatiejaar><publicatienr>536</publicatienr><ondertekeningsdatum isodatum="1973-10-24">24-10-1973</ondertekeningsdatum><dossierref dossier="10796">10796</dossierref></publicatie><inwerkingtreding.datum isodatum="1973-12-17">17-12-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002905&amp;g=2017-09-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0002905"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002905&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0002905"/></jcis></meta-data></wetgeving></toestand>

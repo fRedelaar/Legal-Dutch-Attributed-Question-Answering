@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0034367/2013-12-18/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0034367" inwerkingtreding="2013-12-18"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="12477523" versie-id="20981982" id="C30137771" label-id="12448214" inwerkingtredingsdatum="2013-12-18">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="12477543" versie-id="20981882" id="C30137671" label-id="12448114" inwerking="2013-12-18" bron="Stb.2013-533" effect="nieuwe-regeling" ondertekening_bron="2013-12-04" publicatie_bron="2013-12-17" publicatie_iwt="2013-12-17" status="goed">Wet van 4 december 2013 tot bepaling van de jaarlijkse uitkering aan de regent<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-533"><publicatiejaar>2013</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2013-12-17">17-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-04">04-12-2013</ondertekeningsdatum><dossierref dossier="00011">00011</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-533"><publicatiejaar>2013</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2013-12-17">17-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-04">04-12-2013</ondertekeningsdatum><dossierref dossier="00011">00011</dossierref></publicatie><inwerkingtreding.datum isodatum="2013-12-18">18-12-2013</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="redactioneel" stam-id="12477553" versie-id="20981892" id="C30137681" label-id="12448124" inwerking="2013-12-18" bron="Stb.2013-533" effect="nieuwe-regeling" ondertekening_bron="2013-12-04" publicatie_bron="2013-12-17" publicatie_iwt="2013-12-17">Wet bepaling van de jaarlijkse uitkering aan de regent<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-533"><publicatiejaar>2013</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2013-12-17">17-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-04">04-12-2013</ondertekeningsdatum><dossierref dossier="00011">00011</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-533"><publicatiejaar>2013</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2013-12-17">17-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-04">04-12-2013</ondertekeningsdatum><dossierref dossier="00011">00011</dossierref></publicatie><inwerkingtreding.datum isodatum="2013-12-18">18-12-2013</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="12477563" versie-id="20981902" id="C30137691" label-id="12448134" inwerking="2013-12-18" bron="Stb.2013-533" effect="nieuwe-regeling" ondertekening_bron="2013-12-04" publicatie_bron="2013-12-17" publicatie_iwt="2013-12-17" status="goed">
+  <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is ingevolge <extref doc="jci1.3:c:BWBR0001840&amp;artikel=37" verwijzing-id="2602868" bwb-id="BWBR0001840" label-id="2940874">artikel 37, vierde lid, van de Grondwet</extref> een regeling te treffen voor de jaarlijkse uitkering aan de regent;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-533"><publicatiejaar>2013</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2013-12-17">17-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-04">04-12-2013</ondertekeningsdatum><dossierref dossier="00011">00011</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-533"><publicatiejaar>2013</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2013-12-17">17-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-04">04-12-2013</ondertekeningsdatum><dossierref dossier="00011">00011</dossierref></publicatie><inwerkingtreding.datum isodatum="2013-12-18">18-12-2013</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="12477573" versie-id="20981912" id="C30137701" label-id="12448144" inwerking="2013-12-18" label="Artikel 1" bron="Stb.2013-533" effect="nieuwe-regeling" ondertekening_bron="2013-12-04" publicatie_bron="2013-12-17" publicatie_iwt="2013-12-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>De regent ontvangt jaarlijks een uitkering ten laste van het Rijk die in mindering wordt gebracht op de jaarlijkse uitkering aan de Koning.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-533"><publicatiejaar>2013</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2013-12-17">17-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-04">04-12-2013</ondertekeningsdatum><dossierref dossier="00011">00011</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-533"><publicatiejaar>2013</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2013-12-17">17-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-04">04-12-2013</ondertekeningsdatum><dossierref dossier="00011">00011</dossierref></publicatie><inwerkingtreding.datum isodatum="2013-12-18">18-12-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0034367&amp;artikel=1&amp;g=2013-12-18" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0034367&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0034367&amp;artikel=1&amp;z=2013-12-18&amp;g=2013-12-18" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0034367&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" stam-id="12477583" versie-id="20981922" id="C30137711" label-id="12448154" inwerking="2013-12-18" label="Artikel 2" bron="Stb.2013-533" effect="nieuwe-regeling" ondertekening_bron="2013-12-04" publicatie_bron="2013-12-17" publicatie_iwt="2013-12-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <al>De uitkering aan de regent is uit de volgende gedeelten samengesteld:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeel._1">
+      <li.nr>–</li.nr>
+      <al>het gedeelte van de uitkering aan de Koning dat betrekking heeft op het inkomensbestanddeel, vermeld onder A van de in het <extref doc="jci1.3:c:BWBR0002845&amp;artikel=1" verwijzing-id="2602869" bwb-id="BWBR0002845" label-id="1936774">tweede lid van artikel 1 van de Wet financieel statuut van het koninklijk huis</extref> opgenomen tabel, verminderd met het gedeelte van het bedrag van de uitkering aan de echtgenoot of echtgenote van de Koning vermeld onder A van deze tabel;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeel._2">
+      <li.nr>–</li.nr>
+      <al>het gedeelte van de uitkering aan de Koning dat betrekking heeft op de personele en materiële uitgaven, vermeld onder B van de in het <extref doc="jci1.3:c:BWBR0002845&amp;artikel=1" verwijzing-id="2602870" bwb-id="BWBR0002845" label-id="1936774">tweede lid, van artikel 1 van de Wet financieel statuut van het koninklijk huis</extref> opgenomen tabel, verminderd met een tiende deel hiervan.</al>
+    </li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-533"><publicatiejaar>2013</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2013-12-17">17-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-04">04-12-2013</ondertekeningsdatum><dossierref dossier="00011">00011</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-533"><publicatiejaar>2013</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2013-12-17">17-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-04">04-12-2013</ondertekeningsdatum><dossierref dossier="00011">00011</dossierref></publicatie><inwerkingtreding.datum isodatum="2013-12-18">18-12-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0034367&amp;artikel=2&amp;g=2013-12-18" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0034367&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0034367&amp;artikel=2&amp;z=2013-12-18&amp;g=2013-12-18" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0034367&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="12477593" versie-id="20981932" id="C30137721" label-id="12448164" inwerking="2013-12-18" label="Artikel 3" bron="Stb.2013-533" effect="nieuwe-regeling" ondertekening_bron="2013-12-04" publicatie_bron="2013-12-17" publicatie_iwt="2013-12-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <al>De in de <intref verwijzing-id="2602872" doc="jci1.3:c:BWBR0034367&amp;artikel=1&amp;z=2013-12-18&amp;g=2013-12-18" bwb-id="BWBR0034367" label-id="12448144" bwb-ng-variabel-deel="/Artikel1">artikelen 1</intref> en <intref verwijzing-id="2602873" doc="jci1.3:c:BWBR0034367&amp;artikel=2&amp;z=2013-12-18&amp;g=2013-12-18" bwb-id="BWBR0034367" label-id="12448154" bwb-ng-variabel-deel="/Artikel2">2</intref> bedoelde uitkering is vrij van persoonlijke belastingen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-533"><publicatiejaar>2013</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2013-12-17">17-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-04">04-12-2013</ondertekeningsdatum><dossierref dossier="00011">00011</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-533"><publicatiejaar>2013</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2013-12-17">17-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-04">04-12-2013</ondertekeningsdatum><dossierref dossier="00011">00011</dossierref></publicatie><inwerkingtreding.datum isodatum="2013-12-18">18-12-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0034367&amp;artikel=3&amp;g=2013-12-18" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0034367&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0034367&amp;artikel=3&amp;z=2013-12-18&amp;g=2013-12-18" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0034367&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" stam-id="12477603" versie-id="20981942" id="C30137731" label-id="12448174" inwerking="2013-12-18" label="Artikel 4" bron="Stb.2013-533" effect="nieuwe-regeling" ondertekening_bron="2013-12-04" publicatie_bron="2013-12-17" publicatie_iwt="2013-12-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <al>Bij koninklijk besluit kan aan de regent ten laste van het Rijk een woon- en werkverblijf tot gebruik ter beschikking worden gesteld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-533"><publicatiejaar>2013</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2013-12-17">17-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-04">04-12-2013</ondertekeningsdatum><dossierref dossier="00011">00011</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-533"><publicatiejaar>2013</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2013-12-17">17-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-04">04-12-2013</ondertekeningsdatum><dossierref dossier="00011">00011</dossierref></publicatie><inwerkingtreding.datum isodatum="2013-12-18">18-12-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0034367&amp;artikel=4&amp;g=2013-12-18" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0034367&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0034367&amp;artikel=4&amp;z=2013-12-18&amp;g=2013-12-18" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0034367&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" stam-id="12477613" versie-id="20981952" id="C30137741" label-id="12448184" inwerking="2013-12-18" label="Artikel 5" bron="Stb.2013-533" effect="nieuwe-regeling" ondertekening_bron="2013-12-04" publicatie_bron="2013-12-17" publicatie_iwt="2013-12-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <al>De <extref doc="jci1.3:c:BWBR0003465" verwijzing-id="2602871" bwb-id="BWBR0003465" label-id="11164">Wet van 2 december 1981, houdende bepaling van de som voor de kosten van het regentschap</extref> (Stb. 1981, 730), wordt ingetrokken.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-533"><publicatiejaar>2013</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2013-12-17">17-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-04">04-12-2013</ondertekeningsdatum><dossierref dossier="00011">00011</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-533"><publicatiejaar>2013</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2013-12-17">17-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-04">04-12-2013</ondertekeningsdatum><dossierref dossier="00011">00011</dossierref></publicatie><inwerkingtreding.datum isodatum="2013-12-18">18-12-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0034367&amp;artikel=5&amp;g=2013-12-18" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0034367&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0034367&amp;artikel=5&amp;z=2013-12-18&amp;g=2013-12-18" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0034367&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" stam-id="12477623" versie-id="20981962" id="C30137751" label-id="12448194" inwerking="2013-12-18" label="Artikel 6" bron="Stb.2013-533" effect="nieuwe-regeling" ondertekening_bron="2013-12-04" publicatie_bron="2013-12-17" publicatie_iwt="2013-12-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <al>Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-533"><publicatiejaar>2013</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2013-12-17">17-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-04">04-12-2013</ondertekeningsdatum><dossierref dossier="00011">00011</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-533"><publicatiejaar>2013</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2013-12-17">17-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-04">04-12-2013</ondertekeningsdatum><dossierref dossier="00011">00011</dossierref></publicatie><inwerkingtreding.datum isodatum="2013-12-18">18-12-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0034367&amp;artikel=6&amp;g=2013-12-18" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0034367&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0034367&amp;artikel=6&amp;z=2013-12-18&amp;g=2013-12-18" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0034367&amp;artikel=6"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="12477633" versie-id="20981972" id="C30137761" label-id="12448204" inwerking="2013-12-18" bron="Stb.2013-533" effect="nieuwe-regeling" ondertekening_bron="2013-12-04" publicatie_bron="2013-12-17" publicatie_iwt="2013-12-17" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te</label>
+    <dagtekening>
+      <plaats>Wassenaar</plaats>
+      <datum isodatum="2013-12-04">4 december 2013</datum>
+    </dagtekening>
+    <koning>Willem-Alexander</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>DeMinister-President, MinistervanAlgemene Zaken,</functie>
+    <naam>
+      <voornaam>M.</voornaam>
+      <achternaam>Rutte</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Binnenlandse Zaken en Koninkrijksrelaties,</functie>
+    <naam>
+      <voornaam>R.H.A.</voornaam>
+      <achternaam>Plasterk</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Financiën,</functie>
+    <naam>
+      <voornaam>J.R.V.A.</voornaam>
+      <achternaam>Dijsselbloem</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2013-12-17">de <nadruk type="cur">zeventiende</nadruk> december 2013</datum>
+    <ondertekening>
+      <functie>De Minister van Veiligheid en Justitie,</functie>
+      <naam>
+        <voornaam>I.W.</voornaam>
+        <achternaam>Opstelten</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-533"><publicatiejaar>2013</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2013-12-17">17-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-04">04-12-2013</ondertekeningsdatum><dossierref dossier="00011">00011</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-533"><publicatiejaar>2013</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2013-12-17">17-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-04">04-12-2013</ondertekeningsdatum><dossierref dossier="00011">00011</dossierref></publicatie><inwerkingtreding.datum isodatum="2013-12-18">18-12-2013</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-533"><publicatiejaar>2013</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2013-12-17">17-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-04">04-12-2013</ondertekeningsdatum><dossierref dossier="00011">00011</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2013-533"><publicatiejaar>2013</publicatiejaar><publicatienr>533</publicatienr><uitgiftedatum isodatum="2013-12-17">17-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-04">04-12-2013</ondertekeningsdatum><dossierref dossier="00011">00011</dossierref></publicatie><inwerkingtreding.datum isodatum="2013-12-18">18-12-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0034367&amp;g=2013-12-18" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0034367"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0034367&amp;z=2013-12-18&amp;g=2013-12-18" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0034367"/></jcis></meta-data></wetgeving></toestand>

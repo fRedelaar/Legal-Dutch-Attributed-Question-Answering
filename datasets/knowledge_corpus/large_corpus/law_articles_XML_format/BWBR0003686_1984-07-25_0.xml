@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0003686/1984-07-25/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0003686" inwerkingtreding="1984-07-25"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="132753" versie-id="181492" id="C181491" label-id="132164" inwerkingtredingsdatum="1984-07-25">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="132833" versie-id="181322" id="C181321" label-id="131994" inwerking="1984-07-25" bron="Stb.1984-338" effect="nieuwe-regeling" ondertekening_bron="1984-06-27" status="goed">Wet van 27 juni 1984, houdende machtiging tot oprichting van de Stichting Proefstation voor de Varkenshouderij<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>338</publicatienr><ondertekeningsdatum isodatum="1984-06-27">27-06-1984</ondertekeningsdatum><dossierref dossier="18282">18282</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>338</publicatienr><ondertekeningsdatum isodatum="1984-06-27">27-06-1984</ondertekeningsdatum><dossierref dossier="18282">18282</dossierref></publicatie><inwerkingtreding.datum isodatum="1984-07-25">25-07-1984</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="132863" versie-id="181352" id="C181351" label-id="132024" inwerking="1984-07-25" bron="Stb.1984-338" effect="nieuwe-regeling" ondertekening_bron="1984-06-27">Wet Stichting Proefstation voor de Varkenshouderij<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>338</publicatienr><ondertekeningsdatum isodatum="1984-06-27">27-06-1984</ondertekeningsdatum><dossierref dossier="18282">18282</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>338</publicatienr><ondertekeningsdatum isodatum="1984-06-27">27-06-1984</ondertekeningsdatum><dossierref dossier="18282">18282</dossierref></publicatie><inwerkingtreding.datum isodatum="1984-07-25">25-07-1984</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="132883" versie-id="181372" id="C181371" label-id="132044" inwerking="1984-07-25" bron="Stb.1984-338" effect="nieuwe-regeling" ondertekening_bron="1984-06-27" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is dat de Staat overgaat tot oprichting van de Stichting Proefstation voor de Varkenshouderij en dat daartoe ingevolge <extref doc="jci1.3:c:BWBR0003075&amp;artikel=40" verwijzing-id="27487" bwb-id="BWBR0003075" label-id="1227024">artikel 40 van de Comptabiliteitswet</extref> 1976 (<nadruk type="cur">Stb</nadruk>. 671) machtiging bij de wet vereist is;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>338</publicatienr><ondertekeningsdatum isodatum="1984-06-27">27-06-1984</ondertekeningsdatum><dossierref dossier="18282">18282</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>338</publicatienr><ondertekeningsdatum isodatum="1984-06-27">27-06-1984</ondertekeningsdatum><dossierref dossier="18282">18282</dossierref></publicatie><inwerkingtreding.datum isodatum="1984-07-25">25-07-1984</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" code="a-1" stam-id="132903" versie-id="181392" id="C181391" label-id="132064" inwerking="1984-07-25" label="Artikel 1" bron="Stb.1984-338" effect="nieuwe-regeling" ondertekening_bron="1984-06-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>1</nr>
+  </kop>
+  <al>Onze Minister van Landbouw en Visserij wordt gemachtigd op te richten de Stichting Proefstation voor de Varkenshouderij.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>338</publicatienr><ondertekeningsdatum isodatum="1984-06-27">27-06-1984</ondertekeningsdatum><dossierref dossier="18282">18282</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>338</publicatienr><ondertekeningsdatum isodatum="1984-06-27">27-06-1984</ondertekeningsdatum><dossierref dossier="18282">18282</dossierref></publicatie><inwerkingtreding.datum isodatum="1984-07-25">25-07-1984</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003686&amp;artikel=1&amp;g=1984-07-25" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0003686&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003686&amp;artikel=1&amp;z=1984-07-25&amp;g=1984-07-25" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0003686&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="a-2" stam-id="132923" versie-id="181412" id="C181411" label-id="132084" inwerking="1984-07-25" label="Artikel 2" bron="Stb.1984-338" effect="nieuwe-regeling" ondertekening_bron="1984-06-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <al>De geldelijke aansprakelijkheid van de Staat voor het beheer van de stichting is beperkt tot de schulden welke na haar liquidatie als rechtspersoon mochten overblijven.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>338</publicatienr><ondertekeningsdatum isodatum="1984-06-27">27-06-1984</ondertekeningsdatum><dossierref dossier="18282">18282</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>338</publicatienr><ondertekeningsdatum isodatum="1984-06-27">27-06-1984</ondertekeningsdatum><dossierref dossier="18282">18282</dossierref></publicatie><inwerkingtreding.datum isodatum="1984-07-25">25-07-1984</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003686&amp;artikel=2&amp;g=1984-07-25" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0003686&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003686&amp;artikel=2&amp;z=1984-07-25&amp;g=1984-07-25" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0003686&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="a-3" stam-id="132953" versie-id="181442" id="C181441" label-id="132114" inwerking="1984-07-25" label="Artikel 3" bron="Stb.1984-338" effect="nieuwe-regeling" ondertekening_bron="1984-06-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>3</nr>
+  </kop>
+  <al>De wet treedt in werking met ingang van de eerste dag na de datum van uitgifte van het <nadruk type="cur">Staatsblad</nadruk> waarin zij wordt geplaatst.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>338</publicatienr><ondertekeningsdatum isodatum="1984-06-27">27-06-1984</ondertekeningsdatum><dossierref dossier="18282">18282</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>338</publicatienr><ondertekeningsdatum isodatum="1984-06-27">27-06-1984</ondertekeningsdatum><dossierref dossier="18282">18282</dossierref></publicatie><inwerkingtreding.datum isodatum="1984-07-25">25-07-1984</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003686&amp;artikel=3&amp;g=1984-07-25" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0003686&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003686&amp;artikel=3&amp;z=1984-07-25&amp;g=1984-07-25" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0003686&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="a-4" stam-id="132973" versie-id="181472" id="C181471" label-id="132144" inwerking="1984-07-25" label="Artikel 4" bron="Stb.1984-338" effect="nieuwe-regeling" ondertekening_bron="1984-06-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>4</nr>
+  </kop>
+  <al>De wet kan worden aangehaald als Wet Stichting Proefstation voor de Varkenshouderij.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>338</publicatienr><ondertekeningsdatum isodatum="1984-06-27">27-06-1984</ondertekeningsdatum><dossierref dossier="18282">18282</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>338</publicatienr><ondertekeningsdatum isodatum="1984-06-27">27-06-1984</ondertekeningsdatum><dossierref dossier="18282">18282</dossierref></publicatie><inwerkingtreding.datum isodatum="1984-07-25">25-07-1984</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003686&amp;artikel=4&amp;g=1984-07-25" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0003686&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003686&amp;artikel=4&amp;z=1984-07-25&amp;g=1984-07-25" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0003686&amp;artikel=4"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="132983" versie-id="181482" id="C181481" label-id="132154" inwerking="1984-07-25" bron="Stb.1984-338" effect="nieuwe-regeling" ondertekening_bron="1984-06-27" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">27 juni 1984</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Landbouw en Visserij,</functie>
+    <naam>
+      <achternaam>G. J. M. Braks</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de vierentwintigste juli 1984</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>F. Korthals Altes</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>338</publicatienr><ondertekeningsdatum isodatum="1984-06-27">27-06-1984</ondertekeningsdatum><dossierref dossier="18282">18282</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>338</publicatienr><ondertekeningsdatum isodatum="1984-06-27">27-06-1984</ondertekeningsdatum><dossierref dossier="18282">18282</dossierref></publicatie><inwerkingtreding.datum isodatum="1984-07-25">25-07-1984</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>338</publicatienr><ondertekeningsdatum isodatum="1984-06-27">27-06-1984</ondertekeningsdatum><dossierref dossier="18282">18282</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>338</publicatienr><ondertekeningsdatum isodatum="1984-06-27">27-06-1984</ondertekeningsdatum><dossierref dossier="18282">18282</dossierref></publicatie><inwerkingtreding.datum isodatum="1984-07-25">25-07-1984</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003686&amp;g=1984-07-25" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0003686"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003686&amp;z=1984-07-25&amp;g=1984-07-25" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0003686"/></jcis></meta-data></wetgeving></toestand>

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0006355/2005-12-29/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0006355" inwerkingtreding="2005-12-29"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties><redactionele-correctie label-id="181964" oud-revisie-id="251771" nieuw-revisie-id="32096601"/><redactionele-correctie label-id="181904" oud-revisie-id="251451" nieuw-revisie-id="32096591"/></redactionele-correcties><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="184063" versie-id="251592" id="C251591" label-id="182044" inwerkingtredingsdatum="1994-01-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="184153" versie-id="251132" id="C251131" label-id="181584" inwerking="1994-01-01" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">Wet van 22 december 1993, tot wijziging van de Ziektewet, het Burgerlijk Wetboek en enkele andere wetten, alsmede het treffen van een regeling voor het overheidspersoneel, in verband met terugdringing van het ziekteverzuim<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="184183" versie-id="251162" id="C251161" label-id="181614" inwerking="1994-01-01" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22">Wet terugdringing ziekteverzuim<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="184213" versie-id="251192" id="C251191" label-id="181644" inwerking="1994-01-01" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is door een vergroting van de financiële betrokkenheid van werkgevers en werknemers in de marktsector en bij de overheid het ziekteverzuim terug te dringen en daartoe de <extref doc="jci1.3:c:BWBR0001888" verwijzing-id="38859" bwb-id="BWBR0001888" label-id="2990404">Ziektewet</extref>, het Burgerlijk Wetboek en enkele andere wetten te wijzigen en een regeling te treffen voor het overheidspersoneel;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukI" stam-id="184393" versie-id="251392" id="C251391" label-id="181844" inwerking="1994-01-01" label="Hoofdstuk I" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>I</nr>
+    <titel status="officieel">Wetten op het terrein van de sociale zekerheid</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukI/ArtikelI" code="a-i" stam-id="184233" versie-id="251212" id="C251211" label-id="181664" inwerking="1994-01-01" label="Artikel I" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>I</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=I&amp;g=2005-12-29" onderdeel="artikel=I" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=I&amp;artikel=I&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=I" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=I"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukI/ArtikelII" code="a-ii" stam-id="184263" versie-id="251242" id="C251241" label-id="181694" inwerking="1994-01-01" label="Artikel II" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>II</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=II&amp;g=2005-12-29" onderdeel="artikel=II" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=I&amp;artikel=II&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=II" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=II"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukI/ArtikelIII" code="a-iii" stam-id="184273" versie-id="251262" id="C251261" label-id="181714" inwerking="1994-01-01" label="Artikel III" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>III</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=III&amp;g=2005-12-29" onderdeel="artikel=III" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=I&amp;artikel=III&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=III" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=III"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukI/ArtikelIV" code="a-iv" stam-id="184283" versie-id="251272" id="C251271" label-id="181724" inwerking="1994-01-01" label="Artikel IV" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>IV</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=IV&amp;g=2005-12-29" onderdeel="artikel=IV" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=I&amp;artikel=IV&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=IV" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=IV"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukI/ArtikelV" code="a-v" stam-id="184293" versie-id="251282" id="C251281" label-id="181734" inwerking="1994-01-01" label="Artikel V" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>V</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=V&amp;g=2005-12-29" onderdeel="artikel=V" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=V"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=I&amp;artikel=V&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=V" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=V"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukI/ArtikelVI" code="a-vi" stam-id="184303" versie-id="251292" id="C251291" label-id="181744" inwerking="1994-01-01" label="Artikel VI" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>VI</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=VI&amp;g=2005-12-29" onderdeel="artikel=VI" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=VI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=I&amp;artikel=VI&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=VI" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=VI"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukI/ArtikelVII" code="a-vii" stam-id="184313" versie-id="251302" id="C251301" label-id="181754" inwerking="1994-01-01" label="Artikel VII" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>VII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=VII&amp;g=2005-12-29" onderdeel="artikel=VII" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=VII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=I&amp;artikel=VII&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=VII" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=VII"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukI/ArtikelVIII" code="a-viii" stam-id="184323" versie-id="251312" id="C251311" label-id="181764" inwerking="1994-01-01" label="Artikel VIII" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>VIII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=VIII&amp;g=2005-12-29" onderdeel="artikel=VIII" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=VIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=I&amp;artikel=VIII&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=VIII" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=VIII"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukI/ArtikelIX" code="a-ix" stam-id="184333" versie-id="251322" id="C251321" label-id="181774" inwerking="1994-01-01" label="Artikel IX" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>IX</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=IX&amp;g=2005-12-29" onderdeel="artikel=IX" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=IX"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=I&amp;artikel=IX&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=IX" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=IX"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukI/ArtikelX" code="a-x" stam-id="184343" versie-id="251332" id="C251331" label-id="181784" inwerking="1994-01-01" label="Artikel X" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>X</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=X&amp;g=2005-12-29" onderdeel="artikel=X" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=X"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=I&amp;artikel=X&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=X" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=X"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukI/ArtikelXI" code="a-xi" stam-id="184363" versie-id="251352" id="C251351" label-id="181804" inwerking="1994-01-01" label="Artikel XI" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XI</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=XI&amp;g=2005-12-29" onderdeel="artikel=XI" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=XI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=I&amp;artikel=XI&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=XI" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=XI"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukI/ArtikelXII" code="a-xii" stam-id="184373" versie-id="251372" id="C251371" label-id="181824" inwerking="1994-01-01" label="Artikel XII" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=XII&amp;g=2005-12-29" onderdeel="artikel=XII" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=XII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=I&amp;artikel=XII&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=XII" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=XII"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukI/ArtikelXIII" code="a-xiii" stam-id="184383" versie-id="251382" id="C251381" label-id="181834" inwerking="1994-01-01" label="Artikel XIII" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XIII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=XIII&amp;g=2005-12-29" onderdeel="artikel=XIII" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=XIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=I&amp;artikel=XIII&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=XIII" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=XIII"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;hoofdstuk=I&amp;g=2005-12-29" onderdeel="hoofdstuk=I" korte-verwijzing="1.0:c:BWBR0006355&amp;hoofdstuk=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=I&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="hoofdstuk=I" korte-verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=I"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukII" stam-id="184413" versie-id="251412" id="C251411" label-id="181864" inwerking="1994-01-01" label="Hoofdstuk II" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>II</nr>
+    <titel status="officieel">Burgerlijk Wetboek</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukII/ArtikelXIV" code="a-xiv" stam-id="184403" versie-id="251402" id="C251401" label-id="181854" inwerking="1994-01-01" label="Artikel XIV" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XIV</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=XIV&amp;g=2005-12-29" onderdeel="artikel=XIV" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=XIV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=II&amp;artikel=XIV&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=XIV" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=XIV"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;hoofdstuk=II&amp;g=2005-12-29" onderdeel="hoofdstuk=II" korte-verwijzing="1.0:c:BWBR0006355&amp;hoofdstuk=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=II&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="hoofdstuk=II" korte-verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=II"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukIII" stam-id="184433" versie-id="251432" id="C251431" label-id="181884" inwerking="1994-01-01" label="Hoofdstuk III" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>III</nr>
+    <titel status="officieel">Regeling voor het overheidspersoneel</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukIII/ArtikelXV" code="a-xv" stam-id="184423" versie-id="12498012" id="C16856841" label-id="181874" inwerking="2005-12-29" label="Artikel XV" bron="Stb.2005-573" effect="vervallen" ondertekening_bron="2005-11-10" publicatie_bron="2005-11-22" publicatie_iwt="2005-12-08" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>XV</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2005-573"><publicatiejaar>2005</publicatiejaar><publicatienr>573</publicatienr><uitgiftedatum isodatum="2005-11-22">22-11-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-11-10">10-11-2005</ondertekeningsdatum><dossierref dossier="30118">30118</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2005-619"><publicatiejaar>2005</publicatiejaar><publicatienr>619</publicatienr><uitgiftedatum isodatum="2005-12-08">08-12-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-12-02">02-12-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-12-29">29-12-2005</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=XV&amp;g=2005-12-29" onderdeel="artikel=XV" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=XV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=III&amp;artikel=XV&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=XV" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=XV"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;hoofdstuk=III&amp;g=2005-12-29" onderdeel="hoofdstuk=III" korte-verwijzing="1.0:c:BWBR0006355&amp;hoofdstuk=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=III&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="hoofdstuk=III" korte-verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=III"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukIV" stam-id="184573" versie-id="251552" id="C251551" label-id="182004" inwerking="1994-01-01" label="Hoofdstuk IV" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>IV</nr>
+    <titel status="officieel">Overgangs- en slotbepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXVI" code="a-xvi" stam-id="184463" versie-id="251442" id="C251441" label-id="181894" inwerking="1994-01-01" label="Artikel XVI" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XVI</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXVI/Lid1" label-id="181894L1">
+    <lidnr>1</lidnr>
+    <al>De inwerkingtreding van deze wet heeft geen gevolgen voor het recht op ziekengeld van de verzekerde: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXVI/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>die op de dag vóór de inwerkingtreding van deze wet ongeschikt is tot het werken wegens ziekte, zolang die ongeschiktheid duurt; of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XVI&amp;lid=1&amp;o=a&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXVI/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>wiens ongeschiktheid tot het werken wegens ziekte intreedt op of na de datum van inwerkingtreding van deze wet en tevens binnen vier weken nadat een vóór die inwerkingtreding gelegen periode van ongeschiktheid door herstel is geëindigd, zolang die ongeschiktheid duurt.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XVI&amp;lid=1&amp;o=b&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XVI&amp;lid=1&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXVI/Lid2" label-id="181894L2">
+    <lidnr>2</lidnr>
+    <al> Voor de toepassing van het eerste lid wordt de ongeschiktheid tot het werken wegens ziekte geacht niet te zijn onderbroken wanneer perioden van ongeschiktheid elkaar met een onderbreking van minder dan vier weken opvolgen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XVI&amp;lid=2&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=XVI&amp;g=2005-12-29" onderdeel="artikel=XVI" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=XVI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XVI&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=XVI" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=XVI"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXVII" stam-id="184473" versie-id="251452" id="C32096591" label-id="181904" inwerking="1994-01-01" label="Artikel XVII" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XVII</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXVII/Lid1" label-id="181904L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>
+      <extref doc="jci1.3:c:BWBR0001888&amp;artikel=57" label-id="2989944" verwijzing-id="38880" bwb-id="BWBR0001888">Artikel 57 van de Ziektewet</extref> blijft voor door de bedrijfsvereniging op grond van dat artikel getroffen en door de Minister van Sociale Zaken en Werkgelegenheid goedgekeurde besluiten van kracht tot 1 juli 1994.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XVII&amp;lid=1&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXVII/Lid2" label-id="181904L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> De op grond van <extref doc="jci1.3:c:BWBR0001888&amp;artikel=54" label-id="2989914" verwijzing-id="38882" bwb-id="BWBR0001888">artikel 54 van de Ziektewet</extref> getroffen regelingen en overeenkomsten inzake hogere, langere of andere uitkeringen blijven van kracht tot 1 juli 1994.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XVII&amp;lid=2&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXVII/Lid3" label-id="181904L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> In de gevallen waarin het eerste lid toepassing vindt blijven de <extref doc="jci1.3:c:BWBR0002524&amp;artikel=1" label-id="2826674" verwijzing-id="38884" bwb-id="BWBR0002524">artikelen 1</extref>, 7<nadruk type="cur">a</nadruk> en <extref doc="jci1.3:c:BWBR0002524&amp;artikel=57" label-id="2827424" verwijzing-id="38886" bwb-id="BWBR0002524">57 van de Wet op de arbeidsongeschiktheidsverzekering</extref>, de artikelen 1 en 48 van de Algemene Arbeidsongeschiktheidswet, <extref doc="jci1.3:c:BWBR0002126&amp;artikel=3a" label-id="2596304" verwijzing-id="38892" bwb-id="BWBR0002126">artikel 3<nadruk type="cur">a</nadruk>, tweede lid van de Coördinatiewet Sociale Verzekering</extref> en <extref doc="jci1.3:c:BWBR0002822&amp;artikel=3" label-id="1794164" verwijzing-id="38894" bwb-id="BWBR0002822">artikel 3 van de Wet arbeidsongeschiktheidsvoorziening militairen</extref>, zoals deze luidden vóór het tijdstip van inwerkingtreding van deze wet, van kracht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XVII&amp;lid=3&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=XVII&amp;g=2005-12-29" onderdeel="artikel=XVII" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=XVII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XVII&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=XVII" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=XVII"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXVIII" code="a-xviii" stam-id="184483" versie-id="251462" id="C251461" label-id="181914" inwerking="1995-12-29" label="Artikel XVIII" bron="Stb.1995-691" effect="wijziging" ondertekening_bron="1995-12-21" publicatie_bron="1995-12-28" publicatie_iwt="1995-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XVIII</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXVIII/Lid1" label-id="181914L1">
+    <lidnr>1</lidnr>
+    <al>Degene die op grond van <intref verwijzing-id="38896" doc="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XVII&amp;z=2005-12-29&amp;g=2005-12-29" bwb-id="BWBR0006355" label-id="181904" bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXVII">artikel XVII</intref> aanspraken heeft verkregen die voortvloeien uit <extref doc="jci1.3:c:BWBR0001888&amp;artikel=57" verwijzing-id="38897" bwb-id="BWBR0001888" label-id="2989944">artikel 57</extref> of <extref doc="jci1.3:c:BWBR0001888&amp;artikel=54" verwijzing-id="38898" bwb-id="BWBR0001888" label-id="2989914">artikel 54 van de Ziektewet</extref> behoudt deze aanspraken, indien: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXVIII/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>hij op 30 juni 1994 ongeschikt is tot werken wegens ziekte, zolang die ongeschiktheid duurt; of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XVIII&amp;lid=1&amp;o=a&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXVIII/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de ongeschiktheid tot het werken wegens ziekte intreedt na 30 juni 1994 en tevens binnen vier weken nadat een vóór die dag gelegen periode van ongeschiktheid door herstel is geëindigd, zolang die ongeschiktheid duurt.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XVIII&amp;lid=1&amp;o=b&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XVIII&amp;lid=1&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXVIII/Lid2" label-id="181914L2">
+    <lidnr>2</lidnr>
+    <al> Artikel XVI, tweede lid, en, voor zoveel nodig, artikel XVII, derde lid, zijn van toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XVIII&amp;lid=2&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1995-691"><publicatiejaar>1995</publicatiejaar><publicatienr>691</publicatienr><uitgiftedatum isodatum="1995-12-28">28-12-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-12-21">21-12-1995</ondertekeningsdatum><dossierref dossier="24326">24326</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1995-691"><publicatiejaar>1995</publicatiejaar><publicatienr>691</publicatienr><uitgiftedatum isodatum="1995-12-28">28-12-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-12-21">21-12-1995</ondertekeningsdatum><dossierref dossier="24326">24326</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-12-29">29-12-1995</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="1994-01-01">01-01-1994</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=XVIII&amp;g=2005-12-29" onderdeel="artikel=XVIII" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=XVIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XVIII&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=XVIII" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=XVIII"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXIX" code="a-xix" stam-id="184493" versie-id="251472" id="C251471" label-id="181924" inwerking="1994-01-01" label="Artikel XIX" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XIX</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXIX/Lid1" label-id="181924L1">
+    <lidnr>1</lidnr>
+    <al>De bepaling van <intref verwijzing-id="38901" doc="jci1.3:c:BWBR0006355&amp;hoofdstuk=II&amp;artikel=XIV&amp;z=2005-12-29&amp;g=2005-12-29" bwb-id="BWBR0006355" label-id="181854" bwb-ng-variabel-deel="/HoofdstukII/ArtikelXIV">artikel XIV, onderdeel A</intref> is niet van toepassing op de arbeidsverhoudingen van personen: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXIX/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>die op de dag vóór de inwerkingtreding van deze wet ongeschikt zijn tot het verrichten van hun arbeid wegens ziekte, zolang die ongeschiktheid duurt; of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XIX&amp;lid=1&amp;o=a&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXIX/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>van wie de ongeschiktheid tot het verrichten van hun arbeid wegens ziekte intreedt op of na de datum van inwerkingtreding van deze wet en tevens binnen vier weken nadat een vóór die inwerkingtreding gelegen periode van ongeschiktheid door herstel is geëindigd, zolang die ongeschiktheid duurt.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XIX&amp;lid=1&amp;o=b&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XIX&amp;lid=1&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXIX/Lid2" label-id="181924L2">
+    <lidnr>2</lidnr>
+    <al> Voor de toepassing van het eerste lid wordt de ongeschiktheid tot het verrichten van arbeid wegens ziekte geacht niet te zijn onderbroken wanneer perioden van ongeschiktheid elkaar met een onderbreking van minder dan vier weken opvolgen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XIX&amp;lid=2&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=XIX&amp;g=2005-12-29" onderdeel="artikel=XIX" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=XIX"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XIX&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=XIX" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=XIX"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXX" stam-id="184503" versie-id="251482" id="C251481" label-id="181934" inwerking="1995-12-29" label="Artikel XX" bron="Stb.1995-560" effect="vervallen" ondertekening_bron="1995-11-02" publicatie_bron="1995-11-28" publicatie_iwt="1995-12-28" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>XX</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-1995-560"><publicatiejaar>1995</publicatiejaar><publicatienr>560</publicatienr><uitgiftedatum isodatum="1995-11-28">28-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-02">02-11-1995</ondertekeningsdatum><dossierref dossier="24221">24221</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-1995-689"><publicatiejaar>1995</publicatiejaar><publicatienr>689</publicatienr><uitgiftedatum isodatum="1995-12-28">28-12-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-12-20">20-12-1995</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1995-12-29">29-12-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=XX&amp;g=2005-12-29" onderdeel="artikel=XX" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=XX"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XX&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=XX" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=XX"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXXI" code="a-xxi" stam-id="184513" versie-id="251492" id="C251491" label-id="181944" inwerking="1994-01-01" label="Artikel XXI" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XXI</nr>
+  </kop>
+  <al>De tekst van de <extref doc="jci1.3:c:BWBR0001888" verwijzing-id="38902" bwb-id="BWBR0001888" label-id="2990404">Ziektewet</extref> wordt door de Minister van Justitie in het <nadruk type="cur">Staatsblad</nadruk> geplaatst.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=XXI&amp;g=2005-12-29" onderdeel="artikel=XXI" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=XXI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XXI&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=XXI" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=XXI"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXXII" code="a-xxii" stam-id="184523" versie-id="251502" id="C251501" label-id="181954" inwerking="1994-01-01" label="Artikel XXII" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XXII</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXXII/Lid1" label-id="181954L1">
+    <lidnr>1</lidnr>
+    <al>De artikelen van deze wet, met uitzondering van <intref verwijzing-id="38907" doc="jci1.3:c:BWBR0006355&amp;hoofdstuk=I&amp;artikel=III&amp;z=2005-12-29&amp;g=2005-12-29" bwb-id="BWBR0006355" label-id="181714" bwb-ng-variabel-deel="/HoofdstukI/ArtikelIII">artikel III, onderdelen D en E</intref>, treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XXII&amp;lid=1&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXXII/Lid2" label-id="181954L2">
+    <lidnr>2</lidnr>
+    <al>
+      <intref verwijzing-id="38909" doc="jci1.3:c:BWBR0006355&amp;hoofdstuk=I&amp;artikel=III&amp;z=2005-12-29&amp;g=2005-12-29" bwb-id="BWBR0006355" label-id="181714" bwb-ng-variabel-deel="/HoofdstukI/ArtikelIII">Artikel III, onderdelen D en E</intref>, treedt in werking met ingang van de dag na de datum van uitgifte van het <nadruk type="cur">Staatsblad</nadruk> waarin deze wet wordt geplaatst en werkt terug tot en met 1 maart 1992.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XXII&amp;lid=2&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=XXII&amp;g=2005-12-29" onderdeel="artikel=XXII" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=XXII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XXII&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=XXII" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=XXII"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXXIII" stam-id="184533" versie-id="251772" id="C32096601" label-id="181964" inwerking="1997-03-01" label="ARTIKEL XXIII" bron="Stb.1997-96" effect="wijziging" ondertekening_bron="1997-02-26" publicatie_bron="1997-02-27" publicatie_iwt="1997-02-27" status="goed">
+  <kop>
+    <label>ARTIKEL</label>
+    <nr status="officieel">XXIII</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXXIII/Lid1" label-id="181964L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het Landelijk instituut sociale verzekeringen is bevoegd tegen kostprijs werkzaamheden te verrichten in opdracht of ten behoeve van een dienst als bedoeld in artikel 17, eerste lid, onderdelen <nadruk type="cur">a</nadruk> en <nadruk type="cur">c</nadruk>, van de Arbeidsomstandighedenwet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XXIII&amp;lid=1&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXXIII/Lid2" label-id="181964L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De werkzaamheden als bedoeld in het eerste lid kunnen slechts betrekking hebben op de uit artikel 4<nadruk type="cur">a</nadruk> van de Arbeidsomstandighedenwet voortvloeiende taken, voor zover die taken voor 1 mei 1993 door de bedrijfsverenigingen of uitvoeringsinstellingen werden verricht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XXIII&amp;lid=2&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXXIII/Lid3" label-id="181964L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De bevoegdheid als bedoeld in het eerste lid vervalt met ingang van 1 januari 1998.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XXIII&amp;lid=3&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-96"><publicatiejaar>1997</publicatiejaar><publicatienr>96</publicatienr><uitgiftedatum isodatum="1997-02-27">27-02-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-02-26">26-02-1997</ondertekeningsdatum><dossierref dossier="25047">25047</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-97"><publicatiejaar>1997</publicatiejaar><publicatienr>97</publicatienr><uitgiftedatum isodatum="1997-02-27">27-02-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-02-26">26-02-1997</ondertekeningsdatum><dossierref dossier="25090">25090</dossierref></publicatie><inwerkingtreding.datum isodatum="1997-03-01">01-03-1997</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=XXIII&amp;g=2005-12-29" onderdeel="artikel=XXIII" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=XXIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XXIII&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=XXIII" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=XXIII"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/ArtikelXXIV" code="a-xxiv" stam-id="184543" versie-id="251522" id="C251521" label-id="181974" inwerking="1994-01-01" label="Artikel XXIV" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XXIV</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als "Wet terugdringing ziekteverzuim".</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;artikel=XXIV&amp;g=2005-12-29" onderdeel="artikel=XXIV" korte-verwijzing="1.0:c:BWBR0006355&amp;artikel=XXIV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;artikel=XXIV&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="artikel=XXIV" korte-verwijzing="jci1.3:c:BWBR0006355&amp;artikel=XXIV"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;hoofdstuk=IV&amp;g=2005-12-29" onderdeel="hoofdstuk=IV" korte-verwijzing="1.0:c:BWBR0006355&amp;hoofdstuk=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="hoofdstuk=IV" korte-verwijzing="jci1.3:c:BWBR0006355&amp;hoofdstuk=IV"/></jcis></meta-data></hoofdstuk>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="184593" versie-id="251572" id="C251571" label-id="182024" inwerking="1994-01-01" bron="Stb.1993-750" effect="nieuwe-regeling" ondertekening_bron="1993-12-22" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">22 december 1993</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Staatssecretaris van Sociale Zaken en Werkgelegenheid,</functie>
+    <naam>
+      <achternaam>J. Wallage</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Justitie,</functie>
+    <naam>
+      <achternaam>E. M. H. Hirsch Ballin</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Binnenlandse Zaken,</functie>
+    <naam>
+      <achternaam>C. I. Dales</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de dertigste december 1993</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>E. M. H. Hirsch Ballin</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>750</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum><dossierref dossier="22899">22899</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>751</publicatienr><ondertekeningsdatum isodatum="1993-12-22">22-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006355&amp;g=2005-12-29" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0006355"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006355&amp;z=2005-12-29&amp;g=2005-12-29" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0006355"/></jcis></meta-data></wetgeving></toestand>

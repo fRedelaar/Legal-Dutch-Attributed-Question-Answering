@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0041515/2022-12-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0041515" inwerkingtreding="2022-12-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="14849493" versie-id="25386262" id="C36271231" label-id="14801474" inwerkingtredingsdatum="2018-11-09">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="14849513" versie-id="25385752" id="C36271161" label-id="14800964" inwerking="2018-11-09" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">Wet van 17 oktober 2018, houdende regels ter implementatie van richtlijn (EU) 2016/1148 (Wet beveiliging netwerk- en informatiesystemen)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="14849523" versie-id="25385762" id="C36271261" label-id="14800974" inwerking="2018-11-09" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08">Wet beveiliging netwerk- en informatiesystemen<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="14849533" versie-id="25385772" id="C36271431" label-id="14800984" inwerking="2018-11-09" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben dat het gelet op richtlijn (EU) 2016/1148 noodzakelijk is om wettelijke bepalingen vast te stellen ter bevordering van de beveiliging van netwerk- en informatiesystemen;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk1" stam-id="14849553" versie-id="25385792" id="C36271141" label-id="14801004" inwerking="2018-11-09" label="Hoofdstuk 1" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">1</nr>
+    <titel status="officieel">Begripsbepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1" stam-id="14849543" versie-id="25385782" id="C36271521" label-id="14800994" inwerking="2018-11-09" label="Artikel 1" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+    <titel status="officieel">(begripsbepalingen)</titel>
+  </kop>
+  <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._1">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">aanbieder:</nadruk> overheidsorganisatie of privaatrechtelijke rechtspersoon die een dienst exploiteert, beheert of beschikbaar stelt;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._2">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">aanbieder van een essentiële dienst:</nadruk> aanbieder van een essentiële dienst als bedoeld in artikel 4 van de NIB-richtlijn, aangewezen op grond van <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=1&amp;artikel=5&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801064" verwijzing-id="2908867" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf1/Artikel5">artikel 5, eerste lid, onder a</intref>;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._3">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">beveiliging van netwerk- en informatiesystemen, digitale dienst, incident, netwerk- en informatiesysteem, norm, onderscheidenlijk afbreekrisico:</nadruk> hetgeen daaronder wordt verstaan in artikel 4 van de NIB-richtlijn;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._4">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">bevoegde autoriteit:</nadruk> bevoegde autoriteit, genoemd in <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=3&amp;artikel=4&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801044" verwijzing-id="2908868" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel4">artikel 4</intref>;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._5">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">centraal contactpunt:</nadruk> centraal contactpunt als bedoeld in artikel 8, derde lid, van de NIB-richtlijn;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._6">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">CSIRT:</nadruk> Computer security incident response team als bedoeld in artikel 9 van de NIB-richtlijn;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._7">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">CSIRT voor digitale diensten:</nadruk> CSIRT, aangewezen op grond van <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=3&amp;artikel=4&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801044" verwijzing-id="2908869" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel4">artikel 4, tweede lid, onder b</intref>;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._8">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">digitaledienstverlener:</nadruk> rechtspersoon die een digitale dienst aanbiedt en gelet op artikel 18, eerste en tweede lid, van de NIB-richtlijn onder de jurisdictie van Nederland valt, met uitzondering van kleine en micro-ondernemingen als bedoeld in artikel 16, elfde lid, van de NIB-richtlijn;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._9">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">NIB-richtlijn:</nadruk> richtlijn (EU) 2016/1148 van het Europees Parlement en de Raad van 6 juli 2016 houdende maatregelen voor een hoog gemeenschappelijk niveau van beveiliging van netwerk- en informatiesystemen in de Unie (PbEU 2016, L 194);</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._10">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">Onze Minister:</nadruk> Onze Minister van Justitie en Veiligheid;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._11">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">vitale aanbieder:</nadruk>
+      </al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._11/Onderdeela">
+          <li.nr>a.</li.nr>
+          <al>aanbieder van een essentiële dienst;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=1&amp;artikel=1&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel._11/Onderdeelb">
+          <li.nr>b.</li.nr>
+          <al>aanbieder van een andere dienst waarvan de continuïteit van vitaal belang is voor de Nederlandse samenleving.</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=1&amp;artikel=1&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+      </lijst>
+    </li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=1&amp;g=2022-12-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=1&amp;artikel=1&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=1"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;hoofdstuk=1&amp;g=2022-12-01" onderdeel="hoofdstuk=1" korte-verwijzing="1.0:c:BWBR0041515&amp;hoofdstuk=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=1&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="hoofdstuk=1" korte-verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=1"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk2" stam-id="14849583" versie-id="25385822" id="C36271101" label-id="14801034" inwerking="2018-11-09" label="Hoofdstuk 2" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">2</nr>
+    <titel status="officieel">Taken van Onze Minister</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel2" stam-id="14849563" versie-id="25385802" id="C36271051" label-id="14801014" inwerking="2018-11-09" label="Artikel 2" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+    <titel status="officieel">(centraal contactpunt; CSIRT voor essentiële diensten; instantie voor vrijwillige meldingen)</titel>
+  </kop>
+  <al>Onze Minister is:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel2/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>het centrale contactpunt;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=2&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel2/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>voor aanbieders van een essentiële dienst: het CSIRT;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=2&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel2/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>de instantie voor de behandeling van vrijwillige meldingen als bedoeld in <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=4&amp;artikel=16&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801204" verwijzing-id="2908870" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4/Artikel16">artikel 16</intref>.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=2&amp;o=c&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=c"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=2&amp;g=2022-12-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=2&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=2"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3" stam-id="14849573" versie-id="29035732" id="C41310181" label-id="14801024" inwerking="2022-12-01" label="Artikel 3" bron="Stb.2022-441" effect="wijziging" ondertekening_bron="2022-11-02" publicatie_bron="2022-11-11" publicatie_iwt="2022-11-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+    <titel status="officieel">(taken van Onze Minister)</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid1" label-id="14801024L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister heeft, ter voorkoming of beperking van het uitvallen van de beschikbaarheid of het verlies van integriteit van netwerk- en informatiesystemen van vitale aanbieders, en van andere aanbieders die onderdeel zijn van de rijksoverheid, ter verdere versterking van de digitale weerbaarheid van de Nederlandse samenleving en ter uitvoering van de NIB-richtlijn, de volgende taken:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de taken van het centrale contactpunt;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=3&amp;lid=1&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>voor aanbieders van een essentiële dienst: de in bijlage I, onder 2, van de NIB-richtlijn genoemde taken van het CSIRT;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=3&amp;lid=1&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>het bijstaan van de in de aanhef bedoelde aanbieders bij het treffen van maatregelen om de continuïteit van hun diensten te waarborgen of te herstellen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=3&amp;lid=1&amp;o=c&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>het informeren en adviseren van deze aanbieders en anderen in en buiten Nederland over dreigingen en incidenten met betrekking tot de in de aanhef bedoelde netwerk- en informatiesystemen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=3&amp;lid=1&amp;o=d&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>het verrichten van analyses en technisch onderzoek ten behoeve van de onder b, c en d genoemde taken, naar aanleiding van de onder d bedoelde dreigingen en incidenten of aanwijzingen daarvoor, niet zijnde onderzoek naar personen of organisaties die voor die dreigingen of incidenten verantwoordelijk zijn of die daar anderszins aan bijdragen of hebben bijgedragen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=3&amp;lid=1&amp;o=e&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=e"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=3&amp;lid=1&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2" label-id="14801024L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Voorts heeft Onze Minister, ter voorkoming van nadelige maatschappelijke gevolgen in en buiten Nederland, tot taak: het verstrekken van ingevolge het eerste lid, onder e, verkregen gegevens over dreigingen en incidenten met betrekking tot andere netwerk- en informatiesystemen dan bedoeld in de aanhef van het eerste lid aan:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>organisaties die objectief kenbaar tot taak hebben om andere organisaties of het publiek daarover te informeren, aangewezen bij regeling van Onze Minister of behorend tot een bij die regeling aangewezen categorie;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>CSIRT’s;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>andere computercrisisteams, aangewezen bij regeling van Onze Minister of behorend tot een bij die regeling aangewezen categorie;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=c&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>aanbieders van internettoegangs- en internetcommunicatiediensten ten behoeve van het informeren van gebruikers van die diensten;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=d&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>aanbieders, niet zijnde een vitale aanbieder of een andere aanbieder die onderdeel is van de rijksoverheid, indien een dreiging of incident aanzienlijke gevolgen heeft of kan hebben voor de continuïteit van hun dienstverlening en voor de verstrekking van gegevens een onder a tot en met c bedoelde organisatie ontbreekt.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=e&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=e"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid3" label-id="14801024L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Voorts heeft Onze Minister tot taak: de behandeling van vrijwillige meldingen als bedoeld in <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=4&amp;artikel=16&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801204" verwijzing-id="2908871" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4/Artikel16">artikel 16</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=3&amp;lid=3&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-441"><publicatiejaar>2022</publicatiejaar><publicatienr>441</publicatienr><uitgiftedatum isodatum="2022-11-11">11-11-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-11-02">02-11-2022</ondertekeningsdatum><dossierref dossier="36084">36084</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-469"><publicatiejaar>2022</publicatiejaar><publicatienr>469</publicatienr><uitgiftedatum isodatum="2022-11-25">25-11-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-11-21">21-11-2022</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-12-01">01-12-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=3&amp;g=2022-12-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=3&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=3"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;hoofdstuk=2&amp;g=2022-12-01" onderdeel="hoofdstuk=2" korte-verwijzing="1.0:c:BWBR0041515&amp;hoofdstuk=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="hoofdstuk=2" korte-verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=2"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk3" stam-id="14849603" versie-id="25385842" id="C36271071" label-id="14801054" inwerking="2018-11-09" label="Hoofdstuk 3" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">3</nr>
+    <titel status="officieel">Taken van andere instanties</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk3/Artikel4" stam-id="14849593" versie-id="25406252" id="C36271531" label-id="14801044" inwerking="2019-01-01" label="Artikel 4" bron="Stb.2018-387" effect="wijziging" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+    <titel status="officieel">(bevoegde autoriteit; CSIRT voor digitale diensten)</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel4/Lid1" label-id="14801044L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De bevoegde autoriteit, bedoeld in artikel 8, eerste lid, van de NIB-richtlijn, is voor de sectoren, genoemd in bijlage II van die richtlijn:</al>
+    <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml2">
+      <tgroup align="left" char="" charoff="50" cols="2" rowsep="1" tgroupstyle="xml2">
+        <colspec colname="col1" colnum="1" colwidth="218*"/>
+        <colspec colname="col2" colnum="2" colwidth="191*"/>
+        <thead valign="bottom">
+          <row rowsep="1">
+            <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>
+                <nadruk type="halfvet">Bevoegde autoriteit</nadruk>
+              </al>
+            </entry>
+            <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>
+                <nadruk type="halfvet">Sector</nadruk>
+              </al>
+            </entry>
+          </row>
+        </thead>
+        <tbody valign="top">
+          <row rowsep="0">
+            <entry align="left" colname="col1" colsep="0" morerows="1" rotate="0" rowsep="1" valign="top">
+              <al>Onze Minister van Economische Zaken en Klimaat</al>
+            </entry>
+            <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>energie</al>
+            </entry>
+          </row>
+          <row rowsep="0">
+            <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>digitale infrastructuur</al>
+            </entry>
+          </row>
+          <row rowsep="0">
+            <entry align="left" colname="col1" colsep="0" morerows="1" rotate="0" rowsep="1" valign="top">
+              <al>De Nederlandsche Bank N.V.</al>
+            </entry>
+            <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>bankwezen</al>
+            </entry>
+          </row>
+          <row rowsep="0">
+            <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>infrastructuur voor de financiële markt</al>
+            </entry>
+          </row>
+          <row rowsep="0">
+            <entry align="left" colname="col1" colsep="0" morerows="1" rotate="0" rowsep="1" valign="top">
+              <al>Onze Minister van Infrastructuur en Waterstaat</al>
+            </entry>
+            <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>vervoer</al>
+            </entry>
+          </row>
+          <row rowsep="0">
+            <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>levering en distributie van drinkwater</al>
+            </entry>
+          </row>
+          <row rowsep="0">
+            <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>Onze Minister voor Medische Zorg</al>
+            </entry>
+            <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>gezondheidszorg</al>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=3&amp;artikel=4&amp;lid=1&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel4/Lid2" label-id="14801044L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Voor de digitale diensten, genoemd in bijlage III van de NIB-richtlijn, is:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel4/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de bevoegde autoriteit, bedoeld in artikel 8, eerste lid, van de NIB-richtlijn: Onze Minister van Economische Zaken en Klimaat;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=3&amp;artikel=4&amp;lid=2&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel4/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>het CSIRT: de bij koninklijk besluit aangewezen instantie.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=3&amp;artikel=4&amp;lid=2&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=3&amp;artikel=4&amp;lid=2&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel4/Lid3" label-id="14801044L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De bevoegde autoriteit heeft voor wat betreft de aanbieders van een essentiële dienst in de betrokken sector of sectoren, onderscheidenlijk voor de digitaledienstverleners, tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens deze wet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=3&amp;artikel=4&amp;lid=3&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel4/Lid4" label-id="14801044L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Het CSIRT voor digitale diensten heeft voor wat betreft digitaledienstverleners de in bijlage I, onder 2, van de NIB-richtlijn genoemde taken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=3&amp;artikel=4&amp;lid=4&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-01-01">01-01-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=4&amp;g=2022-12-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=3&amp;artikel=4&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=4"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;hoofdstuk=3&amp;g=2022-12-01" onderdeel="hoofdstuk=3" korte-verwijzing="1.0:c:BWBR0041515&amp;hoofdstuk=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=3&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="hoofdstuk=3" korte-verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=3"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk4" stam-id="14849773" versie-id="25386012" id="C36271371" label-id="14801224" inwerking="2018-11-09" label="Hoofdstuk 4" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">4</nr>
+    <titel status="officieel">Beveiligingseisen en melding van incidenten</titel>
+  </kop><paragraaf bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf1" stam-id="14849633" versie-id="25385872" id="C36271151" label-id="14801084" inwerking="2018-11-09" label="§ 1" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">1</nr>
+    <titel status="officieel">Algemeen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf1/Artikel5" stam-id="14849613" versie-id="25385852" id="C36271131" label-id="14801064" inwerking="2018-11-09" label="Artikel 5" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+    <titel status="officieel">(aanwijzing van vitale aanbieders)</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf1/Artikel5/Lid1" label-id="14801064L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Bij algemene maatregel van bestuur of bij besluit van een bij die maatregel genoemd bestuursorgaan worden aangewezen:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf1/Artikel5/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>aanbieders van een essentiële dienst of categorieën van zodanige aanbieders;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=1&amp;artikel=5&amp;lid=1&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf1/Artikel5/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>andere vitale aanbieders of categorieën van zodanige aanbieders.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=1&amp;artikel=5&amp;lid=1&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=1&amp;artikel=5&amp;lid=1&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf1/Artikel5/Lid2" label-id="14801064L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Bij de toepassing van het eerste lid, onder a, worden de artikelen 5 en 6 van de NIB-richtlijn en bijlage II van die richtlijn in acht genomen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=1&amp;artikel=5&amp;lid=2&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=5&amp;g=2022-12-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=1&amp;artikel=5&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=5"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf1/Artikel6" stam-id="14849623" versie-id="25385862" id="C36271291" label-id="14801074" inwerking="2018-11-09" label="Artikel 6" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+    <titel status="officieel">(voorrang voor sectorspecifieke EU-regels)</titel>
+  </kop>
+  <al>Voor zover artikel 1, zevende lid, van de NIB-richtlijn van toepassing is, kan bij algemene maatregel van bestuur worden bepaald dat daarbij aangewezen, bij of krachtens deze wet gestelde voorschriften niet gelden voor daarbij aangewezen categorieën van aanbieders van essentiële diensten of digitaledienstverleners.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=6&amp;g=2022-12-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=1&amp;artikel=6&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=6"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;paragraaf=1&amp;g=2022-12-01" onderdeel="paragraaf=1" korte-verwijzing="1.0:c:BWBR0041515&amp;paragraaf=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=1&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="paragraaf=1" korte-verwijzing="jci1.3:c:BWBR0041515&amp;paragraaf=1"/></jcis></meta-data></paragraaf><paragraaf bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf2" stam-id="14849673" versie-id="25385912" id="C36271011" label-id="14801124" inwerking="2018-11-09" label="§ 2" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">2</nr>
+    <titel status="officieel">Beveiliging</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf2/Artikel7" stam-id="14849643" versie-id="25385882" id="C36271281" label-id="14801094" inwerking="2018-11-09" label="Artikel 7" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+    <titel status="officieel">(risico’s beheersen)</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf2/Artikel7/Lid1" label-id="14801094L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De aanbieder van een essentiële dienst en de digitaledienstverlener nemen passende en evenredige technische en organisatorische maatregelen om de risico’s voor de beveiliging van hun netwerk- en informatiesystemen te beheersen. De maatregelen zorgen, gezien de stand van de techniek, voor een niveau van beveiliging dat is afgestemd op de risico's die zich voordoen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=2&amp;artikel=7&amp;lid=1&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf2/Artikel7/Lid2" label-id="14801094L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De in het eerste lid bedoelde maatregelen van de digitaledienstverlener houden in elk geval rekening met de volgende aspecten:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf2/Artikel7/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de beveiliging van systemen en voorzieningen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=2&amp;artikel=7&amp;lid=2&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf2/Artikel7/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>behandeling van incidenten;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=2&amp;artikel=7&amp;lid=2&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf2/Artikel7/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>het beheer van de bedrijfscontinuïteit;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=2&amp;artikel=7&amp;lid=2&amp;o=c&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf2/Artikel7/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>toezicht, controle en testen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=2&amp;artikel=7&amp;lid=2&amp;o=d&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf2/Artikel7/Lid2/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>inachtneming van de internationale normen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=2&amp;artikel=7&amp;lid=2&amp;o=e&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=e"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=2&amp;artikel=7&amp;lid=2&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=7&amp;g=2022-12-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=2&amp;artikel=7&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=7"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf2/Artikel8" stam-id="14849653" versie-id="25385892" id="C36271221" label-id="14801104" inwerking="2018-11-09" label="Artikel 8" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+    <titel status="officieel">(incidenten voorkomen en gevolgen van incidenten beperken)</titel>
+  </kop>
+  <al>De aanbieder van een essentiële dienst en de digitaledienstverlener nemen passende maatregelen om incidenten die de beveiliging van de voor de verlening van de betrokken dienst gebruikte netwerk- en informatiesystemen aantasten, te voorkomen en de gevolgen van dergelijke incidenten zo veel mogelijk te beperken, teneinde de continuïteit van die dienst te waarborgen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=8&amp;g=2022-12-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=2&amp;artikel=8&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=8"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf2/Artikel9" stam-id="14849663" versie-id="25385902" id="C36271501" label-id="14801114" inwerking="2018-11-09" label="Artikel 9" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+    <titel status="officieel">(nadere regels)</titel>
+  </kop>
+  <al>Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven over de maatregelen, bedoeld in de <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=2&amp;artikel=7&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801094" verwijzing-id="2908872" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf2/Artikel7">artikelen 7</intref> en <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=2&amp;artikel=8&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801104" verwijzing-id="2908873" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf2/Artikel8">8</intref>.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=9&amp;g=2022-12-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=2&amp;artikel=9&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=9"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;paragraaf=2&amp;g=2022-12-01" onderdeel="paragraaf=2" korte-verwijzing="1.0:c:BWBR0041515&amp;paragraaf=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=2&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="paragraaf=2" korte-verwijzing="jci1.3:c:BWBR0041515&amp;paragraaf=2"/></jcis></meta-data></paragraaf><paragraaf bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3" stam-id="14849743" versie-id="25385982" id="C36271251" label-id="14801194" inwerking="2018-11-09" label="§ 3" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">3</nr>
+    <titel status="officieel">Meldplicht voor incidenten</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel10" stam-id="14849683" versie-id="25385922" id="C36271081" label-id="14801134" inwerking="2018-11-09" label="Artikel 10" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+    <titel status="officieel">(aangewezen vitale aanbieder)</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel10/Lid1" label-id="14801134L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De vitale aanbieder, aangewezen op grond van <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=1&amp;artikel=5&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801064" verwijzing-id="2908874" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf1/Artikel5">artikel 5, eerste lid, onder a of b</intref>, meldt onverwijld bij Onze Minister:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel10/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>een incident met aanzienlijke gevolgen voor de continuïteit van de door hem verleende dienst;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=10&amp;lid=1&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel10/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>een inbreuk op de beveiliging van netwerk- en informatiesystemen die aanzienlijke gevolgen kan hebben voor de continuïteit van de door hem verleende dienst.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=10&amp;lid=1&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=10&amp;lid=1&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel10/Lid2" label-id="14801134L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De aanbieder van een essentiële dienst meldt een incident als bedoeld in het eerste lid, onder a, ook onverwijld bij de bevoegde autoriteit.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=10&amp;lid=2&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel10/Lid3" label-id="14801134L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Onverminderd <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=13&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801164" verwijzing-id="2908875" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel13">artikel 13</intref> meldt de aanbieder van een essentiële dienst een incident bij een digitaledienstverlener onverwijld bij Onze Minister en bij de bevoegde autoriteit, als dat incident aanzienlijke gevolgen heeft voor de continuïteit van zijn essentiële dienst.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=10&amp;lid=3&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel10/Lid4" label-id="14801134L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Om te bepalen of een incident aanzienlijke gevolgen heeft voor de continuïteit van de essentiële dienst, worden in elk geval in aanmerking genomen:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel10/Lid4/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het aantal gebruikers dat door de verstoring van de dienst wordt getroffen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=10&amp;lid=4&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel10/Lid4/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de duur van het incident;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=10&amp;lid=4&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel10/Lid4/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de omvang van het geografische gebied dat door het incident is getroffen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=10&amp;lid=4&amp;o=c&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=10&amp;lid=4&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel10/Lid5" label-id="14801134L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>In afwijking van <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=1&amp;artikel=1&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14800994" verwijzing-id="2908876" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1">artikel 1</intref> wordt in het derde lid onder digitaledienstverlener tevens de digitaledienstverlener verstaan die niet valt onder de jurisdictie van Nederland.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=10&amp;lid=5&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=10&amp;g=2022-12-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=10&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=10"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel11" stam-id="14849693" versie-id="25385932" id="C36271041" label-id="14801144" inwerking="2018-11-09" label="Artikel 11" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+    <titel status="officieel">(bij de melding te verstrekken gegevens)</titel>
+  </kop>
+  <al>De in <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=10&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801134" verwijzing-id="2908877" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel10">artikel 10</intref> bedoelde melding omvat in ieder geval:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel11/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>de aard en omvang van het incident;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=11&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel11/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>het vermoedelijke tijdstip van de aanvang van het incident;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=11&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel11/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>de mogelijke gevolgen in en buiten Nederland van het incident;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=11&amp;o=c&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel11/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>een prognose van de hersteltijd;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=11&amp;o=d&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=d"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel11/Onderdeele">
+      <li.nr>e.</li.nr>
+      <al>zo mogelijk, de door de aanbieder genomen of te nemen maatregelen om de gevolgen van het incident te beperken of herhaling hiervan te voorkomen;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=11&amp;o=e&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=e"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel11/Onderdeelf">
+      <li.nr>f.</li.nr>
+      <al>de contactgegevens van de functionaris die verantwoordelijk is voor het doen van de melding.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=11&amp;o=f&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=f"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=11&amp;g=2022-12-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=11&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=11"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel12" stam-id="14849703" versie-id="25385942" id="C36271211" label-id="14801154" inwerking="2018-11-09" label="Artikel 12" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">12</nr>
+    <titel status="officieel">(verstrekking nadere gegevens door aangewezen vitale aanbieder)</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel12/Lid1" label-id="14801154L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Desgevraagd verstrekt de aanbieder die een melding als bedoeld in <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=10&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801134" verwijzing-id="2908878" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel10">artikel 10, eerste of derde lid</intref>, bij Onze Minister heeft gedaan, Onze Minister onverwijld alle overige gegevens die noodzakelijk zijn om:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel12/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de aanbieder bij te staan bij het treffen van maatregelen om de continuïteit van zijn diensten te waarborgen of te herstellen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=12&amp;lid=1&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel12/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de risico’s in te schatten voor de netwerk- en informatiesystemen, bedoeld in <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=3&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801024" verwijzing-id="2908879" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3">artikel 3, eerste lid, aanhef</intref>.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=12&amp;lid=1&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=12&amp;lid=1&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel12/Lid2" label-id="14801154L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het eerste lid is van overeenkomstige toepassing als de aanbieder een incident heeft gemeld bij de bevoegde autoriteit en deze de door haar ontvangen gegevens heeft verstrekt aan Onze Minister.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=12&amp;lid=2&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=12&amp;g=2022-12-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=12&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=12"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel13" stam-id="14849713" versie-id="25406262" id="C36271541" label-id="14801164" inwerking="2019-01-01" label="Artikel 13" bron="Stb.2018-387" effect="wijziging" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13</nr>
+    <titel status="officieel">(digitaledienstverlener)</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel13/Lid1" label-id="14801164L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een digitaledienstverlener meldt een incident met aanzienlijke gevolgen voor de verlening van de door hem verleende dienst in de Europese Unie onverwijld bij:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel13/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het CSIRT voor digitale diensten, en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=13&amp;lid=1&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel13/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de bevoegde autoriteit.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=13&amp;lid=1&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=13&amp;lid=1&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel13/Lid2" label-id="14801164L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Om te bepalen of een incident aanzienlijke gevolgen heeft als bedoeld in het eerste lid, worden in elk geval in aanmerking genomen:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel13/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het aantal gebruikers dat door de verstoring van de dienst wordt getroffen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=13&amp;lid=2&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel13/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de duur van het incident;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=13&amp;lid=2&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel13/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de omvang van het geografische gebied dat door het incident is getroffen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=13&amp;lid=2&amp;o=c&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel13/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de omvang van de verstoring van de werking van de dienst;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=13&amp;lid=2&amp;o=d&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel13/Lid2/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>de omvang van de gevolgen voor de economische en maatschappelijke activiteiten.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=13&amp;lid=2&amp;o=e&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=e"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=13&amp;lid=2&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel13/Lid3" label-id="14801164L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het eerste lid geldt alleen als de digitaledienstverlener toegang heeft tot de informatie die nodig is om te beoordelen of het incident aanzienlijke gevolgen heeft als bedoeld in dat lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=13&amp;lid=3&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-01-01">01-01-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=13&amp;g=2022-12-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=13&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=13"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel14" stam-id="14849723" versie-id="25385962" id="C36271121" label-id="14801174" inwerking="2019-01-01" label="Artikel 14" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">14</nr>
+    <titel status="officieel">(verstrekking nadere gegevens door digitaledienstverleners)</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel14/Lid1" label-id="14801174L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Desgevraagd verstrekt de digitaledienstverlener die een melding als bedoeld in <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=13&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801164" verwijzing-id="2909482" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel13">artikel 13, eerste lid, onder a</intref>, bij het CSIRT voor digitale diensten heeft gedaan, het CSIRT voor digitale diensten onverwijld alle overige gegevens die noodzakelijk zijn om:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel14/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de digitaledienstverlener bij te staan bij het treffen van maatregelen om de continuïteit van zijn diensten te waarborgen of te herstellen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=14&amp;lid=1&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel14/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de risico’s in te schatten voor de netwerk- en informatiesystemen van andere digitaledienstverleners.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=14&amp;lid=1&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=14&amp;lid=1&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel14/Lid2" label-id="14801174L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het eerste lid is van overeenkomstige toepassing als de digitaledienstverlener een incident heeft gemeld bij de bevoegde autoriteit en zij de door haar ontvangen gegevens heeft verstrekt aan het CSIRT voor digitale diensten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=14&amp;lid=2&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-01-01">01-01-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=14&amp;g=2022-12-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=14&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=14"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel15" stam-id="14849733" versie-id="25385972" id="C36271201" label-id="14801184" inwerking="2018-11-09" label="Artikel 15" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15</nr>
+    <titel status="officieel">(nadere regels meldplicht)</titel>
+  </kop>
+  <al>Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven over de <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=10&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801134,14801144,14801154,14801164" verwijzing-id="2908881" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel10">artikelen 10 tot en met 13</intref>, waaronder regels over:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel15/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>de gegevens die ter uitvoering van de <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=10&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801134" verwijzing-id="2908882" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel10">artikelen 10</intref>, <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=11&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801144" verwijzing-id="2908883" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel11">11</intref> en <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=13&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801164" verwijzing-id="2908884" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel13">13</intref> worden verstrekt;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=15&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel15/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>de wijze waarop een melding als bedoeld in <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=10&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801134" verwijzing-id="2908885" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel10">artikel 10</intref> of <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=13&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801164" verwijzing-id="2908886" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel13">13</intref> wordt gedaan en waarop gegevens als bedoeld in <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=12&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801154" verwijzing-id="2908887" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel12">artikel 12</intref> worden verstrekt.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=15&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=15&amp;g=2022-12-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=15&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=15"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;paragraaf=3&amp;g=2022-12-01" onderdeel="paragraaf=3" korte-verwijzing="1.0:c:BWBR0041515&amp;paragraaf=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="paragraaf=3" korte-verwijzing="jci1.3:c:BWBR0041515&amp;paragraaf=3"/></jcis></meta-data></paragraaf><paragraaf bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4" stam-id="14849763" versie-id="25386002" id="C36271241" label-id="14801214" inwerking="2018-11-09" label="§ 4" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">4</nr>
+    <titel status="officieel">Vrijwillige melding van incidenten</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4/Artikel16" stam-id="14849753" versie-id="25385992" id="C36271491" label-id="14801204" inwerking="2018-11-09" label="Artikel 16" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">16</nr>
+    <titel status="officieel">(vrijwillige melding van incidenten)</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4/Artikel16/Lid1" label-id="14801204L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Als een incident aanzienlijke gevolgen heeft voor de continuïteit van een dienst maar niet valt onder de meldplicht van <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801194" verwijzing-id="2908888" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3">paragraaf 3</intref>, kan de betrokken dienstverlener dat incident melden bij Onze Minister.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=4&amp;artikel=16&amp;lid=1&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4/Artikel16/Lid2" label-id="14801204L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister neemt de melding niet in behandeling als dat hem onevenredig of overmatig zou belasten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=4&amp;artikel=16&amp;lid=2&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4/Artikel16/Lid3" label-id="14801204L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Onze Minister kan de melding ter behandeling doorsturen naar:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4/Artikel16/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>een ander CSIRT;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=4&amp;artikel=16&amp;lid=3&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4/Artikel16/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>een ander computercrisisteam, aangewezen bij regeling van Onze Minister of behorend tot een bij die regeling aangewezen categorie.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=4&amp;artikel=16&amp;lid=3&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=4&amp;artikel=16&amp;lid=3&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=16&amp;g=2022-12-01" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=4&amp;artikel=16&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=16"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;paragraaf=4&amp;g=2022-12-01" onderdeel="paragraaf=4" korte-verwijzing="1.0:c:BWBR0041515&amp;paragraaf=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=4&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="paragraaf=4" korte-verwijzing="jci1.3:c:BWBR0041515&amp;paragraaf=4"/></jcis></meta-data></paragraaf><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;hoofdstuk=4&amp;g=2022-12-01" onderdeel="hoofdstuk=4" korte-verwijzing="1.0:c:BWBR0041515&amp;hoofdstuk=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="hoofdstuk=4" korte-verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=4"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk5" stam-id="14849853" versie-id="25386092" id="C36271421" label-id="14801304" inwerking="2018-11-09" label="Hoofdstuk 5" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">5</nr>
+    <titel status="officieel">Verwerking van gegevens</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel17" stam-id="14849783" versie-id="25406282" id="C36271561" label-id="14801234" inwerking="2019-01-01" label="Artikel 17" bron="Stb.2018-387" effect="wijziging" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">17</nr>
+    <titel status="officieel">(verwerking van gegevens door Onze Minister en andere instanties)</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel17/Lid1" label-id="14801234L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister verwerkt gegevens, waaronder persoonsgegevens, ten behoeve van de in <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=3&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801024" verwijzing-id="2908889" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3">artikel 3</intref> genoemde doeleinden en taken. Hij is verwerkingsverantwoordelijke.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=17&amp;lid=1&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel17/Lid2" label-id="14801234L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De bevoegde autoriteit verwerkt gegevens, waaronder persoonsgegevens, ten behoeve van de in <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=3&amp;artikel=4&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801044" verwijzing-id="2908890" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel4">artikel 4, derde lid</intref>, genoemde taak. Zij is verwerkingsverantwoordelijke.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=17&amp;lid=2&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel17/Lid3" label-id="14801234L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het CSIRT voor digitale diensten verwerkt gegevens, waaronder persoonsgegevens, ten behoeve van de taken, genoemd in bijlage I van de NIB-richtlijn. Het is verwerkingsverantwoordelijke.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=17&amp;lid=3&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-01-01">01-01-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=17&amp;g=2022-12-01" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=17&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=17"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel18" stam-id="14849793" versie-id="26893212" id="C39423071" label-id="14801244" inwerking="2021-08-01" label="Artikel 18" bron="Stb.2020-245" effect="wijziging" ondertekening_bron="2020-07-08" publicatie_bron="2020-07-14" publicatie_iwt="2020-07-14" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">18</nr>
+    <titel status="officieel">(verstrekking gegevens aan Onze Minister)</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel18/Lid1" label-id="14801244L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister kan een rechtspersoon of een orgaan daarvan verzoeken om gegevens te verstrekken die noodzakelijk zijn voor de vervulling van de in <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=3&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801024" verwijzing-id="2908891" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3">artikel 3, eerste lid, onder b tot en met e</intref>, genoemde taken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=18&amp;lid=1&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel18/Lid2" label-id="14801244L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De rechtspersoon of het orgaan kan op grond van het eerste lid gevraagde persoonsgegevens ook aan Onze Minister verstrekken als die verstrekking onverenigbaar is met de doeleinden waarvoor de persoonsgegevens zijn verzameld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=18&amp;lid=2&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-245"><publicatiejaar>2020</publicatiejaar><publicatienr>245</publicatienr><uitgiftedatum isodatum="2020-07-14">14-07-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-07-08">08-07-2020</ondertekeningsdatum><dossierref dossier="35497">35497</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-245"><publicatiejaar>2020</publicatiejaar><publicatienr>245</publicatienr><uitgiftedatum isodatum="2020-07-14">14-07-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-07-08">08-07-2020</ondertekeningsdatum><dossierref dossier="35497">35497</dossierref></publicatie><inwerkingtreding.datum isodatum="2021-08-01">01-08-2021</inwerkingtreding.datum><juncto><publicatie soort="Stb" urlidentifier="stb-2021-161"><publicatiejaar>2021</publicatiejaar><publicatienr>161</publicatienr><uitgiftedatum isodatum="2021-03-31">31-03-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-03-24">24-03-2021</ondertekeningsdatum></publicatie></juncto><juncto><publicatie soort="Stb" urlidentifier="stb-2020-480"><publicatiejaar>2020</publicatiejaar><publicatienr>480</publicatienr><uitgiftedatum isodatum="2020-11-30">30-11-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-11-26">26-11-2020</ondertekeningsdatum></publicatie></juncto><juncto><publicatie soort="Stb" urlidentifier="stb-2021-237"><publicatiejaar>2021</publicatiejaar><publicatienr>237</publicatienr><uitgiftedatum isodatum="2021-05-31">31-05-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-05-27">27-05-2021</ondertekeningsdatum></publicatie></juncto><juncto><publicatie soort="Stb" urlidentifier="stb-2021-35"><publicatiejaar>2021</publicatiejaar><publicatienr>35</publicatienr><uitgiftedatum isodatum="2021-01-29">29-01-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-01-27">27-01-2021</ondertekeningsdatum></publicatie></juncto></inwerkingtreding><opmerkingen-inhoud><al>Inwerkingtreding voorheen door Stb. 2020/245 gesteld op 1 december 2020. Inwerkingtreding voorheen door Stb. 2020/480 gesteld op 1 februari 2021. Inwerkingtreding voorheen door Stb. 2021/35 gesteld op 1 april 2021. Inwerkingtreding voorheen door Stb. 2021/161 gesteld op 1 juni 2021.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=18&amp;g=2022-12-01" onderdeel="artikel=18" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=18"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=18&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=18" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=18"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel19" stam-id="14849803" versie-id="25406292" id="C36271571" label-id="14801254" inwerking="2019-01-01" label="Artikel 19" bron="Stb.2018-387" effect="wijziging" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">19</nr>
+    <titel status="officieel">(verstrekking incidentinformatie aan en door centrale contactpunten)</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel19/Lid1" label-id="14801254L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Ter uitvoering van artikel 10, derde lid, eerste volzin, van de NIB-richtlijn stelt het CSIRT voor digitale diensten Onze Minister op de hoogte van gedane meldingen als bedoeld in <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=13&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801164" verwijzing-id="2908892" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel13">artikel 13, eerste lid</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=19&amp;lid=1&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel19/Lid2" label-id="14801254L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Als blijkt uit een melding door een aanbieder van een essentiële dienst van een incident als bedoeld in <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=10&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801134" verwijzing-id="2908893" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel10">artikel 10, eerste lid, onder a, of derde lid</intref>, of <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=4&amp;artikel=16&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801204" verwijzing-id="2908894" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4/Artikel16">artikel 16, eerste lid</intref>, dat het incident aanzienlijke gevolgen heeft voor de continuïteit van een essentiële dienst in een andere lidstaat van de Europese Unie, stelt Onze Minister het centrale contactpunt van die lidstaat daarvan op de hoogte.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=19&amp;lid=2&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel19/Lid3" label-id="14801254L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Op verzoek van de bevoegde autoriteit of uit eigen beweging stuurt Onze Minister de in het tweede lid bedoelde melding door naar het centrale contactpunt van de andere getroffen lidstaat.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=19&amp;lid=3&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel19/Lid4" label-id="14801254L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Als dat passend is en in elk geval als twee of meer lidstaten getroffen zijn, stelt Onze Minister het centrale contactpunt van de getroffen lidstaten op de hoogte van een bij het CSIRT voor digitale diensten gemeld incident als bedoeld in <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=13&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801164" verwijzing-id="2908895" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel13">artikel 13, eerste lid</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=19&amp;lid=4&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel19/Lid5" label-id="14801254L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Als blijkt uit gegevens die Onze Minister heeft ontvangen van een centraal contactpunt in een andere lidstaat dat een daar gemeld incident aanzienlijke gevolgen heeft voor de continuïteit van:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel19/Lid5/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>een essentiële dienst in Nederland: stelt Onze Minister de bevoegde autoriteit daarvan op de hoogte;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=19&amp;lid=5&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel19/Lid5/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>een digitale dienst in Nederland: stelt Onze Minister het CSIRT voor digitale diensten en de bevoegde autoriteit daarvan op de hoogte.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=19&amp;lid=5&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=19&amp;lid=5&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-01-01">01-01-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=19&amp;g=2022-12-01" onderdeel="artikel=19" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=19"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=19&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=19" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=19"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20" stam-id="14849813" versie-id="29035742" id="C41310191" label-id="14801264" inwerking="2022-12-01" label="Artikel 20" bron="Stb.2022-441" effect="wijziging" ondertekening_bron="2022-11-02" publicatie_bron="2022-11-11" publicatie_iwt="2022-11-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">20</nr>
+    <titel status="officieel">(verstrekking van vertrouwelijke gegevens door Onze Minister)</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20/Lid1" label-id="14801264L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Ter uitvoering van de in <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=3&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801024" verwijzing-id="2908896" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3">artikel 3</intref> genoemde taken verstrekt Onze Minister geen vertrouwelijke gegevens met betrekking tot een aanbieder als:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de geheimhouding van die gegevens onvoldoende is gewaarborgd, of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=20&amp;lid=1&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>onvoldoende is gewaarborgd dat zij uitsluitend worden gebruikt voor het doel waarvoor zij worden verstrekt.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=20&amp;lid=1&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=20&amp;lid=1&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20/Lid2" label-id="14801264L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Ter uitvoering van de in <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=2&amp;artikel=3&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801024" verwijzing-id="2908897" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3">artikel 3</intref> genoemde taken kan Onze Minister vertrouwelijke gegevens die herleid kunnen worden tot een aanbieder, zonder diens instemming uitsluitend verstrekken voor zover dat dienstig is aan het bevorderen van maatregelen ter voorkoming of beperking van een verstoring van het maatschappelijk verkeer. Ingevolge de eerste volzin worden uitsluitend gegevens verstrekt aan:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>organisaties die objectief kenbaar tot taak hebben om andere organisaties of het publiek te informeren over dreigingen en incidenten met betrekking tot hun netwerk- en informatiesystemen, aangewezen bij regeling van Onze Minister of behorend tot een bij die regeling aangewezen categorie;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=20&amp;lid=2&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>CSIRT’s;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=20&amp;lid=2&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>andere computercrisisteams, aangewezen bij regeling van Onze Minister of behorend tot een bij die regeling aangewezen categorie;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=20&amp;lid=2&amp;o=c&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de inlichtingen- en veiligheidsdiensten, bedoeld in de <extref doc="jci1.3:c:BWBR0039896" label-id="14096804" verwijzing-id="2908855" bwb-id="BWBR0039896">Wet op de inlichtingen- en veiligheidsdiensten 2017</extref>.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=20&amp;lid=2&amp;o=d&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=20&amp;lid=2&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20/Lid3" label-id="14801264L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Als een vitale aanbieder, of een andere aanbieder die onderdeel is van de rijksoverheid, onvoldoende gevolg geeft aan een door Onze Minister gegeven advies, kan Onze Minister in het advies opgenomen gegevens als bedoeld in het tweede lid verstrekken aan de bevoegde autoriteit of Onze betrokken Minister.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=20&amp;lid=3&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20/Lid4" label-id="14801264L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Voor zover dat noodzakelijk is om ernstige maatschappelijke gevolgen te voorkomen of te beperken:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20/Lid4/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>verstrekt Onze Minister onverwijld gegevens als bedoeld in het tweede lid aan de bevoegde autoriteit of Onze betrokken Minister;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=20&amp;lid=4&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20/Lid4/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>kan Onze Minister, na raadpleging van de betrokken aanbieder, gegevens als bedoeld in het tweede lid verstrekken aan andere organisaties of over die gegevens mededelingen doen aan het publiek.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=20&amp;lid=4&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=20&amp;lid=4&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20/Lid5" label-id="14801264L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Het eerste lid geldt niet voor de in het vierde lid, onder b, bedoelde mededelingen aan het publiek.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=20&amp;lid=5&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20/Lid6" label-id="14801264L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Het tweede lid geldt niet voor zover dat nodig is ter uitvoering van <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=19&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801254" verwijzing-id="2908898" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk5/Artikel19">artikel 19, tweede tot en met vijfde lid</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=20&amp;lid=6&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20/Lid7" label-id="14801264L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>De <extref doc="jci1.3:c:BWBR0045754" label-id="16045964" verwijzing-id="3112065" bwb-id="BWBR0045754">Wet open overheid</extref> is niet van toepassing op gegevens als bedoeld in het tweede lid, behalve voor zover die gegevens milieu-informatie inhouden als bedoeld in <extref doc="jci1.3:c:BWBR0003245&amp;artikel=19.1a" label-id="6225104" verwijzing-id="2908857" bwb-id="BWBR0003245">artikel 19.1a van de Wet milieubeheer</extref>. De eerste volzin geldt ook als de gegevens bij een ander overheidsorgaan berusten na verstrekking op grond van dit artikel.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=20&amp;lid=7&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-441"><publicatiejaar>2022</publicatiejaar><publicatienr>441</publicatienr><uitgiftedatum isodatum="2022-11-11">11-11-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-11-02">02-11-2022</ondertekeningsdatum><dossierref dossier="36084">36084</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-469"><publicatiejaar>2022</publicatiejaar><publicatienr>469</publicatienr><uitgiftedatum isodatum="2022-11-25">25-11-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-11-21">21-11-2022</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-12-01">01-12-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=20&amp;g=2022-12-01" onderdeel="artikel=20" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=20"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=20&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=20" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=20"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel21" stam-id="14849823" versie-id="25386062" id="C36271111" label-id="14801274" inwerking="2019-01-01" label="Artikel 21" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">21</nr>
+    <titel status="officieel">(verstrekking van vertrouwelijke gegevens door het CSIRT voor digitale diensten)</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel21/Lid1" label-id="14801274L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Ter uitvoering van de in bijlage I, onder 2, van de NIB-richtlijn genoemde taken verstrekt het CSIRT voor digitale diensten geen vertrouwelijke gegevens met betrekking tot een digitaledienstverlener als:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel21/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de geheimhouding van die gegevens onvoldoende is gewaarborgd, of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=21&amp;lid=1&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel21/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>onvoldoende is gewaarborgd dat zij uitsluitend worden gebruikt voor het doel waarvoor zij worden verstrekt.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=21&amp;lid=1&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=21&amp;lid=1&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel21/Lid2" label-id="14801274L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Ter uitvoering van de in bijlage I, onder 2, van de NIB-richtlijn genoemde taken kan het CSIRT voor digitale diensten vertrouwelijke gegevens die herleid kunnen worden tot een digitaledienstverlener, zonder diens instemming uitsluitend verstrekken voor zover dat dienstig is aan het bevorderen van maatregelen ter voorkoming of beperking van een verstoring van het maatschappelijk verkeer. Ingevolge de eerste volzin worden uitsluitend gegevens verstrekt aan:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel21/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>CSIRT’s;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=21&amp;lid=2&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel21/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>andere computercrisisteams, aangewezen bij regeling van Onze Minister of behorend tot een bij die regeling aangewezen categorie;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=21&amp;lid=2&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel21/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de inlichtingen- en veiligheidsdiensten, bedoeld in de <extref doc="jci1.3:c:BWBR0039896" label-id="14096804" verwijzing-id="2908858" bwb-id="BWBR0039896">Wet op de inlichtingen- en veiligheidsdiensten 2017</extref>.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=21&amp;lid=2&amp;o=c&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=21&amp;lid=2&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel21/Lid3" label-id="14801274L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Als een digitaledienstverlener onvoldoende gevolg geeft aan een door het CSIRT voor digitale diensten gegeven advies, kan het CSIRT voor digitale diensten in het advies opgenomen gegevens als bedoeld in het tweede lid verstrekken aan de bevoegde autoriteit of Onze Minister van Economische Zaken en Klimaat.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=21&amp;lid=3&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel21/Lid4" label-id="14801274L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Voor zover dat noodzakelijk is om ernstige economische of sociale gevolgen te voorkomen of te beperken verstrekt het CSIRT voor digitale diensten onverwijld gegevens als bedoeld in het tweede lid aan de bevoegde autoriteit of Onze betrokken Minister.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=21&amp;lid=4&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel21/Lid5" label-id="14801274L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Het tweede lid geldt niet voor zover dat nodig is ter uitvoering van <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=19&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801254" verwijzing-id="2908899" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk5/Artikel19">artikel 19, eerste lid</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=21&amp;lid=5&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel21/Lid6" label-id="14801274L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>
+      <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=20&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801264" verwijzing-id="2908900" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20">Artikel 20, zevende lid</intref>, is van overeenkomstige toepassing op gegevens als bedoeld in het tweede lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=21&amp;lid=6&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-01-01">01-01-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=21&amp;g=2022-12-01" onderdeel="artikel=21" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=21"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=21&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=21" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=21"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel22" stam-id="14849833" versie-id="25386072" id="C36271331" label-id="14801284" inwerking="2018-11-09" label="Artikel 22" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">22</nr>
+    <titel status="officieel">(verstrekking van vertrouwelijke gegevens door de bevoegde autoriteit)</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel22/Lid1" label-id="14801284L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Ter uitvoering van de in <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=3&amp;artikel=4&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801044" verwijzing-id="2908901" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel4">artikel 4, derde lid</intref>, genoemde taak verstrekt de bevoegde autoriteit geen vertrouwelijke gegevens met betrekking tot een aanbieder van een essentiële dienst of een digitaledienstverlener die zij ingevolge deze wet verkrijgt, als:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel22/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de geheimhouding van die gegevens onvoldoende is geborgd, of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=22&amp;lid=1&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel22/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>onvoldoende is gewaarborgd dat zij uitsluitend worden gebruikt voor het doel waarvoor zij worden verstrekt.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=22&amp;lid=1&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=22&amp;lid=1&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel22/Lid2" label-id="14801284L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>
+      <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=20&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801264" verwijzing-id="2908902" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20">Artikel 20, zevende lid</intref>, is van overeenkomstige toepassing op vertrouwelijke gegevens als bedoeld in het eerste lid die herleid kunnen worden tot een aanbieder van een essentiële dienst of een digitaledienstverlener.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=22&amp;lid=2&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=22&amp;g=2022-12-01" onderdeel="artikel=22" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=22"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=22&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=22" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=22"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel23" stam-id="14849843" versie-id="25386082" id="C36271191" label-id="14801294" inwerking="2018-11-09" label="Artikel 23" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">23</nr>
+    <titel status="officieel">(openbaarmaking incidenten)</titel>
+  </kop>
+  <al>Onverminderd <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=20&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801264" verwijzing-id="2908903" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20">artikel 20, vierde lid, onder b</intref>, kan de bevoegde autoriteit, na raadpleging van de betrokken aanbieder:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel23/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>als publieke bewustwording nodig is om een incident te voorkomen of een lopend incident te beheersen: het publiek informeren over een gemeld incident als bedoeld in <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=10&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801134" verwijzing-id="2908904" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel10">artikel 10, eerste lid, onder a</intref>, of vorderen dat de aanbieder dit doet;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=23&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel23/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>als publieke bewustwording nodig is om een incident te voorkomen of een lopend incident te beheersen, of wanneer de openbaarmaking van het incident anderszins in het algemeen belang is: het publiek informeren over een gemeld incident als bedoeld in <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=13&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801164" verwijzing-id="2908905" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel13">artikel 13, eerste lid</intref>, of vorderen dat de digitaledienstverlener dit doet.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=23&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=23&amp;g=2022-12-01" onderdeel="artikel=23" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=23"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;artikel=23&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=23" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=23"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;hoofdstuk=5&amp;g=2022-12-01" onderdeel="hoofdstuk=5" korte-verwijzing="1.0:c:BWBR0041515&amp;hoofdstuk=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="hoofdstuk=5" korte-verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=5"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk6" stam-id="14849923" versie-id="25386162" id="C36271061" label-id="14801374" inwerking="2018-11-09" label="Hoofdstuk 6" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">6</nr>
+    <titel status="officieel">Handhaving</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Artikel24" stam-id="14849863" versie-id="25386102" id="C36271181" label-id="14801314" inwerking="2018-11-09" label="Artikel 24" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">24</nr>
+    <titel status="officieel">(reikwijdte)</titel>
+  </kop>
+  <al>Dit hoofdstuk is alleen van toepassing op aanbieders van een essentiële dienst en digitaledienstverleners.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=24&amp;g=2022-12-01" onderdeel="artikel=24" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=24"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=24&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=24" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=24"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Artikel25" stam-id="14849873" versie-id="25386112" id="C36271471" label-id="14801324" inwerking="2018-11-09" label="Artikel 25" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">25</nr>
+    <titel status="officieel">(toezichthoudende personen)</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Artikel25/Lid1" label-id="14801324L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van de bevoegde autoriteit aangewezen personen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=25&amp;lid=1&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Artikel25/Lid2" label-id="14801324L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=25&amp;lid=2&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=25&amp;g=2022-12-01" onderdeel="artikel=25" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=25"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=25&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=25" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=25"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Artikel26" stam-id="14849883" versie-id="25386122" id="C36271021" label-id="14801334" inwerking="2018-11-09" label="Artikel 26" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">26</nr>
+    <titel status="officieel">(beveiligingsaudit)</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Artikel26/Lid1" label-id="14801334L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De bevoegde autoriteit kan een aanbieder van een essentiële dienst bij besluit de verplichting opleggen dat de aanbieder:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk6/Artikel26/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>een onafhankelijke deskundige laat onderzoeken of de door de aanbieder genomen maatregelen voldoen aan de <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=2&amp;artikel=7&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801094" verwijzing-id="2908906" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf2/Artikel7">artikelen 7</intref> en <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=2&amp;artikel=8&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801104" verwijzing-id="2908907" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf2/Artikel8">8</intref> en aan de nadere regels, bedoeld in <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=2&amp;artikel=9&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801114" verwijzing-id="2908908" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf2/Artikel9">artikel 9</intref>, en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=26&amp;lid=1&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk6/Artikel26/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de resultaten van dat onderzoek binnen een bij het besluit gestelde redelijke termijn verstrekt aan de bevoegde autoriteit.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=26&amp;lid=1&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=26&amp;lid=1&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Artikel26/Lid2" label-id="14801334L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het onderzoek wordt uitgevoerd op een door de bevoegde autoriteit voorgeschreven wijze.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=26&amp;lid=2&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Artikel26/Lid3" label-id="14801334L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Tenzij bij algemene maatregel van bestuur anders is bepaald, draagt de aanbieder de kosten van het onderzoek.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=26&amp;lid=3&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Artikel26/Lid4" label-id="14801334L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het eerste en tweede lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=26&amp;lid=4&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=26&amp;g=2022-12-01" onderdeel="artikel=26" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=26"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=26&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=26" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=26"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Artikel27" stam-id="14849893" versie-id="25386132" id="C36271461" label-id="14801344" inwerking="2018-11-09" label="Artikel 27" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">27</nr>
+    <titel status="officieel">(bindende aanwijzing)</titel>
+  </kop>
+  <al>De bevoegde autoriteit kan degene die niet voldoet aan <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=2&amp;artikel=7&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801094" verwijzing-id="2908909" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf2/Artikel7">artikel 7</intref> of <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=2&amp;artikel=8&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801104" verwijzing-id="2908910" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf2/Artikel8">8</intref> of aan de nadere regels, bedoeld in <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=2&amp;artikel=9&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801114" verwijzing-id="2908911" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf2/Artikel9">artikel 9</intref>, door middel van het geven van een aanwijzing verplichten om binnen een daarbij gestelde redelijke termijn de daarbij omschreven maatregelen te nemen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=27&amp;g=2022-12-01" onderdeel="artikel=27" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=27"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=27&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=27" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=27"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Artikel28" stam-id="14849903" versie-id="27628952" id="C39206181" label-id="14801354" inwerking="2021-07-01" label="Artikel 28" bron="Stb.2021-135" effect="wijziging" ondertekening_bron="2021-03-03" publicatie_bron="2021-03-17" publicatie_iwt="2021-06-02" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">28</nr>
+    <titel status="officieel">(last onder bestuursdwang)</titel>
+  </kop>
+  <al>De bevoegde autoriteit is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens deze wet.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-135"><publicatiejaar>2021</publicatiejaar><publicatienr>135</publicatienr><uitgiftedatum isodatum="2021-03-17">17-03-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-03-03">03-03-2021</ondertekeningsdatum><dossierref dossier="35256">35256</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-254"><publicatiejaar>2021</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2021-06-02">02-06-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-05-18">18-05-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=28&amp;g=2022-12-01" onderdeel="artikel=28" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=28"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=28&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=28" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=28"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Artikel29" stam-id="14849913" versie-id="25386152" id="C36271451" label-id="14801364" inwerking="2018-11-09" label="Artikel 29" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">29</nr>
+    <titel status="officieel">(bestuurlijke boete)</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Artikel29/Lid1" label-id="14801364L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De bevoegde autoriteit kan aan de overtreder een bestuurlijke boete opleggen in geval van:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk6/Artikel29/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>overtreding van het bepaalde bij of krachtens deze wet;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=29&amp;lid=1&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk6/Artikel29/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>overtreding van <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:20" label-id="2820074" verwijzing-id="2908860" bwb-id="BWBR0005537">artikel 5:20, eerste lid, van de Algemene wet bestuursrecht</extref>.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=29&amp;lid=1&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=29&amp;lid=1&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Artikel29/Lid2" label-id="14801364L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De boete bedraagt ten hoogste:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk6/Artikel29/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>in geval van overtreding van <intref doc="jci1.3:c:BWBR0041515&amp;hoofdstuk=4&amp;paragraaf=3&amp;artikel=12&amp;z=2022-12-01&amp;g=2022-12-01" label-id="14801154" verwijzing-id="2908912" bwb-id="BWBR0041515" bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf3/Artikel12">artikel 12</intref> of van <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:20" label-id="2820074" verwijzing-id="2908861" bwb-id="BWBR0005537">artikel 5:20, eerste lid, van de Algemene wet bestuursrecht</extref>: 1 miljoen euro;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=29&amp;lid=2&amp;o=a&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk6/Artikel29/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>in geval van een andere overtreding: 5 miljoen euro.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=29&amp;lid=2&amp;o=b&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=29&amp;lid=2&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Artikel29/Lid3" label-id="14801364L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De werking van het besluit tot oplegging van de boete wordt opgeschort totdat de beroepstermijn is verstreken of, als beroep is ingesteld, op het beroep is beslist.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=29&amp;lid=3&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Artikel29/Lid4" label-id="14801364L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Verzet schorst de tenuitvoerlegging van een dwangbevel dat strekt tot invordering van de boete.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=29&amp;lid=4&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Artikel29/Lid5" label-id="14801364L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>
+      <extref doc="jci1.3:c:BWBR0001854&amp;artikel=184" label-id="2966344" verwijzing-id="2908862" bwb-id="BWBR0001854">Artikel 184 van het Wetboek van Strafrecht</extref> is niet van toepassing op de overtreding, bedoeld in het eerste lid, onder b.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=29&amp;lid=5&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=29&amp;g=2022-12-01" onderdeel="artikel=29" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=29"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;artikel=29&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=29" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=29"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;hoofdstuk=6&amp;g=2022-12-01" onderdeel="hoofdstuk=6" korte-verwijzing="1.0:c:BWBR0041515&amp;hoofdstuk=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="hoofdstuk=6" korte-verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=6"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk7" stam-id="14850003" versie-id="25386242" id="C36271091" label-id="14801454" inwerking="2018-11-09" label="Hoofdstuk 7" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">7</nr>
+    <titel status="officieel">Slotbepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk7/Artikel30" stam-id="14849933" versie-id="25386172" id="C36271391" label-id="14801384" inwerking="2018-11-09" label="Artikel 30" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">30</nr>
+    <titel status="officieel">(wijziging <extref doc="jci1.3:c:BWBR0005537" label-id="2816734" verwijzing-id="2908863" bwb-id="BWBR0005537">Algemene wet bestuursrecht</extref>)</titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Algemene wet bestuursrecht.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=30&amp;g=2022-12-01" onderdeel="artikel=30" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=30"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=7&amp;artikel=30&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=30" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=30"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk7/Artikel31" stam-id="14849943" versie-id="25386182" id="C36271271" label-id="14801394" inwerking="2018-11-09" label="Artikel 31" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">31</nr>
+    <titel status="officieel">(samenloop met wetsvoorstel Wet bekostiging financieel toezicht 2019)</titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet bekostiging financieel toezicht 2019.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=31&amp;g=2022-12-01" onderdeel="artikel=31" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=31"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=7&amp;artikel=31&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=31" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=31"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk7/Artikel32" stam-id="14849953" versie-id="25386192" id="C36271171" label-id="14801404" inwerking="2018-11-09" label="Artikel 32" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">32</nr>
+    <titel status="officieel">(samenloop met <extref doc="jci1.3:c:BWBR0039896" label-id="14096804" verwijzing-id="2908864" bwb-id="BWBR0039896">Wet op de inlichtingen- en veiligheidsdiensten 2017</extref>)</titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt deze wet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=32&amp;g=2022-12-01" onderdeel="artikel=32" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=32"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=7&amp;artikel=32&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=32" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=32"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk7/Artikel33" stam-id="14849963" versie-id="25386202" id="C36271311" label-id="14801414" inwerking="2018-11-09" label="Artikel 33" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">33</nr>
+    <titel status="officieel">(samenloop met wetsvoorstel Wet open overheid)</titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet open overheid.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=33&amp;g=2022-12-01" onderdeel="artikel=33" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=33"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=7&amp;artikel=33&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=33" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=33"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk7/Artikel34" stam-id="14849973" versie-id="25386212" id="C36271441" label-id="14801424" inwerking="2018-11-09" label="Artikel 34" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">34</nr>
+    <titel status="officieel">(intrekking <extref doc="jci1.3:c:BWBR0039866" label-id="14055164" verwijzing-id="2908865" bwb-id="BWBR0039866">Wet gegevensverwerking en meldplicht cybersecurity</extref>)</titel>
+  </kop>
+  <al>De <extref doc="jci1.3:c:BWBR0039866" label-id="14055164" verwijzing-id="2908866" bwb-id="BWBR0039866">Wet gegevensverwerking en meldplicht cybersecurity</extref> wordt ingetrokken.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=34&amp;g=2022-12-01" onderdeel="artikel=34" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=34"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=7&amp;artikel=34&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=34" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=34"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk7/Artikel35" stam-id="14849983" versie-id="25386222" id="C36271381" label-id="14801434" inwerking="2018-11-09" label="Artikel 35" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">35</nr>
+    <titel status="officieel">(inwerkingtreding)</titel>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, voor verschillende taken of voor verschillende categorieën van aanbieders of diensten verschillend kan worden vastgesteld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=35&amp;g=2022-12-01" onderdeel="artikel=35" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=35"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=7&amp;artikel=35&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=35" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=35"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk7/Artikel36" stam-id="14849993" versie-id="25386232" id="C36271301" label-id="14801444" inwerking="2018-11-09" label="Artikel 36" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">36</nr>
+    <titel status="officieel">(citeertitel)</titel>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet beveiliging netwerk- en informatiesystemen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;artikel=36&amp;g=2022-12-01" onderdeel="artikel=36" korte-verwijzing="1.0:c:BWBR0041515&amp;artikel=36"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=7&amp;artikel=36&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="artikel=36" korte-verwijzing="jci1.3:c:BWBR0041515&amp;artikel=36"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;hoofdstuk=7&amp;g=2022-12-01" onderdeel="hoofdstuk=7" korte-verwijzing="1.0:c:BWBR0041515&amp;hoofdstuk=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=7&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="hoofdstuk=7" korte-verwijzing="jci1.3:c:BWBR0041515&amp;hoofdstuk=7"/></jcis></meta-data></hoofdstuk>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="14850013" versie-id="25386252" id="C36271361" label-id="14801464" inwerking="2018-11-09" bron="Stb.2018-387" effect="nieuwe-regeling" ondertekening_bron="2018-10-17" publicatie_bron="2018-11-08" publicatie_iwt="2018-11-08" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>Wassenaar</plaats>
+      <datum isodatum="2018-10-17">17 oktober 2018</datum>
+    </dagtekening>
+    <koning>Willem-Alexander</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Justitie en Veiligheid,</functie>
+    <naam>
+      <voornaam>F.B.J.</voornaam>
+      <achternaam>Grapperhaus</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2018-11-08">de <nadruk type="cur">achtste</nadruk> november 2018</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie en Veiligheid,</functie>
+      <naam>
+        <voornaam>F.B.J.</voornaam>
+        <achternaam>Grapperhaus</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-387"><publicatiejaar>2018</publicatiejaar><publicatienr>387</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-17">17-10-2018</ondertekeningsdatum><dossierref dossier="34883">34883</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2018-389"><publicatiejaar>2018</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2018-11-08">08-11-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-10-30">30-10-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-11-09">09-11-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0041515&amp;g=2022-12-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0041515"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0041515&amp;z=2022-12-01&amp;g=2022-12-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0041515"/></jcis></meta-data></wetgeving></toestand>

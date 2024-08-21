@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0028822/2011-04-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0028822" inwerkingtreding="2011-04-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="11035353" versie-id="18028812" id="C25730871" label-id="11009754" inwerkingtredingsdatum="2011-04-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="11035373" versie-id="18028722" id="C25730781" label-id="11009664" inwerking="2011-04-01" bron="Stb.2010-716" effect="nieuwe-regeling" ondertekening_bron="2010-09-20" publicatie_bron="2010-10-12" publicatie_iwt="2011-03-14" status="goed">Wet van 20 september 2010 tot wijziging van de Wet Nationale ombudsman in verband met de instelling van de Kinderombudsman (Wet Kinderombudsman)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2010-716"><publicatiejaar>2010</publicatiejaar><publicatienr>716</publicatienr><uitgiftedatum isodatum="2010-10-12">12-10-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-09-20">20-09-2010</ondertekeningsdatum><dossierref dossier="31831">31831</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2011-127"><publicatiejaar>2011</publicatiejaar><publicatienr>127</publicatienr><uitgiftedatum isodatum="2011-03-14">14-03-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-03-02">02-03-2011</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2011-04-01">01-04-2011</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="11035383" versie-id="18028732" id="C25730791" label-id="11009674" inwerking="2011-04-01" bron="Stb.2010-716" effect="nieuwe-regeling" ondertekening_bron="2010-09-20" publicatie_bron="2010-10-12" publicatie_iwt="2011-03-14">Wet Kinderombudsman<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2010-716"><publicatiejaar>2010</publicatiejaar><publicatienr>716</publicatienr><uitgiftedatum isodatum="2010-10-12">12-10-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-09-20">20-09-2010</ondertekeningsdatum><dossierref dossier="31831">31831</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2011-127"><publicatiejaar>2011</publicatiejaar><publicatienr>127</publicatienr><uitgiftedatum isodatum="2011-03-14">14-03-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-03-02">02-03-2011</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2011-04-01">01-04-2011</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="11035393" versie-id="18028742" id="C25730801" label-id="11009684" inwerking="2011-04-01" bron="Stb.2010-716" effect="nieuwe-regeling" ondertekening_bron="2010-09-20" publicatie_bron="2010-10-12" publicatie_iwt="2011-03-14" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is een Kinderombudsman in te stellen die zich bezig houdt met de belangen van jeugdigen;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2010-716"><publicatiejaar>2010</publicatiejaar><publicatienr>716</publicatienr><uitgiftedatum isodatum="2010-10-12">12-10-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-09-20">20-09-2010</ondertekeningsdatum><dossierref dossier="31831">31831</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2011-127"><publicatiejaar>2011</publicatiejaar><publicatienr>127</publicatienr><uitgiftedatum isodatum="2011-03-14">14-03-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-03-02">02-03-2011</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2011-04-01">01-04-2011</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/ArtikelI" stam-id="11035403" versie-id="18028752" id="C25730811" label-id="11009694" inwerking="2011-04-01" label="Artikel I" bron="Stb.2010-716" effect="nieuwe-regeling" ondertekening_bron="2010-09-20" publicatie_bron="2010-10-12" publicatie_iwt="2011-03-14" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">I</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet Nationale ombudsman.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2010-716"><publicatiejaar>2010</publicatiejaar><publicatienr>716</publicatienr><uitgiftedatum isodatum="2010-10-12">12-10-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-09-20">20-09-2010</ondertekeningsdatum><dossierref dossier="31831">31831</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2011-127"><publicatiejaar>2011</publicatiejaar><publicatienr>127</publicatienr><uitgiftedatum isodatum="2011-03-14">14-03-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-03-02">02-03-2011</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2011-04-01">01-04-2011</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0028822&amp;artikel=I&amp;g=2011-04-01" onderdeel="artikel=I" korte-verwijzing="1.0:c:BWBR0028822&amp;artikel=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0028822&amp;artikel=I&amp;z=2011-04-01&amp;g=2011-04-01" onderdeel="artikel=I" korte-verwijzing="jci1.3:c:BWBR0028822&amp;artikel=I"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelII" stam-id="11035413" versie-id="18028762" id="C25730821" label-id="11009704" inwerking="2011-04-01" label="Artikel II" bron="Stb.2010-716" effect="nieuwe-regeling" ondertekening_bron="2010-09-20" publicatie_bron="2010-10-12" publicatie_iwt="2011-03-14" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">II</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt deze wet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2010-716"><publicatiejaar>2010</publicatiejaar><publicatienr>716</publicatienr><uitgiftedatum isodatum="2010-10-12">12-10-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-09-20">20-09-2010</ondertekeningsdatum><dossierref dossier="31831">31831</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2011-127"><publicatiejaar>2011</publicatiejaar><publicatienr>127</publicatienr><uitgiftedatum isodatum="2011-03-14">14-03-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-03-02">02-03-2011</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2011-04-01">01-04-2011</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0028822&amp;artikel=II&amp;g=2011-04-01" onderdeel="artikel=II" korte-verwijzing="1.0:c:BWBR0028822&amp;artikel=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0028822&amp;artikel=II&amp;z=2011-04-01&amp;g=2011-04-01" onderdeel="artikel=II" korte-verwijzing="jci1.3:c:BWBR0028822&amp;artikel=II"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIII" stam-id="11035423" versie-id="18028772" id="C25730831" label-id="11009714" inwerking="2011-04-01" label="Artikel III" bron="Stb.2010-716" effect="nieuwe-regeling" ondertekening_bron="2010-09-20" publicatie_bron="2010-10-12" publicatie_iwt="2011-03-14" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">III</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2010-716"><publicatiejaar>2010</publicatiejaar><publicatienr>716</publicatienr><uitgiftedatum isodatum="2010-10-12">12-10-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-09-20">20-09-2010</ondertekeningsdatum><dossierref dossier="31831">31831</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2011-127"><publicatiejaar>2011</publicatiejaar><publicatienr>127</publicatienr><uitgiftedatum isodatum="2011-03-14">14-03-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-03-02">02-03-2011</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2011-04-01">01-04-2011</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0028822&amp;artikel=III&amp;g=2011-04-01" onderdeel="artikel=III" korte-verwijzing="1.0:c:BWBR0028822&amp;artikel=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0028822&amp;artikel=III&amp;z=2011-04-01&amp;g=2011-04-01" onderdeel="artikel=III" korte-verwijzing="jci1.3:c:BWBR0028822&amp;artikel=III"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIV" stam-id="11035433" versie-id="18028782" id="C25730841" label-id="11009724" inwerking="2011-04-01" label="Artikel IV" bron="Stb.2010-716" effect="nieuwe-regeling" ondertekening_bron="2010-09-20" publicatie_bron="2010-10-12" publicatie_iwt="2011-03-14" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">IV</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2010-716"><publicatiejaar>2010</publicatiejaar><publicatienr>716</publicatienr><uitgiftedatum isodatum="2010-10-12">12-10-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-09-20">20-09-2010</ondertekeningsdatum><dossierref dossier="31831">31831</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2011-127"><publicatiejaar>2011</publicatiejaar><publicatienr>127</publicatienr><uitgiftedatum isodatum="2011-03-14">14-03-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-03-02">02-03-2011</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2011-04-01">01-04-2011</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0028822&amp;artikel=IV&amp;g=2011-04-01" onderdeel="artikel=IV" korte-verwijzing="1.0:c:BWBR0028822&amp;artikel=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0028822&amp;artikel=IV&amp;z=2011-04-01&amp;g=2011-04-01" onderdeel="artikel=IV" korte-verwijzing="jci1.3:c:BWBR0028822&amp;artikel=IV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelV" stam-id="11035443" versie-id="18028792" id="C25730851" label-id="11009734" inwerking="2011-04-01" label="Artikel V" bron="Stb.2010-716" effect="nieuwe-regeling" ondertekening_bron="2010-09-20" publicatie_bron="2010-10-12" publicatie_iwt="2011-03-14" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">V</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet Kinderombudsman.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2010-716"><publicatiejaar>2010</publicatiejaar><publicatienr>716</publicatienr><uitgiftedatum isodatum="2010-10-12">12-10-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-09-20">20-09-2010</ondertekeningsdatum><dossierref dossier="31831">31831</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2011-127"><publicatiejaar>2011</publicatiejaar><publicatienr>127</publicatienr><uitgiftedatum isodatum="2011-03-14">14-03-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-03-02">02-03-2011</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2011-04-01">01-04-2011</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0028822&amp;artikel=V&amp;g=2011-04-01" onderdeel="artikel=V" korte-verwijzing="1.0:c:BWBR0028822&amp;artikel=V"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0028822&amp;artikel=V&amp;z=2011-04-01&amp;g=2011-04-01" onderdeel="artikel=V" korte-verwijzing="jci1.3:c:BWBR0028822&amp;artikel=V"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="11035453" versie-id="18028802" id="C25730861" label-id="11009744" inwerking="2011-04-01" bron="Stb.2010-716" effect="nieuwe-regeling" ondertekening_bron="2010-09-20" publicatie_bron="2010-10-12" publicatie_iwt="2011-03-14" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>’s-Gravenhage</plaats>
+      <datum isodatum="2010-09-20">20 september 2010</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Binnenlandse Zaken en Koninkrijksrelaties,</functie>
+    <naam>
+      <voornaam>E. M. H.</voornaam>
+      <achternaam>Hirsch Ballin</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>DeMinistervoorJeugd en Gezin,</functie>
+    <naam>
+      <voornaam>A.</voornaam>
+      <achternaam>Rouvoet</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2010-10-12">de <nadruk type="cur">twaalfde</nadruk> oktober 2010</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <voornaam>E. M. H.</voornaam>
+        <achternaam>Hirsch Ballin</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2010-716"><publicatiejaar>2010</publicatiejaar><publicatienr>716</publicatienr><uitgiftedatum isodatum="2010-10-12">12-10-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-09-20">20-09-2010</ondertekeningsdatum><dossierref dossier="31831">31831</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2011-127"><publicatiejaar>2011</publicatiejaar><publicatienr>127</publicatienr><uitgiftedatum isodatum="2011-03-14">14-03-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-03-02">02-03-2011</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2011-04-01">01-04-2011</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2010-716"><publicatiejaar>2010</publicatiejaar><publicatienr>716</publicatienr><uitgiftedatum isodatum="2010-10-12">12-10-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-09-20">20-09-2010</ondertekeningsdatum><dossierref dossier="31831">31831</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2011-127"><publicatiejaar>2011</publicatiejaar><publicatienr>127</publicatienr><uitgiftedatum isodatum="2011-03-14">14-03-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-03-02">02-03-2011</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2011-04-01">01-04-2011</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0028822&amp;g=2011-04-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0028822"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0028822&amp;z=2011-04-01&amp;g=2011-04-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0028822"/></jcis></meta-data></wetgeving></toestand>

@@ -1,0 +1,41 @@
+Je krijgt 2 dingen. 1: Een vraag en 2: Een array (lijst) van 5 documenten die zijn opgehaald met BM25. Deze documenten bevatten mogelijk relevante inhoud voor de vraag uit een grote verzameling teksten.
+
+Jouw taak is om 2 dingen te genereren: 1. Een antwoord op de vraag op basis van de aangeleverde documenten en 2. Een lijst van verwijzingen naar de documenten die je hebt gebruikt voor je antwoord. Let op, niet alle documenten zijn relevant voor het antwoord. BM25 haalt de documenten op die waarschijnlijk het meest relevant zijn.
+
+INSTRUCTIES:
+GEBRUIK NIET ALLE DOCUMENTEN! Niet allen zijn relevant, ookal lijkt dat zo. Bedenk zelf welke documenten daadwerkelijk direct relevant voor je antwoord zijn.
+Geef alleen met het antwoord en met de relevante DOC_ID die je direct hebt gebruikt hebt voor je antwoord.
+
+LEG GEEN ANALYSE OF DENK STAPPEN UIT. GEEF GEEN ANALYSE PER DOCUMENT. GEEF ALLEEN HET EIND ANTWOORD OP DE VRAAG.
+SCHRIJF DAARNA AAN HET EINDE ALLEEN DE DOC ID DIE JE HEBT GEBRUIKT. NIET ALLEN ZIJN RELEVANT VOOR JE ANTWOORD.
+
+GEBRUIK HET VOLGENDE FORMAT:
+"ANTWOORD: ...[DOOR JOU IN TE VULLEN]..."
+"DOC IDS: ...[DOOR JOU IN TE VULLEN]..."
+
+NU KOMT ER 1 VOORBEELD INPUT EN OUTPUT:
+
+VOORBEELD INPUT:
+Vraag: Wanneer wordt het koninklijk gezag uitgeoefend door een regent?
+Potentieel relevante documenten:
+DOC_ID: DOC1536, law_name: Grondwet, hoofdstuk: Hoofdstuk2, artikel: Artikel 37, text: het koninklijk gezag wordt uitgeoefend door een regent: zolang de koning de leeftijd van achttien jaar niet heeft bereikt; indien een nog niet geboren kind tot het koningschap geroepen kan zijn; indien de koning buiten staat is verklaard het koninklijk gezag uit te oefenen; indien de koning de uitoefening van het koninklijk gezag tijdelijk heeft neergelegd; zolang na het overlijden van de koning of na diens afstand van het koningschap een opvolger ontbreekt. de regent wordt benoemd bij de wet. de staten-generaal beraadslagen en besluiten ter zake in verenigde vergadering.
+DOC_ID: DOC1538, law_name: Grondwet, hoofdstuk: Hoofdstuk2, artikel: Artikel 38, text: zolang niet in de uitoefening van het koninklijk gezag is voorzien, wordt dit uitgeoefend door de raad van state.
+DOC_ID: DOC1533, law_name: Grondwet, hoofdstuk: Hoofdstuk2, artikel: Artikel 35, text: wanneer de ministerraad van oordeel enz.
+DOC_ID: DOC1667, law_name: Grondwet, hoofdstuk: Hoofdstuk, artikel: Artikel XIX, text: het formulier van
+DOC_ID: DOC1535, law_name: Grondwet, hoofdstuk: Hoofdstuk2, afdeling: Paragraaf1, artikel: Artikel 36, text: de koning kan enz.
+
+VOORBEELD OUTPUT:
+ANTWOORD: Het koninklijk gezag wordt uitgeoefend door een regent: a. zolang de Koning de leeftijd van achttien jaar niet heeft bereikt; b. indien een nog niet geboren kind tot het koningschap geroepen kan zijn; c. indien de Koning buiten staat is verklaard het koninklijk gezag uit te oefenen; d. indien de Koning de uitoefening van het koninklijk gezag tijdelijk heeft neergelegd; e. zolang na het overlijden van de Koning of na diens afstand van het koningschap een opvolger ontbreekt.
+DOC IDS: DOC1536
+
+DIT IS HET EINDE VAN HET VOORBEELD.
+
+HERHALING INSTRUCTIES
+Reageer alleen met het ANTWOORD EN DAARNA met de DOCID. Start je antwoord met "ANTWOORD:". Start de lijst van verwijzingen met "DOC IDS:" GEEF ENKEL HIER DE DOC_IDs VAN DE DOCUMENTEN DIRECT RELEVANT VOOR JE ANTWOORD. GEEF GEEN UITLEG WAAROM DEZE DOCUMENTEN RELEVANT ZIJN. HOUD JE AAN HET GESPECIFICEERDE FORMAT.
+"ANTWOORD: ...[DOOR JOU IN TE VULLEN]..."
+"DOC IDS: ...[DOOR JOU IN TE VULLEN]..."
+
+Nu start jouw taak. Nu komt de vraag die je moet beantwoorden door met de documenten opgehaald door BM25! Baseer je antwoord op de gegeven documenten die daadwerlijke relevant zijn. Geef enkel je eind antwoord en de DOC IDS van de documenten die je gebruikt hebt.
+
+START TAAK:
+

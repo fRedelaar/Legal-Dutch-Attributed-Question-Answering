@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0049412/2024-07-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0049412" inwerkingtreding="2024-07-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="17039953" versie-id="29983042" id="C43071971" label-id="16949684" inwerkingtredingsdatum="2024-07-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="17039973" versie-id="29982762" id="C43072061" label-id="16949404" inwerking="2024-07-01" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">Wet van 14 februari 2024 houdende regels omtrent de instelling van een adviescollege voor de algehele verbetering en beheersing van ICT-projecten en informatiesystemen bij de centrale overheid (Wet Adviescollege ICT-toetsing)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="17039983" versie-id="29982772" id="C43072041" label-id="16949414" inwerking="2024-07-01" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17">Wet Adviescollege ICT-toetsing<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="17039993" versie-id="29982782" id="C43071981" label-id="16949424" inwerking="2024-07-01" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is een adviescollege in te stellen dat de regering en de Staten-Generaal adviseert over de risico’s en slaagkansen van ICT-projecten en informatiesystemen bij de centrale overheid en door kennisoverdracht en kennisbevordering het lerend vermogen daaromtrent bevordert;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf1" stam-id="17040013" versie-id="29982802" id="C43072011" label-id="16949444" inwerking="2024-07-01" label="§ 1" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">1</nr>
+    <titel status="officieel">Algemene bepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf1/Artikel1" stam-id="17040003" versie-id="29982792" id="C43072101" label-id="16949434" inwerking="2024-07-01" label="Artikel 1" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>In deze wet wordt verstaan onder:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel1/Onderdeel._1">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">Adviescollege:</nadruk> het Adviescollege ICT-toetsing, bedoeld in <intref doc="jci1.3:c:BWBR0049412&amp;paragraaf=2&amp;artikel=2&amp;z=2024-07-01&amp;g=2024-07-01" label-id="16949454" verwijzing-id="3295427" bwb-id="BWBR0049412" bwb-ng-variabel-deel="/Paragraaf2/Artikel2">artikel 2</intref>;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel1/Onderdeel._2">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">centrale overheid:</nadruk> de ministeries, de krachtens publiekrecht ingestelde zelfstandige bestuursorganen als bedoeld in <extref doc="jci1.3:c:BWBR0020495&amp;artikel=4" label-id="8725754" verwijzing-id="3295415" bwb-id="BWBR0020495">artikel 4 van de Kaderwet zelfstandige bestuursorganen</extref>, de politie en de Raad voor de rechtspraak;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel1/Onderdeel._3">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">ICT-project:</nadruk> een project of programma, dan wel projecten of programma’s die onderlinge samenhang hebben, van de centrale overheid waarvan de kosten voor de ICT-componenten over de gehele looptijd van het project of programma ten minste € 5.000.000 bedragen;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel1/Onderdeel._4">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">informatiesysteem:</nadruk> een samenhangend geheel van gegevensverzamelingen, procedures, processen en programmatuur van de centrale overheid, alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel1/Onderdeel._5">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">korpschef van politie:</nadruk> de korpschef, bedoeld in <extref doc="jci1.3:c:BWBR0031788&amp;artikel=27" label-id="11763274" verwijzing-id="3295416" bwb-id="BWBR0031788">artikel 27 van de Politiewet 2012</extref>;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel1/Onderdeel._6">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">Onze Minister:</nadruk> Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel1/Onderdeel._7">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">Onze Minister die verantwoordelijk is voor de ICT-voorziening:</nadruk> Onze Minister die verantwoordelijk is voor het ICT-project of het informatiesysteem waarop het advies betrekking heeft;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel1/Onderdeel._8">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">Onze Minister die het aangaat:</nadruk> Onze Minister die de eerste ondertekenaar is van de wet of lagere regelgeving bij welke een zelfstandig bestuursorgaan is ingesteld;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Paragraaf1/Artikel1/Onderdeel._9">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">zelfstandig bestuursorgaan:</nadruk> een krachtens publiekrecht ingesteld zelfstandig bestuursorgaan als bedoeld in <extref doc="jci1.3:c:BWBR0020495&amp;artikel=4" label-id="8725754" verwijzing-id="3295417" bwb-id="BWBR0020495">artikel 4 van de Kaderwet zelfstandige bestuursorganen</extref>.</al>
+    </li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;artikel=1&amp;g=2024-07-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0049412&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=1&amp;artikel=1&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0049412&amp;artikel=1"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;paragraaf=1&amp;g=2024-07-01" onderdeel="paragraaf=1" korte-verwijzing="1.0:c:BWBR0049412&amp;paragraaf=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=1&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="paragraaf=1" korte-verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=1"/></jcis></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf2" stam-id="17040073" versie-id="29982862" id="C43072091" label-id="16949504" inwerking="2024-07-01" label="§ 2" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">2</nr>
+    <titel status="officieel">Samenstelling en inrichting adviescollege</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf2/Artikel2" stam-id="17040023" versie-id="29982812" id="C43072001" label-id="16949454" inwerking="2024-07-01" label="Artikel 2" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf2/Artikel2/Lid1" label-id="16949454L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Er is een Adviescollege ICT-toetsing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=2&amp;artikel=2&amp;lid=1&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf2/Artikel2/Lid2" label-id="16949454L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het Adviescollege bestaat uit een voorzitter en ten hoogste vier andere leden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=2&amp;artikel=2&amp;lid=2&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf2/Artikel2/Lid3" label-id="16949454L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De leden worden benoemd voor ten hoogste vier jaar.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=2&amp;artikel=2&amp;lid=3&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf2/Artikel2/Lid4" label-id="16949454L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Ambtenaren of andere personen die werkzaam zijn onder verantwoordelijkheid van een Minister, een zelfstandig bestuursorgaan, de korpschef van politie of de Raad voor de rechtspraak worden niet benoemd tot voorzitter of lid van het Adviescollege.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=2&amp;artikel=2&amp;lid=4&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf2/Artikel2/Lid5" label-id="16949454L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>De <extref doc="jci1.3:c:BWBR0008159&amp;artikel=11" label-id="93314" verwijzing-id="3295418" bwb-id="BWBR0008159">artikelen 11</extref> en <extref doc="jci1.3:c:BWBR0008159&amp;artikel=12" label-id="93324" verwijzing-id="3295419" bwb-id="BWBR0008159">12, eerste en derde lid, van Kaderwet adviescolleges</extref> zijn van overeenkomstige toepassing op het Adviescollege.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=2&amp;artikel=2&amp;lid=5&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;artikel=2&amp;g=2024-07-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0049412&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=2&amp;artikel=2&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0049412&amp;artikel=2"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf2/Artikel3" stam-id="17040033" versie-id="29982822" id="C43072031" label-id="16949464" inwerking="2024-07-01" label="Artikel 3" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <al>
+    <extref doc="jci1.3:c:BWBR0008159&amp;artikel=13" label-id="93344" verwijzing-id="3295420" bwb-id="BWBR0008159">Artikel 13 van de Kaderwet adviescolleges</extref> is van overeenkomstige toepassing op het Adviescollege, met dien verstande dat voor Onze Minister wordt gelezen: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;artikel=3&amp;g=2024-07-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0049412&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=2&amp;artikel=3&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0049412&amp;artikel=3"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf2/Artikel4" stam-id="17040043" versie-id="29982832" id="C43072241" label-id="16949474" inwerking="2024-07-01" label="Artikel 4" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf2/Artikel4/Lid1" label-id="16949474L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De leden van het Adviescollege hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last en ruggespraak.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=2&amp;artikel=4&amp;lid=1&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf2/Artikel4/Lid2" label-id="16949474L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien in voorkomend geval uit feiten of omstandigheden blijkt dat een van de leden zelf direct of indirect betrokkenheid heeft bij een adviesaanvraag, zal hij zich weerhouden van enige bemoeienis ten aanzien van de adviesaanvraag.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=2&amp;artikel=4&amp;lid=2&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf2/Artikel4/Lid3" label-id="16949474L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het Adviescollege stelt een integriteitscode op waarin in ieder geval aandacht wordt besteed aan de wijze waarop wordt omgegaan met een situatie als bedoeld in het tweede lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=2&amp;artikel=4&amp;lid=3&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;artikel=4&amp;g=2024-07-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0049412&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=2&amp;artikel=4&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0049412&amp;artikel=4"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf2/Artikel5" stam-id="17040053" versie-id="29982842" id="C43072121" label-id="16949484" inwerking="2024-07-01" label="Artikel 5" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <al>Het Adviescollege kan voor de uitvoering of voorbereiding van bepaalde adviezen uit zijn midden commissies instellen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;artikel=5&amp;g=2024-07-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0049412&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=2&amp;artikel=5&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0049412&amp;artikel=5"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf2/Artikel6" stam-id="17040063" versie-id="29982852" id="C43072071" label-id="16949494" inwerking="2024-07-01" label="Artikel 6" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf2/Artikel6/Lid1" label-id="16949494L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister voorziet in een ambtelijk secretariaat van het Adviescollege.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=2&amp;artikel=6&amp;lid=1&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf2/Artikel6/Lid2" label-id="16949494L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het ambtelijk secretariaat heeft aan het hoofd een secretaris-directeur.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=2&amp;artikel=6&amp;lid=2&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf2/Artikel6/Lid3" label-id="16949494L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>
+      <extref doc="jci1.3:c:BWBR0008159&amp;artikel=15" label-id="93374" verwijzing-id="3295421" bwb-id="BWBR0008159">Artikel 15, tweede, vierde en vijfde lid, van de Kaderwet adviescolleges</extref> is van overeenkomstige toepassing op het secretariaat, met dien verstande dat voor Onze Minister wordt gelezen: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=2&amp;artikel=6&amp;lid=3&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;artikel=6&amp;g=2024-07-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0049412&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=2&amp;artikel=6&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0049412&amp;artikel=6"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;paragraaf=2&amp;g=2024-07-01" onderdeel="paragraaf=2" korte-verwijzing="1.0:c:BWBR0049412&amp;paragraaf=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=2&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="paragraaf=2" korte-verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=2"/></jcis></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf3" stam-id="17040123" versie-id="29982912" id="C43072081" label-id="16949554" inwerking="2024-07-01" label="§ 3" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">3</nr>
+    <titel status="officieel">Taak en verplichtingen van het Adviescollege</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf3/Artikel7" stam-id="17040083" versie-id="29982872" id="C43071991" label-id="16949514" inwerking="2024-07-01" label="Artikel 7" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel7/Lid1" label-id="16949514L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het Adviescollege heeft ten behoeve van de algehele verbetering van de beheersing van ICT-projecten en informatiesystemen bij de centrale overheid tot taak:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Paragraaf3/Artikel7/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>op schriftelijk verzoek van een van beide kamers der Staten-Generaal advies uit te brengen over:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li bwb-ng-variabel-deel="/Paragraaf3/Artikel7/Lid1/Onderdeela/Onderdeel1">
+            <li.nr>1°.</li.nr>
+            <al>een doeltreffende en doelmatige inrichting en toepassing van een informatiesysteem ter uitvoering van beleid of regelgeving;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;lid=1&amp;o=a&amp;o=1&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="o=1"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Paragraaf3/Artikel7/Lid1/Onderdeela/Onderdeel2">
+            <li.nr>2°.</li.nr>
+            <al>de risico’s en slaagkans van een voorgenomen ICT-project en daarbij een oordeel te geven over de mate van beheersbaarheid; en</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;lid=1&amp;o=a&amp;o=2&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="o=2"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Paragraaf3/Artikel7/Lid1/Onderdeela/Onderdeel3">
+            <li.nr>3°.</li.nr>
+            <al>de doeltreffendheid en doelmatigheid van onderhoud- en beheeractiviteiten van een informatiesysteem, en</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;lid=1&amp;o=a&amp;o=3&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="o=3"/></jcis></meta-data></li>
+        </lijst>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;lid=1&amp;o=a&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf3/Artikel7/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>het voorzien in kennisoverdracht en kennisbevordering vanuit de kennis en ervaringen die bij de advisering, bedoeld in onderdeel a, zijn opgedaan, waaronder mede het geven van algemene aanbevelingen wordt begrepen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;lid=1&amp;o=b&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;lid=1&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel7/Lid2" label-id="16949514L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Een verzoek om advies als bedoeld in het eerste lid, onderdeel a, onder 1° en 3° kan eveneens door Onze Minister die verantwoordelijk is voor de ICT-voorziening worden gedaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;lid=2&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel7/Lid3" label-id="16949514L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Een advies als bedoeld in het eerste lid, onderdeel a, onder 2° en 3°, over een ICT-project of informatiesysteem kan eveneens door het Adviescollege uit eigen beweging worden uitgebracht. Van een voornemen daartoe stelt het Adviescollege Onze Minister die verantwoordelijk is voor de ICT-voorziening, of, indien het advies ziet op een ICT-project of informatiesysteem van een zelfstandig bestuursorgaan, Onze Minister die het aangaat, en de beide kamers der Staten-Generaal onverwijld in kennis. Dit lid is niet van toepassing op een ICT-project of informatiesysteem van de politie of de Raad voor de rechtspraak.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;lid=3&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel7/Lid4" label-id="16949514L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Een verzoek om advies als bedoeld in het eerste lid, onderdeel a, onder 3°, over een informatiesysteem van een zelfstandig bestuursorgaan of een verzoek om advies als bedoeld in het eerste lid, onderdeel a, onder 2° of 3°, over een ICT-project of informatiesysteem van de politie of de Raad voor de rechtspraak kan eveneens door respectievelijk het zelfstandig bestuursorgaan, de korpschef van politie of de voorzitter van de Raad voor de rechtspraak worden gedaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;lid=4&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel7/Lid5" label-id="16949514L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Voor het opstellen van adviezen als bedoeld in het eerste lid, onderdeel a, stelt de Adviescommissie een toetsingskader vast, waarin in ieder geval wordt opgenomen:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Paragraaf3/Artikel7/Lid5/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>indien het een advies als bedoeld in het eerste lid, onderdeel a, onder 1°, betreft, de ruimte om bij beslissingen maatwerk toe te passen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;lid=5&amp;o=a&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf3/Artikel7/Lid5/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>indien het een advies als bedoeld in het eerste lid, onderdeel a, onder 1°, betreft, het perspectief van de burger als eindgebruiker; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;lid=5&amp;o=b&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf3/Artikel7/Lid5/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de risico’s op het gebied van strategische digitale veiligheid.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;lid=5&amp;o=c&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;lid=5&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel7/Lid6" label-id="16949514L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Voor de advisering, bedoeld in het eerste lid, onderdeel a, stelt het Adviescollege een onderzoeksprotocol vast waarin in ieder geval worden opgenomen:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Paragraaf3/Artikel7/Lid6/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de procedure die wordt gevolgd; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;lid=6&amp;o=a&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf3/Artikel7/Lid6/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de methodieken en de richtlijnen die worden gehanteerd.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;lid=6&amp;o=b&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;lid=6&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel7/Lid7" label-id="16949514L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Het Adviescollege maakt het onderzoeksprotocol openbaar.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;lid=7&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;artikel=7&amp;g=2024-07-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0049412&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0049412&amp;artikel=7"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf3/Artikel8" stam-id="17040093" versie-id="29982882" id="C43072171" label-id="16949524" inwerking="2024-07-01" label="Artikel 8" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel8/Lid1" label-id="16949524L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het Adviescollege bepaalt welke verzoeken om advies in behandeling worden genomen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=8&amp;lid=1&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel8/Lid2" label-id="16949524L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het Adviescollege brengt een advies als bedoeld in <intref doc="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;z=2024-07-01&amp;g=2024-07-01" label-id="16949514" verwijzing-id="3295428" bwb-id="BWBR0049412" bwb-ng-variabel-deel="/Paragraaf3/Artikel7">artikel 7, eerste lid, onderdeel a, onder 2° of 3°</intref>, over een ICT-project of een informatiesysteem van een zelfstandig bestuursorgaan, de politie of de Raad voor de rechtspraak rechtstreeks uit aan respectievelijk het zelfstandig bestuursorgaan, de korpschef van politie of de voorzitter van de Raad voor de rechtspraak.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=8&amp;lid=2&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel8/Lid3" label-id="16949524L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Indien een advies wordt uitgebracht aan een van beide kamers der Staten-Generaal, zendt het Adviescollege tegelijkertijd een afschrift van het advies aan:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Paragraaf3/Artikel8/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>Onze Minister die verantwoordelijk is voor de ICT-voorziening, indien het een advies betreft over een ICT-project of informatiesysteem van deze Minister;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=8&amp;lid=3&amp;o=a&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf3/Artikel8/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>Onze Minister die het aangaat, indien het een advies betreft over een ICT-project of informatiesysteem van een zelfstandig bestuursorgaan;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=8&amp;lid=3&amp;o=b&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf3/Artikel8/Lid3/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>Onze Minister van Justitie en Veiligheid, indien het een advies betreft over een ICT-project of informatiesysteem van de politie;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=8&amp;lid=3&amp;o=c&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf3/Artikel8/Lid3/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>Onze Minister voor Rechtsbescherming, indien het een advies betreft over een ICT-project of informatiesysteem van de Raad voor de rechtspraak.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=8&amp;lid=3&amp;o=d&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=8&amp;lid=3&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel8/Lid4" label-id="16949524L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Het Adviescollege kan een naschrift over de maatregelen die zijn voorgesteld ter opvolging van een advies uitbrengen. Het derde lid is van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=8&amp;lid=4&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel8/Lid5" label-id="16949524L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Een naschrift als bedoeld in het vierde lid wordt niet aangemerkt als advies.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=8&amp;lid=5&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;artikel=8&amp;g=2024-07-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0049412&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=8&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0049412&amp;artikel=8"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf3/Artikel9" stam-id="17040103" versie-id="29982892" id="C43072051" label-id="16949534" inwerking="2024-07-01" label="Artikel 9" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel9/Lid1" label-id="16949534L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het Adviescollege maakt een advies als bedoeld in <intref doc="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;z=2024-07-01&amp;g=2024-07-01" label-id="16949514" verwijzing-id="3295429" bwb-id="BWBR0049412" bwb-ng-variabel-deel="/Paragraaf3/Artikel7">artikel 7, eerste lid, onderdeel a</intref>, binnen twee weken na aanbieding openbaar.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=9&amp;lid=1&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel9/Lid2" label-id="16949534L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De aanbevelingen, bedoeld in <intref doc="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;z=2024-07-01&amp;g=2024-07-01" label-id="16949514" verwijzing-id="3295430" bwb-id="BWBR0049412" bwb-ng-variabel-deel="/Paragraaf3/Artikel7">artikel 7, eerste lid, onderdeel b</intref>, worden eenmaal per half jaar openbaar gemaakt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=9&amp;lid=2&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;artikel=9&amp;g=2024-07-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0049412&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=9&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0049412&amp;artikel=9"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf3/Artikel10" stam-id="17040113" versie-id="29982902" id="C43072211" label-id="16949544" inwerking="2024-07-01" label="Artikel 10" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+  </kop>
+  <al>De <extref doc="jci1.3:c:BWBR0008159&amp;artikel=20" label-id="93474" verwijzing-id="3295422" bwb-id="BWBR0008159">artikelen 20</extref> en <extref doc="jci1.3:c:BWBR0008159&amp;artikel=21" label-id="93494" verwijzing-id="3295423" bwb-id="BWBR0008159">21 van de Kaderwet adviescolleges</extref> zijn van toepassing op het Adviescollege.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;artikel=10&amp;g=2024-07-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0049412&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=10&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0049412&amp;artikel=10"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;paragraaf=3&amp;g=2024-07-01" onderdeel="paragraaf=3" korte-verwijzing="1.0:c:BWBR0049412&amp;paragraaf=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="paragraaf=3" korte-verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=3"/></jcis></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf4" stam-id="17040143" versie-id="29982932" id="C43072231" label-id="16949574" inwerking="2024-07-01" label="§ 4" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">4</nr>
+    <titel status="officieel">Bevoegdheden en verplichtingen van Ministers en zelfstandige bestuursorganen ten aanzien van adviezen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf4/Artikel11" stam-id="17040133" versie-id="29982922" id="C43072131" label-id="16949564" inwerking="2024-07-01" label="Artikel 11" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf4/Artikel11/Lid1" label-id="16949564L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister die verantwoordelijk is voor de ICT-voorziening of een zelfstandig bestuursorgaan verzoekt voor aanvang van een ICT-project het Adviescollege om een advies als bedoeld in <intref doc="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;z=2024-07-01&amp;g=2024-07-01" label-id="16949514" verwijzing-id="3295431" bwb-id="BWBR0049412" bwb-ng-variabel-deel="/Paragraaf3/Artikel7">artikel 7, eerste lid, onderdeel a, onder 2°</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=4&amp;artikel=11&amp;lid=1&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf4/Artikel11/Lid2" label-id="16949564L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Een advies van het Adviescollege als bedoeld in <intref doc="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;z=2024-07-01&amp;g=2024-07-01" label-id="16949514" verwijzing-id="3295432" bwb-id="BWBR0049412" bwb-ng-variabel-deel="/Paragraaf3/Artikel7">artikel 7, eerste lid, onderdeel a</intref>, wordt binnen vier weken na ontvangst ervan aan de beide kamers der Staten-Generaal gezonden door:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Paragraaf4/Artikel11/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>Onze Minister die verantwoordelijk is voor de ICT-voorziening, indien het een advies betreft over een ICT-project of informatiesysteem van deze Minister;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=4&amp;artikel=11&amp;lid=2&amp;o=a&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf4/Artikel11/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>Onze Minister die het aangaat, indien het een advies betreft over een ICT-project of informatiesysteem van een zelfstandig bestuursorgaan;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=4&amp;artikel=11&amp;lid=2&amp;o=b&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf4/Artikel11/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>Onze Minister van Justitie en Veiligheid, indien het een advies betreft over een ICT-project of informatiesysteem van de politie;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=4&amp;artikel=11&amp;lid=2&amp;o=c&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf4/Artikel11/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>Onze Minister voor Rechtsbescherming, indien het een advies betreft over een ICT-project of informatiesysteem van de Raad voor rechtspraak.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=4&amp;artikel=11&amp;lid=2&amp;o=d&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=4&amp;artikel=11&amp;lid=2&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf4/Artikel11/Lid3" label-id="16949564L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Ingeval een advies van het Adviescollege als bedoeld in <intref doc="jci1.3:c:BWBR0049412&amp;paragraaf=3&amp;artikel=7&amp;z=2024-07-01&amp;g=2024-07-01" label-id="16949514" verwijzing-id="3295433" bwb-id="BWBR0049412" bwb-ng-variabel-deel="/Paragraaf3/Artikel7">artikel 7, eerste lid, onderdeel a</intref>, niet wordt opgevolgd, wordt dat, in overeenstemming met het gevoelen van de ministerraad, met redenen omkleed medegedeeld aan de beide kamers der Staten-Generaal. Het tweede lid is van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=4&amp;artikel=11&amp;lid=3&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf4/Artikel11/Lid4" label-id="16949564L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Het bereiken van overeenstemming met het gevoelen van de ministerraad als bedoeld in het derde lid is niet van toepassing op een ICT-project of een informatiesysteem van de Raad voor de rechtspraak.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=4&amp;artikel=11&amp;lid=4&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf4/Artikel11/Lid5" label-id="16949564L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Onze Minister die verantwoordelijk is voor de ICT-voorziening of een zelfstandig bestuursorgaan kan het Adviescollege verzoeken om nader advies over de risico’s en slaagkans van een ICT-project dat is gestart.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=4&amp;artikel=11&amp;lid=5&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;artikel=11&amp;g=2024-07-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0049412&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=4&amp;artikel=11&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0049412&amp;artikel=11"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;paragraaf=4&amp;g=2024-07-01" onderdeel="paragraaf=4" korte-verwijzing="1.0:c:BWBR0049412&amp;paragraaf=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=4&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="paragraaf=4" korte-verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=4"/></jcis></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf5" stam-id="17040163" versie-id="29982952" id="C43072191" label-id="16949594" inwerking="2024-07-01" label="§ 5" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">5</nr>
+    <titel status="officieel">Begroting en verantwoording</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf5/Artikel12" stam-id="17040153" versie-id="29982942" id="C43072201" label-id="16949584" inwerking="2024-07-01" label="Artikel 12" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">12</nr>
+  </kop>
+  <al>De <extref doc="jci1.3:c:BWBR0008159&amp;artikel=25" label-id="93604" verwijzing-id="3295424" bwb-id="BWBR0008159">artikelen 25</extref>, <extref doc="jci1.3:c:BWBR0008159&amp;artikel=28" label-id="93694" verwijzing-id="3295425" bwb-id="BWBR0008159">28</extref> en <extref doc="jci1.3:c:BWBR0008159&amp;artikel=29" label-id="93714" verwijzing-id="3295426" bwb-id="BWBR0008159">29 van de Kaderwet adviescolleges</extref> zijn van toepassing, met dien verstande dat voor Onze Minister wordt gelezen: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;artikel=12&amp;g=2024-07-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0049412&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=5&amp;artikel=12&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0049412&amp;artikel=12"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;paragraaf=5&amp;g=2024-07-01" onderdeel="paragraaf=5" korte-verwijzing="1.0:c:BWBR0049412&amp;paragraaf=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=5&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="paragraaf=5" korte-verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=5"/></jcis></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf6" stam-id="17040183" versie-id="29982972" id="C43072151" label-id="16949614" inwerking="2024-07-01" label="§ 6" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">6</nr>
+    <titel status="officieel">Evaluatie</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf6/Artikel13" stam-id="17040173" versie-id="29982962" id="C43072111" label-id="16949604" inwerking="2024-07-01" label="Artikel 13" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13</nr>
+  </kop>
+  <al>Onze Minister zendt binnen vier jaar na de inwerkingtreding van deze wet, en vervolgens telkens na vier jaar, aan beide kamers der Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;artikel=13&amp;g=2024-07-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0049412&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=6&amp;artikel=13&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0049412&amp;artikel=13"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;paragraaf=6&amp;g=2024-07-01" onderdeel="paragraaf=6" korte-verwijzing="1.0:c:BWBR0049412&amp;paragraaf=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=6&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="paragraaf=6" korte-verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=6"/></jcis></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf7" stam-id="17040233" versie-id="29983022" id="C43072161" label-id="16949664" inwerking="2024-07-01" label="§ 7" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">7</nr>
+    <titel status="officieel">Slotbepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf7/Artikel14" stam-id="17040193" versie-id="29982982" id="C43072221" label-id="16949624" inwerking="2024-07-01" label="Artikel 14" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">14</nr>
+  </kop>
+  <al>Deze wet is niet van toepassing op de wapensystemen van het Ministerie van Defensie.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;artikel=14&amp;g=2024-07-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0049412&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=7&amp;artikel=14&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0049412&amp;artikel=14"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf7/Artikel15" stam-id="17040203" versie-id="29982992" id="C43072021" label-id="16949634" inwerking="2024-07-01" label="Artikel 15" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt deze wet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;artikel=15&amp;g=2024-07-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0049412&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=7&amp;artikel=15&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0049412&amp;artikel=15"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf7/Artikel16" stam-id="17040213" versie-id="29983002" id="C43072141" label-id="16949644" inwerking="2024-07-01" label="Artikel 16" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">16</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;artikel=16&amp;g=2024-07-01" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0049412&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=7&amp;artikel=16&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0049412&amp;artikel=16"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf7/Artikel17" stam-id="17040223" versie-id="29983012" id="C43072181" label-id="16949654" inwerking="2024-07-01" label="Artikel 17" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">17</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet Adviescollege ICT-toetsing.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;artikel=17&amp;g=2024-07-01" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0049412&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=7&amp;artikel=17&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0049412&amp;artikel=17"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;paragraaf=7&amp;g=2024-07-01" onderdeel="paragraaf=7" korte-verwijzing="1.0:c:BWBR0049412&amp;paragraaf=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=7&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="paragraaf=7" korte-verwijzing="jci1.3:c:BWBR0049412&amp;paragraaf=7"/></jcis></meta-data></paragraaf>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="17040243" versie-id="29983032" id="C43072251" label-id="16949674" inwerking="2024-07-01" bron="Stb.2024-42" effect="nieuwe-regeling" ondertekening_bron="2024-02-14" publicatie_bron="2024-02-28" publicatie_iwt="2024-04-17" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>’s-Gravenhage</plaats>
+      <datum isodatum="2024-02-14">14 februari 2024</datum>
+    </dagtekening>
+    <koning>Willem-Alexander</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,</functie>
+    <naam>
+      <voornaam>A.C. van</voornaam>
+      <achternaam>Huffelen</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2024-02-28">de <nadruk type="cur">achtentwintigste</nadruk> februari 2024</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie en Veiligheid,</functie>
+      <naam>
+        <voornaam>D.</voornaam>
+        <achternaam>Yeşilgöz-Zegerius</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-42"><publicatiejaar>2024</publicatiejaar><publicatienr>42</publicatienr><uitgiftedatum isodatum="2024-02-28">28-02-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-02-14">14-02-2024</ondertekeningsdatum><dossierref dossier="36191">36191</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2024-94"><publicatiejaar>2024</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2024-04-17">17-04-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-04-10">10-04-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-07-01">01-07-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0049412&amp;g=2024-07-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0049412"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0049412&amp;z=2024-07-01&amp;g=2024-07-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0049412"/></jcis></meta-data></wetgeving></toestand>

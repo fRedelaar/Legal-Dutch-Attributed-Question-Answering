@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0035878/2022-07-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0035878" inwerkingtreding="2022-07-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="12870743" versie-id="21870872" id="C31391421" label-id="12840524" inwerkingtredingsdatum="2015-01-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="12870763" versie-id="21870452" id="C31391501" label-id="12840104" inwerking="2015-01-01" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">Wet van 19 november 2014 tot vaststelling van een geactualiseerd stelsel van openbare bibliotheekvoorzieningen (Wet stelsel openbare bibliotheekvoorzieningen)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="12870773" versie-id="21870462" id="C31391521" label-id="12840114" inwerking="2015-01-01" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05">Wet stelsel openbare bibliotheekvoorzieningen<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="12870783" versie-id="21870472" id="C31391511" label-id="12840124" inwerking="2015-01-01" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is de wettelijke bepalingen ten aanzien van openbare bibliotheken te actualiseren en de landelijke digitale openbare bibliotheek vorm te geven;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk1" stam-id="12870853" versie-id="21870542" id="C31391431" label-id="12840194" inwerking="2015-01-01" label="Hoofdstuk 1" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">1</nr>
+    <titel status="officieel">Algemene bepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1" stam-id="12870793" versie-id="21870482" id="C31391531" label-id="12840134" inwerking="2015-01-01" label="Artikel 1" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+    <titel status="officieel">Begripsbepalingen</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1" label-id="12840134L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>
+          <nadruk type="cur">Koninklijke Bibliotheek:</nadruk> Koninklijke Bibliotheek als bedoeld in <extref doc="jci1.3:c:BWBR0005682&amp;artikel=1.5" label-id="2880324" verwijzing-id="2669426" bwb-id="BWBR0005682">artikel 1.5, tweede lid, van de WHW</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;o=a&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>
+          <nadruk type="cur">landelijke digitale bibliotheek:</nadruk> plaats- en tijdonafhankelijke voor een ieder toegankelijke bibliotheekvoorziening;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;o=b&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>
+          <nadruk type="cur">lokale bibliotheek:</nadruk> organisatie met rechtspersoonlijkheid die een of meerdere voor een ieder toegankelijke openbare bibliotheekvoorzieningen verzorgt en die in overwegende mate door een of meer gemeenten dan wel de openbare lichamen Bonaire, Sint Eustatius of Saba wordt gesubsidieerd of in stand gehouden. De verplichtingen in deze wet zijn van toepassing op de rechtspersoon als geheel en niet op iedere vestiging afzonderlijk;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;o=c&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>
+          <nadruk type="cur">Onze Minister:</nadruk> Onze Minister van Onderwijs, Cultuur en Wetenschap;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;o=d&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>
+          <nadruk type="cur">provinciale ondersteuningsinstelling:</nadruk> in overwegende mate door een of meer provincies gesubsidieerde of in stand gehouden voorziening die een pakket aan ondersteunende activiteiten biedt voor de lokale bibliotheken in de desbetreffende provincie of provincies;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;o=e&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>
+          <nadruk type="cur">werk:</nadruk> exemplaar van een werk als bedoeld in <extref doc="jci1.3:c:BWBR0001886&amp;artikel=10" label-id="2878914" verwijzing-id="2669427" bwb-id="BWBR0001886">artikel 10 van de Auteurswet</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;o=f&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>
+          <nadruk type="cur">WHW:</nadruk>
+          <extref doc="jci1.3:c:BWBR0005682" label-id="2885604" verwijzing-id="2669428" bwb-id="BWBR0005682">Wet op het hoger onderwijs en wetenschappelijk onderzoek</extref>.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;o=g&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=g"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid2" label-id="12840134L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Voor zover in deze wet over een lid van een openbare bibliotheekvoorziening wordt gesproken, wordt hieronder verstaan een voor die bibliotheekvoorziening geregistreerde gebruiker.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=1&amp;lid=2&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=1&amp;g=2022-07-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=1&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=1"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2" stam-id="12870803" versie-id="21870492" id="C31391541" label-id="12840144" inwerking="2015-01-01" label="Artikel 2" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+    <titel status="officieel">Reikwijdte</titel>
+  </kop>
+  <al>Deze wet heeft betrekking op lokale bibliotheken, provinciale ondersteuningsinstellingen en de Koninklijke Bibliotheek, voor haar taken op grond van deze wet. Zij zijn in het kader van deze wet openbare bibliotheekvoorzieningen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=2&amp;g=2022-07-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=2&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=2"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk1/Artikel3" stam-id="12870813" versie-id="21870502" id="C31391551" label-id="12840154" inwerking="2015-01-01" label="Artikel 3" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+    <titel status="officieel">Toepasselijkheid op de BES</titel>
+  </kop>
+  <al>Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met uitzondering van de <intref doc="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=8&amp;z=2022-07-01&amp;g=2022-07-01" label-id="12840214" verwijzing-id="2669454" bwb-id="BWBR0035878" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel8">artikelen 8, onderdelen a, b, c en e</intref>, <intref doc="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=10&amp;z=2022-07-01&amp;g=2022-07-01" label-id="12840234" verwijzing-id="2669455" bwb-id="BWBR0035878" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel10">10</intref>, <intref doc="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=11&amp;z=2022-07-01&amp;g=2022-07-01" label-id="12840244" verwijzing-id="2669456" bwb-id="BWBR0035878" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel11">11, eerste lid</intref>, <intref doc="jci1.3:c:BWBR0035878&amp;hoofdstuk=3&amp;artikel=15&amp;z=2022-07-01&amp;g=2022-07-01" label-id="12840294" verwijzing-id="2669457" bwb-id="BWBR0035878" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel15">15</intref> en <intref doc="jci1.3:c:BWBR0035878&amp;hoofdstuk=3&amp;artikel=16&amp;z=2022-07-01&amp;g=2022-07-01" label-id="12840304" verwijzing-id="2669458" bwb-id="BWBR0035878" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel16">16</intref>.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=3&amp;g=2022-07-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=3&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=3"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk1/Artikel4" stam-id="12870823" versie-id="21870512" id="C31391561" label-id="12840164" inwerking="2015-01-01" label="Artikel 4" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+    <titel status="officieel">Publieke waarden</titel>
+  </kop>
+  <al>Een openbare bibliotheekvoorziening heeft een publieke taak die zij voor het algemene publiek vervult op basis van de waarden onafhankelijkheid, betrouwbaarheid, toegankelijkheid, pluriformiteit en authenticiteit.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=4&amp;g=2022-07-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=4&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=4"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk1/Artikel5" stam-id="12870833" versie-id="21870522" id="C31391571" label-id="12840174" inwerking="2015-01-01" label="Artikel 5" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+    <titel status="officieel">Bibliotheekfuncties</titel>
+  </kop>
+  <al>Een voor een ieder toegankelijke openbare bibliotheekvoorziening omvat in ieder geval de volgende functies, die bijdragen aan de persoonlijke ontwikkeling en verbetering van de maatschappelijke kansen van het algemene publiek:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel5/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>ter beschikking stellen van kennis en informatie;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=5&amp;o=a&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel5/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>bieden van mogelijkheden tot ontwikkeling en educatie;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=5&amp;o=b&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel5/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>bevorderen van lezen en het laten kennismaken met literatuur;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=5&amp;o=c&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel5/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>organiseren van ontmoeting en debat; en</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=5&amp;o=d&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel5/Onderdeele">
+      <li.nr>e.</li.nr>
+      <al>laten kennis maken met kunst en cultuur.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=5&amp;o=e&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=e"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=5&amp;g=2022-07-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=5&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=5"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk1/Artikel6" stam-id="12870843" versie-id="21870532" id="C31391581" label-id="12840184" inwerking="2015-01-01" label="Artikel 6" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+    <titel status="officieel">Netwerkverantwoordelijkheid</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel6/Lid1" label-id="12840184L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister, de provinciebesturen, de gemeentebesturen en de besturen van de openbare lichamen Bonaire, Sint Eustatius en Saba zijn gezamenlijk verantwoordelijk voor een netwerk van openbare bibliotheekvoorzieningen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=6&amp;lid=1&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel6/Lid2" label-id="12840184L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De partijen, genoemd in het eerste lid, geven zich bij de uitoefening van de verantwoordelijkheid, bedoeld in het eerste lid, rekenschap van de gemiddelde afstand tussen de lokale bibliotheekvoorziening en de inwoners van de financierende gemeente of gemeenten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=6&amp;lid=2&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel6/Lid3" label-id="12840184L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Zij bevorderen dat een door hen gesubsidieerde of in stand gehouden openbare bibliotheekvoorziening aan de verplichtingen, bedoeld in <intref doc="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=8&amp;z=2022-07-01&amp;g=2022-07-01" label-id="12840214" verwijzing-id="2669466" bwb-id="BWBR0035878" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel8">artikel 8</intref>, voldoet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=6&amp;lid=3&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel6/Lid4" label-id="12840184L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Bij een voorgenomen besluit van een partij als bedoeld in het eerste lid dat tot gevolg heeft dat een openbare bibliotheekvoorziening ophoudt te bestaan of redelijkerwijs niet meer kan voldoen aan de verplichtingen in deze wet, overlegt zij eerst met de andere partijen op wie dit van invloed kan zijn waaronder de ingezetenen. Zo nodig maken zij afspraken over de toegankelijkheid van een openbare bibliotheekvoorziening voor het betrokken algemene publiek.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=6&amp;lid=4&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel6/Lid5" label-id="12840184L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de wijze waarop ingezetenen en maatschappelijke initiatieven bij de uitvoering van het beleid kunnen worden betrokken, het uitvoeren van taken van het college op grond van deze wet daaronder begrepen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=6&amp;lid=5&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel6/Lid6" label-id="12840184L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>De voordracht voor een algemene maatregel van bestuur als bedoeld in het vijfde lid wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. Indien een der kamers der Staten-Generaal besluit niet in te stemmen met het ontwerp, wordt er geen voordracht gedaan en kan niet eerder dan zes weken na het besluit van die kamer der Staten-Generaal een nieuw ontwerp aan beide kamers der Staten-Generaal worden overgelegd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=6&amp;lid=6&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=6&amp;g=2022-07-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=6&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=6"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;hoofdstuk=1&amp;g=2022-07-01" onderdeel="hoofdstuk=1" korte-verwijzing="1.0:c:BWBR0035878&amp;hoofdstuk=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="hoofdstuk=1" korte-verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=1"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk2" stam-id="12870943" versie-id="21870632" id="C31391441" label-id="12840284" inwerking="2015-01-01" label="Hoofdstuk 2" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">2</nr>
+    <titel status="officieel">Het bibliotheeknetwerk</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel7" stam-id="12870863" versie-id="21870552" id="C31391591" label-id="12840204" inwerking="2015-01-01" label="Artikel 7" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+    <titel status="officieel">Netwerk en deelnemers</titel>
+  </kop>
+  <al>De lokale bibliotheken, de provinciale ondersteuningsinstellingen en de Koninklijke Bibliotheek, voor wat betreft haar taak tot het in stand houden van de landelijke digitale bibliotheek, vormen één netwerk van openbare bibliotheekvoorzieningen als bedoeld in <intref doc="jci1.3:c:BWBR0035878&amp;hoofdstuk=1&amp;artikel=6&amp;z=2022-07-01&amp;g=2022-07-01" label-id="12840184" verwijzing-id="2669463" bwb-id="BWBR0035878" bwb-ng-variabel-deel="/Hoofdstuk1/Artikel6">artikel 6</intref>.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=7&amp;g=2022-07-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=7&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=7"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel8" stam-id="12870873" versie-id="21870562" id="C31391601" label-id="12840214" inwerking="2015-01-01" label="Artikel 8" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+    <titel status="officieel">Functioneren van het netwerk</titel>
+  </kop>
+  <al>Een deelnemer aan het netwerk als bedoeld in <intref doc="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=7&amp;z=2022-07-01&amp;g=2022-07-01" label-id="12840204" verwijzing-id="2669460" bwb-id="BWBR0035878" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel7">artikel 7</intref>:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel8/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>maakt met de andere deelnemers gebruik van een gezamenlijke catalogus van beschikbare werken;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=8&amp;o=a&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel8/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>is onderdeel van het interbibliothecaire leenverkeer, bedoeld in <intref doc="jci1.3:c:BWBR0035878&amp;hoofdstuk=3&amp;artikel=15&amp;z=2022-07-01&amp;g=2022-07-01" label-id="12840294" verwijzing-id="2669461" bwb-id="BWBR0035878" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel15">artikel 15</intref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=8&amp;o=b&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel8/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>voert zijn collectiebeleid overeenkomstig het gezamenlijk collectieplan, bedoeld in <intref doc="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=10&amp;z=2022-07-01&amp;g=2022-07-01" label-id="12840234" verwijzing-id="2669462" bwb-id="BWBR0035878" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel10">artikel 10</intref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=8&amp;o=c&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel8/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>maakt gebruik van een op de andere deelnemers afgestemde digitale infrastructuur;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=8&amp;o=d&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel8/Onderdeele">
+      <li.nr>e.</li.nr>
+      <al>stemt zijn administratie van leden en zijn algemene voorwaarden af op de andere deelnemers; en</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=8&amp;o=e&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=e"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel8/Onderdeelf">
+      <li.nr>f.</li.nr>
+      <al>ondersteunt het onderwijs.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=8&amp;o=f&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=f"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=8&amp;g=2022-07-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=8&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=8"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel9" stam-id="12870883" versie-id="21870572" id="C31391611" label-id="12840224" inwerking="2015-01-01" label="Artikel 9" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+    <titel status="officieel">Taken Koninklijke Bibliotheek</titel>
+  </kop>
+  <al>De Koninklijke Bibliotheek verricht in aanvulling op de taken, bedoeld in <extref doc="jci1.3:c:BWBR0005682&amp;artikel=1.5" label-id="2880324" verwijzing-id="2669429" bwb-id="BWBR0005682">artikel 1.5, tweede lid, van de WHW</extref>, de volgende taken:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel9/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>aansturen van het netwerk van openbare bibliotheekvoorzieningen door:</al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel9/Onderdeela/Onderdeeli">
+          <li.nr>i.</li.nr>
+          <al>afstemming en coördinatie;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=9&amp;o=a&amp;o=i&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=i"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel9/Onderdeela/Onderdeelii">
+          <li.nr>ii.</li.nr>
+          <al>educatie, informatie en reflectie; en</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=9&amp;o=a&amp;o=ii&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=ii"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel9/Onderdeela/Onderdeeliii">
+          <li.nr>iii.</li.nr>
+          <al>vertegenwoordiging en promotie;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=9&amp;o=a&amp;o=iii&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=iii"/></jcis></meta-data></li>
+      </lijst>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=9&amp;o=a&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel9/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>in stand houden van de landelijke digitale bibliotheek; en</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=9&amp;o=b&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel9/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>verzorgen van een bibliotheekvoorziening van noodzakelijk omgezette werken voor personen met een handicap.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=9&amp;o=c&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=9&amp;g=2022-07-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=9&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=9"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel10" stam-id="12870893" versie-id="21870582" id="C31391621" label-id="12840234" inwerking="2015-01-01" label="Artikel 10" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+    <titel status="officieel">Collectieplan</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel10/Lid1" label-id="12840234L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De Koninklijke Bibliotheek stelt elke vier jaar voor de deelnemers aan het netwerk, bedoeld in <intref doc="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=7&amp;z=2022-07-01&amp;g=2022-07-01" label-id="12840204" verwijzing-id="2669459" bwb-id="BWBR0035878" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel7">artikel 7</intref>, een gezamenlijk collectieplan vast.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=10&amp;lid=1&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel10/Lid2" label-id="12840234L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het collectieplan heeft tot doel samenhang te bewerkstelligen tussen de fysieke en digitale collecties van de openbare bibliotheekvoorzieningen. Het biedt een kader voor het samenstellen en beheren van de collectie door een voorziening.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=10&amp;lid=2&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel10/Lid3" label-id="12840234L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De Koninklijke Bibliotheek stelt het gezamenlijk collectieplan vast in overeenstemming met vertegenwoordigers van de lokale bibliotheken en provinciale ondersteuningsinstellingen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=10&amp;lid=3&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=10&amp;g=2022-07-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=10&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=10"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel11" stam-id="12870903" versie-id="21870592" id="C31391631" label-id="12840244" inwerking="2015-01-01" label="Artikel 11" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+    <titel status="officieel">Gegevenslevering</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel11/Lid1" label-id="12840244L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Ten behoeve van de gezamenlijke catalogus voor de landelijke digitale bibliotheek verstrekken lokale bibliotheken en provinciale ondersteuningsinstellingen gegevens over de collectie en de beschikbaarheid daarvan aan de Koninklijke Bibliotheek.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=11&amp;lid=1&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel11/Lid2" label-id="12840244L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Ten behoeve van de beleidsontwikkeling verstrekken lokale bibliotheken, de provinciale ondersteuningsinstellingen en de Koninklijke Bibliotheek aan Onze Minister gegevens over de desbetreffende openbare bibliotheekvoorziening die niet tot de persoon herleidbare gegevens van gebruikers en personeel betreffen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=11&amp;lid=2&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel11/Lid3" label-id="12840244L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De Koninklijke Bibliotheek stelt de aard van de gegevens, bedoeld in het eerste lid, nader vast en stelt regels over het tijdstip en de wijze waarop de gegevens worden verstrekt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=11&amp;lid=3&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel11/Lid4" label-id="12840244L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Onze Minister stelt de aard van de gegevens, bedoeld in het tweede lid, nader vast en stelt regels over het tijdstip en de wijze waarop de gegevens worden verstrekt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=11&amp;lid=4&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=11&amp;g=2022-07-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=11&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=11"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel12" stam-id="12870913" versie-id="21870602" id="C31391641" label-id="12840254" inwerking="2015-01-01" label="Artikel 12" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">12</nr>
+    <titel status="officieel">Lidmaatschap</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel12/Lid1" label-id="12840254L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een ieder die als ingezetene is ingeschreven in de basisregistratie personen, bedoeld in <extref doc="jci1.3:c:BWBR0033715&amp;artikel=1.2" label-id="12294964" verwijzing-id="2669430" bwb-id="BWBR0033715">artikel 1.2 van de Wet basisregistratie personen</extref>, of in een basisadministratie als bedoeld in <extref doc="jci1.3:c:BWBR0028208&amp;artikel=2" label-id="10671844" verwijzing-id="2669431" bwb-id="BWBR0028208">artikel 2 van de Wet basisadministraties persoonsgegevens BES</extref> kan lid worden van de openbare bibliotheek.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=12&amp;lid=1&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel12/Lid2" label-id="12840254L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het lidmaatschap bij de openbare bibliotheek kan het gebruik van een fysieke voorziening, de digitale voorziening of beide voorzieningen omvatten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=12&amp;lid=2&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel12/Lid3" label-id="12840254L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Een fysieke voorziening is een lokale bibliotheek, de digitale voorziening is de landelijke digitale bibliotheek.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=12&amp;lid=3&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel12/Lid4" label-id="12840254L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Onze Minister of het college van burgemeester en wethouders of bestuurscollege kan bepalen dat ook andere groepen natuurlijke personen lid van de landelijke digitale bibliotheek onderscheidenlijk een lokale bibliotheek kunnen worden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=12&amp;lid=4&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=12&amp;g=2022-07-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=12&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=12"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel13" stam-id="12870923" versie-id="28550672" id="C40288781" label-id="12840264" inwerking="2022-07-01" label="Artikel 13" bron="Stb.2022-116" effect="wijziging" ondertekening_bron="2022-02-23" publicatie_bron="2022-03-21" publicatie_iwt="2022-03-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13</nr>
+    <titel status="officieel">Contributievrijstelling jeugd lokale bibliotheken</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel13/Lid1" label-id="12840264L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Voor het uitlenen van gedrukte werken of overige werken door lokale bibliotheken aan personen beneden de leeftijd van achttien jaar wordt geen contributie of andere geldelijke bijdrage geheven.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=13&amp;lid=1&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel13/Lid2" label-id="12840264L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Voor personen beneden de leeftijd van achttien jaar wordt geen tarief als bedoeld in <intref doc="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=14&amp;z=2022-07-01&amp;g=2022-07-01" label-id="12840274" verwijzing-id="3153538" bwb-id="BWBR0035878" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel14">artikel 14</intref>, contributie of geldelijke bijdrage vastgesteld voor de toegang tot door de Koninklijke Bibliotheek aangewezen digitale werken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=13&amp;lid=2&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-116"><publicatiejaar>2022</publicatiejaar><publicatienr>116</publicatienr><uitgiftedatum isodatum="2022-03-21">21-03-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-02-23">23-02-2022</ondertekeningsdatum><dossierref dossier="35946">35946</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-117"><publicatiejaar>2022</publicatiejaar><publicatienr>117</publicatienr><uitgiftedatum isodatum="2022-03-22">22-03-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-03-11">11-03-2022</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-07-01">01-07-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=13&amp;g=2022-07-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=13&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=13"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel14" stam-id="12870933" versie-id="21870622" id="C31391661" label-id="12840274" inwerking="2015-01-01" label="Artikel 14" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">14</nr>
+    <titel status="officieel">Tarieven landelijke digitale bibliotheek</titel>
+  </kop>
+  <al>De Koninklijke Bibliotheek kan na overleg met vertegenwoordigers van de lokale bibliotheken tarieven vaststellen voor de toegang tot digitale werken of het gebruik van digitale diensten of bronnen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=14&amp;g=2022-07-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=14&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=14"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;hoofdstuk=2&amp;g=2022-07-01" onderdeel="hoofdstuk=2" korte-verwijzing="1.0:c:BWBR0035878&amp;hoofdstuk=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="hoofdstuk=2" korte-verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=2"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk3" stam-id="12870973" versie-id="21870662" id="C31391451" label-id="12840314" inwerking="2015-01-01" label="Hoofdstuk 3" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">3</nr>
+    <titel status="officieel">De fysieke openbare bibliotheek</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk3/Artikel15" stam-id="12870953" versie-id="21870642" id="C31391671" label-id="12840294" inwerking="2015-01-01" label="Artikel 15" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15</nr>
+    <titel status="officieel">Interbibliothecair leenverkeer</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel15/Lid1" label-id="12840294L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Alle lokale bibliotheken en provinciale ondersteuningsinstellingen nemen deel aan het interbibliothecaire leenverkeer.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=3&amp;artikel=15&amp;lid=1&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel15/Lid2" label-id="12840294L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Deelname aan het interbibliothecaire leenverkeer houdt in ieder geval in:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel15/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>op verzoek van een lokale bibliotheek ter beschikking stellen van fysieke werken ten behoeve van gebruikers van die bibliotheek;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=3&amp;artikel=15&amp;lid=2&amp;o=a&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel15/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>op verzoek van een gebruiker doen van een verzoek als bedoeld in onderdeel a aan de daarvoor in aanmerking komende bibliotheek; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=3&amp;artikel=15&amp;lid=2&amp;o=b&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel15/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>distributie van fysieke werken door provinciale ondersteuningsinstellingen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=3&amp;artikel=15&amp;lid=2&amp;o=c&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=3&amp;artikel=15&amp;lid=2&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=15&amp;g=2022-07-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=3&amp;artikel=15&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=15"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk3/Artikel16" stam-id="12870963" versie-id="21870652" id="C31391681" label-id="12840304" inwerking="2015-01-01" label="Artikel 16" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">16</nr>
+    <titel status="officieel">Provinciale ondersteuningstaken</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel16/Lid1" label-id="12840304L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een provinciale ondersteuningsinstelling is verantwoordelijk voor de distributie van fysieke werken door middel van het interbibliothecaire leenverkeer binnen de provincie of provincies waardoor zij wordt gesubsidieerd of in stand gehouden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=3&amp;artikel=16&amp;lid=1&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel16/Lid2" label-id="12840304L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De provinciale ondersteuningsinstellingen zijn gezamenlijk verantwoordelijk voor:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel16/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>distributie van fysieke werken door middel van het interbibliothecaire leenverkeer tussen de provincies; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=3&amp;artikel=16&amp;lid=2&amp;o=a&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel16/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>ontwikkeling van innovaties ten behoeve van de lokale bibliotheken, in overeenstemming met de Koninklijke Bibliotheek in verband met haar coördinerende taak.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=3&amp;artikel=16&amp;lid=2&amp;o=b&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=3&amp;artikel=16&amp;lid=2&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=16&amp;g=2022-07-01" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=3&amp;artikel=16&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=16"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;hoofdstuk=3&amp;g=2022-07-01" onderdeel="hoofdstuk=3" korte-verwijzing="1.0:c:BWBR0035878&amp;hoofdstuk=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=3&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="hoofdstuk=3" korte-verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=3"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk4" stam-id="12871003" versie-id="21870692" id="C31391461" label-id="12840344" inwerking="2015-01-01" label="Hoofdstuk 4" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">4</nr>
+    <titel status="officieel">De landelijke digitale bibliotheek</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Artikel17" stam-id="12870983" versie-id="21870672" id="C31391691" label-id="12840324" inwerking="2015-01-01" label="Artikel 17" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">17</nr>
+    <titel status="officieel">Uitvoering en beheerplan</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel17/Lid1" label-id="12840324L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het in stand houden van de landelijke digitale bibliotheek door de Koninklijke Bibliotheek houdt in ieder geval in:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Artikel17/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>ontwikkelen en beheren van de digitale infrastructuur;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=4&amp;artikel=17&amp;lid=1&amp;o=a&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Artikel17/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>beheren en van context voorzien van de digitale collectie en de afstemming met de collectie digitale werken van de Koninklijke Bibliotheek op grond van <extref doc="jci1.3:c:BWBR0005682&amp;artikel=1.5" label-id="2880324" verwijzing-id="2669432" bwb-id="BWBR0005682">artikel 1.5, tweede lid, van de WHW</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=4&amp;artikel=17&amp;lid=1&amp;o=b&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Artikel17/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>opstellen van een reglement voor de toegang tot digitale werken;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=4&amp;artikel=17&amp;lid=1&amp;o=c&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Artikel17/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>bereiken van verschillende doelgroepen; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=4&amp;artikel=17&amp;lid=1&amp;o=d&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk4/Artikel17/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>samenwerken met andere publieke aanbieders van digitale werken.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=4&amp;artikel=17&amp;lid=1&amp;o=e&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=e"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=4&amp;artikel=17&amp;lid=1&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel17/Lid2" label-id="12840324L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De Koninklijke Bibliotheek gaat in een apart onderdeel van het instellingsplan, bedoeld in <extref doc="jci1.3:c:BWBR0005682&amp;artikel=2.2a" label-id="3874164" verwijzing-id="2669433" bwb-id="BWBR0005682">artikel 2.2a van de WHW</extref>, in op de wijze waarop zij de landelijke digitale bibliotheek in stand houdt. Zij gaat daarbij specifiek in op de onderdelen, bedoeld in het eerste lid. Dit onderdeel van het instellingsplan heet beheerplan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=4&amp;artikel=17&amp;lid=2&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=17&amp;g=2022-07-01" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=4&amp;artikel=17&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=17"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Artikel18" stam-id="12870993" versie-id="21870682" id="C31391701" label-id="12840334" inwerking="2015-01-01" label="Artikel 18" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">18</nr>
+    <titel status="officieel">Inkoop digitale werken</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel18/Lid1" label-id="12840334L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De Koninklijke Bibliotheek verricht namens de Staat der Nederlanden het inkopen van werken voor de landelijke digitale bibliotheek.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=4&amp;artikel=18&amp;lid=1&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel18/Lid2" label-id="12840334L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister stelt jaarlijks aan de Koninklijke Bibliotheek een bedrag ter beschikking voor het inkopen van werken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=4&amp;artikel=18&amp;lid=2&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel18/Lid3" label-id="12840334L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De inkoop wordt uitsluitend verricht op voordracht van vertegenwoordigers van de lokale bibliotheken, welke is afgestemd op het bedrag, bedoeld in het tweede lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=4&amp;artikel=18&amp;lid=3&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=18&amp;g=2022-07-01" onderdeel="artikel=18" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=18"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=4&amp;artikel=18&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=18" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=18"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;hoofdstuk=4&amp;g=2022-07-01" onderdeel="hoofdstuk=4" korte-verwijzing="1.0:c:BWBR0035878&amp;hoofdstuk=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=4&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="hoofdstuk=4" korte-verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=4"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk5" stam-id="12871063" versie-id="21870752" id="C31391471" label-id="12840404" inwerking="2015-01-01" label="Hoofdstuk 5" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">5</nr>
+    <titel status="officieel">Financiële en administratieve bepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel19" stam-id="12871013" versie-id="21870702" id="C31391711" label-id="12840354" inwerking="2015-01-01" label="Artikel 19" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">19</nr>
+    <titel status="officieel">Bekostiging en overige voorschriften Koninklijke Bibliotheek</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel19/Lid1" label-id="12840354L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De Koninklijke Bibliotheek ontvangt voor de vervulling van haar taken, bedoeld in <intref doc="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=9&amp;z=2022-07-01&amp;g=2022-07-01" label-id="12840224" verwijzing-id="2669453" bwb-id="BWBR0035878" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel9">artikel 9</intref>, een aanvulling op haar rijksbijdrage, bedoeld in <extref doc="jci1.3:c:BWBR0005682&amp;artikel=2.6a" label-id="3874174" verwijzing-id="2669434" bwb-id="BWBR0005682">artikel 2.6a van de WHW</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=19&amp;lid=1&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel19/Lid2" label-id="12840354L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Op de aanvulling is <extref doc="jci1.3:c:BWBR0005682&amp;artikel=2.6a" label-id="3874174" verwijzing-id="2669435" bwb-id="BWBR0005682">artikel 2.6a van de WHW</extref> van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=19&amp;lid=2&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel19/Lid3" label-id="12840354L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De Koninklijke Bibliotheek geeft invulling aan en legt beleidsmatig en financieel verantwoording af over de vervulling van haar taken, bedoeld in artikel 9, in een daartoe apart opgenomen onderdeel van:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel19/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het instellingsplan, bedoeld in <extref doc="jci1.3:c:BWBR0005682&amp;artikel=2.2a" label-id="3874164" verwijzing-id="2669436" bwb-id="BWBR0005682">artikel 2.2a van de WHW</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=19&amp;lid=3&amp;o=a&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel19/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de begroting, bedoeld in <extref doc="jci1.3:c:BWBR0005682&amp;artikel=2.8" label-id="2880644" verwijzing-id="2669437" bwb-id="BWBR0005682">artikel 2.8 van de WHW</extref>, waarin een allocatie van middelen is opgenomen die overeenstemt met het instellingsplan; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=19&amp;lid=3&amp;o=b&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk5/Artikel19/Lid3/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>in de jaarverslaglegging, bedoeld in <extref doc="jci1.3:c:BWBR0005682&amp;artikel=2.9" label-id="2880654" verwijzing-id="2669438" bwb-id="BWBR0005682">artikel 2.9 van de WHW</extref>.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=19&amp;lid=3&amp;o=c&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=19&amp;lid=3&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel19/Lid4" label-id="12840354L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De <extref doc="jci1.3:c:BWBR0005682&amp;hoofdstuk=2" label-id="2880564" verwijzing-id="2669439" bwb-id="BWBR0005682">hoofdstukken 2</extref>, <extref doc="jci1.3:c:BWBR0005682&amp;hoofdstuk=3" label-id="2880804" verwijzing-id="2669440" bwb-id="BWBR0005682">3</extref>, <extref doc="jci1.3:c:BWBR0005682&amp;hoofdstuk=4" label-id="2880884" verwijzing-id="2669441" bwb-id="BWBR0005682">4</extref>, <extref doc="jci1.3:c:BWBR0005682&amp;hoofdstuk=13" label-id="2884454" verwijzing-id="2669442" bwb-id="BWBR0005682">13</extref>, <extref doc="jci1.3:c:BWBR0005682&amp;hoofdstuk=14" label-id="2884484" verwijzing-id="2669443" bwb-id="BWBR0005682">14</extref> en <extref doc="jci1.3:c:BWBR0005682&amp;hoofdstuk=15" label-id="2884564" verwijzing-id="2669444" bwb-id="BWBR0005682">15 van de WHW</extref>, zijn voor zover zij betrekking hebben op de Koninklijke Bibliotheek, van overeenkomstige toepassing op haar taakvervulling op grond van deze wet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=19&amp;lid=4&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=19&amp;g=2022-07-01" onderdeel="artikel=19" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=19"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=19&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=19" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=19"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20" stam-id="12871023" versie-id="21870712" id="C31391721" label-id="12840364" inwerking="2015-01-01" label="Artikel 20" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">20</nr>
+    <titel status="officieel">Subsidieverstrekking Koninklijke Bibliotheek</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20/Lid1" label-id="12840364L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Ten behoeve van de taken, bedoeld in <intref doc="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=9&amp;z=2022-07-01&amp;g=2022-07-01" label-id="12840224" verwijzing-id="2669467" bwb-id="BWBR0035878" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel9">artikel 9</intref>, kan de Koninklijke Bibliotheek subsidie verstrekken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=20&amp;lid=1&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20/Lid2" label-id="12840364L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien de Koninklijke Bibliotheek subsidie verstrekt stelt het algemeen bestuur een reglement vast waarin in ieder geval wordt vastgelegd de werkwijze, de procedures en de criteria die het bestuur bij het verstrekken van subsidies hanteert, alsmede de verplichtingen die aan de subsidieontvanger worden opgelegd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=20&amp;lid=2&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20/Lid3" label-id="12840364L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>In een reglement kunnen ook regels worden gesteld met betrekking tot de vaststelling van een subsidieplafond en de wijze van verdeling daarvan, de betaling en terugvordering van de subsidie alsmede de verlening van voorschotten op de subsidie. Onze Minister kan met betrekking tot genoemde onderwerpen het algemeen bestuur voorschrijven ter zake een reglement te wijzigen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=20&amp;lid=3&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20/Lid4" label-id="12840364L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Een besluit tot vaststelling van een reglement of een wijziging daarvan treedt slechts in werking na goedkeuring door Onze Minister. Goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=20&amp;lid=4&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20/Lid5" label-id="12840364L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Het niet tijdig bekendmaken van een besluit omtrent goedkeuring of een besluit tot verdaging van de beslissing omtrent goedkeuring heeft niet tot gevolg dat een besluit tot goedkeuring geacht wordt te zijn genomen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=20&amp;lid=5&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=20&amp;g=2022-07-01" onderdeel="artikel=20" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=20"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=20&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=20" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=20"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel21" stam-id="12871033" versie-id="21870722" id="C31391731" label-id="12840374" inwerking="2015-01-01" label="Artikel 21" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">21</nr>
+    <titel status="officieel">Subsidieverstrekking Minister</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel21/Lid1" label-id="12840374L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister kan ten behoeve van het netwerk van openbare bibliotheekvoorzieningen in bijzondere gevallen subsidie verstrekken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=21&amp;lid=1&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel21/Lid2" label-id="12840374L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Bij ministeriële regeling kunnen nadere regels worden gesteld voor het verstrekken van subsidie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=21&amp;lid=2&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=21&amp;g=2022-07-01" onderdeel="artikel=21" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=21"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=21&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=21" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=21"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel22" stam-id="12871043" versie-id="21870732" id="C31391741" label-id="12840384" inwerking="2015-01-01" label="Artikel 22" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">22</nr>
+    <titel status="officieel">Intellectuele eigendomsrechten</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel22/Lid1" label-id="12840384L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Bij het uitvoeren van de taken, bedoeld in <intref doc="jci1.3:c:BWBR0035878&amp;hoofdstuk=2&amp;artikel=9&amp;z=2022-07-01&amp;g=2022-07-01" label-id="12840224" verwijzing-id="2669465" bwb-id="BWBR0035878" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel9">artikel 9</intref>, streeft de Koninklijke Bibliotheek er naar de eigendom of een overdraagbaar gebruiksrecht te verkrijgen van bij die uitvoering gevestigde intellectuele eigendomsrechten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=22&amp;lid=1&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel22/Lid2" label-id="12840384L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Op verzoek van Onze Minister werkt de Koninklijke Bibliotheek mee aan het tot stand komen van een overeenkomst tot het overdragen aan de Staat der Nederlanden van de rechten, bedoeld in het eerste lid. Voor zover wettelijk mogelijk, doet zij afstand van persoonlijkheidsrechten als bedoeld in de Auteurswet die haar of haar personeel toebehoren.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=22&amp;lid=2&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=22&amp;g=2022-07-01" onderdeel="artikel=22" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=22"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=22&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=22" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=22"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel23" stam-id="12871053" versie-id="21870742" id="C31391751" label-id="12840394" inwerking="2015-01-01" label="Artikel 23" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">23</nr>
+    <titel status="officieel">Toezicht ministeriële subsidies</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel23/Lid1" label-id="12840394L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Met het toezicht op de naleving van de verplichtingen die van toepassing zijn op een subsidieontvanger bij verstrekking van subsidie als bedoeld in <intref doc="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=21&amp;z=2022-07-01&amp;g=2022-07-01" label-id="12840374" verwijzing-id="2669464" bwb-id="BWBR0035878" bwb-ng-variabel-deel="/Hoofdstuk5/Artikel21">artikel 21</intref>, zijn belast de bij besluit van Onze Minister aangewezen personen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=23&amp;lid=1&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel23/Lid2" label-id="12840394L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De toezichthouder beschikt niet over de bevoegdheden, genoemd in de <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:18" label-id="2820054" verwijzing-id="2669445" bwb-id="BWBR0005537">artikelen 5:18</extref> en <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:19" label-id="2820064" verwijzing-id="2669446" bwb-id="BWBR0005537">5:19 van de Algemene wet bestuursrecht</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=23&amp;lid=2&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel23/Lid3" label-id="12840394L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=23&amp;lid=3&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel23/Lid4" label-id="12840394L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Aan door Onze Minister verstrekte subsidies is de verplichting verbonden dat de subsidieontvanger aan een toezichthouder alle medewerking verleent die deze redelijkerwijs kan vorderen bij het uitoefenen van zijn bevoegdheden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=23&amp;lid=4&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=23&amp;g=2022-07-01" onderdeel="artikel=23" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=23"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;artikel=23&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=23" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=23"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;hoofdstuk=5&amp;g=2022-07-01" onderdeel="hoofdstuk=5" korte-verwijzing="1.0:c:BWBR0035878&amp;hoofdstuk=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="hoofdstuk=5" korte-verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=5"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk6" stam-id="12871123" versie-id="21870812" id="C31391481" label-id="12840464" inwerking="2015-01-01" label="Hoofdstuk 6" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">6</nr>
+    <titel status="officieel">Wijziging andere wetten</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Artikel24" stam-id="12871073" versie-id="21870762" id="C31391761" label-id="12840414" inwerking="2015-01-01" label="Artikel 24" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">24</nr>
+    <titel status="officieel">
+      <extref doc="jci1.3:c:BWBR0005682" label-id="2885604" verwijzing-id="2669447" bwb-id="BWBR0005682">Wet op het hoger onderwijs en wetenschappelijk onderzoek</extref>
+    </titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=24&amp;g=2022-07-01" onderdeel="artikel=24" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=24"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=6&amp;artikel=24&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=24" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=24"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Artikel25" stam-id="12871083" versie-id="21870772" id="C31391771" label-id="12840424" inwerking="2015-01-01" label="Artikel 25" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">25</nr>
+    <titel status="officieel">
+      <extref doc="jci1.3:c:BWBR0005904" label-id="1677534" verwijzing-id="2669448" bwb-id="BWBR0005904">Wet op het specifiek cultuurbeleid</extref>
+    </titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op het specifiek cultuurbeleid.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=25&amp;g=2022-07-01" onderdeel="artikel=25" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=25"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=6&amp;artikel=25&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=25" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=25"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Artikel26" stam-id="12871093" versie-id="21870782" id="C31391781" label-id="12840434" inwerking="2015-01-01" label="Artikel 26" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">26</nr>
+    <titel status="officieel">
+      <extref doc="jci1.3:c:BWBR0017452" label-id="6358474" verwijzing-id="2669449" bwb-id="BWBR0017452">Wet op de vaste boekenprijs</extref>
+    </titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de vaste boekenprijs.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=26&amp;g=2022-07-01" onderdeel="artikel=26" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=26"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=6&amp;artikel=26&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=26" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=26"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Artikel27" stam-id="12871103" versie-id="21870792" id="C31391791" label-id="12840444" inwerking="2015-01-01" label="Artikel 27" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">27</nr>
+    <titel status="officieel">
+      <extref doc="jci1.3:c:BWBR0001886" label-id="2880054" verwijzing-id="2669450" bwb-id="BWBR0001886">Auteurswet</extref>
+    </titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Auteurswet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=27&amp;g=2022-07-01" onderdeel="artikel=27" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=27"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=6&amp;artikel=27&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=27" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=27"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Artikel28" stam-id="12871113" versie-id="21870802" id="C31391801" label-id="12840454" inwerking="2015-01-01" label="Artikel 28" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">28</nr>
+    <titel status="officieel">
+      <extref doc="jci1.3:c:BWBR0005921" label-id="2847554" verwijzing-id="2669451" bwb-id="BWBR0005921">Wet op de naburige rechten</extref>
+    </titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de naburige rechten.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=28&amp;g=2022-07-01" onderdeel="artikel=28" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=28"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=6&amp;artikel=28&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=28" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=28"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;hoofdstuk=6&amp;g=2022-07-01" onderdeel="hoofdstuk=6" korte-verwijzing="1.0:c:BWBR0035878&amp;hoofdstuk=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=6&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="hoofdstuk=6" korte-verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=6"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk7" stam-id="12871163" versie-id="21870852" id="C31391491" label-id="12840504" inwerking="2015-01-01" label="Hoofdstuk 7" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">7</nr>
+    <titel status="officieel">Slotbepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk7/Artikel29" stam-id="12871133" versie-id="21870822" id="C31391811" label-id="12840474" inwerking="2015-01-01" label="Artikel 29" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">29</nr>
+    <titel status="officieel">Evaluatie</titel>
+  </kop>
+  <al>Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=29&amp;g=2022-07-01" onderdeel="artikel=29" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=29"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=7&amp;artikel=29&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=29" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=29"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk7/Artikel30" stam-id="12871143" versie-id="21870832" id="C31391821" label-id="12840484" inwerking="2015-01-01" label="Artikel 30" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">30</nr>
+    <titel status="officieel">Inwerkingtreding</titel>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=30&amp;g=2022-07-01" onderdeel="artikel=30" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=30"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=7&amp;artikel=30&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=30" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=30"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk7/Artikel31" stam-id="12871153" versie-id="21870842" id="C31391831" label-id="12840494" inwerking="2015-01-01" label="Artikel 31" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">31</nr>
+    <titel status="officieel">Citeertitel</titel>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet stelsel openbare bibliotheekvoorzieningen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;artikel=31&amp;g=2022-07-01" onderdeel="artikel=31" korte-verwijzing="1.0:c:BWBR0035878&amp;artikel=31"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=7&amp;artikel=31&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="artikel=31" korte-verwijzing="jci1.3:c:BWBR0035878&amp;artikel=31"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;hoofdstuk=7&amp;g=2022-07-01" onderdeel="hoofdstuk=7" korte-verwijzing="1.0:c:BWBR0035878&amp;hoofdstuk=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=7&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="hoofdstuk=7" korte-verwijzing="jci1.3:c:BWBR0035878&amp;hoofdstuk=7"/></jcis></meta-data></hoofdstuk>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="12871173" versie-id="21870862" id="C31391841" label-id="12840514" inwerking="2015-01-01" bron="Stb.2014-470" effect="nieuwe-regeling" ondertekening_bron="2014-11-19" publicatie_bron="2014-12-05" publicatie_iwt="2014-12-05" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>Wassenaar</plaats>
+      <datum isodatum="2014-11-19">19 november 2014</datum>
+    </dagtekening>
+    <koning>Willem-Alexander</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Onderwijs, Cultuur en Wetenschap, </functie>
+    <naam>
+      <voornaam>M.</voornaam>
+      <achternaam>Bussemaker</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister voor Wonen en Rijksdienst, </functie>
+    <naam>
+      <voornaam>S.A.</voornaam>
+      <achternaam>Blok</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Staatssecretaris van Veiligheid en Justitie, </functie>
+    <naam>
+      <voornaam>F.</voornaam>
+      <achternaam>Teeven</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2014-12-05">de <nadruk type="cur">vijfde</nadruk> december 2014</datum>
+    <ondertekening>
+      <functie>De Minister van Veiligheid en Justitie, </functie>
+      <naam>
+        <voornaam>I.W.</voornaam>
+        <achternaam>Opstelten</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-470"><publicatiejaar>2014</publicatiejaar><publicatienr>470</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-19">19-11-2014</ondertekeningsdatum><dossierref dossier="33846">33846</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2014-471"><publicatiejaar>2014</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2014-12-05">05-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-28">28-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0035878&amp;g=2022-07-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0035878"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0035878&amp;z=2022-07-01&amp;g=2022-07-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0035878"/></jcis></meta-data></wetgeving></toestand>

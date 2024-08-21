@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0031263/2014-08-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0031263" inwerkingtreding="2014-08-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="11664263" versie-id="19243482" id="C26849301" label-id="11636974" inwerkingtredingsdatum="2012-02-11">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="11664283" versie-id="19243382" id="C26849201" label-id="11636874" inwerking="2012-02-11" bron="Stb.2012-35" effect="nieuwe-regeling" ondertekening_bron="2012-01-19" publicatie_bron="2012-02-10" publicatie_iwt="2012-02-10" status="goed">Wet van 19 januari 2012 inzake instelling van de Raad voor de leefomgeving en infrastructuur (Wet Raad voor de leefomgeving en infrastructuur)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-35"><publicatiejaar>2012</publicatiejaar><publicatienr>35</publicatienr><uitgiftedatum isodatum="2012-02-10">10-02-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-01-19">19-01-2012</ondertekeningsdatum><dossierref dossier="32314">32314</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-35"><publicatiejaar>2012</publicatiejaar><publicatienr>35</publicatienr><uitgiftedatum isodatum="2012-02-10">10-02-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-01-19">19-01-2012</ondertekeningsdatum><dossierref dossier="32314">32314</dossierref></publicatie><inwerkingtreding.datum isodatum="2012-02-11">11-02-2012</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="11664293" versie-id="19243392" id="C26849211" label-id="11636884" inwerking="2012-02-11" bron="Stb.2012-35" effect="nieuwe-regeling" ondertekening_bron="2012-01-19" publicatie_bron="2012-02-10" publicatie_iwt="2012-02-10">Wet Raad voor de leefomgeving en infrastructuur<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-35"><publicatiejaar>2012</publicatiejaar><publicatienr>35</publicatienr><uitgiftedatum isodatum="2012-02-10">10-02-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-01-19">19-01-2012</ondertekeningsdatum><dossierref dossier="32314">32314</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-35"><publicatiejaar>2012</publicatiejaar><publicatienr>35</publicatienr><uitgiftedatum isodatum="2012-02-10">10-02-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-01-19">19-01-2012</ondertekeningsdatum><dossierref dossier="32314">32314</dossierref></publicatie><inwerkingtreding.datum isodatum="2012-02-11">11-02-2012</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="11664303" versie-id="19243402" id="C26849221" label-id="11636894" inwerking="2012-02-11" bron="Stb.2012-35" effect="nieuwe-regeling" ondertekening_bron="2012-01-19" publicatie_bron="2012-02-10" publicatie_iwt="2012-02-10" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is een vast college voor advies in te stellen met betrekking tot de hoofdlijnen van beleid inzake de leefomgeving en infrastructuur, onder de gelijktijdige opheffing van de VROM-raad, de Raad voor verkeer en waterstaat en de Raad voor het landelijk gebied;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-35"><publicatiejaar>2012</publicatiejaar><publicatienr>35</publicatienr><uitgiftedatum isodatum="2012-02-10">10-02-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-01-19">19-01-2012</ondertekeningsdatum><dossierref dossier="32314">32314</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-35"><publicatiejaar>2012</publicatiejaar><publicatienr>35</publicatienr><uitgiftedatum isodatum="2012-02-10">10-02-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-01-19">19-01-2012</ondertekeningsdatum><dossierref dossier="32314">32314</dossierref></publicatie><inwerkingtreding.datum isodatum="2012-02-11">11-02-2012</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="11664313" versie-id="19243412" id="C26849231" label-id="11636904" inwerking="2012-02-11" label="Artikel 1" bron="Stb.2012-35" effect="nieuwe-regeling" ondertekening_bron="2012-01-19" publicatie_bron="2012-02-10" publicatie_iwt="2012-02-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>Er is een Raad voor de leefomgeving en infrastructuur, hierna te noemen de raad.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-35"><publicatiejaar>2012</publicatiejaar><publicatienr>35</publicatienr><uitgiftedatum isodatum="2012-02-10">10-02-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-01-19">19-01-2012</ondertekeningsdatum><dossierref dossier="32314">32314</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-35"><publicatiejaar>2012</publicatiejaar><publicatienr>35</publicatienr><uitgiftedatum isodatum="2012-02-10">10-02-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-01-19">19-01-2012</ondertekeningsdatum><dossierref dossier="32314">32314</dossierref></publicatie><inwerkingtreding.datum isodatum="2012-02-11">11-02-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031263&amp;artikel=1&amp;g=2014-08-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0031263&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031263&amp;artikel=1&amp;z=2014-08-01&amp;g=2014-08-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0031263&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" stam-id="11664323" versie-id="21430942" id="C30865851" label-id="11636914" inwerking="2014-08-01" label="Artikel 2" bron="Stb.2014-194" effect="wijziging" ondertekening_bron="2014-04-16" publicatie_bron="2014-06-06" publicatie_iwt="2014-06-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="11636914L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De raad heeft tot taak de regering en de beide kamers der Staten-Generaal te adviseren over strategische beleidsvraagstukken inzake de duurzame ontwikkeling van de leefomgeving en infrastructuur, meer in het bijzonder op het gebied van wonen, ruimtelijke ordening, milieu, klimaatbeleid, water, energie-infrastructuur, landbouw, natuur, voedsel(kwaliteit), verkeer en vervoer en de ruimtelijk-economische ontwikkeling, al dan niet in onderlinge samenhang.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031263&amp;artikel=2&amp;lid=1&amp;z=2014-08-01&amp;g=2014-08-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="11636914L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De raad heeft voorts tot taak de regering en de beide kamers der Staten-Generaal te adviseren over de hoofdlijnen van het beleid en wetgeving gericht op het voorkomen van ongevallen en rampen als gevolg van het gebruik, de opslag, de productie en het vervoer van gevaarlijke stoffen en de beperking van de gevolgen van dergelijke ongevallen en rampen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031263&amp;artikel=2&amp;lid=2&amp;z=2014-08-01&amp;g=2014-08-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-194"><publicatiejaar>2014</publicatiejaar><publicatienr>194</publicatienr><uitgiftedatum isodatum="2014-06-06">06-06-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-04-16">16-04-2014</ondertekeningsdatum><dossierref dossier="33743">33743</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-236"><publicatiejaar>2014</publicatiejaar><publicatienr>236</publicatienr><uitgiftedatum isodatum="2014-06-27">27-06-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-06-17">17-06-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2014-08-01">01-08-2014</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031263&amp;artikel=2&amp;g=2014-08-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0031263&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031263&amp;artikel=2&amp;z=2014-08-01&amp;g=2014-08-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0031263&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="11664333" versie-id="19243432" id="C26849251" label-id="11636924" inwerking="2012-02-11" label="Artikel 3" bron="Stb.2012-35" effect="nieuwe-regeling" ondertekening_bron="2012-01-19" publicatie_bron="2012-02-10" publicatie_iwt="2012-02-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet advies en overleg verkeer en waterstaat.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-35"><publicatiejaar>2012</publicatiejaar><publicatienr>35</publicatienr><uitgiftedatum isodatum="2012-02-10">10-02-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-01-19">19-01-2012</ondertekeningsdatum><dossierref dossier="32314">32314</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-35"><publicatiejaar>2012</publicatiejaar><publicatienr>35</publicatienr><uitgiftedatum isodatum="2012-02-10">10-02-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-01-19">19-01-2012</ondertekeningsdatum><dossierref dossier="32314">32314</dossierref></publicatie><inwerkingtreding.datum isodatum="2012-02-11">11-02-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031263&amp;artikel=3&amp;g=2014-08-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0031263&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031263&amp;artikel=3&amp;z=2014-08-01&amp;g=2014-08-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0031263&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" stam-id="11664343" versie-id="19243442" id="C26849261" label-id="11636934" inwerking="2012-02-11" label="Artikel 4" bron="Stb.2012-35" effect="nieuwe-regeling" ondertekening_bron="2012-01-19" publicatie_bron="2012-02-10" publicatie_iwt="2012-02-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <al>De <extref doc="jci1.3:c:BWBR0008279" verwijzing-id="2485882" bwb-id="BWBR0008279" label-id="183034">Wet op de VROM-raad</extref> en de <extref doc="jci1.3:c:BWBR0008278" verwijzing-id="2485883" bwb-id="BWBR0008278" label-id="181534">Wet op de raad voor het landelijk gebied</extref> worden ingetrokken.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-35"><publicatiejaar>2012</publicatiejaar><publicatienr>35</publicatienr><uitgiftedatum isodatum="2012-02-10">10-02-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-01-19">19-01-2012</ondertekeningsdatum><dossierref dossier="32314">32314</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-35"><publicatiejaar>2012</publicatiejaar><publicatienr>35</publicatienr><uitgiftedatum isodatum="2012-02-10">10-02-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-01-19">19-01-2012</ondertekeningsdatum><dossierref dossier="32314">32314</dossierref></publicatie><inwerkingtreding.datum isodatum="2012-02-11">11-02-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031263&amp;artikel=4&amp;g=2014-08-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0031263&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031263&amp;artikel=4&amp;z=2014-08-01&amp;g=2014-08-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0031263&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" stam-id="11664353" versie-id="19243452" id="C26849271" label-id="11636944" inwerking="2012-02-11" label="Artikel 5" bron="Stb.2012-35" effect="nieuwe-regeling" ondertekening_bron="2012-01-19" publicatie_bron="2012-02-10" publicatie_iwt="2012-02-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <al>Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van <intref verwijzing-id="2485884" doc="jci1.3:c:BWBR0031263&amp;artikel=2&amp;z=2014-08-01&amp;g=2014-08-01" bwb-id="BWBR0031263" label-id="11636914" bwb-ng-variabel-deel="/Artikel2">artikel 2, tweede lid</intref>, dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-35"><publicatiejaar>2012</publicatiejaar><publicatienr>35</publicatienr><uitgiftedatum isodatum="2012-02-10">10-02-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-01-19">19-01-2012</ondertekeningsdatum><dossierref dossier="32314">32314</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-35"><publicatiejaar>2012</publicatiejaar><publicatienr>35</publicatienr><uitgiftedatum isodatum="2012-02-10">10-02-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-01-19">19-01-2012</ondertekeningsdatum><dossierref dossier="32314">32314</dossierref></publicatie><inwerkingtreding.datum isodatum="2012-02-11">11-02-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031263&amp;artikel=5&amp;g=2014-08-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0031263&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031263&amp;artikel=5&amp;z=2014-08-01&amp;g=2014-08-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0031263&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" stam-id="11664363" versie-id="19243462" id="C26849281" label-id="11636954" inwerking="2012-02-11" label="Artikel 6" bron="Stb.2012-35" effect="nieuwe-regeling" ondertekening_bron="2012-01-19" publicatie_bron="2012-02-10" publicatie_iwt="2012-02-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: «Wet Raad voor de leefomgeving en infrastructuur» of als «Wet RLI».</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-35"><publicatiejaar>2012</publicatiejaar><publicatienr>35</publicatienr><uitgiftedatum isodatum="2012-02-10">10-02-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-01-19">19-01-2012</ondertekeningsdatum><dossierref dossier="32314">32314</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-35"><publicatiejaar>2012</publicatiejaar><publicatienr>35</publicatienr><uitgiftedatum isodatum="2012-02-10">10-02-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-01-19">19-01-2012</ondertekeningsdatum><dossierref dossier="32314">32314</dossierref></publicatie><inwerkingtreding.datum isodatum="2012-02-11">11-02-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031263&amp;artikel=6&amp;g=2014-08-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0031263&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031263&amp;artikel=6&amp;z=2014-08-01&amp;g=2014-08-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0031263&amp;artikel=6"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="11664373" versie-id="19243472" id="C26849291" label-id="11636964" inwerking="2012-02-11" bron="Stb.2012-35" effect="nieuwe-regeling" ondertekening_bron="2012-01-19" publicatie_bron="2012-02-10" publicatie_iwt="2012-02-10" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>’s-Gravenhage</plaats>
+      <datum isodatum="2012-01-19">19 januari 2012</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Infrastructuur en Milieu,</functie>
+    <naam>
+      <voornaam>M. H.</voornaam>
+      <achternaam>Schultz van Haegen-Maas Geesteranus</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Binnenlandse Zaken en Koninkrijksrelaties,</functie>
+    <naam>
+      <voornaam>J. W. E.</voornaam>
+      <achternaam>Spies</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2012-02-10">de <nadruk type="cur">tiende</nadruk> februari 2012</datum>
+    <ondertekening>
+      <functie>De Minister van Veiligheid en Justitie,</functie>
+      <naam>
+        <voornaam>I. W.</voornaam>
+        <achternaam>Opstelten</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-35"><publicatiejaar>2012</publicatiejaar><publicatienr>35</publicatienr><uitgiftedatum isodatum="2012-02-10">10-02-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-01-19">19-01-2012</ondertekeningsdatum><dossierref dossier="32314">32314</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-35"><publicatiejaar>2012</publicatiejaar><publicatienr>35</publicatienr><uitgiftedatum isodatum="2012-02-10">10-02-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-01-19">19-01-2012</ondertekeningsdatum><dossierref dossier="32314">32314</dossierref></publicatie><inwerkingtreding.datum isodatum="2012-02-11">11-02-2012</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-35"><publicatiejaar>2012</publicatiejaar><publicatienr>35</publicatienr><uitgiftedatum isodatum="2012-02-10">10-02-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-01-19">19-01-2012</ondertekeningsdatum><dossierref dossier="32314">32314</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-35"><publicatiejaar>2012</publicatiejaar><publicatienr>35</publicatienr><uitgiftedatum isodatum="2012-02-10">10-02-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-01-19">19-01-2012</ondertekeningsdatum><dossierref dossier="32314">32314</dossierref></publicatie><inwerkingtreding.datum isodatum="2012-02-11">11-02-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0031263&amp;g=2014-08-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0031263"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0031263&amp;z=2014-08-01&amp;g=2014-08-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0031263"/></jcis></meta-data></wetgeving></toestand>

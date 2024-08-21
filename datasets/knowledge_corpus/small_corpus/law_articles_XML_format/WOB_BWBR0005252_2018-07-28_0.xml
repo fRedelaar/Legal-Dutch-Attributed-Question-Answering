@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0005252/2018-07-28/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0005252" inwerkingtreding="2018-07-28"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="1821623" versie-id="12765422" id="C17215401" label-id="1776884" inwerkingtredingsdatum="2005-12-22">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="1821653" versie-id="2715202" id="C2715201" label-id="1776484" inwerking="1992-05-01" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31" status="goed">Wet van 31 oktober 1991, houdende regelen betreffende de openbaarheid van bestuur<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="1821663" versie-id="2715212" id="C2715211" label-id="1776494" inwerking="1992-05-01" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31">Wet openbaarheid van bestuur<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="1821673" versie-id="2715222" id="C2715221" label-id="1776504" inwerking="1992-05-01" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het, mede gelet op <extref doc="jci1.3:c:BWBR0001840&amp;artikel=110" verwijzing-id="627482" bwb-id="BWBR0001840" label-id="2941684">artikel 110 van de Grondwet</extref>, met het oog op een goede en democratische bestuursvoering wenselijk is gebleken de regelen met betrekking tot de openheid en openbaarheid van bestuur aan te passen en deze zoveel mogelijk in de wet op te nemen;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukI" stam-id="1821703" versie-id="2715252" id="C2715251" label-id="1776534" inwerking="1992-05-01" label="Hoofdstuk I" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>I</nr>
+    <titel status="officieel">Definities</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukI/Artikel1" stam-id="1821683" versie-id="22546652" id="C32374071" label-id="1776514" inwerking="2015-07-18" label="Artikel 1" bron="Stb.2015-271" effect="wijziging" ondertekening_bron="2015-06-24" publicatie_bron="2015-07-07" publicatie_iwt="2015-07-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder: </al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>document: een bij een bestuursorgaan berustend schriftelijk stuk of ander materiaal dat gegevens bevat;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=I&amp;artikel=1&amp;o=a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>bestuurlijke aangelegenheid: een aangelegenheid die betrekking heeft op beleid van een bestuursorgaan, daaronder begrepen de voorbereiding en de uitvoering ervan;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=I&amp;artikel=1&amp;o=b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>intern beraad: het beraad over een bestuurlijke aangelegenheid binnen een bestuursorgaan, dan wel binnen een kring van bestuursorganen in het kader van de gezamenlijke verantwoordelijkheid voor een bestuurlijke aangelegenheid;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=I&amp;artikel=1&amp;o=c&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>niet-ambtelijke adviescommissie: een van overheidswege ingestelde instantie, met als taak het adviseren van een of meer bestuursorganen en waarvan geen ambtenaren lid zijn, die het bestuursorgaan waaronder zij ressorteren adviseren over de onderwerpen die aan de instantie zijn voorgelegd. Ambtenaren, die secretaris of adviserend lid zijn van een adviesinstantie, worden voor de toepassing van deze bepaling niet als leden daarvan beschouwd;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=I&amp;artikel=1&amp;o=d&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=d"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeele">
+      <li.nr>e.</li.nr>
+      <al>ambtelijke of gemengd samengestelde adviescommissie: een instantie, met als taak het adviseren van één of meer bestuursorganen, die geheel of gedeeltelijk is samengesteld uit ambtenaren, tot wier functie behoort het adviseren van het bestuursorgaan waaronder zij ressorteren over de onderwerpen die aan de instantie zijn voorgelegd;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=I&amp;artikel=1&amp;o=e&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=e"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeelf">
+      <li.nr>f.</li.nr>
+      <al>persoonlijke beleidsopvatting: een opvatting, voorstel, aanbeveling of conclusie van een of meer personen over een bestuurlijke aangelegenheid en de daartoe door hen aangevoerde argumenten;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=I&amp;artikel=1&amp;o=f&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=f"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeelg">
+      <li.nr>g.</li.nr>
+      <al>milieu-informatie: hetgeen daaronder wordt verstaan in <extref doc="jci1.3:c:BWBR0003245&amp;artikel=19.1a" label-id="6225104" verwijzing-id="1884361" bwb-id="BWBR0003245">artikel 19.1a van de Wet milieubeheer</extref>.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=I&amp;artikel=1&amp;o=g&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=g"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2015-271"><publicatiejaar>2015</publicatiejaar><publicatienr>271</publicatienr><uitgiftedatum isodatum="2015-07-07">07-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-06-24">24-06-2015</ondertekeningsdatum><dossierref dossier="34123">34123</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2015-299"><publicatiejaar>2015</publicatiejaar><publicatienr>299</publicatienr><uitgiftedatum isodatum="2015-07-17">17-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-07-06">06-07-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-07-18">18-07-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=1&amp;g=2018-07-28" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=I&amp;artikel=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=1"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukI/Artikel1a" code="a-1a" stam-id="1821693" versie-id="10911032" id="C15626661" label-id="1776524" inwerking="2005-02-14" label="Artikel 1a" bron="Stb.2004-519" effect="wijziging" ondertekening_bron="2004-09-30" publicatie_bron="2004-10-26" publicatie_iwt="2005-02-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>1a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukI/Artikel1a/Lid1" label-id="1776524L1">
+    <lidnr>1</lidnr>
+    <al>Deze wet is van toepassing op de volgende bestuursorganen: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1a/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>Onze Ministers; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=I&amp;artikel=1a&amp;lid=1&amp;o=a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1a/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de bestuursorganen van provincies, gemeenten, waterschappen en publiekrechtelijke bedrijfsorganisatie; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=I&amp;artikel=1a&amp;lid=1&amp;o=b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1a/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>bestuursorganen die onder de verantwoordelijkheid van de onder a en b genoemde organen werkzaam zijn; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=I&amp;artikel=1a&amp;lid=1&amp;o=c&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1a/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>andere bestuursorganen, voor zover niet bij algemene maatregel van bestuur uitgezonderd. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=I&amp;artikel=1a&amp;lid=1&amp;o=d&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=I&amp;artikel=1a&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukI/Artikel1a/Lid2" label-id="1776524L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>In afwijking van het eerste lid, onder d, is deze wet op de krachtens die bepaling uitgezonderde bestuursorganen van toepassing voorzover het gaat om het verstrekken van milieu-informatie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=I&amp;artikel=1a&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2004-519"><publicatiejaar>2004</publicatiejaar><publicatienr>519</publicatienr><uitgiftedatum isodatum="2004-10-26">26-10-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-30">30-09-2004</ondertekeningsdatum><dossierref dossier="28835">28835</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-66"><publicatiejaar>2005</publicatiejaar><publicatienr>66</publicatienr><uitgiftedatum isodatum="2005-02-10">10-02-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-02-01">01-02-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-02-14">14-02-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De wijziging op het tweede lid kan niet worden doorgevoerd.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=1a&amp;g=2018-07-28" onderdeel="artikel=1a" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=1a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=I&amp;artikel=1a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=1a" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=1a"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;hoofdstuk=I&amp;g=2018-07-28" onderdeel="hoofdstuk=I" korte-verwijzing="1.0:c:BWBR0005252&amp;hoofdstuk=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=I&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="hoofdstuk=I" korte-verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=I"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukII" stam-id="1821723" versie-id="2715272" id="C2715271" label-id="1776554" inwerking="1992-05-01" label="Hoofdstuk II" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>II</nr>
+    <titel status="officieel">Openbaarheid</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukII/Artikel2" code="a-2" stam-id="1821713" versie-id="12046932" id="C16156241" label-id="1776544" inwerking="2005-07-08" label="Artikel 2" bron="Stb.2005-341" effect="wijziging" ondertekening_bron="2005-06-23" publicatie_bron="2005-07-07" publicatie_iwt="2005-07-07" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel2/Lid1" label-id="1776544L1">
+    <lidnr>1</lidnr>
+    <al>Een bestuursorgaan verstrekt bij de uitvoering van zijn taak, onverminderd het elders bij wet bepaalde, informatie overeenkomstig deze wet en gaat daarbij uit van het algemeen belang van openbaarheid van informatie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=II&amp;artikel=2&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel2/Lid2" label-id="1776544L2">
+    <lidnr>2</lidnr>
+    <al>Het bestuursorgaan draagt er zo veel mogelijk zorg voor dat de informatie die het overeenkomstig deze wet verstrekt, actueel, nauwkeurig en vergelijkbaar is.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=II&amp;artikel=2&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-341"><publicatiejaar>2005</publicatiejaar><publicatienr>341</publicatienr><uitgiftedatum isodatum="2005-07-07">07-07-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-06-23">23-06-2005</ondertekeningsdatum><dossierref dossier="29877">29877</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-342"><publicatiejaar>2005</publicatiejaar><publicatienr>342</publicatienr><uitgiftedatum isodatum="2005-07-07">07-07-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-06-27">27-06-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-07-08">08-07-2005</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=2&amp;g=2018-07-28" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=II&amp;artikel=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=2"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;hoofdstuk=II&amp;g=2018-07-28" onderdeel="hoofdstuk=II" korte-verwijzing="1.0:c:BWBR0005252&amp;hoofdstuk=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=II&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="hoofdstuk=II" korte-verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=II"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukIII" stam-id="1821783" versie-id="2715332" id="C2715331" label-id="1776614" inwerking="1992-05-01" label="Hoofdstuk III" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>III</nr>
+    <titel status="officieel">Informatie op verzoek</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukIII/Artikel3" code="a-3" stam-id="1821733" versie-id="10911052" id="C15626681" label-id="1776564" inwerking="2005-02-14" label="Artikel 3" bron="Stb.2004-519" effect="wijziging" ondertekening_bron="2004-09-30" publicatie_bron="2004-10-26" publicatie_iwt="2005-02-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel3/Lid1" label-id="1776564L1">
+    <lidnr>1</lidnr>
+    <al>Een ieder kan een verzoek om informatie neergelegd in documenten over een bestuurlijke aangelegenheid richten tot een bestuursorgaan of een onder verantwoordelijkheid van een bestuursorgaan werkzame instelling, dienst of bedrijf.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=3&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel3/Lid2" label-id="1776564L2">
+    <lidnr>2</lidnr>
+    <al> De verzoeker vermeldt bij zijn verzoek de bestuurlijke aangelegenheid of het daarop betrekking hebbend document, waarover hij informatie wenst te ontvangen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=3&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel3/Lid3" label-id="1776564L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De verzoeker behoeft bij zijn verzoek geen belang te stellen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=3&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel3/Lid4" label-id="1776564L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Indien een verzoek te algemeen geformuleerd is, verzoekt het bestuursorgaan de verzoeker zo spoedig mogelijk om zijn verzoek te preciseren en is het hem daarbij behulpzaam.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=3&amp;lid=4&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel3/Lid5" label-id="1776564L5">
+    <lidnr>5</lidnr>
+    <al> Een verzoek om informatie wordt ingewilligd met inachtneming van het bepaalde in de <intref verwijzing-id="627485" doc="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0005252" label-id="1776654" bwb-ng-variabel-deel="/HoofdstukV/Artikel10">artikelen 10</intref> en <intref verwijzing-id="627486" doc="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=11&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0005252" label-id="1776664" bwb-ng-variabel-deel="/HoofdstukV/Artikel11">11</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=3&amp;lid=5&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2004-519"><publicatiejaar>2004</publicatiejaar><publicatienr>519</publicatienr><uitgiftedatum isodatum="2004-10-26">26-10-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-30">30-09-2004</ondertekeningsdatum><dossierref dossier="28835">28835</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-66"><publicatiejaar>2005</publicatiejaar><publicatienr>66</publicatienr><uitgiftedatum isodatum="2005-02-10">10-02-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-02-01">01-02-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-02-14">14-02-2005</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=3&amp;g=2018-07-28" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=3"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIII/Artikel4" code="a-4" stam-id="1821743" versie-id="2715292" id="C2715291" label-id="1776574" inwerking="1994-01-01" label="Artikel 4" bron="Stb.1992-422" effect="wijziging" ondertekening_bron="1992-06-04" publicatie_iwt="1993-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>4</nr>
+  </kop>
+  <al>Indien het verzoek betrekking heeft op gegevens in documenten die berusten bij een ander bestuursorgaan dan dat waarbij het verzoek is ingediend, wordt de verzoeker zo nodig naar dat orgaan verwezen. Is het verzoek schriftelijk gedaan, dan wordt het doorgezonden onder mededeling van de doorzending aan de verzoeker.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>422</publicatienr><ondertekeningsdatum isodatum="1992-06-04">04-06-1992</ondertekeningsdatum><dossierref dossier="22061">22061</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>693</publicatienr><uitgiftedatum isodatum="1993-12-23">23-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=4&amp;g=2018-07-28" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=4&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=4"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIII/Artikel5" code="a-5" stam-id="1821753" versie-id="2715302" id="C20437811" label-id="1776584" inwerking="1994-01-01" label="Artikel 5" bron="Stb.1992-422" effect="nieuw" ondertekening_bron="1992-06-04" publicatie_iwt="1993-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel5/Lid1" label-id="1776584L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De beslissing op een verzoek om informatie wordt mondeling of schriftelijk genomen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=5&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel5/Lid2" label-id="1776584L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Een gehele of gedeeltelijke afwijzing van een schriftelijk verzoek om informatie vindt schriftelijk plaats. In geval van een mondeling verzoek vindt een afwijzing schriftelijk plaats, indien de verzoeker daarom vraagt. De verzoeker wordt op deze mogelijkheid gewezen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=5&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel5/Lid3" label-id="1776584L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> De beslissing wordt eveneens schriftelijk genomen indien het verzoek om informatie een derde betreft en deze daarom heeft verzocht. In dat geval wordt tevens aan de derde de op hem betrekking hebbende informatie toegezonden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=5&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>422</publicatienr><ondertekeningsdatum isodatum="1992-06-04">04-06-1992</ondertekeningsdatum><dossierref dossier="22061">22061</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>693</publicatienr><uitgiftedatum isodatum="1993-12-23">23-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=5&amp;g=2018-07-28" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=5&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=5"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIII/Artikel6" code="a-6" stam-id="1821763" versie-id="16677182" id="C23137081" label-id="1776594" inwerking="2009-10-01" label="Artikel 6" bron="Stb.2009-384" effect="wijziging" ondertekening_bron="2009-06-18" publicatie_bron="2009-09-30" publicatie_iwt="2009-09-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Lid1" label-id="1776594L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het bestuursorgaan beslist op het verzoek om informatie zo spoedig mogelijk, doch uiterlijk binnen vier weken gerekend vanaf de dag na die waarop het verzoek is ontvangen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=6&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Lid2" label-id="1776594L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het bestuursorgaan kan de beslissing voor ten hoogste vier weken verdagen. Van de verdaging wordt voor de afloop van de eerste termijn schriftelijk gemotiveerd mededeling gedaan aan de verzoeker.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=6&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Lid3" label-id="1776594L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Onverminderd <extref doc="jci1.3:c:BWBR0005537&amp;artikel=4:15" verwijzing-id="2298622" bwb-id="BWBR0005537" label-id="2814874">artikel 4:15 van de Algemene wet bestuursrecht</extref> wordt de termijn voor het geven van een beschikking opgeschort gerekend vanaf de dag na die waarop het bestuursorgaan de verzoeker meedeelt dat toepassing is gegeven aan <extref doc="jci1.3:c:BWBR0005537&amp;artikel=4:8" verwijzing-id="2298623" bwb-id="BWBR0005537" label-id="2814794">artikel 4:8 van de Algemene wet bestuursrecht</extref>, tot de dag waarop door de belanghebbende of belanghebbenden een zienswijze naar voren is gebracht of de daarvoor gestelde termijn ongebruikt is verstreken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=6&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Lid4" label-id="1776594L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Indien de opschorting, bedoeld in het derde lid, eindigt, doet het bestuursorgaan daarvan zo spoedig mogelijk mededeling aan de verzoeker, onder vermelding van de termijn binnen welke de beschikking alsnog moet worden gegeven.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=6&amp;lid=4&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Lid5" label-id="1776594L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Indien het bestuursorgaan heeft besloten informatie te verstrekken, wordt de informatie verstrekt tegelijk met de bekendmaking van het besluit, tenzij naar verwachting een belanghebbende bezwaar daar tegen heeft, in welk geval de informatie niet eerder wordt verstrekt dan twee weken nadat de beslissing is bekendgemaakt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=6&amp;lid=5&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Lid6" label-id="1776594L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Voor zover het verzoek betrekking heeft op het verstrekken van milieu-informatie:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Lid6/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>bedraagt de uiterste beslistermijn in afwijking van het eerste lid twee weken indien het bestuursorgaan voornemens is de milieu-informatie te verstrekken terwijl naar verwachting een belanghebbende daar bezwaar tegen heeft;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=6&amp;lid=6&amp;o=a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Lid6/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>kan de beslissing slechts worden verdaagd op grond van het tweede lid, indien de omvang of de gecompliceerdheid van de milieu-informatie een verlenging rechtvaardigt;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=6&amp;lid=6&amp;o=b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Lid6/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>zijn het derde en vierde lid niet van toepassing.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=6&amp;lid=6&amp;o=c&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=6&amp;lid=6&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-384"><publicatiejaar>2009</publicatiejaar><publicatienr>384</publicatienr><uitgiftedatum isodatum="2009-09-30">30-09-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-18">18-06-2009</ondertekeningsdatum><dossierref dossier="31751">31751</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-384"><publicatiejaar>2009</publicatiejaar><publicatienr>384</publicatienr><uitgiftedatum isodatum="2009-09-30">30-09-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-18">18-06-2009</ondertekeningsdatum><dossierref dossier="31751">31751</dossierref></publicatie><inwerkingtreding.datum isodatum="2009-10-01">01-10-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=6&amp;g=2018-07-28" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=6&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=6"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIII/Artikel7" code="a-7" stam-id="1821773" versie-id="12046942" id="C16156251" label-id="1776604" inwerking="2005-07-08" label="Artikel 7" bron="Stb.2005-341" effect="wijziging" ondertekening_bron="2005-06-23" publicatie_bron="2005-07-07" publicatie_iwt="2005-07-07" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel7/Lid1" label-id="1776604L1">
+    <lidnr>1</lidnr>
+    <al>Het bestuursorgaan verstrekt de informatie met betrekking tot de documenten die de verlangde informatie bevatten door: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel7/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>kopie ervan te geven of de letterlijke inhoud ervan in andere vorm te verstrekken,</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=7&amp;lid=1&amp;o=a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel7/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>kennisneming van de inhoud toe te staan,</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=7&amp;lid=1&amp;o=b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel7/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>een uittreksel of een samenvatting van de inhoud te geven, of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=7&amp;lid=1&amp;o=c&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel7/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>inlichtingen daaruit te verschaffen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=7&amp;lid=1&amp;o=d&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=7&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel7/Lid2" label-id="1776604L2">
+    <lidnr>2</lidnr>
+    <al>Het bestuursorgaan verstrekt de informatie in de door de verzoeker verzochte vorm, tenzij:</al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel7/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het verstrekken van de informatie in die vorm redelijkerwijs niet gevergd kan worden;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=7&amp;lid=2&amp;o=a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIII/Artikel7/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de informatie reeds in een andere, voor de verzoeker gemakkelijk toegankelijke vorm voor het publiek beschikbaar is.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=7&amp;lid=2&amp;o=b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=7&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel7/Lid3" label-id="1776604L3">
+    <lidnr>3</lidnr>
+    <al>Indien het verzoek betrekking heeft op milieu-informatie als bedoeld in <extref doc="jci1.3:c:BWBR0003245&amp;artikel=19.1a" verwijzing-id="1966801" bwb-id="BWBR0003245" label-id="6225104">artikel 19.1a, eerste lid, onder b, van de Wet milieubeheer</extref>, verstrekt het bestuursorgaan, zo nodig, en indien deze informatie voorhanden is, tevens informatie over de methoden die zijn gebruikt bij het samenstellen van eerstbedoelde informatie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=7&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-341"><publicatiejaar>2005</publicatiejaar><publicatienr>341</publicatienr><uitgiftedatum isodatum="2005-07-07">07-07-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-06-23">23-06-2005</ondertekeningsdatum><dossierref dossier="29877">29877</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-342"><publicatiejaar>2005</publicatiejaar><publicatienr>342</publicatienr><uitgiftedatum isodatum="2005-07-07">07-07-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-06-27">27-06-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-07-08">08-07-2005</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=7&amp;g=2018-07-28" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;artikel=7&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=7"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;hoofdstuk=III&amp;g=2018-07-28" onderdeel="hoofdstuk=III" korte-verwijzing="1.0:c:BWBR0005252&amp;hoofdstuk=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="hoofdstuk=III" korte-verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=III"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukIV" stam-id="1821813" versie-id="2715362" id="C2715361" label-id="1776644" inwerking="1992-05-01" label="Hoofdstuk IV" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>IV</nr>
+    <titel status="officieel">Informatie uit eigen beweging</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel8" code="a-8" stam-id="1821793" versie-id="2715342" id="C15269301" label-id="1776624" inwerking="1994-01-01" label="Artikel 8" bron="Stb.1992-422" effect="wijziging" ondertekening_bron="1992-06-04" publicatie_iwt="1993-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>8</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel8/Lid1" label-id="1776624L1">
+    <lidnr>1</lidnr>
+    <al>Het bestuursorgaan dat het rechtstreeks aangaat, verschaft uit eigen beweging informatie over het beleid, de voorbereiding en de uitvoering daaronder begrepen, zodra dat in het belang is van een goede en democratische bestuursvoering.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=IV&amp;artikel=8&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel8/Lid2" label-id="1776624L2">
+    <lidnr>2</lidnr>
+    <al> Het bestuursorgaan draagt er zorg voor dat de informatie wordt verschaft in begrijpelijke vorm, op zodanige wijze, dat belanghebbende en belangstellende burgers zoveel mogelijk worden bereikt en op zodanige tijdstippen, dat deze hun inzichten tijdig ter kennis van het bestuursorgaan kunnen brengen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=IV&amp;artikel=8&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>422</publicatienr><ondertekeningsdatum isodatum="1992-06-04">04-06-1992</ondertekeningsdatum><dossierref dossier="22061">22061</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>693</publicatienr><uitgiftedatum isodatum="1993-12-23">23-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=8&amp;g=2018-07-28" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=IV&amp;artikel=8&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=8"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel9" code="a-9" stam-id="1821803" versie-id="2715352" id="C2715351" label-id="1776634" inwerking="1994-01-01" label="Artikel 9" bron="Stb.1992-422" effect="wijziging" ondertekening_bron="1992-06-04" publicatie_iwt="1993-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>9</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel9/Lid1" label-id="1776634L1">
+    <lidnr>1</lidnr>
+    <al>Het bestuursorgaan dat het rechtstreeks aangaat draagt zorg voor het openbaar maken, zo nodig en mogelijk met toelichting, van door niet-ambtelijke adviescommissies aan het orgaan uitgebrachte adviezen met het oog op het te vormen beleid, tezamen met de door het orgaan aan de commissies voorgelegde adviesaanvragen en voorstellen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=IV&amp;artikel=9&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel9/Lid2" label-id="1776634L2">
+    <lidnr>2</lidnr>
+    <al> Uiterlijk binnen vier weken nadat de adviezen zijn ontvangen heeft openbaarmaking plaats en wordt daarvan mededeling gedaan in de <nadruk type="cur">Staatscourant</nadruk> of een andere vanwege de overheid algemeen verkrijgbaar gestelde periodiek. Van een gehele of gedeeltelijke niet-openbaarmaking wordt op gelijke wijze mededeling gedaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=IV&amp;artikel=9&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel9/Lid3" label-id="1776634L3">
+    <lidnr>3</lidnr>
+    <al> De in het eerste lid bedoelde stukken kunnen worden openbaar gemaakt door deze: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Artikel9/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>op te nemen in een algemeen verkrijgbare uitgave,</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=IV&amp;artikel=9&amp;lid=3&amp;o=a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Artikel9/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>afzonderlijk uit te geven en algemeen verkrijgbaar te stellen, of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=IV&amp;artikel=9&amp;lid=3&amp;o=b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Artikel9/Lid3/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>ter inzage te leggen, in kopie te verstrekken of uit te lenen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=IV&amp;artikel=9&amp;lid=3&amp;o=c&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=IV&amp;artikel=9&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>422</publicatienr><ondertekeningsdatum isodatum="1992-06-04">04-06-1992</ondertekeningsdatum><dossierref dossier="22061">22061</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>693</publicatienr><uitgiftedatum isodatum="1993-12-23">23-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=9&amp;g=2018-07-28" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=IV&amp;artikel=9&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=9"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;hoofdstuk=IV&amp;g=2018-07-28" onderdeel="hoofdstuk=IV" korte-verwijzing="1.0:c:BWBR0005252&amp;hoofdstuk=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=IV&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="hoofdstuk=IV" korte-verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=IV"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukV" stam-id="1821843" versie-id="2715392" id="C2715391" label-id="1776674" inwerking="1992-05-01" label="Hoofdstuk V" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>V</nr>
+    <titel status="officieel">Uitzonderingsgronden en beperkingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukV/Artikel10" stam-id="1821823" versie-id="25167742" id="C35982351" label-id="1776654" inwerking="2018-07-28" label="Artikel 10" bron="Stb.2018-247" effect="wijziging" ondertekening_bron="2018-07-11" publicatie_bron="2018-07-27" publicatie_iwt="2018-07-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel10/Lid1" label-id="1776654L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het verstrekken van informatie ingevolge deze wet blijft achterwege voor zover dit: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukV/Artikel10/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de eenheid van de Kroon in gevaar zou kunnen brengen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;lid=1&amp;o=a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukV/Artikel10/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de veiligheid van de Staat zou kunnen schaden;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;lid=1&amp;o=b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukV/Artikel10/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>bedrijfs- en fabricagegegevens betreft, die door natuurlijke personen of rechtspersonen vertrouwelijk aan de overheid zijn meegedeeld;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;lid=1&amp;o=c&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukV/Artikel10/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>persoonsgegevens betreft als bedoeld in de artikelen 9, 10 en 87 van de Algemene verordening gegevensbescherming, tenzij de verstrekking kennelijk geen inbreuk op de persoonlijke levenssfeer maakt.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;lid=1&amp;o=d&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel10/Lid2" label-id="1776654L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Het verstrekken van informatie ingevolge deze wet blijft eveneens achterwege voor zover het belang daarvan niet opweegt tegen de volgende belangen: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukV/Artikel10/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de betrekkingen van Nederland met andere staten en met internationale organisaties;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;lid=2&amp;o=a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukV/Artikel10/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de economische of financiële belangen van de Staat, de andere publiekrechtelijke lichamen of de in <intref doc="jci1.3:c:BWBR0005252&amp;hoofdstuk=I&amp;artikel=1a&amp;z=2018-07-28&amp;g=2018-07-28" label-id="1776524" verwijzing-id="627488" bwb-id="BWBR0005252" bwb-ng-variabel-deel="/HoofdstukI/Artikel1a">artikel 1a, onder c en d</intref>, bedoelde bestuursorganen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;lid=2&amp;o=b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukV/Artikel10/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de opsporing en vervolging van strafbare feiten;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;lid=2&amp;o=c&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukV/Artikel10/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>inspectie, controle en toezicht door bestuursorganen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;lid=2&amp;o=d&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukV/Artikel10/Lid2/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>de eerbiediging van de persoonlijke levenssfeer;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;lid=2&amp;o=e&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukV/Artikel10/Lid2/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>het belang, dat de geadresseerde erbij heeft als eerste kennis te kunnen nemen van de informatie;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;lid=2&amp;o=f&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukV/Artikel10/Lid2/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>het voorkomen van onevenredige bevoordeling of benadeling van bij de aangelegenheid betrokken natuurlijke personen of rechtspersonen dan wel van derden.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;lid=2&amp;o=g&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=g"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel10/Lid3" label-id="1776654L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het tweede lid, aanhef en onder e, is niet van toepassing voorzover de betrokken persoon heeft ingestemd met openbaarmaking.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel10/Lid4" label-id="1776654L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Het eerste lid, aanhef en onder c en d, het tweede lid, aanhef en onder e, en het zevende lid, aanhef en onder a, zijn niet van toepassing voorzover het milieu-informatie betreft die betrekking heeft op emissies in het milieu. Voorts blijft in afwijking van het eerste lid, aanhef en onder c, het verstrekken van milieu-informatie uitsluitend achterwege voorzover het belang van openbaarmaking niet opweegt tegen het daar genoemde belang.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;lid=4&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel10/Lid5" label-id="1776654L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Het tweede lid, aanhef en onder b, is van toepassing op het verstrekken van milieu-informatie voor zover deze handelingen betreft met een vertrouwelijk karakter. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;lid=5&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel10/Lid6" label-id="1776654L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Het tweede lid, aanhef en onder g, is niet van toepassing op het verstrekken van milieu-informatie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;lid=6&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel10/Lid7" label-id="1776654L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Het verstrekken van milieu-informatie ingevolge deze wet blijft eveneens achterwege voorzover het belang daarvan niet opweegt tegen de volgende belangen:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukV/Artikel10/Lid7/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de bescherming van het milieu waarop deze informatie betrekking heeft;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;lid=7&amp;o=a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukV/Artikel10/Lid7/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de beveiliging van bedrijven en het voorkomen van sabotage.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;lid=7&amp;o=b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;lid=7&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=7"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel10/Lid8" label-id="1776654L8">
+    <lidnr status="officieel">8</lidnr>
+    <al>Voorzover het vierde lid, eerste volzin, niet van toepassing is, wordt bij het toepassen van het eerste, tweede en zevende lid op milieu-informatie in aanmerking genomen of deze informatie betrekking heeft op emissies in het milieu.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;lid=8&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=8"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-247"><publicatiejaar>2018</publicatiejaar><publicatienr>247</publicatienr><uitgiftedatum isodatum="2018-07-27">27-07-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-07-11">11-07-2018</ondertekeningsdatum><dossierref dossier="34939">34939</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-248"><publicatiejaar>2018</publicatiejaar><publicatienr>248</publicatienr><uitgiftedatum isodatum="2018-07-27">27-07-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-07-11">11-07-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-07-28">28-07-2018</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2018-05-25">25-05-2018</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=10&amp;g=2018-07-28" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=10&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=10"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV/Artikel11" code="a-11" stam-id="1821833" versie-id="10911092" id="C15626721" label-id="1776664" inwerking="2005-02-14" label="Artikel 11" bron="Stb.2004-519" effect="wijziging" ondertekening_bron="2004-09-30" publicatie_bron="2004-10-26" publicatie_iwt="2005-02-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>11</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel11/Lid1" label-id="1776664L1">
+    <lidnr>1</lidnr>
+    <al>In geval van een verzoek om informatie uit documenten, opgesteld ten behoeve van intern beraad, wordt geen informatie verstrekt over daarin opgenomen persoonlijke beleidsopvattingen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=11&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel11/Lid2" label-id="1776664L2">
+    <lidnr>2</lidnr>
+    <al> Over persoonlijke beleidsopvattingen kan met het oog op een goede en democratische bestuursvoering informatie worden verstrekt in niet tot personen herleidbare vorm. Indien degene die deze opvattingen heeft geuit of zich erachter heeft gesteld, daarmee heeft ingestemd, kan de informatie in tot personen herleidbare vorm worden verstrekt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=11&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel11/Lid3" label-id="1776664L3">
+    <lidnr>3</lidnr>
+    <al> Met betrekking tot adviezen van een ambtelijke of gemengd samengestelde adviescommissie kan het verstrekken van informatie over de daarin opgenomen persoonlijke beleidsopvattingen plaatsvinden, indien het voornemen daartoe door het bestuursorgaan dat het rechtstreeks aangaat aan de leden van de adviescommissie voor de aanvang van hun werkzaamheden kenbaar is gemaakt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=11&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel11/Lid4" label-id="1776664L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>In afwijking van het eerste lid wordt bij milieu-informatie het belang van de bescherming van de persoonlijke beleidsopvattingen afgewogen tegen het belang van openbaarmaking. Informatie over persoonlijke beleidsopvattingen kan worden verstrekt in niet tot personen herleidbare vorm. Het tweede lid, tweede volzin, is van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=11&amp;lid=4&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2004-519"><publicatiejaar>2004</publicatiejaar><publicatienr>519</publicatienr><uitgiftedatum isodatum="2004-10-26">26-10-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-30">30-09-2004</ondertekeningsdatum><dossierref dossier="28835">28835</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-66"><publicatiejaar>2005</publicatiejaar><publicatienr>66</publicatienr><uitgiftedatum isodatum="2005-02-10">10-02-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-02-01">01-02-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-02-14">14-02-2005</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=11&amp;g=2018-07-28" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;artikel=11&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=11"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;hoofdstuk=V&amp;g=2018-07-28" onderdeel="hoofdstuk=V" korte-verwijzing="1.0:c:BWBR0005252&amp;hoofdstuk=V"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="hoofdstuk=V" korte-verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukV.A" stam-id="7867683" versie-id="22547052" id="C32374061" label-id="8837164" inwerking="2015-07-18" label="Hoofdstuk V-A" bron="Stb.2015-271" effect="vervallen" ondertekening_bron="2015-06-24" publicatie_bron="2015-07-07" publicatie_iwt="2015-07-17" status="vervallen">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">V-A</nr>
+    <titel status="officieel">Hergebruik</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukV.A/Artikel11a" code="n1-11a" stam-id="7867593" versie-id="22547002" id="C32374121" label-id="7855004" inwerking="2015-07-18" label="Artikel 11a" bron="Stb.2015-271" effect="vervallen" ondertekening_bron="2015-06-24" publicatie_bron="2015-07-07" publicatie_iwt="2015-07-17" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11a</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-271"><publicatiejaar>2015</publicatiejaar><publicatienr>271</publicatienr><uitgiftedatum isodatum="2015-07-07">07-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-06-24">24-06-2015</ondertekeningsdatum><dossierref dossier="34123">34123</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-299"><publicatiejaar>2015</publicatiejaar><publicatienr>299</publicatienr><uitgiftedatum isodatum="2015-07-17">17-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-07-06">06-07-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-07-18">18-07-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=11a&amp;g=2018-07-28" onderdeel="artikel=11a" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=11a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V-A&amp;artikel=11a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=11a" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=11a"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV.A/Artikel11b" code="n1-11b" stam-id="7867603" versie-id="22546962" id="C32374081" label-id="7855014" inwerking="2015-07-18" label="Artikel 11b" bron="Stb.2015-271" effect="vervallen" ondertekening_bron="2015-06-24" publicatie_bron="2015-07-07" publicatie_iwt="2015-07-17" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11b</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-271"><publicatiejaar>2015</publicatiejaar><publicatienr>271</publicatienr><uitgiftedatum isodatum="2015-07-07">07-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-06-24">24-06-2015</ondertekeningsdatum><dossierref dossier="34123">34123</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-299"><publicatiejaar>2015</publicatiejaar><publicatienr>299</publicatienr><uitgiftedatum isodatum="2015-07-17">17-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-07-06">06-07-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-07-18">18-07-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=11b&amp;g=2018-07-28" onderdeel="artikel=11b" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=11b"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V-A&amp;artikel=11b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=11b" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=11b"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV.A/Artikel11c" stam-id="7867613" versie-id="22547042" id="C32374161" label-id="7855024" inwerking="2015-07-18" label="Artikel 11c" bron="Stb.2015-271" effect="vervallen" ondertekening_bron="2015-06-24" publicatie_bron="2015-07-07" publicatie_iwt="2015-07-17" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>11c</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-271"><publicatiejaar>2015</publicatiejaar><publicatienr>271</publicatienr><uitgiftedatum isodatum="2015-07-07">07-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-06-24">24-06-2015</ondertekeningsdatum><dossierref dossier="34123">34123</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-299"><publicatiejaar>2015</publicatiejaar><publicatienr>299</publicatienr><uitgiftedatum isodatum="2015-07-17">17-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-07-06">06-07-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-07-18">18-07-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=11c&amp;g=2018-07-28" onderdeel="artikel=11c" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=11c"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V-A&amp;artikel=11c&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=11c" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=11c"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV.A/Artikel11d" code="n1-11d" stam-id="7867623" versie-id="22546972" id="C32374091" label-id="7855034" inwerking="2015-07-18" label="Artikel 11d" bron="Stb.2015-271" effect="vervallen" ondertekening_bron="2015-06-24" publicatie_bron="2015-07-07" publicatie_iwt="2015-07-17" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11d</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-271"><publicatiejaar>2015</publicatiejaar><publicatienr>271</publicatienr><uitgiftedatum isodatum="2015-07-07">07-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-06-24">24-06-2015</ondertekeningsdatum><dossierref dossier="34123">34123</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-299"><publicatiejaar>2015</publicatiejaar><publicatienr>299</publicatienr><uitgiftedatum isodatum="2015-07-17">17-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-07-06">06-07-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-07-18">18-07-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=11d&amp;g=2018-07-28" onderdeel="artikel=11d" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=11d"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V-A&amp;artikel=11d&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=11d" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=11d"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV.A/Artikel11e" stam-id="7867633" versie-id="22547022" id="C32374141" label-id="7855044" inwerking="2015-07-18" label="Artikel 11e" bron="Stb.2015-271" effect="vervallen" ondertekening_bron="2015-06-24" publicatie_bron="2015-07-07" publicatie_iwt="2015-07-17" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>11e</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-271"><publicatiejaar>2015</publicatiejaar><publicatienr>271</publicatienr><uitgiftedatum isodatum="2015-07-07">07-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-06-24">24-06-2015</ondertekeningsdatum><dossierref dossier="34123">34123</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-299"><publicatiejaar>2015</publicatiejaar><publicatienr>299</publicatienr><uitgiftedatum isodatum="2015-07-17">17-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-07-06">06-07-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-07-18">18-07-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=11e&amp;g=2018-07-28" onderdeel="artikel=11e" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=11e"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V-A&amp;artikel=11e&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=11e" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=11e"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV.A/Artikel11f" code="n1-11f" stam-id="7867643" versie-id="22546982" id="C32374101" label-id="7855054" inwerking="2015-07-18" label="Artikel 11f" bron="Stb.2015-271" effect="vervallen" ondertekening_bron="2015-06-24" publicatie_bron="2015-07-07" publicatie_iwt="2015-07-17" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11f</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-271"><publicatiejaar>2015</publicatiejaar><publicatienr>271</publicatienr><uitgiftedatum isodatum="2015-07-07">07-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-06-24">24-06-2015</ondertekeningsdatum><dossierref dossier="34123">34123</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-299"><publicatiejaar>2015</publicatiejaar><publicatienr>299</publicatienr><uitgiftedatum isodatum="2015-07-17">17-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-07-06">06-07-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-07-18">18-07-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=11f&amp;g=2018-07-28" onderdeel="artikel=11f" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=11f"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V-A&amp;artikel=11f&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=11f" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=11f"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV.A/Artikel11g" code="n1-11g" stam-id="7867653" versie-id="22547032" id="C32374151" label-id="7855064" inwerking="2015-07-18" label="Artikel 11g" bron="Stb.2015-271" effect="vervallen" ondertekening_bron="2015-06-24" publicatie_bron="2015-07-07" publicatie_iwt="2015-07-17" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11g</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-271"><publicatiejaar>2015</publicatiejaar><publicatienr>271</publicatienr><uitgiftedatum isodatum="2015-07-07">07-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-06-24">24-06-2015</ondertekeningsdatum><dossierref dossier="34123">34123</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-299"><publicatiejaar>2015</publicatiejaar><publicatienr>299</publicatienr><uitgiftedatum isodatum="2015-07-17">17-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-07-06">06-07-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-07-18">18-07-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=11g&amp;g=2018-07-28" onderdeel="artikel=11g" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=11g"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V-A&amp;artikel=11g&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=11g" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=11g"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV.A/Artikel11h" code="n1-11h" stam-id="7867663" versie-id="22546992" id="C32374111" label-id="7855074" inwerking="2015-07-18" label="Artikel 11h" bron="Stb.2015-271" effect="vervallen" ondertekening_bron="2015-06-24" publicatie_bron="2015-07-07" publicatie_iwt="2015-07-17" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11h</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-271"><publicatiejaar>2015</publicatiejaar><publicatienr>271</publicatienr><uitgiftedatum isodatum="2015-07-07">07-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-06-24">24-06-2015</ondertekeningsdatum><dossierref dossier="34123">34123</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-299"><publicatiejaar>2015</publicatiejaar><publicatienr>299</publicatienr><uitgiftedatum isodatum="2015-07-17">17-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-07-06">06-07-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-07-18">18-07-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=11h&amp;g=2018-07-28" onderdeel="artikel=11h" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=11h"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V-A&amp;artikel=11h&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=11h" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=11h"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV.A/Artikel11i" stam-id="7867673" versie-id="22547012" id="C32374131" label-id="7855084" inwerking="2015-07-18" label="Artikel 11i" bron="Stb.2015-271" effect="vervallen" ondertekening_bron="2015-06-24" publicatie_bron="2015-07-07" publicatie_iwt="2015-07-17" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>11i</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-271"><publicatiejaar>2015</publicatiejaar><publicatienr>271</publicatienr><uitgiftedatum isodatum="2015-07-07">07-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-06-24">24-06-2015</ondertekeningsdatum><dossierref dossier="34123">34123</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-299"><publicatiejaar>2015</publicatiejaar><publicatienr>299</publicatienr><uitgiftedatum isodatum="2015-07-17">17-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-07-06">06-07-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-07-18">18-07-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=11i&amp;g=2018-07-28" onderdeel="artikel=11i" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=11i"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V-A&amp;artikel=11i&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=11i" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=11i"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-271"><publicatiejaar>2015</publicatiejaar><publicatienr>271</publicatienr><uitgiftedatum isodatum="2015-07-07">07-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-06-24">24-06-2015</ondertekeningsdatum><dossierref dossier="34123">34123</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-299"><publicatiejaar>2015</publicatiejaar><publicatienr>299</publicatienr><uitgiftedatum isodatum="2015-07-17">17-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-07-06">06-07-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-07-18">18-07-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;hoofdstuk=V-A&amp;g=2018-07-28" onderdeel="hoofdstuk=V-A" korte-verwijzing="1.0:c:BWBR0005252&amp;hoofdstuk=V-A"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V-A&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="hoofdstuk=V-A" korte-verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=V-A"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukVI" stam-id="1821913" versie-id="23542882" id="C33898251" label-id="1776744" inwerking="2016-10-01" label="Hoofdstuk VI" bron="Stb.2016-301" effect="structuurwijziging" ondertekening_bron="2016-07-13" publicatie_bron="2016-08-23" publicatie_iwt="2016-08-23" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">VI</nr>
+    <titel status="officieel">Overige bepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukVI/Artikel12" code="a-12" stam-id="1821853" versie-id="2715402" id="C2715401" label-id="1776684" inwerking="1992-05-01" label="Artikel 12" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>12</nr>
+  </kop>
+  <al>Bij of krachtens algemene maatregel van bestuur kunnen voor de centrale overheid regels worden gesteld met betrekking tot in rekening te brengen vergoedingen voor het ingevolge een verzoek om informatie vervaardigen van kopieën van documenten en uittreksels of samenvattingen van de inhoud daarvan.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=12&amp;g=2018-07-28" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;artikel=12&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=12"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVI/Artikel13" code="a-13" stam-id="1821863" versie-id="23542802" id="C33898171" label-id="1776694" inwerking="2016-10-01" label="Artikel 13" bron="Stb.2016-301" effect="vervallen" ondertekening_bron="2016-07-13" publicatie_bron="2016-08-23" publicatie_iwt="2016-08-23" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>13</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2016-301"><publicatiejaar>2016</publicatiejaar><publicatienr>301</publicatienr><uitgiftedatum isodatum="2016-08-23">23-08-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-07-13">13-07-2016</ondertekeningsdatum><dossierref dossier="34106">34106</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2016-301"><publicatiejaar>2016</publicatiejaar><publicatienr>301</publicatienr><uitgiftedatum isodatum="2016-08-23">23-08-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-07-13">13-07-2016</ondertekeningsdatum><dossierref dossier="34106">34106</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-10-01">01-10-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=13&amp;g=2018-07-28" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;artikel=13&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=13"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVI/Artikel14" code="a-14" stam-id="1821873" versie-id="2715712" id="C2715711" label-id="1776704" inwerking="2003-06-30" label="Artikel 14" bron="Stb.1998-356" effect="wijziging" ondertekening_bron="1998-06-18" publicatie_bron="1998-06-25" publicatie_iwt="1998-06-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>14</nr>
+  </kop>
+  <al>Nadere regels omtrent de uitvoering van het bij of krachtens deze wet bepaalde kunnen worden gesteld: </al>
+  <lijst>
+    <li bwb-ng-variabel-deel="/HoofdstukVI/Artikel14/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>voor de centrale overheid bij of krachtens een besluit van Onze Minister-President in overeenstemming met het gevoelen van de ministerraad;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;artikel=14&amp;o=a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukVI/Artikel14/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>voor de provincies, gemeenten, waterschappen en de andere in <intref verwijzing-id="627489" doc="jci1.3:c:BWBR0005252&amp;hoofdstuk=I&amp;artikel=1a&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0005252" label-id="1776524" bwb-ng-variabel-deel="/HoofdstukI/Artikel1a">artikel 1a, onder c en d</intref>, bedoelde bestuursorganen door hun besturen.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;artikel=14&amp;o=b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=b"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1998-356"><publicatiejaar>1998</publicatiejaar><publicatienr>356</publicatienr><uitgiftedatum isodatum="1998-06-25">25-06-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-06-18">18-06-1998</ondertekeningsdatum><dossierref dossier="25456">25456</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1998-356"><publicatiejaar>1998</publicatiejaar><publicatienr>356</publicatienr><uitgiftedatum isodatum="1998-06-25">25-06-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-06-18">18-06-1998</ondertekeningsdatum><dossierref dossier="25456">25456</dossierref></publicatie><inwerkingtreding.datum isodatum="2003-06-30">30-06-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=14&amp;g=2018-07-28" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;artikel=14&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=14"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVI/Artikel15" stam-id="1821883" versie-id="23543082" id="C34246301" label-id="1776714" inwerking="2016-10-01" label="Artikel 15" bron="Stb.2016-301" effect="wijziging" ondertekening_bron="2016-07-13" publicatie_bron="2016-08-23" publicatie_iwt="2016-08-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15</nr>
+  </kop>
+  <al>
+    <extref doc="jci1.3:c:BWBR0005537&amp;paragraaf=4.1.3.2" label-id="10168764" verwijzing-id="2781228" bwb-id="BWBR0005537">Paragraaf 4.1.3.2 van de Algemene wet bestuursrecht</extref> is niet van toepassing op besluiten op grond van deze wet en op beslissingen op bezwaar tegen deze besluiten.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2016-301"><publicatiejaar>2016</publicatiejaar><publicatienr>301</publicatienr><uitgiftedatum isodatum="2016-08-23">23-08-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-07-13">13-07-2016</ondertekeningsdatum><dossierref dossier="34106">34106</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2016-301"><publicatiejaar>2016</publicatiejaar><publicatienr>301</publicatienr><uitgiftedatum isodatum="2016-08-23">23-08-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-07-13">13-07-2016</ondertekeningsdatum><dossierref dossier="34106">34106</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-10-01">01-10-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=15&amp;g=2018-07-28" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;artikel=15&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=15"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVI/Artikel15a" stam-id="13735973" versie-id="23543092" id="C34246311" label-id="13702064" inwerking="2016-10-01" label="Artikel 15a" bron="Stb.2016-301" effect="nieuw" ondertekening_bron="2016-07-13" publicatie_bron="2016-08-23" publicatie_iwt="2016-08-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukVI/Artikel15a/Lid1" label-id="13702064L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>In afwijking van <extref doc="jci1.3:c:BWBR0005537&amp;artikel=7:1" label-id="2815244" verwijzing-id="2781229" bwb-id="BWBR0005537">artikel 7:1, eerste lid, onderdeel f, van de Algemene wet bestuursrecht</extref> kan degene aan wie het recht is toegekend beroep bij de bestuursrechter in te stellen tegen het niet tijdig nemen van een besluit op grond van deze wet, alvorens beroep in te stellen bezwaar maken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;artikel=15a&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVI/Artikel15a/Lid2" label-id="13702064L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het bezwaarschrift kan worden ingediend zodra het bestuursorgaan in gebreke is tijdig een besluit te nemen. <extref doc="jci1.3:c:BWBR0005537&amp;artikel=6:12" label-id="2815094" verwijzing-id="2781230" bwb-id="BWBR0005537">Artikel 6:12, eerste en vierde lid, van de Algemene wet bestuursrecht</extref> is van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;artikel=15a&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVI/Artikel15a/Lid3" label-id="13702064L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>
+      <extref doc="jci1.3:c:BWBR0005537&amp;artikel=6:20" label-id="2815174" verwijzing-id="2781231" bwb-id="BWBR0005537">Artikel 6:20 van de Algemene wet bestuursrecht</extref> is van overeenkomstige toepassing, met dien verstande dat de in het eerste lid van dat artikel bedoelde verplichting niet geldt gedurende de periode dat het bezwaar aanhangig is.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;artikel=15a&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVI/Artikel15a/Lid4" label-id="13702064L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De vergoeding van kosten op grond van <extref doc="jci1.3:c:BWBR0005537&amp;artikel=7:15" label-id="2815394" verwijzing-id="2781232" bwb-id="BWBR0005537">artikel 7:15, tweede lid, van de Algemene wet bestuursrecht</extref> blijft achterwege, indien:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukVI/Artikel15a/Lid4/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de indiener van het bezwaarschrift, gelet op de omvang van het verzoek, kennelijk onvoldoende heeft meegewerkt aan het bereiken van overeenstemming over een opschorting van de beslistermijn als bedoeld in <extref doc="jci1.3:c:BWBR0005537&amp;artikel=4:15" label-id="2814874" verwijzing-id="2781233" bwb-id="BWBR0005537">artikel 4:15, tweede lid, onderdeel a, van de Algemene wet bestuursrecht</extref>, of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;artikel=15a&amp;lid=4&amp;o=a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukVI/Artikel15a/Lid4/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>het niet tijdig nemen van een besluit kennelijk het gevolg is van de wijze van indiening van het verzoek.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;artikel=15a&amp;lid=4&amp;o=b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;artikel=15a&amp;lid=4&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2016-301"><publicatiejaar>2016</publicatiejaar><publicatienr>301</publicatienr><uitgiftedatum isodatum="2016-08-23">23-08-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-07-13">13-07-2016</ondertekeningsdatum><dossierref dossier="34106">34106</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2016-301"><publicatiejaar>2016</publicatiejaar><publicatienr>301</publicatienr><uitgiftedatum isodatum="2016-08-23">23-08-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-07-13">13-07-2016</ondertekeningsdatum><dossierref dossier="34106">34106</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-10-01">01-10-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=15a&amp;g=2018-07-28" onderdeel="artikel=15a" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=15a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;artikel=15a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=15a" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=15a"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVI/Artikel15b" stam-id="13735983" versie-id="23543102" id="C34246321" label-id="13702074" inwerking="2016-10-01" label="Artikel 15b" bron="Stb.2016-301" effect="nieuw" ondertekening_bron="2016-07-13" publicatie_bron="2016-08-23" publicatie_iwt="2016-08-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15b</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukVI/Artikel15b/Lid1" label-id="13702074L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>In geval van een gegrond beroep tegen het niet tijdig nemen van een besluit op grond van deze wet of een beslissing op bezwaar tegen een dergelijk besluit waarbij nog geen besluit is bekendgemaakt, bepaalt de bestuursrechter, indien de omvang van het verzoek hiertoe aanleiding geeft, in afwijking van <extref doc="jci1.3:c:BWBR0005537&amp;artikel=8:55d" label-id="10168934" verwijzing-id="2781234" bwb-id="BWBR0005537">artikel 8:55d, eerste lid, van de Algemene wet bestuursrecht</extref> de termijn waarbinnen het bestuursorgaan alsnog een besluit bekendmaakt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;artikel=15b&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVI/Artikel15b/Lid2" label-id="13702074L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien de bestuursrechter oordeelt dat het niet tijdig nemen van een besluit kennelijk het gevolg is van de wijze van indiening van het verzoek en nog geen besluit is bekendgemaakt, bepaalt de bestuursrechter, indien het verzoek hiertoe aanleiding geeft, in afwijking van <extref doc="jci1.3:c:BWBR0005537&amp;artikel=8:55d" label-id="10168934" verwijzing-id="2781235" bwb-id="BWBR0005537">artikel 8:55d, eerste lid, van de Algemene wet bestuursrecht</extref> een langere termijn waarbinnen het bestuursorgaan alsnog een besluit bekendmaakt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;artikel=15b&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVI/Artikel15b/Lid3" label-id="13702074L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De bestuursrechter kan <extref doc="jci1.3:c:BWBR0005537&amp;artikel=8:74" label-id="2816434" verwijzing-id="2781236" bwb-id="BWBR0005537">artikel 8:74, eerste lid, van de Algemene wet bestuursrecht</extref> buiten toepassing laten en een proceskostenveroordeling op grond van <extref doc="jci1.3:c:BWBR0005537&amp;artikel=8:75" label-id="2816444" verwijzing-id="2781237" bwb-id="BWBR0005537">artikel 8:75, eerste lid, van de Algemene wet bestuursrecht</extref> achterwege laten, indien de indiener van het beroepschrift, gelet op de omvang van het verzoek, onvoldoende heeft meegewerkt aan het bereiken van overeenstemming over:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukVI/Artikel15b/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>een opschorting van de beslistermijn als bedoeld in <extref doc="jci1.3:c:BWBR0005537&amp;artikel=4:15" label-id="2814874" verwijzing-id="2781238" bwb-id="BWBR0005537">artikel 4:15, tweede lid, onderdeel a, van de Algemene wet bestuursrecht</extref>, of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;artikel=15b&amp;lid=3&amp;o=a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukVI/Artikel15b/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>verder uitstel van de beslistermijn als bedoeld in <extref doc="jci1.3:c:BWBR0005537&amp;artikel=7:10" label-id="2815344" verwijzing-id="2781239" bwb-id="BWBR0005537">artikel 7:10, vierde lid, onderdeel a of b, van de Algemene wet bestuursrecht</extref>.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;artikel=15b&amp;lid=3&amp;o=b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;artikel=15b&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVI/Artikel15b/Lid4" label-id="13702074L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De bestuursrechter kan eveneens <extref doc="jci1.3:c:BWBR0005537&amp;artikel=8:74" label-id="2816434" verwijzing-id="2781240" bwb-id="BWBR0005537">artikel 8:74, eerste lid, van de Algemene wet bestuursrecht</extref> buiten toepassing laten en een proceskostenveroordeling op grond van <extref doc="jci1.3:c:BWBR0005537&amp;artikel=8:75" label-id="2816444" verwijzing-id="2781241" bwb-id="BWBR0005537">artikel 8:75, eerste lid, van de Algemene wet bestuursrecht</extref> achterwege laten, indien hij oordeelt dat het niet tijdig nemen van een besluit kennelijk het gevolg is van de wijze van indiening van het verzoek.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;artikel=15b&amp;lid=4&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2016-301"><publicatiejaar>2016</publicatiejaar><publicatienr>301</publicatienr><uitgiftedatum isodatum="2016-08-23">23-08-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-07-13">13-07-2016</ondertekeningsdatum><dossierref dossier="34106">34106</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2016-301"><publicatiejaar>2016</publicatiejaar><publicatienr>301</publicatienr><uitgiftedatum isodatum="2016-08-23">23-08-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-07-13">13-07-2016</ondertekeningsdatum><dossierref dossier="34106">34106</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-10-01">01-10-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=15b&amp;g=2018-07-28" onderdeel="artikel=15b" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=15b"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;artikel=15b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=15b" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=15b"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVI/Artikel16" code="a-16" stam-id="1821893" versie-id="22547062" id="C32374171" label-id="1776724" inwerking="2015-07-18" label="Artikel 16" bron="Stb.2015-271" effect="vervallen" ondertekening_bron="2015-06-24" publicatie_bron="2015-07-07" publicatie_iwt="2015-07-17" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">16</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-271"><publicatiejaar>2015</publicatiejaar><publicatienr>271</publicatienr><uitgiftedatum isodatum="2015-07-07">07-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-06-24">24-06-2015</ondertekeningsdatum><dossierref dossier="34123">34123</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-299"><publicatiejaar>2015</publicatiejaar><publicatienr>299</publicatienr><uitgiftedatum isodatum="2015-07-17">17-07-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-07-06">06-07-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-07-18">18-07-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=16&amp;g=2018-07-28" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;artikel=16&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=16"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVI/Artikel17" code="a-17" stam-id="1821903" versie-id="2715452" id="C20439561" label-id="1776734" inwerking="1992-05-01" label="Artikel 17" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">17</nr>
+  </kop>
+  <al>Onze Minister-President, Minister van Algemene Zaken, en Onze Minister van Binnenlandse Zaken zenden binnen vijf jaar na het in werking treden van deze wet aan de Staten-Generaal een verslag over de wijze waarop zij is toegepast.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=17&amp;g=2018-07-28" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;artikel=17&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=17"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2016-301"><publicatiejaar>2016</publicatiejaar><publicatienr>301</publicatienr><uitgiftedatum isodatum="2016-08-23">23-08-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-07-13">13-07-2016</ondertekeningsdatum><dossierref dossier="34106">34106</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2016-301"><publicatiejaar>2016</publicatiejaar><publicatienr>301</publicatienr><uitgiftedatum isodatum="2016-08-23">23-08-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-07-13">13-07-2016</ondertekeningsdatum><dossierref dossier="34106">34106</dossierref></publicatie><inwerkingtreding.datum isodatum="2016-10-01">01-10-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;hoofdstuk=VI&amp;g=2018-07-28" onderdeel="hoofdstuk=VI" korte-verwijzing="1.0:c:BWBR0005252&amp;hoofdstuk=VI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="hoofdstuk=VI" korte-verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VI"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukVII" stam-id="1821993" versie-id="2715542" id="C2715541" label-id="1776824" inwerking="1992-05-01" label="Hoofdstuk VII" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>VII</nr>
+    <titel status="officieel">Wijziging van enige wetten</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukVII/Artikel18" code="a-18" stam-id="1821923" versie-id="2715472" id="C2715471" label-id="1776754" inwerking="1992-05-01" label="Artikel 18" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>18</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=18&amp;g=2018-07-28" onderdeel="artikel=18" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=18"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VII&amp;artikel=18&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=18" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=18"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVII/Artikel19" code="a-19" stam-id="1821933" versie-id="2715482" id="C20439571" label-id="1776764" inwerking="1992-05-01" label="Artikel 19" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">19</nr>
+  </kop>
+  <al>Voor adviezen, voordrachten en andere voorstellen van de Raad van State, uitgebracht voor het tijdstip van inwerkingtreding van deze wet, blijven de op de dag voor de inwerkingtreding geldende wettelijke bepalingen van kracht.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=19&amp;g=2018-07-28" onderdeel="artikel=19" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=19"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VII&amp;artikel=19&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=19" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=19"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVII/Artikel20" code="a-20" stam-id="1821943" versie-id="2715492" id="C2715491" label-id="1776774" inwerking="1992-05-01" label="Artikel 20" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>20</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=20&amp;g=2018-07-28" onderdeel="artikel=20" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=20"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VII&amp;artikel=20&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=20" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=20"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVII/Artikel21" code="a-21" stam-id="1821953" versie-id="2715502" id="C20439581" label-id="1776784" inwerking="1992-05-01" label="Artikel 21" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">21</nr>
+  </kop>
+  <al>Op verzoeken op grond van de <extref doc="jci1.3:c:BWBR0007376" verwijzing-id="627490" bwb-id="BWBR0007376" label-id="1215304">Archiefwet 1962</extref> (<nadruk type="cur">Stb.</nadruk> 1962, 313) tot raadpleging of gebruik van vóór de inwerkingtreding van deze wet in een archiefbewaarplaats berustende archiefbescheiden blijven de voor de inwerkingtreding van deze wet gestelde beperkingen ten aanzien van de openbaarheid van kracht.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=21&amp;g=2018-07-28" onderdeel="artikel=21" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=21"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VII&amp;artikel=21&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=21" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=21"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVII/Artikel22" code="a-22" stam-id="1821963" versie-id="2715512" id="C2715511" label-id="1776794" inwerking="1992-05-01" label="Artikel 22" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>22</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=22&amp;g=2018-07-28" onderdeel="artikel=22" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=22"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VII&amp;artikel=22&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=22" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=22"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVII/Artikel23" code="a-23" stam-id="1821973" versie-id="2715522" id="C2715521" label-id="1776804" inwerking="1992-05-01" label="Artikel 23" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>23</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=23&amp;g=2018-07-28" onderdeel="artikel=23" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=23"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VII&amp;artikel=23&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=23" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=23"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVII/Artikel24" code="a-24" stam-id="1821983" versie-id="2715532" id="C2715531" label-id="1776814" inwerking="1992-05-01" label="Artikel 24" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>24</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=24&amp;g=2018-07-28" onderdeel="artikel=24" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=24"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VII&amp;artikel=24&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=24" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=24"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;hoofdstuk=VII&amp;g=2018-07-28" onderdeel="hoofdstuk=VII" korte-verwijzing="1.0:c:BWBR0005252&amp;hoofdstuk=VII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VII&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="hoofdstuk=VII" korte-verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VII"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukVIII" stam-id="1822033" versie-id="2715582" id="C2715581" label-id="1776864" inwerking="1992-05-01" label="Hoofdstuk VIII" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>VIII</nr>
+    <titel status="officieel">Slotbepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukVIII/Artikel25" code="a-25" stam-id="1822003" versie-id="2715552" id="C2715551" label-id="1776834" inwerking="1992-05-01" label="Artikel 25" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>25</nr>
+  </kop>
+  <al>De Wet openbaarheid van bestuur (<nadruk type="cur">Stb.</nadruk> 1978, 581) wordt ingetrokken.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=25&amp;g=2018-07-28" onderdeel="artikel=25" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=25"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VIII&amp;artikel=25&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=25" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=25"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVIII/Artikel26" code="a-26" stam-id="1822013" versie-id="2715562" id="C2715561" label-id="1776844" inwerking="1992-05-01" label="Artikel 26" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>26</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=26&amp;g=2018-07-28" onderdeel="artikel=26" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=26"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VIII&amp;artikel=26&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=26" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=26"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVIII/Artikel27" code="a-27" stam-id="1822023" versie-id="2715572" id="C17508481" label-id="1776854" inwerking="1992-05-01" label="Artikel 27" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>27</nr>
+  </kop>
+  <al>Deze wet kan worden aangehaald als Wet openbaarheid van bestuur.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;artikel=27&amp;g=2018-07-28" onderdeel="artikel=27" korte-verwijzing="1.0:c:BWBR0005252&amp;artikel=27"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VIII&amp;artikel=27&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=27" korte-verwijzing="jci1.3:c:BWBR0005252&amp;artikel=27"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;hoofdstuk=VIII&amp;g=2018-07-28" onderdeel="hoofdstuk=VIII" korte-verwijzing="1.0:c:BWBR0005252&amp;hoofdstuk=VIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VIII&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="hoofdstuk=VIII" korte-verwijzing="jci1.3:c:BWBR0005252&amp;hoofdstuk=VIII"/></jcis></meta-data></hoofdstuk>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="1822043" versie-id="2715592" id="C2715591" label-id="1776874" inwerking="1992-05-01" bron="Stb.1991-703" effect="nieuwe-regeling" ondertekening_bron="1991-10-31" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum=""> 31 oktober 1991</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister-President,</functie>
+    <functie> Minister van Algemene Zaken,</functie>
+    <naam>
+      <achternaam>R. F. M. Lubbers</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Binnenlandse Zaken,</functie>
+    <naam>
+      <achternaam>C. I. Dales</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de eenendertigste december 1991</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>E. M. H. Hirsch Ballin</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>703</publicatienr><ondertekeningsdatum isodatum="1991-10-31">31-10-1991</ondertekeningsdatum><dossierref dossier="19859">19859</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>185</publicatienr><ondertekeningsdatum isodatum="1992-04-10">10-04-1992</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-05-01">01-05-1992</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2006-25"><publicatiejaar>2006</publicatiejaar><publicatienr>25</publicatienr><uitgiftedatum isodatum="2006-01-19">19-01-2006</uitgiftedatum><ondertekeningsdatum isodatum="2005-12-22">22-12-2005</ondertekeningsdatum><dossierref dossier="30188">30188</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2006-25"><publicatiejaar>2006</publicatiejaar><publicatienr>25</publicatienr><uitgiftedatum isodatum="2006-01-19">19-01-2006</uitgiftedatum><ondertekeningsdatum isodatum="2005-12-22">22-12-2005</ondertekeningsdatum><dossierref dossier="30188">30188</dossierref></publicatie><inwerkingtreding.datum isodatum="2005-12-22">22-12-2005</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005252&amp;g=2018-07-28" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0005252"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005252&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0005252"/></jcis></meta-data></wetgeving></toestand>

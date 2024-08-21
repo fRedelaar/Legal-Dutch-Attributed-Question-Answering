@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0037085/2015-12-05/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0037085" inwerkingtreding="2015-12-05"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="13274043" versie-id="22720642" id="C32874871" label-id="13242044" inwerkingtredingsdatum="2015-12-05">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="13274063" versie-id="22720532" id="C32874811" label-id="13241934" inwerking="2015-12-05" bron="Stb.2015-354" effect="nieuwe-regeling" ondertekening_bron="2015-10-07" publicatie_bron="2015-10-14" publicatie_iwt="2015-10-21" status="goed">Wet van 7 oktober 2015 tot wijziging van Boek 1 en Boek 10 van het Burgerlijk Wetboek betreffende de huwelijksleeftijd, de huwelijksbeletselen, de nietigverklaring van een huwelijk en de erkenning van in het buitenland gesloten huwelijken (Wet tegengaan huwelijksdwang)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-354"><publicatiejaar>2015</publicatiejaar><publicatienr>354</publicatienr><uitgiftedatum isodatum="2015-10-14">14-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-07">07-10-2015</ondertekeningsdatum><dossierref dossier="33488">33488</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-373"><publicatiejaar>2015</publicatiejaar><publicatienr>373</publicatienr><uitgiftedatum isodatum="2015-10-21">21-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-15">15-10-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-12-05">05-12-2015</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="13274073" versie-id="22720542" id="C32874841" label-id="13241944" inwerking="2015-12-05" bron="Stb.2015-354" effect="nieuwe-regeling" ondertekening_bron="2015-10-07" publicatie_bron="2015-10-14" publicatie_iwt="2015-10-21">Wet tegengaan huwelijksdwang<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-354"><publicatiejaar>2015</publicatiejaar><publicatienr>354</publicatienr><uitgiftedatum isodatum="2015-10-14">14-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-07">07-10-2015</ondertekeningsdatum><dossierref dossier="33488">33488</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-373"><publicatiejaar>2015</publicatiejaar><publicatienr>373</publicatienr><uitgiftedatum isodatum="2015-10-21">21-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-15">15-10-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-12-05">05-12-2015</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="13274083" versie-id="22720552" id="C32874891" label-id="13241954" inwerking="2015-12-05" bron="Stb.2015-354" effect="nieuwe-regeling" ondertekening_bron="2015-10-07" publicatie_bron="2015-10-14" publicatie_iwt="2015-10-21" status="goed">
+  <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is huwelijksdwang tegen te gaan, en voorts te verduidelijken wanneer de erkenning van rechtsgeldig in het buitenland gesloten huwelijken in strijd is met fundamentele beginselen van de Nederlandse rechtsorde, en dat daartoe <extref doc="jci1.3:c:BWBR0002656" label-id="2761264" verwijzing-id="2722389" bwb-id="BWBR0002656">Boek 1</extref> en <extref doc="jci1.3:c:BWBR0030068" label-id="11319104" verwijzing-id="2722390" bwb-id="BWBR0030068">Boek 10 van het Burgerlijk Wetboek</extref> dienen te worden gewijzigd;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-354"><publicatiejaar>2015</publicatiejaar><publicatienr>354</publicatienr><uitgiftedatum isodatum="2015-10-14">14-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-07">07-10-2015</ondertekeningsdatum><dossierref dossier="33488">33488</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-373"><publicatiejaar>2015</publicatiejaar><publicatienr>373</publicatienr><uitgiftedatum isodatum="2015-10-21">21-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-15">15-10-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-12-05">05-12-2015</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/ArtikelI" stam-id="13274093" versie-id="22720562" id="C32874861" label-id="13241964" inwerking="2015-12-05" label="Artikel I" bron="Stb.2015-354" effect="nieuwe-regeling" ondertekening_bron="2015-10-07" publicatie_bron="2015-10-14" publicatie_iwt="2015-10-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">I</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt het Burgerlijk Wetboek Boek 1.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-354"><publicatiejaar>2015</publicatiejaar><publicatienr>354</publicatienr><uitgiftedatum isodatum="2015-10-14">14-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-07">07-10-2015</ondertekeningsdatum><dossierref dossier="33488">33488</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-373"><publicatiejaar>2015</publicatiejaar><publicatienr>373</publicatienr><uitgiftedatum isodatum="2015-10-21">21-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-15">15-10-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-12-05">05-12-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037085&amp;artikel=I&amp;g=2015-12-05" onderdeel="artikel=I" korte-verwijzing="1.0:c:BWBR0037085&amp;artikel=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037085&amp;artikel=I&amp;z=2015-12-05&amp;g=2015-12-05" onderdeel="artikel=I" korte-verwijzing="jci1.3:c:BWBR0037085&amp;artikel=I"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelII" stam-id="13274103" versie-id="22720572" id="C32874901" label-id="13241974" inwerking="2015-12-05" label="Artikel II" bron="Stb.2015-354" effect="nieuwe-regeling" ondertekening_bron="2015-10-07" publicatie_bron="2015-10-14" publicatie_iwt="2015-10-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">II</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt het Burgerlijk Wetboek Boek 10.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-354"><publicatiejaar>2015</publicatiejaar><publicatienr>354</publicatienr><uitgiftedatum isodatum="2015-10-14">14-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-07">07-10-2015</ondertekeningsdatum><dossierref dossier="33488">33488</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-373"><publicatiejaar>2015</publicatiejaar><publicatienr>373</publicatienr><uitgiftedatum isodatum="2015-10-21">21-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-15">15-10-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-12-05">05-12-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037085&amp;artikel=II&amp;g=2015-12-05" onderdeel="artikel=II" korte-verwijzing="1.0:c:BWBR0037085&amp;artikel=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037085&amp;artikel=II&amp;z=2015-12-05&amp;g=2015-12-05" onderdeel="artikel=II" korte-verwijzing="jci1.3:c:BWBR0037085&amp;artikel=II"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIII" stam-id="13274113" versie-id="22720582" id="C32874881" label-id="13241984" inwerking="2015-12-05" label="Artikel III" bron="Stb.2015-354" effect="nieuwe-regeling" ondertekening_bron="2015-10-07" publicatie_bron="2015-10-14" publicatie_iwt="2015-10-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">III</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/ArtikelIII/LidA" label-id="13241984L1">
+    <lidnr status="officieel">A</lidnr>
+    <al>
+      <extref doc="jci1.3:c:BWBR0002656&amp;artikel=31" label-id="2753354" verwijzing-id="2722391" bwb-id="BWBR0002656">Artikel 31 van Boek 1 van het Burgerlijk Wetboek</extref> zoals het gold voor het tijdstip van inwerkingtreding van deze wet, is ook na dit tijdstip van toepassing indien de aangifte of aankondiging van het huwelijksvoornemen bij de ambtenaar van de burgerlijke stand voor dit tijdstip heeft plaatsgehad.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037085&amp;artikel=III&amp;lid=A&amp;z=2015-12-05&amp;g=2015-12-05" onderdeel="lid=A"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelIII/LidB" label-id="13241984L2">
+    <lidnr status="officieel">B</lidnr>
+    <al>
+      <extref doc="jci1.3:c:BWBR0002656&amp;artikel=233" label-id="2756994" verwijzing-id="2722392" bwb-id="BWBR0002656">Artikel 233 van Boek 1 van het Burgerlijk Wetboek</extref> is niet van toepassing op hen die voor de inwerkingtreding van deze wet als gevolg van het sluiten van een huwelijk of geregistreerd partnerschap meerderjarig zijn geworden. Voor deze personen blijft het recht van toepassing zoals dat gold onmiddellijk voorafgaande aan het tijdstip van inwerkingtreding van deze wet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037085&amp;artikel=III&amp;lid=B&amp;z=2015-12-05&amp;g=2015-12-05" onderdeel="lid=B"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-354"><publicatiejaar>2015</publicatiejaar><publicatienr>354</publicatienr><uitgiftedatum isodatum="2015-10-14">14-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-07">07-10-2015</ondertekeningsdatum><dossierref dossier="33488">33488</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-373"><publicatiejaar>2015</publicatiejaar><publicatienr>373</publicatienr><uitgiftedatum isodatum="2015-10-21">21-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-15">15-10-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-12-05">05-12-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037085&amp;artikel=III&amp;g=2015-12-05" onderdeel="artikel=III" korte-verwijzing="1.0:c:BWBR0037085&amp;artikel=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037085&amp;artikel=III&amp;z=2015-12-05&amp;g=2015-12-05" onderdeel="artikel=III" korte-verwijzing="jci1.3:c:BWBR0037085&amp;artikel=III"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIV" stam-id="13274123" versie-id="22720592" id="C32874911" label-id="13241994" inwerking="2015-12-05" label="Artikel IV" bron="Stb.2015-354" effect="nieuwe-regeling" ondertekening_bron="2015-10-07" publicatie_bron="2015-10-14" publicatie_iwt="2015-10-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">IV</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt deze wet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-354"><publicatiejaar>2015</publicatiejaar><publicatienr>354</publicatienr><uitgiftedatum isodatum="2015-10-14">14-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-07">07-10-2015</ondertekeningsdatum><dossierref dossier="33488">33488</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-373"><publicatiejaar>2015</publicatiejaar><publicatienr>373</publicatienr><uitgiftedatum isodatum="2015-10-21">21-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-15">15-10-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-12-05">05-12-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037085&amp;artikel=IV&amp;g=2015-12-05" onderdeel="artikel=IV" korte-verwijzing="1.0:c:BWBR0037085&amp;artikel=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037085&amp;artikel=IV&amp;z=2015-12-05&amp;g=2015-12-05" onderdeel="artikel=IV" korte-verwijzing="jci1.3:c:BWBR0037085&amp;artikel=IV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIVa" stam-id="13274133" versie-id="22720602" id="C32874821" label-id="13242004" inwerking="2015-12-05" label="Artikel IVa" bron="Stb.2015-354" effect="nieuwe-regeling" ondertekening_bron="2015-10-07" publicatie_bron="2015-10-14" publicatie_iwt="2015-10-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">IVa</nr>
+  </kop>
+  <al>Onze Minister van Veiligheid en Justitie zendt binnen vier jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-354"><publicatiejaar>2015</publicatiejaar><publicatienr>354</publicatienr><uitgiftedatum isodatum="2015-10-14">14-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-07">07-10-2015</ondertekeningsdatum><dossierref dossier="33488">33488</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-373"><publicatiejaar>2015</publicatiejaar><publicatienr>373</publicatienr><uitgiftedatum isodatum="2015-10-21">21-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-15">15-10-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-12-05">05-12-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037085&amp;artikel=IVa&amp;g=2015-12-05" onderdeel="artikel=IVa" korte-verwijzing="1.0:c:BWBR0037085&amp;artikel=IVa"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037085&amp;artikel=IVa&amp;z=2015-12-05&amp;g=2015-12-05" onderdeel="artikel=IVa" korte-verwijzing="jci1.3:c:BWBR0037085&amp;artikel=IVa"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelV" stam-id="13274143" versie-id="22720612" id="C32874851" label-id="13242014" inwerking="2015-12-05" label="Artikel V" bron="Stb.2015-354" effect="nieuwe-regeling" ondertekening_bron="2015-10-07" publicatie_bron="2015-10-14" publicatie_iwt="2015-10-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">V</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-354"><publicatiejaar>2015</publicatiejaar><publicatienr>354</publicatienr><uitgiftedatum isodatum="2015-10-14">14-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-07">07-10-2015</ondertekeningsdatum><dossierref dossier="33488">33488</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-373"><publicatiejaar>2015</publicatiejaar><publicatienr>373</publicatienr><uitgiftedatum isodatum="2015-10-21">21-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-15">15-10-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-12-05">05-12-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037085&amp;artikel=V&amp;g=2015-12-05" onderdeel="artikel=V" korte-verwijzing="1.0:c:BWBR0037085&amp;artikel=V"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037085&amp;artikel=V&amp;z=2015-12-05&amp;g=2015-12-05" onderdeel="artikel=V" korte-verwijzing="jci1.3:c:BWBR0037085&amp;artikel=V"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVI" stam-id="13274153" versie-id="22720622" id="C32874831" label-id="13242024" inwerking="2015-12-05" label="Artikel VI" bron="Stb.2015-354" effect="nieuwe-regeling" ondertekening_bron="2015-10-07" publicatie_bron="2015-10-14" publicatie_iwt="2015-10-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">VI</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als de Wet tegengaan huwelijksdwang.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-354"><publicatiejaar>2015</publicatiejaar><publicatienr>354</publicatienr><uitgiftedatum isodatum="2015-10-14">14-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-07">07-10-2015</ondertekeningsdatum><dossierref dossier="33488">33488</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-373"><publicatiejaar>2015</publicatiejaar><publicatienr>373</publicatienr><uitgiftedatum isodatum="2015-10-21">21-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-15">15-10-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-12-05">05-12-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037085&amp;artikel=VI&amp;g=2015-12-05" onderdeel="artikel=VI" korte-verwijzing="1.0:c:BWBR0037085&amp;artikel=VI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037085&amp;artikel=VI&amp;z=2015-12-05&amp;g=2015-12-05" onderdeel="artikel=VI" korte-verwijzing="jci1.3:c:BWBR0037085&amp;artikel=VI"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="13274163" versie-id="22720632" id="C32874921" label-id="13242034" inwerking="2015-12-05" bron="Stb.2015-354" effect="nieuwe-regeling" ondertekening_bron="2015-10-07" publicatie_bron="2015-10-14" publicatie_iwt="2015-10-21" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>Wassenaar</plaats>
+      <datum isodatum="2015-10-07">7 oktober 2015</datum>
+    </dagtekening>
+    <koning>Willem-Alexander</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Staatssecretaris van Veiligheid en Justitie, </functie>
+    <naam>
+      <voornaam>K.H.D.M.</voornaam>
+      <achternaam>Dijkhoff</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2015-10-14">de <nadruk type="cur">veertiende</nadruk> oktober 2015</datum>
+    <ondertekening>
+      <functie>De Minister van Veiligheid en Justitie, </functie>
+      <naam>
+        <voornaam>G.A. van der</voornaam>
+        <achternaam>Steur</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-354"><publicatiejaar>2015</publicatiejaar><publicatienr>354</publicatienr><uitgiftedatum isodatum="2015-10-14">14-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-07">07-10-2015</ondertekeningsdatum><dossierref dossier="33488">33488</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-373"><publicatiejaar>2015</publicatiejaar><publicatienr>373</publicatienr><uitgiftedatum isodatum="2015-10-21">21-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-15">15-10-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-12-05">05-12-2015</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-354"><publicatiejaar>2015</publicatiejaar><publicatienr>354</publicatienr><uitgiftedatum isodatum="2015-10-14">14-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-07">07-10-2015</ondertekeningsdatum><dossierref dossier="33488">33488</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-373"><publicatiejaar>2015</publicatiejaar><publicatienr>373</publicatienr><uitgiftedatum isodatum="2015-10-21">21-10-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-15">15-10-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-12-05">05-12-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037085&amp;g=2015-12-05" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0037085"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037085&amp;z=2015-12-05&amp;g=2015-12-05" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0037085"/></jcis></meta-data></wetgeving></toestand>

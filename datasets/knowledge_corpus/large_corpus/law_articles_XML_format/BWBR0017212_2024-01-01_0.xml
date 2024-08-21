@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0017212/2024-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0017212" inwerkingtreding="2024-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving soort="wet" stam-id="6148643" versie-id="10814182" id="C23569621" label-id="6137834" inwerkingtredingsdatum="2005-02-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="6148663" versie-id="10813982" id="C23569421" label-id="6137634" inwerking="2005-02-01" bron="Stb.2004-465" effect="nieuwe-regeling" ondertekening_bron="2004-09-16" publicatie_bron="2004-09-28" publicatie_iwt="2005-01-18" status="goed">Wet van 16 september 2004, houdende regeling van DNA-onderzoek bij veroordeelden (Wet DNA-onderzoek bij veroordeelden)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-465"><publicatiejaar>2004</publicatiejaar><publicatienr>465</publicatienr><uitgiftedatum isodatum="2004-09-28">28-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-16">16-09-2004</ondertekeningsdatum><dossierref dossier="28685">28685</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2005-18"><publicatiejaar>2005</publicatiejaar><publicatienr>18</publicatienr><uitgiftedatum isodatum="2005-01-18">18-01-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-01-12">12-01-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-02-01">01-02-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking voorzover het gaat om de misdrijven in de artikelen
+	 opgesomd in Stb. 2005/18. Treedt op 15 mei 2006 in werking voorzover het gaat om de misdrijven in
+	 de artikelen opgesomd in Stb. 2006/220.  Treedt in werking op 1 augustus 2006 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2006/312.  Treedt in werking op 1 januari 2008 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2007/513.  Treedt in werking op 1 januari 2009 voorzover het gaat om een misdrijf als omschreven
+	 in artikel 67, eerste lid, Wetboek van Strafvordering begaan door personen
+	 opgesomd in Stb. 2008/530. Treedt in werking op 1 mei 2010 ten aanzien van veroordeelden wegens ieder misdrijf als omschreven in artikel 67, eerste lid, Wetboek van Strafvordering (Stb. 2010/11).</al></opmerkingen-inhoud></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="6148673" versie-id="10813992" id="C23569431" label-id="6137644" inwerking="2005-02-01" bron="Stb.2004-465" effect="nieuwe-regeling" ondertekening_bron="2004-09-16" publicatie_bron="2004-09-28" publicatie_iwt="2005-01-18">Wet DNA-onderzoek bij veroordeelden<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-465"><publicatiejaar>2004</publicatiejaar><publicatienr>465</publicatienr><uitgiftedatum isodatum="2004-09-28">28-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-16">16-09-2004</ondertekeningsdatum><dossierref dossier="28685">28685</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2005-18"><publicatiejaar>2005</publicatiejaar><publicatienr>18</publicatienr><uitgiftedatum isodatum="2005-01-18">18-01-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-01-12">12-01-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-02-01">01-02-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking voorzover het gaat om de misdrijven in de artikelen
+	 opgesomd in Stb. 2005/18. Treedt op 15 mei 2006 in werking voorzover het gaat om de misdrijven in
+	 de artikelen opgesomd in Stb. 2006/220.  Treedt in werking op 1 augustus 2006 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2006/312.  Treedt in werking op 1 januari 2008 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2007/513.  Treedt in werking op 1 januari 2009 voorzover het gaat om een misdrijf als omschreven
+	 in artikel 67, eerste lid, Wetboek van Strafvordering begaan door personen
+	 opgesomd in Stb. 2008/530. Treedt in werking op 1 mei 2010 ten aanzien van veroordeelden wegens ieder misdrijf als omschreven in artikel 67, eerste lid, Wetboek van Strafvordering (Stb. 2010/11).</al></opmerkingen-inhoud></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="6148683" versie-id="10814002" id="C23569441" label-id="6137654" inwerking="2005-02-01" bron="Stb.2004-465" effect="nieuwe-regeling" ondertekening_bron="2004-09-16" publicatie_bron="2004-09-28" publicatie_iwt="2005-01-18" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is te regelen dat DNA-onderzoek plaatsvindt bij personen die zijn veroordeeld wegens bepaalde misdrijven, teneinde bij te dragen aan de voorkoming, opsporing, vervolging en berechting van strafbare feiten van deze personen;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al> Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-465"><publicatiejaar>2004</publicatiejaar><publicatienr>465</publicatienr><uitgiftedatum isodatum="2004-09-28">28-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-16">16-09-2004</ondertekeningsdatum><dossierref dossier="28685">28685</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2005-18"><publicatiejaar>2005</publicatiejaar><publicatienr>18</publicatienr><uitgiftedatum isodatum="2005-01-18">18-01-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-01-12">12-01-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-02-01">01-02-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking voorzover het gaat om de misdrijven in de artikelen
+	 opgesomd in Stb. 2005/18. Treedt op 15 mei 2006 in werking voorzover het gaat om de misdrijven in
+	 de artikelen opgesomd in Stb. 2006/220.  Treedt in werking op 1 augustus 2006 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2006/312.  Treedt in werking op 1 januari 2008 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2007/513.  Treedt in werking op 1 januari 2009 voorzover het gaat om een misdrijf als omschreven
+	 in artikel 67, eerste lid, Wetboek van Strafvordering begaan door personen
+	 opgesomd in Stb. 2008/530. Treedt in werking op 1 mei 2010 ten aanzien van veroordeelden wegens ieder misdrijf als omschreven in artikel 67, eerste lid, Wetboek van Strafvordering (Stb. 2010/11).</al></opmerkingen-inhoud></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="6148693" versie-id="29565362" id="C42405451" label-id="6137664" inwerking="2024-01-01" label="Artikel 1" bron="Stb.2023-202" effect="wijziging" ondertekening_bron="2023-05-24" publicatie_bron="2023-06-19" publicatie_iwt="2023-09-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid1" label-id="6137664L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>In deze wet wordt verstaan onder:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>DNA-onderzoek: onderzoek van celmateriaal dat slechts is gericht op het vergelijken van DNA-profielen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=1&amp;lid=1&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>verwerking: hetgeen daaronder wordt verstaan in artikel 4, aanhef en onder 2, van de Algemene verordening gegevensbescherming;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=1&amp;lid=1&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>veroordeelde: een persoon die al dan niet onherroepelijk is veroordeeld tot een straf als bedoeld in <extref doc="jci1.3:c:BWBR0001854&amp;artikel=9" label-id="2962464" verwijzing-id="1877427" bwb-id="BWBR0001854">artikel 9, eerste lid, onder a, onderdeel 1° of 3°, van het Wetboek van Strafrecht</extref>, een straf als bedoeld in <extref doc="jci1.3:c:BWBR0001854&amp;artikel=77h" label-id="2964274" verwijzing-id="1877428" bwb-id="BWBR0001854">artikel 77h, eerste lid, onder a, van dat wetboek</extref>, voorzover het de jeugddetentie of taakstraf betreft, een straf als bedoeld in <extref doc="jci1.3:c:BWBR0001869&amp;artikel=6" label-id="467794" verwijzing-id="3246840" bwb-id="BWBR0001869">artikel 6, onder a, van het Wetboek van Militair Strafrecht</extref> of een maatregel als bedoeld in <extref doc="jci1.3:c:BWBR0001854&amp;artikel=37a" label-id="2963324" verwijzing-id="3246841" bwb-id="BWBR0001854">artikel 37a</extref>, juncto <extref doc="jci1.3:c:BWBR0001854&amp;artikel=37b" label-id="2963334" verwijzing-id="3246842" bwb-id="BWBR0001854">37b</extref> of <extref doc="jci1.3:c:BWBR0001854&amp;artikel=38" label-id="2963424" verwijzing-id="3246843" bwb-id="BWBR0001854">38</extref>, <extref doc="jci1.3:c:BWBR0001854&amp;artikel=38m" label-id="2984204" verwijzing-id="3246844" bwb-id="BWBR0001854">38m</extref> of <extref doc="jci1.3:c:BWBR0001854&amp;artikel=77s" label-id="2964394" verwijzing-id="3246845" bwb-id="BWBR0001854">77s van het Wetboek van Strafrecht</extref> dan wel ten aanzien van wie met toepassing van <extref doc="jci1.3:c:BWBR0040634&amp;artikel=2.3" label-id="14502984" verwijzing-id="3246846" bwb-id="BWBR0040634">artikel 2.3, onderdeel 1°, 2° of 4°, van de Wet forensische zorg</extref> een zorgmachtiging is afgegeven;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=1&amp;lid=1&amp;o=c&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>opsporingsambtenaar: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeeld/Onderdeel1">
+            <li.nr>1°.</li.nr>
+            <al>een ambtenaar van politie als bedoeld in <extref doc="jci1.3:c:BWBR0031788&amp;artikel=2" label-id="11762944" verwijzing-id="2868373" bwb-id="BWBR0031788">artikel 2, onder a, van de Politiewet 2012</extref>;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=1&amp;lid=1&amp;o=d&amp;o=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=1"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeeld/Onderdeel2">
+            <li.nr>2°.</li.nr>
+            <al>een ambtenaar van politie als bedoeld in <extref doc="jci1.3:c:BWBR0031788&amp;artikel=2" label-id="11762944" verwijzing-id="2868374" bwb-id="BWBR0031788">artikel 2, onder c, van die wet</extref>, voor zover hij is aangesteld voor de uitvoering van de politietaak;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=1&amp;lid=1&amp;o=d&amp;o=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=2"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeeld/Onderdeel3">
+            <li.nr>3°.</li.nr>
+            <al>een ambtenaar van politie als bedoeld in <extref doc="jci1.3:c:BWBR0031788&amp;artikel=2" label-id="11762944" verwijzing-id="2868375" bwb-id="BWBR0031788">artikel 2, onder b of c, van die wet</extref>, voor zover hij is aangesteld voor de uitvoering van taken op het terrein van de technische recherche, of</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=1&amp;lid=1&amp;o=d&amp;o=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=3"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeeld/Onderdeel4">
+            <li.nr>4°.</li.nr>
+            <al>een militair van de Koninklijke marechaussee als bedoeld in <extref doc="jci1.3:c:BWBR0001903&amp;artikel=141" label-id="3003844" verwijzing-id="2868376" bwb-id="BWBR0001903">artikel 141, onder c, van het Wetboek van Strafvordering</extref>.</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=1&amp;lid=1&amp;o=d&amp;o=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=4"/></jcis></meta-data></li>
+        </lijst>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=1&amp;lid=1&amp;o=d&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=1&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid2" label-id="6137664L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Met een veroordeelde als bedoeld in het eerste lid, onder c, wordt voor de toepassing van deze wet gelijkgesteld een persoon die op grond van <extref doc="jci1.3:c:BWBR0001854&amp;artikel=39" label-id="2963544" verwijzing-id="1877508" bwb-id="BWBR0001854">artikel 39 van het Wetboek van Strafrecht</extref> is ontslagen van alle rechtsvervolging en aan wie tevens een maatregel als voorzien in <extref doc="jci1.3:c:BWBR0001854&amp;artikel=37a" label-id="2963324" verwijzing-id="1877510" bwb-id="BWBR0001854">artikel 37a</extref> juncto <extref doc="jci1.3:c:BWBR0001854&amp;artikel=37b" label-id="2963334" verwijzing-id="1877511" bwb-id="BWBR0001854">37b</extref> of <extref doc="jci1.3:c:BWBR0001854&amp;artikel=38" label-id="2963424" verwijzing-id="1877512" bwb-id="BWBR0001854">38</extref>, <extref doc="jci1.3:c:BWBR0001854&amp;artikel=38m" label-id="2984204" verwijzing-id="1877513" bwb-id="BWBR0001854">38m</extref> of <extref doc="jci1.3:c:BWBR0001854&amp;artikel=77s" label-id="2964394" verwijzing-id="1877514" bwb-id="BWBR0001854">77s van het Wetboek van Strafrecht</extref> is opgelegd, een persoon aan wie bij onherroepelijke strafbeschikking een taakstraf is opgelegd en een persoon ten aanzien van wie met toepassing van <extref doc="jci1.3:c:BWBR0040634&amp;artikel=2.3" label-id="14502984" verwijzing-id="3246847" bwb-id="BWBR0040634">artikel 2.3, onderdeel 1°, 2° of 4°, van de Wet forensische zorg</extref> een zorgmachtiging is afgegeven.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=1&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-202"><publicatiejaar>2023</publicatiejaar><publicatienr>202</publicatienr><uitgiftedatum isodatum="2023-06-19">19-06-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-05-24">24-05-2023</ondertekeningsdatum><dossierref dossier="35936">35936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-307"><publicatiejaar>2023</publicatiejaar><publicatienr>307</publicatienr><uitgiftedatum isodatum="2023-09-28">28-09-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-09-25">25-09-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017212&amp;artikel=1&amp;g=2024-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0017212&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0017212&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" stam-id="6148703" versie-id="25164482" id="C35978601" label-id="6137674" inwerking="2018-07-28" label="Artikel 2" bron="Stb.2018-247" effect="wijziging" ondertekening_bron="2018-07-11" publicatie_bron="2018-07-27" publicatie_iwt="2018-07-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="6137674L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De officier van justitie in het arrondissement waarin de rechtbank is gelegen die in eerste aanleg vonnis heeft gewezen, dan wel de officier van justitie die de strafbeschikking heeft uitgevaardigd, beveelt dat van een veroordeelde wegens een misdrijf als omschreven in <extref doc="jci1.3:c:BWBR0001903&amp;artikel=67" label-id="3002534" verwijzing-id="1877459" bwb-id="BWBR0001903">artikel 67, eerste lid, van het Wetboek van Strafvordering</extref>, celmateriaal zal worden afgenomen ten behoeve van het bepalen en verwerken van zijn DNA-profiel, tenzij:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>van deze persoon reeds een DNA-profiel is verwerkt overeenkomstig het <extref doc="jci1.3:c:BWBR0001903" label-id="3010844" verwijzing-id="2462397" bwb-id="BWBR0001903">Wetboek van Strafvordering</extref> of de Algemene verordening gegevensbescherming;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=2&amp;lid=1&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>redelijkerwijs aannemelijk is dat het bepalen en verwerken van zijn DNA-profiel gelet op de aard van het misdrijf of de bijzondere omstandigheden waaronder het misdrijf is gepleegd niet van betekenis zal kunnen zijn voor de voorkoming, opsporing, vervolging en berechting van strafbare feiten van de veroordeelde.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=2&amp;lid=1&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=2&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="6137674L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien het DNA-profiel van een persoon dat is verwerkt overeenkomstig het <extref doc="jci1.3:c:BWBR0001903" label-id="3010844" verwijzing-id="2462399" bwb-id="BWBR0001903">Wetboek van Strafvordering</extref>, zou moeten worden vernietigd, blijft het niettemin verwerkt op grond van het eerste lid, aanhef, indien de persoon is veroordeeld wegens een misdrijf als omschreven in <extref doc="jci1.3:c:BWBR0001903&amp;artikel=67" label-id="3002534" verwijzing-id="2462400" bwb-id="BWBR0001903">artikel 67, eerste lid, van dat wetboek</extref> en de officier van justitie heeft geoordeeld dat het redelijkerwijs aannemelijk is dat het verwerken van zijn DNA-profiel van betekenis kan zijn voor de voorkoming, opsporing, vervolging en berechting van strafbare feiten van de veroordeelde. Het bevel van de officier van justitie, bedoeld in het eerste lid, aanhef, blijft in dat geval achterwege.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=2&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid3" label-id="6137674L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het bevel, de tenuitvoerlegging dan wel de verdere tenuitvoerlegging van het bevel kan achterwege blijven indien zich naar het oordeel van de officier van justitie zwaarwegende redenen voordoen het DNA-onderzoek aan ander celmateriaal van de veroordeelde dan afgenomen celmateriaal te laten plaatsvinden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=2&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid4" label-id="6137674L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De officier van justitie die het bevel heeft gegeven, benoemt een deskundige, verbonden aan een van de bij algemene maatregel van bestuur aangewezen laboratoria, met de opdracht een DNA-onderzoek te verrichten en hem een met redenen omkleed verslag uit te brengen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=2&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid5" label-id="6137674L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>De officier van justitie geeft de veroordeelde schriftelijk kennis van de uitslag van het DNA-onderzoek indien zijn DNA-profiel overeenkomt met een ander verwerkt DNA-profiel en het belang van het onderzoek dat toelaat.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=2&amp;lid=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid6" label-id="6137674L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>DNA-profielen worden slechts verwerkt voor de voorkoming, opsporing, vervolging en berechting van strafbare feiten en de vaststelling van de identiteit van een lijk. Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor het verwerken van DNA-profielen en celmateriaal.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=2&amp;lid=6&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid7" label-id="6137674L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Bij of krachtens algemene maatregel van bestuur worden over de wijze van uitvoering van het derde en vierde lid nadere regels gesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=2&amp;lid=7&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-247"><publicatiejaar>2018</publicatiejaar><publicatienr>247</publicatienr><uitgiftedatum isodatum="2018-07-27">27-07-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-07-11">11-07-2018</ondertekeningsdatum><dossierref dossier="34939">34939</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-248"><publicatiejaar>2018</publicatiejaar><publicatienr>248</publicatienr><uitgiftedatum isodatum="2018-07-27">27-07-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-07-11">11-07-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-07-28">28-07-2018</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2018-05-25">25-05-2018</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017212&amp;artikel=2&amp;g=2024-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0017212&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0017212&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="6148713" versie-id="23977982" id="C37508641" label-id="6137684" inwerking="2020-01-01" label="Artikel 3" bron="Stb.2017-82" effect="wijziging" ondertekening_bron="2017-02-22" publicatie_bron="2017-03-09" publicatie_iwt="2019-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="6137684L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het bevel, bedoeld in <intref doc="jci1.3:c:BWBR0017212&amp;artikel=2&amp;z=2024-01-01&amp;g=2024-01-01" label-id="6137674" verwijzing-id="1877541" bwb-id="BWBR0017212" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid, aanhef</intref>, is gedagtekend en ondertekend en bevat de plaats waar en de datum en het tijdstip waarop het bevel ten uitvoer zal worden gelegd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=3&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="6137684L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het bevel omschrijft het misdrijf waarvoor de betrokken persoon is veroordeeld en vermeldt de strafbeschikking of het vonnis of arrest waarbij de veroordeling heeft plaatsgevonden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=3&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid3" label-id="6137684L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het bevel bevat voorzover mogelijk de naam, voornamen, geboortedatum, geboorteplaats en woon- of verblijfplaats van de veroordeelde.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=3&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid4" label-id="6137684L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Het bevel vermeldt het rechtsmiddel dat openstaat tegen het bepalen en verwerken van het DNA-profiel van de veroordeelde, en de termijn waarbinnen dat rechtsmiddel kan worden aangewend.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=3&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid5" label-id="6137684L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Het bevel wordt aan de veroordeelde betekend door uitreiking overeenkomstig <extref doc="jci1.3:c:BWBR0001903&amp;artikel=36e" label-id="3017374" verwijzing-id="2813063" bwb-id="BWBR0001903">artikel 36e, eerste lid, onder b, tweede en derde lid, van het Wetboek van Strafvordering</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=3&amp;lid=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-82"><publicatiejaar>2017</publicatiejaar><publicatienr>82</publicatienr><uitgiftedatum isodatum="2017-03-09">09-03-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-02-22">22-02-2017</ondertekeningsdatum><dossierref dossier="34086">34086</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-507"><publicatiejaar>2019</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2019-12-24">24-12-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-12-18">18-12-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017212&amp;artikel=3&amp;g=2024-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0017212&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0017212&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="b1-4" stam-id="6148723" versie-id="21303692" id="C30672401" label-id="6137694" inwerking="2014-05-01" label="Artikel 4" bron="Stb.2014-125" effect="wijziging" ondertekening_bron="2014-03-12" publicatie_bron="2014-03-21" publicatie_iwt="2014-04-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="6137694L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien noodzakelijk voor de tenuitvoerlegging van het bevel, bedoeld in <intref verwijzing-id="2633874" doc="jci1.3:c:BWBR0017212&amp;artikel=2&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0017212" label-id="6137674" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid, aanhef</intref>, kan de officier van justitie de aanhouding van de veroordeelde bevelen. Het bevel tot aanhouding is schriftelijk en bevat de reden van aanhouding. Een afschrift van het bevel wordt de aangehouden veroordeelde onverwijld uitgereikt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=4&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="6137694L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De aanhouding wordt verricht door een opsporingsambtenaar, die daartoe elke plaats kan betreden en doorzoeken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=4&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid3" label-id="6137694L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Celmateriaal wordt slechts van de aangehouden veroordeelde of de veroordeelde die zich meldt voor de tenuitvoerlegging van het bevel, afgenomen, nadat van hem een of meer vingerafdrukken overeenkomstig het <extref doc="jci1.3:c:BWBR0001903" verwijzing-id="2291036" bwb-id="BWBR0001903" label-id="3010844">Wetboek van Strafvordering</extref> zijn genomen en verwerkt en de opsporingsambtenaar zijn identiteit heeft vastgesteld op de wijze, bedoeld in <extref doc="jci1.3:c:BWBR0001903&amp;artikel=27a" verwijzing-id="2291037" bwb-id="BWBR0001903" label-id="10119054">artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=4&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid4" label-id="6137694L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Indien de veroordeelde, bedoeld in het derde lid, ontkent de persoon te zijn tegen wie het bevel is gericht, of indien over zijn identiteit twijfel bestaat, is de opsporingsambtenaar bevoegd hem, voor zover dat noodzakelijk is voor de vaststelling van zijn identiteit, aan zijn kleding te onderzoeken, alsmede voorwerpen die hij bij zich draagt of met zich meevoert te onderzoeken. <extref doc="jci1.3:c:BWBR0001903&amp;artikel=55b" verwijzing-id="2291039" bwb-id="BWBR0001903" label-id="3018264">Artikel 55b van het Wetboek van Strafvordering</extref> is van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=4&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid5" label-id="6137694L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Voor zover noodzakelijk voor de vaststelling van zijn identiteit, kan de aangehouden veroordeelde op bevel van de officier van justitie voor ten hoogste zes uren worden opgehouden, met dien verstande dat de tijd tussen middernacht en negen uur 's morgens niet wordt meegerekend. Het bevel tot ophouding is schriftelijk en bevat de reden van ophouding. Het bevel wijst de aangehouden veroordeelde, aan wie onverwijld een afschrift van het bevel wordt uitgereikt, zo duidelijk mogelijk aan. De officier van justitie kan ten aanzien van de opgehouden persoon maatregelen ter vaststelling van zijn identiteit bevelen. Als zodanige maatregelen worden aangemerkt de maatregelen, bedoeld in <extref doc="jci1.3:c:BWBR0001903&amp;artikel=55c" verwijzing-id="2346758" bwb-id="BWBR0001903" label-id="10119264">artikel 55c, tweede lid, van het Wetboek van Strafvordering</extref>. Indien noodzakelijk voor de vaststelling van de identiteit van de aangehouden veroordeelde, kan de officier van justitie schriftelijk bevelen dat de termijn van zes uren eenmaal met ten hoogste zes uren wordt verlengd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=4&amp;lid=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid6" label-id="6137694L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Het bevel, bedoeld in <intref verwijzing-id="1877522" doc="jci1.3:c:BWBR0017212&amp;artikel=2&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0017212" label-id="6137674" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid, aanhef</intref>, wordt zo spoedig mogelijk na de aanhouding van de veroordeelde ten uitvoer gelegd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=4&amp;lid=6&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid7" label-id="6137694L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Voor de tenuitvoerlegging van het bevel mag de aangehouden veroordeelde wiens identiteit is vastgesteld, niet langer dan zes uren worden opgehouden, met dien verstande dat de tijd tussen middernacht en negen uur 's morgens niet wordt meegerekend.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=4&amp;lid=7&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-125"><publicatiejaar>2014</publicatiejaar><publicatienr>125</publicatienr><uitgiftedatum isodatum="2014-03-21">21-03-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-03-12">12-03-2014</ondertekeningsdatum><dossierref dossier="33352">33352</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-149"><publicatiejaar>2014</publicatiejaar><publicatienr>149</publicatienr><uitgiftedatum isodatum="2014-04-11">11-04-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-04-07">07-04-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2014-05-01">01-05-2014</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017212&amp;artikel=4&amp;g=2024-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0017212&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0017212&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" stam-id="6148733" versie-id="24907742" id="C37365261" label-id="6137704" inwerking="2020-01-01" label="Artikel 5" bron="Stb.2018-37" effect="wijziging" ondertekening_bron="2018-01-24" publicatie_bron="2018-02-16" publicatie_iwt="2019-11-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid1" label-id="6137704L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het bevel, bedoeld in <intref doc="jci1.3:c:BWBR0017212&amp;artikel=2&amp;z=2024-01-01&amp;g=2024-01-01" label-id="6137674" verwijzing-id="1877564" bwb-id="BWBR0017212" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid, aanhef</intref>, wordt ten uitvoer gelegd door afname van wangslijmvlies. Indien afname van wangslijmvlies om bijzondere geneeskundige redenen of vanwege het verzet van de veroordeelde onwenselijk is dan wel geen geschikt celmateriaal oplevert, wordt bloed afgenomen of worden haarwortels afgenomen, zo nodig met behulp van de sterke arm of, voorzover de veroordeelde in een inrichting of instelling, niet zijnde een accommodatie als bedoeld in <extref doc="jci1.3:c:BWBR0040635&amp;artikel=1:1" label-id="14503744" verwijzing-id="2870391" bwb-id="BWBR0040635">artikel 1:1 van de Wet verplichte geestelijke gezondheidszorg</extref> of als bedoeld in <extref doc="jci1.3:c:BWBR0040632&amp;artikel=1" label-id="14501684" verwijzing-id="2870392" bwb-id="BWBR0040632">artikel 1, eerste lid, onderdeel b, van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten</extref>, verblijft, de functionaris, bedoeld in <extref doc="jci1.3:c:BWBR0009709&amp;artikel=1" label-id="879014" verwijzing-id="1877475" bwb-id="BWBR0009709">artikel 1, onder d, van de Penitentiaire beginselenwet</extref>, <extref doc="jci1.3:c:BWBR0008765&amp;artikel=1" label-id="3200054" verwijzing-id="1877476" bwb-id="BWBR0008765">artikel 1, onder h, van de Beginselenwet verpleging ter beschikking gestelden</extref> of <extref doc="jci1.3:c:BWBR0011756&amp;artikel=1" label-id="1380074" verwijzing-id="2406690" bwb-id="BWBR0011756">artikel 1, onder i, van de Beginselenwet justitiële jeugdinrichtingen</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=5&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid2" label-id="6137704L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het celmateriaal wordt door een arts of een verpleegkundige afgenomen. In bij algemene maatregel van bestuur te bepalen gevallen kan het celmateriaal worden afgenomen door een persoon die voldoet aan bij of krachtens algemene maatregel van bestuur te stellen eisen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=5&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid3" label-id="6137704L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Bij of krachtens algemene maatregel van bestuur worden over de wijze van uitvoering van dit artikel nadere regels gesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=5&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-37"><publicatiejaar>2018</publicatiejaar><publicatienr>37</publicatienr><uitgiftedatum isodatum="2018-02-16">16-02-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-01-24">24-01-2018</ondertekeningsdatum><dossierref dossier="32399">32399</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-437"><publicatiejaar>2019</publicatiejaar><publicatienr>437</publicatienr><uitgiftedatum isodatum="2019-11-29">29-11-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-11-21">21-11-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017212&amp;artikel=5&amp;g=2024-01-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0017212&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0017212&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" stam-id="6148743" versie-id="23977992" id="C37508651" label-id="6137714" inwerking="2020-01-01" label="Artikel 6" bron="Stb.2017-82" effect="wijziging" ondertekening_bron="2017-02-22" publicatie_bron="2017-03-09" publicatie_iwt="2019-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid1" label-id="6137714L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien de officier van justitie oordeelt dat zich zwaarwegende redenen voordoen om het DNA-onderzoek aan ander celmateriaal van de veroordeelde dan afgenomen celmateriaal te laten plaatsvinden, kan hij een opsporingsambtenaar of de functionaris, bedoeld in <extref doc="jci1.3:c:BWBR0009709&amp;artikel=1" label-id="879014" verwijzing-id="1877478" bwb-id="BWBR0009709">artikel 1, onder d, van de Penitentiaire beginselenwet</extref>, <extref doc="jci1.3:c:BWBR0008765&amp;artikel=1" label-id="3200054" verwijzing-id="1877479" bwb-id="BWBR0008765">artikel 1, onder g, van de Beginselenwet verpleging ter beschikking gestelden</extref> of <extref doc="jci1.3:c:BWBR0011756&amp;artikel=1" label-id="1380074" verwijzing-id="2406691" bwb-id="BWBR0011756">artikel 1, onder i, van de Beginselenwet justitiële jeugdinrichtingen</extref>, opdragen voorwerpen in beslag te nemen waarop vermoedelijk celmateriaal van de veroordeelde aanwezig is.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=6&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid2" label-id="6137714L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Voorzover noodzakelijk voor de inbeslagneming van voorwerpen waarop vermoedelijk celmateriaal van de veroordeelde aanwezig is, kan de officier van justitie de woning van de veroordeelde zonder toestemming van de bewoner betreden en doorzoeken. <extref doc="jci1.3:c:BWBR0001903&amp;artikel=99" label-id="3002994" verwijzing-id="1877462" bwb-id="BWBR0001903">Artikel 99, eerste lid, van het Wetboek van Strafvordering</extref> is van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=6&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid3" label-id="6137714L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Zodra voor het bepalen en verwerken van het DNA-profiel van de veroordeelde voldoende celmateriaal in beslag is genomen, deelt de officier van justitie dit schriftelijk aan de veroordeelde mee. Deze mededeling wordt aan de veroordeelde betekend door uitreiking overeenkomstig <extref doc="jci1.3:c:BWBR0001903&amp;artikel=36e" label-id="3017374" verwijzing-id="2813064" bwb-id="BWBR0001903">artikel 36e, eerste lid, onder b, tweede en derde lid, van het Wetboek van Strafvordering</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=6&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid4" label-id="6137714L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Zodra het DNA-onderzoek is verricht, doet de officier van justitie de in beslag genomen voorwerpen teruggeven aan degene bij wie ze in beslag zijn genomen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=6&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-82"><publicatiejaar>2017</publicatiejaar><publicatienr>82</publicatienr><uitgiftedatum isodatum="2017-03-09">09-03-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-02-22">22-02-2017</ondertekeningsdatum><dossierref dossier="34086">34086</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-507"><publicatiejaar>2019</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2019-12-24">24-12-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-12-18">18-12-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017212&amp;artikel=6&amp;g=2024-01-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0017212&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=6&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0017212&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="b1-7" stam-id="6148753" versie-id="13414342" id="C20562231" label-id="6137724" inwerking="2008-02-01" label="Artikel 7" bron="Stb.2006-330" effect="wijziging" ondertekening_bron="2006-07-07" publicatie_bron="2006-07-18" publicatie_iwt="2008-01-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid1" label-id="6137724L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De veroordeelde kan tegen het bepalen en verwerken van zijn DNA-profiel, binnen veertien dagen na de dag waarop zijn celmateriaal is afgenomen onderscheidenlijk de dag waarop de mededeling, bedoeld in <intref verwijzing-id="1877936" doc="jci1.3:c:BWBR0017212&amp;artikel=6&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0017212" label-id="6137714" bwb-ng-variabel-deel="/Artikel6">artikel 6, derde lid</intref>, is betekend, een bezwaarschrift indienen bij de rechtbank die in eerste aanleg vonnis heeft gewezen, dan wel de rechtbank in het arrondissement waar tegen de strafbeschikking verzet had kunnen worden gedaan. De <extref doc="jci1.3:c:BWBR0001903&amp;afdeling=Zesde" verwijzing-id="1877937" bwb-id="BWBR0001903" label-id="3001914">zesde afdeling van Titel I van het Eerste Boek van het Wetboek van Strafvordering</extref> is van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=7&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid2" label-id="6137724L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het bezwaarschrift is met redenen omkleed.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=7&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid3" label-id="6137724L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De rechtbank beslist zo spoedig mogelijk.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=7&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid4" label-id="6137724L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Zolang tegen het bepalen en verwerken van zijn DNA-profiel een bezwaarschrift kan worden ingediend en zolang een ingediend bezwaarschrift niet is ingetrokken of daarop niet is beslist, wordt op basis van het celmateriaal van de veroordeelde geen DNA-profiel bepaald.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=7&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid5" label-id="6137724L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Indien de rechtbank het bezwaarschrift gegrond verklaart, beveelt zij de officier van justitie ervoor zorg te dragen dat het celmateriaal van de veroordeelde terstond wordt vernietigd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=7&amp;lid=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2006-330"><publicatiejaar>2006</publicatiejaar><publicatienr>330</publicatienr><uitgiftedatum isodatum="2006-07-18">18-07-2006</uitgiftedatum><ondertekeningsdatum isodatum="2006-07-07">07-07-2006</ondertekeningsdatum><dossierref dossier="29849">29849</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-4"><publicatiejaar>2008</publicatiejaar><publicatienr>4</publicatienr><uitgiftedatum isodatum="2008-01-10">10-01-2008</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-21">21-12-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-02-01">01-02-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017212&amp;artikel=7&amp;g=2024-01-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0017212&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=7&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0017212&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" stam-id="6148763" versie-id="23978002" id="C37508661" label-id="6137734" inwerking="2020-01-01" label="Artikel 8" bron="Stb.2017-82" effect="wijziging" ondertekening_bron="2017-02-22" publicatie_bron="2017-03-09" publicatie_iwt="2019-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid1" label-id="6137734L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Deze wet is van toepassing op personen die op het tijdstip van inwerkingtreding van deze wet reeds zijn veroordeeld tot een vrijheidsbenemende straf als bedoeld in <extref doc="jci1.3:c:BWBR0001854&amp;artikel=9" label-id="2962464" verwijzing-id="1877481" bwb-id="BWBR0001854">artikel 9, eerste lid, onder a, onderdeel 1°</extref>, of <extref doc="jci1.3:c:BWBR0001854&amp;artikel=77h" label-id="2964274" verwijzing-id="1877482" bwb-id="BWBR0001854">77h, eerste lid, onder a, van het Wetboek van Strafrecht</extref> of <extref doc="jci1.3:c:BWBR0001869&amp;artikel=6" label-id="467794" verwijzing-id="1877523" bwb-id="BWBR0001869">artikel 6, onder a, van het Wetboek van Militair Strafrecht</extref> dan wel een vrijheidsbenemende maatregel als bedoeld in <extref doc="jci1.3:c:BWBR0001854&amp;artikel=37" label-id="2963314" verwijzing-id="1877524" bwb-id="BWBR0001854">artikel 37</extref>, <extref doc="jci1.3:c:BWBR0001854&amp;artikel=37a" label-id="2963324" verwijzing-id="1877525" bwb-id="BWBR0001854">37a</extref> juncto <extref doc="jci1.3:c:BWBR0001854&amp;artikel=37b" label-id="2963334" verwijzing-id="1877526" bwb-id="BWBR0001854">37b</extref>, <extref doc="jci1.3:c:BWBR0001854&amp;artikel=38m" label-id="2984204" verwijzing-id="1877527" bwb-id="BWBR0001854">38m</extref> of <extref doc="jci1.3:c:BWBR0001854&amp;artikel=77s" label-id="2964394" verwijzing-id="1877528" bwb-id="BWBR0001854">77s van het Wetboek van Strafrecht</extref>, tenzij zij deze straf of maatregel op dat tijdstip hebben ondergaan of in verband met het misdrijf waarvoor deze straf of maatregel bij onherroepelijke veroordeling is opgelegd, voorlopige hechtenis hebben ondergaan waarvan de duur ten minste gelijk is aan de duur van deze straf of maatregel.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=8&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid2" label-id="6137734L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Deze wet is voorts van toepassing op personen die op het tijdstip van inwerkingtreding van deze wet ingevolge <extref doc="jci1.3:c:BWBR0001854&amp;artikel=38c" label-id="2963454" verwijzing-id="2977503" bwb-id="BWBR0001854">artikel 38c van het Wetboek van Strafrecht</extref> of <extref doc="jci1.3:c:BWBR0001903&amp;artikel=6:6:10" label-id="13909704" verwijzing-id="2977504" bwb-id="BWBR0001903">artikel 6:6:10 van het Wetboek van Strafvordering</extref> alsnog van overheidswege worden verpleegd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=8&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid3" label-id="6137734L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Voor de toepassing van het eerste lid wordt onder de duur van de voorlopige hechtenis begrepen de duur van de inverzekeringstelling.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=8&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-82"><publicatiejaar>2017</publicatiejaar><publicatienr>82</publicatienr><uitgiftedatum isodatum="2017-03-09">09-03-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-02-22">22-02-2017</ondertekeningsdatum><dossierref dossier="34086">34086</dossierref></publicatie><juncto><publicatie soort="Stb" urlidentifier="stb-2019-504"><publicatiejaar>2019</publicatiejaar><publicatienr>504</publicatienr><uitgiftedatum isodatum="2019-12-24">24-12-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-12-18">18-12-2019</ondertekeningsdatum><dossierref dossier="35311">35311</dossierref></publicatie></juncto></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-507"><publicatiejaar>2019</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2019-12-24">24-12-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-12-18">18-12-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017212&amp;artikel=8&amp;g=2024-01-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0017212&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=8&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0017212&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" code="b1-9" stam-id="6148773" versie-id="10814092" id="C23569531" label-id="6137744" inwerking="2005-02-01" label="Artikel 9" bron="Stb.2004-465" effect="nieuwe-regeling" ondertekening_bron="2004-09-16" publicatie_bron="2004-09-28" publicatie_iwt="2005-01-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>9</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Penitentiaire beginselenwet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-465"><publicatiejaar>2004</publicatiejaar><publicatienr>465</publicatienr><uitgiftedatum isodatum="2004-09-28">28-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-16">16-09-2004</ondertekeningsdatum><dossierref dossier="28685">28685</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2005-18"><publicatiejaar>2005</publicatiejaar><publicatienr>18</publicatienr><uitgiftedatum isodatum="2005-01-18">18-01-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-01-12">12-01-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-02-01">01-02-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking voorzover het gaat om de misdrijven in de artikelen
+	 opgesomd in Stb. 2005/18. Treedt op 15 mei 2006 in werking voorzover het gaat om de misdrijven in
+	 de artikelen opgesomd in Stb. 2006/220.  Treedt in werking op 1 augustus 2006 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2006/312.  Treedt in werking op 1 januari 2008 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2007/513.  Treedt in werking op 1 januari 2009 voorzover het gaat om een misdrijf als omschreven
+	 in artikel 67, eerste lid, Wetboek van Strafvordering begaan door personen
+	 opgesomd in Stb. 2008/530. Treedt in werking op 1 mei 2010 ten aanzien van veroordeelden wegens ieder misdrijf als omschreven in artikel 67, eerste lid, Wetboek van Strafvordering (Stb. 2010/11).</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017212&amp;artikel=9&amp;g=2024-01-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0017212&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=9&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0017212&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" stam-id="6148783" versie-id="10814102" id="C23569541" label-id="6137754" inwerking="2005-02-01" label="Artikel 10" bron="Stb.2004-465" effect="nieuwe-regeling" ondertekening_bron="2004-09-16" publicatie_bron="2004-09-28" publicatie_iwt="2005-01-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>10</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Beginselenwet verpleging ter beschikking gestelden.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-465"><publicatiejaar>2004</publicatiejaar><publicatienr>465</publicatienr><uitgiftedatum isodatum="2004-09-28">28-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-16">16-09-2004</ondertekeningsdatum><dossierref dossier="28685">28685</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2005-18"><publicatiejaar>2005</publicatiejaar><publicatienr>18</publicatienr><uitgiftedatum isodatum="2005-01-18">18-01-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-01-12">12-01-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-02-01">01-02-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking voorzover het gaat om de misdrijven in de artikelen
+	 opgesomd in Stb. 2005/18. Treedt op 15 mei 2006 in werking voorzover het gaat om de misdrijven in
+	 de artikelen opgesomd in Stb. 2006/220.  Treedt in werking op 1 augustus 2006 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2006/312.  Treedt in werking op 1 januari 2008 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2007/513.  Treedt in werking op 1 januari 2009 voorzover het gaat om een misdrijf als omschreven
+	 in artikel 67, eerste lid, Wetboek van Strafvordering begaan door personen
+	 opgesomd in Stb. 2008/530. Treedt in werking op 1 mei 2010 ten aanzien van veroordeelden wegens ieder misdrijf als omschreven in artikel 67, eerste lid, Wetboek van Strafvordering (Stb. 2010/11).</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017212&amp;artikel=10&amp;g=2024-01-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0017212&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=10&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0017212&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" stam-id="6148793" versie-id="10814112" id="C23569551" label-id="6137764" inwerking="2005-02-01" label="Artikel 11" bron="Stb.2004-465" effect="nieuwe-regeling" ondertekening_bron="2004-09-16" publicatie_bron="2004-09-28" publicatie_iwt="2005-01-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>11</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Beginselenwet justitiële jeugdinrichtingen.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-465"><publicatiejaar>2004</publicatiejaar><publicatienr>465</publicatienr><uitgiftedatum isodatum="2004-09-28">28-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-16">16-09-2004</ondertekeningsdatum><dossierref dossier="28685">28685</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2005-18"><publicatiejaar>2005</publicatiejaar><publicatienr>18</publicatienr><uitgiftedatum isodatum="2005-01-18">18-01-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-01-12">12-01-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-02-01">01-02-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking voorzover het gaat om de misdrijven in de artikelen
+	 opgesomd in Stb. 2005/18. Treedt op 15 mei 2006 in werking voorzover het gaat om de misdrijven in
+	 de artikelen opgesomd in Stb. 2006/220.  Treedt in werking op 1 augustus 2006 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2006/312.  Treedt in werking op 1 januari 2008 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2007/513.  Treedt in werking op 1 januari 2009 voorzover het gaat om een misdrijf als omschreven
+	 in artikel 67, eerste lid, Wetboek van Strafvordering begaan door personen
+	 opgesomd in Stb. 2008/530. Treedt in werking op 1 mei 2010 ten aanzien van veroordeelden wegens ieder misdrijf als omschreven in artikel 67, eerste lid, Wetboek van Strafvordering (Stb. 2010/11).</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017212&amp;artikel=11&amp;g=2024-01-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0017212&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=11&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0017212&amp;artikel=11"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel12" code="b1-12" stam-id="6148803" versie-id="10814122" id="C23569561" label-id="6137774" inwerking="2005-02-01" label="Artikel 12" bron="Stb.2004-465" effect="nieuwe-regeling" ondertekening_bron="2004-09-16" publicatie_bron="2004-09-28" publicatie_iwt="2005-01-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>12</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Penitentiaire beginselenwet, de Beginselenwet verpleging ter beschikking gestelden en de Beginselenwet justitiële jeugdinrichtingen.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-465"><publicatiejaar>2004</publicatiejaar><publicatienr>465</publicatienr><uitgiftedatum isodatum="2004-09-28">28-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-16">16-09-2004</ondertekeningsdatum><dossierref dossier="28685">28685</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2005-18"><publicatiejaar>2005</publicatiejaar><publicatienr>18</publicatienr><uitgiftedatum isodatum="2005-01-18">18-01-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-01-12">12-01-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-02-01">01-02-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking voorzover het gaat om de misdrijven in de artikelen
+	 opgesomd in Stb. 2005/18. Treedt op 15 mei 2006 in werking voorzover het gaat om de misdrijven in
+	 de artikelen opgesomd in Stb. 2006/220.  Treedt in werking op 1 augustus 2006 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2006/312.  Treedt in werking op 1 januari 2008 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2007/513.  Treedt in werking op 1 januari 2009 voorzover het gaat om een misdrijf als omschreven
+	 in artikel 67, eerste lid, Wetboek van Strafvordering begaan door personen
+	 opgesomd in Stb. 2008/530. Treedt in werking op 1 mei 2010 ten aanzien van veroordeelden wegens ieder misdrijf als omschreven in artikel 67, eerste lid, Wetboek van Strafvordering (Stb. 2010/11).</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017212&amp;artikel=12&amp;g=2024-01-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0017212&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=12&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0017212&amp;artikel=12"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13" code="b1-13" stam-id="6148813" versie-id="10814132" id="C23569571" label-id="6137784" inwerking="2005-02-01" label="Artikel 13" bron="Stb.2004-465" effect="nieuwe-regeling" ondertekening_bron="2004-09-16" publicatie_bron="2004-09-28" publicatie_iwt="2005-01-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>13</nr>
+  </kop>
+  <al>DNA-profielen van veroordeelden die voor de inwerkingtreding van deze wet op grond van <extref doc="jci1.3:c:BWBR0011468&amp;artikel=23" verwijzing-id="1877468" bwb-id="BWBR0011468" label-id="1367044">artikel 23, eerste lid, onder a, van de Wet bescherming persoonsgegevens</extref> zijn verwerkt, worden geacht te zijn verwerkt op grond van <intref verwijzing-id="1877542" doc="jci1.3:c:BWBR0017212&amp;artikel=2&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0017212" label-id="6137674" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid, aanhef</intref>, voorzover deze veroordeelden op het tijdstip van inwerkingtreding van deze wet een straf of maatregel als bedoeld in <intref verwijzing-id="1877543" doc="jci1.3:c:BWBR0017212&amp;artikel=8&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0017212" label-id="6137734" bwb-ng-variabel-deel="/Artikel8">artikel 8</intref> ondergaan.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-465"><publicatiejaar>2004</publicatiejaar><publicatienr>465</publicatienr><uitgiftedatum isodatum="2004-09-28">28-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-16">16-09-2004</ondertekeningsdatum><dossierref dossier="28685">28685</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2005-18"><publicatiejaar>2005</publicatiejaar><publicatienr>18</publicatienr><uitgiftedatum isodatum="2005-01-18">18-01-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-01-12">12-01-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-02-01">01-02-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking voorzover het gaat om de misdrijven in de artikelen
+	 opgesomd in Stb. 2005/18. Treedt op 15 mei 2006 in werking voorzover het gaat om de misdrijven in
+	 de artikelen opgesomd in Stb. 2006/220.  Treedt in werking op 1 augustus 2006 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2006/312.  Treedt in werking op 1 januari 2008 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2007/513.  Treedt in werking op 1 januari 2009 voorzover het gaat om een misdrijf als omschreven
+	 in artikel 67, eerste lid, Wetboek van Strafvordering begaan door personen
+	 opgesomd in Stb. 2008/530. Treedt in werking op 1 mei 2010 ten aanzien van veroordeelden wegens ieder misdrijf als omschreven in artikel 67, eerste lid, Wetboek van Strafvordering (Stb. 2010/11).</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017212&amp;artikel=13&amp;g=2024-01-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0017212&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=13&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0017212&amp;artikel=13"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel14" code="b1-14" stam-id="6148823" versie-id="10814142" id="C23569581" label-id="6137794" inwerking="2005-02-01" label="Artikel 14" bron="Stb.2004-465" effect="nieuwe-regeling" ondertekening_bron="2004-09-16" publicatie_bron="2004-09-28" publicatie_iwt="2005-01-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>14</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt het Wetboek van Strafvordering.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-465"><publicatiejaar>2004</publicatiejaar><publicatienr>465</publicatienr><uitgiftedatum isodatum="2004-09-28">28-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-16">16-09-2004</ondertekeningsdatum><dossierref dossier="28685">28685</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2005-18"><publicatiejaar>2005</publicatiejaar><publicatienr>18</publicatienr><uitgiftedatum isodatum="2005-01-18">18-01-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-01-12">12-01-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-02-01">01-02-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking voorzover het gaat om de misdrijven in de artikelen
+	 opgesomd in Stb. 2005/18. Treedt op 15 mei 2006 in werking voorzover het gaat om de misdrijven in
+	 de artikelen opgesomd in Stb. 2006/220.  Treedt in werking op 1 augustus 2006 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2006/312.  Treedt in werking op 1 januari 2008 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2007/513.  Treedt in werking op 1 januari 2009 voorzover het gaat om een misdrijf als omschreven
+	 in artikel 67, eerste lid, Wetboek van Strafvordering begaan door personen
+	 opgesomd in Stb. 2008/530. Treedt in werking op 1 mei 2010 ten aanzien van veroordeelden wegens ieder misdrijf als omschreven in artikel 67, eerste lid, Wetboek van Strafvordering (Stb. 2010/11).</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017212&amp;artikel=14&amp;g=2024-01-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0017212&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=14&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0017212&amp;artikel=14"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel15" code="b1-15" stam-id="6148833" versie-id="10814152" id="C23569591" label-id="6137804" inwerking="2005-02-01" label="Artikel 15" bron="Stb.2004-465" effect="nieuwe-regeling" ondertekening_bron="2004-09-16" publicatie_bron="2004-09-28" publicatie_iwt="2005-01-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>15</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor veroordeelden wegens verschillende misdrijven verschillend kan worden vastgesteld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-465"><publicatiejaar>2004</publicatiejaar><publicatienr>465</publicatienr><uitgiftedatum isodatum="2004-09-28">28-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-16">16-09-2004</ondertekeningsdatum><dossierref dossier="28685">28685</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2005-18"><publicatiejaar>2005</publicatiejaar><publicatienr>18</publicatienr><uitgiftedatum isodatum="2005-01-18">18-01-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-01-12">12-01-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-02-01">01-02-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking voorzover het gaat om de misdrijven in de artikelen
+	 opgesomd in Stb. 2005/18. Treedt op 15 mei 2006 in werking voorzover het gaat om de misdrijven in
+	 de artikelen opgesomd in Stb. 2006/220.  Treedt in werking op 1 augustus 2006 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2006/312.  Treedt in werking op 1 januari 2008 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2007/513.  Treedt in werking op 1 januari 2009 voorzover het gaat om een misdrijf als omschreven
+	 in artikel 67, eerste lid, Wetboek van Strafvordering begaan door personen
+	 opgesomd in Stb. 2008/530. Treedt in werking op 1 mei 2010 ten aanzien van veroordeelden wegens ieder misdrijf als omschreven in artikel 67, eerste lid, Wetboek van Strafvordering (Stb. 2010/11).</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017212&amp;artikel=15&amp;g=2024-01-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0017212&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=15&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0017212&amp;artikel=15"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel16" code="b1-16" stam-id="6148843" versie-id="10814162" id="C23569601" label-id="6137814" inwerking="2005-02-01" label="Artikel 16" bron="Stb.2004-465" effect="nieuwe-regeling" ondertekening_bron="2004-09-16" publicatie_bron="2004-09-28" publicatie_iwt="2005-01-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>16</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet DNA-onderzoek bij veroordeelden.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-465"><publicatiejaar>2004</publicatiejaar><publicatienr>465</publicatienr><uitgiftedatum isodatum="2004-09-28">28-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-16">16-09-2004</ondertekeningsdatum><dossierref dossier="28685">28685</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2005-18"><publicatiejaar>2005</publicatiejaar><publicatienr>18</publicatienr><uitgiftedatum isodatum="2005-01-18">18-01-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-01-12">12-01-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-02-01">01-02-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking voorzover het gaat om de misdrijven in de artikelen
+	 opgesomd in Stb. 2005/18. Treedt op 15 mei 2006 in werking voorzover het gaat om de misdrijven in
+	 de artikelen opgesomd in Stb. 2006/220.  Treedt in werking op 1 augustus 2006 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2006/312.  Treedt in werking op 1 januari 2008 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2007/513.  Treedt in werking op 1 januari 2009 voorzover het gaat om een misdrijf als omschreven
+	 in artikel 67, eerste lid, Wetboek van Strafvordering begaan door personen
+	 opgesomd in Stb. 2008/530. Treedt in werking op 1 mei 2010 ten aanzien van veroordeelden wegens ieder misdrijf als omschreven in artikel 67, eerste lid, Wetboek van Strafvordering (Stb. 2010/11).</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017212&amp;artikel=16&amp;g=2024-01-01" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0017212&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;artikel=16&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0017212&amp;artikel=16"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="6148853" versie-id="10814172" id="C23569611" label-id="6137824" inwerking="2005-02-01" bron="Stb.2004-465" effect="nieuwe-regeling" ondertekening_bron="2004-09-16" publicatie_bron="2004-09-28" publicatie_iwt="2005-01-18" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="16 september 2004">16 september 2004</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Justitie , </functie>
+    <naam>
+      <voornaam>J. P. H. </voornaam>
+      <achternaam>Donner</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2004-09-28">de <nadruk type="cur">achtentwintigste</nadruk> september 2004</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie , </functie>
+      <naam>
+        <voornaam>J. P. H.</voornaam>
+        <achternaam>Donner</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-465"><publicatiejaar>2004</publicatiejaar><publicatienr>465</publicatienr><uitgiftedatum isodatum="2004-09-28">28-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-16">16-09-2004</ondertekeningsdatum><dossierref dossier="28685">28685</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2005-18"><publicatiejaar>2005</publicatiejaar><publicatienr>18</publicatienr><uitgiftedatum isodatum="2005-01-18">18-01-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-01-12">12-01-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-02-01">01-02-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking voorzover het gaat om de misdrijven in de artikelen
+	 opgesomd in Stb. 2005/18. Treedt op 15 mei 2006 in werking voorzover het gaat om de misdrijven in
+	 de artikelen opgesomd in Stb. 2006/220.  Treedt in werking op 1 augustus 2006 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2006/312.  Treedt in werking op 1 januari 2008 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2007/513.  Treedt in werking op 1 januari 2009 voorzover het gaat om een misdrijf als omschreven
+	 in artikel 67, eerste lid, Wetboek van Strafvordering begaan door personen
+	 opgesomd in Stb. 2008/530. Treedt in werking op 1 mei 2010 ten aanzien van veroordeelden wegens ieder misdrijf als omschreven in artikel 67, eerste lid, Wetboek van Strafvordering (Stb. 2010/11).</al></opmerkingen-inhoud></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-465"><publicatiejaar>2004</publicatiejaar><publicatienr>465</publicatienr><uitgiftedatum isodatum="2004-09-28">28-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-16">16-09-2004</ondertekeningsdatum><dossierref dossier="28685">28685</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2005-18"><publicatiejaar>2005</publicatiejaar><publicatienr>18</publicatienr><uitgiftedatum isodatum="2005-01-18">18-01-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-01-12">12-01-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-02-01">01-02-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking voorzover het gaat om de misdrijven in de artikelen
+	 opgesomd in Stb. 2005/18. Treedt op 15 mei 2006 in werking voorzover het gaat om de misdrijven in
+	 de artikelen opgesomd in Stb. 2006/220.  Treedt in werking op 1 augustus 2006 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2006/312.  Treedt in werking op 1 januari 2008 voorzover het gaat om de misdrijven
+	 in de artikelen opgesomd in Stb. 2007/513.  Treedt in werking op 1 januari 2009 voorzover het gaat om een misdrijf als omschreven
+	 in artikel 67, eerste lid, Wetboek van Strafvordering begaan door personen
+	 opgesomd in Stb. 2008/530. Treedt in werking op 1 mei 2010 ten aanzien van veroordeelden wegens ieder misdrijf als omschreven in artikel 67, eerste lid, Wetboek van Strafvordering (Stb. 2010/11).</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0017212&amp;g=2024-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0017212"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0017212&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0017212"/></jcis></meta-data></wetgeving></toestand>

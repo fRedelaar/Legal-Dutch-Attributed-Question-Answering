@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0004338/2015-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0004338" inwerkingtreding="2015-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="109243" versie-id="150642" id="C150641" label-id="109554" inwerkingtredingsdatum="1986-01-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="109343" versie-id="150322" id="C150321" label-id="109254" inwerking="1986-01-01" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">Wet van 18 mei 1988, houdende regelen met betrekking tot de toekenning van een uitkering en herdenkingspenning<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="109353" versie-id="150332" id="C150331" label-id="109264" inwerking="1986-01-01" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18">Wet Rietkerk-uitkering<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="109373" versie-id="150352" id="C150351" label-id="109284" inwerking="1986-01-01" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het, gezien de gezamenlijke verklaring met betrekking tot het overleg tussen een delegatie uit het kabinet en de Badan Persatuan op 28 november 1985 en 21 april 1986, wenselijk is regelen te stellen met betrekking tot de toekenning van een uitkering en van een herdenkingspenning;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf_1" stam-id="109403" versie-id="150382" id="C150381" label-id="109314" inwerking="1986-01-01" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">
+  <kop>
+    <titel status="officieel">Begripsbepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf_1/Artikel1" code="a-1" stam-id="109393" versie-id="150372" id="C150371" label-id="109304" inwerking="1986-01-01" label="Artikel 1" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf_1/Artikel1/Lid1" label-id="109304L1">
+    <lidnr>1</lidnr>
+    <al>In deze wet wordt verstaan onder: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Paragraaf_1/Artikel1/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>Onze Minister: Onze Minister van Binnenlandse Zaken;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=1&amp;lid=1&amp;o=a&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf_1/Artikel1/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>het register: het register van personen die door de zorg van de Nederlandse regering in 1951 of 1952 in groepsverband naar Nederland zijn overgebracht, welk register is aangelegd op basis van de enquête van februari 1952, bedoeld in het rapport van de commissie, ingesteld bij besluit van de Minister van Maatschappelijk Werk van 24 september 1957, nr. U 2598 Kabinet;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=1&amp;lid=1&amp;o=b&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf_1/Artikel1/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de uitkeringsgerechtigde: </al>
+        <lijst>
+          <li bwb-ng-variabel-deel="/Paragraaf_1/Artikel1/Lid1/Onderdeelc/Onderdeel1">
+            <li.nr>1°.</li.nr>
+            <al>degene die voorkomt in het register, op 1 januari 1986 in enig persoonsregister, als bedoeld in artikel 27, eerste lid, van het Besluit Bevolkingsboekhouding (<nadruk type="cur">Stb.</nadruk> 1967, 442) was ingeschreven, op 1 januari 1986 in leven was, en niet als kind, pleeg- of adoptiefkind naar Nederland is meegekomen;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=1&amp;lid=1&amp;o=c&amp;o=1&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="o=1"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Paragraaf_1/Artikel1/Lid1/Onderdeelc/Onderdeel2">
+            <li.nr>2°.</li.nr>
+            <al>degene die op 1 januari 1986 in enig persoonsregister, als bedoeld in artikel 27, eerste lid, van het Besluit Bevolkingsboekhouding was ingeschreven, op 1 januari 1986 in leven was, en waarvan door degene die de uitkering aanvraagt wordt aangetoond dat de betreffende persoon: </al>
+            <lijst>
+              <li bwb-ng-variabel-deel="/Paragraaf_1/Artikel1/Lid1/Onderdeelc/Onderdeel2/Onderdeel._1">
+                <li.nr>-</li.nr>
+                <al>behoorde tot de groep personen die door de zorg van de Nederlandse regering in 1951 of 1952 in groepsverband naar Nederland zijn overgebracht, hetzij uit eigen hoofde, hetzij als echtgenoot of echtgenote van een andere uitkeringsgerechtigde, en</al>
+              </li>
+              <li bwb-ng-variabel-deel="/Paragraaf_1/Artikel1/Lid1/Onderdeelc/Onderdeel2/Onderdeel._2">
+                <li.nr>-</li.nr>
+                <al>nadien viel onder de zorg van het Commissariaat Ambonezenzorg;</al>
+              </li>
+            </lijst>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=1&amp;lid=1&amp;o=c&amp;o=2&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="o=2"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Paragraaf_1/Artikel1/Lid1/Onderdeelc/Onderdeel3">
+            <li.nr>3°.</li.nr>
+            <al>degene die op 1 januari 1986 in enig persoonsregister, als bedoeld in artikel 27, eerste lid, van het Besluit Bevolkingsboekhouding (<nadruk type="cur">Stb.</nadruk> 1967, 442) was ingeschreven, op 1 januari 1986 in leven was, en die </al>
+            <lijst>
+              <li bwb-ng-variabel-deel="/Paragraaf_1/Artikel1/Lid1/Onderdeelc/Onderdeel3/Onderdeel._1">
+                <li.nr>-</li.nr>
+                <al>onmiddellijk voor 27 december 1949 Nederlands onderdaan niet-Nederlander was op grond van de Wet op het Nederlands onderdaanschap (Wet van 10 februari 1910, <nadruk type="cur">Stb.</nadruk> nr. 55) en na overkomst in 1951 of 1952 naar Nederland door naturalisatie Nederlander is geworden, en</al>
+              </li>
+              <li bwb-ng-variabel-deel="/Paragraaf_1/Artikel1/Lid1/Onderdeelc/Onderdeel3/Onderdeel._2">
+                <li.nr>-</li.nr>
+                <al>naar het oordeel van Onze Minister behoorde tot de groep personen die in 1951 of 1952 uit hoofde van hun dienstverband bij de Koninklijke Marine door de zorg van de Nederlandse regering in groepsverband naar Nederland zijn overgebracht;</al>
+              </li>
+            </lijst>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=1&amp;lid=1&amp;o=c&amp;o=3&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="o=3"/></jcis></meta-data></li>
+        </lijst>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=1&amp;lid=1&amp;o=c&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf_1/Artikel1/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de weduwe of weduwnaar: degene die op 1 januari 1986 in enig persoonsregister als bedoeld in artikel 27, eerste lid, van het Besluit Bevolkingsboekhouding was ingeschreven en die vóór 1 januari 1976 tot de datum van het overlijden gehuwd was met een uitkeringsgerechtigde of met een persoon die, ware hij op 1 januari 1986 nog in leven geweest, uitkeringsgerechtigd zou zijn geweest;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=1&amp;lid=1&amp;o=d&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf_1/Artikel1/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>de erfgenamen: de erfgenamen gezamenlijk, onderscheidenlijk de erfgenaam van de uitkeringsgerechtigde die is overleden voor 1 januari 1989;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=1&amp;lid=1&amp;o=e&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf_1/Artikel1/Lid1/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>het uitkeringsjaar: het kalenderjaar, waarop de uitkering betrekking heeft;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=1&amp;lid=1&amp;o=f&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf_1/Artikel1/Lid1/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>de uitkering: de jaarlijkse uitkering, bedoeld in <intref verwijzing-id="22790" doc="jci1.3:c:BWBR0004338&amp;artikel=4&amp;z=2015-01-01&amp;g=2015-01-01" bwb-id="BWBR0004338" label-id="109364" bwb-ng-variabel-deel="/Paragraaf_3/Artikel4">artikel 4</intref>.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=1&amp;lid=1&amp;o=g&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="o=g"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=1&amp;lid=1&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf_1/Artikel1/Lid2" label-id="109304L2">
+    <lidnr>2</lidnr>
+    <al> Onze Minister kan als uitkeringsgerechtigde aanmerken een persoon: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Paragraaf_1/Artikel1/Lid2/Onderdeel._1">
+        <li.nr>-</li.nr>
+        <al>die naar zijn oordeel behoort tot de groep personen die door de zorg van de Nederlandse regering in 1951 of 1952 in groepsverband naar Nederland zijn overgebracht hetzij uit eigen hoofde hetzij als echtgenoot of echtgenote van een andere uitkeringsgerechtigde, en</al>
+      </li>
+      <li bwb-ng-variabel-deel="/Paragraaf_1/Artikel1/Lid2/Onderdeel._2">
+        <li.nr>-</li.nr>
+        <al>die niet onder de zorg van het Commissariaat Ambonezenzorg is gevallen, maar wel aan de overige voorwaarden van het eerste lid, onder <nadruk type="cur">c,</nadruk> ten tweede, voldoet, en</al>
+      </li>
+      <li bwb-ng-variabel-deel="/Paragraaf_1/Artikel1/Lid2/Onderdeel._3">
+        <li.nr>-</li.nr>
+        <al>van wie door degene die de uitkering aanvraagt wordt aangetoond dat deze persoon zich onmiddellijk na aankomst in Nederland eigener beweging heeft onttrokken aan de zorg van het Commissariaat Ambonezenzorg.</al>
+      </li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=1&amp;lid=2&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004338&amp;artikel=1&amp;g=2015-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0004338&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=1&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0004338&amp;artikel=1"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf_2" stam-id="109433" versie-id="150422" id="C150421" label-id="109354" inwerking="1986-01-01" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">
+  <kop>
+    <titel status="officieel">De rechthebbenden</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf_2/Artikel2" code="a-2" stam-id="109413" versie-id="150392" id="C150391" label-id="109324" inwerking="1986-01-01" label="Artikel 2" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf_2/Artikel2/Lid1" label-id="109324L1">
+    <lidnr>1</lidnr>
+    <al>Recht op de uitkering hebben: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Paragraaf_2/Artikel2/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de uitkeringsgerechtigde;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=2&amp;lid=1&amp;o=a&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf_2/Artikel2/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de weduwe of weduwnaar.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=2&amp;lid=1&amp;o=b&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=2&amp;lid=1&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf_2/Artikel2/Lid2" label-id="109324L2">
+    <lidnr>2</lidnr>
+    <al> Twee rechthebbenden die op 1 januari van het betreffende uitkeringsjaar met elkaar waren gehuwd, hebben slechts recht op één uitkering, die aan hen gezamenlijk, ieder voor de helft, toekomt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=2&amp;lid=2&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf_2/Artikel2/Lid3" label-id="109324L3">
+    <lidnr>3</lidnr>
+    <al> De weduwe of weduwnaar heeft, onverminderd het bepaalde in het tweede lid, slechts recht op één uitkering.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=2&amp;lid=3&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004338&amp;artikel=2&amp;g=2015-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0004338&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=2&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0004338&amp;artikel=2"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf_2/Artikel3" code="a-3" stam-id="109423" versie-id="150412" id="C150411" label-id="109344" inwerking="1986-01-01" label="Artikel 3" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf_2/Artikel3/Lid1" label-id="109344L1">
+    <lidnr>1</lidnr>
+    <al>Het recht op de uitkering van de rechthebbenden, bedoeld in <intref verwijzing-id="22794" doc="jci1.3:c:BWBR0004338&amp;artikel=2&amp;z=2015-01-01&amp;g=2015-01-01" bwb-id="BWBR0004338" label-id="109324" bwb-ng-variabel-deel="/Paragraaf_2/Artikel2">artikel 2, eerste lid</intref>, vervalt met ingang van het uitkeringsjaar volgend op het jaar van overlijden van de betreffende rechthebbende.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=3&amp;lid=1&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf_2/Artikel3/Lid2" label-id="109344L2">
+    <lidnr>2</lidnr>
+    <al> Indien de niet gehuwde rechthebbende dan wel de gehuwde rechthebbende die geen weduwe of weduwnaar nalaat, is overleden voor 1 januari 1989, treden de erfgenamen in zijn of haar plaats en duurt het recht op de uitkering ten bate van de erfgenamen voort tot en met 31 december 1988.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=3&amp;lid=2&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf_2/Artikel3/Lid3" label-id="109344L3">
+    <lidnr>3</lidnr>
+    <al> Indien de rechthebbenden die met elkaar gehuwd waren, beiden zijn overleden voor 1 januari 1989, treden de erfgenamen van de uitkeringsgerechtigde in de plaats van de langstlevende rechthebbende en duurt het recht op de uitkering ten bate van de erfgenamen voort tot en met 31 december 1988.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=3&amp;lid=3&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf_2/Artikel3/Lid4" label-id="109344L4">
+    <lidnr>4</lidnr>
+    <al> In afwijking van het bepaalde in het derde lid, treden, indien de rechthebbenden die met elkaar gehuwd waren, beiden uitkeringsgerechtigd waren, de erfgenamen van ieder van hen in de plaats van de langstlevende, waarbij de uitkering voor de helft toekomt aan de erfgenamen van de man en voor de helft aan de erfgenamen van de vrouw.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=3&amp;lid=4&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004338&amp;artikel=3&amp;g=2015-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0004338&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=3&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0004338&amp;artikel=3"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf_3" stam-id="109453" versie-id="150442" id="C150441" label-id="109374" inwerking="1986-01-01" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">
+  <kop>
+    <titel status="officieel">De uitkering</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf_3/Artikel4" code="a-4" stam-id="109443" versie-id="150852" id="C150851" label-id="109364" inwerking="2002-01-01" label="Artikel 4" bron="Stb.2001-481" effect="wijziging" ondertekening_bron="2001-09-27" publicatie_bron="2001-11-01" publicatie_iwt="2001-11-01" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf_3/Artikel4/Lid1" label-id="109364L1">
+    <lidnr>1</lidnr>
+    <al>De uitkering ten bedrage van € 907,56 's jaars wordt op aanvraag, met inachtneming van het in deze wet bepaalde, door Onze Minister toegekend aan de rechthebbende, bedoeld in <intref verwijzing-id="22798" doc="jci1.3:c:BWBR0004338&amp;artikel=2&amp;z=2015-01-01&amp;g=2015-01-01" bwb-id="BWBR0004338" label-id="109324" bwb-ng-variabel-deel="/Paragraaf_2/Artikel2">artikel 2</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=4&amp;lid=1&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf_3/Artikel4/Lid2" label-id="109364L2">
+    <lidnr>2</lidnr>
+    <al> De toekenning blijft van kracht zolang het recht op de uitkering voortduurt, met dien verstande dat in het geval, bedoeld in <intref verwijzing-id="22800" doc="jci1.3:c:BWBR0004338&amp;artikel=2&amp;z=2015-01-01&amp;g=2015-01-01" bwb-id="BWBR0004338" label-id="109324" bwb-ng-variabel-deel="/Paragraaf_2/Artikel2">artikel 2, tweede lid</intref>, de toekenning wordt gewijzigd zonder dat daartoe een nieuwe aanvraag wordt vereist.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=4&amp;lid=2&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf_3/Artikel4/Lid3" label-id="109364L3">
+    <lidnr>3</lidnr>
+    <al> In afwijking van het bepaalde in het tweede lid, eindigt de toekenning in de gevallen, bedoeld in <intref verwijzing-id="22804" doc="jci1.3:c:BWBR0004338&amp;artikel=3&amp;z=2015-01-01&amp;g=2015-01-01" bwb-id="BWBR0004338" label-id="109344" bwb-ng-variabel-deel="/Paragraaf_2/Artikel3">artikel 3, tweede, derde en vierde lid</intref>, bij het eindigen van het recht op de uitkering van de rechthebbende.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=4&amp;lid=3&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2001-481"><publicatiejaar>2001</publicatiejaar><publicatienr>481</publicatienr><uitgiftedatum isodatum="2001-11-01">01-11-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-09-27">27-09-2001</ondertekeningsdatum><dossierref dossier="27472">27472</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2001-481"><publicatiejaar>2001</publicatiejaar><publicatienr>481</publicatienr><uitgiftedatum isodatum="2001-11-01">01-11-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-09-27">27-09-2001</ondertekeningsdatum><dossierref dossier="27472">27472</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004338&amp;artikel=4&amp;g=2015-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0004338&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=4&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0004338&amp;artikel=4"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf_4" stam-id="109483" versie-id="150472" id="C150471" label-id="109404" inwerking="1986-01-01" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">
+  <kop>
+    <titel status="officieel">De aanvraag</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf_4/Artikel5" code="a-5" stam-id="109463" versie-id="150452" id="C150451" label-id="109384" inwerking="1986-01-01" label="Artikel 5" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf_4/Artikel5/Lid1" label-id="109384L1">
+    <lidnr>1</lidnr>
+    <al>De aanvraag wordt schriftelijk en uiterlijk op 1 juli van enig uitkeringsjaar door of namens de rechthebbende ingediend.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=5&amp;lid=1&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf_4/Artikel5/Lid2" label-id="109384L2">
+    <lidnr>2</lidnr>
+    <al> De aanvraag welke wordt ontvangen nà 1 juli van enig uitkeringsjaar geldt als aanvraag gedaan in het uitkeringsjaar volgende op dat waarin de aanvraag is ontvangen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=5&amp;lid=2&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf_4/Artikel5/Lid3" label-id="109384L3">
+    <lidnr>3</lidnr>
+    <al> Onze Minister beslist op de aanvraag vòòr het einde van het uitkeringsjaar waarin de aanvraag wordt gedaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=5&amp;lid=3&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004338&amp;artikel=5&amp;g=2015-01-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0004338&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=5&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0004338&amp;artikel=5"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf_4/Artikel6" code="a-6" stam-id="109473" versie-id="150462" id="C150461" label-id="109394" inwerking="1986-01-01" label="Artikel 6" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf_4/Artikel6/Lid1" label-id="109394L1">
+    <lidnr>1</lidnr>
+    <al>De aanvraag kan worden ingediend tot 1 oktober 1991.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=6&amp;lid=1&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf_4/Artikel6/Lid2" label-id="109394L2">
+    <lidnr>2</lidnr>
+    <al> Niet als aanvraag, bedoeld in het eerste lid, worden beschouwd: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Paragraaf_4/Artikel6/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>een aanvraag van de weduwe of weduwnaar, voorzover aan de uitkeringsgerechtigde reeds eerder een uitkering is toegekend;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=6&amp;lid=2&amp;o=a&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf_4/Artikel6/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>een aanvraag van de erfgenamen, bedoeld in <intref verwijzing-id="22812" doc="jci1.3:c:BWBR0004338&amp;artikel=3&amp;z=2015-01-01&amp;g=2015-01-01" bwb-id="BWBR0004338" label-id="109344" bwb-ng-variabel-deel="/Paragraaf_2/Artikel3">artikel 3, derde of vierde lid</intref>, voorzover de aanvraag van de rechthebbende zelf geen eerste aanvraag zou zijn geweest.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=6&amp;lid=2&amp;o=b&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=6&amp;lid=2&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004338&amp;artikel=6&amp;g=2015-01-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0004338&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=6&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0004338&amp;artikel=6"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf_5" stam-id="109503" versie-id="150502" id="C150501" label-id="109424" inwerking="1986-01-01" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">
+  <kop>
+    <titel status="officieel">De herdenkingspenning</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf_5/Artikel7" code="a-7" stam-id="109493" versie-id="150482" id="C150481" label-id="109414" inwerking="1986-01-01" label="Artikel 7" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf_5/Artikel7/Lid1" label-id="109414L1">
+    <lidnr>1</lidnr>
+    <al>Aan de rechthebbende dan wel de erfgenamen die in de plaats treden van de rechthebbende, wordt op een daartoe strekkende aanvraag een herdenkingspenning uitgereikt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=7&amp;lid=1&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf_5/Artikel7/Lid2" label-id="109414L2">
+    <lidnr>2</lidnr>
+    <al> De aanvraag voor de herdenkingspenning wordt gelijktijdig met de aanvraag voor de uitkering bij Onze Minister ingediend.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=7&amp;lid=2&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf_5/Artikel7/Lid3" label-id="109414L3">
+    <lidnr>3</lidnr>
+    <al> Geen herdenkingspenning wordt uitgereikt indien geen uitkering wordt toegekend.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=7&amp;lid=3&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf_5/Artikel7/Lid4" label-id="109414L4">
+    <lidnr>4</lidnr>
+    <al> In afwijking van het bepaalde in het derde lid wordt aan de erfgenamen van een persoon die, ware hij op 1 januari 1986 nog in leven geweest, uitkeringsgerechtigd zou zijn geweest en die geen weduwe of weduwnaar heeft nagelaten die rechthebbend is, op een daartoe strekkende aanvraag de herdenkingspenning uitgereikt. De aanvraag kan worden ingediend tot 1 oktober 1991.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=7&amp;lid=4&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf_5/Artikel7/Lid5" label-id="109414L5">
+    <lidnr>5</lidnr>
+    <al> Geen herdenkingspenning wordt uitgereikt aan: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Paragraaf_5/Artikel7/Lid5/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de weduwe of weduwnaar van een uitkeringsgerechtigde aan wie reeds een penning is uitgereikt;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=7&amp;lid=5&amp;o=a&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf_5/Artikel7/Lid5/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de erfgenamen van de rechthebbende aan wie reeds een penning is uitgereikt;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=7&amp;lid=5&amp;o=b&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf_5/Artikel7/Lid5/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>degene die niet heeft voldaan aan het bij of krachtens deze wet bepaalde met betrekking tot het indienen van de aanvraag.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=7&amp;lid=5&amp;o=c&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=7&amp;lid=5&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf_5/Artikel7/Lid6" label-id="109414L6">
+    <lidnr>6</lidnr>
+    <al> De vormgeving van de herdenkingspenning wordt door Onze Minister bepaald.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=7&amp;lid=6&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004338&amp;artikel=7&amp;g=2015-01-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0004338&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=7&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0004338&amp;artikel=7"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf_6" stam-id="109523" versie-id="150522" id="C150521" label-id="109444" inwerking="1986-01-01" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">
+  <kop>
+    <titel status="officieel">Belasting- en premieheffing uitkeringsgerechtigde</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf_6/Artikel8" code="a-8" stam-id="109513" versie-id="150722" id="C150721" label-id="109434" inwerking="2001-01-01" label="Artikel 8" bron="Stb.2000-571" effect="wijziging" ondertekening_bron="2000-12-14" publicatie_bron="2000-12-27" publicatie_iwt="2000-12-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>8</nr>
+  </kop>
+  <al>De over de uitkering verschuldigde belasting ingevolgde de <extref doc="jci1.3:c:BWBR0011353" verwijzing-id="22827" bwb-id="BWBR0011353" label-id="2787014">Wet inkomstenbelasting 2001</extref> en de verschuldigde premies ingevolge de <extref doc="jci1.3:c:BWBR0002221" verwijzing-id="22829" bwb-id="BWBR0002221" label-id="2498844">Algemene Ouderdomswet</extref> (<nadruk type="cur">Stb.</nadruk> 1985, 181), de <extref doc="jci1.3:c:BWBR0007795" verwijzing-id="22831" bwb-id="BWBR0007795" label-id="2494864">Algemene nabestaandenwet</extref>, de <extref doc="jci1.3:c:BWBR0002614" verwijzing-id="22833" bwb-id="BWBR0002614" label-id="2867704">Algemene Wet Bijzondere Ziektekosten</extref> (<nadruk type="cur">Stb.</nadruk> 1967, 655) en de <extref doc="jci1.3:c:BWBR0002368" verwijzing-id="22835" bwb-id="BWBR0002368" label-id="452894">Algemene Kinderbijslagwet</extref> (<nadruk type="cur">Stb.</nadruk> 1980, 1) komen ten laste van het Rijk.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2000-571"><publicatiejaar>2000</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2000-12-27">27-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-14">14-12-2000</ondertekeningsdatum><dossierref dossier="27184">27184</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2000-571"><publicatiejaar>2000</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2000-12-27">27-12-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-12-14">14-12-2000</ondertekeningsdatum><dossierref dossier="27184">27184</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004338&amp;artikel=8&amp;g=2015-01-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0004338&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=8&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0004338&amp;artikel=8"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf_7" stam-id="109553" versie-id="150552" id="C150551" label-id="109474" inwerking="1986-01-01" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">
+  <kop>
+    <titel status="officieel">Samenloop met publiekrechtelijke uitkeringen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf_7/Artikel9" stam-id="109533" versie-id="21573832" id="C30979741" label-id="109454" inwerking="2015-01-01" label="Artikel 9" bron="Stb.2014-270" effect="wijziging" ondertekening_bron="2014-07-02" publicatie_bron="2014-07-15" publicatie_iwt="2014-07-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+  </kop>
+  <al>De uitkering blijft buiten beschouwing bij de verlening van bijstand ingevolge de <extref doc="jci1.3:c:BWBR0015703" label-id="5408634" verwijzing-id="2650050" bwb-id="BWBR0015703">Participatiewet</extref> en andere, op het inkomen van de rechthebbende afgestemde publiekrechtelijke uitkeringen of verstrekkingen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-270"><publicatiejaar>2014</publicatiejaar><publicatienr>270</publicatienr><uitgiftedatum isodatum="2014-07-15">15-07-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-07-02">02-07-2014</ondertekeningsdatum><dossierref dossier="33161">33161</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-271"><publicatiejaar>2014</publicatiejaar><publicatienr>271</publicatienr><uitgiftedatum isodatum="2014-07-15">15-07-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-07-04">04-07-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004338&amp;artikel=9&amp;g=2015-01-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0004338&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=9&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0004338&amp;artikel=9"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf_7/Artikel10" code="a-10" stam-id="109543" versie-id="150542" id="C150541" label-id="109464" inwerking="1986-01-01" label="Artikel 10" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>10</nr>
+  </kop>
+  <al>Ten aanzien van de uitkering blijft artikel 1461 van het Burgerlijk Wetboek buiten toepassing.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004338&amp;artikel=10&amp;g=2015-01-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0004338&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=10&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0004338&amp;artikel=10"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf_8" stam-id="109613" versie-id="150622" id="C150621" label-id="109534" inwerking="1986-01-01" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">
+  <kop>
+    <titel status="officieel">Overgangs- en slotbepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf_8/Artikel11" code="a-11" stam-id="109563" versie-id="150562" id="C150561" label-id="109484" inwerking="1986-01-01" label="Artikel 11" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>11</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf_8/Artikel11/Lid1" label-id="109484L1">
+    <lidnr>1</lidnr>
+    <al>Onze Minister kan regelen stellen met betrekking tot de bij de aanvraag van de uitkering of van de herdenkingspenning over te leggen bescheiden, de wijze van behandeling van die aanvragen, alsmede met betrekking tot de wijze en voorwaarden van de betaling van de uitkering.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=11&amp;lid=1&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf_8/Artikel11/Lid2" label-id="109484L2">
+    <lidnr>2</lidnr>
+    <al> De regelen worden in de <nadruk type="cur">Nederlandse Staatscourant</nadruk> bekend gemaakt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=11&amp;lid=2&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004338&amp;artikel=11&amp;g=2015-01-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0004338&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=11&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0004338&amp;artikel=11"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf_8/Artikel12" code="a-12" stam-id="109573" versie-id="150572" id="C150571" label-id="109494" inwerking="1986-01-01" label="Artikel 12" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>12</nr>
+  </kop>
+  <al>In afwijking van het bepaalde in <intref verwijzing-id="22848" doc="jci1.3:c:BWBR0004338&amp;artikel=5&amp;z=2015-01-01&amp;g=2015-01-01" bwb-id="BWBR0004338" label-id="109384" bwb-ng-variabel-deel="/Paragraaf_4/Artikel5">artikel 5, eerste lid</intref>, kan de aanvraag voor de uitkering over het uitkeringsjaar 1986 tot uiterlijk 1 december 1986 worden ingediend.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004338&amp;artikel=12&amp;g=2015-01-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0004338&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=12&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0004338&amp;artikel=12"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf_8/Artikel13" code="a-13" stam-id="109583" versie-id="150592" id="C150591" label-id="109504" inwerking="1986-01-01" label="Artikel 13" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>13</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf_8/Artikel13/Lid1" label-id="109504L1">
+    <lidnr>1</lidnr>
+    <al>Het Besluit Rietkerk-uitkering (<nadruk type="cur">Stb.</nadruk> 1986, 523) wordt ingetrokken met dien verstande dat de beslissingen genomen op grond van dit besluit geacht worden te zijn genomen krachtens deze wet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=13&amp;lid=1&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf_8/Artikel13/Lid2" label-id="109504L2">
+    <lidnr>2</lidnr>
+    <al> Degene die op grond van het Besluit Rietkerk-uitkering niet in aanmerking kwam voor een uitkering maar op grond van enige bepaling van deze wet wel voor de uitkering in aanmerking kan komen, kan de aanvraag over de jaren 1986, 1987 en 1988 tot uiterlijk 1 juli 1988 indienen. Een beslissing op een aanvraag ingevolge dit artikellid wordt voor 1 januari 1989 genomen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=13&amp;lid=2&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004338&amp;artikel=13&amp;g=2015-01-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0004338&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=13&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0004338&amp;artikel=13"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf_8/Artikel14" code="a-14" stam-id="109593" versie-id="150602" id="C150601" label-id="109514" inwerking="1986-01-01" label="Artikel 14" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>14</nr>
+  </kop>
+  <al>Deze wet treedt in werking met ingang van de tweede dag na de datum van uitgifte van het <nadruk type="cur">Staatsblad</nadruk> waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1986.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004338&amp;artikel=14&amp;g=2015-01-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0004338&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=14&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0004338&amp;artikel=14"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf_8/Artikel15" code="a-15" stam-id="109603" versie-id="150612" id="C150611" label-id="109524" inwerking="1986-01-01" label="Artikel 15" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>15</nr>
+  </kop>
+  <al>Deze wet kan worden aangehaald als Wet Rietkerk-uitkering.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004338&amp;artikel=15&amp;g=2015-01-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0004338&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;artikel=15&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0004338&amp;artikel=15"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></paragraaf>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="109623" versie-id="150632" id="C150631" label-id="109544" inwerking="1986-01-01" bron="Stb.1988-226" effect="nieuwe-regeling" ondertekening_bron="1988-05-18" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">18 mei 1988</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Binnenlandse Zaken,</functie>
+    <naam>
+      <achternaam>C. P. van Dijk</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de zesentwintigste mei 1988</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>F. Korthals Altes</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1988-05-18">18-05-1988</ondertekeningsdatum><dossierref dossier="19771">19771</dossierref></publicatie><inwerkingtreding.datum isodatum="1986-01-01">01-01-1986</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004338&amp;g=2015-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0004338"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004338&amp;z=2015-01-01&amp;g=2015-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0004338"/></jcis></meta-data></wetgeving></toestand>

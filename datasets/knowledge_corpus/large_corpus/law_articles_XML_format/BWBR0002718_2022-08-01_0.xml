@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0002718/2022-08-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0002718" inwerkingtreding="2022-08-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="2668633" versie-id="17609792" id="C24367361" label-id="2613214" inwerkingtredingsdatum="2010-05-17">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="2668663" versie-id="4034692" id="C4034691" label-id="2613024" inwerking="1970-08-31" bron="Stb.1970-370" effect="nieuwe-regeling" ondertekening_bron="1970-07-09" status="goed">Wet van 9 juli 1970, houdende vaststelling van de Experimentenwet onderwijs <meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>370</publicatienr><ondertekeningsdatum isodatum="1970-07-09">09-07-1970</ondertekeningsdatum><dossierref dossier="10321">10321</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>370</publicatienr><ondertekeningsdatum isodatum="1970-07-09">09-07-1970</ondertekeningsdatum><dossierref dossier="10321">10321</dossierref></publicatie><inwerkingtreding.datum isodatum="1970-08-31">31-08-1970</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="2668673" versie-id="4034702" id="C4034701" label-id="2613034" inwerking="1970-08-31" bron="Stb.1970-370" effect="nieuwe-regeling" ondertekening_bron="1970-07-09">Experimentenwet onderwijs<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>370</publicatienr><ondertekeningsdatum isodatum="1970-07-09">09-07-1970</ondertekeningsdatum><dossierref dossier="10321">10321</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>370</publicatienr><ondertekeningsdatum isodatum="1970-07-09">09-07-1970</ondertekeningsdatum><dossierref dossier="10321">10321</dossierref></publicatie><inwerkingtreding.datum isodatum="1970-08-31">31-08-1970</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="2668683" versie-id="4034712" id="C4034711" label-id="2613044" inwerking="1970-08-31" bron="Stb.1970-370" effect="nieuwe-regeling" ondertekening_bron="1970-07-09" status="goed">
+  <wij>Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz. </wij>
+  <considerans>
+    <considerans.al> Allen, die deze zullen zien of horen lezen, saluut! doen te weten: </considerans.al>
+    <considerans.al> Alzo Wij in overweging genomen hebben, dat het voor de ontwikkeling van het onderwijs wenselijk is een regeling te treffen op grond waarvan onderwijskundige experimenten kunnen worden gehouden die vallen buiten de kaders van de afzonderlijke onderwijswetten en in de <extref doc="jci1.3:c:BWBR0002399" verwijzing-id="1122548" bwb-id="BWBR0002399" label-id="3001384">Wet op het voortgezet onderwijs</extref> (<nadruk type="cur">Stb.</nadruk> 1967, 387) de mogelijkheden te verruimen tot afwijking wegens de bijzondere inrichting van het onderwijs; </considerans.al>
+  </considerans>
+  <afkondiging>
+    <al> Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze: </al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>370</publicatienr><ondertekeningsdatum isodatum="1970-07-09">09-07-1970</ondertekeningsdatum><dossierref dossier="10321">10321</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>370</publicatienr><ondertekeningsdatum isodatum="1970-07-09">09-07-1970</ondertekeningsdatum><dossierref dossier="10321">10321</dossierref></publicatie><inwerkingtreding.datum isodatum="1970-08-31">31-08-1970</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="2668693" versie-id="27508902" id="C40032061" label-id="2613054" inwerking="2022-08-01" label="Artikel 1" bron="Stb.2021-57" effect="wijziging" ondertekening_bron="2021-01-27" publicatie_bron="2021-02-10" publicatie_iwt="2021-12-09" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>Deze wet verstaat onder: </al>
+  <al>"Onze Minister": Onze Minister van Onderwijs, Cultuur en Wetenschap;</al>
+  <al>"onderwijswetten": de <extref doc="jci1.3:c:BWBR0003420" label-id="2851954" verwijzing-id="1122549" bwb-id="BWBR0003420">Wet op het primair onderwijs</extref>, de <extref doc="jci1.3:c:BWBR0003549" label-id="2630144" verwijzing-id="1122550" bwb-id="BWBR0003549">Wet op de expertisecentra</extref>, de <extref doc="jci1.3:c:BWBR0044212" label-id="15610054" verwijzing-id="3052915" bwb-id="BWBR0044212">Wet voortgezet onderwijs 2020</extref> of de <extref doc="jci1.3:c:BWBR0030280" label-id="11377714" verwijzing-id="3052916" bwb-id="BWBR0030280">Wet primair onderwijs BES</extref>; </al>
+  <al>"school": een school of instelling in de zin van een onderwijswet;</al>
+  <al>"het bevoegd gezag": voor wat betreft </al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>een gemeentelijke school: het college van burgemeester en wethouders, voor zover de raad niet anders bepaalt, en, indien de raad dit wenselijk oordeelt, met inachtneming van door hem te stellen regelen; </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=1&amp;o=a&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>een bijzondere school: het schoolbestuur; </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=1&amp;o=b&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>een openbare school in de openbare lichamen Bonaire, Sint Eustatius en Saba: het bestuurscollege van het openbaar lichaam Bonaire, Sint Eustatius of Saba;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=1&amp;o=c&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="o=c"/></jcis></meta-data></li>
+  </lijst>
+  <al>"leerling": een leerling of student in de zin van een onderwijswet.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-57"><publicatiejaar>2021</publicatiejaar><publicatienr>57</publicatienr><uitgiftedatum isodatum="2021-02-10">10-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-01-27">27-01-2021</ondertekeningsdatum><dossierref dossier="35611">35611</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-599"><publicatiejaar>2021</publicatiejaar><publicatienr>599</publicatienr><uitgiftedatum isodatum="2021-12-09">09-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-29">29-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-08-01">01-08-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002718&amp;artikel=1&amp;g=2022-08-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0002718&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=1&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0002718&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" stam-id="2668703" versie-id="26766552" id="C38234811" label-id="2613064" inwerking="2020-11-01" label="Artikel 2" bron="Stb.2020-160" effect="wijziging" ondertekening_bron="2020-05-20" publicatie_bron="2020-06-12" publicatie_iwt="2020-09-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="2613064L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien het bevoegd gezag bij wijze van experiment onderwijs wenst te geven dat valt buiten de kaders van de afzonderlijke onderwijswetten, kan Onze Minister beslissen dat dit onderwijs uit de openbare kas wordt bekostigd. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=2&amp;lid=1&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="2613064L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister maakt zijn beslissing op een aanvraag als bedoeld in het eerste lid binnen negen maanden na ontvangst daarvan aan de aanvrager bekend.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=2&amp;lid=2&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid3" label-id="2613064L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Onze Minister beslist niet tot de bekostiging, bedoeld in het eerste lid, indien redelijkerwijs te verwachten is dat daardoor het leerlingenaantal van andere scholen in het voedingsgebied zodanig zal dalen dat hun voortbestaan wordt bedreigd. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=2&amp;lid=3&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid4" label-id="2613064L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> Onze Minister draagt er zorg voor dat krachtens dit artikel genomen beslissingen waar mogelijk in overeenstemming zijn met het beginsel van een evenwichtig geheel van onderwijsvoorzieningen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=2&amp;lid=4&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid5" label-id="2613064L5">
+    <lidnr status="officieel">5</lidnr>
+    <al> Een beslissing als bedoeld in het eerste lid, wordt gegeven voor een of meer tijdvakken, te zamen ten hoogste 10 jaren omvattend. Onze Minister kan de termijn van 10 jaren met ten hoogste 5 jaren verlengen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=2&amp;lid=5&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid6" label-id="2613064L6">
+    <lidnr status="officieel">6</lidnr>
+    <al> De bekostiging krachtens het eerste lid kan voor de afloop van de daarvoor bepaalde termijn, worden beëindigd: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid6/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>op een met redenen omkleed verzoek van het bevoegd gezag; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=2&amp;lid=6&amp;o=a&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid6/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>door Onze Minister indien niet meer wordt voldaan aan de regelen en voorwaarden, bedoeld in <intref doc="jci1.3:c:BWBR0002718&amp;artikel=4&amp;z=2022-08-01&amp;g=2022-08-01" label-id="2613084" verwijzing-id="1634644" bwb-id="BWBR0002718" bwb-ng-variabel-deel="/Artikel4">artikel 4, eerste lid</intref>; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=2&amp;lid=6&amp;o=b&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid6/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>door Onze Minister indien het experiment niet tot de daarmee beoogde doeleinden blijkt te leiden;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=2&amp;lid=6&amp;o=c&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid6/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>indien Onze Minister van oordeel is, dat voortzetting van het experiment niet in het belang van de leerlingen zou zijn. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=2&amp;lid=6&amp;o=d&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=2&amp;lid=6&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-160"><publicatiejaar>2020</publicatiejaar><publicatienr>160</publicatienr><uitgiftedatum isodatum="2020-06-12">12-06-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-05-20">20-05-2020</ondertekeningsdatum><dossierref dossier="35050">35050</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-336"><publicatiejaar>2020</publicatiejaar><publicatienr>336</publicatienr><uitgiftedatum isodatum="2020-09-16">16-09-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-09-09">09-09-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-11-01">01-11-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002718&amp;artikel=2&amp;g=2022-08-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0002718&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=2&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0002718&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="2668713" versie-id="26531362" id="C37718521" label-id="2613074" inwerking="2020-04-01" label="Artikel 3" bron="Stb.2020-76" effect="wijziging" ondertekening_bron="2020-02-12" publicatie_bron="2020-03-04" publicatie_iwt="2020-03-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="2613074L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien toepassing van <intref doc="jci1.3:c:BWBR0002718&amp;artikel=2&amp;z=2022-08-01&amp;g=2022-08-01" label-id="2613064" verwijzing-id="1634645" bwb-id="BWBR0002718" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid</intref>, wordt verlangd voor een gemeentelijke , voor een bijzondere school of voor een openbare school in het openbaar lichaam Bonaire, Sint Eustatius of Saba, dient het bevoegd gezag bij Onze Minister een verzoek in onder bijvoeging van een experimenteerplan en een begroting van uitgaven. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=3&amp;lid=1&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="2613074L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Het experimenteerplan geeft een duidelijke omschrijving van de doeleinden en de achtergronden van het experiment, van de werkmethode, de wetenschappelijke begeleiding, de evaluatie en de rapportering. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=3&amp;lid=2&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-76"><publicatiejaar>2020</publicatiejaar><publicatienr>76</publicatienr><uitgiftedatum isodatum="2020-03-04">04-03-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-02-12">12-02-2020</ondertekeningsdatum><dossierref dossier="35320">35320</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-98"><publicatiejaar>2020</publicatiejaar><publicatienr>98</publicatienr><uitgiftedatum isodatum="2020-03-23">23-03-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-03-16">16-03-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-04-01">01-04-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002718&amp;artikel=3&amp;g=2022-08-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0002718&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=3&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0002718&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" stam-id="2668723" versie-id="26531372" id="C37718551" label-id="2613084" inwerking="2020-04-01" label="Artikel 4" bron="Stb.2020-76" effect="wijziging" ondertekening_bron="2020-02-12" publicatie_bron="2020-03-04" publicatie_iwt="2020-03-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="2613084L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Op een school bekostigd ingevolge <intref doc="jci1.3:c:BWBR0002718&amp;artikel=2&amp;z=2022-08-01&amp;g=2022-08-01" label-id="2613064" verwijzing-id="1634646" bwb-id="BWBR0002718" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid</intref>, zijn de door Onze Minister bij zijn beslissing aangewezen regelen en voorwaarden, gegeven bij of krachtens een der onderwijswetten, van toepassing. Voor zover niet krachtens de vorige volzin geregeld, bepaalt Onze Minister bij zijn beslissing welke regelen en voorwaarden voor de bekostiging zullen gelden, alsmede de wijze van bekostiging.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=4&amp;lid=1&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="2613084L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Indien de bekostiging van een experiment wordt beëindigd aan een school die onmiddellijk voorafgaand aan de toepassing van <intref doc="jci1.3:c:BWBR0002718&amp;artikel=2&amp;z=2022-08-01&amp;g=2022-08-01" label-id="2613064" verwijzing-id="1634647" bwb-id="BWBR0002718" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid</intref>, uit de openbare kas werd bekostigd, wordt wederom vergoeding toegekend volgens dezelfde regelen en voorwaarden als voor het schooltype gelden, waartoe de school behoorde voor de aanvang van het experiment. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=4&amp;lid=2&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid3" label-id="2613084L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Indien de bekostiging wordt beëindigd van een experiment waarop het tweede lid niet van toepassing is, zijn voor het uit de openbare kas bekostigde personeel dat ten gevolge daarvan wordt ontslagen, de regelingen, geldend bij ontslag van personeel van een vergelijkbare, in een der onderwijswetten geregelde schoolsoort van overeenkomstige toepassing. In geval van twijfel welke de vergelijkbare schoolsoort is, beslist Onze Minister. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=4&amp;lid=3&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid4" label-id="2613084L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> Bij beëindiging van de bekostiging, bedoeld in het derde lid, is het bevoegd gezag verplicht alle met de van het Rijk ontvangen gelden aangeschafte zaken aan het Rijk over te dragen volgens door Onze Minister te geven aanwijzingen. Indien naar het oordeel van Onze Minister andere onderwerpen regeling behoeven, bepaalt hij wat te dien aanzien zal gelden. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=4&amp;lid=4&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-76"><publicatiejaar>2020</publicatiejaar><publicatienr>76</publicatienr><uitgiftedatum isodatum="2020-03-04">04-03-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-02-12">12-02-2020</ondertekeningsdatum><dossierref dossier="35320">35320</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-98"><publicatiejaar>2020</publicatiejaar><publicatienr>98</publicatienr><uitgiftedatum isodatum="2020-03-23">23-03-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-03-16">16-03-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-04-01">01-04-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002718&amp;artikel=4&amp;g=2022-08-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0002718&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=4&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0002718&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4a" code="a-4a" stam-id="2668733" versie-id="18943952" id="C30121111" label-id="2613094" inwerking="2014-01-01" label="Artikel 4a" bron="Stb.2011-558" effect="wijziging" ondertekening_bron="2011-11-10" publicatie_bron="2011-12-02" publicatie_iwt="2013-12-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4a/Lid1" label-id="2613094L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Over aangelegenheden van algemeen belang voor de rechtstoestand van het personeel wordt door of namens het bevoegd gezag overleg gevoerd met de daarvoor in aanmerking komende werknemersorganisaties.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=4a&amp;lid=1&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4a/Lid2" label-id="2613094L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Het bevoegd gezag en de personeelsorganisaties, bedoeld in het tweede en derde lid, kunnen gezamenlijk besluiten dat het overleg over de in dat lid bedoelde aangelegenheden, voor zover dit betrekking heeft op een of meer door het bevoegd gezag in stand gehouden scholen, wordt gevoerd met de personeelsgeleding van de medezeggenschapsraad, bedoeld in de <extref doc="jci1.3:c:BWBR0020685" verwijzing-id="2103648" bwb-id="BWBR0020685" label-id="8758394">Wet medezeggenschap op scholen</extref>, van de desbetreffende school of scholen. Het bevoegd gezag en de personeelsorganisaties bepalen daarbij onder welke voorwaarden dat overleg wordt gevoerd. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=4a&amp;lid=2&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4a/Lid3" label-id="2613094L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Indien het overleg, bedoeld in het vierde lid, niet leidt tot een afronding overeenkomstig de op grond van dat lid vastgestelde voorwaarden, wordt alsnog over de desbetreffende aangelegenheden het overleg, bedoeld in het tweede en derde lid, gevoerd. De algemene maatregel van bestuur bepaalt tevens de gevallen waarin in dat overleg overeenstemming met de personeelsorganisaties dient te worden bereikt. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=4a&amp;lid=3&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4a/Lid4" label-id="2613094L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>
+      <redactie type="vervanging">Door vernummering vervallen.</redactie>
+    </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=4a&amp;lid=4&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4a/Lid5" label-id="2613094L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>
+      <redactie type="vervanging">Door vernummering vervallen.</redactie>
+    </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=4a&amp;lid=5&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4a/Lid6" label-id="2613094L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Dit artikel is tot een bij koninklijk besluit te bepalen tijdstip niet van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=4a&amp;lid=6&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2011-558"><publicatiejaar>2011</publicatiejaar><publicatienr>558</publicatienr><uitgiftedatum isodatum="2011-12-02">02-12-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-11-10">10-11-2011</ondertekeningsdatum><dossierref dossier="31997">31997</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-511"><publicatiejaar>2013</publicatiejaar><publicatienr>511</publicatienr><uitgiftedatum isodatum="2013-12-10">10-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-11-29">29-11-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2014-01-01">01-01-2014</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002718&amp;artikel=4a&amp;g=2022-08-01" onderdeel="artikel=4a" korte-verwijzing="1.0:c:BWBR0002718&amp;artikel=4a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=4a&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=4a" korte-verwijzing="jci1.3:c:BWBR0002718&amp;artikel=4a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="a-5" stam-id="2668743" versie-id="20026842" id="C28274791" label-id="2613104" inwerking="2013-01-01" label="Artikel 5" bron="Stb.2012-682" effect="wijziging" ondertekening_bron="2012-12-20" publicatie_bron="2012-12-27" publicatie_iwt="2012-12-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <al> De werking van de beschikking op een verzoek om verlenging van de bekostigingstermijn, alsmede omtrent beëindiging van de bekostiging op grond van <intref verwijzing-id="1634649" doc="jci1.3:c:BWBR0002718&amp;artikel=2&amp;z=2022-08-01&amp;g=2022-08-01" bwb-id="BWBR0002718" label-id="2613064" bwb-ng-variabel-deel="/Artikel2">artikel 2, zesde lid</intref>, wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2012-682"><publicatiejaar>2012</publicatiejaar><publicatienr>682</publicatienr><uitgiftedatum isodatum="2012-12-27">27-12-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="32450">32450</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2012-684"><publicatiejaar>2012</publicatiejaar><publicatienr>684</publicatienr><uitgiftedatum isodatum="2012-12-27">27-12-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Deel C, artikel I, van Stb. 2012/682 bevat overgangsrecht m.b.t. deze wijziging.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002718&amp;artikel=5&amp;g=2022-08-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0002718&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=5&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0002718&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" stam-id="2668753" versie-id="26531382" id="C37718561" label-id="2613114" inwerking="2020-04-01" label="Artikel 6" bron="Stb.2020-76" effect="wijziging" ondertekening_bron="2020-02-12" publicatie_bron="2020-03-04" publicatie_iwt="2020-03-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <al>Onze Minister bepaalt welke rechten zijn verbonden aan akten, getuigschriften, diploma’s of verklaringen van een school die op grond van <intref doc="jci1.3:c:BWBR0002718&amp;artikel=2&amp;z=2022-08-01&amp;g=2022-08-01" label-id="2613064" verwijzing-id="1634650" bwb-id="BWBR0002718" bwb-ng-variabel-deel="/Artikel2">artikel 2</intref> uit de openbare kas wordt bekostigd.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-76"><publicatiejaar>2020</publicatiejaar><publicatienr>76</publicatienr><uitgiftedatum isodatum="2020-03-04">04-03-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-02-12">12-02-2020</ondertekeningsdatum><dossierref dossier="35320">35320</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-98"><publicatiejaar>2020</publicatiejaar><publicatienr>98</publicatienr><uitgiftedatum isodatum="2020-03-23">23-03-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-03-16">16-03-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-04-01">01-04-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002718&amp;artikel=6&amp;g=2022-08-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0002718&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=6&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0002718&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="a-7" stam-id="2668763" versie-id="4034892" id="C4034891" label-id="2613124" inwerking="1996-08-01" label="Artikel 7" bron="Stb.1988-335" effect="vervallen" ondertekening_bron="1988-06-22" publicatie_iwt="1996-06-20" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1988</publicatiejaar><publicatienr>335</publicatienr><ondertekeningsdatum isodatum="1988-06-22">22-06-1988</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-1996-301"><publicatiejaar>1996</publicatiejaar><publicatienr>301</publicatienr><uitgiftedatum isodatum="1996-06-20">20-06-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-05-30">30-05-1996</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1996-08-01">01-08-1996</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002718&amp;artikel=7&amp;g=2022-08-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0002718&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=7&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0002718&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7a" code="a-7a" stam-id="2668773" versie-id="4034982" id="C4034981" label-id="2613134" inwerking="2000-09-01" label="Artikel 7a" bron="Stb.2000-286" effect="wijziging" ondertekening_bron="2000-06-29" publicatie_bron="2000-07-13" publicatie_iwt="2000-07-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel7a/Lid1" label-id="2613134L1">
+    <lidnr>1</lidnr>
+    <al>Ten aanzien van hoger beroepsonderwijs waarop deze wet van toepassing is op het tijdstip van inwerkingtreding van de <extref doc="jci1.3:c:BWBR0005682" verwijzing-id="1122553" bwb-id="BWBR0005682" label-id="2885604">Wet op het hoger onderwijs en wetenschappelijk onderzoek</extref>, blijft het bepaalde bij of krachtens deze wet van toepassing tot het tijdstip waarop de bekostiging voor het desbetreffende experiment wordt beëindigd. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=7a&amp;lid=1&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7a/Lid2" label-id="2613134L2">
+    <lidnr>2</lidnr>
+    <al> Indien een experiment een school voor de opleiding van leraren betreft, wordt aan die school geen nascholing verzorgd onverminderd artikel XIV, eerste volzin, van de wet van 7 juli 1993 (<nadruk type="cur">Stb.</nadruk> 405). </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=7a&amp;lid=2&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2000-286"><publicatiejaar>2000</publicatiejaar><publicatienr>286</publicatienr><uitgiftedatum isodatum="2000-07-13">13-07-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-06-29">29-06-2000</ondertekeningsdatum><dossierref dossier="26873">26873</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2000-286"><publicatiejaar>2000</publicatiejaar><publicatienr>286</publicatienr><uitgiftedatum isodatum="2000-07-13">13-07-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-06-29">29-06-2000</ondertekeningsdatum><dossierref dossier="26873">26873</dossierref></publicatie><inwerkingtreding.datum isodatum="2000-09-01">01-09-2000</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De wijziging kan niet worden doorgevoerd.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002718&amp;artikel=7a&amp;g=2022-08-01" onderdeel="artikel=7a" korte-verwijzing="1.0:c:BWBR0002718&amp;artikel=7a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=7a&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=7a" korte-verwijzing="jci1.3:c:BWBR0002718&amp;artikel=7a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7b" code="a-7b" stam-id="2668783" versie-id="4034812" id="C7837871" label-id="2613144" inwerking="1996-01-01" label="Artikel 7b" bron="Stb.1995-501" effect="nieuw" ondertekening_bron="1995-10-31" publicatie_bron="1995-11-02" publicatie_iwt="1995-11-02" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7b</nr>
+  </kop>
+  <al>Ten aanzien van educatie en beroepsonderwijs waarop deze wet van toepassing is op de dag voor inwerkingtreding van de desbetreffende bepalingen van de <extref doc="jci1.3:c:BWBR0007625" verwijzing-id="1122554" bwb-id="BWBR0007625" label-id="2478204">Wet educatie en beroepsonderwijs</extref>, blijft het bepaalde bij of krachtens deze wet van toepassing tot het tijdstip waarop de bekostiging voor het desbetreffende experiment wordt beëindigd.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-1995-501"><publicatiejaar>1995</publicatiejaar><publicatienr>501</publicatienr><uitgiftedatum isodatum="1995-11-02">02-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-10-31">31-10-1995</ondertekeningsdatum><dossierref dossier="23778">23778</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-1995-501"><publicatiejaar>1995</publicatiejaar><publicatienr>501</publicatienr><uitgiftedatum isodatum="1995-11-02">02-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-10-31">31-10-1995</ondertekeningsdatum><dossierref dossier="23778">23778</dossierref></publicatie><inwerkingtreding.datum isodatum="1996-01-01">01-01-1996</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002718&amp;artikel=7b&amp;g=2022-08-01" onderdeel="artikel=7b" korte-verwijzing="1.0:c:BWBR0002718&amp;artikel=7b"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=7b&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=7b" korte-verwijzing="jci1.3:c:BWBR0002718&amp;artikel=7b"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7c" stam-id="2668793" versie-id="26531392" id="C37718541" label-id="2613154" inwerking="2020-04-01" label="Artikel 7c" bron="Stb.2020-76" effect="wijziging" ondertekening_bron="2020-02-12" publicatie_bron="2020-03-04" publicatie_iwt="2020-03-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7c</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel7c/Lid1" label-id="2613154L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien aan <intref doc="jci1.3:c:BWBR0002718&amp;artikel=2&amp;z=2022-08-01&amp;g=2022-08-01" label-id="2613064" verwijzing-id="1634652" bwb-id="BWBR0002718" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid</intref>, toepassing wordt gegeven voor een experimentele school voor speciaal onderwijs, voor voortgezet speciaal onderwijs dan wel voor speciaal en voortgezet speciaal onderwijs, of voor een instelling voor speciaal en voortgezet speciaal onderwijs, zijn op die school onderscheidenlijk instelling de bepalingen van de <extref doc="jci1.3:c:BWBR0003549" label-id="2630144" verwijzing-id="1122555" bwb-id="BWBR0003549">Wet op de expertisecentra</extref> van toepassing, voor zover die betreffen de bekostiging door de gemeente. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=7c&amp;lid=1&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7c/Lid2" label-id="2613154L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Voor de toepassing van het eerste lid bepaalt Onze Minister of de experimentele school of instelling wordt gelijkgesteld met een schoolsoort als bedoeld in de <extref doc="jci1.3:c:BWBR0003549" label-id="2630144" verwijzing-id="1122556" bwb-id="BWBR0003549">Wet op de expertisecentra</extref> dan wel of deze door de gemeente als een eigensoortige school voor speciaal onderwijs of voor voortgezet speciaal onderwijs, dan wel een eigensoortige school of instelling voor speciaal en voortgezet speciaal onderwijs dient te worden beschouwd. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=7c&amp;lid=2&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7c/Lid3" label-id="2613154L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Onze Minister vergoedt aan het bevoegd gezag van een experimentele school voor speciaal onderwijs, voor voortgezet speciaal onderwijs dan wel voor speciaal en voortgezet speciaal onderwijs, of een instelling voor speciaal en voortgezet speciaal onderwijs de uitgaven die naar zijn oordeel voor het experiment noodzakelijk zijn. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=7c&amp;lid=3&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-76"><publicatiejaar>2020</publicatiejaar><publicatienr>76</publicatienr><uitgiftedatum isodatum="2020-03-04">04-03-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-02-12">12-02-2020</ondertekeningsdatum><dossierref dossier="35320">35320</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-98"><publicatiejaar>2020</publicatiejaar><publicatienr>98</publicatienr><uitgiftedatum isodatum="2020-03-23">23-03-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-03-16">16-03-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-04-01">01-04-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002718&amp;artikel=7c&amp;g=2022-08-01" onderdeel="artikel=7c" korte-verwijzing="1.0:c:BWBR0002718&amp;artikel=7c"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=7c&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=7c" korte-verwijzing="jci1.3:c:BWBR0002718&amp;artikel=7c"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7d" stam-id="2668803" versie-id="4035002" id="C5363101" label-id="2613164" inwerking="2003-08-01" label="Artikel 7d" bron="Stb.2002-288" effect="wijziging" ondertekening_bron="2002-05-30" publicatie_bron="2002-06-18" publicatie_iwt="2003-04-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7d</nr>
+  </kop>
+  <al>Ten behoeve van leerlingen van een experimentele school voor speciaal onderwijs, voor voortgezet speciaal onderwijs dan wel voor speciaal en voortgezet speciaal onderwijs, of een instelling voor speciaal en voortgezet speciaal onderwijs past de gemeente <extref doc="jci1.3:c:BWBR0003549&amp;artikel=4" verwijzing-id="1122557" bwb-id="BWBR0003549" label-id="2627894">artikel 4 van de Wet op de expertisecentra</extref> toe, alsof het leerlingen zijn van een dergelijke school of instelling. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2002-288"><publicatiejaar>2002</publicatiejaar><publicatienr>288</publicatienr><uitgiftedatum isodatum="2002-06-18">18-06-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-05-30">30-05-2002</ondertekeningsdatum><dossierref dossier="28135">28135</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2003-139"><publicatiejaar>2003</publicatiejaar><publicatienr>139</publicatienr><uitgiftedatum isodatum="2003-04-10">10-04-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-04-02">02-04-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-08-01">01-08-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002718&amp;artikel=7d&amp;g=2022-08-01" onderdeel="artikel=7d" korte-verwijzing="1.0:c:BWBR0002718&amp;artikel=7d"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=7d&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=7d" korte-verwijzing="jci1.3:c:BWBR0002718&amp;artikel=7d"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7e" stam-id="10659963" versie-id="17609902" id="C25039191" label-id="10634544" inwerking="2010-10-10" label="Artikel 7e" bron="Stb.2010-350" effect="nieuw" ondertekening_bron="2010-05-17" publicatie_bron="2010-09-01" publicatie_iwt="2010-10-07" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7e</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt deze wet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2010-350"><publicatiejaar>2010</publicatiejaar><publicatienr>350</publicatienr><uitgiftedatum isodatum="2010-09-01">01-09-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-05-17">17-05-2010</ondertekeningsdatum><dossierref dossier="31959">31959</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2010-389"><publicatiejaar>2010</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2010-10-07">07-10-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-09-30">30-09-2010</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2010-10-10">10-10-2010</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van Nederland.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002718&amp;artikel=7e&amp;g=2022-08-01" onderdeel="artikel=7e" korte-verwijzing="1.0:c:BWBR0002718&amp;artikel=7e"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=7e&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=7e" korte-verwijzing="jci1.3:c:BWBR0002718&amp;artikel=7e"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" code="a-8" stam-id="2668813" versie-id="4034842" id="C4034841" label-id="2613174" inwerking="1970-08-31" label="Artikel 8" bron="Stb.1970-370" effect="nieuwe-regeling" ondertekening_bron="1970-07-09" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>8</nr>
+  </kop>
+  <al>Deze wet kan worden aangehaald als "Experimentenwet onderwijs".</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>370</publicatienr><ondertekeningsdatum isodatum="1970-07-09">09-07-1970</ondertekeningsdatum><dossierref dossier="10321">10321</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>370</publicatienr><ondertekeningsdatum isodatum="1970-07-09">09-07-1970</ondertekeningsdatum><dossierref dossier="10321">10321</dossierref></publicatie><inwerkingtreding.datum isodatum="1970-08-31">31-08-1970</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002718&amp;artikel=8&amp;g=2022-08-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0002718&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=8&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0002718&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" code="a-9" stam-id="2668823" versie-id="4034852" id="C4034851" label-id="2613184" inwerking="1970-08-31" label="Artikel 9" bron="Stb.1970-370" effect="nieuwe-regeling" ondertekening_bron="1970-07-09" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>9</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>370</publicatienr><ondertekeningsdatum isodatum="1970-07-09">09-07-1970</ondertekeningsdatum><dossierref dossier="10321">10321</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>370</publicatienr><ondertekeningsdatum isodatum="1970-07-09">09-07-1970</ondertekeningsdatum><dossierref dossier="10321">10321</dossierref></publicatie><inwerkingtreding.datum isodatum="1970-08-31">31-08-1970</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002718&amp;artikel=9&amp;g=2022-08-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0002718&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=9&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0002718&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" stam-id="2668833" versie-id="4034862" id="C4034861" label-id="2613194" inwerking="1988-08-01" label="Artikel 10" bron="Stb.1985-392" effect="vervallen" ondertekening_bron="1985-07-04" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>10</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1985</publicatiejaar><publicatienr>392</publicatienr><ondertekeningsdatum isodatum="1985-07-04">04-07-1985</ondertekeningsdatum><dossierref dossier="18800">18800</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1985</publicatiejaar><publicatienr>392</publicatienr><ondertekeningsdatum isodatum="1985-07-04">04-07-1985</ondertekeningsdatum><dossierref dossier="18800">18800</dossierref></publicatie><inwerkingtreding.datum isodatum="1988-08-01">01-08-1988</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002718&amp;artikel=10&amp;g=2022-08-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0002718&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;artikel=10&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0002718&amp;artikel=10"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="2668843" versie-id="4034872" id="C4034871" label-id="2613204" inwerking="1970-08-31" bron="Stb.1970-370" effect="nieuwe-regeling" ondertekening_bron="1970-07-09" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden. </al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven ten Paleize Soestdijk </plaats>
+      <datum isodatum="">9 juli 1970 </datum>
+    </dagtekening>
+    <koning>JULIANA. </koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Staatssecretaris van Onderwijs en Wetenschappen,</functie>
+    <naam>
+      <achternaam>GROSHEIDE. </achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Landbouw en Visserij, </functie>
+    <naam>
+      <achternaam>P. J. LARDINOIS. </achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de elfde augustus 1970. </datum>
+    <ondertekening>
+      <functie>De Minister van Justitie a.i., </functie>
+      <naam>
+        <achternaam>H. K. J. BEERNINK. </achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>370</publicatienr><ondertekeningsdatum isodatum="1970-07-09">09-07-1970</ondertekeningsdatum><dossierref dossier="10321">10321</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>370</publicatienr><ondertekeningsdatum isodatum="1970-07-09">09-07-1970</ondertekeningsdatum><dossierref dossier="10321">10321</dossierref></publicatie><inwerkingtreding.datum isodatum="1970-08-31">31-08-1970</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2010-350"><publicatiejaar>2010</publicatiejaar><publicatienr>350</publicatienr><uitgiftedatum isodatum="2010-09-01">01-09-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-05-17">17-05-2010</ondertekeningsdatum><dossierref dossier="31959">31959</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2010-350"><publicatiejaar>2010</publicatiejaar><publicatienr>350</publicatienr><uitgiftedatum isodatum="2010-09-01">01-09-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-05-17">17-05-2010</ondertekeningsdatum><dossierref dossier="31959">31959</dossierref></publicatie><inwerkingtreding.datum isodatum="2010-05-17">17-05-2010</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002718&amp;g=2022-08-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0002718"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002718&amp;z=2022-08-01&amp;g=2022-08-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0002718"/></jcis></meta-data></wetgeving></toestand>

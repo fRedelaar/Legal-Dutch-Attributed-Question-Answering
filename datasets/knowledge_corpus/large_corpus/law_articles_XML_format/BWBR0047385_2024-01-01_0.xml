@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0047385/2024-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0047385" inwerkingtreding="2024-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="16541433" versie-id="28998102" id="C41050431" label-id="16462484" inwerkingtredingsdatum="2022-10-28">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="16541453" versie-id="28998022" id="C41050351" label-id="16462404" inwerking="2022-10-28" bron="Stb.2022-412" effect="nieuwe-regeling" ondertekening_bron="2022-10-19" publicatie_bron="2022-10-27" publicatie_iwt="2022-10-27" status="goed">Wet van 19 oktober 2022 tot wijziging van de Wet financiering politieke partijen in verband met de evaluatie van deze wet (Evaluatiewet Wfpp)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2022-412"><publicatiejaar>2022</publicatiejaar><publicatienr>412</publicatienr><uitgiftedatum isodatum="2022-10-27">27-10-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-10-19">19-10-2022</ondertekeningsdatum><dossierref dossier="35657">35657</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2022-412"><publicatiejaar>2022</publicatiejaar><publicatienr>412</publicatienr><uitgiftedatum isodatum="2022-10-27">27-10-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-10-19">19-10-2022</ondertekeningsdatum><dossierref dossier="35657">35657</dossierref></publicatie><inwerkingtreding.datum isodatum="2022-10-28">28-10-2022</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="16541463" versie-id="28998032" id="C41050361" label-id="16462414" inwerking="2022-10-28" bron="Stb.2022-412" effect="nieuwe-regeling" ondertekening_bron="2022-10-19" publicatie_bron="2022-10-27" publicatie_iwt="2022-10-27">Evaluatiewet Wfpp<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2022-412"><publicatiejaar>2022</publicatiejaar><publicatienr>412</publicatienr><uitgiftedatum isodatum="2022-10-27">27-10-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-10-19">19-10-2022</ondertekeningsdatum><dossierref dossier="35657">35657</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2022-412"><publicatiejaar>2022</publicatiejaar><publicatienr>412</publicatienr><uitgiftedatum isodatum="2022-10-27">27-10-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-10-19">19-10-2022</ondertekeningsdatum><dossierref dossier="35657">35657</dossierref></publicatie><inwerkingtreding.datum isodatum="2022-10-28">28-10-2022</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="16541473" versie-id="28998042" id="C41050371" label-id="16462424" inwerking="2022-10-28" bron="Stb.2022-412" effect="nieuwe-regeling" ondertekening_bron="2022-10-19" publicatie_bron="2022-10-27" publicatie_iwt="2022-10-27" status="goed">
+  <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is de financiële transparantie van politieke partijen te vergroten en buitenlandse financiering van Nederlandse politieke partijen te verbieden om buitenlandse beïnvloeding van de politieke besluitvorming en het democratische proces in Nederland tegen te gaan;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2022-412"><publicatiejaar>2022</publicatiejaar><publicatienr>412</publicatienr><uitgiftedatum isodatum="2022-10-27">27-10-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-10-19">19-10-2022</ondertekeningsdatum><dossierref dossier="35657">35657</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2022-412"><publicatiejaar>2022</publicatiejaar><publicatienr>412</publicatienr><uitgiftedatum isodatum="2022-10-27">27-10-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-10-19">19-10-2022</ondertekeningsdatum><dossierref dossier="35657">35657</dossierref></publicatie><inwerkingtreding.datum isodatum="2022-10-28">28-10-2022</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/ArtikelI" stam-id="16541483" versie-id="29007592" id="C41061721" label-id="16462434" inwerking="2024-01-01" label="Artikel I" bron="Stb.2022-412" effect="wijziging" ondertekening_bron="2022-10-19" publicatie_bron="2022-10-27" publicatie_iwt="2022-10-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">I</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet financiering politieke partijen.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-412"><publicatiejaar>2022</publicatiejaar><publicatienr>412</publicatienr><uitgiftedatum isodatum="2022-10-27">27-10-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-10-19">19-10-2022</ondertekeningsdatum><dossierref dossier="35657">35657</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-412"><publicatiejaar>2022</publicatiejaar><publicatienr>412</publicatienr><uitgiftedatum isodatum="2022-10-27">27-10-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-10-19">19-10-2022</ondertekeningsdatum><dossierref dossier="35657">35657</dossierref></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Onderdeel aEa.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0047385&amp;artikel=I&amp;g=2024-01-01" onderdeel="artikel=I" korte-verwijzing="1.0:c:BWBR0047385&amp;artikel=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0047385&amp;artikel=I&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=I" korte-verwijzing="jci1.3:c:BWBR0047385&amp;artikel=I"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelII" stam-id="16541493" versie-id="28998062" id="C41302471" label-id="16462444" inwerking="2023-01-01" label="Artikel II" bron="Stb.2022-412" effect="nieuwe-regeling" ondertekening_bron="2022-10-19" publicatie_bron="2022-10-27" publicatie_iwt="2022-11-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">II</nr>
+  </kop>
+  <al>
+    <intref doc="jci1.3:c:BWBR0047385&amp;artikel=I&amp;z=2024-01-01&amp;g=2024-01-01" label-id="16462434" verwijzing-id="3189190" bwb-id="BWBR0047385" bwb-ng-variabel-deel="/ArtikelI">Artikel I, onderdelen L, O, P, Q, R en T</intref>, van deze wet zijn voor het eerst van toepassing op het subsidiejaar dat volgt op het kalenderjaar waarin deze wet in werking treedt.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2022-412"><publicatiejaar>2022</publicatiejaar><publicatienr>412</publicatienr><uitgiftedatum isodatum="2022-10-27">27-10-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-10-19">19-10-2022</ondertekeningsdatum><dossierref dossier="35657">35657</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2022-462"><publicatiejaar>2022</publicatiejaar><publicatienr>462</publicatienr><uitgiftedatum isodatum="2022-11-23">23-11-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-11-09">09-11-2022</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-01-01">01-01-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0047385&amp;artikel=II&amp;g=2024-01-01" onderdeel="artikel=II" korte-verwijzing="1.0:c:BWBR0047385&amp;artikel=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0047385&amp;artikel=II&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=II" korte-verwijzing="jci1.3:c:BWBR0047385&amp;artikel=II"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIII" stam-id="16541503" versie-id="28998072" id="C41050401" label-id="16462454" inwerking="2022-10-28" label="Artikel III" bron="Stb.2022-412" effect="nieuwe-regeling" ondertekening_bron="2022-10-19" publicatie_bron="2022-10-27" publicatie_iwt="2022-10-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">III</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/ArtikelIII/Lid1" label-id="16462454L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van <intref doc="jci1.3:c:BWBR0047385&amp;artikel=I&amp;z=2024-01-01&amp;g=2024-01-01" label-id="16462434" verwijzing-id="3189191" bwb-id="BWBR0047385" bwb-ng-variabel-deel="/ArtikelI">artikel I, onderdeel E, onder 1, onderdeel a, onderdeel aEa en onderdeel Ea</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0047385&amp;artikel=III&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelIII/Lid2" label-id="16462454L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>
+      <intref doc="jci1.3:c:BWBR0047385&amp;artikel=I&amp;z=2024-01-01&amp;g=2024-01-01" label-id="16462434" verwijzing-id="3189192" bwb-id="BWBR0047385" bwb-ng-variabel-deel="/ArtikelI">Artikel I, onderdeel E, onder 1, onderdeel a</intref>, treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, en werkt terug tot en met 1 januari 2020.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0047385&amp;artikel=III&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelIII/Lid3" label-id="16462454L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>
+      <intref doc="jci1.3:c:BWBR0047385&amp;artikel=I&amp;z=2024-01-01&amp;g=2024-01-01" label-id="16462434" verwijzing-id="3189193" bwb-id="BWBR0047385" bwb-ng-variabel-deel="/ArtikelI">Artikel I, onderdeel aEa</intref>, treedt in werking met ingang van 1 januari 2024.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0047385&amp;artikel=III&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelIII/Lid4" label-id="16462454L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>
+      <intref doc="jci1.3:c:BWBR0047385&amp;artikel=I&amp;z=2024-01-01&amp;g=2024-01-01" label-id="16462434" verwijzing-id="3189194" bwb-id="BWBR0047385" bwb-ng-variabel-deel="/ArtikelI">Artikel I, onderdeel Ea</intref>, treedt in werking met ingang van 1 januari 2025.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0047385&amp;artikel=III&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2022-412"><publicatiejaar>2022</publicatiejaar><publicatienr>412</publicatienr><uitgiftedatum isodatum="2022-10-27">27-10-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-10-19">19-10-2022</ondertekeningsdatum><dossierref dossier="35657">35657</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2022-412"><publicatiejaar>2022</publicatiejaar><publicatienr>412</publicatienr><uitgiftedatum isodatum="2022-10-27">27-10-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-10-19">19-10-2022</ondertekeningsdatum><dossierref dossier="35657">35657</dossierref></publicatie><inwerkingtreding.datum isodatum="2022-10-28">28-10-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0047385&amp;artikel=III&amp;g=2024-01-01" onderdeel="artikel=III" korte-verwijzing="1.0:c:BWBR0047385&amp;artikel=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0047385&amp;artikel=III&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=III" korte-verwijzing="jci1.3:c:BWBR0047385&amp;artikel=III"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIV" stam-id="16541513" versie-id="28998082" id="C41050411" label-id="16462464" inwerking="2022-10-28" label="Artikel IV" bron="Stb.2022-412" effect="nieuwe-regeling" ondertekening_bron="2022-10-19" publicatie_bron="2022-10-27" publicatie_iwt="2022-10-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">IV</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Evaluatiewet Wfpp.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2022-412"><publicatiejaar>2022</publicatiejaar><publicatienr>412</publicatienr><uitgiftedatum isodatum="2022-10-27">27-10-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-10-19">19-10-2022</ondertekeningsdatum><dossierref dossier="35657">35657</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2022-412"><publicatiejaar>2022</publicatiejaar><publicatienr>412</publicatienr><uitgiftedatum isodatum="2022-10-27">27-10-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-10-19">19-10-2022</ondertekeningsdatum><dossierref dossier="35657">35657</dossierref></publicatie><inwerkingtreding.datum isodatum="2022-10-28">28-10-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0047385&amp;artikel=IV&amp;g=2024-01-01" onderdeel="artikel=IV" korte-verwijzing="1.0:c:BWBR0047385&amp;artikel=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0047385&amp;artikel=IV&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=IV" korte-verwijzing="jci1.3:c:BWBR0047385&amp;artikel=IV"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="16541523" versie-id="28998092" id="C41050421" label-id="16462474" inwerking="2022-10-28" bron="Stb.2022-412" effect="nieuwe-regeling" ondertekening_bron="2022-10-19" publicatie_bron="2022-10-27" publicatie_iwt="2022-10-27" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>’s-Gravenhage</plaats>
+      <datum isodatum="2022-10-19">19 oktober 2022</datum>
+    </dagtekening>
+    <koning>Willem-Alexander</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Binnenlandse Zaken en Koninkrijksrelaties,</functie>
+    <naam>
+      <voornaam>H.G.J.</voornaam>
+      <achternaam>Bruins Slot</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2022-10-27">de <nadruk type="cur">zevenentwintigste</nadruk> oktober 2022</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie en Veiligheid,</functie>
+      <naam>
+        <voornaam>D.</voornaam>
+        <achternaam>Yeşilgöz-Zegerius</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2022-412"><publicatiejaar>2022</publicatiejaar><publicatienr>412</publicatienr><uitgiftedatum isodatum="2022-10-27">27-10-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-10-19">19-10-2022</ondertekeningsdatum><dossierref dossier="35657">35657</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2022-412"><publicatiejaar>2022</publicatiejaar><publicatienr>412</publicatienr><uitgiftedatum isodatum="2022-10-27">27-10-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-10-19">19-10-2022</ondertekeningsdatum><dossierref dossier="35657">35657</dossierref></publicatie><inwerkingtreding.datum isodatum="2022-10-28">28-10-2022</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2022-412"><publicatiejaar>2022</publicatiejaar><publicatienr>412</publicatienr><uitgiftedatum isodatum="2022-10-27">27-10-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-10-19">19-10-2022</ondertekeningsdatum><dossierref dossier="35657">35657</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2022-412"><publicatiejaar>2022</publicatiejaar><publicatienr>412</publicatienr><uitgiftedatum isodatum="2022-10-27">27-10-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-10-19">19-10-2022</ondertekeningsdatum><dossierref dossier="35657">35657</dossierref></publicatie><inwerkingtreding.datum isodatum="2022-10-28">28-10-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0047385&amp;g=2024-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0047385"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0047385&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0047385"/></jcis></meta-data></wetgeving></toestand>

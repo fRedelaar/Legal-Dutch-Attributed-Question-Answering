@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0001835/1829-06-16/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0001835" inwerkingtreding="1829-06-16"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="237223" versie-id="328212" id="C328211" label-id="232494" inwerkingtredingsdatum="1829-06-16">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="237243" versie-id="328092" id="C328091" label-id="232384" inwerking="1829-06-16" bron="Stb.1829-33" effect="nieuwe-regeling" ondertekening_bron="1829-05-16" status="goed">Wet van 16 Mei 1829, omtrent de afschaffing der nog in werking zijnde wetboeken, op het tijdstip der invoering van de nationale wetboeken<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1829-06-16">16-06-1829</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="237253" versie-id="328102" id="C328101" label-id="232394" inwerking="1829-06-16" bron="Stb.1829-33" effect="nieuwe-regeling" ondertekening_bron="1829-05-16">Afschaffingswet<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1829-06-16">16-06-1829</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="237263" versie-id="328122" id="C328121" label-id="232404" inwerking="1829-06-16" bron="Stb.1829-33" effect="nieuwe-regeling" ondertekening_bron="1829-05-16" status="goed">
+  <wij>Wij WILLEM, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, Groot-Hertog van Luxemburg, enz., enz., enz.</wij>
+  <considerans>
+    <considerans.al>Allen die deze zullen zien of hooren lezen, salut! doen te weten:</considerans.al>
+    <considerans.al>Alzoo Wij in overweging hebben genomen, dat het van belang is om, op het tijdstip der invoering van de nationale wetboeken en van de wet op de regterlijke organisatie, de nog in werking zijnde wetboeken, en wel over dezelfde stoffen handelende, uitdrukkelijk afteschaffen;</considerans.al>
+    <considerans.al/>
+  </considerans>
+  <afkondiging>
+    <al>Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten-Generaal,</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1829-06-16">16-06-1829</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" code="a-1" stam-id="237273" versie-id="328132" id="C18649821" label-id="232414" inwerking="1829-06-16" label="Artikel 1" bron="Stb.1829-33" effect="nieuwe-regeling" ondertekening_bron="1829-05-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid1" label-id="232414L1">
+    <lidnr status="redactioneel">1</lidnr>
+    <al>Te rekenen van den dag der invoering van het burgerlijk wetboek der Nederlanden, wordt afgeschaft en zal ophouden kracht van wet te hebben, het wetboek van Napoleon, met al de daartoe behoorende besluiten en verordeningen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001835&amp;artikel=1&amp;lid=1&amp;z=1829-06-16&amp;g=1829-06-16" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid2" label-id="232414L2">
+    <lidnr status="redactioneel">2</lidnr>
+    <al>Insgelijks zijn op hetzelfde tijdstip afgeschaft de algemeene en plaatselijke gebruiken in de stoffen welke bij het nieuwe wetboek worden behandeld. Het wettelijk gezag van het romeinsche regt is en blijft afgeschaft.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001835&amp;artikel=1&amp;lid=2&amp;z=1829-06-16&amp;g=1829-06-16" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1829-06-16">16-06-1829</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001835&amp;artikel=1&amp;g=1829-06-16" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0001835&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001835&amp;artikel=1&amp;z=1829-06-16&amp;g=1829-06-16" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0001835&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="a-2" stam-id="237283" versie-id="328142" id="C328141" label-id="232424" inwerking="1829-06-16" label="Artikel 2" bron="Stb.1829-33" effect="nieuwe-regeling" ondertekening_bron="1829-05-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <al>Het tegenwoordige wetboek op de manier van procederen in burgerlijke zaken, mitsgaders de besluiten en verordeningen daartoe betrekkelijk, zijn afgeschaft op den dag der invoering van het nieuwe wetboek van burgerlijke regtsvordering.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1829-06-16">16-06-1829</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001835&amp;artikel=2&amp;g=1829-06-16" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0001835&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001835&amp;artikel=2&amp;z=1829-06-16&amp;g=1829-06-16" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0001835&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="a-3" stam-id="237293" versie-id="328152" id="C328151" label-id="232434" inwerking="1829-06-16" label="Artikel 3" bron="Stb.1829-33" effect="nieuwe-regeling" ondertekening_bron="1829-05-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>3</nr>
+  </kop>
+  <al>Het tegenwoordige <extref doc="jci1.3:c:BWBR0001838" verwijzing-id="52584" bwb-id="BWBR0001838" label-id="1308524">wetboek van koophandel</extref>, mitsgaders de besluiten en verordeningen daartoe betrekkelijk, zijn afgeschaft op den dag der invoering van het nieuwe <extref doc="jci1.3:c:BWBR0001838" verwijzing-id="52586" bwb-id="BWBR0001838" label-id="1308524">wetboek van koophandel</extref>.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1829-06-16">16-06-1829</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001835&amp;artikel=3&amp;g=1829-06-16" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0001835&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001835&amp;artikel=3&amp;z=1829-06-16&amp;g=1829-06-16" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0001835&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="a-4" stam-id="237303" versie-id="328162" id="C328161" label-id="232444" inwerking="1829-06-16" label="Artikel 4" bron="Stb.1829-33" effect="nieuwe-regeling" ondertekening_bron="1829-05-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>4</nr>
+  </kop>
+  <al>Het tegenwoordige wetboek op het strafregt, mitsgaders de besluiten en verordeningen daartoe betrekkelijk, zijn afgeschaft op den dag der invoering van het nieuwe wetboek op het strafregt.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1829-06-16">16-06-1829</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001835&amp;artikel=4&amp;g=1829-06-16" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0001835&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001835&amp;artikel=4&amp;z=1829-06-16&amp;g=1829-06-16" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0001835&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="a-5" stam-id="237313" versie-id="328172" id="C328171" label-id="232454" inwerking="1829-06-16" label="Artikel 5" bron="Stb.1829-33" effect="nieuwe-regeling" ondertekening_bron="1829-05-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>5</nr>
+  </kop>
+  <al>Het tegenwoordige wetboek van criminele instructie, mitsgaders de besluiten en verordeningen daartoe betrekkelijk, zijn afgeschaft op den dag der invoering van het nieuwe <extref doc="jci1.3:c:BWBR0001903" verwijzing-id="52588" bwb-id="BWBR0001903" label-id="3010844">wetboek van strafvordering</extref>.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1829-06-16">16-06-1829</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001835&amp;artikel=5&amp;g=1829-06-16" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0001835&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001835&amp;artikel=5&amp;z=1829-06-16&amp;g=1829-06-16" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0001835&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="a-6" stam-id="237323" versie-id="328182" id="C328181" label-id="232464" inwerking="1829-06-16" label="Artikel 6" bron="Stb.1829-33" effect="nieuwe-regeling" ondertekening_bron="1829-05-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+  </kop>
+  <al>De tegenwoordige wetten op de zamenstelling der regterlijke magt, mitsgaders de besluiten en verordeningen daartoe betrekkelijk, zijn afgeschaft op den dag der invoering van de wet van 18 April 1827.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1829-06-16">16-06-1829</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001835&amp;artikel=6&amp;g=1829-06-16" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0001835&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001835&amp;artikel=6&amp;z=1829-06-16&amp;g=1829-06-16" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0001835&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="a-7" stam-id="237333" versie-id="328192" id="C328191" label-id="232474" inwerking="1829-06-16" label="Artikel 7" bron="Stb.1829-33" effect="nieuwe-regeling" ondertekening_bron="1829-05-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+  <al>Ieder wetboek van het Koningrijk zal in eene doorloopende reeks van artikelen worden vervat, met in achtneming der orde bij de vastgestelde titels aangenomen, en met zoodanige wijzigingen en verbeteringen, als bij eenige afzonderlijke wetten reeds zijn of nader zullen worden aangenomen, behoudens:</al>
+  <al>1°. Dat de 12e titel van het 1e boek van het burgerlijk wetboek, handelende <nadruk type="cur">van de akten van den burgerlijken stand,</nadruk> onmiddellijk zal volgen op den 2e titel van dat boek, handelende van Nederlanders en Vreemdelingen.</al>
+  <al>2°. Dat de 5e titel van het 3e boek, handelende van <nadruk type="cur">schenkingen,</nadruk> zal worden geplaatst dadelijk na den 9e titel van hetzelfde boek.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1829-06-16">16-06-1829</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001835&amp;artikel=7&amp;g=1829-06-16" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0001835&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001835&amp;artikel=7&amp;z=1829-06-16&amp;g=1829-06-16" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0001835&amp;artikel=7"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="237343" versie-id="328202" id="C11148531" label-id="232484" inwerking="1829-06-16" bron="Stb.1829-33" effect="nieuwe-regeling" ondertekening_bron="1829-05-16" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het <nadruk type="cur">staatsblad</nadruk> zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, kollegien en ambtenaren, wien zulks aangaat, aan de naauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te Brussel</plaats>
+      <datum isodatum="">den 16den Mei des jaars 1829, en van Onze regering het zestiende.</datum>
+    </dagtekening>
+    <koning>WILLEM.</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>Van wege den Koning,</functie>
+    <naam>
+      <achternaam>J. G. DE MEY VAN STREEFKERK.</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">den zeven en twintigsten Mei 1829,</datum>
+    <ondertekening>
+      <functie>De Secretaris van Staat,</functie>
+      <naam>
+        <achternaam>J. G. DE MEY VAN STREEFKERK,</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1829-06-16">16-06-1829</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1829</publicatiejaar><publicatienr>33</publicatienr><ondertekeningsdatum isodatum="1829-05-16">16-05-1829</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1829-06-16">16-06-1829</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001835&amp;g=1829-06-16" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0001835"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001835&amp;z=1829-06-16&amp;g=1829-06-16" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0001835"/></jcis></meta-data></wetgeving></toestand>

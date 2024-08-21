@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0044860/2021-07-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0044860" inwerkingtreding="2021-07-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="15860523" versie-id="27554852" id="C38878871" label-id="15795494" inwerkingtredingsdatum="2021-07-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="15860543" versie-id="27554702" id="C38878721" label-id="15795344" inwerking="2021-07-01" bron="Stb.2021-96" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2021-02-26" publicatie_iwt="2021-02-26" status="goed">Wet van 16 december 2020, houdende regels inzake instelling van een Mobiliteitsfonds (Wet Mobiliteitsfonds) (Wet Mobiliteitsfonds)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-96"><publicatiejaar>2021</publicatiejaar><publicatienr>96</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35426">35426</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-97"><publicatiejaar>2021</publicatiejaar><publicatienr>97</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-10">10-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="15860553" versie-id="27554712" id="C38878731" label-id="15795354" inwerking="2021-07-01" bron="Stb.2021-96" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2021-02-26" publicatie_iwt="2021-02-26">Wet Mobiliteitsfonds<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-96"><publicatiejaar>2021</publicatiejaar><publicatienr>96</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35426">35426</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-97"><publicatiejaar>2021</publicatiejaar><publicatienr>97</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-10">10-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="15860563" versie-id="27554722" id="C38878741" label-id="15795364" inwerking="2021-07-01" bron="Stb.2021-96" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2021-02-26" publicatie_iwt="2021-02-26" status="goed">
+  <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben dat het wenselijk is het Infrastructuurfonds ter verruiming van de reikwijdte om te vormen tot een Mobiliteitsfonds en daartoe de <extref doc="jci1.3:c:BWBR0006001" label-id="376014" verwijzing-id="3057162" bwb-id="BWBR0006001">Wet Infrastructuurfonds</extref> te vervangen door de Wet Mobiliteitsfonds;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-96"><publicatiejaar>2021</publicatiejaar><publicatienr>96</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35426">35426</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-97"><publicatiejaar>2021</publicatiejaar><publicatienr>97</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-10">10-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="15860573" versie-id="27554732" id="C38878751" label-id="15795374" inwerking="2021-07-01" label="Artikel 1" bron="Stb.2021-96" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2021-02-26" publicatie_iwt="2021-02-26" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+    <titel status="officieel">Begripsbepalingen</titel>
+  </kop>
+  <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel_1">
+      <al>
+        <nadruk type="cur">basisinformatie:</nadruk> gegevens nodig voor het beschrijven van het verkeer of vervoer van personen of goederen met het oog op aanleg, verbetering of gebruik van infrastructuur;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel_2">
+      <al>
+        <nadruk type="cur">bediening:</nadruk> handelingen ten behoeve van verkeersbeheersing of -begeleiding of die nodig zijn om gebruik mogelijk te maken;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel_3">
+      <al>
+        <nadruk type="cur">fonds:</nadruk> Mobiliteitsfonds, bedoeld in <intref doc="jci1.3:c:BWBR0044860&amp;artikel=2&amp;z=2021-07-01&amp;g=2021-07-01" label-id="15795384" verwijzing-id="3057175" bwb-id="BWBR0044860" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid</intref>;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel_4">
+      <al>
+        <nadruk type="cur">infrastructuur:</nadruk> onroerende zaken ten behoeve van verkeer of vervoer van personen of goederen met daarbij behorende voorzieningen ten behoeve van de verkeersveiligheid, verkeersmanagement en bescherming van het milieu;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel_5">
+      <al>
+        <nadruk type="cur">Onze Minister:</nadruk> Onze Minister van Infrastructuur en Waterstaat.</al>
+    </li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-96"><publicatiejaar>2021</publicatiejaar><publicatienr>96</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35426">35426</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-97"><publicatiejaar>2021</publicatiejaar><publicatienr>97</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-10">10-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044860&amp;artikel=1&amp;g=2021-07-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0044860&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0044860&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" stam-id="15860583" versie-id="27554742" id="C38878761" label-id="15795384" inwerking="2021-07-01" label="Artikel 2" bron="Stb.2021-96" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2021-02-26" publicatie_iwt="2021-02-26" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+    <titel status="officieel">Doelen van het fonds</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="15795384L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Er is een Mobiliteitsfonds.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=2&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="15795384L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het fonds heeft ten doel het faciliteren van de bereikbaarheid van heel Nederland door veilige, innovatieve en duurzame mobiliteit van personen en goederen door middel van financiering en bekostiging van:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>aanleg, verbetering, beheer en onderhoud en bediening van infrastructuur die door het Rijk wordt beheerd;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=2&amp;lid=2&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>aanleg, verbetering, beheer en onderhoud en bediening van infrastructuur die niet door het Rijk wordt beheerd;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=2&amp;lid=2&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>maatregelen en voorzieningen waarmee wordt beoogd de doelmatigheid of de veiligheid van het gebruik van infrastructuur als bedoeld in de onderdelen a en b, te vergroten; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=2&amp;lid=2&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>het inwinnen, bewerken en verspreiden van met onderdeel a samenhangende basisinformatie, onderzoek ter voorbereiding van maatregelen of voorzieningen als bedoeld in de onderdelen a, b en c, en proefprojecten en experimenten gericht op maatregelen of voorzieningen als bedoeld in de onderdelen a, b en c.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=2&amp;lid=2&amp;o=d&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=2&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-96"><publicatiejaar>2021</publicatiejaar><publicatienr>96</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35426">35426</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-97"><publicatiejaar>2021</publicatiejaar><publicatienr>97</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-10">10-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044860&amp;artikel=2&amp;g=2021-07-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0044860&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0044860&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="15860593" versie-id="27554752" id="C38878771" label-id="15795394" inwerking="2021-07-01" label="Artikel 3" bron="Stb.2021-96" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2021-02-26" publicatie_iwt="2021-02-26" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+    <titel status="officieel">Beheer van het fonds</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="15795394L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het fonds is een begrotingsfonds als bedoeld in <extref doc="jci1.3:c:BWBR0039429&amp;artikel=2.11" label-id="13934384" verwijzing-id="3057163" bwb-id="BWBR0039429">artikel 2.11, eerste lid, van de Comptabiliteitswet 2016</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=3&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="15795394L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister beheert het fonds.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=3&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-96"><publicatiejaar>2021</publicatiejaar><publicatienr>96</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35426">35426</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-97"><publicatiejaar>2021</publicatiejaar><publicatienr>97</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-10">10-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044860&amp;artikel=3&amp;g=2021-07-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0044860&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0044860&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" stam-id="15860603" versie-id="27554762" id="C38878781" label-id="15795404" inwerking="2021-07-01" label="Artikel 4" bron="Stb.2021-96" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2021-02-26" publicatie_iwt="2021-02-26" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+    <titel status="officieel">Meerjarenprogramma Infrastructuur, Ruimte en Transport</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="15795404L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Jaarlijks biedt Onze Minister gelijktijdig met het voorstel van wet tot vaststelling van de begrotingsstaat van het fonds een Meerjarenprogramma Infrastructuur, Ruimte en Transport aan de Staten-Generaal aan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=4&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="15795404L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>In het meerjarenprogramma wordt, voor zover als redelijkerwijze mogelijk is, beschreven hoe de middelen van het fonds voor het faciliteren van mobiliteit worden verdeeld over afzonderlijke projecten, projectpakketten of beleidsterreinen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=4&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid3" label-id="15795404L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het meerjarenprogramma verschaft informatie over de uitgaven die ten laste van de rijksbegroting worden gebracht om mobiliteit te faciliteren. Het maakt tevens zichtbaar welk verband er daarbij bestaat tussen de via het fonds gefinancierde en bekostigde uitgaven en de daaruit voortvloeiende uitgaven via andere begrotingen van de rijksbegroting, waaronder de exploitatiesubsidies openbaar vervoer.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=4&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid4" label-id="15795404L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Het meerjarenprogramma bevat een overzicht van de wijzigingen ten opzichte van het voorgaande jaar in de status van projecten en projectpakketten die bekostigd worden uit het fonds.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=4&amp;lid=4&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-96"><publicatiejaar>2021</publicatiejaar><publicatienr>96</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35426">35426</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-97"><publicatiejaar>2021</publicatiejaar><publicatienr>97</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-10">10-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044860&amp;artikel=4&amp;g=2021-07-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0044860&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=4&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0044860&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" stam-id="15860613" versie-id="27554772" id="C38878791" label-id="15795414" inwerking="2021-07-01" label="Artikel 5" bron="Stb.2021-96" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2021-02-26" publicatie_iwt="2021-02-26" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+    <titel status="officieel">Ontvangsten van het fonds</titel>
+  </kop>
+  <al>De ontvangsten van het fonds zijn:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel5/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>een bijdrage ten laste van de begroting van het Ministerie van Infrastructuur en Waterstaat;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=5&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel5/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>bijdragen ten laste van andere begrotingen van het Rijk;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=5&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel5/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>bijdragen van derden;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=5&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel5/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>andere ontvangsten in het kader van het bereiken van de doelen van het fonds.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=5&amp;o=d&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-96"><publicatiejaar>2021</publicatiejaar><publicatienr>96</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35426">35426</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-97"><publicatiejaar>2021</publicatiejaar><publicatienr>97</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-10">10-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044860&amp;artikel=5&amp;g=2021-07-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0044860&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=5&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0044860&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" stam-id="15860623" versie-id="27554782" id="C38878801" label-id="15795424" inwerking="2021-07-01" label="Artikel 6" bron="Stb.2021-96" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2021-02-26" publicatie_iwt="2021-02-26" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+    <titel status="officieel">Uitgaven en subsidies ten laste van het fonds</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid1" label-id="15795424L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Ten laste van het fonds komen de uitgaven ten behoeve van:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel6/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>aanleg, verbetering, beheer en onderhoud en bediening van infrastructuur die door het Rijk wordt beheerd;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=6&amp;lid=1&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel6/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>het inwinnen, bewerken en verspreiden van met onderdeel a samenhangende basisinformatie;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=6&amp;lid=1&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel6/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>onderzoek ter voorbereiding van maatregelen of voorzieningen als bedoeld in onderdeel a.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=6&amp;lid=1&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=6&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid2" label-id="15795424L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Uit het fonds kunnen subsidies worden verstrekt aan provincies, gemeenten, waterschappen, andere publiekrechtelijke rechtspersonen of privaatrechtelijke rechtspersonen ten behoeve van:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel6/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>aanleg, verbetering, beheer en onderhoud en bediening van infrastructuur die door hen wordt beheerd;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=6&amp;lid=2&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel6/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>onderzoek ter voorbereiding van maatregelen of voorzieningen als bedoeld in onderdeel a.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=6&amp;lid=2&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=6&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid3" label-id="15795424L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Ten laste van het fonds kunnen tevens uitgaven en subsidies worden gebracht ten behoeve van:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel6/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>maatregelen en voorzieningen waarmee wordt beoogd de doelmatigheid van het gebruik van infrastructuur, als bedoeld in het eerste lid, onderdeel a, of het tweede lid, onderdeel a, te vergroten;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=6&amp;lid=3&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel6/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>onderzoek ter voorbereiding van maatregelen of voorzieningen als bedoeld in de onderdeel a.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=6&amp;lid=3&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=6&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid4" label-id="15795424L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Ten laste van het fonds kunnen daarnaast uitgaven en subsidies worden gebracht ten behoeve van proefprojecten en experimenten gericht op maatregelen of voorzieningen als bedoeld in het eerste lid, onderdeel a, het tweede lid, onderdeel a, of het derde lid, onderdeel a.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=6&amp;lid=4&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid5" label-id="15795424L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Ten laste van het fonds kunnen verder uitgaven en subsidies worden gebracht ten behoeve van aanleg, verbetering of beheer en onderhoud van infrastructuur buiten het Europese deel van Nederland, maar binnen Europa.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=6&amp;lid=5&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid6" label-id="15795424L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Ten laste van het fonds komen voorts andere uitgaven in het kader van het bereiken van de doelen van het fonds.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=6&amp;lid=6&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid7" label-id="15795424L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Uit het fonds worden geen uitgaven gedaan of subsidies verstrekt ten behoeve van:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel6/Lid7/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>aanleg, verbetering en beheer en onderhoud van een zee- of luchthaven;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=6&amp;lid=7&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel6/Lid7/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>zeehaven- en luchthaveninfrastructuur, behoudens infrastructuur ten behoeve van de ontsluiting van een zee- of luchthaven;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=6&amp;lid=7&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel6/Lid7/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>militaire doeleinden;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=6&amp;lid=7&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel6/Lid7/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>culturele doeleinden.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=6&amp;lid=7&amp;o=d&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=6&amp;lid=7&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-96"><publicatiejaar>2021</publicatiejaar><publicatienr>96</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35426">35426</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-97"><publicatiejaar>2021</publicatiejaar><publicatienr>97</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-10">10-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044860&amp;artikel=6&amp;g=2021-07-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0044860&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=6&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0044860&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" stam-id="15860633" versie-id="27554792" id="C38878811" label-id="15795434" inwerking="2021-07-01" label="Artikel 7" bron="Stb.2021-96" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2021-02-26" publicatie_iwt="2021-02-26" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+    <titel status="officieel">Subsidiekader</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid1" label-id="15795434L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onverminderd <extref doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=3" label-id="186674" verwijzing-id="3057164" bwb-id="BWBR0008290">hoofdstuk 3 van de Financiële-verhoudingswet</extref> is op subsidies die verstrekt worden ten laste van het fonds, de <extref doc="jci1.3:c:BWBR0032789" label-id="12050804" verwijzing-id="3057165" bwb-id="BWBR0032789">Kaderwet subsidies I en M</extref> van toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=7&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid2" label-id="15795434L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het eerste lid geldt niet voor subsidies aan zelfstandige bestuursorganen als bedoeld in <extref doc="jci1.3:c:BWBR0020495&amp;artikel=26" label-id="8726004" verwijzing-id="3057166" bwb-id="BWBR0020495">artikel 26 van de Kaderwet zelfstandige bestuursorganen</extref>, voor de uitvoering van hun wettelijke taken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=7&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid3" label-id="15795434L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Subsidies die worden verleend ten laste van een begroting van het fonds die nog niet is vastgesteld, worden verleend onder de voorwaarde, bedoeld in <extref doc="jci1.3:c:BWBR0005537&amp;artikel=4:34" label-id="2819344" verwijzing-id="3057167" bwb-id="BWBR0005537">artikel 4:34, eerste lid, van de Algemene wet bestuursrecht</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=7&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid4" label-id="15795434L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Een algemene maatregel van bestuur of ministeriële regeling op basis waarvan subsidies kunnen worden verstrekt waarop het eerste lid van toepassing is, wordt niet eerder vastgesteld dan 30 dagen nadat het ontwerp van de subsidieregeling schriftelijk ter kennis is gebracht van de Tweede Kamer der Staten-Generaal, indien het jaarlijkse subsidieplafond meer dan 10 miljoen euro bedraagt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=7&amp;lid=4&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid5" label-id="15795434L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Indien binnen de in het vierde lid genoemde termijn van 30 dagen ten minste een vijfde van het grondwettelijk aantal leden van de Tweede Kamer der Staten-Generaal nadere inlichtingen vraagt, wordt de subsidieregeling, bedoeld in het vierde lid, niet eerder vastgesteld dan 14 dagen nadat de inlichtingen zijn verstrekt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=7&amp;lid=5&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-96"><publicatiejaar>2021</publicatiejaar><publicatienr>96</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35426">35426</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-97"><publicatiejaar>2021</publicatiejaar><publicatienr>97</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-10">10-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044860&amp;artikel=7&amp;g=2021-07-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0044860&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=7&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0044860&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" stam-id="15860643" versie-id="27554802" id="C38878821" label-id="15795444" inwerking="2021-07-01" label="Artikel 8" bron="Stb.2021-96" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2021-02-26" publicatie_iwt="2021-02-26" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+    <titel status="officieel">Intrekking <extref doc="jci1.3:c:BWBR0006001" label-id="376014" verwijzing-id="3057168" bwb-id="BWBR0006001">Wet Infrastructuurfonds</extref> en <extref doc="jci1.3:c:BWBR0006264" label-id="1980384" verwijzing-id="3057169" bwb-id="BWBR0006264">Besluit Infrastructuurfonds</extref> en overgangsrecht</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid1" label-id="15795444L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het wetsvoorstel tot vaststelling van de eerste begrotingsstaat van het fonds wordt aangeboden aan de Tweede Kamer der Staten-Generaal op de eerstvolgende derde dinsdag van september na het tijdstip van inwerkingtreding van deze wet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=8&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid2" label-id="15795444L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De <extref doc="jci1.3:c:BWBR0006001" label-id="376014" verwijzing-id="3057170" bwb-id="BWBR0006001">Wet Infrastructuurfonds</extref> en het <extref doc="jci1.3:c:BWBR0006264" label-id="1980384" verwijzing-id="3057171" bwb-id="BWBR0006264">Besluit Infrastructuurfonds</extref> worden ingetrokken met ingang van 1 januari van het eerstvolgende kalenderjaar na het tijdstip van inwerkingtreding van deze wet, met dien verstande dat:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel8/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>in afwijking van <extref doc="jci1.3:c:BWBR0006001&amp;artikel=3" label-id="375784" verwijzing-id="3057172" bwb-id="BWBR0006001">artikel 3, derde lid, van de Wet Infrastructuurfonds</extref> het wetsvoorstel tot vaststelling van de laatste begrotingsstaat van het Infrastructuurfonds wordt aangeboden aan de Tweede Kamer der Staten-Generaal op de laatste derde dinsdag van september voor het tijdstip van inwerkingtreding van deze wet;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=8&amp;lid=2&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel8/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>op de begrotingsstaat, bedoeld in onderdeel a, de <extref doc="jci1.3:c:BWBR0006001" label-id="376014" verwijzing-id="3057173" bwb-id="BWBR0006001">Wet Infrastructuurfonds</extref> van toepassing blijft, zoals die luidde onmiddellijk voor het tijdstip van intrekking van die wet; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=8&amp;lid=2&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel8/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>op subsidieverstrekkingen en -aanvragen die hebben plaatsgevonden voor het tijdstip van intrekking van de <extref doc="jci1.3:c:BWBR0006001" label-id="376014" verwijzing-id="3057174" bwb-id="BWBR0006001">Wet Infrastructuurfonds</extref>, het bij of krachtens die wet bepaalde van toepassing blijft, zoals dat luidde onmiddellijk voor dit tijdstip.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=8&amp;lid=2&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=8&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-96"><publicatiejaar>2021</publicatiejaar><publicatienr>96</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35426">35426</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-97"><publicatiejaar>2021</publicatiejaar><publicatienr>97</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-10">10-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044860&amp;artikel=8&amp;g=2021-07-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0044860&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=8&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0044860&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" stam-id="15860653" versie-id="27554812" id="C38878831" label-id="15795454" inwerking="2021-07-01" label="Artikel 9" bron="Stb.2021-96" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2021-02-26" publicatie_iwt="2021-02-26" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+    <titel status="officieel">Evaluatiebepaling</titel>
+  </kop>
+  <al>Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-96"><publicatiejaar>2021</publicatiejaar><publicatienr>96</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35426">35426</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-97"><publicatiejaar>2021</publicatiejaar><publicatienr>97</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-10">10-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044860&amp;artikel=9&amp;g=2021-07-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0044860&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=9&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0044860&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" stam-id="15860663" versie-id="27554822" id="C38878841" label-id="15795464" inwerking="2021-07-01" label="Artikel 10" bron="Stb.2021-96" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2021-02-26" publicatie_iwt="2021-02-26" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+    <titel status="officieel">Inwerkingtreding</titel>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-96"><publicatiejaar>2021</publicatiejaar><publicatienr>96</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35426">35426</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-97"><publicatiejaar>2021</publicatiejaar><publicatienr>97</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-10">10-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044860&amp;artikel=10&amp;g=2021-07-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0044860&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=10&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0044860&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" stam-id="15860673" versie-id="27554832" id="C38878851" label-id="15795474" inwerking="2021-07-01" label="Artikel 11" bron="Stb.2021-96" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2021-02-26" publicatie_iwt="2021-02-26" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+    <titel status="officieel">Citeertitel</titel>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet Mobiliteitsfonds.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-96"><publicatiejaar>2021</publicatiejaar><publicatienr>96</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35426">35426</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-97"><publicatiejaar>2021</publicatiejaar><publicatienr>97</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-10">10-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044860&amp;artikel=11&amp;g=2021-07-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0044860&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;artikel=11&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0044860&amp;artikel=11"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="15860683" versie-id="27554842" id="C38878861" label-id="15795484" inwerking="2021-07-01" bron="Stb.2021-96" effect="nieuwe-regeling" ondertekening_bron="2020-12-16" publicatie_bron="2021-02-26" publicatie_iwt="2021-02-26" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>’s-Gravenhage</plaats>
+      <datum isodatum="2020-12-16">16 december 2020</datum>
+    </dagtekening>
+    <koning>Willem-Alexander</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Infrastructuur en Waterstaat,</functie>
+    <naam>
+      <voornaam>C. van</voornaam>
+      <achternaam>Nieuwenhuizen Wijbenga</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Financiën,</functie>
+    <naam>
+      <voornaam>W.B.</voornaam>
+      <achternaam>Hoekstra</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2021-02-26">de <nadruk type="cur">zesentwintigste</nadruk> februari 2021</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie en Veiligheid,</functie>
+      <naam>
+        <voornaam>F.B.J.</voornaam>
+        <achternaam>Grapperhaus</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-96"><publicatiejaar>2021</publicatiejaar><publicatienr>96</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35426">35426</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-97"><publicatiejaar>2021</publicatiejaar><publicatienr>97</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-10">10-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-96"><publicatiejaar>2021</publicatiejaar><publicatienr>96</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35426">35426</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2021-97"><publicatiejaar>2021</publicatiejaar><publicatienr>97</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-10">10-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044860&amp;g=2021-07-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0044860"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044860&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0044860"/></jcis></meta-data></wetgeving></toestand>

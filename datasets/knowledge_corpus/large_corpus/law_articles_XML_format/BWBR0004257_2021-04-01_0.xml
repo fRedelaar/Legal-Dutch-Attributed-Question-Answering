@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0004257/2021-04-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0004257" inwerkingtreding="2021-04-01"><bwb-inputbestand>BWBR0004257_2020-01-01_0</bwb-inputbestand><bwb-wijzigingen/><redactionele-correcties><redactionele-correctie label-id="2047904" oud-revisie-id="16580251" nieuw-revisie-id="42961931"/></redactionele-correcties><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="2100663" versie-id="17607322" id="C24364681" label-id="2048094" inwerkingtredingsdatum="2010-05-17">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="2100693" versie-id="3167142" id="C3167141" label-id="2047784" inwerking="1988-01-01" bron="Stb.1987-598" effect="nieuwe-regeling" ondertekening_bron="1987-12-23" status="goed">Wet van 23 december 1987, houdende regelen voor de indiening en behandeling van en de beschikking op verzoekschriften om gratie <meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie><inwerkingtreding.datum isodatum="1988-01-01">01-01-1988</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="2100703" versie-id="3167152" id="C3167151" label-id="2047794" inwerking="1988-01-01" bron="Stb.1987-598" effect="nieuwe-regeling" ondertekening_bron="1987-12-23">Gratiewet<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie><inwerkingtreding.datum isodatum="1988-01-01">01-01-1988</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="2100713" versie-id="3167162" id="C3167161" label-id="2047804" inwerking="1988-01-01" bron="Stb.1987-598" effect="nieuwe-regeling" ondertekening_bron="1987-12-23" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz. </wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten: </considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat ingevolge artikel 122, eerste lid, van de herziene <extref doc="jci1.3:c:BWBR0001840" verwijzing-id="843410" bwb-id="BWBR0001840" label-id="2942374">Grondwet</extref> een wettelijke regeling dient te voorzien in de aanwijzing van gerechten welke over verzoekschriften om gratie advies uitbrengen en in voorschriften omtrent de behandeling van en beschikking op zulke verzoekschriften, en dat het in dat verband wenselijk is de bepalingen van het <extref doc="jci1.3:c:BWBR0001903" verwijzing-id="843411" bwb-id="BWBR0001903" label-id="3010844">Wetboek van Strafvordering</extref> die betrekking hebben op de indiening van verzoekschriften om gratie te wijzigen opdat het mogelijk zij ook gratie te verzoeken en te verkrijgen van bepaalde door de Nederlandse strafrechter opgelegde strafrechtelijke maatregelen, en voorts enkele andere wetten daaraan aan te passen; </considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze: </al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie><inwerkingtreding.datum isodatum="1988-01-01">01-01-1988</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="2100723" versie-id="23974642" id="C37504941" label-id="2047814" inwerking="2020-01-01" label="Artikel 1" bron="Stb.2017-82" effect="wijziging" ondertekening_bron="2017-02-22" publicatie_bron="2017-03-09" publicatie_iwt="2019-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid1" label-id="2047814L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>In deze wet wordt verstaan onder: </al>
+    <al>Onze Minister: Onze Minister van Justitie; </al>
+    <al>openbaar ministerie: het openbaar ministerie dat de voor tenuitvoerlegging vatbare rechterlijke beslissing, waarop het verzoek om gratie betrekking heeft, heeft verstrekt aan Onze Minister;</al>
+    <al>verzoekschrift: een schriftelijk verzoek om gratie van een veroordeelde of een derde, ingediend op het formulier, bedoeld in <intref doc="jci1.3:c:BWBR0004257&amp;artikel=3&amp;z=2021-04-01&amp;g=2021-04-01" label-id="2047834" verwijzing-id="1615024" bwb-id="BWBR0004257" bwb-ng-variabel-deel="/Artikel3">artikel 3, eerste lid</intref>;</al>
+    <al>veroordeelde: degene op wie het verzoekschrift betrekking heeft.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=1&amp;lid=1&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid2" label-id="2047814L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>In deze wet wordt mede verstaan onder: openbaar ministerie: het openbaar ministerie van Bonaire, Sint Eustatius en Saba; in Nederland: in de openbare lichamen Bonaire, Sint Eustatius en Saba; een Nederlandse strafrechter: een strafrechter in de openbare lichamen Bonaire, Sint Eustatius en Saba.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=1&amp;lid=2&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid3" label-id="2047814L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Indien het verzoek om gratie betrekking heeft op een rechterlijke beslissing waarvan de tenuitvoerlegging aan een vreemde staat is overgedragen, wordt onder het openbaar ministerie verstaan het openbaar ministerie bij het gerecht dat die beslissing heeft gegeven en indien het betrekking heeft op een buitenlandse rechterlijke beslissing waarvan de tenuitvoerlegging met toepassing van <extref doc="jci1.3:c:BWBR0004028&amp;artikel=43" label-id="2724054" verwijzing-id="2368931" bwb-id="BWBR0004028">artikel 43 van de Wet overdracht tenuitvoerlegging strafvonnissen</extref> of <extref doc="jci1.3:c:BWBR0028681&amp;artikel=593" label-id="10907284" verwijzing-id="2814319" bwb-id="BWBR0028681">artikel 593 van het Wetboek van Strafvordering BES</extref> in Nederland is gelast, het openbaar ministerie dat de voor tenuitvoerlegging vatbare rechterlijke beslissing heeft verstrekt aan Onze Minister.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=1&amp;lid=3&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-82"><publicatiejaar>2017</publicatiejaar><publicatienr>82</publicatienr><uitgiftedatum isodatum="2017-03-09">09-03-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-02-22">22-02-2017</ondertekeningsdatum><dossierref dossier="34086">34086</dossierref></publicatie><juncto><publicatie soort="Stb" urlidentifier="stb-2019-504"><publicatiejaar>2019</publicatiejaar><publicatienr>504</publicatienr><uitgiftedatum isodatum="2019-12-24">24-12-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-12-18">18-12-2019</ondertekeningsdatum><dossierref dossier="35311">35311</dossierref></publicatie></juncto></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-507"><publicatiejaar>2019</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2019-12-24">24-12-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-12-18">18-12-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=1&amp;g=2021-04-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=1&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="a-2" stam-id="2100733" versie-id="3167182" id="C16580171" label-id="2047824" inwerking="1988-01-01" label="Artikel 2" bron="Stb.1987-598" effect="nieuwe-regeling" ondertekening_bron="1987-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <al>Gratie kan worden verleend </al>
+  <lijst>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>op grond van enige omstandigheid, waarmede de rechter op het tijdstip van zijn beslissing geen of onvoldoende rekening heeft gehouden of kunnen houden en die, ware zij op dat tijdstip wel of voldoende bekend geweest, hem aanleiding zou hebben gegeven tot het opleggen van een andere straf of maatregel, of tot het afzien daarvan; dan wel </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=2&amp;o=a&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>indien aannemelijk is geworden dat met de tenuitvoerlegging van de rechterlijke beslissing of de voortzetting daarvan geen met de strafrechtstoepassing na te streven doel in redelijkheid wordt gediend. </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=2&amp;o=b&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="o=b"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie><inwerkingtreding.datum isodatum="1988-01-01">01-01-1988</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=2&amp;g=2021-04-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=2&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="3232033" versie-id="23974802" id="C37504961" label-id="2047834" inwerking="2020-01-01" label="Artikel 3" bron="Stb.2017-82" effect="wijziging" ondertekening_bron="2017-02-22" publicatie_bron="2017-03-09" publicatie_iwt="2019-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="2047834L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het verzoekschrift wordt ondertekend en bevat ten minste:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de naam en het adres van de indiener;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=3&amp;lid=1&amp;o=a&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de dagtekening;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=3&amp;lid=1&amp;o=b&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de aanduiding van het vonnis of arrest, waarvan gratie wordt verzocht;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=3&amp;lid=1&amp;o=c&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de redenen om welke gratie wordt verzocht.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=3&amp;lid=1&amp;o=d&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+    <al>Het verzoekschrift wordt ingediend op een bij ministeriële regeling vast te stellen formulier.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=3&amp;lid=1&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="2047834L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien het verzoek op grond van <extref doc="jci1.3:c:BWBR0001903&amp;artikel=6:7:5" label-id="13910074" verwijzing-id="2813084" bwb-id="BWBR0001903">artikel 6:7:5 van het Wetboek van Strafvordering</extref> of <extref doc="jci1.3:c:BWBR0028681&amp;artikel=614" label-id="10907604" verwijzing-id="2812897" bwb-id="BWBR0028681">artikel 614 van het Wetboek van Strafvordering BES</extref> door een derde wordt ingediend, geeft degene op wie het verzoek betrekking heeft, op het in het eerste lid bedoelde formulier tevens aan of hij met het verzoek instemt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=3&amp;lid=2&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid3" label-id="2047834L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Indien het formulier niet volledig is ingevuld, wordt de verzoeker in de gelegenheid gesteld de ontbrekende gegevens aan te vullen binnen een termijn van zes weken, ingaande op de dag nadat het verzoek om aanvulling van die gegevens door Onze Minister is verzonden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=3&amp;lid=3&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid4" label-id="2047834L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Indien de termijn voor aanvulling verstrijkt zonder dat de gevraagde gegevens worden ontvangen, en de ontbrekende gegevens essentieel zijn voor de beoordeling van het verzoek of de voorbereiding van de beslissing daarop, kan Onze Minister besluiten het verzoekschrift buiten behandeling te laten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=3&amp;lid=4&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-82"><publicatiejaar>2017</publicatiejaar><publicatienr>82</publicatienr><uitgiftedatum isodatum="2017-03-09">09-03-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-02-22">22-02-2017</ondertekeningsdatum><dossierref dossier="34086">34086</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-507"><publicatiejaar>2019</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2019-12-24">24-12-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-12-18">18-12-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=3&amp;g=2021-04-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=3&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" stam-id="2100743" versie-id="27613032" id="C39017661" label-id="2047844" inwerking="2021-04-01" label="Artikel 4" bron="Stb.2021-125" effect="wijziging" ondertekening_bron="2021-03-03" publicatie_bron="2021-03-12" publicatie_iwt="2021-03-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="2047844L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Omtrent verzoekschriften, overeenkomstig de wettelijke voorschriften ingediend, om vermindering, verandering of kwijtschelding van straffen of maatregelen, bij beslissing van een Nederlandse strafrechter opgelegd, wordt door Onze Minister, voordat daarop wordt beschikt, het advies ingewonnen van het gerecht dat de straf of maatregel heeft opgelegd. Indien het verzoekschrift betrekking heeft op een straf waarvan de gehele of gedeeltelijke tenuitvoerlegging is gelast door een ander gerecht dan hetwelk deze heeft opgelegd, wordt, in afwijking van het voorgaande, het advies ingewonnen van het gerecht dat die tenuitvoerlegging heeft gelast. Verzoekschriften die niet bij Ons zijn ingediend worden onverwijld aan Ons voorgelegd. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=4&amp;lid=1&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="2047844L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Voor de toepassing van het eerste lid wordt als gerecht dat de straf of maatregel heeft opgelegd mede aangemerkt: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel4/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het gerecht dat in hoger beroep een rechterlijke beslissing ten aanzien van de oplegging van straf of van een maatregel heeft bevestigd; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=4&amp;lid=2&amp;o=a&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>het gerecht dat een bezwaar, hem voorgelegd ingevolge <extref doc="jci1.3:c:BWBR0004028&amp;artikel=35" label-id="2723934" verwijzing-id="843419" bwb-id="BWBR0004028">artikel 35 van de Wet overdracht tenuitvoerlegging strafvonnissen</extref> of <extref doc="jci1.3:c:BWBR0028681&amp;artikel=592b" label-id="10907244" verwijzing-id="2575430" bwb-id="BWBR0028681">artikel 592b van het Wetboek van Strafvordering BES</extref>, ongegrond heeft verklaard. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=4&amp;lid=2&amp;o=b&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=4&amp;lid=2&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid3" label-id="2047844L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Omtrent verzoekschriften om vermindering of kwijtschelding van straffen bij rechterlijke beslissing van een buitenlandse rechter opgelegd, waarvan de tenuitvoerlegging met toepassing van <extref doc="jci1.3:c:BWBR0004028&amp;artikel=43" label-id="2724054" verwijzing-id="843413" bwb-id="BWBR0004028">artikel 43 van de Wet overdracht tenuitvoerlegging strafvonnissen</extref> of <extref doc="jci1.3:c:BWBR0028681&amp;artikel=593" label-id="10907284" verwijzing-id="2575431" bwb-id="BWBR0028681">artikel 593 van het Wetboek van Strafvordering BES</extref> in Nederland is gelast, dan wel van gevangenisstraffen die door het Internationaal Strafhof zijn opgelegd wegens een misdrijf gericht tegen de rechtspleging van het Strafhof en waarvan de tenuitvoerlegging in Nederland geschiedt overeenkomstig <extref doc="jci1.3:c:BWBR0013796&amp;artikel=67" label-id="1927714" verwijzing-id="1949333" bwb-id="BWBR0013796">artikel 67</extref> of <extref doc="jci1.3:c:BWBR0013796&amp;artikel=68" label-id="1927734" verwijzing-id="1949334" bwb-id="BWBR0013796">68 van de Uitvoeringswet Internationaal Strafhof</extref>, wordt door Onze Minister, voordat daarop wordt beschikt, het advies ingewonnen van het in genoemd artikel 43 respectievelijk artikel 593 bedoelde gerecht. Omtrent verzoekschriften om vermindering of kwijtschelding van straffen bij rechterlijke beslissing van een buitenlandse rechter opgelegd, waarvan de tenuitvoerlegging met toepassing van <extref doc="jci1.3:c:BWBR0031814&amp;artikel=2:15" label-id="11771984" verwijzing-id="2506957" bwb-id="BWBR0031814">artikel 2:15</extref> of <extref doc="jci1.3:c:BWBR0031814&amp;artikel=3:14" label-id="11772474" verwijzing-id="2506958" bwb-id="BWBR0031814">artikel 3:14 van de Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties</extref> in Nederland geschiedt, wordt door Onze Minister, voordat daarop wordt beschikt, het advies ingewonnen van het gerecht, bedoeld in <extref doc="jci1.3:c:BWBR0031814&amp;artikel=2:11" label-id="11771934" verwijzing-id="2506959" bwb-id="BWBR0031814">artikel 2:11, tweede lid</extref>, respectievelijk artikel 3:14, vijfde, zesde of achtste lid van die wet. Omtrent verzoekschriften om vermindering of kwijtschelding van sancties opgelegd in een andere lidstaat van de Europese Unie, waarvan de tenuitvoerlegging met toepassing van de <extref doc="jci1.3:c:BWBR0031814" label-id="11772774" verwijzing-id="2575432" bwb-id="BWBR0031814">Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen</extref> tot confiscatie in Nederland geschiedt, wordt door Onze Minister, voordat daarop wordt beschikt, het advies ingewonnen van de rechtbank Noord-Nederland. Omtrent verzoekschriften om vermindering of kwijtschelding van straffen bij rechterlijke beslissing van een buitenlandse rechter opgelegd, waarvan de tenuitvoerlegging met toepassing van <extref doc="jci1.3:c:BWBR0016664&amp;artikel=6a" label-id="15824444" verwijzing-id="3063254" bwb-id="BWBR0016664">artikel 6a, eerste en achtste lid, van de Overleveringswet</extref> in Nederland geschiedt, wordt door Onze Minister, voordat daarop wordt beschikt, het advies ingewonnen van de rechtbank, bedoeld in <extref doc="jci1.3:c:BWBR0016664&amp;artikel=1" label-id="5842704" verwijzing-id="3063255" bwb-id="BWBR0016664">artikel 1, onder g, van die wet</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=4&amp;lid=3&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid4" label-id="2047844L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Voor de toepassing van het eerste lid geldt dat indien het meerdere verzoekschriften betreft die betrekking hebben op dezelfde veroordeelde en die tegelijkertijd worden ingediend, kan worden volstaan met het inwinnen van het advies van het gerecht dat de langste of hoogste straf of maatregel heeft opgelegd. Het desbetreffende gerecht brengt één advies uit over alle verzoekschriften en kan daartoe andere gerechten om advies vragen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=4&amp;lid=4&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid5" label-id="2047844L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Het eerste, tweede en derde lid blijven buiten toepassing indien het verzoekschrift:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel4/Lid5/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>wordt ingediend binnen drie maanden nadat het vonnis of arrest waarvan gratie wordt verzocht, onherroepelijk is geworden, en geen nieuwe, na dit tijdstip opgekomen omstandigheid wordt vermeld waarvan de rechter bij diens beslissing niet reeds kennis heeft kunnen nemen, of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=4&amp;lid=5&amp;o=a&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid5/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al> is voorafgegaan door een eerder verzoekschrift betreffende dezelfde straf of maatregel, waarop binnen een jaar voor de indiening van het tweede verzoekschrift is beschikt, tenzij in het tweede verzoekschrift een nieuwe omstandigheid wordt aangevoerd.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=4&amp;lid=5&amp;o=b&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=4&amp;lid=5&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid6" label-id="2047844L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>In de gevallen waarin geen toepassing wordt gegeven aan het vijfde lid, onder a of b, omdat blijkt van een nieuwe omstandigheid, wordt het verzoekschrift in behandeling genomen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=4&amp;lid=6&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid7" label-id="2047844L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Een verzoek om gratie terzake van door de Nederlandse strafrechter onherroepelijk opgelegde taakstraffen blijft buiten behandeling indien het is ingediend gedurende de periode dat de rechter nog niet heeft beslist op een beroepschrift van de veroordeelde tegen de beslissing van het openbaar ministerie om met toepassing van <extref doc="jci1.3:c:BWBR0001903&amp;artikel=6:3:3" label-id="13909114" verwijzing-id="2813086" bwb-id="BWBR0001903">artikel 6:3:3 van het Wetboek van Strafvordering</extref> de vervangende hechtenis te bevelen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=4&amp;lid=7&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid8" label-id="2047844L8">
+    <lidnr status="officieel">8</lidnr>
+    <al> Indien het gerecht waarvan de rechterlijke beslissing afkomstig is, ontbonden of opgeheven is, wordt het advies ingewonnen van het gerecht waaraan de rechtsmacht is opgedragen, tevoren door dat gerecht uitgeoefend. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=4&amp;lid=8&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=8"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-125"><publicatiejaar>2021</publicatiejaar><publicatienr>125</publicatienr><uitgiftedatum isodatum="2021-03-12">12-03-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-03-03">03-03-2021</ondertekeningsdatum><dossierref dossier="35535">35535</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-156"><publicatiejaar>2021</publicatiejaar><publicatienr>156</publicatienr><uitgiftedatum isodatum="2021-03-31">31-03-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-03-19">19-03-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-04-01">01-04-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=4&amp;g=2021-04-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=4&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" stam-id="2100763" versie-id="23974832" id="C37504981" label-id="2047854" inwerking="2020-01-01" label="Artikel 5" bron="Stb.2017-82" effect="wijziging" ondertekening_bron="2017-02-22" publicatie_bron="2017-03-09" publicatie_iwt="2019-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid1" label-id="2047854L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Naar aanleiding van een verzoekschrift kan Onze Minister omtrent de veroordeelde inlichtingen inwinnen bij de daarvoor in aanmerking komende autoriteiten, instellingen of personen. Deze verlenen daaraan hun medewerking.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=5&amp;lid=1&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid2" label-id="2047854L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister kan, indien daartoe naar zijn oordeel aanleiding bestaat, de veroordeelde horen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=5&amp;lid=2&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid3" label-id="2047854L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Onze Minister stelt op basis van de door de verzoeker verstrekte gegevens en de ingevolge het eerste en tweede lid ingewonnen informatie een verslag van bevindingen op.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=5&amp;lid=3&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid4" label-id="2047854L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>In de gevallen waarin het verzoekschrift betrekking heeft op een vonnis of arrest dat is gewezen door de meervoudige kamer of waarbij het openbaar ministerie een advies als bedoeld in <extref doc="jci1.3:c:BWBR0001903&amp;artikel=6:1:10" label-id="13908614" verwijzing-id="2813087" bwb-id="BWBR0001903">artikel 6:1:10 van het Wetboek van Strafvordering</extref> heeft gegeven, zendt Onze Minister het verzoekschrift en zijn verslag van bevindingen naar het openbaar ministerie voor advies. Het openbaar ministerie legt zijn advies neer in een verslag en zendt de stukken vervolgens aan het in <intref doc="jci1.3:c:BWBR0004257&amp;artikel=4&amp;z=2021-04-01&amp;g=2021-04-01" label-id="2047844" verwijzing-id="1615026" bwb-id="BWBR0004257" bwb-ng-variabel-deel="/Artikel4">artikel 4</intref> aangewezen gerecht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=5&amp;lid=4&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid5" label-id="2047854L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>In de overige gevallen zendt Onze Minister het verzoekschrift met zijn verslag van bevindingen rechtstreeks aan het in <intref doc="jci1.3:c:BWBR0004257&amp;artikel=4&amp;z=2021-04-01&amp;g=2021-04-01" label-id="2047844" verwijzing-id="1615027" bwb-id="BWBR0004257" bwb-ng-variabel-deel="/Artikel4">artikel 4</intref> aangewezen gerecht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=5&amp;lid=5&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-82"><publicatiejaar>2017</publicatiejaar><publicatienr>82</publicatienr><uitgiftedatum isodatum="2017-03-09">09-03-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-02-22">22-02-2017</ondertekeningsdatum><dossierref dossier="34086">34086</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-507"><publicatiejaar>2019</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2019-12-24">24-12-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-12-18">18-12-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=5&amp;g=2021-04-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=5&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" stam-id="2100773" versie-id="23974842" id="C37504991" label-id="2047864" inwerking="2020-01-01" label="Artikel 6" bron="Stb.2017-82" effect="wijziging" ondertekening_bron="2017-02-22" publicatie_bron="2017-03-09" publicatie_iwt="2019-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid1" label-id="2047864L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het gerecht kan naar aanleiding van de in <intref doc="jci1.3:c:BWBR0004257&amp;artikel=5&amp;z=2021-04-01&amp;g=2021-04-01" label-id="2047854" verwijzing-id="1615028" bwb-id="BWBR0004257" bwb-ng-variabel-deel="/Artikel5">artikel 5, vierde of vijfde lid</intref>, ontvangen stukken inlichtingen inwinnen bij de daarvoor in aanmerking komende autoriteiten, instellingen of personen. Het gerecht zendt zijn advies, met het op grond van artikel 5, vierde lid, uitgebrachte advies van het openbaar ministerie, aan Onze Minister.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=6&amp;lid=1&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid2" label-id="2047864L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien het uitgebrachte advies daartoe aanleiding geeft, kan Onze Minister aan het openbaar ministerie en het gerecht nader advies vragen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=6&amp;lid=2&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid3" label-id="2047864L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de inrichting van het rechterlijk advies en dat van het openbaar ministerie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=6&amp;lid=3&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-82"><publicatiejaar>2017</publicatiejaar><publicatienr>82</publicatienr><uitgiftedatum isodatum="2017-03-09">09-03-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-02-22">22-02-2017</ondertekeningsdatum><dossierref dossier="34086">34086</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-507"><publicatiejaar>2019</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2019-12-24">24-12-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-12-18">18-12-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=6&amp;g=2021-04-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=6&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="a-7" stam-id="2100783" versie-id="3167232" id="C16580221" label-id="2047874" inwerking="1988-01-01" label="Artikel 7" bron="Stb.1987-598" effect="nieuwe-regeling" ondertekening_bron="1987-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid1" label-id="2047874L1">
+    <lidnr>1</lidnr>
+    <al>Het rechterlijk advies is met redenen omkleed en ondertekend. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=7&amp;lid=1&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid2" label-id="2047874L2">
+    <lidnr>2</lidnr>
+    <al> Zo het rechterlijk advies niet met eenparigheid van stemmen is vastgesteld, wordt het gevoelen van de minderheid met de daarvoor aangevoerde gronden en de verhouding van de stemmen in het advies medegedeeld. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=7&amp;lid=2&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie><inwerkingtreding.datum isodatum="1988-01-01">01-01-1988</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=7&amp;g=2021-04-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=7&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" code="a-8" stam-id="2100793" versie-id="10205232" id="C17747431" label-id="2047884" inwerking="2004-05-01" label="Artikel 8" bron="Stb.2004-50" effect="wijziging" ondertekening_bron="2004-02-05" publicatie_bron="2004-02-17" publicatie_iwt="2004-02-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid1" label-id="2047884L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Verzoekschriften die met toepassing van <intref verwijzing-id="1615030" doc="jci1.3:c:BWBR0004257&amp;artikel=3&amp;z=2021-04-01&amp;g=2021-04-01" bwb-id="BWBR0004257" label-id="2047834" bwb-ng-variabel-deel="/Artikel3">artikel 3, vierde lid</intref>, buiten behandeling zijn gelaten, worden niet aan Ons voorgelegd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=8&amp;lid=1&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid2" label-id="2047884L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Tenzij Wij anders hebben bepaald, is Onze Minister gemachtigd afwijzend op een verzoekschrift om gratie te beschikken, indien hij meent dat het niet voor inwilliging in aanmerking komt en tevens </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel8/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het rechterlijk advies afwijzend luidt, dan wel </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=8&amp;lid=2&amp;o=a&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel8/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de inwinning van het rechterlijk advies op grond van <intref verwijzing-id="1615033" doc="jci1.3:c:BWBR0004257&amp;artikel=4&amp;z=2021-04-01&amp;g=2021-04-01" bwb-id="BWBR0004257" label-id="2047844" bwb-ng-variabel-deel="/Artikel4">artikel 4, vierde lid</intref>, achterwege is gebleven. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=8&amp;lid=2&amp;o=b&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=8&amp;lid=2&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid3" label-id="2047884L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Het tweede lid, aanhef en onder a, blijft buiten toepassing indien het verzoekschrift een of meer vrijheidsstraffen betreft met een gezamenlijke duur van zes jaar of langer dan wel indien het rechterlijk advies niet met eenparigheid van stemmen is vastgesteld. Het bepaalde in het tweede lid blijft tevens buiten toepassing indien overeenkomstig <intref verwijzing-id="1615032" doc="jci1.3:c:BWBR0004257&amp;artikel=10&amp;z=2021-04-01&amp;g=2021-04-01" bwb-id="BWBR0004257" label-id="2047904" bwb-ng-variabel-deel="/Artikel10">artikel 10, eerste volzin</intref>, het gevoelen van een andere Minister is ingewonnen, en deze blijk geeft van een van Onze Minister afwijkend gevoelen over de op het verzoekschrift te nemen beslissing. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=8&amp;lid=3&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2004-50"><publicatiejaar>2004</publicatiejaar><publicatienr>50</publicatienr><uitgiftedatum isodatum="2004-02-17">17-02-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-02-05">05-02-2004</ondertekeningsdatum><dossierref dossier="29217">29217</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2004-50"><publicatiejaar>2004</publicatiejaar><publicatienr>50</publicatienr><uitgiftedatum isodatum="2004-02-17">17-02-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-02-05">05-02-2004</ondertekeningsdatum><dossierref dossier="29217">29217</dossierref></publicatie><inwerkingtreding.datum isodatum="2004-05-01">01-05-2004</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=8&amp;g=2021-04-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=8&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" stam-id="2100803" versie-id="23974852" id="C37505001" label-id="2047894" inwerking="2020-01-01" label="Artikel 9" bron="Stb.2017-82" effect="wijziging" ondertekening_bron="2017-02-22" publicatie_bron="2017-03-09" publicatie_iwt="2019-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+  </kop>
+  <al>Onze Minister zendt de verzoekschriften die niet overeenkomstig het eerste lid van het vorige artikel zijn afgedaan aan Ons toe met zijn voordracht omtrent het op het verzoek te nemen besluit. Bijgevoegd worden het rechterlijk advies en het advies van het openbaar ministerie met de daarbij behorende bescheiden en opgaven. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-82"><publicatiejaar>2017</publicatiejaar><publicatienr>82</publicatienr><uitgiftedatum isodatum="2017-03-09">09-03-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-02-22">22-02-2017</ondertekeningsdatum><dossierref dossier="34086">34086</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-507"><publicatiejaar>2019</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2019-12-24">24-12-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-12-18">18-12-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=9&amp;g=2021-04-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=9&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" stam-id="2100813" versie-id="3167262" id="C42961931" label-id="2047904" inwerking="1988-01-01" label="Artikel 10" bron="Stb.1987-598" effect="nieuwe-regeling" ondertekening_bron="1987-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+  </kop>
+  <al>Indien Wij of Onze Minister het wenselijk achten dat enige andere Minister wordt gehoord voordat op het verzoekschrift wordt beschikt, wint Onze Minister diens gevoelen in. Onverminderd het bepaalde in het <intref doc="jci1.3:c:BWBR0004257&amp;artikel=8&amp;z=2021-04-01&amp;g=2021-04-01" label-id="2047884" verwijzing-id="1632943" bwb-id="BWBR0004257" bwb-ng-variabel-deel="/Artikel8">eerste lid van artikel 8</intref>, wordt de ambtsbrief van die Minister bij de aan Ons toe te zenden stukken gevoegd ofwel wordt door Onze Minister en die Minister aan Ons een gemeenschappelijke voordracht gedaan. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie><inwerkingtreding.datum isodatum="1988-01-01">01-01-1988</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=10&amp;g=2021-04-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=10&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" code="a-11" stam-id="2100823" versie-id="4983482" id="C16580261" label-id="2047914" inwerking="2003-06-01" label="Artikel 11" bron="Stb.2002-551" effect="wijziging" ondertekening_bron="2002-11-07" publicatie_bron="2002-11-19" publicatie_iwt="2003-05-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>11</nr>
+  </kop>
+  <al>Indien Wij of Onze Minister dit wenselijk achten wordt, behalve het advies van het in <intref verwijzing-id="1615034" doc="jci1.3:c:BWBR0004257&amp;artikel=4&amp;z=2021-04-01&amp;g=2021-04-01" bwb-id="BWBR0004257" label-id="2047844" bwb-ng-variabel-deel="/Artikel4">artikel 4</intref> aangewezen gerecht, ook het advies ingewonnen van de Hoge Raad der Nederlanden. Dit advies wordt bij de in <intref verwijzing-id="1615035" doc="jci1.3:c:BWBR0004257&amp;artikel=9&amp;z=2021-04-01&amp;g=2021-04-01" bwb-id="BWBR0004257" label-id="2047894" bwb-ng-variabel-deel="/Artikel9">artikel 9</intref> bedoelde stukken gevoegd. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2002-551"><publicatiejaar>2002</publicatiejaar><publicatienr>551</publicatienr><uitgiftedatum isodatum="2002-11-19">19-11-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-07">07-11-2002</ondertekeningsdatum><dossierref dossier="27798">27798</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2003-156"><publicatiejaar>2003</publicatiejaar><publicatienr>156</publicatienr><uitgiftedatum isodatum="2003-05-13">13-05-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-05-01">01-05-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-06-01">01-06-2003</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Bij Stb. 2002/551 is in artikel III een bepaling betreffende de
+    toepassing gepubliceerd.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=11&amp;g=2021-04-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=11&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=11"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel12" code="a-12" stam-id="2100833" versie-id="4983492" id="C5818271" label-id="2047924" inwerking="2003-06-01" label="Artikel 12" bron="Stb.2002-551" effect="vervallen" ondertekening_bron="2002-11-07" publicatie_bron="2002-11-19" publicatie_iwt="2003-05-13" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>12</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2002-551"><publicatiejaar>2002</publicatiejaar><publicatienr>551</publicatienr><uitgiftedatum isodatum="2002-11-19">19-11-2002</uitgiftedatum><ondertekeningsdatum isodatum="2002-11-07">07-11-2002</ondertekeningsdatum><dossierref dossier="27798">27798</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2003-156"><publicatiejaar>2003</publicatiejaar><publicatienr>156</publicatienr><uitgiftedatum isodatum="2003-05-13">13-05-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-05-01">01-05-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-06-01">01-06-2003</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Bij Stb. 2002/551 is in artikel III een bepaling betreffende de
+    toepassing gepubliceerd.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=12&amp;g=2021-04-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=12&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=12"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13" code="a-13" stam-id="2100843" versie-id="18931452" id="C26514491" label-id="2047934" inwerking="2012-04-01" label="Artikel 13" bron="Stb.2011-545" effect="wijziging" ondertekening_bron="2011-11-17" publicatie_bron="2011-11-25" publicatie_iwt="2011-12-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid1" label-id="2047934L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Gratie kan worden verleend onder voorwaarden die het gedrag van de veroordeelde betreffen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=13&amp;lid=1&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid2" label-id="2047934L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Als voorwaarde kan worden gesteld dat de veroordeelde overeenkomstig de daaromtrent vastgestelde wettelijke voorschriften bepaalde onbetaalde arbeid verricht of een leerproject volgt of, indien de veroordeelde de leeftijd van achttien jaren niet heeft bereikt, arbeid tot herstel van de door het strafbare feit aangerichte schade verricht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=13&amp;lid=2&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid3" label-id="2047934L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Een andere voorwaarde kan zijn de betaling van een bepaalde geldsom aan de Staat. Mede kan de voorwaarde worden gesteld, dat de veroordeelde de door het strafbare feit veroorzaakte schade geheel of voor een bepaald gedeelte zal vergoeden. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=13&amp;lid=3&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid4" label-id="2047934L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> Bij de toepassing van het derde lid bepaalt Onze Minister de plaats waar en de termijn waarbinnen de geldsom moet worden betaald, onderscheidenlijk de schade moet worden vergoed. Hij kan betaling in termijnen toestaan. Hij kan de gestelde termijn of termijnen verlengen met dien verstande dat de totale tijdsduur een tijdvak van twee jaren niet mag overschrijden. De termijn of eerste termijn vangt aan zodra de in <intref verwijzing-id="1632947" doc="jci1.3:c:BWBR0004257&amp;artikel=18&amp;z=2021-04-01&amp;g=2021-04-01" bwb-id="BWBR0004257" label-id="2047984" bwb-ng-variabel-deel="/Artikel18">artikel 18, derde lid</intref>, bedoelde betekening is geschied. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=13&amp;lid=4&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid5" label-id="2047934L5">
+    <lidnr status="officieel">5</lidnr>
+    <al> Voor zover dit bij het besluit waarbij gratie is verleend is bepaald, houdt het openbaar ministerie, onderscheidenlijk - indien het vonnis is uitgesproken met toepassing van de bijzondere strafbepalingen voor jeugdige personen - de raad voor de kinderbescherming, toezicht op de naleving van de gestelde voorwaarden. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=13&amp;lid=5&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2011-545"><publicatiejaar>2011</publicatiejaar><publicatienr>545</publicatienr><uitgiftedatum isodatum="2011-11-25">25-11-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-11-17">17-11-2011</ondertekeningsdatum><dossierref dossier="32319">32319</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2011-615"><publicatiejaar>2011</publicatiejaar><publicatienr>615</publicatienr><uitgiftedatum isodatum="2011-12-20">20-12-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-12-12">12-12-2011</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-04-01">01-04-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=13&amp;g=2021-04-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=13&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=13"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel14" code="a-14" stam-id="2100853" versie-id="3167302" id="C16580281" label-id="2047944" inwerking="1988-01-01" label="Artikel 14" bron="Stb.1987-598" effect="nieuwe-regeling" ondertekening_bron="1987-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>14</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid1" label-id="2047944L1">
+    <lidnr>1</lidnr>
+    <al>Tenzij geen andere voorwaarden zijn gesteld dan die bedoeld in <intref verwijzing-id="1632948" doc="jci1.3:c:BWBR0004257&amp;artikel=13&amp;z=2021-04-01&amp;g=2021-04-01" bwb-id="BWBR0004257" label-id="2047934" bwb-ng-variabel-deel="/Artikel13">artikel 13, derde lid</intref>, zijn de voorwaarden van kracht tot het tijdstip waarop een door Onze Minister te bepalen proeftijd verstrijkt. De proeftijd bedraagt ten hoogste twee jaren. Onze Minister kan deze proeftijd verkorten of verlengen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=14&amp;lid=1&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid2" label-id="2047944L2">
+    <lidnr>2</lidnr>
+    <al> De proeftijd gaat in zodra de in <intref verwijzing-id="1632949" doc="jci1.3:c:BWBR0004257&amp;artikel=18&amp;z=2021-04-01&amp;g=2021-04-01" bwb-id="BWBR0004257" label-id="2047984" bwb-ng-variabel-deel="/Artikel18">artikel 18, derde lid</intref>, bedoelde betekening is geschied. Hij loopt niet gedurende de tijd dat de veroordeelde rechtens zijn vrijheid is ontnomen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=14&amp;lid=2&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie><inwerkingtreding.datum isodatum="1988-01-01">01-01-1988</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=14&amp;g=2021-04-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=14&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=14"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel15" stam-id="2100863" versie-id="21817642" id="C31657831" label-id="2047954" inwerking="2015-01-01" label="Artikel 15" bron="Stb.2014-442" effect="wijziging" ondertekening_bron="2014-11-05" publicatie_bron="2014-11-21" publicatie_iwt="2014-11-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel15/Lid1" label-id="2047954L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister kan aan een krachtens algemene maatregel van bestuur aangewezen reclasseringsinstelling dan wel aan bijzondere, door hem aangewezen ambtenaren opdracht geven de veroordeelde bij de naleving van de voorwaarden hulp en steun te verlenen. Een dergelijke opdracht kan, indien de veroordeling is uitgesproken met toepassing van de bijzondere strafbepalingen voor jeugdige personen ook worden gegeven aan een gecertificeerde instelling als bedoeld in <extref doc="jci1.3:c:BWBR0034925&amp;artikel=1.1" label-id="12577024" verwijzing-id="2665336" bwb-id="BWBR0034925">artikel 1.1 van de Jeugdwet</extref>, een door Onze Minister aan te wijzen voorziening of aan een particulier persoon. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=15&amp;lid=1&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel15/Lid2" label-id="2047954L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Indien de veroordeelde buiten Nederland verblijft, kan de opdracht ook gegeven worden aan een andere instelling of persoon die zich tot aanvaarding van die opdracht bereid heeft verklaard. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=15&amp;lid=2&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-442"><publicatiejaar>2014</publicatiejaar><publicatienr>442</publicatienr><uitgiftedatum isodatum="2014-11-21">21-11-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-05">05-11-2014</ondertekeningsdatum><dossierref dossier="33983">33983</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-443"><publicatiejaar>2014</publicatiejaar><publicatienr>443</publicatienr><uitgiftedatum isodatum="2014-11-21">21-11-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-11-14">14-11-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=15&amp;g=2021-04-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=15&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=15"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel16" code="a-16" stam-id="2100873" versie-id="3167322" id="C16580301" label-id="2047964" inwerking="1988-01-01" label="Artikel 16" bron="Stb.1987-598" effect="nieuwe-regeling" ondertekening_bron="1987-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>16</nr>
+  </kop>
+  <al>Bij koninklijk besluit kunnen, op voorstel van Onze Minister, de voorwaarden gedurende de proeftijd of gedurende de tijd dat deze is geschorst worden aangevuld, gewijzigd of opgeheven. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie><inwerkingtreding.datum isodatum="1988-01-01">01-01-1988</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=16&amp;g=2021-04-01" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=16&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=16"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel17" code="a-17" stam-id="2100883" versie-id="3167332" id="C16580311" label-id="2047974" inwerking="1988-01-01" label="Artikel 17" bron="Stb.1987-598" effect="nieuwe-regeling" ondertekening_bron="1987-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>17</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel17/Lid1" label-id="2047974L1">
+    <lidnr>1</lidnr>
+    <al>Indien de voorwaarden niet worden nageleefd, kan het koninklijk besluit waarbij gratie is verleend bij koninklijk besluit worden herroepen. Deze herroeping vindt niet plaats dan nadat de veroordeelde, alsmede, zo de veroordeling is uitgesproken met toepassing van de bijzondere strafbepalingen voor jeugdige personen, degenen die het gezag over hem uitoefenen, zo enigszins mogelijk door of vanwege het openbaar ministerie zijn gehoord en het van dat verhoor opgemaakte proces-verbaal aan Ons is overgelegd. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=17&amp;lid=1&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel17/Lid2" label-id="2047974L2">
+    <lidnr>2</lidnr>
+    <al> De verleende gratie kan worden herroepen tot uiterlijk drie maanden na het einde van de proeftijd of tot uiterlijk vier maanden na het verstrijken van de krachtens <intref verwijzing-id="1632950" doc="jci1.3:c:BWBR0004257&amp;artikel=13&amp;z=2021-04-01&amp;g=2021-04-01" bwb-id="BWBR0004257" label-id="2047934" bwb-ng-variabel-deel="/Artikel13">artikel 13, vierde lid</intref>, gestelde termijn of laatste termijn. </al>
+    <al>Niettemin kan, indien de veroordeelde terzake van een voor het einde van de proeftijd begaan strafbaar feit is vervolgd en onherroepelijk is strafbaar verklaard, alsnog terzake van het begaan van dat feit binnen drie maanden, nadat de strafbaarverklaring onherroepelijk is geworden, tot herroeping van de verleende gratie worden besloten. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=17&amp;lid=2&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel17/Lid3" label-id="2047974L3">
+    <lidnr>3</lidnr>
+    <al> Indien de in <intref verwijzing-id="1632951" doc="jci1.3:c:BWBR0004257&amp;artikel=13&amp;z=2021-04-01&amp;g=2021-04-01" bwb-id="BWBR0004257" label-id="2047934" bwb-ng-variabel-deel="/Artikel13">artikel 13, tweede lid</intref>, bedoelde voorwaarde slechts gedeeltelijk is nageleefd kan in geval van herroeping naar bevind van omstandigheden worden bepaald dat een deel van de straf zal worden tenuitvoergelegd. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=17&amp;lid=3&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel17/Lid4" label-id="2047974L4">
+    <lidnr>4</lidnr>
+    <al> In geval van herroeping wordt de geldsom teruggegeven, die ter voldoening aan een bij het herroepen besluit gestelde voorwaarde aan de Staat was betaald. Indien gedeeltelijke betaling heeft plaats gehad, kan nochtans bij de herroeping worden bepaald dat het gestorte bedrag niet wordt teruggeven, onder vermindering van de duur van de te ondergane vrijheidsstraf naar evenredigheid. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=17&amp;lid=4&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie><inwerkingtreding.datum isodatum="1988-01-01">01-01-1988</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=17&amp;g=2021-04-01" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=17&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=17"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel18" code="a-18" stam-id="2100893" versie-id="3167342" id="C16580321" label-id="2047984" inwerking="1988-01-01" label="Artikel 18" bron="Stb.1987-598" effect="nieuwe-regeling" ondertekening_bron="1987-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>18</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid1" label-id="2047984L1">
+    <lidnr>1</lidnr>
+    <al>Wanneer gunstig op een verzoek om gratie is beschikt wordt een afschrift van het daartoe strekkende koninklijk besluit aan degene aan wie de straf of maatregel werd opgelegd uitgereikt en de verzoeker, zo deze een ander is, van de gratieverlening in kennis gesteld. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=18&amp;lid=1&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid2" label-id="2047984L2">
+    <lidnr>2</lidnr>
+    <al> Wanneer het verzoek wordt afgewezen stelt Onze Minister degene aan wie de straf of maatregel werd opgelegd en de verzoeker, zo deze een ander is, daarvan onder opgaaf van redenen in kennis. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=18&amp;lid=2&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid3" label-id="2047984L3">
+    <lidnr>3</lidnr>
+    <al> Wanneer gratie is verleend onder voorwaarden, wordt de inhoud van die voorwaarden aan de veroordeelde in persoon betekend en aan degene die met het verlenen van hulp en steun is belast schriftelijk medegedeeld. De inhoud van voorwaarden, gesteld ingevolge <intref verwijzing-id="1632952" doc="jci1.3:c:BWBR0004257&amp;artikel=13&amp;z=2021-04-01&amp;g=2021-04-01" bwb-id="BWBR0004257" label-id="2047934" bwb-ng-variabel-deel="/Artikel13">artikel 13, tweede lid</intref>, wordt tevens schriftelijk medegedeeld aan degene die zorg draagt voor de begeleiding van de tewerkgestelde veroordeelde. </al>
+    <al>Indien de voorwaardelijke gratieverlening een veroordeling betreft welke is uitgesproken met toepassing van de bijzondere strafbepalingen voor jeugdige personen, wordt de inhoud van de voorwaarden tevens ter kennis gebracht van degenen die het gezag over de veroordeelde uitoefenen alsmede van de raad voor de kinderbescherming. Van iedere aanvulling, wijziging of opheffing van de voorwaarden, dan wel van de herroeping van een koninklijk besluit waarbij gratie is verleend, wordt eveneens op deze wijze kennis gegeven. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=18&amp;lid=3&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid4" label-id="2047984L4">
+    <lidnr>4</lidnr>
+    <al> Van de in de drie voorgaande leden van dit artikel bedoelde beschikkingen wordt een kennisgeving gezonden aan het gerecht dat omtrent het verzoekschrift heeft geadviseerd. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=18&amp;lid=4&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid5" label-id="2047984L5">
+    <lidnr>5</lidnr>
+    <al> Van de in het eerste en derde lid bedoelde beschikkingen, die betrekking hebben op verzoekschriften om gratie terzake van straffen of maatregelen opgelegd bij: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Artikel18/Lid5/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>rechterlijke beslissingen gegeven door een Nederlandse strafrechter, waarvan de tenuitvoerlegging aan een vreemde staat is overgedragen, of </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=18&amp;lid=5&amp;o=a&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel18/Lid5/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>rechterlijke beslissingen gegeven in een vreemde staat, waarvan de tenuitvoerlegging aan Nederland is overgedragen, </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=18&amp;lid=5&amp;o=b&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+    <al>zendt Onze Minister tevens een kennisgeving aan de bevoegde autoriteit van die vreemde staat. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=18&amp;lid=5&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie><inwerkingtreding.datum isodatum="1988-01-01">01-01-1988</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=18&amp;g=2021-04-01" onderdeel="artikel=18" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=18"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=18&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=18" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=18"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel19" stam-id="2100903" versie-id="23974862" id="C37505011" label-id="2047994" inwerking="2020-01-01" label="Artikel 19" bron="Stb.2017-82" effect="wijziging" ondertekening_bron="2017-02-22" publicatie_bron="2017-03-09" publicatie_iwt="2019-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">19</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel19/Lid1" label-id="2047994L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien bijzondere omstandigheden Onze Minister aanleiding geven om, zonder dat een daartoe strekkend verzoekschrift is ingediend, een voorstel tot gratieverlening in overweging te nemen, wordt het advies ingewonnen van het in <intref doc="jci1.3:c:BWBR0004257&amp;artikel=4&amp;z=2021-04-01&amp;g=2021-04-01" label-id="2047844" verwijzing-id="1615036" bwb-id="BWBR0004257" bwb-ng-variabel-deel="/Artikel4">artikel 4</intref> aangewezen gerecht. Tenzij, met Onze machtiging, Onze Minister anders bepaalt, zijn de <extref doc="jci1.3:c:BWBR0001903&amp;artikel=6:7:4" label-id="13910064" verwijzing-id="2813088" bwb-id="BWBR0001903">artikelen 6:7:4 van het Wetboek van Strafvordering</extref> en <intref doc="jci1.3:c:BWBR0004257&amp;artikel=5&amp;z=2021-04-01&amp;g=2021-04-01" label-id="2047854,2047864,2047874" verwijzing-id="1615037" bwb-id="BWBR0004257" bwb-ng-variabel-deel="/Artikel5">5 tot en met 7</intref> en <intref doc="jci1.3:c:BWBR0004257&amp;artikel=9&amp;z=2021-04-01&amp;g=2021-04-01" label-id="2047894,2047904,2047914" verwijzing-id="1615038" bwb-id="BWBR0004257" bwb-ng-variabel-deel="/Artikel9">9 tot en met 11 van deze wet</intref> van overeenkomstige toepassing. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=19&amp;lid=1&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel19/Lid2" label-id="2047994L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Wanneer in zodanig geval gratie wordt verleend, zijn de <intref doc="jci1.3:c:BWBR0004257&amp;artikel=13&amp;z=2021-04-01&amp;g=2021-04-01" label-id="2047934,2047944,2047954,2047964,2047974" verwijzing-id="1615039" bwb-id="BWBR0004257" bwb-ng-variabel-deel="/Artikel13">artikelen 13 tot en met 17</intref> en <intref doc="jci1.3:c:BWBR0004257&amp;artikel=18&amp;z=2021-04-01&amp;g=2021-04-01" label-id="2047984" verwijzing-id="1615040" bwb-id="BWBR0004257" bwb-ng-variabel-deel="/Artikel18">18, eerste, derde, vierde en vijfde lid</intref>, van toepassing. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=19&amp;lid=2&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-82"><publicatiejaar>2017</publicatiejaar><publicatienr>82</publicatienr><uitgiftedatum isodatum="2017-03-09">09-03-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-02-22">22-02-2017</ondertekeningsdatum><dossierref dossier="34086">34086</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-507"><publicatiejaar>2019</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2019-12-24">24-12-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-12-18">18-12-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=19&amp;g=2021-04-01" onderdeel="artikel=19" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=19"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=19&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=19" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=19"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel20" code="a-20" stam-id="2100913" versie-id="3167362" id="C16580341" label-id="2048004" inwerking="1988-01-01" label="Artikel 20" bron="Stb.1987-598" effect="nieuwe-regeling" ondertekening_bron="1987-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>20</nr>
+  </kop>
+  <al>De <intref verwijzing-id="1632957" doc="jci1.3:c:BWBR0004257&amp;artikel=2&amp;z=2021-04-01&amp;g=2021-04-01" bwb-id="BWBR0004257" label-id="2047824" bwb-ng-variabel-deel="/Artikel2">artikelen 2</intref> tot en met <intref verwijzing-id="1632958" doc="jci1.3:c:BWBR0004257&amp;artikel=19&amp;z=2021-04-01&amp;g=2021-04-01" bwb-id="BWBR0004257" label-id="2047994" bwb-ng-variabel-deel="/Artikel19">19</intref> blijven van toepassing, indien een straf of maatregel bij wege van gratie is verminderd of veranderd en daarvan alsnog vermindering of kwijtschelding wordt verzocht. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie><inwerkingtreding.datum isodatum="1988-01-01">01-01-1988</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=20&amp;g=2021-04-01" onderdeel="artikel=20" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=20"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=20&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=20" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=20"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel21" code="a-21" stam-id="2100923" versie-id="3167372" id="C3167371" label-id="2048014" inwerking="1988-01-01" label="Artikel 21" bron="Stb.1987-598" effect="nieuwe-regeling" ondertekening_bron="1987-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>21</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie><inwerkingtreding.datum isodatum="1988-01-01">01-01-1988</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=21&amp;g=2021-04-01" onderdeel="artikel=21" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=21"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=21&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=21" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=21"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel22" code="a-22" stam-id="2100933" versie-id="3167382" id="C3167381" label-id="2048024" inwerking="1988-01-01" label="Artikel 22" bron="Stb.1987-598" effect="nieuwe-regeling" ondertekening_bron="1987-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>22</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie><inwerkingtreding.datum isodatum="1988-01-01">01-01-1988</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=22&amp;g=2021-04-01" onderdeel="artikel=22" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=22"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=22&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=22" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=22"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel23" code="a-23" stam-id="2100943" versie-id="3167392" id="C3167391" label-id="2048034" inwerking="1988-01-01" label="Artikel 23" bron="Stb.1987-598" effect="nieuwe-regeling" ondertekening_bron="1987-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>23</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie><inwerkingtreding.datum isodatum="1988-01-01">01-01-1988</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=23&amp;g=2021-04-01" onderdeel="artikel=23" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=23"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=23&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=23" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=23"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel24" code="a-24" stam-id="2100953" versie-id="3167402" id="C3167401" label-id="2048044" inwerking="1988-01-01" label="Artikel 24" bron="Stb.1987-598" effect="nieuwe-regeling" ondertekening_bron="1987-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>24</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie><inwerkingtreding.datum isodatum="1988-01-01">01-01-1988</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=24&amp;g=2021-04-01" onderdeel="artikel=24" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=24"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=24&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=24" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=24"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel25" code="a-25" stam-id="2100963" versie-id="3167412" id="C3167411" label-id="2048054" inwerking="1988-01-01" label="Artikel 25" bron="Stb.1987-598" effect="nieuwe-regeling" ondertekening_bron="1987-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>25</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie><inwerkingtreding.datum isodatum="1988-01-01">01-01-1988</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=25&amp;g=2021-04-01" onderdeel="artikel=25" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=25"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=25&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=25" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=25"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel26" code="a-26" stam-id="2100973" versie-id="3167422" id="C16580351" label-id="2048064" inwerking="1988-01-01" label="Artikel 26" bron="Stb.1987-598" effect="nieuwe-regeling" ondertekening_bron="1987-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>26</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel26/Lid1" label-id="2048064L1">
+    <lidnr>1</lidnr>
+    <al>Deze Wet en <extref doc="jci1.3:c:BWBR0001840&amp;artikel=122" verwijzing-id="843422" bwb-id="BWBR0001840" label-id="2941824">artikel 122, eerste lid, van de Grondwet</extref> treden in werking op 1 januari 1988 of op een eerder bij koninklijk besluit te bepalen tijdstip. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=26&amp;lid=1&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel26/Lid2" label-id="2048064L2">
+    <lidnr>2</lidnr>
+    <al> Verzoekschriften om gratie, die voordien zijn ingediend, doch waarover op dat tijdstip nog niet is beslist, worden met inachtneming van de bepalingen van deze Wet afgehandeld. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=26&amp;lid=2&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie><inwerkingtreding.datum isodatum="1988-01-01">01-01-1988</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=26&amp;g=2021-04-01" onderdeel="artikel=26" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=26"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=26&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=26" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=26"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel26a" code="n1-26a" stam-id="10658723" versie-id="17607332" id="C25551971" label-id="10633304" inwerking="2010-10-10" label="Artikel 26a" bron="Stb.2010-350" effect="nieuw" ondertekening_bron="2010-05-17" publicatie_bron="2010-09-01" publicatie_iwt="2010-10-07" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">26a</nr>
+  </kop>
+  <al>Een verzoekschrift om gratie dat voor het tijdstip van transitie, bedoeld in <extref doc="jci1.3:c:BWBR0028063&amp;artikel=1" verwijzing-id="2368932" bwb-id="BWBR0028063" label-id="10615074">artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba</extref>, is ingediend bij de griffie van het Gemeenschappelijk Hof van Justitie van de Nederlandse Antillen en Aruba en waarover op dat tijdstip nog niet is beslist, wordt geacht te zijn ingediend bij het Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba en wordt met inachtneming van de bepalingen van deze wet afgehandeld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2010-350"><publicatiejaar>2010</publicatiejaar><publicatienr>350</publicatienr><uitgiftedatum isodatum="2010-09-01">01-09-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-05-17">17-05-2010</ondertekeningsdatum><dossierref dossier="31959">31959</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2010-389"><publicatiejaar>2010</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2010-10-07">07-10-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-09-30">30-09-2010</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2010-10-10">10-10-2010</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van Nederland.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=26a&amp;g=2021-04-01" onderdeel="artikel=26a" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=26a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=26a&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=26a" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=26a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel27" code="a-27" stam-id="2100983" versie-id="3167432" id="C16580361" label-id="2048074" inwerking="1988-01-01" label="Artikel 27" bron="Stb.1987-598" effect="nieuwe-regeling" ondertekening_bron="1987-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>27</nr>
+  </kop>
+  <al>Deze Wet kan worden aangehaald als "Gratiewet". </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie><inwerkingtreding.datum isodatum="1988-01-01">01-01-1988</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;artikel=27&amp;g=2021-04-01" onderdeel="artikel=27" korte-verwijzing="1.0:c:BWBR0004257&amp;artikel=27"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;artikel=27&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="artikel=27" korte-verwijzing="jci1.3:c:BWBR0004257&amp;artikel=27"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="2100993" versie-id="3167442" id="C3167441" label-id="2048084" inwerking="1988-01-01" bron="Stb.1987-598" effect="nieuwe-regeling" ondertekening_bron="1987-12-23" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden. </al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage </plaats>
+      <datum isodatum="">23 december 1987 </datum>
+    </dagtekening>
+    <koning>Beatrix </koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Justitie, </functie>
+    <naam>
+      <achternaam>F. Korthals Altes </achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Staatssecretaris van Justitie, </functie>
+    <naam>
+      <achternaam>V. N. M. Korte-van Hemel </achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de negenentwintigste december 1987 </datum>
+    <ondertekening>
+      <functie>De Minister van Justitie, </functie>
+      <naam>
+        <achternaam>F. Korthals Altes </achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>598</publicatienr><ondertekeningsdatum isodatum="1987-12-23">23-12-1987</ondertekeningsdatum><dossierref dossier="19075">19075</dossierref></publicatie><inwerkingtreding.datum isodatum="1988-01-01">01-01-1988</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2010-350"><publicatiejaar>2010</publicatiejaar><publicatienr>350</publicatienr><uitgiftedatum isodatum="2010-09-01">01-09-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-05-17">17-05-2010</ondertekeningsdatum><dossierref dossier="31959">31959</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2010-350"><publicatiejaar>2010</publicatiejaar><publicatienr>350</publicatienr><uitgiftedatum isodatum="2010-09-01">01-09-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-05-17">17-05-2010</ondertekeningsdatum><dossierref dossier="31959">31959</dossierref></publicatie><inwerkingtreding.datum isodatum="2010-05-17">17-05-2010</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004257&amp;g=2021-04-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0004257"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004257&amp;z=2021-04-01&amp;g=2021-04-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0004257"/></jcis></meta-data></wetgeving></toestand>

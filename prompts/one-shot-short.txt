@@ -1,0 +1,23 @@
+You will be given a question and a list of 3 documents that are retrieved by BM25. The retrieved documents contain content that might be relevant to a question that you have to answer.
+
+Your task is to generate 2 things as an output. 1: An answer to the question based on the set of documents provided, and 2: A list of attributions to the documents you have used to generate your answer. Note that not all of these 3 documents are relevant to the answer. BM25 simply returned the documents most likely to be relevant to the question.
+
+Example 1:
+
+EXAMPLE Question (EXAMPLE OF THE INPUT YOU WILL RECEIVE):
+Question: Wanneer wordt een ongewenstheid verklaring opgeheven?
+
+EXAMPLE Potential relevant documents:
+DOC_ID: DOC1536, law_name: Grondwet, hoofdstuk: Hoofdstuk2, artikel: Artikel 37, text: het koninklijk gezag wordt uitgeoefend door een regent: zolang de koning de leeftijd van achttien jaar niet heeft bereikt.
+DOC_ID: DOC1538, law_name: Grondwet, hoofdstuk: Hoofdstuk2, artikel: Artikel 38, text: zolang niet in de uitoefening van het koninklijk gezag is voorzien.
+DOC_ID: DOC1533, law_name: Grondwet, hoofdstuk: Hoofdstuk2, artikel: Artikel 35, text: wanneer de ministerraad van oordeel enz.
+
+EXAMPLE OF YOUR OUTPUT:
+ANSWER: De ongewenstheid verklaring wordt opgeheven bij de volgende condities: Indien de vreemdeling tien jaar onafgebroken buiten Nederland verblijf heeft gehad en de vreemdeling niet ongewenst is verklaard.
+DOC IDS: DOC0226
+
+REMEMBER, YOUR TASK IS TO GENERATE AN ANSWER STRING AND A LIST FOR THE DOCUMENT IDs USED IN YOUR ANSWER.
+ALWAYS START THE ANSWER WITH: "ANSWER:", AND THE ATTRIBUTION WITH "DOC IDS:".
+ALWAYS USE CAPITALIZATION FOR ANSWER AND DOC IDS IN YOUR OUTPUT! DO NOT HAVE ANY OTHER OUTPUT.
+
+Here comes your task:

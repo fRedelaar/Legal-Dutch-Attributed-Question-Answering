@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0008754/2016-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0008754" inwerkingtreding="2016-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="586703" versie-id="855212" id="C855211" label-id="569344" inwerkingtredingsdatum="1998-01-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="586833" versie-id="854732" id="C854731" label-id="569094" inwerking="1998-01-01" bron="Stb.1997-285" effect="nieuwe-regeling" ondertekening_bron="1997-06-19" publicatie_bron="1997-07-10" publicatie_iwt="1997-12-29" status="goed">Wet van 19 juni 1997, houdende regels inzake de verstrekking van subsidies door de Minister van Sociale Zaken en Werkgelegenheid (Kaderwet SZW-subsidies)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-285"><publicatiejaar>1997</publicatiejaar><publicatienr>285</publicatienr><uitgiftedatum isodatum="1997-07-10">10-07-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-06-19">19-06-1997</ondertekeningsdatum><dossierref dossier="25241">25241</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-758"><publicatiejaar>1997</publicatiejaar><publicatienr>758</publicatienr><uitgiftedatum isodatum="1997-12-29">29-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-15">15-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="586853" versie-id="854752" id="C854751" label-id="569114" inwerking="1998-01-01" bron="Stb.1997-285" effect="nieuwe-regeling" ondertekening_bron="1997-06-19" publicatie_bron="1997-07-10" publicatie_iwt="1997-12-29">Kaderwet SZW-subsidies<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-285"><publicatiejaar>1997</publicatiejaar><publicatienr>285</publicatienr><uitgiftedatum isodatum="1997-07-10">10-07-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-06-19">19-06-1997</ondertekeningsdatum><dossierref dossier="25241">25241</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-758"><publicatiejaar>1997</publicatiejaar><publicatienr>758</publicatienr><uitgiftedatum isodatum="1997-12-29">29-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-15">15-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="586873" versie-id="854772" id="C854771" label-id="569134" inwerking="1998-01-01" bron="Stb.1997-285" effect="nieuwe-regeling" ondertekening_bron="1997-06-19" publicatie_bron="1997-07-10" publicatie_iwt="1997-12-29" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat de totstandkoming van de derde tranche van de <extref doc="jci1.3:c:BWBR0005537" verwijzing-id="166643" bwb-id="BWBR0005537" label-id="2816734">Algemene wet bestuursrecht</extref> het wenselijk maakt een wettelijk kader te scheppen voor de verstrekking van subsidies door de Minister van Sociale Zaken en Werkgelegenheid;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-285"><publicatiejaar>1997</publicatiejaar><publicatienr>285</publicatienr><uitgiftedatum isodatum="1997-07-10">10-07-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-06-19">19-06-1997</ondertekeningsdatum><dossierref dossier="25241">25241</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-758"><publicatiejaar>1997</publicatiejaar><publicatienr>758</publicatienr><uitgiftedatum isodatum="1997-12-29">29-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-15">15-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" code="b1-1" stam-id="586893" versie-id="15001852" id="C20458971" label-id="569154" inwerking="2008-01-01" label="Artikel 1" bron="Stb.2007-551" effect="wijziging" ondertekening_bron="2007-11-29" publicatie_bron="2007-12-21" publicatie_iwt="2007-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid1" label-id="569154L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid of Onze Minister die belast is met de zorg voor een of meer onderdelen van het beleid, genoemd in <intref verwijzing-id="2184630" doc="jci1.3:c:BWBR0008754&amp;artikel=2&amp;z=2016-01-01&amp;g=2016-01-01" bwb-id="BWBR0008754" label-id="569174" bwb-ng-variabel-deel="/Artikel2">artikel 2</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=1&amp;lid=1&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid2" label-id="569154L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Deze wet is van toepassing op de verstrekking van subsidie door Onze Minister, behoudens indien die subsidie wordt verstrekt krachtens een andere wet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=1&amp;lid=2&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2007-551"><publicatiejaar>2007</publicatiejaar><publicatienr>551</publicatienr><uitgiftedatum isodatum="2007-12-21">21-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-29">29-11-2007</ondertekeningsdatum><dossierref dossier="31229">31229</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2007-552"><publicatiejaar>2007</publicatiejaar><publicatienr>552</publicatienr><uitgiftedatum isodatum="2007-12-21">21-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-14">14-12-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008754&amp;artikel=1&amp;g=2016-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0008754&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=1&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0008754&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="b1-2" stam-id="586913" versie-id="20615092" id="C29511131" label-id="569174" inwerking="2013-07-01" label="Artikel 2" bron="Stb.2013-236" effect="wijziging" ondertekening_bron="2013-06-19" publicatie_bron="2013-06-28" publicatie_iwt="2013-06-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <al>Onze Minister kan subsidies verstrekken voor activiteiten welke passen in:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>het werkgelegenheidsbeleid en het arbeidsmarktbeleid;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=2&amp;o=a&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>het arbeidsomstandighedenbeleid;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=2&amp;o=b&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>het arbeidsverhoudingenbeleid;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=2&amp;o=c&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>het inkomensbeleid;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=2&amp;o=d&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeele">
+      <li.nr>e.</li.nr>
+      <al>het sociale zekerheidsbeleid;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=2&amp;o=e&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeelf">
+      <li.nr>f.</li.nr>
+      <al>het kinderopvangbeleid;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=2&amp;o=f&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeelg">
+      <li.nr>g.</li.nr>
+      <al>het inburgeringsbeleid en het integratiebeleid.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=2&amp;o=g&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="o=g"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-236"><publicatiejaar>2013</publicatiejaar><publicatienr>236</publicatienr><uitgiftedatum isodatum="2013-06-28">28-06-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-06-19">19-06-2013</ondertekeningsdatum><dossierref dossier="33556">33556</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-261"><publicatiejaar>2013</publicatiejaar><publicatienr>261</publicatienr><uitgiftedatum isodatum="2013-06-28">28-06-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-06-14">14-06-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-07-01">01-07-2013</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2012-11-05">05-11-2012</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008754&amp;artikel=2&amp;g=2016-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0008754&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=2&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0008754&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="586933" versie-id="22842812" id="C33016051" label-id="569194" inwerking="2016-01-01" label="Artikel 3" bron="Stb.2015-464" effect="wijziging" ondertekening_bron="2015-11-25" publicatie_bron="2015-12-10" publicatie_iwt="2015-12-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="569194L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onverminderd <extref doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=3" label-id="186674" verwijzing-id="166645" bwb-id="BWBR0008290">hoofdstuk 3 van de Financiële-verhoudingswet</extref> kunnen bij of krachtens algemene maatregel van bestuur of bij regeling van Onze Minister terzake van de verstrekking van subsidie regels worden gesteld met betrekking tot:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de activiteiten waarvoor subsidie kan worden verstrekt en wie daarvoor in aanmerking komt; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=3&amp;lid=1&amp;o=a&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>het bedrag van de subsidie dan wel de wijze waarop dit bedrag wordt bepaald;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=3&amp;lid=1&amp;o=b&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de aanvraag van een subsidie en de besluitvorming daarover;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=3&amp;lid=1&amp;o=c&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de voorwaarden waaronder de subsidie wordt verleend;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=3&amp;lid=1&amp;o=d&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>de verplichtingen van de subsidie-ontvanger;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=3&amp;lid=1&amp;o=e&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>de vaststelling van de subsidie;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=3&amp;lid=1&amp;o=f&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>intrekking en wijziging van de subsidieverlening of -vaststelling;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=3&amp;lid=1&amp;o=g&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="o=g"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelh">
+        <li.nr>h.</li.nr>
+        <al>de betaling van de subsidie en het verlenen van voorschotten;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=3&amp;lid=1&amp;o=h&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="o=h"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeeli">
+        <li.nr>i.</li.nr>
+        <al>andere criteria voor de verstrekking van subsidie.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=3&amp;lid=1&amp;o=i&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="o=i"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=3&amp;lid=1&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="569194L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>In afwijking van <extref doc="jci1.3:c:BWBR0005537&amp;artikel=4:21" label-id="2819194" verwijzing-id="166647" bwb-id="BWBR0005537">artikel 4:21, derde lid, van de Algemene wet bestuursrecht</extref> is titel 4.2 van die wet van toepassing op subsidies die worden verstrekt op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in het eerste lid, die uitsluitend voorziet in verstrekking aan rechtspersonen die krachtens publiekrecht zijn ingesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=3&amp;lid=2&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid3" label-id="569194L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Onze Minister kan bij het verwerken van persoonsgegevens in het kader van subsidieverstrekking op grond van deze wet gebruik maken van het burgerservicenummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer met het oog op rapportage over en evaluatie van de besteding van subsidie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=3&amp;lid=3&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid4" label-id="569194L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De subsidie-ontvanger vermeldt bij het verstrekken van persoonsgegevens aan Onze Minister in verband met de besteding van subsidie het burgerservicenummer van de persoon op wie de persoonsgegevens betrekking hebben.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=3&amp;lid=4&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2015-464"><publicatiejaar>2015</publicatiejaar><publicatienr>464</publicatienr><uitgiftedatum isodatum="2015-12-10">10-12-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-11-25">25-11-2015</ondertekeningsdatum><dossierref dossier="34273">34273</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2015-465"><publicatiejaar>2015</publicatiejaar><publicatienr>465</publicatienr><uitgiftedatum isodatum="2015-12-10">10-12-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-02">02-12-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-01-01">01-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008754&amp;artikel=3&amp;g=2016-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0008754&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=3&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0008754&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="b1-4" stam-id="586953" versie-id="854852" id="C5197801" label-id="569214" inwerking="1998-01-01" label="Artikel 4" bron="Stb.1997-285" effect="nieuwe-regeling" ondertekening_bron="1997-06-19" publicatie_bron="1997-07-10" publicatie_iwt="1997-12-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>4</nr>
+  </kop>
+  <al>Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in <intref verwijzing-id="1625551" doc="jci1.3:c:BWBR0008754&amp;artikel=3&amp;z=2016-01-01&amp;g=2016-01-01" bwb-id="BWBR0008754" label-id="569194" bwb-ng-variabel-deel="/Artikel3">artikel 3</intref>, tenzij het een subsidie betreft:</al>
+  <lijst>
+    <li bwb-ng-variabel-deel="/Artikel4/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>als bedoeld in <extref doc="jci1.3:c:BWBR0005537&amp;artikel=4:23" verwijzing-id="166648" bwb-id="BWBR0005537" label-id="2819214">artikel 4:23, derde lid, van de Algemene wet bestuursrecht</extref> of</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=4&amp;o=a&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel4/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>waarvan de voorgenomen verstrekking tevoren is meegedeeld aan de beide Kamers der Staten-Generaal.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=4&amp;o=b&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-285"><publicatiejaar>1997</publicatiejaar><publicatienr>285</publicatienr><uitgiftedatum isodatum="1997-07-10">10-07-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-06-19">19-06-1997</ondertekeningsdatum><dossierref dossier="25241">25241</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-758"><publicatiejaar>1997</publicatiejaar><publicatienr>758</publicatienr><uitgiftedatum isodatum="1997-12-29">29-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-15">15-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008754&amp;artikel=4&amp;g=2016-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0008754&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=4&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0008754&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="b1-5" stam-id="586973" versie-id="854872" id="C854871" label-id="569234" inwerking="1998-01-01" label="Artikel 5" bron="Stb.1997-285" effect="nieuwe-regeling" ondertekening_bron="1997-06-19" publicatie_bron="1997-07-10" publicatie_iwt="1997-12-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>5</nr>
+  </kop>
+  <al>Onze Minister stelt een subsidieplafond vast voor de verschillende activiteiten waarvoor op grond van deze wet subsidie kan worden verstrekt en bepaalt daarbij hoe het beschikbare bedrag wordt verdeeld, tenzij Onze Minister van Financiën heeft ingestemd met het achterwege laten daarvan.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-285"><publicatiejaar>1997</publicatiejaar><publicatienr>285</publicatienr><uitgiftedatum isodatum="1997-07-10">10-07-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-06-19">19-06-1997</ondertekeningsdatum><dossierref dossier="25241">25241</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-758"><publicatiejaar>1997</publicatiejaar><publicatienr>758</publicatienr><uitgiftedatum isodatum="1997-12-29">29-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-15">15-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008754&amp;artikel=5&amp;g=2016-01-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0008754&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=5&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0008754&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="b1-6" stam-id="586993" versie-id="854892" id="C854891" label-id="569254" inwerking="1998-01-01" label="Artikel 6" bron="Stb.1997-285" effect="nieuwe-regeling" ondertekening_bron="1997-06-19" publicatie_bron="1997-07-10" publicatie_iwt="1997-12-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+  </kop>
+  <al>Een subsidie ten laste van een begroting die nog niet is vastgesteld wordt verleend onder de voorwaarde, bedoeld in <extref doc="jci1.3:c:BWBR0005537&amp;artikel=4:34" verwijzing-id="166649" bwb-id="BWBR0005537" label-id="2819344">artikel 4:34 van de Algemene wet bestuursrecht</extref>.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-285"><publicatiejaar>1997</publicatiejaar><publicatienr>285</publicatienr><uitgiftedatum isodatum="1997-07-10">10-07-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-06-19">19-06-1997</ondertekeningsdatum><dossierref dossier="25241">25241</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-758"><publicatiejaar>1997</publicatiejaar><publicatienr>758</publicatienr><uitgiftedatum isodatum="1997-12-29">29-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-15">15-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008754&amp;artikel=6&amp;g=2016-01-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0008754&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=6&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0008754&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="b1-7" stam-id="587013" versie-id="16517062" id="C22726641" label-id="569274" inwerking="2009-07-01" label="Artikel 7" bron="Stb.2009-265" effect="wijziging" ondertekening_bron="2009-06-25" publicatie_bron="2009-06-30" publicatie_iwt="2009-06-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid1" label-id="569274L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een aanvraag kan worden afgewezen en een beschikking tot subsidieverstrekking op grond van deze wet kan worden ingetrokken of gewijzigd voorzover subsidieverstrekking in strijd zou zijn respectievelijk in strijd is met ingevolge een verdrag voor de staat geldende verplichtingen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=7&amp;lid=1&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid2" label-id="569274L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Bij de intrekking of wijziging kan worden bepaald, dat over onverschuldigd betaalde subsidiebedragen een rentevergoeding verschuldigd is.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=7&amp;lid=2&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid3" label-id="569274L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is verstrekt, tenzij bij de intrekking of wijziging anders is bepaald.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=7&amp;lid=3&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid4" label-id="569274L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De <extref doc="jci1.3:c:BWBR0005537&amp;artikel=4:49" verwijzing-id="166650" bwb-id="BWBR0005537" label-id="2819524">artikelen 4:49</extref>, derde lid, en <extref doc="jci1.3:c:BWBR0005537&amp;artikel=4:57" verwijzing-id="2284368" bwb-id="BWBR0005537" label-id="2819614">4:57, vierde lid, van de Algemene wet bestuursrecht</extref> zijn niet van toepassing op de intrekking of wijziging, bedoeld in het eerste lid. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=7&amp;lid=4&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-265"><publicatiejaar>2009</publicatiejaar><publicatienr>265</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum><dossierref dossier="31124">31124</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-266"><publicatiejaar>2009</publicatiejaar><publicatienr>266</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-07-01">01-07-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008754&amp;artikel=7&amp;g=2016-01-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0008754&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=7&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0008754&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" code="b1-8" stam-id="587023" versie-id="854922" id="C854921" label-id="569284" inwerking="1998-01-01" label="Artikel 8" bron="Stb.1997-285" effect="nieuwe-regeling" ondertekening_bron="1997-06-19" publicatie_bron="1997-07-10" publicatie_iwt="1997-12-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>8</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid1" label-id="569284L1">
+    <lidnr>1</lidnr>
+    <al>Met het toezicht op de naleving van de bij of krachtens deze wet aan de subsidieontvanger opgelegde verplichtingen zijn belast de bij besluit van Onze Minister aangewezen personen. Van dat besluit wordt mededeling gedaan door plaatsing in de <nadruk type="cur">Staatscourant</nadruk>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=8&amp;lid=1&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid2" label-id="569284L2">
+    <lidnr>2</lidnr>
+    <al>Aan subsidies op grond van deze wet is de verplichting verbonden dat de subsidieontvanger aan een toezichthouder alle medewerking verleent die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=8&amp;lid=2&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-285"><publicatiejaar>1997</publicatiejaar><publicatienr>285</publicatienr><uitgiftedatum isodatum="1997-07-10">10-07-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-06-19">19-06-1997</ondertekeningsdatum><dossierref dossier="25241">25241</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-758"><publicatiejaar>1997</publicatiejaar><publicatienr>758</publicatienr><uitgiftedatum isodatum="1997-12-29">29-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-15">15-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008754&amp;artikel=8&amp;g=2016-01-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0008754&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=8&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0008754&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" stam-id="587243" versie-id="22842822" id="C33016061" label-id="569294" inwerking="2016-01-01" label="Artikel 9" bron="Stb.2015-464" effect="wijziging" ondertekening_bron="2015-11-25" publicatie_bron="2015-12-10" publicatie_iwt="2015-12-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+  </kop>
+  <al>Deze wet is, met uitzondering van <intref doc="jci1.3:c:BWBR0008754&amp;artikel=3&amp;z=2016-01-01&amp;g=2016-01-01" label-id="569194" verwijzing-id="1625552" bwb-id="BWBR0008754" bwb-ng-variabel-deel="/Artikel3">artikel 3, tweede lid</intref>, van overeenkomstige toepassing op spoedeisende, tijdelijke verstrekking door Onze Minister van aanspraken op financiële middelen, niet zijnde subsidies, behoudens indien die aanspraak wordt verstrekt krachtens een andere wet. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2015-464"><publicatiejaar>2015</publicatiejaar><publicatienr>464</publicatienr><uitgiftedatum isodatum="2015-12-10">10-12-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-11-25">25-11-2015</ondertekeningsdatum><dossierref dossier="34273">34273</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2015-465"><publicatiejaar>2015</publicatiejaar><publicatienr>465</publicatienr><uitgiftedatum isodatum="2015-12-10">10-12-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-02">02-12-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-01-01">01-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008754&amp;artikel=9&amp;g=2016-01-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0008754&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=9&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0008754&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" code="b1-9" stam-id="587033" versie-id="855162" id="C855161" label-id="569314" inwerking="1998-01-01" label="Artikel 10" bron="Stb.1997-789" effect="vernummerd-wijziging" ondertekening_bron="1997-12-24" publicatie_bron="1997-12-30" publicatie_iwt="1997-12-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>10</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-285"><publicatiejaar>1997</publicatiejaar><publicatienr>285</publicatienr><uitgiftedatum isodatum="1997-07-10">10-07-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-06-19">19-06-1997</ondertekeningsdatum><dossierref dossier="25241">25241</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-758"><publicatiejaar>1997</publicatiejaar><publicatienr>758</publicatienr><uitgiftedatum isodatum="1997-12-29">29-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-15">15-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><brondata><oorspronkelijk><publicatie effect="vernummerd-wijziging" soort="Stb" urlidentifier="stb-1997-789"><publicatiejaar>1997</publicatiejaar><publicatienr>789</publicatienr><uitgiftedatum isodatum="1997-12-30">30-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-24">24-12-1997</ondertekeningsdatum><dossierref dossier="25641">25641</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vernummerd-wijziging" soort="Stb" urlidentifier="stb-1997-758"><publicatiejaar>1997</publicatiejaar><publicatienr>758</publicatienr><uitgiftedatum isodatum="1997-12-29">29-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-15">15-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008754&amp;artikel=10&amp;g=2016-01-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0008754&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=10&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0008754&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" code="b1-10" stam-id="587053" versie-id="855192" id="C855191" label-id="569534" inwerking="1998-01-01" label="Artikel 11" bron="Stb.1997-789" effect="vernummerd-wijziging" ondertekening_bron="1997-12-24" publicatie_bron="1997-12-30" publicatie_iwt="1997-12-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>11</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Kaderwet SZW-subsidies.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-285"><publicatiejaar>1997</publicatiejaar><publicatienr>285</publicatienr><uitgiftedatum isodatum="1997-07-10">10-07-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-06-19">19-06-1997</ondertekeningsdatum><dossierref dossier="25241">25241</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-758"><publicatiejaar>1997</publicatiejaar><publicatienr>758</publicatienr><uitgiftedatum isodatum="1997-12-29">29-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-15">15-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><brondata><oorspronkelijk><publicatie effect="vernummerd-wijziging" soort="Stb" urlidentifier="stb-1997-789"><publicatiejaar>1997</publicatiejaar><publicatienr>789</publicatienr><uitgiftedatum isodatum="1997-12-30">30-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-24">24-12-1997</ondertekeningsdatum><dossierref dossier="25641">25641</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vernummerd-wijziging" soort="Stb" urlidentifier="stb-1997-758"><publicatiejaar>1997</publicatiejaar><publicatienr>758</publicatienr><uitgiftedatum isodatum="1997-12-29">29-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-15">15-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008754&amp;artikel=11&amp;g=2016-01-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0008754&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;artikel=11&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0008754&amp;artikel=11"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="587073" versie-id="854972" id="C20862331" label-id="569334" inwerking="1998-01-01" bron="Stb.1997-285" effect="nieuwe-regeling" ondertekening_bron="1997-06-19" publicatie_bron="1997-07-10" publicatie_iwt="1997-12-29" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">19 juni 1997</datum>
+    </dagtekening>
+    <koning>Beatrix </koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Sociale Zaken en Werkgelegenheid,</functie>
+    <naam>
+      <achternaam>A. P. W. Melkert </achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de <nadruk type="cur">tiende</nadruk> juli 1997</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>W. Sorgdrager</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-285"><publicatiejaar>1997</publicatiejaar><publicatienr>285</publicatienr><uitgiftedatum isodatum="1997-07-10">10-07-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-06-19">19-06-1997</ondertekeningsdatum><dossierref dossier="25241">25241</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-758"><publicatiejaar>1997</publicatiejaar><publicatienr>758</publicatienr><uitgiftedatum isodatum="1997-12-29">29-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-15">15-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-285"><publicatiejaar>1997</publicatiejaar><publicatienr>285</publicatienr><uitgiftedatum isodatum="1997-07-10">10-07-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-06-19">19-06-1997</ondertekeningsdatum><dossierref dossier="25241">25241</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-758"><publicatiejaar>1997</publicatiejaar><publicatienr>758</publicatienr><uitgiftedatum isodatum="1997-12-29">29-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-15">15-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-1997-789"><publicatiejaar>1997</publicatiejaar><publicatienr>789</publicatienr><uitgiftedatum isodatum="1997-12-30">30-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-24">24-12-1997</ondertekeningsdatum><dossierref dossier="25641">25641</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-1997-758"><publicatiejaar>1997</publicatiejaar><publicatienr>758</publicatienr><uitgiftedatum isodatum="1997-12-29">29-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-15">15-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008754&amp;g=2016-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0008754"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008754&amp;z=2016-01-01&amp;g=2016-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0008754"/></jcis></meta-data></wetgeving></toestand>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0036246/2016-04-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0036246" inwerkingtreding="2016-04-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="12977393" versie-id="22137222" id="C31745311" label-id="12946354" inwerkingtredingsdatum="2015-02-07">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="12977413" versie-id="22137132" id="C31745221" label-id="12946264" inwerking="2015-02-07" bron="Stb.2015-45" effect="nieuwe-regeling" ondertekening_bron="2015-01-28" publicatie_bron="2015-02-06" publicatie_iwt="2015-02-06" status="goed">Wet van 28 januari 2015 tot wijziging van de Wet op het financieel toezicht houdende regels met betrekking tot het beloningsbeleid van financiële ondernemingen (Wet beloningsbeleid financiële ondernemingen)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-45"><publicatiejaar>2015</publicatiejaar><publicatienr>45</publicatienr><uitgiftedatum isodatum="2015-02-06">06-02-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-01-28">28-01-2015</ondertekeningsdatum><dossierref dossier="33964">33964</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-46"><publicatiejaar>2015</publicatiejaar><publicatienr>46</publicatienr><uitgiftedatum isodatum="2015-02-06">06-02-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-01-28">28-01-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-02-07">07-02-2015</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="12977423" versie-id="22137142" id="C31745231" label-id="12946274" inwerking="2015-02-07" bron="Stb.2015-45" effect="nieuwe-regeling" ondertekening_bron="2015-01-28" publicatie_bron="2015-02-06" publicatie_iwt="2015-02-06">Wet beloningsbeleid financiële ondernemingen<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-45"><publicatiejaar>2015</publicatiejaar><publicatienr>45</publicatienr><uitgiftedatum isodatum="2015-02-06">06-02-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-01-28">28-01-2015</ondertekeningsdatum><dossierref dossier="33964">33964</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-46"><publicatiejaar>2015</publicatiejaar><publicatienr>46</publicatienr><uitgiftedatum isodatum="2015-02-06">06-02-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-01-28">28-01-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-02-07">07-02-2015</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="12977433" versie-id="22137152" id="C31745241" label-id="12946284" inwerking="2015-02-07" bron="Stb.2015-45" effect="nieuwe-regeling" ondertekening_bron="2015-01-28" publicatie_bron="2015-02-06" publicatie_iwt="2015-02-06" status="goed">
+  <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is te voorzien in toezicht op het beloningsbeleid van financiële ondernemingen, een maximum te stellen aan variabele beloningen, alsmede regels te stellen met betrekking tot de transparantie van beloningsbeleid;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-45"><publicatiejaar>2015</publicatiejaar><publicatienr>45</publicatienr><uitgiftedatum isodatum="2015-02-06">06-02-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-01-28">28-01-2015</ondertekeningsdatum><dossierref dossier="33964">33964</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-46"><publicatiejaar>2015</publicatiejaar><publicatienr>46</publicatienr><uitgiftedatum isodatum="2015-02-06">06-02-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-01-28">28-01-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-02-07">07-02-2015</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/ArtikelI" stam-id="12977443" versie-id="22145952" id="C31754201" label-id="12946294" inwerking="2016-01-01" label="Artikel I" bron="Stb.2015-45" effect="wijziging" ondertekening_bron="2015-01-28" publicatie_bron="2015-02-06" publicatie_iwt="2015-02-06" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">I</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op het financieel toezicht en de Wet aansprakelijkheidsbeperking DNB en AFM en bonusverbod staatsgesteunde ondernemingen.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2015-45"><publicatiejaar>2015</publicatiejaar><publicatienr>45</publicatienr><uitgiftedatum isodatum="2015-02-06">06-02-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-01-28">28-01-2015</ondertekeningsdatum><dossierref dossier="33964">33964</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2015-46"><publicatiejaar>2015</publicatiejaar><publicatienr>46</publicatienr><uitgiftedatum isodatum="2015-02-06">06-02-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-01-28">28-01-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-01-01">01-01-2016</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Onderdeel F.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0036246&amp;artikel=I&amp;g=2016-04-01" onderdeel="artikel=I" korte-verwijzing="1.0:c:BWBR0036246&amp;artikel=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0036246&amp;artikel=I&amp;z=2016-04-01&amp;g=2016-04-01" onderdeel="artikel=I" korte-verwijzing="jci1.3:c:BWBR0036246&amp;artikel=I"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIa" stam-id="12977453" versie-id="22137172" id="C31745261" label-id="12946304" inwerking="2015-02-07" label="Artikel Ia" bron="Stb.2015-45" effect="nieuwe-regeling" ondertekening_bron="2015-01-28" publicatie_bron="2015-02-06" publicatie_iwt="2015-02-06" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">Ia</nr>
+  </kop>
+  <al>Onze Minister van Financiën zendt binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-45"><publicatiejaar>2015</publicatiejaar><publicatienr>45</publicatienr><uitgiftedatum isodatum="2015-02-06">06-02-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-01-28">28-01-2015</ondertekeningsdatum><dossierref dossier="33964">33964</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-46"><publicatiejaar>2015</publicatiejaar><publicatienr>46</publicatienr><uitgiftedatum isodatum="2015-02-06">06-02-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-01-28">28-01-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-02-07">07-02-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0036246&amp;artikel=Ia&amp;g=2016-04-01" onderdeel="artikel=Ia" korte-verwijzing="1.0:c:BWBR0036246&amp;artikel=Ia"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0036246&amp;artikel=Ia&amp;z=2016-04-01&amp;g=2016-04-01" onderdeel="artikel=Ia" korte-verwijzing="jci1.3:c:BWBR0036246&amp;artikel=Ia"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelII" stam-id="12977463" versie-id="22801892" id="C33074301" label-id="12946314" inwerking="2016-04-01" label="Artikel II" bron="Stb.2015-428" effect="wijziging" ondertekening_bron="2015-10-29" publicatie_bron="2015-11-24" publicatie_iwt="2015-12-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">II</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/ArtikelII/Lid1" label-id="12946314L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>
+      <extref doc="jci1.3:c:BWBR0020368&amp;artikel=1:128" label-id="12944954" verwijzing-id="2689992" bwb-id="BWBR0020368">Artikel 1:128, eerste lid, aanhef en onderdeel a, van de Wet op het financieel toezicht</extref> is niet van toepassing:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/ArtikelII/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>op reeds voor 26 oktober 2011 toegekende, maar nog niet uitgekeerde variabele beloningen van haar bestuurders, indien een financiële onderneming op het tijdstip van inwerkingtreding van deze wet steun geniet en deze steun reeds voor 6 oktober 2011 was verleend;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0036246&amp;artikel=II&amp;lid=1&amp;o=a&amp;z=2016-04-01&amp;g=2016-04-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/ArtikelII/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>op reeds voor dat tijdstip toegekende, maar nog niet uitgekeerde variabele beloningen van personen die een leidinggevende functie vervullen direct onder het echelon van de dagelijks beleidsbepalers en verantwoordelijk zijn voor natuurlijke personen wier werkzaamheden het risicoprofiel van de onderneming wezenlijk kunnen beïnvloeden, indien een financiële onderneming op het tijdstip van inwerkingtreding van deze wet steun geniet.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0036246&amp;artikel=II&amp;lid=1&amp;o=b&amp;z=2016-04-01&amp;g=2016-04-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0036246&amp;artikel=II&amp;lid=1&amp;z=2016-04-01&amp;g=2016-04-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelII/Lid2" label-id="12946314L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>In afwijking van <extref doc="jci1.3:c:BWBR0020368&amp;artikel=1:128" label-id="12944954" verwijzing-id="2689993" bwb-id="BWBR0020368">artikel 1:128, eerste lid, onderdeel b, van de Wet op het financieel toezicht</extref> wordt:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/ArtikelII/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>indien een financiële onderneming op het tijdstip van inwerkingtreding van deze wet steun geniet en deze steun reeds voor 6 oktober 2011 was verleend, bij het bepalen van de waarde van de vaste beloningen van haar bestuurders uitgegaan van de waarde die deze vaste beloningen hadden op 20 juni 2012, met dien verstande dat de voor de toepassing van <extref doc="jci1.3:c:BWBR0020368&amp;artikel=1:128" label-id="12944954" verwijzing-id="2689994" bwb-id="BWBR0020368">artikel 1:128, eerste lid, onderdeel b</extref>, in acht te nemen waarde ten hoogste 120% van de waarde op 26 oktober 2011 bedraagt;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0036246&amp;artikel=II&amp;lid=2&amp;o=a&amp;z=2016-04-01&amp;g=2016-04-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/ArtikelII/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>indien een financiële onderneming op het tijdstip van inwerkingtreding van deze wet steun geniet en deze steun reeds voor dat tijdstip was verleend, bij het bepalen van de waarde van de vaste beloningen van personen die een leidinggevende functie vervullen direct onder het echelon van de dagelijks beleidsbepalers en verantwoordelijk zijn voor natuurlijke personen wier werkzaamheden het risicoprofiel van de onderneming wezenlijk kunnen beïnvloeden uitgegaan van de waarde die deze vaste beloningen hadden op het tijdstip van inwerkingtreding van deze wet.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0036246&amp;artikel=II&amp;lid=2&amp;o=b&amp;z=2016-04-01&amp;g=2016-04-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0036246&amp;artikel=II&amp;lid=2&amp;z=2016-04-01&amp;g=2016-04-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelII/Lid3" label-id="12946314L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>In een geval als bedoeld in <extref doc="jci1.3:c:BWBR0020368&amp;artikel=1:128" label-id="12944954" verwijzing-id="2689995" bwb-id="BWBR0020368">artikel 1:128, vierde of vijfde lid, van de Wet op het financieel toezicht</extref> wordt voor de toepassing van het eerste en tweede voor «financiële onderneming» gelezen: de aan het hoofd van de groep staande groepsmaatschappij, onderscheidenlijk de binnen de groep hiërarchisch hoogste groepsmaatschappij met zetel in Nederland en de tot die groep behorende banken en verzekeraars.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0036246&amp;artikel=II&amp;lid=3&amp;z=2016-04-01&amp;g=2016-04-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2015-428"><publicatiejaar>2015</publicatiejaar><publicatienr>428</publicatienr><uitgiftedatum isodatum="2015-11-24">24-11-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-10-29">29-10-2015</ondertekeningsdatum><dossierref dossier="34198">34198</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2015-504"><publicatiejaar>2015</publicatiejaar><publicatienr>504</publicatienr><uitgiftedatum isodatum="2015-12-16">16-12-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-02">02-12-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-04-01">01-04-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0036246&amp;artikel=II&amp;g=2016-04-01" onderdeel="artikel=II" korte-verwijzing="1.0:c:BWBR0036246&amp;artikel=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0036246&amp;artikel=II&amp;z=2016-04-01&amp;g=2016-04-01" onderdeel="artikel=II" korte-verwijzing="jci1.3:c:BWBR0036246&amp;artikel=II"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIII" stam-id="12977473" versie-id="22137192" id="C31745281" label-id="12946324" inwerking="2015-02-07" label="Artikel III" bron="Stb.2015-45" effect="nieuwe-regeling" ondertekening_bron="2015-01-28" publicatie_bron="2015-02-06" publicatie_iwt="2015-02-06" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">III</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-45"><publicatiejaar>2015</publicatiejaar><publicatienr>45</publicatienr><uitgiftedatum isodatum="2015-02-06">06-02-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-01-28">28-01-2015</ondertekeningsdatum><dossierref dossier="33964">33964</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-46"><publicatiejaar>2015</publicatiejaar><publicatienr>46</publicatienr><uitgiftedatum isodatum="2015-02-06">06-02-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-01-28">28-01-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-02-07">07-02-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0036246&amp;artikel=III&amp;g=2016-04-01" onderdeel="artikel=III" korte-verwijzing="1.0:c:BWBR0036246&amp;artikel=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0036246&amp;artikel=III&amp;z=2016-04-01&amp;g=2016-04-01" onderdeel="artikel=III" korte-verwijzing="jci1.3:c:BWBR0036246&amp;artikel=III"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIV" stam-id="12977483" versie-id="22137202" id="C31745291" label-id="12946334" inwerking="2015-02-07" label="Artikel IV" bron="Stb.2015-45" effect="nieuwe-regeling" ondertekening_bron="2015-01-28" publicatie_bron="2015-02-06" publicatie_iwt="2015-02-06" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">IV</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet beloningsbeleid financiële ondernemingen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-45"><publicatiejaar>2015</publicatiejaar><publicatienr>45</publicatienr><uitgiftedatum isodatum="2015-02-06">06-02-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-01-28">28-01-2015</ondertekeningsdatum><dossierref dossier="33964">33964</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-46"><publicatiejaar>2015</publicatiejaar><publicatienr>46</publicatienr><uitgiftedatum isodatum="2015-02-06">06-02-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-01-28">28-01-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-02-07">07-02-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0036246&amp;artikel=IV&amp;g=2016-04-01" onderdeel="artikel=IV" korte-verwijzing="1.0:c:BWBR0036246&amp;artikel=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0036246&amp;artikel=IV&amp;z=2016-04-01&amp;g=2016-04-01" onderdeel="artikel=IV" korte-verwijzing="jci1.3:c:BWBR0036246&amp;artikel=IV"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="12977493" versie-id="22137212" id="C31745301" label-id="12946344" inwerking="2015-02-07" bron="Stb.2015-45" effect="nieuwe-regeling" ondertekening_bron="2015-01-28" publicatie_bron="2015-02-06" publicatie_iwt="2015-02-06" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>Wassenaar</plaats>
+      <datum isodatum="2015-01-28">28 januari 2015</datum>
+    </dagtekening>
+    <koning>Willem-Alexander</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Financiën , </functie>
+    <naam>
+      <voornaam>J.R.V.A.</voornaam>
+      <achternaam>Dijsselbloem</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2015-02-06">de <nadruk type="cur">zesde</nadruk> februari 2015</datum>
+    <ondertekening>
+      <functie>De Minister van Veiligheid en Justitie , </functie>
+      <naam>
+        <voornaam>I.W.</voornaam>
+        <achternaam>Opstelten</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-45"><publicatiejaar>2015</publicatiejaar><publicatienr>45</publicatienr><uitgiftedatum isodatum="2015-02-06">06-02-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-01-28">28-01-2015</ondertekeningsdatum><dossierref dossier="33964">33964</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-46"><publicatiejaar>2015</publicatiejaar><publicatienr>46</publicatienr><uitgiftedatum isodatum="2015-02-06">06-02-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-01-28">28-01-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-02-07">07-02-2015</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-45"><publicatiejaar>2015</publicatiejaar><publicatienr>45</publicatienr><uitgiftedatum isodatum="2015-02-06">06-02-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-01-28">28-01-2015</ondertekeningsdatum><dossierref dossier="33964">33964</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2015-46"><publicatiejaar>2015</publicatiejaar><publicatienr>46</publicatienr><uitgiftedatum isodatum="2015-02-06">06-02-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-01-28">28-01-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-02-07">07-02-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0036246&amp;g=2016-04-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0036246"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0036246&amp;z=2016-04-01&amp;g=2016-04-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0036246"/></jcis></meta-data></wetgeving></toestand>

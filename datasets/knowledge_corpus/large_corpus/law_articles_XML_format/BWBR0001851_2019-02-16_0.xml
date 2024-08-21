@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0001851/2019-02-16/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0001851" inwerkingtreding="2019-02-16"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="94503" versie-id="131592" id="C131591" label-id="95044" inwerkingtredingsdatum="1880-01-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="94583" versie-id="131382" id="C131381" label-id="94854" inwerking="1880-01-01" bron="Stb.1879-72" effect="nieuwe-regeling" ondertekening_bron="1879-04-23" status="goed">Wet van 23 april 1879, tot regeling der heffing van regten wegens de verrigtingen van den ambtenaar van den burgerlijken stand<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1879</publicatiejaar><publicatienr>72</publicatienr><ondertekeningsdatum isodatum="1879-04-23">23-04-1879</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1879</publicatiejaar><publicatienr>109</publicatienr><ondertekeningsdatum isodatum="1879-06-14">14-06-1879</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1880-01-01">01-01-1880</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="94603" versie-id="131412" id="C131411" label-id="94874" inwerking="1880-01-01" bron="Stb.1879-72" effect="nieuwe-regeling" ondertekening_bron="1879-04-23">Wet rechten burgerlijke stand<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1879</publicatiejaar><publicatienr>72</publicatienr><ondertekeningsdatum isodatum="1879-04-23">23-04-1879</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1879</publicatiejaar><publicatienr>109</publicatienr><ondertekeningsdatum isodatum="1879-06-14">14-06-1879</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1880-01-01">01-01-1880</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="94623" versie-id="131432" id="C131431" label-id="94894" inwerking="1880-01-01" bron="Stb.1879-72" effect="nieuwe-regeling" ondertekening_bron="1879-04-23" status="goed">
+  <wij>Wij WILLEM III, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, Groot-Hertog van Luxemburg, enz., enz., enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of hooren lezen, salut! doen te weten:</considerans.al>
+    <considerans.al>Alzoo Wij in overweging genomen hebben, dat de heffing van regten wegens de verrigtingen van den ambtenaar van den burgerlijken stand regeling vordert;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1879</publicatiejaar><publicatienr>72</publicatienr><ondertekeningsdatum isodatum="1879-04-23">23-04-1879</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1879</publicatiejaar><publicatienr>109</publicatienr><ondertekeningsdatum isodatum="1879-06-14">14-06-1879</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1880-01-01">01-01-1880</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" code="a-1" stam-id="94643" versie-id="131452" id="C131451" label-id="94914" inwerking="1969-04-01" label="Artikel 1" bron="Stb.1968-607" effect="wijziging" ondertekening_bron="1968-10-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>1</nr>
+  </kop>
+  <al>Geene gelden mogen worden geheven ter zake van het opmaken van akten of andere verrigtingen van den ambtenaar van den burgerlijken stand, behalve in de gevallen en op de wijze bij of krachtens deze wet voorzien.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1968</publicatiejaar><publicatienr>607</publicatienr><ondertekeningsdatum isodatum="1968-10-23">23-10-1968</ondertekeningsdatum><dossierref dossier="9440">9440</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1969</publicatiejaar><publicatienr>35</publicatienr><ondertekeningsdatum isodatum="1969-01-18">18-01-1969</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1969-04-01">01-04-1969</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001851&amp;artikel=1&amp;g=2019-02-16" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0001851&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=1&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0001851&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" stam-id="94663" versie-id="25057222" id="C35836101" label-id="94934" inwerking="2019-02-16" label="Artikel 2" bron="Stb.2018-162" effect="wijziging" ondertekening_bron="2018-04-18" publicatie_bron="2018-06-12" publicatie_iwt="2018-06-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="94934L1">
+    <lidnr status="redactioneel">1</lidnr>
+    <al>Er is een bij algemene maatregel van bestuur te bepalen recht verschuldigd </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>voor elk afschrift van een akte van de burgerlijke stand als bedoeld in <extref doc="jci1.3:c:BWBR0002656&amp;artikel=23b" label-id="2752064" verwijzing-id="20324" bwb-id="BWBR0002656">artikel 23b, tweede lid, van Boek 1 van het Burgerlijk Wetboek</extref>; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=2&amp;lid=1&amp;o=a&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>voor elk uittreksel als bedoeld in <extref doc="jci1.3:c:BWBR0002656&amp;artikel=23b" label-id="2752064" verwijzing-id="20325" bwb-id="BWBR0002656">artikel 23b, eerste lid, van Boek 1 van het Burgerlijk Wetboek</extref>; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=2&amp;lid=1&amp;o=b&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>voor elke verklaring van huwelijksbevoegdheid als bedoeld in <extref doc="jci1.3:c:BWBR0002656&amp;artikel=49a" label-id="2753874" verwijzing-id="20326" bwb-id="BWBR0002656">artikel 49a van Boek 1 van het Burgerlijk Wetboek</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=2&amp;lid=1&amp;o=c&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>voor elke attestatie de vita, als bedoeld in <extref doc="jci1.3:c:BWBR0002656&amp;artikel=19k" label-id="11298014" verwijzing-id="2438361" bwb-id="BWBR0002656">artikel 19k van Boek 1 van het Burgerlijk Wetboek</extref> en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=2&amp;lid=1&amp;o=d&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>voor elk meertalig uittreksel uit een akte van de burgerlijke stand;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=2&amp;lid=1&amp;o=e&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>voor elk meertalig modelformulier als bedoeld in artikel 7, eerste lid, van verordening (EU) nr. 2016/1191 van het Europees Parlement en de Raad van 6 juli 2016 betreffende de bevordering van het vrije verkeer van burgers door vereenvoudigde overlegging van bepaalde openbare documenten in de Europese Unie en tot wijziging van Verordening nr. 1024/2012 (PbEU 2016, L 200).</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=2&amp;lid=1&amp;o=f&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="o=f"/></jcis></meta-data></li>
+    </lijst>
+    <al>Afschriften van of uittreksels uit huwelijksakten of akten van omzetting van een geregistreerd partnerschap in een huwelijk worden ten behoeve van het kerkelijk huwelijk kosteloos uitgegeven, mits van de bestemming uit het stuk zelve blijke en zij alzoo tot geen ander einde kunnen worden gebruikt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=2&amp;lid=1&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="94934L2">
+    <lidnr status="redactioneel">2</lidnr>
+    <al>Van de betaling van deze regten zijn vrijgesteld: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeel1">
+        <li.nr>1°.</li.nr>
+        <al>zij, die het aangevraagde afschrift of uittreksel noodig hebbende in hun persoonlijk belang, van hun onvermogen doen blijken door een getuigschrift, door den burgemeester hunner woon- of verblijfplaats afgegeven;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=2&amp;lid=2&amp;o=1&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="o=1"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeel2">
+        <li.nr>2°.</li.nr>
+        <al>de openbare ambtenaren, besturen en instellingen wegens de afschriften of uittreksels, door hen aangevraagd in het openbaar belang.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=2&amp;lid=2&amp;o=2&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="o=2"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=2&amp;lid=2&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-162"><publicatiejaar>2018</publicatiejaar><publicatienr>162</publicatienr><uitgiftedatum isodatum="2018-06-12">12-06-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-04-18">18-04-2018</ondertekeningsdatum><dossierref dossier="34803">34803</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-162"><publicatiejaar>2018</publicatiejaar><publicatienr>162</publicatienr><uitgiftedatum isodatum="2018-06-12">12-06-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-04-18">18-04-2018</ondertekeningsdatum><dossierref dossier="34803">34803</dossierref></publicatie><inwerkingtreding.datum isodatum="2019-02-16">16-02-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001851&amp;artikel=2&amp;g=2019-02-16" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0001851&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=2&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0001851&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="a-3" stam-id="94673" versie-id="131482" id="C5182821" label-id="94944" inwerking="1880-01-01" label="Artikel 3" bron="Stb.1879-72" effect="nieuwe-regeling" ondertekening_bron="1879-04-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="94944L1">
+    <lidnr status="redactioneel">1</lidnr>
+    <al>De regten, krachtens <intref verwijzing-id="1622881" doc="jci1.3:c:BWBR0001851&amp;artikel=2&amp;z=2019-02-16&amp;g=2019-02-16" bwb-id="BWBR0001851" label-id="94934" bwb-ng-variabel-deel="/Artikel2">art. 2</intref> geheven, komen ten bate van de gemeentekas.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=3&amp;lid=1&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="94944L2">
+    <lidnr status="redactioneel">2</lidnr>
+    <al>Zij worden door den ambtenaar van den burgerlijken stand bij de uitreiking van het afschrift of uittreksel, op welk stuk het verschuldigd bedrag wordt vermeld, ingevorderd en op de wijze, door Ons te bepalen, verantwoord.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=3&amp;lid=2&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1879</publicatiejaar><publicatienr>72</publicatienr><ondertekeningsdatum isodatum="1879-04-23">23-04-1879</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1879</publicatiejaar><publicatienr>109</publicatienr><ondertekeningsdatum isodatum="1879-06-14">14-06-1879</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1880-01-01">01-01-1880</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001851&amp;artikel=3&amp;g=2019-02-16" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0001851&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=3&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0001851&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="a-4" stam-id="94703" versie-id="15905602" id="C22147631" label-id="94974" inwerking="2009-03-01" label="Artikel 4" bron="Stb.2008-500" effect="wijziging" ondertekening_bron="2008-11-27" publicatie_bron="2008-12-16" publicatie_iwt="2009-02-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="94974L1">
+    <lidnr status="redactioneel">1</lidnr>
+    <al>Er wordt minstens tweemaal 's weeks in de gemeenten boven de tien duizend zielen en minstens eenmaal 's weeks in alle andere gelegenheid gegeven tot kostelooze huwelijksvoltrekking, registratie van een partnerschap of omzetting van een geregistreerd partnerschap.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=4&amp;lid=1&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="94974L2">
+    <lidnr status="redactioneel">2</lidnr>
+    <al>De ambtenaar van den burgerlijken stand bepaalt de dagen en de uren daarvoor bestemd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=4&amp;lid=2&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-500"><publicatiejaar>2008</publicatiejaar><publicatienr>500</publicatienr><uitgiftedatum isodatum="2008-12-16">16-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-11-27">27-11-2008</ondertekeningsdatum><dossierref dossier="30145">30145</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-56"><publicatiejaar>2009</publicatiejaar><publicatienr>56</publicatienr><uitgiftedatum isodatum="2009-02-12">12-02-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-02-06">06-02-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-03-01">01-03-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001851&amp;artikel=4&amp;g=2019-02-16" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0001851&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=4&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0001851&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="a-5" stam-id="94723" versie-id="15905612" id="C22147621" label-id="94994" inwerking="2009-03-01" label="Artikel 5" bron="Stb.2008-500" effect="wijziging" ondertekening_bron="2008-11-27" publicatie_bron="2008-12-16" publicatie_iwt="2009-02-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid1" label-id="94994L1">
+    <lidnr status="redactioneel">1</lidnr>
+    <al>Het lokaal, in het huis der gemeente voor de huwelijksvoltrekking, registratie van een partnerschap of omzetting van een geregistreerd partnerschap bestemd, wordt door het college van burgemeester en wethouders beschikbaar gesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=5&amp;lid=1&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid2" label-id="94994L2">
+    <lidnr status="redactioneel">2</lidnr>
+    <al>Voor huwelijksvoltrekking, registratie van een partnerschap of omzetting van een geregistreerd partnerschap, op andere tijd of andere wijze dan waarop zij ingevolge het voorschrift van het voorafgaande artikel kosteloos plaats heeft, kan door de gemeente een recht worden geheven als bedoeld in <extref doc="jci1.3:c:BWBR0005416&amp;artikel=229" verwijzing-id="20329" bwb-id="BWBR0005416" label-id="2895554">artikel 229 van de Gemeentewet</extref> (<nadruk type="cur">Stb</nadruk> 1992, 96).</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=5&amp;lid=2&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-500"><publicatiejaar>2008</publicatiejaar><publicatienr>500</publicatienr><uitgiftedatum isodatum="2008-12-16">16-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-11-27">27-11-2008</ondertekeningsdatum><dossierref dossier="30145">30145</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-56"><publicatiejaar>2009</publicatiejaar><publicatienr>56</publicatienr><uitgiftedatum isodatum="2009-02-12">12-02-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-02-06">06-02-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-03-01">01-03-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001851&amp;artikel=5&amp;g=2019-02-16" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0001851&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=5&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0001851&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="a-6" stam-id="94733" versie-id="131552" id="C131551" label-id="95004" inwerking="1880-01-01" label="Artikel 6" bron="Stb.1879-72" effect="nieuwe-regeling" ondertekening_bron="1879-04-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid1" label-id="95004L1">
+    <lidnr status="redactioneel">1</lidnr>
+    <al>Deze wet treedt in werking op een nader door Ons te bepalen tijdstip.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=6&amp;lid=1&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid2" label-id="95004L2">
+    <lidnr status="redactioneel">2</lidnr>
+    <al>Met het in werking treden dezer wet zijn het Keizerlijk decreet van 12 Julij 1807 en alle andere verordeningen tot de heffing van regt ter zake van het opmaken van akten of andere verrigtingen van den burgerlijken stand vervallen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=6&amp;lid=2&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1879</publicatiejaar><publicatienr>72</publicatienr><ondertekeningsdatum isodatum="1879-04-23">23-04-1879</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1879</publicatiejaar><publicatienr>109</publicatienr><ondertekeningsdatum isodatum="1879-06-14">14-06-1879</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1880-01-01">01-01-1880</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001851&amp;artikel=6&amp;g=2019-02-16" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0001851&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=6&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0001851&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="a-7" stam-id="94743" versie-id="131572" id="C9472441" label-id="95024" inwerking="1986-03-01" label="Artikel 7" bron="Stb.1985-587" effect="nieuw" ondertekening_bron="1985-10-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+  <al>Deze wet kan worden aangehaald als: Wet rechten burgerlijke stand.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier=""><publicatiejaar>1985</publicatiejaar><publicatienr>587</publicatienr><ondertekeningsdatum isodatum="1985-10-30">30-10-1985</ondertekeningsdatum><dossierref dossier="18774">18774</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier=""><publicatiejaar>1986</publicatiejaar><publicatienr>57</publicatienr><ondertekeningsdatum isodatum="1986-02-17">17-02-1986</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1986-03-01">01-03-1986</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001851&amp;artikel=7&amp;g=2019-02-16" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0001851&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;artikel=7&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0001851&amp;artikel=7"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="94753" versie-id="131582" id="C131581" label-id="95034" inwerking="1880-01-01" bron="Stb.1879-72" effect="nieuwe-regeling" ondertekening_bron="1879-04-23" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Collegien en Ambtenaren, wien zulks aangaat, aan de naauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te Amsterdam</plaats>
+      <datum isodatum="">den 23sten April 1879</datum>
+    </dagtekening>
+    <koning>WILLEM.</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Binnenlandsche Zaken,</functie>
+    <naam>
+      <achternaam>KAPPEYNE.</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">den zes en twintigsten April 1879.</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>H. J. SMIDT.</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1879</publicatiejaar><publicatienr>72</publicatienr><ondertekeningsdatum isodatum="1879-04-23">23-04-1879</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1879</publicatiejaar><publicatienr>109</publicatienr><ondertekeningsdatum isodatum="1879-06-14">14-06-1879</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1880-01-01">01-01-1880</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1879</publicatiejaar><publicatienr>72</publicatienr><ondertekeningsdatum isodatum="1879-04-23">23-04-1879</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1879</publicatiejaar><publicatienr>109</publicatienr><ondertekeningsdatum isodatum="1879-06-14">14-06-1879</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1880-01-01">01-01-1880</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001851&amp;g=2019-02-16" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0001851"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001851&amp;z=2019-02-16&amp;g=2019-02-16" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0001851"/></jcis></meta-data></wetgeving></toestand>

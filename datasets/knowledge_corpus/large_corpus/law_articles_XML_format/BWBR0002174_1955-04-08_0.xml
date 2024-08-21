@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0002174/1955-04-08/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0002174" inwerkingtreding="1955-04-08"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="59093" versie-id="75072" id="C75071" label-id="58974" inwerkingtredingsdatum="1955-04-08">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="59183" versie-id="74762" id="C74761" label-id="58744" inwerking="1955-04-08" bron="Stb.1955-131" effect="nieuwe-regeling" ondertekening_bron="1955-03-18" status="goed">Wet van 18 maart 1955, houdende regeling voor het voortbestaan van het Pensioenfonds voor de vaste onderwijzers van het Koninklijk Conservatorium voor Muziek<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie><inwerkingtreding.datum isodatum="1955-04-08">08-04-1955</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="59203" versie-id="74792" id="C74791" label-id="58764" inwerking="1955-04-08" bron="Stb.1955-131" effect="nieuwe-regeling" ondertekening_bron="1955-03-18">Wet Pensioenfonds Koninklijk Conservatorium<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie><inwerkingtreding.datum isodatum="1955-04-08">08-04-1955</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="59243" versie-id="74832" id="C74831" label-id="58804" inwerking="1955-04-08" bron="Stb.1955-131" effect="nieuwe-regeling" ondertekening_bron="1955-03-18" status="goed">
+  <wij>Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is gebleken, een regeling te treffen met betrekking tot het voortbestaan van het "Pensioenfonds voor de vaste onderwijzers van het Koninklijk Conservatorium voor Muziek";</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie><inwerkingtreding.datum isodatum="1955-04-08">08-04-1955</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" code="a-1" stam-id="59263" versie-id="74862" id="C74861" label-id="58824" inwerking="1955-04-08" label="Artikel 1" bron="Stb.1955-131" effect="nieuwe-regeling" ondertekening_bron="1955-03-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>1</nr>
+  </kop>
+  <al>Het voortbestaan van het "Pensioenfonds voor de vaste onderwijzers van het Koninklijk Conservatorium voor Muziek" wordt goedgekeurd.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie><inwerkingtreding.datum isodatum="1955-04-08">08-04-1955</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002174&amp;artikel=1&amp;g=1955-04-08" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0002174&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002174&amp;artikel=1&amp;z=1955-04-08&amp;g=1955-04-08" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0002174&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="a-2" stam-id="59273" versie-id="74872" id="C74871" label-id="58834" inwerking="1955-04-08" label="Artikel 2" bron="Stb.1955-131" effect="nieuwe-regeling" ondertekening_bron="1955-03-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <al>Ten aanzien van de bestemming en het beheer van het fonds stelt Onze Minister van Onderwijs, Kunsten en Wetenschappen een reglement vast met inachtneming van het hiernavolgende.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie><inwerkingtreding.datum isodatum="1955-04-08">08-04-1955</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002174&amp;artikel=2&amp;g=1955-04-08" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0002174&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002174&amp;artikel=2&amp;z=1955-04-08&amp;g=1955-04-08" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0002174&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="a-3" stam-id="59293" versie-id="74902" id="C74901" label-id="58854" inwerking="1955-04-08" label="Artikel 3" bron="Stb.1955-131" effect="nieuwe-regeling" ondertekening_bron="1955-03-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>3</nr>
+  </kop>
+  <al>Het fonds is bestemd voor de uitkering van pensioenen, die zijn toegekend vóór 1 Januari 1922, alsmede van pensioenen, die na die datum zijn toegekend op grond van diensttijd, vóór 1 Januari 1922 bij het Conservatorium doorgebracht, aan personen, die bij het Conservatorium in dienst zijn geweest, aan hun weduwen en aan hun kinderen, die de leeftijd van achttien jaar nog niet hebben bereikt.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie><inwerkingtreding.datum isodatum="1955-04-08">08-04-1955</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002174&amp;artikel=3&amp;g=1955-04-08" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0002174&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002174&amp;artikel=3&amp;z=1955-04-08&amp;g=1955-04-08" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0002174&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="a-4" stam-id="59313" versie-id="74932" id="C74931" label-id="58874" inwerking="1955-04-08" label="Artikel 4" bron="Stb.1955-131" effect="nieuwe-regeling" ondertekening_bron="1955-03-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="58874L1">
+    <lidnr>1</lidnr>
+    <al>Het beheer van het fonds berust bij de Commissie van Toezicht op het Conservatorium.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002174&amp;artikel=4&amp;lid=1&amp;z=1955-04-08&amp;g=1955-04-08" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="58874L2">
+    <lidnr>2</lidnr>
+    <al> Ingeval van opheffing dezer Commissie regelt Onze Minister van Onderwijs, Kunsten en Wetenschappen, op welke wijze in het beheer zal worden voorzien.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002174&amp;artikel=4&amp;lid=2&amp;z=1955-04-08&amp;g=1955-04-08" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie><inwerkingtreding.datum isodatum="1955-04-08">08-04-1955</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002174&amp;artikel=4&amp;g=1955-04-08" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0002174&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002174&amp;artikel=4&amp;z=1955-04-08&amp;g=1955-04-08" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0002174&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="a-5" stam-id="59333" versie-id="74952" id="C74951" label-id="58894" inwerking="1955-04-08" label="Artikel 5" bron="Stb.1955-131" effect="nieuwe-regeling" ondertekening_bron="1955-03-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>5</nr>
+  </kop>
+  <al>Voor een verandering in de wijze van belegging van de middelen van het fonds is de goedkeuring vereist van Onze Minister van Onderwijs, Kunsten en Wetenschappen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie><inwerkingtreding.datum isodatum="1955-04-08">08-04-1955</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002174&amp;artikel=5&amp;g=1955-04-08" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0002174&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002174&amp;artikel=5&amp;z=1955-04-08&amp;g=1955-04-08" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0002174&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="a-6" stam-id="59353" versie-id="74992" id="C74991" label-id="58924" inwerking="1955-04-08" label="Artikel 6" bron="Stb.1955-131" effect="nieuwe-regeling" ondertekening_bron="1955-03-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid1" label-id="58924L1">
+    <lidnr>1</lidnr>
+    <al>De Commissie van Toezicht verstrekt aan Onze Minister van Onderwijs, Kunsten en Wetenschappen, aan Onze Minister van Financiën en aan de Algemene Rekenkamer alle door hen gevraagde inlichtingen met betrekking tot het beheer van het fonds en verleent hun vertegenwoordigers desgewenst inzage in de boekhouding van het fonds.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002174&amp;artikel=6&amp;lid=1&amp;z=1955-04-08&amp;g=1955-04-08" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid2" label-id="58924L2">
+    <lidnr>2</lidnr>
+    <al> Zij zendt jaarlijks vóór 1 Mei een verslag betreffende het beheer van het fonds over het afgelopen jaar, vergezeld van een rekening en verantwoording, aan Onze Minister van Onderwijs, Kunsten en Wetenschappen en aan de Algemene Rekenkamer; hun goedkeuring ontheft de Commissie van de verantwoordelijkheid voor het door haar gevoerde beheer.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002174&amp;artikel=6&amp;lid=2&amp;z=1955-04-08&amp;g=1955-04-08" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie><inwerkingtreding.datum isodatum="1955-04-08">08-04-1955</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002174&amp;artikel=6&amp;g=1955-04-08" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0002174&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002174&amp;artikel=6&amp;z=1955-04-08&amp;g=1955-04-08" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0002174&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="a-7" stam-id="59363" versie-id="75012" id="C75011" label-id="58934" inwerking="1955-04-08" label="Artikel 7" bron="Stb.1955-131" effect="nieuwe-regeling" ondertekening_bron="1955-03-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid1" label-id="58934L1">
+    <lidnr>1</lidnr>
+    <al>Wanneer geen personen meer voor uitkeringen uit het fonds in aanmerking komen, zal het fonds worden geliquideerd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002174&amp;artikel=7&amp;lid=1&amp;z=1955-04-08&amp;g=1955-04-08" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid2" label-id="58934L2">
+    <lidnr>2</lidnr>
+    <al> De liquidateur wordt aangewezen door Onze Minister van Onderwijs, Kunsten en Wetenschappen en gedraagt zich naar diens aanwijzingen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002174&amp;artikel=7&amp;lid=2&amp;z=1955-04-08&amp;g=1955-04-08" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid3" label-id="58934L3">
+    <lidnr>3</lidnr>
+    <al> Aan het liquidatiesaldo zal op nader door Onze Minister van Onderwijs, Kunsten en Wetenschappen in overeenstemming met Onze Minister van Financiën te bepalen wijze een bestemming worden gegeven in verband met de oprichting en de inrichting van een nieuw gebouw voor het Conservatorium.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002174&amp;artikel=7&amp;lid=3&amp;z=1955-04-08&amp;g=1955-04-08" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie><inwerkingtreding.datum isodatum="1955-04-08">08-04-1955</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002174&amp;artikel=7&amp;g=1955-04-08" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0002174&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002174&amp;artikel=7&amp;z=1955-04-08&amp;g=1955-04-08" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0002174&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" code="a-8" stam-id="59373" versie-id="75032" id="C75031" label-id="58944" inwerking="1955-04-08" label="Artikel 8" bron="Stb.1955-131" effect="nieuwe-regeling" ondertekening_bron="1955-03-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>8</nr>
+  </kop>
+  <al>Deze wet treedt in werking op de dag na haar afkondiging in het <nadruk type="cur">Staatsblad</nadruk> en kan worden aangehaald onder de titel "Wet Pensioenfonds Koninklijk Conservatorium".</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie><inwerkingtreding.datum isodatum="1955-04-08">08-04-1955</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002174&amp;artikel=8&amp;g=1955-04-08" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0002174&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002174&amp;artikel=8&amp;z=1955-04-08&amp;g=1955-04-08" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0002174&amp;artikel=8"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="59393" versie-id="75062" id="C75061" label-id="58964" inwerking="1955-04-08" bron="Stb.1955-131" effect="nieuwe-regeling" ondertekening_bron="1955-03-18" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven ten Paleize Soestdijk</plaats>
+      <datum isodatum="">18 Maart 1955</datum>
+    </dagtekening>
+    <koning>JULIANA.</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Onderwijs, Kunsten en Wetenschappen,</functie>
+    <naam>
+      <achternaam>J. CALS.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Financiën a.i.,</functie>
+    <naam>
+      <achternaam>W. DREES.</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de zevende April 1955.</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>L. A. DONKER.</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie><inwerkingtreding.datum isodatum="1955-04-08">08-04-1955</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1955</publicatiejaar><publicatienr>131</publicatienr><ondertekeningsdatum isodatum="1955-03-18">18-03-1955</ondertekeningsdatum><dossierref dossier="3702">3702</dossierref></publicatie><inwerkingtreding.datum isodatum="1955-04-08">08-04-1955</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002174&amp;g=1955-04-08" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0002174"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002174&amp;z=1955-04-08&amp;g=1955-04-08" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0002174"/></jcis></meta-data></wetgeving></toestand>

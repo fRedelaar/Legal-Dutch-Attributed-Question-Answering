@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0002755/2021-03-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0002755" inwerkingtreding="2021-03-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties><redactionele-correctie label-id="1544424" oud-revisie-id="38876711" nieuw-revisie-id="41315021"/></redactionele-correcties><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="1589833" versie-id="26518452" id="C38876721" label-id="1544644" inwerkingtredingsdatum="2021-03-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="1589913" versie-id="2352692" id="C2352691" label-id="1544344" inwerking="1973-01-01" bron="Stb.1971-371" effect="nieuwe-regeling" ondertekening_bron="1971-04-08" status="goed">Wet van 8 april 1971, houdende een algemene regeling betreffende de kwaliteit van voortbrengselen van de landbouw en de visserij <meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1971</publicatiejaar><publicatienr>371</publicatienr><ondertekeningsdatum isodatum="1971-04-08">08-04-1971</ondertekeningsdatum><dossierref dossier="9943">9943</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1972</publicatiejaar><publicatienr>732</publicatienr><ondertekeningsdatum isodatum="1972-12-29">29-12-1972</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1973-01-01">01-01-1973</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="1589923" versie-id="2352702" id="C2352701" label-id="1544354" inwerking="1973-01-01" bron="Stb.1971-371" effect="nieuwe-regeling" ondertekening_bron="1971-04-08">Landbouwkwaliteitswet<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1971</publicatiejaar><publicatienr>371</publicatienr><ondertekeningsdatum isodatum="1971-04-08">08-04-1971</ondertekeningsdatum><dossierref dossier="9943">9943</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1972</publicatiejaar><publicatienr>732</publicatienr><ondertekeningsdatum isodatum="1972-12-29">29-12-1972</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1973-01-01">01-01-1973</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="1589933" versie-id="2352712" id="C2352711" label-id="1544364" inwerking="1973-01-01" bron="Stb.1971-371" effect="nieuwe-regeling" ondertekening_bron="1971-04-08" status="goed">
+  <wij>Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz. </wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten: </considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is ter bevordering van de afzet een algemene regeling vast te stellen betreffende de kwaliteit van voortbrengselen van de landbouw en de visserij; </considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze: </al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1971</publicatiejaar><publicatienr>371</publicatienr><ondertekeningsdatum isodatum="1971-04-08">08-04-1971</ondertekeningsdatum><dossierref dossier="9943">9943</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1972</publicatiejaar><publicatienr>732</publicatienr><ondertekeningsdatum isodatum="1972-12-29">29-12-1972</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1973-01-01">01-01-1973</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="1589953" versie-id="26518442" id="C38876701" label-id="1544384" inwerking="2021-03-01" label="Artikel 1" bron="Stb.2020-65" effect="wijziging" ondertekening_bron="2020-02-05" publicatie_bron="2020-02-19" publicatie_iwt="2021-02-26" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan onder:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel_1">
+      <al>Onze Minister: Onze Minister van Landbouw, Natuur en Voedselkwaliteit; </al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel_2">
+      <al>landbouw: akkerbouw, weidebouw, tuinbouw – daaronder begrepen fruitteelt en het kweken van bomen, bloemen en bloembollen –, teelt van griendhout en elke andere vorm van bodemcultuur met inbegrip van bosbouw;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel_3">
+      <al>produkten: alle voortbrengselen van de landbouw, alsmede de bij be- of verwerking daarvan verkregen voortbrengselen, derivaten en afvallen; </al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel_4">
+      <al>college: het College van Beroep voor het bedrijfsleven;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel_5">
+      <al>landbouwkwaliteitsbesluit: een algemene maatregel van bestuur, bedoeld in <intref doc="jci1.3:c:BWBR0002755&amp;artikel=2&amp;z=2021-03-01&amp;g=2021-03-01" label-id="1544394" verwijzing-id="1631505" bwb-id="BWBR0002755" bwb-ng-variabel-deel="/Artikel2">artikel 2</intref>; </al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel_6">
+      <al>controle-instelling: een privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid, bedoeld in <intref doc="jci1.3:c:BWBR0002755&amp;artikel=8&amp;z=2021-03-01&amp;g=2021-03-01" label-id="1544474" verwijzing-id="1631506" bwb-id="BWBR0002755" bwb-ng-variabel-deel="/Artikel8">artikel 8</intref>;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel_7">
+      <al>verordening (EU) 1151/2012: verordening (EU) nr. 1151/2012 van het Europees Parlement en de Raad van 21 november 2012 inzake kwaliteitsregelingen voor landbouwproducten en levensmiddelen (PbEU 2012, L 343);</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel_8">
+      <al>geografische aanduiding: geografische aanduiding als bedoeld in artikel 5, tweede lid, van verordening (EU) 1151/2012;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel_9">
+      <al> geografische oorsprongsbenaming: oorsprongsbenaming als bedoeld in artikel 5, eerste lid, van verordening (EU) 1151/2012;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel_10">
+      <al> houder van een geografische aanduiding of geografische oorsprongsbenaming: een natuurlijke persoon of rechtspersoon, die op grond van verordening (EU) 1151/2012 gerechtigd is een geografische aanduiding of geografische oorsprongsbenaming te bezigen;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel_11">
+      <al> verordening (EU) 2017/625: Verordening (EU) 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de Verordeningen (EG) nr. 999/2001, (EG) nr. 396/2005, (EG) nr. 1069/2009, (EG) nr. 1107/2009, (EU) nr. 1151/2012, (EU) nr. 652/2014, (EU) 2016/429 en (EU) 2016/2031 van het Europees Parlement en de Raad, de Verordeningen (EG) nr. 1/2005 en (EG) nr. 1099/2009 van de Raad en de <extref doc="31998L0058" label="richtlijn" reeks="Celex">Richtlijnen 98/58/EG</extref>, <extref doc="31999L0074" label="richtlijn" reeks="Celex">1999/74/EG</extref>, <extref doc="32007L0043" label="richtlijn" reeks="Celex">2007/43/EG</extref>, <extref doc="32008L0119" label="richtlijn" reeks="Celex">2008/119/EG</extref> en <extref doc="32008L0120" label="richtlijn" reeks="Celex">2008/120/EG</extref> van de Raad, en tot intrekking van de Verordeningen (EG) nr. <extref doc="32754L2004" label="richtlijn" reeks="Celex">854/2004</extref> en (EG) nr. <extref doc="32782L2004" label="richtlijn" reeks="Celex">882/2004</extref> van het Europees Parlement en de Raad, de Richtlijnen <extref doc="31989L0608" label="richtlijn" reeks="Celex">89/608/EEG</extref>, <extref doc="31989L0662" label="richtlijn" reeks="Celex">89/662/EEG</extref>, <extref doc="31990L0425" label="richtlijn" reeks="Celex">90/425/EEG</extref>, <extref doc="31991L0496" label="richtlijn" reeks="Celex">91/496/EEG</extref>, <extref doc="31996L0023" label="richtlijn" reeks="Celex">96/23/EG</extref>, <extref doc="31996L0093" label="richtlijn" reeks="Celex">96/93/EG</extref> en <extref doc="31997L0078" label="richtlijn" reeks="Celex">97/78/EG</extref> van de Raad en Besluit <extref doc="31992L0438" label="richtlijn" reeks="Celex">92/438/EEG</extref> van de Raad (verordening officiële controles) (PbEU 2017, L 95).</al>
+    </li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-65"><publicatiejaar>2020</publicatiejaar><publicatienr>65</publicatienr><uitgiftedatum isodatum="2020-02-19">19-02-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-02-05">05-02-2020</ondertekeningsdatum><dossierref dossier="35083">35083</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-100"><publicatiejaar>2021</publicatiejaar><publicatienr>100</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-23">23-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-03-01">01-03-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=1&amp;g=2021-03-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="a-2" stam-id="1589963" versie-id="14586932" id="C23067691" label-id="1544394" inwerking="2007-09-28" label="Artikel 2" bron="Stb.2007-220" effect="wijziging" ondertekening_bron="2007-05-11" publicatie_bron="2007-06-26" publicatie_iwt="2007-09-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="1544394L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Bij of krachtens algemene maatregel van bestuur kunnen ter bevordering van de afzet regelen worden gesteld betreffende de kwaliteit van produkten. Deze regelen kunnen betrekking hebben op de oorsprong, de hoedanigheid, de sortering, de verzorging, de verpakking, de vorm, de afwerking, de aanduiding, de maat en het gewicht van produkten. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=2&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="1544394L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Bij of krachtens een algemene maatregel van bestuur, in het eerste lid bedoeld, kunnen tevens regelen worden gesteld inzake </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de inrichting en het gebruik, met betrekking tot produkten, van bedrijfsgebouwen en vervoermiddelen; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=2&amp;lid=2&amp;o=a&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>het gebruik en verbruik, met betrekking tot produkten, van toevoegingen, grond- en hulpstoffen; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=2&amp;lid=2&amp;o=b&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de be- en verwerkingswijzen van produkten; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=2&amp;lid=2&amp;o=c&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>het gebruik, met betrekking tot produkten, van machines, werktuigen en gereedschappen; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=2&amp;lid=2&amp;o=d&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>de hoedanigheid en het gebruik van verpakkingsmiddelen voor produkten; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=2&amp;lid=2&amp;o=e&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>de registratie van de onder die maatregel vallende betrokkenen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=2&amp;lid=2&amp;o=f&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="o=f"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=2&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid3" label-id="1544394L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Een voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur, in het eerste lid bedoeld, wordt Ons gedaan door Onze Minister en Onze Ministers, wie het mede aangaat, tezamen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=2&amp;lid=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2007-220"><publicatiejaar>2007</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2007-06-26">26-06-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-05-11">11-05-2007</ondertekeningsdatum><dossierref dossier="30852">30852</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2007-345"><publicatiejaar>2007</publicatiejaar><publicatienr>345</publicatienr><uitgiftedatum isodatum="2007-09-27">27-09-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-09-19">19-09-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-09-28">28-09-2007</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=2&amp;g=2021-03-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="a-3" stam-id="1589983" versie-id="2352752" id="C23067701" label-id="1544404" inwerking="1973-01-01" label="Artikel 3" bron="Stb.1971-371" effect="nieuwe-regeling" ondertekening_bron="1971-04-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="1544404L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Bij of krachtens een landbouwkwaliteitsbesluit kan worden voorzien in het verlenen van vrijstelling, en, op aanvrage, ontheffing van hetgeen bij of krachtens dat besluit is geregeld. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=3&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="1544404L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Aan vrijstellingen en ontheffingen, bedoeld in het eerste lid, kunnen voorschriften worden verbonden. Zij kunnen onder beperkingen worden verleend. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=3&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1971</publicatiejaar><publicatienr>371</publicatienr><ondertekeningsdatum isodatum="1971-04-08">08-04-1971</ondertekeningsdatum><dossierref dossier="9943">9943</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1972</publicatiejaar><publicatienr>732</publicatienr><ondertekeningsdatum isodatum="1972-12-29">29-12-1972</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1973-01-01">01-01-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=3&amp;g=2021-03-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" stam-id="15346883" versie-id="26518462" id="C41315021" label-id="1544424" inwerking="2021-03-01" label="Artikel 4" bron="Stb.2020-65" effect="nieuw" ondertekening_bron="2020-02-05" publicatie_bron="2020-02-19" publicatie_iwt="2021-02-26" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="1544424L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Bij landbouwkwaliteitsbesluit worden één of meer bevoegde autoriteiten als bedoeld in artikel 3, derde lid, van verordening (EU) 2017/625 aangewezen voor zover het betreft het gebied, genoemd in artikel 1, tweede lid, onderdelen i en j, van verordening (EU) 2017/625.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=4&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="1544424L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Bij landbouwkwaliteitsbesluit kan een controleautoriteit als bedoeld in artikel 3, vierde lid, van verordening (EU) 2017/625 worden aangewezen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=4&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid3" label-id="1544424L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Bij ministeriële regeling kunnen regels worden gesteld voor zover dat voor een goede uitvoering van het bepaalde bij of krachtens de artikelen 25 en 26 van verordening (EU) 2017/625 noodzakelijk is.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=4&amp;lid=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid4" label-id="1544424L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De voordracht voor een krachtens het eerste en tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=4&amp;lid=4&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid5" label-id="1544424L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Een krachtens het derde lid vast te stellen ministeriële regeling wordt aan de beide kamers der Staten-Generaal overgelegd. De ministeriële regeling wordt niet eerder vastgesteld dan vier weken na de overlegging.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=4&amp;lid=5&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2020-65"><publicatiejaar>2020</publicatiejaar><publicatienr>65</publicatienr><uitgiftedatum isodatum="2020-02-19">19-02-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-02-05">05-02-2020</ondertekeningsdatum><dossierref dossier="35083">35083</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2021-100"><publicatiejaar>2021</publicatiejaar><publicatienr>100</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-23">23-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-03-01">01-03-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=4&amp;g=2021-03-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=4&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="a-5" stam-id="1590003" versie-id="19211692" id="C26835721" label-id="1544434" inwerking="2012-02-08" label="Artikel 5" bron="Stb.2012-19" effect="vervallen" ondertekening_bron="2011-12-22" publicatie_bron="2012-01-26" publicatie_iwt="2012-02-07" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2012-19"><publicatiejaar>2012</publicatiejaar><publicatienr>19</publicatienr><uitgiftedatum isodatum="2012-01-26">26-01-2012</uitgiftedatum><ondertekeningsdatum isodatum="2011-12-22">22-12-2011</ondertekeningsdatum><dossierref dossier="32871">32871</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2012-31"><publicatiejaar>2012</publicatiejaar><publicatienr>31</publicatienr><uitgiftedatum isodatum="2012-02-07">07-02-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-01-25">25-01-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-02-08">08-02-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=5&amp;g=2021-03-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=5&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="a-6" stam-id="1590013" versie-id="14586962" id="C20090381" label-id="1544444" inwerking="2007-09-28" label="Artikel 6" bron="Stb.2007-220" effect="vervallen" ondertekening_bron="2007-05-11" publicatie_bron="2007-06-26" publicatie_iwt="2007-09-27" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2007-220"><publicatiejaar>2007</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2007-06-26">26-06-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-05-11">11-05-2007</ondertekeningsdatum><dossierref dossier="30852">30852</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2007-345"><publicatiejaar>2007</publicatiejaar><publicatienr>345</publicatienr><uitgiftedatum isodatum="2007-09-27">27-09-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-09-19">19-09-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-09-28">28-09-2007</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=6&amp;g=2021-03-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=6&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="a-7" stam-id="1590033" versie-id="2352802" id="C23067731" label-id="1544454" inwerking="1973-01-01" label="Artikel 7" bron="Stb.1971-371" effect="nieuwe-regeling" ondertekening_bron="1971-04-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid1" label-id="1544454L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien bij of krachtens een landbouwkwaliteitsbesluit regelen zijn gesteld omtrent keuring van produkten, kunnen daarbij merken, tekenen of bewijsstukken worden vastgesteld als uitsluitend bestemd om door of vanwege de daartoe gerechtigde op produkten of op hun verpakking te worden aangebracht, dan wel bij die produkten te worden gevoegd. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=7&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid2" label-id="1544454L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Bij of krachtens een besluit, in het eerste lid bedoeld, kunnen regelen worden gesteld betreffende het vervaardigen, voorhanden en in voorraad hebben, zomede het afleveren en gebruiken van merken, tekenen of bewijsstukken en van cliché's, stempels en andere werktuigen tot het vervaardigen of aanbrengen van die merken, tekenen of bewijsstukken. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=7&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1971</publicatiejaar><publicatienr>371</publicatienr><ondertekeningsdatum isodatum="1971-04-08">08-04-1971</ondertekeningsdatum><dossierref dossier="9943">9943</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1972</publicatiejaar><publicatienr>732</publicatienr><ondertekeningsdatum isodatum="1972-12-29">29-12-1972</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1973-01-01">01-01-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=7&amp;g=2021-03-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=7&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" code="a-8" stam-id="1590043" versie-id="14586972" id="C23067741" label-id="1544474" inwerking="2007-09-28" label="Artikel 8" bron="Stb.2007-220" effect="wijziging" ondertekening_bron="2007-05-11" publicatie_bron="2007-06-26" publicatie_iwt="2007-09-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid1" label-id="1544474L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>In een landbouwkwaliteitsbesluit kunnen een of meer privaatrechtelijke rechtspersonen met volledige rechtsbevoegdheid worden belast met het toezicht op de naleving van de bij of krachtens dat besluit gestelde regels.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=8&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid2" label-id="1544474L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> In een landbouwkwaliteitsbesluit kunnen een of meer privaatrechtelijke rechtspersonen met volledige rechtsbevoegdheid worden belast met de keuring, bedoeld in <intref verwijzing-id="2155856" doc="jci1.3:c:BWBR0002755&amp;artikel=7&amp;z=2021-03-01&amp;g=2021-03-01" bwb-id="BWBR0002755" label-id="1544454" bwb-ng-variabel-deel="/Artikel7">artikel 7</intref>, of met het toezicht daarop. Zij kunnen daarbij tevens bevoegd worden verklaard tot het uitreiken van merken, tekenen of bewijsstukken, in hetzelfde artikel bedoeld. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=8&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2007-220"><publicatiejaar>2007</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2007-06-26">26-06-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-05-11">11-05-2007</ondertekeningsdatum><dossierref dossier="30852">30852</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2007-345"><publicatiejaar>2007</publicatiejaar><publicatienr>345</publicatienr><uitgiftedatum isodatum="2007-09-27">27-09-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-09-19">19-09-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-09-28">28-09-2007</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=8&amp;g=2021-03-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=8&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8a" stam-id="10329793" versie-id="16943632" id="C23447841" label-id="10304994" inwerking="2010-01-01" label="Artikel 8a" bron="Stb.2009-550" effect="nieuw" ondertekening_bron="2009-11-12" publicatie_bron="2009-12-21" publicatie_iwt="2009-12-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8a</nr>
+  </kop>
+  <al>Op een privaatrechtelijke rechtspersoon als bedoeld in <intref verwijzing-id="2316980" doc="jci1.3:c:BWBR0002755&amp;artikel=8&amp;z=2021-03-01&amp;g=2021-03-01" bwb-id="BWBR0002755" label-id="1544474" bwb-ng-variabel-deel="/Artikel8">artikel 8</intref> is de <extref doc="jci1.3:c:BWBR0020495" verwijzing-id="2316981" bwb-id="BWBR0020495" label-id="8726284">Kaderwet zelfstandige bestuursorganen</extref> van toepassing.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2009-550"><publicatiejaar>2009</publicatiejaar><publicatienr>550</publicatienr><uitgiftedatum isodatum="2009-12-21">21-12-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-11-12">12-11-2009</ondertekeningsdatum><dossierref dossier="31809">31809</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2009-625"><publicatiejaar>2009</publicatiejaar><publicatienr>625</publicatienr><uitgiftedatum isodatum="2009-12-29">29-12-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-12-23">23-12-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2010-01-01">01-01-2010</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=8a&amp;g=2021-03-01" onderdeel="artikel=8a" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=8a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=8a&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=8a" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=8a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" code="a-9" stam-id="1590053" versie-id="14586982" id="C20090401" label-id="1544484" inwerking="2007-09-28" label="Artikel 9" bron="Stb.2007-220" effect="vervallen" ondertekening_bron="2007-05-11" publicatie_bron="2007-06-26" publicatie_iwt="2007-09-27" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>9</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2007-220"><publicatiejaar>2007</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2007-06-26">26-06-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-05-11">11-05-2007</ondertekeningsdatum><dossierref dossier="30852">30852</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2007-345"><publicatiejaar>2007</publicatiejaar><publicatienr>345</publicatienr><uitgiftedatum isodatum="2007-09-27">27-09-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-09-19">19-09-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-09-28">28-09-2007</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=9&amp;g=2021-03-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=9&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" code="a-10" stam-id="1590063" versie-id="14586992" id="C23067751" label-id="1544494" inwerking="2007-09-28" label="Artikel 10" bron="Stb.2007-220" effect="wijziging" ondertekening_bron="2007-05-11" publicatie_bron="2007-06-26" publicatie_iwt="2007-09-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid1" label-id="1544494L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een controle-instelling is niet werkzaam met het oogmerk om winst te behalen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=10&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid2" label-id="1544494L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Een controle-instelling stelt een reglement vast waarin wordt geregeld de wijze waarop de keuring, bedoeld in <intref verwijzing-id="2155857" doc="jci1.3:c:BWBR0002755&amp;artikel=7&amp;z=2021-03-01&amp;g=2021-03-01" bwb-id="BWBR0002755" label-id="1544454" bwb-ng-variabel-deel="/Artikel7">artikel 7</intref>, wordt uitgevoerd, de wijze waarop het uitreiken van bewijsstukken, merken en tekenen plaatsvindt, en de wijze waarop de controles plaatsvinden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=10&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid3" label-id="1544494L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het in het tweede lid bedoelde reglement behoeft de goedkeuring van Onze Minister. De goedkeuring kan worden onthouden wegens strijd met het recht of op de grond dat het reglement naar het oordeel van Onze Minister een goede taakuitoefening door de controle-instelling kan belemmeren.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=10&amp;lid=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid4" label-id="1544494L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De statuten van een controle-instelling alsmede wijzigingen daarvan behoeven, alvorens zij van kracht zijn, de instemming van Onze Minister. Onze Minister draagt zorg voor de publicatie van de statuten in de Staatscourant.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=10&amp;lid=4&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2007-220"><publicatiejaar>2007</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2007-06-26">26-06-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-05-11">11-05-2007</ondertekeningsdatum><dossierref dossier="30852">30852</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2007-345"><publicatiejaar>2007</publicatiejaar><publicatienr>345</publicatienr><uitgiftedatum isodatum="2007-09-27">27-09-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-09-19">19-09-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-09-28">28-09-2007</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=10&amp;g=2021-03-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=10&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" code="a-11" stam-id="1590073" versie-id="16943642" id="C23447821" label-id="1544504" inwerking="2010-01-01" label="Artikel 11" bron="Stb.2009-550" effect="wijziging" ondertekening_bron="2009-11-12" publicatie_bron="2009-12-21" publicatie_iwt="2009-12-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid1" label-id="1544504L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een controle-instelling kan tarieven vaststellen voor de kosten ter zake van het in <intref verwijzing-id="2155858" doc="jci1.3:c:BWBR0002755&amp;artikel=8&amp;z=2021-03-01&amp;g=2021-03-01" bwb-id="BWBR0002755" label-id="1544474" bwb-ng-variabel-deel="/Artikel8">artikel 8</intref> bedoelde toezicht en de keuring.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=11&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid2" label-id="1544504L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien Onze Minister bij of krachtens een landbouwkwaliteitsbesluit de in het eerste lid bedoelde activiteiten uitvoert, kan Onze Minister voor de kosten ter zake van deze activiteiten tarieven vaststellen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=11&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid3" label-id="1544504L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>
+      <redactie type="vervanging">Vervallen.</redactie>
+    </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=11&amp;lid=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid4" label-id="1544504L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De tarieven, bedoeld in het eerste en tweede lid:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel11/Lid4/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>hebben een rechtstreeks verband met de in die leden bedoelde activiteiten, en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=11&amp;lid=4&amp;o=a&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel11/Lid4/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>belopen niet meer dan nodig is ter dekking van de gemaakte kosten die zijn toe te rekenen aan die onderscheiden activiteiten.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=11&amp;lid=4&amp;o=b&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=11&amp;lid=4&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid5" label-id="1544504L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de oplegging en inning van de tarieven alsmede met betrekking tot het periodiek aanpassen van de tarieven aan de ontwikkeling van de lonen en de prijzen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=11&amp;lid=5&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid6" label-id="1544504L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Bij gebreke van betaling binnen de door de controle-instelling of door Onze Minister gestelde termijn kan de controle-instelling of Onze Minister het verschuldigde bedrag invorderen bij dwangbevel. De <extref doc="jci1.3:c:BWBR0005537&amp;artikel=4:114" verwijzing-id="2283573" bwb-id="BWBR0005537" label-id="10067004,10067014,10067024,10067034,10067044,10067054,10067064,10067074,10067084,10067094,10067104">artikelen 4:114 tot en met 4:124 van de Algemene wet bestuursrecht</extref> zijn van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=11&amp;lid=6&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid7" label-id="1544504L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>De controle-instelling of Onze Minister kan besluiten geen activiteiten als bedoeld in <intref verwijzing-id="2155859" doc="jci1.3:c:BWBR0002755&amp;artikel=8&amp;z=2021-03-01&amp;g=2021-03-01" bwb-id="BWBR0002755" label-id="1544474" bwb-ng-variabel-deel="/Artikel8">artikel 8, tweede lid</intref>, te verrichten of deze te staken, indien niet het ingevolge dit artikel verschuldigde bedrag wordt voldaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=11&amp;lid=7&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-550"><publicatiejaar>2009</publicatiejaar><publicatienr>550</publicatienr><uitgiftedatum isodatum="2009-12-21">21-12-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-11-12">12-11-2009</ondertekeningsdatum><dossierref dossier="31809">31809</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-625"><publicatiejaar>2009</publicatiejaar><publicatienr>625</publicatienr><uitgiftedatum isodatum="2009-12-29">29-12-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-12-23">23-12-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2010-01-01">01-01-2010</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=11&amp;g=2021-03-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=11&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=11"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel12" code="a-12" stam-id="1590083" versie-id="16943652" id="C23447851" label-id="1544514" inwerking="2010-01-01" label="Artikel 12" bron="Stb.2009-550" effect="wijziging" ondertekening_bron="2009-11-12" publicatie_bron="2009-12-21" publicatie_iwt="2009-12-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">12</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel12/Lid1" label-id="1544514L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De benoeming en het ontslag van de voorzitter van een controle-instelling behoeven goedkeuring van Onze Minister.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=12&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel12/Lid2" label-id="1544514L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Op een controle-instelling wordt rijkstoezicht uitgeoefend door Onze Minister overeenkomstig bij ministeriële regeling vast te stellen regels.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=12&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-550"><publicatiejaar>2009</publicatiejaar><publicatienr>550</publicatienr><uitgiftedatum isodatum="2009-12-21">21-12-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-11-12">12-11-2009</ondertekeningsdatum><dossierref dossier="31809">31809</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-625"><publicatiejaar>2009</publicatiejaar><publicatienr>625</publicatienr><uitgiftedatum isodatum="2009-12-29">29-12-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-12-23">23-12-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2010-01-01">01-01-2010</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=12&amp;g=2021-03-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=12&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=12"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13" stam-id="1590103" versie-id="22008822" id="C31561101" label-id="1544534" inwerking="2015-01-01" label="Artikel 13" bron="Stb.2014-571" effect="wijziging" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid1" label-id="1544534L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Bij overtreding van bij of krachtens een landbouwkwaliteitsbesluit gestelde regelen kunnen een of meer van de volgende tuchtrechtelijke maatregelen worden opgelegd:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel13/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>berisping;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13&amp;lid=1&amp;o=a&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel13/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>geldboete;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13&amp;lid=1&amp;o=b&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel13/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>het stellen van de betrokkene onder verscherpte controle op zijn kosten voor ten hoogste twee jaren;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13&amp;lid=1&amp;o=c&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel13/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>openbaarmaking van de uitspraak op kosten van de betrokkene.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13&amp;lid=1&amp;o=d&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid2" label-id="1544534L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De controle-instelling regelt bij reglement de samenstelling en bevoegdheid van haar organen die de tuchtrechtspraak uitoefenen, alsmede de rechtsgang van het tuchtrechtelijk geding, een en ander met inachtneming van bij algemene maatregel van bestuur te stellen regelen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid3" label-id="1544534L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De controle-instelling geeft aan de opbrengsten van de geldboeten een bijzondere bestemming, welke de goedkeuring van Onze Minister behoeft.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13&amp;lid=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid4" label-id="1544534L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>In verband met de uitvoering van voorschriften van de Raad van de Europese Unie, van het Europees Parlement en de Raad van de Europese Unie gezamenlijk of van de Commissie van de Europese Gemeenschappen kan in afwijking van het eerste lid bij of krachtens algemene maatregel van bestuur worden bepaald dat geen tuchtrechtelijke maatregelen worden gesteld op overtreding van de bij of krachtens die algemene maatregel van bestuur aangewezen bepalingen of onderdelen daarvan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13&amp;lid=4&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13&amp;g=2021-03-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13a" stam-id="9008613" versie-id="22008852" id="C31561131" label-id="8987554" inwerking="2015-01-01" label="Artikel 13a" bron="Stb.2014-571" effect="wijziging" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13a</nr>
+  </kop>
+  <al>De tuchtrechtelijke maatregel van berisping bestaat uit een schriftelijke of mondelinge vermaning tot de betrokkene in verband met het begane feit.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13a&amp;g=2021-03-01" onderdeel="artikel=13a" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13a&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13a" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13b" stam-id="12926083" versie-id="22008862" id="C31561141" label-id="12895114" inwerking="2015-01-01" label="Artikel 13b" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13b</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13b/Lid1" label-id="12895114L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De tuchtrechtelijke maatregel van geldboete bedraagt ten minste € 3 en ten hoogste een bedrag van de derde categorie, bedoeld in <extref doc="jci1.3:c:BWBR0001854&amp;artikel=23" label-id="2962974" verwijzing-id="2679565" bwb-id="BWBR0001854">artikel 23, vierde lid, van het Wetboek van Strafrecht</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13b&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13b/Lid2" label-id="12895114L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien de waarde van de goederen, met betrekking tot welke een overtreding is begaan, of de waarde van het wederrechtelijk genoten voordeel dat geheel of gedeeltelijk door middel van de overtreding is verkregen, hoger is dan een kwart van de geldboete van de derde categorie, kan een geldboete worden opgelegd van ten hoogste de vierde categorie, bedoeld in <extref doc="jci1.3:c:BWBR0001854&amp;artikel=23" label-id="2962974" verwijzing-id="2679566" bwb-id="BWBR0001854">artikel 23, vierde lid, van het Wetboek van Strafrecht</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13b&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13b/Lid3" label-id="12895114L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De geldboete kan geheel of gedeeltelijk voorwaardelijk worden opgelegd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13b&amp;lid=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13b&amp;g=2021-03-01" onderdeel="artikel=13b" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13b"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13b&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13b" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13b"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13c" stam-id="12926093" versie-id="22008872" id="C31561151" label-id="12895124" inwerking="2015-01-01" label="Artikel 13c" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13c</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13c/Lid1" label-id="12895124L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>In de gevallen, waarin het tuchtgerecht de openbaarmaking van zijn uitspraak gelast, bepaalt het tevens de wijze, waarop aan die last uitvoering wordt gegeven.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13c&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13c/Lid2" label-id="12895124L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De kosten van openbaarmaking worden in de uitspraak op een bepaald bedrag geschat.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13c&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13c&amp;g=2021-03-01" onderdeel="artikel=13c" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13c"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13c&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13c" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13c"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13d" stam-id="12926103" versie-id="22008882" id="C31561161" label-id="12895134" inwerking="2015-01-01" label="Artikel 13d" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13d</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13d/Lid1" label-id="12895134L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien een feit, dat tuchtrechtelijk kan worden afgedaan, wordt begaan door of vanwege een rechtspersoon of een vennootschap, wordt de tuchtrechtelijke vervolging ingesteld en worden maatregelen genomen tegen:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel13d/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>die rechtspersoon of die vennootschap;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13d&amp;lid=1&amp;o=a&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel13d/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>hen, die tot het feit opdracht hebben gegeven of die feitelijk leiding hebben gehad bij het verboden handelen of nalaten, of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13d&amp;lid=1&amp;o=b&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel13d/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>beiden.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13d&amp;lid=1&amp;o=c&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13d&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13d/Lid2" label-id="12895134L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Een feit wordt onder meer begaan door of vanwege een rechtspersoon of een vennootschap, indien het begaan wordt door personen, die hetzij uit hoofde van een dienstbetrekking, hetzij uit anderen hoofde handelen in de sfeer van de rechtspersoon of de vennootschap, ongeacht of deze personen ieder afzonderlijk het feit hebben begaan, dan wel bij hen gezamenlijk de elementen van dat feit aanwezig zijn.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13d&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13d/Lid3" label-id="12895134L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Indien een tuchtrechtelijke vervolging wordt ingesteld tegen een rechtspersoon of een vennootschap, wordt deze tijdens de vervolging vertegenwoordigd door de bestuurder en, indien er meer bestuurders zijn, door één dezer.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13d&amp;lid=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13d&amp;g=2021-03-01" onderdeel="artikel=13d" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13d"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13d&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13d" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13d"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13e" stam-id="12926113" versie-id="22008892" id="C31561171" label-id="12895144" inwerking="2015-01-01" label="Artikel 13e" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13e</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13e/Lid1" label-id="12895144L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Op gezamenlijk verzoek van de controle-instelling en de eigenaar van het bedrijf waar de maatregel is opgelegd, kan het tuchtgerecht besluiten om de sanctie van het verscherpt toezicht op te heffen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13e&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13e/Lid2" label-id="12895144L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De betrokkene wordt binnen een termijn van ten hoogste acht weken nadat het verzoek bij het tuchtgerecht is ingediend opgeroepen om op een door de voorzitter te bepalen dag en uur ter zitting te verschijnen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13e&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13e/Lid3" label-id="12895144L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De oproeping wordt ten minste twee weken voor de dag van de zitting aan de betrokkene gezonden en vermeldt de plaats van de zitting.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13e&amp;lid=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13e/Lid4" label-id="12895144L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De oproeping gaat vergezeld van een afschrift van alle op de zaak betrekking hebbende stukken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13e&amp;lid=4&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13e/Lid5" label-id="12895144L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>De oproeping houdt in:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel13e/Lid5/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de namen, het beroep en de woonplaats van de ter zitting opgeroepen getuigen en deskundigen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13e&amp;lid=5&amp;o=a&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel13e/Lid5/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de mededeling, dat de betrokkene bevoegd is getuigen en deskundigen ter zitting mede te brengen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13e&amp;lid=5&amp;o=b&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13e&amp;lid=5&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13e/Lid6" label-id="12895144L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>De <intref doc="jci1.3:c:BWBR0002755&amp;artikel=13k&amp;z=2021-03-01&amp;g=2021-03-01" label-id="12895204,12895214,12895224,12895234,12895244,12895254" verwijzing-id="2680537" bwb-id="BWBR0002755" bwb-ng-variabel-deel="/Artikel13k">artikelen 13k tot en met 13p</intref> en <intref doc="jci1.3:c:BWBR0002755&amp;artikel=13r&amp;z=2021-03-01&amp;g=2021-03-01" label-id="12895274,12895284,12895294" verwijzing-id="2680538" bwb-id="BWBR0002755" bwb-ng-variabel-deel="/Artikel13r">13r tot en met 13t</intref> zijn van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13e&amp;lid=6&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13e/Lid7" label-id="12895144L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Het tuchtgerecht doet schriftelijk uitspraak.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13e&amp;lid=7&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13e/Lid8" label-id="12895144L8">
+    <lidnr status="officieel">8</lidnr>
+    <al>De uitspraak houdt in de beslissing omtrent het toe- of afwijzen van het verzoek.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13e&amp;lid=8&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=8"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13e/Lid9" label-id="12895144L9">
+    <lidnr status="officieel">9</lidnr>
+    <al>Het tuchtgerecht spreekt de beslissing, bedoeld in het achtste lid, in het openbaar uit.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13e&amp;lid=9&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=9"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13e/Lid10" label-id="12895144L10">
+    <lidnr status="officieel">10</lidnr>
+    <al>In afwijking van het zevende lid kan het tuchtgerecht na sluiting van het onderzoek ter zitting onmiddellijk mondeling uitspraak doen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13e&amp;lid=10&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=10"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13e/Lid11" label-id="12895144L11">
+    <lidnr status="officieel">11</lidnr>
+    <al>Van de mondelinge uitspraak wordt door de secretaris een proces-verbaal opgemaakt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13e&amp;lid=11&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=11"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13e/Lid12" label-id="12895144L12">
+    <lidnr status="officieel">12</lidnr>
+    <al>De uitspraak wordt onverwijld aan de betrokkene en de controle-instelling gezonden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13e&amp;lid=12&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=12"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13e/Lid13" label-id="12895144L13">
+    <lidnr status="officieel">13</lidnr>
+    <al>Tegen de uitspraak op het verzoek staat geen hoger beroep open.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13e&amp;lid=13&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=13"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13e&amp;g=2021-03-01" onderdeel="artikel=13e" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13e"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13e&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13e" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13e"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13f" stam-id="12926123" versie-id="22008902" id="C31561181" label-id="12895154" inwerking="2015-01-01" label="Artikel 13f" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13f</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13f/Lid1" label-id="12895154L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De betrokkene dan wel de controle-instelling kan binnen zes weken na de verzending van de uitspraak van het tuchtgerecht hoger beroep instellen bij het College, tenzij tegen die uitspraak verzet kan of kon worden gedaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13f&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13f/Lid2" label-id="12895154L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De controle-instelling kan voorts hoger beroep instellen tegen een uitspraak bij verstek, tenzij de betrokkene verzet doet. Het hoger beroep kan worden ingesteld binnen zes weken nadat de termijn voor het doen van verzet ongebruikt is verstreken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13f&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13f&amp;g=2021-03-01" onderdeel="artikel=13f" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13f"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13f&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13f" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13f"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13g" stam-id="12926133" versie-id="22008912" id="C31561191" label-id="12895164" inwerking="2015-01-01" label="Artikel 13g" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13g</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13g/Lid1" label-id="12895164L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het hoger beroep wordt ingesteld door het indienen van een beroepschrift bij het College.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13g&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13g/Lid2" label-id="12895164L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het beroepschrift is ondertekend en bevat de gronden van het beroep.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13g&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13g/Lid3" label-id="12895164L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De griffier zendt binnen een week na ontvangst van het beroepschrift een afschrift daarvan aan het tuchtgerecht en aan de betrokkene, dan wel de controle-instelling.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13g&amp;lid=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13g&amp;g=2021-03-01" onderdeel="artikel=13g" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13g"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13g&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13g" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13g"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13h" stam-id="12926143" versie-id="22008922" id="C31561201" label-id="12895174" inwerking="2015-01-01" label="Artikel 13h" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13h</nr>
+  </kop>
+  <al>Het tuchtgerecht doet binnen drie weken na ontvangst van het afschrift van het beroepschrift, bedoeld in <intref doc="jci1.3:c:BWBR0002755&amp;artikel=13g&amp;z=2021-03-01&amp;g=2021-03-01" label-id="12895164" verwijzing-id="2679567" bwb-id="BWBR0002755" bwb-ng-variabel-deel="/Artikel13g">artikel 13g, derde lid</intref>, de stukken toekomen aan de griffier van het College.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13h&amp;g=2021-03-01" onderdeel="artikel=13h" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13h"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13h&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13h" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13h"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13i" stam-id="12926153" versie-id="22008932" id="C31561211" label-id="12895184" inwerking="2015-01-01" label="Artikel 13i" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13i</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13i/Lid1" label-id="12895184L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Als het beroep kennelijk niet-ontvankelijk of kennelijk ongegrond is, kan het College of de president zonder nader onderzoek door het College uitspraak doen. De uitspraak wordt onverwijld aan de betrokkene, het tuchtgerecht en de controle-instelling gezonden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13i&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13i/Lid2" label-id="12895184L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Tegen de uitspraak, bedoeld in het eerste lid, kan de betrokkene dan wel de controle-instelling binnen zes weken na de verzending van de uitspraak verzet doen bij het College. <intref doc="jci1.3:c:BWBR0002755&amp;artikel=13g&amp;z=2021-03-01&amp;g=2021-03-01" label-id="12895164" verwijzing-id="2679568" bwb-id="BWBR0002755" bwb-ng-variabel-deel="/Artikel13g">Artikel 13g</intref> is van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13i&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13i/Lid3" label-id="12895184L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het College verklaart het verzet niet-ontvankelijk, ongegrond of gegrond. Indien het verzet gegrond wordt verklaard, vervalt de uitspraak. De laatste zin van het eerste lid is van toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13i&amp;lid=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13i/Lid4" label-id="12895184L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Als het beroep kennelijk niet-ontvankelijk of ongegrond is, kan het College het verzet niet-ontvankelijk of ongegrond verklaren, echter niet dan na de betrokkene dan wel de controle-instelling in de gelegenheid te hebben gesteld te worden gehoord.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13i&amp;lid=4&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13i/Lid5" label-id="12895184L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>De uitspraak op het verzet wordt onverwijld aan de betrokkene, het tuchtgerecht en de controle-instelling gezonden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13i&amp;lid=5&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13i&amp;g=2021-03-01" onderdeel="artikel=13i" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13i"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13i&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13i" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13i"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13j" stam-id="12926163" versie-id="22008942" id="C31561221" label-id="12895194" inwerking="2015-01-01" label="Artikel 13j" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13j</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13j/Lid1" label-id="12895194L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Tenzij artikel 13i, eerste lid wordt toegepast, bepaalt de president de dag voor de behandeling van de zaak. Betrokkene en de controle-instelling worden uitgenodigd om op een in de uitnodiging te vermelden plaats en tijdstip op een zitting van het College te verschijnen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13j&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13j/Lid2" label-id="12895194L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Voor de behandeling ter terechtzitting worden de processtukken gedurende ten minste een week ter griffie of elders ter kosteloze inzage voor de betrokkene en de controle-instelling danwel voor hun gemachtigden nedergelegd. De nederlegging wordt door de griffier tijdig ter kennis van de betrokkene en van de controle-instelling gebracht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13j&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13j/Lid3" label-id="12895194L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De in het vorige lid bedoelde termijn kan met toestemming van de betrokkene en de controle-instelling worden verkort.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13j&amp;lid=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13j/Lid4" label-id="12895194L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Is de termijn niet in acht genomen, dan bepaalt het College een nieuwe rechtsdag, tenzij de betrokkene in persoon of bij gemachtigde is verschenen. In dit laatste geval kan op zijn verzoek uitstel worden verleend.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13j&amp;lid=4&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13j/Lid5" label-id="12895194L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>In de gevallen, waarin op de terechtzitting de behandeling van de zaak voor een bepaalde tijd wordt uitgesteld of geschorst, wordt geen nieuwe kennisgeving gedaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13j&amp;lid=5&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13j&amp;g=2021-03-01" onderdeel="artikel=13j" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13j"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13j&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13j" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13j"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13k" stam-id="12926173" versie-id="22008952" id="C31561231" label-id="12895204" inwerking="2015-01-01" label="Artikel 13k" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13k</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13k/Lid1" label-id="12895204L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De zitting is openbaar.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13k&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13k/Lid2" label-id="12895204L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het College kan bepalen dat de behandeling van de zaak geheel of gedeeltelijk met gesloten deuren plaatsvindt indien een openbare behandeling een goede rechtspleging of de belangen van de betrokkene of de controle-instelling ernstig zou schaden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13k&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13k/Lid3" label-id="12895204L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het College houdt zitting met drie of vijf leden, onder wie de voorzitter of een plaatsvervangend voorzitter.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13k&amp;lid=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13k&amp;g=2021-03-01" onderdeel="artikel=13k" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13k"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13k&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13k" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13k"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13l" stam-id="12926183" versie-id="22008962" id="C31561241" label-id="12895214" inwerking="2015-01-01" label="Artikel 13l" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13l</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13l/Lid1" label-id="12895214L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De voorzitter heeft de leiding van de zitting.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13l&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13l/Lid2" label-id="12895214L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De secretaris houdt aantekening van het verhandelde ter zitting.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13l&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13l/Lid3" label-id="12895214L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De secretaris maakt een proces-verbaal op van de zitting, indien het College dit ambtshalve dan wel op verzoek van de betrokkene of de controle-instelling bepaalt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13l&amp;lid=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13l/Lid4" label-id="12895214L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Het proces-verbaal bevat de namen van de voorzitter en de leden die de zaak behandelen, die van partijen en van hun vertegenwoordigers of gemachtigden die op de zitting zijn verschenen en van degenen die hen hebben bijgestaan, en die van de getuigen, deskundigen en tolken die op de zitting zijn verschenen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13l&amp;lid=4&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13l/Lid5" label-id="12895214L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Het proces-verbaal houdt een vermelding in van hetgeen op de zitting met betrekking tot de zaak is voorgevallen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13l&amp;lid=5&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13l/Lid6" label-id="12895214L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Het proces-verbaal wordt door de voorzitter en de secretaris ondertekend.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13l&amp;lid=6&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13l/Lid7" label-id="12895214L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Aan het proces-verbaal kunnen overgelegde pleitnotities worden gehecht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13l&amp;lid=7&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13l/Lid8" label-id="12895214L8">
+    <lidnr status="officieel">8</lidnr>
+    <al>Het College kan bepalen dat de verklaring van een partij, getuige of deskundige geheel in het proces-verbaal zal worden opgenomen. In dat geval wordt de verklaring onverwijld op schrift gesteld en aan de partij, getuige of deskundige voorgelezen. Deze mag daarin wijzigingen aanbrengen, die op schrift worden gesteld en aan de partij, getuige of deskundige worden voorgelezen. De verklaring wordt door de partij, getuige of deskundige ondertekend. Heeft ondertekening niet plaats, dan wordt de reden daarvan in het proces-verbaal vermeld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13l&amp;lid=8&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=8"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13l&amp;g=2021-03-01" onderdeel="artikel=13l" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13l"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13l&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13l" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13l"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13m" stam-id="12926193" versie-id="22008972" id="C31561251" label-id="12895224" inwerking="2015-01-01" label="Artikel 13m" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13m</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13m/Lid1" label-id="12895224L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het College kan de behandeling ter zitting schorsen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13m&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13m/Lid2" label-id="12895224L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>In dat geval bepaalt het College zo spoedig mogelijk het tijdstip waarop de behandeling wordt hervat en worden de betrokkene en de controle-instelling hiervan op de hoogte gesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13m&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13m&amp;g=2021-03-01" onderdeel="artikel=13m" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13m"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13m&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13m" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13m"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13n" stam-id="12926203" versie-id="22008982" id="C31561261" label-id="12895234" inwerking="2015-01-01" label="Artikel 13n" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13n</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13n/Lid1" label-id="12895234L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De betrokkene of de controle-instelling kan, tenzij het College beveelt dat hij in persoon zal verschijnen, zich op de terechtzitting doen vertegenwoordigen door een advocaat, indien deze aldaar verklaart daartoe bepaaldelijk gevolmachtigd te zijn, of wel door een daartoe bij bijzondere volmacht schriftelijk gemachtigde.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13n&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13n/Lid2" label-id="12895234L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het College kan weigeren bepaalde personen, die niet zijn advocaat, als gemachtigde toe te laten. Bij zodanige weigering houdt het College de zaak tot de volgende zitting aan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13n&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13n/Lid3" label-id="12895234L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het College stelt de betrokkene en de controle-instelling van de aanhouding en de reden daarvan in kennis en roept de betrokkene dan wel de controle-instelling tevens op om op de voor de zaak bepaalde nadere zitting in persoon of bij een andere gemachtigde tegenwoordig te zijn.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13n&amp;lid=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13n/Lid4" label-id="12895234L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De betrokkene of de controle-instelling kan zich te allen tijde door een raadsman doen bijstaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13n&amp;lid=4&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13n/Lid5" label-id="12895234L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Het College kan weigeren bepaalde personen, die niet zijn advocaat, als raadsman toe te laten. Bij zodanige weigering houdt het College op verzoek van de betrokkene of de controle-instelling de zaak tot een volgende zitting aan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13n&amp;lid=5&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13n&amp;g=2021-03-01" onderdeel="artikel=13n" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13n"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13n&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13n" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13n"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13o" stam-id="12926213" versie-id="22008992" id="C31561271" label-id="12895244" inwerking="2015-01-01" label="Artikel 13o" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13o</nr>
+  </kop>
+  <al>Op verzoek van de betrokkene kan de voorzitter of elk van de leden die een zaak behandelen, worden gewraakt op grond van feiten en omstandigheden waardoor de onpartijdigheid van het College schade zou kunnen lijden. De <extref doc="jci1.3:c:BWBR0001903&amp;artikel=513" label-id="3009024,3009034,3009044" verwijzing-id="2679569" bwb-id="BWBR0001903">artikelen 513 tot en met 515 van het Wetboek van Strafvordering</extref> zijn van overeenkomstige toepassing.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13o&amp;g=2021-03-01" onderdeel="artikel=13o" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13o"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13o&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13o" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13o"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13p" stam-id="12926223" versie-id="22009002" id="C31561281" label-id="12895254" inwerking="2015-01-01" label="Artikel 13p" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13p</nr>
+  </kop>
+  <al>Op grond van feiten en omstandigheden als bedoeld in <intref doc="jci1.3:c:BWBR0002755&amp;artikel=13o&amp;z=2021-03-01&amp;g=2021-03-01" label-id="12895244" verwijzing-id="2679570" bwb-id="BWBR0002755" bwb-ng-variabel-deel="/Artikel13o">artikel 13o</intref> kan de voorzitter of een lid die een zaak behandelt, verzoeken zich te mogen verschonen. De <extref doc="jci1.3:c:BWBR0001903&amp;artikel=517" label-id="3009064,3009074" verwijzing-id="2679571" bwb-id="BWBR0001903">artikelen 517, tweede en derde lid, tot en met 518 van het Wetboek van Strafvordering</extref> zijn van overeenkomstige toepassing.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13p&amp;g=2021-03-01" onderdeel="artikel=13p" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13p"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13p&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13p" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13p"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13q" stam-id="12926233" versie-id="22009012" id="C31561291" label-id="12895264" inwerking="2015-01-01" label="Artikel 13q" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13q</nr>
+  </kop>
+  <al>Aan de betrokkene of de controle-instelling dan wel aan hun gemachtigden en aan de raadsman wordt de gelegenheid gegeven het woord te voeren en de gronden van het beroep toe te lichten.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13q&amp;g=2021-03-01" onderdeel="artikel=13q" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13q"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13q&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13q" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13q"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13r" stam-id="12926243" versie-id="22009022" id="C31561301" label-id="12895274" inwerking="2015-01-01" label="Artikel 13r" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13r</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13r/Lid1" label-id="12895274L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het College kan ambtshalve of op verzoek van de betrokkene of de controle-instelling getuigen oproepen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13r&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13r/Lid2" label-id="12895274L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Ieder, die als getuige is opgeroepen, is verplicht voor het College te verschijnen. Indien de getuige niet op de oproeping verschijnt, kan het College de officier van justitie in het arrondissement waarin het College zitting houdt, verzoeken de getuige ter terechtzitting van het College te dagvaarden en daarbij te voegen een bevel tot medebrenging.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13r&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13r/Lid3" label-id="12895274L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Met betrekking tot het horen van de getuigen en hun recht van verschoning zijn de <extref doc="jci1.3:c:BWBR0001903&amp;artikel=217" label-id="3004794,3004804,3004814,3004834,3004844,8649934,14752464" verwijzing-id="2679572" bwb-id="BWBR0001903">artikelen 217 tot en met 220 van het Wetboek van Strafvordering</extref> van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13r&amp;lid=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13r/Lid4" label-id="12895274L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De voorzitter kan bepalen dat getuigen niet zullen worden gehoord dan na het afleggen van de eed of de belofte. Zij leggen in dat geval de eed of de belofte af dat zij zullen zeggen de gehele waarheid en niets dan de waarheid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13r&amp;lid=4&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13r&amp;g=2021-03-01" onderdeel="artikel=13r" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13r"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13r&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13r" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13r"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13s" stam-id="12926253" versie-id="22009032" id="C31561311" label-id="12895284" inwerking="2015-01-01" label="Artikel 13s" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13s</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13s/Lid1" label-id="12895284L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het College kan ambtshalve of op verzoek van de betrokkene of de controle-instelling deskundigen benoemen, teneinde het College voor te lichten, zo nodig, met opdracht een onderzoek in te stellen en het College een verslag uit te brengen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13s&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13s/Lid2" label-id="12895284L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De deskundige is verplicht zijn taak onpartijdig en naar beste weten te verrichten. Ten aanzien van deskundigen en hun verhoor zijn de <extref doc="jci1.3:c:BWBR0001903&amp;artikel=217" label-id="3004794,3004804,3004814,3004834,3004844,8649934,14752464" verwijzing-id="2679573" bwb-id="BWBR0001903">artikelen 217 tot en met 220 van het Wetboek van Strafvordering</extref> van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13s&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13s/Lid3" label-id="12895284L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het College kan de deskundige geheimhouding opleggen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13s&amp;lid=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13s&amp;g=2021-03-01" onderdeel="artikel=13s" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13s"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13s&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13s" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13s"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13t" stam-id="12926263" versie-id="22009042" id="C31561321" label-id="12895294" inwerking="2015-01-01" label="Artikel 13t" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13t</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13t/Lid1" label-id="12895294L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het College sluit het onderzoek ter zitting, wanneer het van oordeel is dat het is voltooid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13t&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13t/Lid2" label-id="12895294L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Voordat het onderzoek ter zitting wordt gesloten, hebben de betrokkene en de controle-instelling het recht voor het laatst het woord te voeren.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13t&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13t/Lid3" label-id="12895294L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Na de behandeling van de zaak ter terechtzitting bepaalt de voorzitter de dag voor de uitspraak, tenzij het College onmiddellijk mondeling uitspraak doet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13t&amp;lid=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13t&amp;g=2021-03-01" onderdeel="artikel=13t" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13t"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13t&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13t" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13t"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13u" stam-id="12926273" versie-id="22009052" id="C31561331" label-id="12895304" inwerking="2015-01-01" label="Artikel 13u" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13u</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13u/Lid1" label-id="12895304L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het College verklaart het beroep niet-ontvankelijk, ongegrond of gegrond.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13u&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13u/Lid2" label-id="12895304L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien het College niet voldoende is ingelicht, kan het bevelen, dat de behandeling der zaak op een nader te bepalen datum zal worden hervat.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13u&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13u&amp;g=2021-03-01" onderdeel="artikel=13u" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13u"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13u&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13u" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13u"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13v" stam-id="12926283" versie-id="22009062" id="C31561341" label-id="12895314" inwerking="2015-01-01" label="Artikel 13v" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13v</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13v/Lid1" label-id="12895314L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien het College het beroep gegrond verklaart, vernietigt het de uitspraak van het tuchtgerecht. In dat geval doet het College de zaak zelf af of verwijst haar naar het betrokken tuchtgerecht om haar af te doen met inachtneming van de beslissing van het College.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13v&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13v/Lid2" label-id="12895314L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien een nader onderzoek noodzakelijk is en het College de zaak zelf afdoet, worden de betrokkene en de controle-instelling binnen een termijn van ten hoogste acht weken nadat de zaak bij het College aanhangig is gemaakt opgeroepen om op een door de voorzitter te bepalen dag en uur ter zitting te verschijnen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13v&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13v/Lid3" label-id="12895314L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De oproeping wordt ten minste twee weken voor de dag van de zitting aan de betrokkene en de controle-instelling gezonden en vermeldt de plaats van de zitting.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13v&amp;lid=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13v/Lid4" label-id="12895314L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>
+      <intref doc="jci1.3:c:BWBR0002755&amp;artikel=13e&amp;z=2021-03-01&amp;g=2021-03-01" label-id="12895144" verwijzing-id="2679574" bwb-id="BWBR0002755" bwb-ng-variabel-deel="/Artikel13e">Artikel 13e, vierde en vijfde lid</intref>, is van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13v&amp;lid=4&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13v&amp;g=2021-03-01" onderdeel="artikel=13v" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13v"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13v&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13v" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13v"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13w" stam-id="12926293" versie-id="22009072" id="C31561351" label-id="12895324" inwerking="2015-01-01" label="Artikel 13w" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13w</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13w/Lid1" label-id="12895324L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het College doet schriftelijk uitspraak.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13w&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13w/Lid2" label-id="12895324L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De uitspraak houdt in de beslissing omtrent het opleggen van de tuchtrechtelijke maatregel, de gronden en de voorschriften waarop zij berust.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13w&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13w/Lid3" label-id="12895324L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het College spreekt de beslissing, bedoeld in het tweede lid, in het openbaar uit.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13w&amp;lid=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13w/Lid4" label-id="12895324L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>In afwijking van het eerste lid kan het College na sluiting van het onderzoek ter zitting onmiddellijk mondeling uitspraak doen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13w&amp;lid=4&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13w/Lid5" label-id="12895324L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Van de mondelinge uitspraak wordt door de griffier een proces-verbaal opgemaakt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13w&amp;lid=5&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13w/Lid6" label-id="12895324L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>De uitspraak wordt onverwijld aan de betrokkene, de controle-instelling en het tuchtgerecht gezonden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13w&amp;lid=6&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13w&amp;g=2021-03-01" onderdeel="artikel=13w" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13w"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13w&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13w" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13w"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13x" stam-id="12926303" versie-id="22009082" id="C31561361" label-id="12895334" inwerking="2015-01-01" label="Artikel 13x" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13x</nr>
+  </kop>
+  <al>De tenuitvoerlegging van uitspraken van een tuchtgerecht en van het College geschiedt op last van de controle-instelling. De controle-instelling kan niet van tenuitvoerlegging afzien, tenzij met goedkeuring van de voorzitter van het College.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13x&amp;g=2021-03-01" onderdeel="artikel=13x" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13x"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13x&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13x" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13x"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13y" stam-id="12926313" versie-id="22009092" id="C31561371" label-id="12895344" inwerking="2015-01-01" label="Artikel 13y" bron="Stb.2014-571" effect="nieuw" ondertekening_bron="2014-12-17" publicatie_bron="2014-12-24" publicatie_iwt="2014-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13y</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13y/Lid1" label-id="12895344L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De controle-instelling brengt binnen twee weken na het onherroepelijk worden van de uitspraak van het tuchtgerecht of van het College ter kennis van de betrokkene, binnen welke termijn hij de opgelegde geldboete, of de kosten van openbaarmaking van de uitspraak moet voldoen. Deze termijn kan op ten hoogste twee maanden worden gesteld en kan telkens worden verlengd, maar mag ook na verlenging niet langer zijn dan twee jaren.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13y&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13y/Lid2" label-id="12895344L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Bij gebreke van volledige betaling binnen de in het eerste lid bedoelde termijn wordt het niet betaalde bedrag ingevorderd op dezelfde wijze als de tarieven, bedoeld in <intref doc="jci1.3:c:BWBR0002755&amp;artikel=11&amp;z=2021-03-01&amp;g=2021-03-01" label-id="1544504" verwijzing-id="2679575" bwb-id="BWBR0002755" bwb-ng-variabel-deel="/Artikel11">artikel 11, eerste lid</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13y&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13y/Lid3" label-id="12895344L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het eerste en het tweede lid zijn van overeenkomstige toepassing op de kosten van de verscherpte controle, bedoeld in <intref doc="jci1.3:c:BWBR0002755&amp;artikel=13&amp;z=2021-03-01&amp;g=2021-03-01" label-id="1544534" verwijzing-id="2679576" bwb-id="BWBR0002755" bwb-ng-variabel-deel="/Artikel13">artikel 13, eerste lid, onderdeel c</intref>, met dien verstande dat de termijn voor de kennisgeving van de betalingstermijn eerst aanvangt nadat de kosten zijn gemaakt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13y&amp;lid=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-571"><publicatiejaar>2014</publicatiejaar><publicatienr>571</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum><dossierref dossier="33910">33910</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-576"><publicatiejaar>2014</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="2014-12-24">24-12-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-12-17">17-12-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-01-01">01-01-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=13y&amp;g=2021-03-01" onderdeel="artikel=13y" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=13y"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13y&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=13y" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=13y"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel14" stam-id="1590113" versie-id="23494812" id="C34889061" label-id="1544544" inwerking="2017-09-01" label="Artikel 14" bron="Stb.2016-290" effect="wijziging" ondertekening_bron="2016-07-13" publicatie_bron="2016-07-21" publicatie_iwt="2017-05-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">14</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid1" label-id="1544544L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De houder van een geografische aanduiding of geografische oorsprongsbenaming kan zijn recht handhaven jegens een ieder die, zonder daartoe gerechtigd te zijn, een van de handelingen genoemd in artikel 13, eerste lid, van verordening (EU) 1151/2012 verricht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=14&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid2" label-id="1544544L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De rechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming tussenpersonen wier diensten door derden worden gebruikt om inbreuk op het recht van de houder te maken, bevelen de diensten die worden gebruikt om die inbreuk te maken, te staken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=14&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid3" label-id="1544544L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De voorzieningenrechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming tijdelijke voortzetting van de vermeende inbreuk op dit recht toestaan onder de voorwaarde dat zekerheid wordt gesteld voor vergoeding van de door de houder geleden schade. Onder dezelfde voorwaarden kan de rechter voortzetting van de dienstverlening door de tussenpersoon als bedoeld in het tweede lid toestaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=14&amp;lid=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid4" label-id="1544544L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Schadevergoeding kan slechts worden gevorderd van degene die de handelingen bewust verricht. Van bewust handelen is in elk geval sprake, indien de inbreuk is gepleegd nadat de betrokkene bij deurwaardersexploot op de strijd tussen de handelingen en de geografische aanduiding is gewezen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=14&amp;lid=4&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid5" label-id="1544544L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>In passende gevallen kan de rechter de schadevergoeding vaststellen als een forfaitair bedrag.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=14&amp;lid=5&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid6" label-id="1544544L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>In plaats van schadevergoeding kan worden gevorderd, dat de verweerder veroordeeld wordt de door de inbreuk genoten winst af te dragen en dienaangaande rekening en verantwoording af te leggen; indien de rechter echter van oordeel is dat de omstandigheden van het geval geen aanleiding geven tot een dergelijke veroordeling, zal de rechter de verweerder tot schadevergoeding kunnen veroordelen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=14&amp;lid=6&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid7" label-id="1544544L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>De houder van een geografische aanduiding of geografische oorsprongsbenaming kan de vorderingen tot schadevergoeding of het afdragen van winst ook namens of mede namens de overige houders van de desbetreffende geografische aanduiding instellen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=14&amp;lid=7&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid8" label-id="1544544L8">
+    <lidnr status="officieel">8</lidnr>
+    <al>De houder van een geografische aanduiding of geografische oorsprongsbenaming heeft de bevoegdheid roerende zaken, waarmee een inbreuk op zijn recht wordt gemaakt, of materialen en werktuigen die voornamelijk zijn gebruikt bij de voortbrenging van die zaken als zijn eigendom op te eisen, dan wel onttrekking aan het verkeer, vernietiging of onbruikbaarmaking daarvan te vorderen. Bij de beoordeling van de vordering wordt een afweging gemaakt tussen de ernst van de inbreuk en de gevorderde maatregelen alsmede de belangen van derden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=14&amp;lid=8&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=8"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid9" label-id="1544544L9">
+    <lidnr status="officieel">9</lidnr>
+    <al>De bepalingen van het <extref doc="jci1.3:c:BWBR0001827" label-id="3192094" verwijzing-id="2136640" bwb-id="BWBR0001827">Wetboek van Burgerlijke Rechtsvordering</extref> betreffende beslag en executie tot afgifte van roerende zaken, zijn van toepassing. Bij samenloop met een ander beslag, gaat degene die beslag heeft gelegd krachtens dit artikel voor.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=14&amp;lid=9&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=9"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid10" label-id="1544544L10">
+    <lidnr status="officieel">10</lidnr>
+    <al>De maatregelen bedoeld in het achtste en negende lid worden op kosten van de verweerder uitgevoerd, tenzij bijzondere redenen dit beletten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=14&amp;lid=10&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=10"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid11" label-id="1544544L11">
+    <lidnr status="officieel">11</lidnr>
+    <al>De rechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming degene die inbreuk op diens recht heeft gemaakt, bevelen al hetgeen aan laatstgenoemde bekend is omtrent de herkomst en distributiekanalen van de goederen of diensten die inbreuk maken, aan de houder van de geografische aanduiding mee te delen en alle daarop betrekking hebbende gegevens aan deze te verstrekken. Onder dezelfde voorwaarden kan dit bevel worden gegeven aan een derde die op commerciële schaal inbreukmakende goederen in zijn bezit heeft of gebruikt, die op commerciële schaal diensten verleent die bij de inbreuk worden gebruikt, of die door een van deze derden is aangewezen als zijnde betrokken bij de productie, fabricage of distributie van deze goederen of bij het verlenen van deze diensten. Deze derde kan zich verschonen van het verstrekken van informatie die bewijs zou vormen van deelname aan een inbreuk op een recht van intellectuele eigendom door hem zelf of door de andere in <extref doc="jci1.3:c:BWBR0001827&amp;artikel=165" label-id="3179094" verwijzing-id="2136641" bwb-id="BWBR0001827">artikel 165, derde lid, Wetboek van Burgerlijke Rechtsvordering</extref> bedoelde personen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=14&amp;lid=11&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=11"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid12" label-id="1544544L12">
+    <lidnr status="officieel">12</lidnr>
+    <al>De rechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming gelasten dat op kosten van degene die inbreuk op diens recht heeft gemaakt passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=14&amp;lid=12&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=12"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2016-290"><publicatiejaar>2016</publicatiejaar><publicatienr>290</publicatienr><uitgiftedatum isodatum="2016-07-21">21-07-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-07-13">13-07-2016</ondertekeningsdatum><dossierref dossier="34212">34212</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-174"><publicatiejaar>2017</publicatiejaar><publicatienr>174</publicatienr><uitgiftedatum isodatum="2017-05-04">04-05-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-05-01">01-05-2017</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2017-09-01">01-09-2017</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Artikel CIX van Stb. 2016/290 bevat overgangsrecht m.b.t. deze wijziging.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=14&amp;g=2021-03-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=14&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=14"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel15" code="c1-15" stam-id="1590123" versie-id="14587082" id="C23067811" label-id="1544554" inwerking="2007-09-28" label="Artikel 15" bron="Stb.2007-220" effect="wijziging" ondertekening_bron="2007-05-11" publicatie_bron="2007-06-26" publicatie_iwt="2007-09-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel15/Lid1" label-id="1544554L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Met het toezicht op de naleving van bij of krachtens een landbouwkwaliteitsbesluit gestelde eisen zijn belast de bij besluit van Onze Minister aangewezen ambtenaren en de bij besluit van Onze Minister aangewezen personen, werkzaam bij een controle-instelling.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=15&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel15/Lid2" label-id="1544554L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Onze Minister en Onze Ministers, wie het mede aangaat, kunnen tezamen nadere voorschriften geven betreffende de monsterneming, de verpakking, de conservering, de verzegeling, de verzending en het onderzoek der monsters. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=15&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel15/Lid3" label-id="1544554L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=15&amp;lid=3&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2007-220"><publicatiejaar>2007</publicatiejaar><publicatienr>220</publicatienr><uitgiftedatum isodatum="2007-06-26">26-06-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-05-11">11-05-2007</ondertekeningsdatum><dossierref dossier="30852">30852</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2007-345"><publicatiejaar>2007</publicatiejaar><publicatienr>345</publicatienr><uitgiftedatum isodatum="2007-09-27">27-09-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-09-19">19-09-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-09-28">28-09-2007</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Abusievelijk is een wijzigingsopdracht geformuleerd die niet geheel juist is.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=15&amp;g=2021-03-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=15&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=15"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel16" stam-id="1590143" versie-id="2352912" id="C2352911" label-id="1544564" inwerking="1994-01-01" label="Artikel 16" bron="Stb.1992-422" effect="vervallen" ondertekening_bron="1992-06-04" publicatie_iwt="1993-12-23" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>16</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>422</publicatienr><ondertekeningsdatum isodatum="1992-06-04">04-06-1992</ondertekeningsdatum><dossierref dossier="22061">22061</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>693</publicatienr><uitgiftedatum isodatum="1993-12-23">23-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=16&amp;g=2021-03-01" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=16&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=16"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel17" stam-id="1590153" versie-id="2352932" id="C2352931" label-id="1544584" inwerking="1994-01-01" label="Artikel 17" bron="Stb.1992-422" effect="vervallen" ondertekening_bron="1992-06-04" publicatie_iwt="1993-12-23" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>17</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>422</publicatienr><ondertekeningsdatum isodatum="1992-06-04">04-06-1992</ondertekeningsdatum><dossierref dossier="22061">22061</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>693</publicatienr><uitgiftedatum isodatum="1993-12-23">23-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=17&amp;g=2021-03-01" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=17&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=17"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel18" code="a-18" stam-id="1590163" versie-id="2352942" id="C23067821" label-id="1544594" inwerking="1973-01-01" label="Artikel 18" bron="Stb.1971-371" effect="nieuwe-regeling" ondertekening_bron="1971-04-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">18</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid1" label-id="1544594L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Aan het slot van <extref doc="jci1.3:c:BWBR0002063&amp;artikel=1" verwijzing-id="539306" bwb-id="BWBR0002063" label-id="2625264">artikel 1, onder 4<nadruk type="cur">e</nadruk>, van de Wet op de economische delicten</extref> wordt toegevoegd de zinsnede: de Landbouwkwaliteitswet, de artikelen 2, eerste en tweede lid, 3, tweede lid, 4, vierde lid, 6 en 9, eerste lid. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=18&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid2" label-id="1544594L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>
+      <intref verwijzing-id="1631512" doc="jci1.3:c:BWBR0002755&amp;artikel=13&amp;z=2021-03-01&amp;g=2021-03-01" bwb-id="BWBR0002755" label-id="1544534" bwb-ng-variabel-deel="/Artikel13">Artikel 13</intref> vindt geen toepassing, indien de Officier van Justitie, na overleg met de controle-instelling, heeft beslist, dat een overtreding strafrechtelijk zal worden afgedaan. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=18&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1971</publicatiejaar><publicatienr>371</publicatienr><ondertekeningsdatum isodatum="1971-04-08">08-04-1971</ondertekeningsdatum><dossierref dossier="9943">9943</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1972</publicatiejaar><publicatienr>732</publicatienr><ondertekeningsdatum isodatum="1972-12-29">29-12-1972</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1973-01-01">01-01-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=18&amp;g=2021-03-01" onderdeel="artikel=18" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=18"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=18&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=18" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=18"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel19" code="a-19" stam-id="1590173" versie-id="16503772" id="C23067831" label-id="1544604" inwerking="2009-07-01" label="Artikel 19" bron="Stb.2009-265" effect="wijziging" ondertekening_bron="2009-06-25" publicatie_bron="2009-06-30" publicatie_iwt="2009-06-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">19</nr>
+  </kop>
+  <al>Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-265"><publicatiejaar>2009</publicatiejaar><publicatienr>265</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum><dossierref dossier="31124">31124</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-266"><publicatiejaar>2009</publicatiejaar><publicatienr>266</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-07-01">01-07-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=19&amp;g=2021-03-01" onderdeel="artikel=19" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=19"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=19&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=19" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=19"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel20" code="a-20" stam-id="1590183" versie-id="2352962" id="C23067841" label-id="1544614" inwerking="1973-01-01" label="Artikel 20" bron="Stb.1971-371" effect="nieuwe-regeling" ondertekening_bron="1971-04-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">20</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel20/Lid1" label-id="1544614L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Deze wet kan worden aangehaald als: "Landbouwkwaliteitswet". </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=20&amp;lid=1&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel20/Lid2" label-id="1544614L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Zij treedt in werking met ingang van een door Ons te bepalen tijdstip. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=20&amp;lid=2&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1971</publicatiejaar><publicatienr>371</publicatienr><ondertekeningsdatum isodatum="1971-04-08">08-04-1971</ondertekeningsdatum><dossierref dossier="9943">9943</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1972</publicatiejaar><publicatienr>732</publicatienr><ondertekeningsdatum isodatum="1972-12-29">29-12-1972</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1973-01-01">01-01-1973</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;artikel=20&amp;g=2021-03-01" onderdeel="artikel=20" korte-verwijzing="1.0:c:BWBR0002755&amp;artikel=20"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;artikel=20&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="artikel=20" korte-verwijzing="jci1.3:c:BWBR0002755&amp;artikel=20"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="1590203" versie-id="2352982" id="C2352981" label-id="1544634" inwerking="1973-01-01" bron="Stb.1971-371" effect="nieuwe-regeling" ondertekening_bron="1971-04-08" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden. </al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven ten Paleize Soestdijk </plaats>
+      <datum isodatum="">8 april 1971 </datum>
+    </dagtekening>
+    <koning>JULIANA. </koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Landbouw en Visserij, </functie>
+    <naam>
+      <achternaam>P. J. LARDINOIS. </achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Economische Zaken, </functie>
+    <naam>
+      <achternaam>R. J. NELISSEN. </achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Staatssecretaris van Sociale Zaken en Volksgezondheid, </functie>
+    <naam>
+      <achternaam>R. J. H. KRUISINGA. </achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Justitie, </functie>
+    <naam>
+      <achternaam>C. H. F. POLAK. </achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de zeventiende juni 1971. </datum>
+    <ondertekening>
+      <functie>De Minister van Justitie, </functie>
+      <naam>
+        <achternaam>C. H. F. POLAK. </achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1971</publicatiejaar><publicatienr>371</publicatienr><ondertekeningsdatum isodatum="1971-04-08">08-04-1971</ondertekeningsdatum><dossierref dossier="9943">9943</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1972</publicatiejaar><publicatienr>732</publicatienr><ondertekeningsdatum isodatum="1972-12-29">29-12-1972</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1973-01-01">01-01-1973</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2020-65"><publicatiejaar>2020</publicatiejaar><publicatienr>65</publicatienr><uitgiftedatum isodatum="2020-02-19">19-02-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-02-05">05-02-2020</ondertekeningsdatum><dossierref dossier="35083">35083</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2021-100"><publicatiejaar>2021</publicatiejaar><publicatienr>100</publicatienr><uitgiftedatum isodatum="2021-02-26">26-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-02-23">23-02-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-03-01">01-03-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002755&amp;g=2021-03-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0002755"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002755&amp;z=2021-03-01&amp;g=2021-03-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0002755"/></jcis></meta-data></wetgeving></toestand>

@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0008290/2024-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0008290" inwerkingtreding="2024-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="189173" versie-id="258242" id="C258241" label-id="186784" inwerkingtredingsdatum="1997-01-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="189203" versie-id="257822" id="C257821" label-id="186364" inwerking="1997-01-01" bron="Stb.1996-576" effect="nieuwe-regeling" ondertekening_bron="1996-10-21" publicatie_bron="1996-12-05" publicatie_iwt="1996-12-05" status="goed">Wet van 21 oktober 1996, houdende regels inzake de financiële verhouding tussen het Rijk en de gemeenten (Financiële-verhoudingswet)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie><inwerkingtreding.datum isodatum="1997-01-01">01-01-1997</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="189213" versie-id="257832" id="C257831" label-id="186374" inwerking="1997-01-01" bron="Stb.1996-576" effect="nieuwe-regeling" ondertekening_bron="1996-10-21" publicatie_bron="1996-12-05" publicatie_iwt="1996-12-05">Financiële-verhoudingswet<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie><inwerkingtreding.datum isodatum="1997-01-01">01-01-1997</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="189223" versie-id="257842" id="C257841" label-id="186384" inwerking="1997-01-01" bron="Stb.1996-576" effect="nieuwe-regeling" ondertekening_bron="1996-10-21" publicatie_bron="1996-12-05" publicatie_iwt="1996-12-05" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is nieuwe regels te stellen inzake de financiële verhouding tussen het Rijk en de gemeenten;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie><inwerkingtreding.datum isodatum="1997-01-01">01-01-1997</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk1" stam-id="189253" versie-id="257872" id="C257871" label-id="186414" inwerking="1997-01-01" label="HOOFDSTUK 1" bron="Stb.1996-576" effect="nieuwe-regeling" ondertekening_bron="1996-10-21" publicatie_bron="1996-12-05" publicatie_iwt="1996-12-05" status="goed">
+  <kop>
+    <label>HOOFDSTUK</label>
+    <nr>1</nr>
+    <titel status="officieel">ALGEMENE BEPALINGEN </titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1" code="b1-1" stam-id="189233" versie-id="15626742" id="C21337321" label-id="186394" inwerking="2008-08-01" label="Artikel 1" bron="Stb.2008-312" effect="wijziging" ondertekening_bron="2008-07-03" publicatie_bron="2008-07-31" publicatie_iwt="2008-07-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>Onze Ministers: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Financiën;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=1&amp;artikel=1&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>uitkeringsjaar: het kalenderjaar waarover het recht op uitkering ontstaat;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=1&amp;artikel=1&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>Onze Minister wie het aangaat: Onze Minister die een specifieke uitkering heeft verstrekt.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=1&amp;artikel=1&amp;o=c&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-312"><publicatiejaar>2008</publicatiejaar><publicatienr>312</publicatienr><uitgiftedatum isodatum="2008-07-31">31-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum><dossierref dossier="31327">31327</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-312"><publicatiejaar>2008</publicatiejaar><publicatienr>312</publicatienr><uitgiftedatum isodatum="2008-07-31">31-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum><dossierref dossier="31327">31327</dossierref></publicatie><inwerkingtreding.datum isodatum="2008-08-01">01-08-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=1&amp;g=2024-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=1&amp;artikel=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=1"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2" code="b1-2" stam-id="189243" versie-id="258322" id="C15829781" label-id="186404" inwerking="1998-01-01" label="Artikel 2" bron="Stb.1997-526" effect="wijziging" ondertekening_bron="1997-11-06" publicatie_bron="1997-11-20" publicatie_iwt="1997-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1" label-id="186404L1">
+    <lidnr>1</lidnr>
+    <al>Indien beleidsvoornemens van het Rijk leiden tot een wijziging van de uitoefening van taken of activiteiten door provincies of gemeenten, wordt in een afzonderlijk onderdeel van de bijbehorende toelichting met redenen omkleed en met kwantitatieve gegevens gestaafd, welke de financiële gevolgen van deze wijziging voor de provincies of gemeenten zijn.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid2" label-id="186404L2">
+    <lidnr>2</lidnr>
+    <al>In de toelichting wordt tevens aangegeven via welke bekostigingswijze de financiële gevolgen voor de provincies of gemeenten kunnen worden opgevangen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=1&amp;artikel=2&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid3" label-id="186404L3">
+    <lidnr>3</lidnr>
+    <al>Over de toepassing van het eerste en tweede lid vindt tijdig overleg plaats met Onze Ministers. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=1&amp;artikel=2&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-526"><publicatiejaar>1997</publicatiejaar><publicatienr>526</publicatienr><uitgiftedatum isodatum="1997-11-20">20-11-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-11-06">06-11-1997</ondertekeningsdatum><dossierref dossier="25185">25185</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-695"><publicatiejaar>1997</publicatiejaar><publicatienr>695</publicatienr><uitgiftedatum isodatum="1997-12-23">23-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=2&amp;g=2024-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=1&amp;artikel=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=2"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie><inwerkingtreding.datum isodatum="1997-01-01">01-01-1997</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;hoofdstuk=1&amp;g=2024-01-01" onderdeel="hoofdstuk=1" korte-verwijzing="1.0:c:BWBR0008290&amp;hoofdstuk=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="hoofdstuk=1" korte-verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=1"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk2" stam-id="189443" versie-id="258442" id="C258441" label-id="186604" inwerking="1998-01-01" label="HOOFDSTUK 2" bron="Stb.1997-526" effect="wijziging" ondertekening_bron="1997-11-06" publicatie_bron="1997-11-20" publicatie_iwt="1997-12-23" status="goed">
+  <kop>
+    <label>HOOFDSTUK</label>
+    <nr>2</nr>
+    <titel status="officieel">HET PROVINCIEFONDS EN HET GEMEENTEFONDS </titel>
+  </kop><paragraaf bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.1" stam-id="189293" versie-id="257912" id="C257911" label-id="186454" inwerking="1997-01-01" label="Paragraaf 2.1" bron="Stb.1996-576" effect="nieuwe-regeling" ondertekening_bron="1996-10-21" publicatie_bron="1996-12-05" publicatie_iwt="1996-12-05" status="goed">
+  <kop>
+    <label>Paragraaf</label>
+    <nr>2.1</nr>
+    <titel status="officieel">Algemeen </titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.1/Artikel3" code="c1-3" stam-id="189263" versie-id="258332" id="C15829791" label-id="186424" inwerking="1998-01-01" label="Artikel 3" bron="Stb.1997-526" effect="wijziging" ondertekening_bron="1997-11-06" publicatie_bron="1997-11-20" publicatie_iwt="1997-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.1/Artikel3/Lid1" label-id="186424L1">
+    <lidnr>1</lidnr>
+    <al>Er is een provinciefonds en een gemeentefonds. De fondsen zijn begrotingsfondsen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.1&amp;artikel=3&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.1/Artikel3/Lid2" label-id="186424L2">
+    <lidnr>2</lidnr>
+    <al>Onze Ministers beheren de begroting van de fondsen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.1&amp;artikel=3&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-526"><publicatiejaar>1997</publicatiejaar><publicatienr>526</publicatienr><uitgiftedatum isodatum="1997-11-20">20-11-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-11-06">06-11-1997</ondertekeningsdatum><dossierref dossier="25185">25185</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-695"><publicatiejaar>1997</publicatiejaar><publicatienr>695</publicatienr><uitgiftedatum isodatum="1997-12-23">23-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=3&amp;g=2024-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.1&amp;artikel=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=3"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.1/Artikel4" code="b1-4" stam-id="189273" versie-id="258342" id="C15829801" label-id="186434" inwerking="1998-01-01" label="Artikel 4" bron="Stb.1997-526" effect="wijziging" ondertekening_bron="1997-11-06" publicatie_bron="1997-11-20" publicatie_iwt="1997-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.1/Artikel4/Lid1" label-id="186434L1">
+    <lidnr>1</lidnr>
+    <al>Bij wet wordt ten aanzien van ieder uitkeringsjaar een bedrag aan middelen van het Rijk ten behoeve van elk van de fondsen afgezonderd. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.1&amp;artikel=4&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.1/Artikel4/Lid2" label-id="186434L2">
+    <lidnr>2</lidnr>
+    <al>De uitgaven en de ontvangsten van de fondsen zijn over ieder uitkeringsjaar aan elkaar gelijk. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.1&amp;artikel=4&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-526"><publicatiejaar>1997</publicatiejaar><publicatienr>526</publicatienr><uitgiftedatum isodatum="1997-11-20">20-11-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-11-06">06-11-1997</ondertekeningsdatum><dossierref dossier="25185">25185</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-695"><publicatiejaar>1997</publicatiejaar><publicatienr>695</publicatienr><uitgiftedatum isodatum="1997-12-23">23-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=4&amp;g=2024-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.1&amp;artikel=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=4"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.1/Artikel5" code="b1-5" stam-id="189283" versie-id="15626752" id="C21337331" label-id="186444" inwerking="2008-08-01" label="Artikel 5" bron="Stb.2008-312" effect="wijziging" ondertekening_bron="2008-07-03" publicatie_bron="2008-07-31" publicatie_iwt="2008-07-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.1/Artikel5/Lid1" label-id="186444L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De begroting van het provinciefonds vermeldt het bedrag dat als verplichting geldt voor het totaal van de algemene uitkeringen. De begroting van het gemeentefonds vermeldt het bedrag dat als verplichting geldt voor het totaal van de algemene uitkeringen en de aanvullende uitkeringen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.1&amp;artikel=5&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.1/Artikel5/Lid2" label-id="186444L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>In de begroting van elk van de fondsen kunnen decentralisatie-uitkeringen en integratie-uitkeringen als verplichting worden opgenomen, om aan provincies of gemeenten te worden uitgekeerd op een andere wijze dan door middel van de algemene uitkering. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.1&amp;artikel=5&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.1/Artikel5/Lid3" label-id="186444L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>In de begroting van elk van de fondsen kan een voorziening worden getroffen voor de uitbetaling van specifieke uitkeringen aan provincies of gemeenten waarbij meer dan één departement financieel is betrokken. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.1&amp;artikel=5&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-312"><publicatiejaar>2008</publicatiejaar><publicatienr>312</publicatienr><uitgiftedatum isodatum="2008-07-31">31-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum><dossierref dossier="31327">31327</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-312"><publicatiejaar>2008</publicatiejaar><publicatienr>312</publicatienr><uitgiftedatum isodatum="2008-07-31">31-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum><dossierref dossier="31327">31327</dossierref></publicatie><inwerkingtreding.datum isodatum="2008-08-01">01-08-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=5&amp;g=2024-01-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.1&amp;artikel=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=5"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie><inwerkingtreding.datum isodatum="1997-01-01">01-01-1997</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;paragraaf=2.1&amp;g=2024-01-01" onderdeel="paragraaf=2.1" korte-verwijzing="1.0:c:BWBR0008290&amp;paragraaf=2.1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="paragraaf=2.1" korte-verwijzing="jci1.3:c:BWBR0008290&amp;paragraaf=2.1"/></jcis></meta-data></paragraaf><paragraaf bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.2" stam-id="189363" versie-id="257982" id="C257981" label-id="186524" inwerking="1997-01-01" label="Paragraaf 2.2" bron="Stb.1996-576" effect="nieuwe-regeling" ondertekening_bron="1996-10-21" publicatie_bron="1996-12-05" publicatie_iwt="1996-12-05" status="goed">
+  <kop>
+    <label>Paragraaf</label>
+    <nr>2.2</nr>
+    <titel status="officieel">De algemene uitkering </titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.2/Artikel6" code="b1-6" stam-id="189303" versie-id="258362" id="C15829821" label-id="186464" inwerking="1998-01-01" label="Artikel 6" bron="Stb.1997-526" effect="wijziging" ondertekening_bron="1997-11-06" publicatie_bron="1997-11-20" publicatie_iwt="1997-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.2/Artikel6/Lid1" label-id="186464L1">
+    <lidnr>1</lidnr>
+    <al>Een provincie heeft over ieder uitkeringsjaar recht op een algemene uitkering uit het provinciefonds. Een gemeente heeft over ieder uitkeringsjaar recht op een algemene uitkering uit het gemeentefonds. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.2&amp;artikel=6&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.2/Artikel6/Lid2" label-id="186464L2">
+    <lidnr>2</lidnr>
+    <al>De uitkering komt ten goede aan de algemene middelen van de provincie of van de gemeente. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.2&amp;artikel=6&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.2/Artikel6/Lid3" label-id="186464L3">
+    <lidnr>3</lidnr>
+    <al>De provincies hebben gezamenlijk over een uitkeringsjaar recht op het in de begroting van het provinciefonds vermelde bedrag, bedoeld in <intref verwijzing-id="40254" doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.1&amp;artikel=5&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0008290" label-id="186444" bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.1/Artikel5">artikel 5, eerste lid</intref>, voor dat jaar. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.2&amp;artikel=6&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.2/Artikel6/Lid4" label-id="186464L4">
+    <lidnr>4</lidnr>
+    <al>De gemeenten hebben gezamenlijk over een uitkeringsjaar recht op het in de begroting van het gemeentefonds vermelde bedrag, bedoeld in <intref verwijzing-id="40256" doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.1&amp;artikel=5&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0008290" label-id="186444" bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.1/Artikel5">artikel 5, eerste lid</intref>, voor dat jaar, verminderd met het totaal aan verplichtingen voor aanvullende uitkeringen die over het uitkeringsjaar worden aangegaan. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.2&amp;artikel=6&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-526"><publicatiejaar>1997</publicatiejaar><publicatienr>526</publicatienr><uitgiftedatum isodatum="1997-11-20">20-11-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-11-06">06-11-1997</ondertekeningsdatum><dossierref dossier="25185">25185</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-695"><publicatiejaar>1997</publicatiejaar><publicatienr>695</publicatienr><uitgiftedatum isodatum="1997-12-23">23-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=6&amp;g=2024-01-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.2&amp;artikel=6&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=6"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.2/Artikel7" code="b1-7" stam-id="189313" versie-id="258372" id="C15829831" label-id="186474" inwerking="1998-01-01" label="Artikel 7" bron="Stb.1997-526" effect="wijziging" ondertekening_bron="1997-11-06" publicatie_bron="1997-11-20" publicatie_iwt="1997-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+  <al>De verdeling over de provincies en gemeenten van het voor de algemene uitkeringen beschikbare bedrag houdt rekening met de verschillen tussen de provincies onderling en de gemeenten onderling in het vermogen tot het voorzien in eigen inkomsten en met de verschillen in noodzakelijke uitgaven. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-526"><publicatiejaar>1997</publicatiejaar><publicatienr>526</publicatienr><uitgiftedatum isodatum="1997-11-20">20-11-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-11-06">06-11-1997</ondertekeningsdatum><dossierref dossier="25185">25185</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-695"><publicatiejaar>1997</publicatiejaar><publicatienr>695</publicatienr><uitgiftedatum isodatum="1997-12-23">23-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=7&amp;g=2024-01-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.2&amp;artikel=7&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=7"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.2/Artikel8" stam-id="189323" versie-id="24138202" id="C35673331" label-id="186484" inwerking="2018-03-22" label="Artikel 8" bron="Stb.2017-238" effect="wijziging" ondertekening_bron="2017-05-29" publicatie_bron="2017-06-15" publicatie_iwt="2018-03-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.2/Artikel8/Lid1" label-id="186484L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Ten behoeve van de verdeling van het provinciefonds en het gemeentefonds worden verdeelmaatstaven gehanteerd. De maatstaven hebben slechts betrekking op de kenmerken die zijn vermeld in de navolgende tabellen A en B. Bij een kenmerk worden ten minste de in de tabellen vermelde onderscheidingen aangebracht.</al>
+    <table colsep="1" frame="all" orient="port" rowsep="1">
+      <title>
+        <nadruk type="vet">Tabel A Kenmerken en onderscheidingen van de verdeelmaatstaven voor het provinciefonds</nadruk>
+      </title>
+      <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="xml2">
+        <colspec colname="col1" colnum="1" colwidth="1.00*"/>
+        <colspec colname="col2" colnum="2" colwidth="8.54*"/>
+        <colspec colname="col3" colnum="3" colwidth="3.96*"/>
+        <thead valign="bottom">
+          <row rowsep="1">
+            <entry align="left" colsep="0" morerows="0" nameend="col2" namest="col1" rotate="0" valign="top">
+              <al>Kenmerk</al>
+            </entry>
+            <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+              <al>Onderscheidingen</al>
+            </entry>
+          </row>
+        </thead>
+        <tbody valign="top">
+          <row rowsep="0">
+            <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+              <al>a</al>
+            </entry>
+            <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+              <al>Belastingcapaciteit van de provincies ter zake van de motorrijtuigenbelasting</al>
+            </entry>
+            <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+          </row>
+          <row rowsep="0">
+            <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+              <al>b</al>
+            </entry>
+            <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+              <al>Inkomsten uit eigen vermogen van de provincies</al>
+            </entry>
+            <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+          </row>
+          <row rowsep="0">
+            <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+              <al>c</al>
+            </entry>
+            <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+              <al>De inwoners van de provincies</al>
+            </entry>
+            <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+              <al>Bevolkingsdichtheid</al>
+            </entry>
+          </row>
+          <row rowsep="0">
+            <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+              <al>d</al>
+            </entry>
+            <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+              <al>Het grondgebied van de provincies</al>
+            </entry>
+            <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+              <al>Oppervlakte</al>
+            </entry>
+          </row>
+          <row rowsep="0">
+            <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+            <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+            <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+              <al>Bodemgebruik</al>
+            </entry>
+          </row>
+          <row rowsep="0">
+            <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+              <al>e</al>
+            </entry>
+            <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+              <al>Vaste bedragen voor de provincies</al>
+            </entry>
+            <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table colsep="1" frame="all" orient="port" rowsep="1">
+      <title>
+        <nadruk type="vet">Tabel B Kenmerken en onderscheidingen van de verdeelmaatstaven voor het gemeentefonds</nadruk>
+      </title>
+      <tgroup align="left" char="" charoff="75" cols="2" colsep="1" rowsep="1" tgroupstyle="sdu1">
+        <colspec colname="1" colnum="1" colwidth="1.58*"/>
+        <colspec colname="2" colnum="2" colwidth="1.00*"/>
+        <thead valign="bottom">
+          <row rowsep="1" valign="top">
+            <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al> Kenmerk</al>
+            </entry>
+            <entry colname="2" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>Onderscheidingen </al>
+            </entry>
+          </row>
+        </thead>
+        <tbody valign="bottom">
+          <row rowsep="1" valign="top">
+            <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>a Belastingcapaciteit van de gemeenten ter zake van de onroerende-zaakbelastingen</al>
+            </entry>
+            <entry colname="2" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>Belastingcapaciteit ter zake van woningen </al>
+            </entry>
+          </row>
+          <row rowsep="1" valign="top">
+            <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1" valign="top"/>
+            <entry colname="2" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>Belastingcapaciteit ter zake van niet-woningen </al>
+            </entry>
+          </row>
+          <row rowsep="1" valign="top">
+            <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>b De inwoners van de gemeenten</al>
+            </entry>
+            <entry align="left" colname="2" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>Leeftijd</al>
+            </entry>
+          </row>
+          <row rowsep="1" valign="top">
+            <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1" valign="top"/>
+            <entry align="left" colname="2" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>Woonplaats</al>
+            </entry>
+          </row>
+          <row rowsep="1" valign="top">
+            <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1" valign="top"/>
+            <entry align="left" colname="2" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al> Inkomen</al>
+            </entry>
+          </row>
+          <row rowsep="1" valign="top">
+            <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1" valign="top"/>
+            <entry align="left" colname="2" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>Recht op uitkering</al>
+            </entry>
+          </row>
+          <row rowsep="1" valign="top">
+            <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1" valign="top"/>
+            <entry align="left" colname="2" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al> Behoren tot een minderheidsgroep</al>
+            </entry>
+          </row>
+          <row rowsep="1" valign="top">
+            <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1" valign="top"/>
+            <entry align="left" colname="2" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al> Beroep op voorzieningen in de gemeenten </al>
+            </entry>
+          </row>
+          <row rowsep="1" valign="top">
+            <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>c Het grondgebied van de gemeenten</al>
+            </entry>
+            <entry align="left" colname="2" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>Oppervlakte</al>
+            </entry>
+          </row>
+          <row rowsep="1" valign="top">
+            <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1" valign="top"/>
+            <entry align="left" colname="2" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al> Bodemgesteldheid</al>
+            </entry>
+          </row>
+          <row rowsep="1" valign="top">
+            <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1" valign="top"/>
+            <entry align="left" colname="2" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>Historische kern </al>
+            </entry>
+          </row>
+          <row rowsep="1" valign="top">
+            <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>d De bebouwing in de gemeenten</al>
+            </entry>
+            <entry align="left" colname="2" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>Grondoppervlak bebouwing</al>
+            </entry>
+          </row>
+          <row rowsep="1" valign="top">
+            <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1" valign="top"/>
+            <entry align="left" colname="2" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al> Woonruimten</al>
+            </entry>
+          </row>
+          <row rowsep="1" valign="top">
+            <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1" valign="top"/>
+            <entry align="left" colname="2" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al> Historisch aantal woonruimten</al>
+            </entry>
+          </row>
+          <row rowsep="1" valign="top">
+            <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1" valign="top"/>
+            <entry align="left" colname="2" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al> Noodzaak voor vernieuwing van de bebouwing </al>
+            </entry>
+          </row>
+          <row rowsep="1" valign="top">
+            <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1" valign="top"/>
+            <entry align="left" colname="2" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>Dichtheid van de bebouwing </al>
+            </entry>
+          </row>
+          <row rowsep="1" valign="top">
+            <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>e Vaste bedragen voor gemeenten</al>
+            </entry>
+            <entry align="left" colname="2" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al>Vaste bedragen voor de vier grootste steden</al>
+            </entry>
+          </row>
+          <row rowsep="1" valign="top">
+            <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1" valign="top"/>
+            <entry align="left" colname="2" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al> Vast bedrag voor de waddengemeenten</al>
+            </entry>
+          </row>
+          <row rowsep="1" valign="top">
+            <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1" valign="top"/>
+            <entry align="left" colname="2" morerows="0" rotate="0" rowsep="1" valign="top">
+              <al> Vast bedrag voor alle gemeenten </al>
+            </entry>
+          </row>
+          <row rowsep="0" valign="top">
+            <entry colname="1" colsep="1" morerows="0" rotate="0" valign="top">
+              <al>f Tijdelijke ondersteuning van gemeenten in verband met herindeling</al>
+            </entry>
+            <entry colname="2" morerows="0" rotate="0" valign="top"/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.2&amp;artikel=8&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.2/Artikel8/Lid2" label-id="186484L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De belastingcapaciteit ter zake van woningen, bedoeld in tabel B onder a, wordt slechts voor 80% in de verdeelmaatstaf betrokken. De belastingcapaciteit ter zake van niet-woningen wordt slechts voor 70% in de verdeelmaatstaf betrokken. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.2&amp;artikel=8&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.2/Artikel8/Lid3" label-id="186484L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Bij algemene maatregel van bestuur wordt bepaald welke verdeelmaatstaven worden gehanteerd en hoe deze worden gehanteerd. Krachtens de maatregel kunnen nadere voorschriften worden gegeven omtrent de toepassing van de bij de bepaling gebruikte begrippen en omtrent de wijze van telling van het aantal eenheden per verdeelmaatstaf. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.2&amp;artikel=8&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.2/Artikel8/Lid4" label-id="186484L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Een krachtens het derde lid vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het <nadruk type="cur">Staatsblad</nadruk> waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.2&amp;artikel=8&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-238"><publicatiejaar>2017</publicatiejaar><publicatienr>238</publicatienr><uitgiftedatum isodatum="2017-06-15">15-06-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-05-29">29-05-2017</ondertekeningsdatum><dossierref dossier="34568">34568</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-78"><publicatiejaar>2018</publicatiejaar><publicatienr>78</publicatienr><uitgiftedatum isodatum="2018-03-21">21-03-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-02-22">22-02-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-03-22">22-03-2018</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2017-01-01">01-01-2017</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=8&amp;g=2024-01-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.2&amp;artikel=8&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=8"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.2/Artikel9" code="b1-9" stam-id="189333" versie-id="11957132" id="C16109941" label-id="186494" inwerking="2005-07-01" label="Artikel 9" bron="Stb.2005-282" effect="wijziging" ondertekening_bron="2005-05-26" publicatie_bron="2005-06-14" publicatie_iwt="2005-06-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>9</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.2/Artikel9/Lid1" label-id="186494L1">
+    <lidnr>1</lidnr>
+    <al>Ten behoeve van de verdeling stellen Onze Ministers over ieder uitkeringsjaar bedragen per eenheid vast die behoren bij de verdeelmaatstaven. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.2&amp;artikel=9&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.2/Artikel9/Lid2" label-id="186494L2">
+    <lidnr>2</lidnr>
+    <al>Op de voorbereiding van de vaststelling is <extref doc="jci1.3:c:BWBR0005537&amp;afdeling=3.4" verwijzing-id="1958225" bwb-id="BWBR0005537" label-id="2814354">afdeling 3.4 van de Algemene wet bestuursrecht</extref> van toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.2&amp;artikel=9&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-282"><publicatiejaar>2005</publicatiejaar><publicatienr>282</publicatienr><uitgiftedatum isodatum="2005-06-14">14-06-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-05-26">26-05-2005</ondertekeningsdatum><dossierref dossier="29421">29421</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-320"><publicatiejaar>2005</publicatiejaar><publicatienr>320</publicatienr><uitgiftedatum isodatum="2005-06-28">28-06-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-06-22">22-06-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-07-01">01-07-2005</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=9&amp;g=2024-01-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.2&amp;artikel=9&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=9"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.2/Artikel10" code="b1-10" stam-id="189343" versie-id="258402" id="C15829861" label-id="186504" inwerking="1998-01-01" label="Artikel 10" bron="Stb.1997-526" effect="wijziging" ondertekening_bron="1997-11-06" publicatie_bron="1997-11-20" publicatie_iwt="1997-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>10</nr>
+  </kop>
+  <al>Onze Ministers stellen over ieder uitkeringsjaar de algemene uitkeringen aan de provincies en de gemeenten vast. Zij verdelen daartoe het voor de algemene uitkeringen in het provinciefonds beschikbare bedrag onder de provincies en het voor de algemene uitkeringen in het gemeentefonds beschikbare bedrag onder de gemeenten naar rato van de uitkeringsbases. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-526"><publicatiejaar>1997</publicatiejaar><publicatienr>526</publicatienr><uitgiftedatum isodatum="1997-11-20">20-11-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-11-06">06-11-1997</ondertekeningsdatum><dossierref dossier="25185">25185</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-695"><publicatiejaar>1997</publicatiejaar><publicatienr>695</publicatienr><uitgiftedatum isodatum="1997-12-23">23-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=10&amp;g=2024-01-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.2&amp;artikel=10&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=10"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.2/Artikel11" code="b1-11" stam-id="189353" versie-id="258412" id="C258411" label-id="186514" inwerking="1998-01-01" label="Artikel 11" bron="Stb.1997-526" effect="wijziging" ondertekening_bron="1997-11-06" publicatie_bron="1997-11-20" publicatie_iwt="1997-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>11</nr>
+  </kop>
+  <al>De in <intref verwijzing-id="40268" doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.2&amp;artikel=10&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0008290" label-id="186504" bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.2/Artikel10">artikel 10</intref> bedoelde uitkeringsbasis voor een provincie of gemeente is de som van de produkten die worden verkregen door voor iedere verdeelmaatstaf het aantal eenheden van die maatstaf te vermenigvuldigen met het bij de maatstaf behorende bedrag per eenheid. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-526"><publicatiejaar>1997</publicatiejaar><publicatienr>526</publicatienr><uitgiftedatum isodatum="1997-11-20">20-11-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-11-06">06-11-1997</ondertekeningsdatum><dossierref dossier="25185">25185</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-695"><publicatiejaar>1997</publicatiejaar><publicatienr>695</publicatienr><uitgiftedatum isodatum="1997-12-23">23-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=11&amp;g=2024-01-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.2&amp;artikel=11&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=11"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie><inwerkingtreding.datum isodatum="1997-01-01">01-01-1997</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;paragraaf=2.2&amp;g=2024-01-01" onderdeel="paragraaf=2.2" korte-verwijzing="1.0:c:BWBR0008290&amp;paragraaf=2.2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="paragraaf=2.2" korte-verwijzing="jci1.3:c:BWBR0008290&amp;paragraaf=2.2"/></jcis></meta-data></paragraaf><paragraaf bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.3" stam-id="189383" versie-id="258002" id="C258001" label-id="186544" inwerking="1997-01-01" label="Paragraaf 2.3" bron="Stb.1996-576" effect="nieuwe-regeling" ondertekening_bron="1996-10-21" publicatie_bron="1996-12-05" publicatie_iwt="1996-12-05" status="goed">
+  <kop>
+    <label>Paragraaf</label>
+    <nr>2.3</nr>
+    <titel status="officieel">De aanvullende uitkering </titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.3/Artikel12" code="b1-12" stam-id="189373" versie-id="12425022" id="C16697621" label-id="186534" inwerking="2006-03-08" label="Artikel 12" bron="Stb.2005-530" effect="wijziging" ondertekening_bron="2005-10-06" publicatie_bron="2005-11-01" publicatie_iwt="2005-11-01" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>12</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.3/Artikel12/Lid1" label-id="186534L1">
+    <lidnr>1</lidnr>
+    <al>Onze Ministers kunnen op verzoek van de gemeenteraad de gemeente over een uitkeringsjaar een aanvullende uitkering verlenen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.3&amp;artikel=12&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.3/Artikel12/Lid2" label-id="186534L2">
+    <lidnr>2</lidnr>
+    <al>Een aanvullende uitkering wordt slechts verleend indien de algemene middelen van de gemeente aanmerkelijk en structureel tekort zullen schieten om in de noodzakelijke behoeften te voorzien, terwijl de eigen inkomsten van de gemeente zich op een redelijk peil bevinden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.3&amp;artikel=12&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.3/Artikel12/Lid3" label-id="186534L3">
+    <lidnr>3</lidnr>
+    <al>Onze Ministers kunnen voorschriften verbinden aan het besluit tot verlening van een aanvullende uitkering.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.3&amp;artikel=12&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.3/Artikel12/Lid4" label-id="186534L4">
+    <lidnr>4</lidnr>
+    <al>Onze Ministers kunnen een verleende aanvullende uitkering verminderen of intrekken indien:</al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.3/Artikel12/Lid4/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de financiële positie van de gemeente verbetert;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.3&amp;artikel=12&amp;lid=4&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.3/Artikel12/Lid4/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de gemeente in strijd handelt met een wettelijk voorschrift dat betrekking heeft op de aanvullende uitkering, of met een voorschrift dat aan het besluit tot verlening van de aanvullende uitkering is verbonden.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.3&amp;artikel=12&amp;lid=4&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.3&amp;artikel=12&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.3/Artikel12/Lid5" label-id="186534L5">
+    <lidnr>5</lidnr>
+    <al>De gemeente die een aanvullende uitkering heeft aangevraagd, of waaraan een aanvullende uitkering is verleend, neemt maatregelen ter verbetering van haar financiële positie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.3&amp;artikel=12&amp;lid=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-530"><publicatiejaar>2005</publicatiejaar><publicatienr>530</publicatienr><uitgiftedatum isodatum="2005-11-01">01-11-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-10-06">06-10-2005</ondertekeningsdatum><dossierref dossier="28995">28995</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-531"><publicatiejaar>2005</publicatiejaar><publicatienr>531</publicatienr><uitgiftedatum isodatum="2005-11-01">01-11-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-10-20">20-10-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2006-03-08">08-03-2006</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=12&amp;g=2024-01-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.3&amp;artikel=12&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=12"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie><inwerkingtreding.datum isodatum="1997-01-01">01-01-1997</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;paragraaf=2.3&amp;g=2024-01-01" onderdeel="paragraaf=2.3" korte-verwijzing="1.0:c:BWBR0008290&amp;paragraaf=2.3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="paragraaf=2.3" korte-verwijzing="jci1.3:c:BWBR0008290&amp;paragraaf=2.3"/></jcis></meta-data></paragraaf><paragraaf bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.4" stam-id="189413" versie-id="258032" id="C258031" label-id="186574" inwerking="1997-01-01" label="Paragraaf 2.4" bron="Stb.1996-576" effect="nieuwe-regeling" ondertekening_bron="1996-10-21" publicatie_bron="1996-12-05" publicatie_iwt="1996-12-05" status="goed">
+  <kop>
+    <label>Paragraaf</label>
+    <nr>2.4</nr>
+    <titel status="officieel">De overige uitkeringen </titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.4/Artikel13" code="b1-13" stam-id="189393" versie-id="15626762" id="C21412901" label-id="186554" inwerking="2008-08-01" label="Artikel 13" bron="Stb.2008-312" effect="wijziging" ondertekening_bron="2008-07-03" publicatie_bron="2008-07-31" publicatie_iwt="2008-07-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.4/Artikel13/Lid1" label-id="186554L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De verdeling van de in <intref verwijzing-id="2229647" doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.1&amp;artikel=5&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0008290" label-id="186444" bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.1/Artikel5">artikel 5, tweede lid</intref>, bedoelde uitkeringen wordt bij algemene maatregel van bestuur geregeld. Krachtens de maatregel kunnen nadere regels worden gesteld over de wijze van verdeling en de wijze van vaststellen van het volume.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.4&amp;artikel=13&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.4/Artikel13/Lid2" label-id="186554L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De uitkeringen, bedoeld in het eerste lid, komen ten goede aan de algemene middelen van de provincie of gemeente.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.4&amp;artikel=13&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.4/Artikel13/Lid3" label-id="186554L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Integratie-uitkeringen worden binnen een bij de maatregel te bepalen termijn in de algemene uitkering opgenomen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.4&amp;artikel=13&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.4/Artikel13/Lid4" label-id="186554L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Een decentralisatie-uitkering is een uitkering waarbij geen termijn van de overgang van de uitkering naar de algemene uitkering is vastgesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.4&amp;artikel=13&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.4/Artikel13/Lid5" label-id="186554L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Jaarlijks bezien Onze Ministers na overleg met Onze Ministers wie het aangaat of een decentralisatie-uitkering kan worden gewijzigd in een integratie-uitkering of een algemene uitkering en doen daarvan verslag in de toelichting op de begrotingen van het provinciefonds en van het gemeentefonds.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.4&amp;artikel=13&amp;lid=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-312"><publicatiejaar>2008</publicatiejaar><publicatienr>312</publicatienr><uitgiftedatum isodatum="2008-07-31">31-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum><dossierref dossier="31327">31327</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-312"><publicatiejaar>2008</publicatiejaar><publicatienr>312</publicatienr><uitgiftedatum isodatum="2008-07-31">31-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum><dossierref dossier="31327">31327</dossierref></publicatie><inwerkingtreding.datum isodatum="2008-08-01">01-08-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=13&amp;g=2024-01-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.4&amp;artikel=13&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=13"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.4/Artikel14" code="b1-14" stam-id="189403" versie-id="258022" id="C258021" label-id="186564" inwerking="1997-01-01" label="Artikel 14" bron="Stb.1996-576" effect="nieuwe-regeling" ondertekening_bron="1996-10-21" publicatie_bron="1996-12-05" publicatie_iwt="1996-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>14</nr>
+  </kop>
+  <al>De uitkeringen, bedoeld in <intref verwijzing-id="40272" doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.1&amp;artikel=5&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0008290" label-id="186444" bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.1/Artikel5">artikel 5, derde lid</intref>, worden vastgesteld door Onze Ministers wie het aangaat.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie><inwerkingtreding.datum isodatum="1997-01-01">01-01-1997</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=14&amp;g=2024-01-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.4&amp;artikel=14&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=14"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie><inwerkingtreding.datum isodatum="1997-01-01">01-01-1997</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;paragraaf=2.4&amp;g=2024-01-01" onderdeel="paragraaf=2.4" korte-verwijzing="1.0:c:BWBR0008290&amp;paragraaf=2.4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="paragraaf=2.4" korte-verwijzing="jci1.3:c:BWBR0008290&amp;paragraaf=2.4"/></jcis></meta-data></paragraaf><paragraaf bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.5" stam-id="189433" versie-id="258052" id="C258051" label-id="186594" inwerking="1997-01-01" label="Paragraaf 2.5" bron="Stb.1996-576" effect="nieuwe-regeling" ondertekening_bron="1996-10-21" publicatie_bron="1996-12-05" publicatie_iwt="1996-12-05" status="goed">
+  <kop>
+    <label>Paragraaf</label>
+    <nr>2.5</nr>
+    <titel status="officieel">De betalingen </titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.5/Artikel15" code="b1-15" stam-id="189423" versie-id="258432" id="C15829901" label-id="186584" inwerking="1998-01-01" label="Artikel 15" bron="Stb.1997-526" effect="wijziging" ondertekening_bron="1997-11-06" publicatie_bron="1997-11-20" publicatie_iwt="1997-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>15</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.5/Artikel15/Lid1" label-id="186584L1">
+    <lidnr>1</lidnr>
+    <al>Onze Ministers doen betalingen uit de fondsen aan de provincies en de gemeenten, zo nodig vooruitlopend op de vaststelling van de uitkeringen over het uitkeringsjaar. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.5&amp;artikel=15&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.5/Artikel15/Lid2" label-id="186584L2">
+    <lidnr>2</lidnr>
+    <al>Indien de over enig uitkeringsjaar verrichte betalingen aan een provincie of gemeente hoger of lager zijn dan de over dat jaar voor de provincie of gemeente vastgestelde uitkeringen, wordt het verschil teruggevorderd of uitbetaald. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.5&amp;artikel=15&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-526"><publicatiejaar>1997</publicatiejaar><publicatienr>526</publicatienr><uitgiftedatum isodatum="1997-11-20">20-11-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-11-06">06-11-1997</ondertekeningsdatum><dossierref dossier="25185">25185</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-695"><publicatiejaar>1997</publicatiejaar><publicatienr>695</publicatienr><uitgiftedatum isodatum="1997-12-23">23-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=15&amp;g=2024-01-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.5&amp;artikel=15&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=15"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie><inwerkingtreding.datum isodatum="1997-01-01">01-01-1997</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;paragraaf=2.5&amp;g=2024-01-01" onderdeel="paragraaf=2.5" korte-verwijzing="1.0:c:BWBR0008290&amp;paragraaf=2.5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="paragraaf=2.5" korte-verwijzing="jci1.3:c:BWBR0008290&amp;paragraaf=2.5"/></jcis></meta-data></paragraaf><meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-526"><publicatiejaar>1997</publicatiejaar><publicatienr>526</publicatienr><uitgiftedatum isodatum="1997-11-20">20-11-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-11-06">06-11-1997</ondertekeningsdatum><dossierref dossier="25185">25185</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-695"><publicatiejaar>1997</publicatiejaar><publicatienr>695</publicatienr><uitgiftedatum isodatum="1997-12-23">23-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;hoofdstuk=2&amp;g=2024-01-01" onderdeel="hoofdstuk=2" korte-verwijzing="1.0:c:BWBR0008290&amp;hoofdstuk=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="hoofdstuk=2" korte-verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=2"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk3" stam-id="189513" versie-id="15626922" id="C21337501" label-id="186674" inwerking="2008-07-03" label="HOOFDSTUK 3" bron="Stb.2008-312" effect="structuurwijziging" ondertekening_bron="2008-07-03" publicatie_bron="2008-07-31" publicatie_iwt="2008-07-31" status="goed">
+  <kop>
+    <label>HOOFDSTUK</label>
+    <nr status="officieel">3</nr>
+    <titel status="officieel">SPECIFIEKE UITKERINGEN </titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk3/Artikel15a" code="n1-15a" stam-id="9682133" versie-id="15626932" id="C21412911" label-id="9659024" inwerking="2008-08-01" label="Artikel 15a" bron="Stb.2008-312" effect="nieuw" ondertekening_bron="2008-07-03" publicatie_bron="2008-07-31" publicatie_iwt="2008-07-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel15a/Lid1" label-id="9659024L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Elke bijdrage uit ‘s Rijks kas die door of vanwege Onze Minister wie het aangaat onder voorwaarden ten behoeve van een bepaald openbaar belang aan provincies en gemeenten wordt verstrekt, is een specifieke uitkering.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=15a&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel15a/Lid2" label-id="9659024L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien provincies of gemeenten optreden als marktpartij of werkgever, of als eigenaar of huurder van een roerende of onroerende zaak, en onder dezelfde voorwaarden als andere natuurlijke personen en rechtspersonen, niet zijnde medeoverheden, voor een bijdrage uit ‘s Rijks kas in aanmerking komen, is die bijdrage geen specifieke uitkering.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=15a&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel15a/Lid3" label-id="9659024L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Bijdragen uit ‘s Rijks kas aan provincies en gemeenten ten behoeve van een bepaald openbaar belang waarvoor een bedrag beschikbaar is, dat lager is dan een bij algemene maatregel van bestuur op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vastgesteld bedrag, kunnen slechts worden verstrekt als onderdeel van een verzameluitkering.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=15a&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2008-312"><publicatiejaar>2008</publicatiejaar><publicatienr>312</publicatienr><uitgiftedatum isodatum="2008-07-31">31-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum><dossierref dossier="31327">31327</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2008-312"><publicatiejaar>2008</publicatiejaar><publicatienr>312</publicatienr><uitgiftedatum isodatum="2008-07-31">31-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum><dossierref dossier="31327">31327</dossierref></publicatie><inwerkingtreding.datum isodatum="2008-08-01">01-08-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=15a&amp;g=2024-01-01" onderdeel="artikel=15a" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=15a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=15a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=15a" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=15a"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk3/Artikel16" code="b1-16" stam-id="189453" versie-id="15626942" id="C21337621" label-id="186614" inwerking="2008-08-01" label="Artikel 16" bron="Stb.2008-312" effect="wijziging" ondertekening_bron="2008-07-03" publicatie_bron="2008-07-31" publicatie_iwt="2008-07-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">16</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel16/Lid1" label-id="186614L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Specifieke uitkeringen kunnen worden verstrekt voor de bestrijding van in de regeling van de uitkering aangeduide kosten van de ontvangers.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=16&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel16/Lid2" label-id="186614L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Specifieke uitkeringen worden slechts verstrekt als deze wijze van bekostiging van provinciale of gemeentelijke taken bijzonder aangewezen moet worden geacht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=16&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-312"><publicatiejaar>2008</publicatiejaar><publicatienr>312</publicatienr><uitgiftedatum isodatum="2008-07-31">31-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum><dossierref dossier="31327">31327</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-312"><publicatiejaar>2008</publicatiejaar><publicatienr>312</publicatienr><uitgiftedatum isodatum="2008-07-31">31-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum><dossierref dossier="31327">31327</dossierref></publicatie><inwerkingtreding.datum isodatum="2008-08-01">01-08-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=16&amp;g=2024-01-01" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=16&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=16"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk3/Artikel16a" stam-id="9682143" versie-id="24036282" id="C34691471" label-id="9659034" inwerking="2018-01-01" label="Artikel 16a" bron="Stb.2017-139" effect="wijziging" ondertekening_bron="2017-03-22" publicatie_bron="2017-04-07" publicatie_iwt="2017-06-19" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">16a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel16a/Lid1" label-id="9659034L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een verzameluitkering is een specifieke uitkering aan provincies en gemeenten per ministerie waarin bedragen voor beleidsthema’s zijn opgenomen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=16a&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel16a/Lid2" label-id="9659034L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Bedragen ten behoeve van een verzameluitkering worden opgenomen in een begrotingsartikel als bedoeld in <extref doc="jci1.3:c:BWBR0039429&amp;artikel=2.5" label-id="13934324" verwijzing-id="2819063" bwb-id="BWBR0039429">artikel 2.5 van de Comptabiliteitswet 2016</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=16a&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel16a/Lid3" label-id="9659034L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Een departementale begroting als bedoeld in <extref doc="jci1.3:c:BWBR0039429&amp;artikel=2.1" label-id="13934274" verwijzing-id="2819064" bwb-id="BWBR0039429">artikel 2.1, zesde lid, van de Comptabiliteitswet 2016</extref> bevat niet meer dan één verzameluitkering.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=16a&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel16a/Lid4" label-id="9659034L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de verstrekking, de verlening, de vaststelling en de terugvordering van de verzameluitkeringen. Bij de verstrekking van een verzameluitkering wordt vermeld ter zake van welke beleidsthema’s de uitkering wordt verstrekt, en wat de verdeling is per beleidsthema.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=16a&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel16a/Lid5" label-id="9659034L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan bij ministeriële regeling nadere regels stellen over de verstrekking, de verlening, waaronder de bevoorschotting, de vaststelling en de terugvordering van de verzameluitkeringen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=16a&amp;lid=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel16a/Lid6" label-id="9659034L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>De verzameluitkering wordt besteed binnen de doelstellingen van het ministerie, bedoeld in <extref doc="jci1.3:c:BWBR0039429&amp;artikel=2.1" label-id="13934274" verwijzing-id="2819065" bwb-id="BWBR0039429">artikel 2.1, zesde lid, van de Comptabiliteitswet 2016</extref>. De informatie ten behoeve van de verantwoording betreft het totaal bestede bedrag per verzameluitkering.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=16a&amp;lid=6&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-139"><publicatiejaar>2017</publicatiejaar><publicatienr>139</publicatienr><uitgiftedatum isodatum="2017-04-07">07-04-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-03-22">22-03-2017</ondertekeningsdatum><dossierref dossier="34426">34426</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-253"><publicatiejaar>2017</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2017-06-19">19-06-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-05-29">29-05-2017</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-01-01">01-01-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=16a&amp;g=2024-01-01" onderdeel="artikel=16a" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=16a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=16a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=16a" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=16a"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17" code="d1-17" stam-id="189463" versie-id="258592" id="C15829921" label-id="186624" inwerking="1999-02-17" label="Artikel 17" bron="Stb.1999-30" effect="wijziging" ondertekening_bron="1999-01-28" publicatie_bron="1999-02-16" publicatie_iwt="1999-02-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>17</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17/Lid1" label-id="186624L1">
+    <lidnr>1</lidnr>
+    <al>Specifieke uitkeringen worden geregeld bij of krachtens de wet. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17/Lid2" label-id="186624L2">
+    <lidnr>2</lidnr>
+    <al>Het eerste lid is niet van toepassing in de gevallen, bedoeld in <extref doc="jci1.3:c:BWBR0005537&amp;artikel=4:23" verwijzing-id="40278" bwb-id="BWBR0005537" label-id="2819214">artikel 4:23, derde lid, van de Algemene wet bestuursrecht</extref>, met dien verstande dat in de gevallen, bedoeld in <extref doc="jci1.3:c:BWBR0005537&amp;artikel=4:23" verwijzing-id="40280" bwb-id="BWBR0005537" label-id="2819214">artikel 4:23, derde lid, onderdeel a, van de Algemene wet bestuursrecht</extref> de specifieke uitkering wordt geregeld bij ministeriële regeling. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17/Lid3" label-id="186624L3">
+    <lidnr>3</lidnr>
+    <al>Tijdelijke specifieke uitkeringen kunnen worden geregeld bij algemene maatregel van bestuur. Krachtens de maatregel kan de verdeling van de uitkering nader worden bepaald. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17/Lid4" label-id="186624L4">
+    <lidnr>4</lidnr>
+    <al>Een algemene maatregel van bestuur als bedoeld in het derde lid vervalt vier jaren nadat hij in werking is getreden, tenzij voor dat tijdstip een voorstel van wet bij de Staten-Generaal is ingediend waarin de specifieke uitkering wordt geregeld. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17/Lid5" label-id="186624L5">
+    <lidnr>5</lidnr>
+    <al>Eenmalige specifieke uitkeringen kunnen worden geregeld bij ministeriële regeling. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17&amp;lid=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1999-30"><publicatiejaar>1999</publicatiejaar><publicatienr>30</publicatienr><uitgiftedatum isodatum="1999-02-16">16-02-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-01-28">28-01-1999</ondertekeningsdatum><dossierref dossier="25836">25836</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1999-40"><publicatiejaar>1999</publicatiejaar><publicatienr>40</publicatienr><uitgiftedatum isodatum="1999-02-16">16-02-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-02-04">04-02-1999</ondertekeningsdatum><dossierref dossier="25836">25836</dossierref></publicatie><inwerkingtreding.datum isodatum="1999-02-17">17-02-1999</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=17&amp;g=2024-01-01" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=17"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17a" stam-id="9682153" versie-id="26615392" id="C42307961" label-id="9659044" inwerking="2024-01-01" label="Artikel 17a" bron="Stb.2020-112" effect="wijziging" ondertekening_bron="2020-03-14" publicatie_bron="2020-04-09" publicatie_iwt="2023-04-07" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">17a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17a/Lid1" label-id="9659044L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Gedeputeerde staten en het college van burgemeester en wethouders zenden de informatie ten behoeve van de verantwoording over de uitvoering van de regeling van een specifieke uitkering uiterlijk 15 juli van het jaar volgend op het begrotingsjaar aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in de vorm van:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17a/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de jaarrekening en het jaarverslag, bedoeld in <extref doc="jci1.3:c:BWBR0005645&amp;artikel=202" label-id="2944814" verwijzing-id="2229651" bwb-id="BWBR0005645">artikel 202, eerste lid, van de Provinciewet</extref>, onderscheidenlijk <extref doc="jci1.3:c:BWBR0005416&amp;artikel=198" label-id="2895074" verwijzing-id="2229652" bwb-id="BWBR0005416">artikel 198, eerste lid, van de Gemeentewet</extref>, en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17a&amp;lid=1&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17a/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de accountantsverklaring en het verslag van bevindingen, bedoeld in <extref doc="jci1.3:c:BWBR0005645&amp;artikel=217" label-id="2944994" verwijzing-id="2229653" bwb-id="BWBR0005645">artikel 217, derde en vierde lid, van de Provinciewet</extref>, onderscheidenlijk <extref doc="jci1.3:c:BWBR0005416&amp;artikel=213" label-id="2895254" verwijzing-id="2229654" bwb-id="BWBR0005416">artikel 213, derde en vierde lid, van de Gemeentewet</extref>.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17a&amp;lid=1&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17a&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17a/Lid2" label-id="9659044L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien provincies en gemeenten van elkaar middelen ontvangen die afkomstig zijn uit een specifieke uitkering, verstrekken zij de informatie, bedoeld in het eerste lid, aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17a&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17a/Lid3" label-id="9659044L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt bij ministeriële regeling nadere regels over het verstrekken van de in het eerste lid bedoelde informatie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17a&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17a/Lid4" label-id="9659044L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties brengt de informatie betreffende de specifieke uitkeringen onverwijld ter kennis van Onze Ministers en de bestuursorganen wie het aangaat.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17a&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17a/Lid5" label-id="9659044L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Gedeputeerde staten en het college van burgemeester en wethouders verstrekken desgevraagd inlichtingen over de besteding van een specifieke uitkering aan de accountant die in opdracht van Onze Minister die het aangaat met de controle hiernaar is belast. De accountant kan tevens informatie inwinnen bij de in <extref doc="jci1.3:c:BWBR0005645&amp;artikel=217" label-id="2944994" verwijzing-id="2819066" bwb-id="BWBR0005645">artikel 217, tweede lid, van de Provinciewet</extref>, onderscheidenlijk <extref doc="jci1.3:c:BWBR0005416&amp;artikel=213" label-id="2895254" verwijzing-id="2819067" bwb-id="BWBR0005416">artikel 213, tweede lid, van de Gemeentewet</extref>, bedoelde accountants.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17a&amp;lid=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17a/Lid6" label-id="9659044L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Dit artikel is niet van toepassing:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17a/Lid6/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>indien de voorwaarden inzake het verstrekken van een Europese subsidie als bedoeld in <extref doc="jci1.3:c:BWBR0031640&amp;artikel=1" label-id="11725524" verwijzing-id="2622297" bwb-id="BWBR0031640">artikel 1, onderdeel f, van de Wet Naleving Europese regelgeving publieke entiteiten</extref> anders verplichten, voor zover die subsidies worden verstrekt door tussenkomst van ’s Rijks kas;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17a&amp;lid=6&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17a/Lid6/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>indien de specifieke uitkering is verstrekt aan een gemeente in de hoedanigheid van bevoegd gezag van een openbare school;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17a&amp;lid=6&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17a/Lid6/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>op cofinanciering door het Rijk als bedoeld in <extref doc="jci1.3:c:BWBR0034784&amp;artikel=1" label-id="12543924" verwijzing-id="2622330" bwb-id="BWBR0034784">artikel 1, onderdeel g, van de Uitvoeringswet EFRO</extref>.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17a&amp;lid=6&amp;o=c&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17a&amp;lid=6&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-112"><publicatiejaar>2020</publicatiejaar><publicatienr>112</publicatienr><uitgiftedatum isodatum="2020-04-09">09-04-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-03-14">14-03-2020</ondertekeningsdatum><dossierref dossier="35133">35133</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-113"><publicatiejaar>2023</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2023-04-07">07-04-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-05">05-04-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=17a&amp;g=2024-01-01" onderdeel="artikel=17a" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=17a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=17a" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=17a"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17b" code="n1-17b" stam-id="9682163" versie-id="18337712" id="C25675231" label-id="9659054" inwerking="2011-02-23" label="Artikel 17b" bron="Stb.2011-4" effect="wijziging" ondertekening_bron="2010-12-13" publicatie_bron="2011-01-11" publicatie_iwt="2011-02-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">17b</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17b/Lid1" label-id="9659054L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vaststelt dat de informatie, bedoeld in <intref verwijzing-id="2229658" doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17a&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0008290" label-id="9659044" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17a">artikel 17a, eerste lid</intref>, niet is verstrekt op de wijze zoals voorgeschreven op grond van het <intref verwijzing-id="2229659" doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17a&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0008290" label-id="9659044" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17a">derde lid van artikel 17a</intref>, doet hij daarvan mededeling aan gedeputeerde staten of het college van burgemeester en wethouders.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17b&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17b/Lid2" label-id="9659054L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Gedeputeerde staten en het college van burgemeester en wethouders kunnen voor 1 juli van het jaar volgend op het begrotingsjaar, schriftelijk en met redenen omkleed aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties verzoeken om uitstel van de toezending van de in <intref verwijzing-id="2229660" doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17a&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0008290" label-id="9659044" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17a">artikel 17a, eerste lid</intref>, bedoelde informatie. Hij beslist binnen twee weken op dat verzoek, na overleg met Onze Ministers wie het aangaat.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17b&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17b/Lid3" label-id="9659054L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Onze Ministers kunnen de betalingen op grond van <intref verwijzing-id="2229661" doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.5&amp;artikel=15&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0008290" label-id="186584" bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.5/Artikel15">artikel 15, eerste lid</intref>, aan de betreffende provincie of gemeente geheel of gedeeltelijk opschorten gedurende ten hoogste zesentwintig weken indien:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17b/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>gedeputeerde staten en het college van burgemeester en wethouders nalaten de informatie, bedoeld in <intref verwijzing-id="2229662" doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17a&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0008290" label-id="9659044" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17a">artikel 17a, eerste lid</intref>, aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties te zenden binnen de in dat artikellid genoemde termijn, dan wel, als uitstel is verleend, binnen de termijn waarvoor uitstel is verleend, of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17b&amp;lid=3&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17b/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de informatie, bedoeld in <intref verwijzing-id="2229663" doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17a&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0008290" label-id="9659044" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17a">artikel 17a, eerste lid</intref>, na het verstrijken van de voorgeschreven termijn, niet is verstrekt op de wijze zoals voorgeschreven krachtens het derde lid van dat artikel.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17b&amp;lid=3&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17b&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17b/Lid4" label-id="9659054L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties doet terstond mededeling aan het desbetreffende bestuursorgaan van een besluit als bedoeld in het derde lid, met vermelding van de mate waarin en de periode waarvoor de betalingen ten hoogste geschorst worden. De betalingen worden hervat in de week nadat de informatie is verstrekt op de wijze zoals voorgeschreven krachtens het <intref verwijzing-id="2229664" doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17a&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0008290" label-id="9659044" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17a">derde lid van artikel 17a</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17b&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17b/Lid5" label-id="9659054L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Gedeputeerde staten en het college van burgemeester en wethouders kunnen na een besluit als bedoeld in het derde lid, indien bijzondere omstandigheden daartoe aanleiding geven, schriftelijk en met redenen omkleed aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties verzoeken om de opschorting ongedaan te maken. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties beslist binnen twee weken op dat verzoek, na overleg met Onze Ministers wie het aangaat.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17b&amp;lid=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17b/Lid6" label-id="9659054L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Als gedeputeerde staten of het college van burgemeester en wethouders de gevraagde informatie binnen de in het vierde lid bedoelde periode niet hebben verstrekt of niet op de wijze zoals voorgeschreven krachtens het <intref verwijzing-id="2229665" doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17a&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0008290" label-id="9659044" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17a">derde lid van artikel 17a</intref>, doet Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties daarvan mededeling aan Onze Minister wie het aangaat.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17b&amp;lid=6&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2011-4"><publicatiejaar>2011</publicatiejaar><publicatienr>4</publicatienr><uitgiftedatum isodatum="2011-01-11">11-01-2011</uitgiftedatum><ondertekeningsdatum isodatum="2010-12-13">13-12-2010</ondertekeningsdatum><dossierref dossier="32456">32456</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2011-79"><publicatiejaar>2011</publicatiejaar><publicatienr>79</publicatienr><uitgiftedatum isodatum="2011-02-22">22-02-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-02-11">11-02-2011</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2011-02-23">23-02-2011</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=17b&amp;g=2024-01-01" onderdeel="artikel=17b" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=17b"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=17b" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=17b"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk3/Artikel18" stam-id="189473" versie-id="24039002" id="C34691491" label-id="186634" inwerking="2018-01-01" label="Artikel 18" bron="Stb.2017-139" effect="wijziging" ondertekening_bron="2017-03-22" publicatie_bron="2017-04-07" publicatie_iwt="2017-06-19" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">18</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel18/Lid1" label-id="186634L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Over een voorstel tot regeling van een specifieke uitkering, niet zijnde een verzameluitkering als bedoeld in <intref doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=16a&amp;z=2024-01-01&amp;g=2024-01-01" label-id="9659034" verwijzing-id="2229666" bwb-id="BWBR0008290" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel16a">artikel 16a</intref>, vindt tijdig overleg plaats met Onze Ministers.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=18&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel18/Lid2" label-id="186634L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Ministers die het aangaan melden zo nodig ter voorbereiding van de indiening van de ontwerp-begrotingen, bedoeld in <extref doc="jci1.3:c:BWBR0039429&amp;artikel=2.23" label-id="13934524" verwijzing-id="2819068" bwb-id="BWBR0039429">artikel 2.23, eerste lid, van de Comptabiliteitswet 2016</extref>, en de wijzigingen van de ontwerp-begrotingen, bedoeld in <extref doc="jci1.3:c:BWBR0039429&amp;artikel=2.26" label-id="13934554" verwijzing-id="2819069" bwb-id="BWBR0039429">artikelen 2.26, eerste lid, van die wet</extref>, aan Onze Ministers welke beleidsthema’s door middel van een verzameluitkering worden bekostigd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=18&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-139"><publicatiejaar>2017</publicatiejaar><publicatienr>139</publicatienr><uitgiftedatum isodatum="2017-04-07">07-04-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-03-22">22-03-2017</ondertekeningsdatum><dossierref dossier="34426">34426</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-253"><publicatiejaar>2017</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2017-06-19">19-06-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-05-29">29-05-2017</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-01-01">01-01-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=18&amp;g=2024-01-01" onderdeel="artikel=18" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=18"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=18&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=18" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=18"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk3/Artikel19" code="b1-19" stam-id="189483" versie-id="15627202" id="C21338431" label-id="186644" inwerking="2008-08-01" label="Artikel 19" bron="Stb.2008-312" effect="wijziging" ondertekening_bron="2008-07-03" publicatie_bron="2008-07-31" publicatie_iwt="2008-07-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">19</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel19/Lid1" label-id="186644L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De <extref doc="jci1.3:c:BWBR0005645&amp;artikel=117" verwijzing-id="40282" bwb-id="BWBR0005645" label-id="2943724">artikelen 117, eerste lid, van de Provinciewet</extref> en <extref doc="jci1.3:c:BWBR0005416&amp;artikel=119" verwijzing-id="2229668" bwb-id="BWBR0005416" label-id="2894154">119, eerste lid, van de Gemeentewet</extref> zijn niet van toepassing op de regeling van de informatievoorziening ten aanzien van een specifieke uitkering als bedoeld in <intref verwijzing-id="40286" doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0008290" label-id="186624" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17">artikel 17, derde en vijfde lid</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=19&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel19/Lid2" label-id="186644L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister wie het aangaat kan ten behoeve van de uitvoering van zijn beleid beleidsinformatie aan de ontvangers van bijdragen uit een verzameluitkering vragen:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel19/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>voor een meerjarige periode, van alle ontvangers of een selectie van de ontvangers;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=19&amp;lid=2&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel19/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>jaarlijks van een selectie van de ontvangers of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=19&amp;lid=2&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel19/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>na afloop van de looptijd van de regeling op grond waarvan de bijdrage voor het betreffende beleidsthema in de verzameluitkering is opgenomen van alle ontvangers of een selectie van de ontvangers.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=19&amp;lid=2&amp;o=c&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=19&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel19/Lid3" label-id="186644L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Over de beleidsinformatie, bedoeld in het tweede lid, wordt geen verklaring of verslag van bevindingen van een accountant als bedoeld in <extref doc="jci1.3:c:BWBR0003045&amp;artikel=393" verwijzing-id="2229669" bwb-id="BWBR0003045" label-id="2872984">artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek</extref> overgelegd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=19&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-312"><publicatiejaar>2008</publicatiejaar><publicatienr>312</publicatienr><uitgiftedatum isodatum="2008-07-31">31-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum><dossierref dossier="31327">31327</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-312"><publicatiejaar>2008</publicatiejaar><publicatienr>312</publicatienr><uitgiftedatum isodatum="2008-07-31">31-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum><dossierref dossier="31327">31327</dossierref></publicatie><inwerkingtreding.datum isodatum="2008-08-01">01-08-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=19&amp;g=2024-01-01" onderdeel="artikel=19" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=19"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=19&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=19" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=19"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk3/Artikel20" code="b1-20" stam-id="189493" versie-id="15627212" id="C21412981" label-id="186654" inwerking="2008-08-01" label="Artikel 20" bron="Stb.2008-312" effect="wijziging" ondertekening_bron="2008-07-03" publicatie_bron="2008-07-31" publicatie_iwt="2008-07-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">20</nr>
+  </kop>
+  <al>Uiterlijk op de derde woensdag van mei publiceren Onze Ministers een onderhoudsrapport over de specifieke uitkeringen over het voorafgaande jaar.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-312"><publicatiejaar>2008</publicatiejaar><publicatienr>312</publicatienr><uitgiftedatum isodatum="2008-07-31">31-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum><dossierref dossier="31327">31327</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-312"><publicatiejaar>2008</publicatiejaar><publicatienr>312</publicatienr><uitgiftedatum isodatum="2008-07-31">31-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum><dossierref dossier="31327">31327</dossierref></publicatie><inwerkingtreding.datum isodatum="2008-08-01">01-08-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=20&amp;g=2024-01-01" onderdeel="artikel=20" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=20"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=20&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=20" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=20"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk3/Artikel21" code="b1-21" stam-id="189503" versie-id="258572" id="C17439821" label-id="186664" inwerking="1998-01-01" label="Artikel 21" bron="Stb.1997-580" effect="wijziging" ondertekening_bron="1997-12-04" publicatie_bron="1997-12-18" publicatie_iwt="1997-12-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>21</nr>
+  </kop>
+  <al>De <intref verwijzing-id="40287" doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=16&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0008290" label-id="186614" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel16">artikelen 16</intref> en <intref verwijzing-id="40288" doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=18&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0008290" label-id="186634,186644,186654" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel18">18 tot en met 20</intref> zijn van overeenkomstige toepassing op uitkeringen uit ’s Rijks kas aan derden, ter bekostiging van activiteiten van die derden, waarbij de verstrekking afhankelijk is van de verstrekking van een uitkering door provincies of gemeenten aan die derden. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-526"><publicatiejaar>1997</publicatiejaar><publicatienr>526</publicatienr><uitgiftedatum isodatum="1997-11-20">20-11-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-11-06">06-11-1997</ondertekeningsdatum><dossierref dossier="25185">25185</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-695"><publicatiejaar>1997</publicatiejaar><publicatienr>695</publicatienr><uitgiftedatum isodatum="1997-12-23">23-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-580"><publicatiejaar>1997</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-04">04-12-1997</ondertekeningsdatum><dossierref dossier="25464">25464</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-581"><publicatiejaar>1997</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=21&amp;g=2024-01-01" onderdeel="artikel=21" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=21"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=21&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=21" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=21"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2008-312"><publicatiejaar>2008</publicatiejaar><publicatienr>312</publicatienr><uitgiftedatum isodatum="2008-07-31">31-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum><dossierref dossier="31327">31327</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2008-312"><publicatiejaar>2008</publicatiejaar><publicatienr>312</publicatienr><uitgiftedatum isodatum="2008-07-31">31-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum><dossierref dossier="31327">31327</dossierref></publicatie><inwerkingtreding.datum isodatum="2008-07-03">03-07-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;hoofdstuk=3&amp;g=2024-01-01" onderdeel="hoofdstuk=3" korte-verwijzing="1.0:c:BWBR0008290&amp;hoofdstuk=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="hoofdstuk=3" korte-verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=3"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk4" stam-id="189603" versie-id="258222" id="C258221" label-id="186764" inwerking="1997-01-01" label="HOOFDSTUK 4" bron="Stb.1996-576" effect="nieuwe-regeling" ondertekening_bron="1996-10-21" publicatie_bron="1996-12-05" publicatie_iwt="1996-12-05" status="goed">
+  <kop>
+    <label>HOOFDSTUK</label>
+    <nr>4</nr>
+    <titel status="officieel">OVERIGE BEPALINGEN, OVERGANGSBEPALINGEN EN SLOTBEPALINGEN </titel>
+  </kop><paragraaf bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4.1" stam-id="189543" versie-id="258162" id="C258161" label-id="186704" inwerking="1997-01-01" label="Paragraaf 4.1" bron="Stb.1996-576" effect="nieuwe-regeling" ondertekening_bron="1996-10-21" publicatie_bron="1996-12-05" publicatie_iwt="1996-12-05" status="goed">
+  <kop>
+    <label>Paragraaf</label>
+    <nr>4.1</nr>
+    <titel status="officieel">Overige bepalingen </titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4.1/Artikel22" code="b1-22" stam-id="189523" versie-id="15627222" id="C21338471" label-id="186684" inwerking="2008-08-01" label="Artikel 22" bron="Stb.2008-312" effect="wijziging" ondertekening_bron="2008-07-03" publicatie_bron="2008-07-31" publicatie_iwt="2008-07-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">22</nr>
+  </kop>
+  <al>Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4.1/Artikel22/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>de toepassing van de in deze wet gehanteerde begrippen;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=4&amp;paragraaf=4.1&amp;artikel=22&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4.1/Artikel22/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>de procedure tot vaststelling en verstrekking van uitkeringen als bedoeld in deze wet;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=4&amp;paragraaf=4.1&amp;artikel=22&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4.1/Artikel22/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>de betalingen, bedoeld in <intref verwijzing-id="2229670" doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.5&amp;artikel=15&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0008290" label-id="186584" bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.5/Artikel15">artikel 15</intref> en de opschorting daarvan, bedoeld in <intref verwijzing-id="2229671" doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=3&amp;artikel=17b&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0008290" label-id="9659054" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel17b">artikel 17b, derde, vierde en vijfde lid</intref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=4&amp;paragraaf=4.1&amp;artikel=22&amp;o=c&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4.1/Artikel22/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>het verzamelen en vaststellen van gegevens ten behoeve van uitkeringen; </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=4&amp;paragraaf=4.1&amp;artikel=22&amp;o=d&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4.1/Artikel22/Onderdeele">
+      <li.nr>e.</li.nr>
+      <al>het doen van mededelingen en het verschaffen van inlichtingen in verband met de vaststelling en verstrekking van uitkeringen.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=4&amp;paragraaf=4.1&amp;artikel=22&amp;o=e&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-312"><publicatiejaar>2008</publicatiejaar><publicatienr>312</publicatienr><uitgiftedatum isodatum="2008-07-31">31-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum><dossierref dossier="31327">31327</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-312"><publicatiejaar>2008</publicatiejaar><publicatienr>312</publicatienr><uitgiftedatum isodatum="2008-07-31">31-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum><dossierref dossier="31327">31327</dossierref></publicatie><inwerkingtreding.datum isodatum="2008-08-01">01-08-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=22&amp;g=2024-01-01" onderdeel="artikel=22" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=22"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=4&amp;paragraaf=4.1&amp;artikel=22&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=22" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=22"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4.1/Artikel23" code="b1-23" stam-id="189533" versie-id="258152" id="C15829941" label-id="186694" inwerking="1997-01-01" label="Artikel 23" bron="Stb.1996-576" effect="nieuwe-regeling" ondertekening_bron="1996-10-21" publicatie_bron="1996-12-05" publicatie_iwt="1996-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>23</nr>
+  </kop>
+  <al>Op een uitkering als bedoeld in deze wet kan geen beslag onder de Staat worden gelegd.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie><inwerkingtreding.datum isodatum="1997-01-01">01-01-1997</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=23&amp;g=2024-01-01" onderdeel="artikel=23" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=23"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=4&amp;paragraaf=4.1&amp;artikel=23&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=23" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=23"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie><inwerkingtreding.datum isodatum="1997-01-01">01-01-1997</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;paragraaf=4.1&amp;g=2024-01-01" onderdeel="paragraaf=4.1" korte-verwijzing="1.0:c:BWBR0008290&amp;paragraaf=4.1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=4&amp;paragraaf=4.1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="paragraaf=4.1" korte-verwijzing="jci1.3:c:BWBR0008290&amp;paragraaf=4.1"/></jcis></meta-data></paragraaf><paragraaf bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4.2" stam-id="189563" versie-id="15627502" id="C21338761" label-id="186724" inwerking="2008-07-03" label="Paragraaf 4.2" bron="Stb.2008-312" effect="structuurwijziging" ondertekening_bron="2008-07-03" publicatie_bron="2008-07-31" publicatie_iwt="2008-07-31" status="goed">
+  <kop>
+    <label>Paragraaf</label>
+    <nr status="officieel">4.2</nr>
+    <titel status="officieel">Overgangsbepalingen </titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4.2/Artikel24" code="b1-24" stam-id="189553" versie-id="258172" id="C15784401" label-id="186714" inwerking="1997-01-01" label="Artikel 24" bron="Stb.1996-576" effect="nieuwe-regeling" ondertekening_bron="1996-10-21" publicatie_bron="1996-12-05" publicatie_iwt="1996-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>24</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4.2/Artikel24/Lid1" label-id="186714L1">
+    <lidnr>1</lidnr>
+    <al>In afwijking van <intref verwijzing-id="40293" doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.2&amp;artikel=8&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0008290" label-id="186484" bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.2/Artikel8">artikel 8, derde lid</intref>, wordt voor de eerste maal bij wet bepaald welke verdeelmaatstaven worden gehanteerd en hoe deze worden gehanteerd. Krachtens die wet, bij regeling van Onze Ministers, kunnen nadere voorschriften worden gegeven omtrent de toepassing van de bij de bepaling gebruikte begrippen en omtrent de wijze van telling van het aantal eenheden per verdeelmaatstaf.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=4&amp;paragraaf=4.2&amp;artikel=24&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4.2/Artikel24/Lid2" label-id="186714L2">
+    <lidnr>2</lidnr>
+    <al>In afwijking van <intref verwijzing-id="40295" doc="jci1.3:c:BWBR0008290&amp;hoofdstuk=2&amp;paragraaf=2.2&amp;artikel=9&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0008290" label-id="186494" bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2.2/Artikel9">artikel 9, eerste lid</intref>, worden de bedragen per eenheid behorend bij de in het eerste lid bedoelde maatstaven, over het eerste uitkeringsjaar bij wet vastgesteld. Daarbij kan worden bepaald dat Onze Ministers deze bedragen aan kunnen passen in verband met wijzigingen ten aanzien van het fonds over de jaren 1996 en 1997, die door middel van wijzigingen in de bedragen per eenheid over de gemeenten verdeeld behoren te worden. Artikel 9, tweede lid, blijft buiten toepassing bij de vaststelling van de bedragen per eenheid over het eerste uitkeringsjaar.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=4&amp;paragraaf=4.2&amp;artikel=24&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie><inwerkingtreding.datum isodatum="1997-01-01">01-01-1997</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=24&amp;g=2024-01-01" onderdeel="artikel=24" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=24"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=4&amp;paragraaf=4.2&amp;artikel=24&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=24" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=24"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4.2/Artikel24a" stam-id="9682173" versie-id="15627692" id="C21338951" label-id="9659064" inwerking="2008-08-01" label="Artikel 24a" bron="Stb.2008-312" effect="nieuw" ondertekening_bron="2008-07-03" publicatie_bron="2008-07-31" publicatie_iwt="2008-07-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">24a</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt deze wet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2008-312"><publicatiejaar>2008</publicatiejaar><publicatienr>312</publicatienr><uitgiftedatum isodatum="2008-07-31">31-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum><dossierref dossier="31327">31327</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2008-312"><publicatiejaar>2008</publicatiejaar><publicatienr>312</publicatienr><uitgiftedatum isodatum="2008-07-31">31-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum><dossierref dossier="31327">31327</dossierref></publicatie><inwerkingtreding.datum isodatum="2008-08-01">01-08-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=24a&amp;g=2024-01-01" onderdeel="artikel=24a" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=24a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=4&amp;paragraaf=4.2&amp;artikel=24a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=24a" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=24a"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2008-312"><publicatiejaar>2008</publicatiejaar><publicatienr>312</publicatienr><uitgiftedatum isodatum="2008-07-31">31-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum><dossierref dossier="31327">31327</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2008-312"><publicatiejaar>2008</publicatiejaar><publicatienr>312</publicatienr><uitgiftedatum isodatum="2008-07-31">31-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum><dossierref dossier="31327">31327</dossierref></publicatie><inwerkingtreding.datum isodatum="2008-07-03">03-07-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;paragraaf=4.2&amp;g=2024-01-01" onderdeel="paragraaf=4.2" korte-verwijzing="1.0:c:BWBR0008290&amp;paragraaf=4.2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=4&amp;paragraaf=4.2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="paragraaf=4.2" korte-verwijzing="jci1.3:c:BWBR0008290&amp;paragraaf=4.2"/></jcis></meta-data></paragraaf><paragraaf bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4.3" stam-id="189593" versie-id="258212" id="C258211" label-id="186754" inwerking="1997-01-01" label="Paragraaf 4.3" bron="Stb.1996-576" effect="nieuwe-regeling" ondertekening_bron="1996-10-21" publicatie_bron="1996-12-05" publicatie_iwt="1996-12-05" status="goed">
+  <kop>
+    <label>Paragraaf</label>
+    <nr>4.3</nr>
+    <titel status="officieel">Slotbepalingen </titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4.3/Artikel25" code="b1-25" stam-id="189573" versie-id="258192" id="C258191" label-id="186734" inwerking="1997-01-01" label="Artikel 25" bron="Stb.1996-576" effect="nieuwe-regeling" ondertekening_bron="1996-10-21" publicatie_bron="1996-12-05" publicatie_iwt="1996-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>25</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie><inwerkingtreding.datum isodatum="1997-01-01">01-01-1997</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=25&amp;g=2024-01-01" onderdeel="artikel=25" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=25"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=4&amp;paragraaf=4.3&amp;artikel=25&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=25" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=25"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Paragraaf4.3/Artikel26" code="b1-26" stam-id="189583" versie-id="258202" id="C258201" label-id="186744" inwerking="1997-01-01" label="Artikel 26" bron="Stb.1996-576" effect="nieuwe-regeling" ondertekening_bron="1996-10-21" publicatie_bron="1996-12-05" publicatie_iwt="1996-12-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>26</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Financiële-verhoudingswet. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie><inwerkingtreding.datum isodatum="1997-01-01">01-01-1997</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;artikel=26&amp;g=2024-01-01" onderdeel="artikel=26" korte-verwijzing="1.0:c:BWBR0008290&amp;artikel=26"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=4&amp;paragraaf=4.3&amp;artikel=26&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=26" korte-verwijzing="jci1.3:c:BWBR0008290&amp;artikel=26"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie><inwerkingtreding.datum isodatum="1997-01-01">01-01-1997</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;paragraaf=4.3&amp;g=2024-01-01" onderdeel="paragraaf=4.3" korte-verwijzing="1.0:c:BWBR0008290&amp;paragraaf=4.3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=4&amp;paragraaf=4.3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="paragraaf=4.3" korte-verwijzing="jci1.3:c:BWBR0008290&amp;paragraaf=4.3"/></jcis></meta-data></paragraaf><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie><inwerkingtreding.datum isodatum="1997-01-01">01-01-1997</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;hoofdstuk=4&amp;g=2024-01-01" onderdeel="hoofdstuk=4" korte-verwijzing="1.0:c:BWBR0008290&amp;hoofdstuk=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="hoofdstuk=4" korte-verwijzing="jci1.3:c:BWBR0008290&amp;hoofdstuk=4"/></jcis></meta-data></hoofdstuk>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="189613" versie-id="258232" id="C20861461" label-id="186774" inwerking="1997-01-01" bron="Stb.1996-576" effect="nieuwe-regeling" ondertekening_bron="1996-10-21" publicatie_bron="1996-12-05" publicatie_iwt="1996-12-05" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">21 oktober 1996</datum>
+    </dagtekening>
+    <koning>Beatrix </koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Staatssecretaris van Binnenlandse Zaken,</functie>
+    <naam>
+      <achternaam>A. G. M. van de Vondervoort </achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Binnenlandse Zaken,</functie>
+    <naam>
+      <achternaam>H. F. Dijkstal </achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Staatssecretaris van Financiën,</functie>
+    <naam>
+      <achternaam>W. A. F. G. Vermeend </achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Financiën,</functie>
+    <naam>
+      <achternaam>G. Zalm</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de <nadruk type="cur">vijfde</nadruk> december 1996</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>W. Sorgdrager</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie><inwerkingtreding.datum isodatum="1997-01-01">01-01-1997</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-576"><publicatiejaar>1996</publicatiejaar><publicatienr>576</publicatienr><uitgiftedatum isodatum="1996-12-05">05-12-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-10-21">21-10-1996</ondertekeningsdatum><dossierref dossier="24552">24552</dossierref></publicatie><inwerkingtreding.datum isodatum="1997-01-01">01-01-1997</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008290&amp;g=2024-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0008290"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008290&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0008290"/></jcis></meta-data></wetgeving></toestand>

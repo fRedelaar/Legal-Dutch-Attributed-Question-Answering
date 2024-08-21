@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0025364/2023-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0025364" inwerkingtreding="2023-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="9915553" versie-id="28678312" id="C40463471" label-id="9892064" inwerkingtredingsdatum="2022-02-09">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="9915573" versie-id="16168492" id="C22941651" label-id="9891874" inwerking="2009-10-01" bron="Stb.2009-93" effect="nieuwe-regeling" ondertekening_bron="2009-01-29" publicatie_bron="2009-03-05" publicatie_iwt="2009-09-22" status="goed">Wet van 29 januari 2009 tot instelling van een College voor examens, alsmede houdende wijziging van de Wet op het onderwijstoezicht en de Wet op het voortgezet onderwijs (Wet College voor examens)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-93"><publicatiejaar>2009</publicatiejaar><publicatienr>93</publicatienr><uitgiftedatum isodatum="2009-03-05">05-03-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-01-29">29-01-2009</ondertekeningsdatum><dossierref dossier="31411">31411</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-382"><publicatiejaar>2009</publicatiejaar><publicatienr>382</publicatienr><uitgiftedatum isodatum="2009-09-22">22-09-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-09-08">08-09-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-10-01">01-10-2009</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="9915583" versie-id="21173532" id="C30885191" label-id="9891884" inwerking="2014-08-01" bron="Stb.2014-13" effect="wijziging" ondertekening_bron="2013-12-11" publicatie_bron="2014-01-16" publicatie_iwt="2014-07-03">Wet College voor toetsen en examens<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-13"><publicatiejaar>2014</publicatiejaar><publicatienr>13</publicatienr><uitgiftedatum isodatum="2014-01-16">16-01-2014</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-11">11-12-2013</ondertekeningsdatum><dossierref dossier="33157">33157</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-246"><publicatiejaar>2014</publicatiejaar><publicatienr>246</publicatienr><uitgiftedatum isodatum="2014-07-03">03-07-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-06-23">23-06-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2014-08-01">01-08-2014</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="9915593" versie-id="16168512" id="C22941671" label-id="9891894" inwerking="2009-10-01" bron="Stb.2009-93" effect="nieuwe-regeling" ondertekening_bron="2009-01-29" publicatie_bron="2009-03-05" publicatie_iwt="2009-09-22" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is over te gaan tot externe verzelfstandiging van het dienstonderdeel de Centrale examencommissie vaststelling opgaven van het Ministerie van Onderwijs, Cultuur en Wetenschap, de Staatsexamencommissie en de Staatsexamencommissie Nederlands als tweede taal door instelling van een zelfstandig bestuursorgaan en in verband daarmee de <extref doc="jci1.3:c:BWBR0013800" verwijzing-id="2263127" bwb-id="BWBR0013800" label-id="3066334">Wet op het onderwijstoezicht</extref> en de <extref doc="jci1.3:c:BWBR0002399" verwijzing-id="2263128" bwb-id="BWBR0002399" label-id="3001384">Wet op het voortgezet onderwijs</extref> te wijzigen;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-93"><publicatiejaar>2009</publicatiejaar><publicatienr>93</publicatienr><uitgiftedatum isodatum="2009-03-05">05-03-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-01-29">29-01-2009</ondertekeningsdatum><dossierref dossier="31411">31411</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-382"><publicatiejaar>2009</publicatiejaar><publicatienr>382</publicatienr><uitgiftedatum isodatum="2009-09-22">22-09-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-09-08">08-09-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-10-01">01-10-2009</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="9915603" versie-id="26534992" id="C37719831" label-id="9891904" inwerking="2020-04-01" label="Artikel 1" bron="Stb.2020-76" effect="wijziging" ondertekening_bron="2020-02-12" publicatie_bron="2020-03-04" publicatie_iwt="2020-03-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>In deze wet wordt verstaan onder:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel_1">
+      <al>
+        <nadruk type="cur">college:</nadruk> College voor toetsen en examens, genoemd in <intref doc="jci1.3:c:BWBR0025364&amp;artikel=2&amp;z=2023-01-01&amp;g=2023-01-01" label-id="9891914" verwijzing-id="2617985" bwb-id="BWBR0025364" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid</intref>;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel_2">
+      <al>
+        <nadruk type="cur">Cito:</nadruk> Stichting Cito Instituut voor Toetsontwikkeling, genoemd in <extref doc="jci1.3:c:BWBR0034162&amp;artikel=3" label-id="12397294" verwijzing-id="2984424" bwb-id="BWBR0034162">artikel 3 van de Wet subsidiëring landelijke onderwijsondersteunende activiteiten 2013</extref>;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel_3">
+      <al>
+        <nadruk type="cur">Onze Minister:</nadruk> Onze Minister van Onderwijs, Cultuur en Wetenschap.</al>
+    </li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-76"><publicatiejaar>2020</publicatiejaar><publicatienr>76</publicatienr><uitgiftedatum isodatum="2020-03-04">04-03-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-02-12">12-02-2020</ondertekeningsdatum><dossierref dossier="35320">35320</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-98"><publicatiejaar>2020</publicatiejaar><publicatienr>98</publicatienr><uitgiftedatum isodatum="2020-03-23">23-03-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-03-16">16-03-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-04-01">01-04-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0025364&amp;artikel=1&amp;g=2023-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0025364&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=1&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0025364&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" stam-id="9915613" versie-id="28676252" id="C41333531" label-id="9891914" inwerking="2023-01-01" label="Artikel 2" bron="Stb.2022-135" effect="wijziging" ondertekening_bron="2022-02-09" publicatie_bron="2022-04-04" publicatie_iwt="2022-11-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="9891914L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Er is een College voor toetsen en examens.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=1&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="9891914L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het college is belast met de volgende taken op het gebied van de centrale examens, bedoeld in <extref doc="jci1.3:c:BWBR0044212&amp;paragraaf=5" label-id="15605314" verwijzing-id="3052981" bwb-id="BWBR0044212">hoofdstuk 2, paragraaf 5, van de Wet voortgezet onderwijs 2020</extref>, <extref doc="jci1.3:c:BWBR0007625&amp;artikel=7.4.11" label-id="2473594" verwijzing-id="2422404" bwb-id="BWBR0007625">artikel 7.4.11 van de Wet educatie en beroepsonderwijs</extref> en <extref doc="jci1.3:c:BWBR0028395&amp;artikel=7.4.13" label-id="11213994" verwijzing-id="2427748" bwb-id="BWBR0028395">artikel 7.4.13 van de Wet educatie en beroepsonderwijs BES</extref> en de daarop berustende bepalingen:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het vaststellen van het aantal toetsen, de tijdsduur en de aard van de toetsen, overeenkomstig het examenprogramma;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=2&amp;o=a&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>het vaststellen van het tijdstip van de toetsen, de wijze waarop en de vorm waarin de toetsen worden afgenomen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=2&amp;o=b&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>het tot stand brengen en vaststellen van de opgaven;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=2&amp;o=c&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>het tot stand brengen en bij regeling vaststellen van de beoordelingsnormen en de daarbij behorende scores;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=2&amp;o=d&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>het geven van regels voor de omzetting van de scores in cijfers;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=2&amp;o=e&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>het tot stand brengen en bij regeling vaststellen van syllabi, overeenkomstig het examenprogramma; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=2&amp;o=f&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>het geven van regels met betrekking tot de hulpmiddelen die gebruikt mogen worden bij het maken van de opgaven.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=2&amp;o=g&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=g"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=2&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid3" label-id="9891914L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het college is belast met de volgende taken op het gebied van de staatsexamens, bedoeld in <extref doc="jci1.3:c:BWBR0044212&amp;paragraaf=7" label-id="15605534" verwijzing-id="3052982" bwb-id="BWBR0044212">hoofdstuk 2, paragraaf 7, van de Wet voortgezet onderwijs 2020</extref> en de daarop berustende bepalingen:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het bij regeling vaststellen van het examenreglement;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=3&amp;o=a&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>het organiseren, afnemen en beoordelen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=3&amp;o=b&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid3/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de benoeming van examenfunctionarissen; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=3&amp;o=c&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid3/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>het vaststellen van de uitslag en het uitreiken van diploma’s, certificaten of cijferlijsten.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=3&amp;o=d&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=3&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid4" label-id="9891914L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Het college is belast met de volgende taken op het gebied van de college-examens van de staatsexamens, bedoeld in de <extref doc="jci1.3:c:BWBR0044212&amp;artikel=2.75" label-id="15605424,15605434,15605444" verwijzing-id="3052983" bwb-id="BWBR0044212">artikelen 2.75 tot en met 2.77 van de Wet voortgezet onderwijs 2020</extref> en de op artikel 2.77, tweede lid, van die wet berustende bepalingen:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid4/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het bij regeling vaststellen van het programma van toetsing en afsluiting;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=4&amp;o=a&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid4/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>het tot stand brengen en vaststellen van de opgaven; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=4&amp;o=b&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid4/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>het tot stand brengen en bij regeling vaststellen van de beoordelingsnormen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=4&amp;o=c&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=4&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid5" label-id="9891914L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Het college is belast met de volgende taken op het gebied van de staatsexamens, bedoeld in <extref doc="jci1.3:c:BWBR0044212&amp;artikel=2.72" label-id="15605394" verwijzing-id="3052984" bwb-id="BWBR0044212">artikel 2.72, derde lid, van de Wet voortgezet onderwijs 2020</extref> en de op dat lid berustende bepalingen:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid5/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het bij regeling vaststellen van het examenprogramma;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=5&amp;o=a&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid5/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>het tot stand brengen en vaststellen van de opgaven; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=5&amp;o=b&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid5/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>het tot stand brengen en bij regeling vaststellen van de beoordelingsnormen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=5&amp;o=c&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=5&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid6" label-id="9891914L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Het college is verder nog belast met de volgende taken:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid6/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het afnemen van examens onder bijzondere omstandigheden;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=6&amp;o=a&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid6/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>het bij regeling vaststellen welke vakken in een tijdvak met geheimhouding worden afgenomen, waarbij de geheimhouding betrekking heeft op de opgaven, de beoordelingsnormen en de daarbij behorende scores, bedoeld in het tweede lid, onderdelen c en d, vierde lid onderdelen b en c, en vijfde lid, onderdelen b en c; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=6&amp;o=b&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid6/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>het uitoefenen van andere door Onze Minister opgedragen taken.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=6&amp;o=c&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=6&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid7" label-id="9891914L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>De regelingen, bedoeld in het tweede lid, onderdelen e en f, en vijfde lid, onderdeel a, treden slechts in werking na goedkeuring door Onze Minister. Onze Minister kan zijn goedkeuring onthouden wegens strijd met het recht of het algemeen belang.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=7&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid8" label-id="9891914L8">
+    <lidnr status="officieel">8</lidnr>
+    <al>In afwijking van <extref doc="jci1.3:c:BWBR0004287&amp;artikel=5" label-id="1218354" verwijzing-id="3140794" bwb-id="BWBR0004287">artikel 5, aanhef en onder b, van de Bekendmakingswet</extref> kan de bekendmaking van een regeling als bedoeld in het tweede lid, onderdeel d, vierde lid, onderdeel c, of vijfde lid, onderdeel c, geschieden op een andere geschikte, al dan niet elektronische, wijze.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;lid=8&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=8"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-135"><publicatiejaar>2022</publicatiejaar><publicatienr>135</publicatienr><uitgiftedatum isodatum="2022-04-04">04-04-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-02-09">09-02-2022</ondertekeningsdatum><dossierref dossier="35671">35671</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-481"><publicatiejaar>2022</publicatiejaar><publicatienr>481</publicatienr><uitgiftedatum isodatum="2022-11-30">30-11-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-11-09">09-11-2022</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-01-01">01-01-2023</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Artikel XIII van Stb. 2022/135 bevat overgangsrecht m.b.t. deze wijziging.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0025364&amp;artikel=2&amp;g=2023-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0025364&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0025364&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="b1-3" stam-id="9915623" versie-id="18398372" id="C25896371" label-id="9891924" inwerking="2011-05-21" label="Artikel 3" bron="Stb.2010-350" effect="wijziging" ondertekening_bron="2010-05-17" publicatie_bron="2010-09-01" publicatie_iwt="2011-03-07" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <al>Het college is belast met bij algemene maatregel van bestuur aan te wijzen taken ten aanzien van de uitvoering van de centrale examinering in het beroepsonderwijs, bedoeld in <extref doc="jci1.3:c:BWBR0007625&amp;artikel=7.4.3a" verwijzing-id="2422405" bwb-id="BWBR0007625" label-id="9892074">artikel 7.4.3a van de Wet educatie en beroepsonderwijs</extref> en <extref doc="jci1.3:c:BWBR0028395&amp;artikel=7.4.4" verwijzing-id="2427752" bwb-id="BWBR0028395" label-id="11213894">artikel 7.4.4 van de Wet educatie en beroepsonderwijs BES</extref>, en de op dit artikel gebaseerde uitvoeringsvoorschriften.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2010-350"><publicatiejaar>2010</publicatiejaar><publicatienr>350</publicatienr><uitgiftedatum isodatum="2010-09-01">01-09-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-05-17">17-05-2010</ondertekeningsdatum><dossierref dossier="31959">31959</dossierref></publicatie><juncto><publicatie soort="Stb" urlidentifier="stb-2011-33"><publicatiejaar>2011</publicatiejaar><publicatienr>33</publicatienr><uitgiftedatum isodatum="2011-02-16">16-02-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-02-03">03-02-2011</ondertekeningsdatum><dossierref dossier="32419">32419</dossierref></publicatie></juncto></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2011-34"><publicatiejaar>2011</publicatiejaar><publicatienr>34</publicatienr><uitgiftedatum isodatum="2011-03-07">07-03-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-02-03">03-02-2011</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2011-05-21">21-05-2011</inwerkingtreding.datum><juncto><publicatie soort="Stb" urlidentifier="stb-2011-227"><publicatiejaar>2011</publicatiejaar><publicatienr>227</publicatienr><uitgiftedatum isodatum="2011-05-20">20-05-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-04-28">28-04-2011</ondertekeningsdatum></publicatie></juncto></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking in Bonaire, Sint Eustatius en Saba. Inwerkingtreding voorheen door Stb. 2011/34 gesteld op 1 augustus 2011.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0025364&amp;artikel=3&amp;g=2023-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0025364&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=3&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0025364&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3a" stam-id="16379193" versie-id="28678422" id="C41333521" label-id="16303554" inwerking="2023-01-01" label="Artikel 3a" bron="Stb.2022-135" effect="nieuw" ondertekening_bron="2022-02-09" publicatie_bron="2022-04-04" publicatie_iwt="2022-11-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3a/Lid1" label-id="16303554L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het college is belast met de volgende taken op het gebied van toetsen in het basisonderwijs en het speciaal onderwijs:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel3a/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>erkenning voor een periode van vier jaar van doorstroomtoetsen als doorstroomtoets, bedoeld in <extref doc="jci1.3:c:BWBR0003420&amp;artikel=45b" label-id="16363544" verwijzing-id="3201091" bwb-id="BWBR0003420">artikel 45b, derde lid, van de Wet op het primair onderwijs</extref>, <extref doc="jci1.3:c:BWBR0003549&amp;artikel=48c" label-id="16302064" verwijzing-id="3163289" bwb-id="BWBR0003549">artikel 48c, derde lid, van de Wet op de expertisecentra</extref> en <extref doc="jci1.3:c:BWBR0030280&amp;artikel=51b" label-id="16303094" verwijzing-id="3163290" bwb-id="BWBR0030280">artikel 51b, eerste lid, van de Wet primair onderwijs BES</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=3a&amp;lid=1&amp;o=a&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3a/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>jaarlijkse vaststelling of de in dat schooljaar aan te bieden erkende doorstroomtoets voldoet aan de criteria op basis waarvan de erkenning is verleend;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=3a&amp;lid=1&amp;o=b&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3a/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>erkenning voor een periode van tien jaar van toetsen als toets, bedoeld in <extref doc="jci1.3:c:BWBR0003420&amp;artikel=45b" label-id="16363544" verwijzing-id="3201092" bwb-id="BWBR0003420">artikel 45b, eerste lid, van de Wet op het primair onderwijs</extref>, <extref doc="jci1.3:c:BWBR0003549&amp;artikel=48c" label-id="16302064" verwijzing-id="3163291" bwb-id="BWBR0003549">artikel 48c, eerste lid, van de Wet op de expertisecentra</extref> en <extref doc="jci1.3:c:BWBR0030280&amp;artikel=51a" label-id="16303084" verwijzing-id="3163292" bwb-id="BWBR0030280">artikel 51a, eerste lid, van de Wet primair onderwijs BES</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=3a&amp;lid=1&amp;o=c&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3a/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>het doen van mededelingen van de erkenningen, bedoeld in onderdelen a en c, en jaarlijkse vaststellingen, bedoeld in onderdeel b, op elektronische wijze;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=3a&amp;lid=1&amp;o=d&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3a/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>het bij regeling vaststellen van de toetswijzer voor de verschillende niveaus overeenkomstig de kerndoelen met betrekking tot Nederlandse taal en rekenen en wiskunde, bedoeld in <extref doc="jci1.3:c:BWBR0003420&amp;artikel=9" label-id="2849864" verwijzing-id="3163293" bwb-id="BWBR0003420">artikel 9 van de Wet op het primair onderwijs</extref> en <extref doc="jci1.3:c:BWBR0003549&amp;artikel=13" label-id="2628024" verwijzing-id="3163294" bwb-id="BWBR0003549">artikel 13 van de Wet op de expertisecentra</extref> en met inachtneming van de referentieniveaus Nederlandse taal en de referentieniveaus rekenen, bedoeld in <extref doc="jci1.3:c:BWBR0027679&amp;artikel=2" label-id="10508794" verwijzing-id="3163299" bwb-id="BWBR0027679">artikel 2, tweede lid, aanhef en onderdeel b, van de Wet referentieniveaus Nederlandse taal en rekenen</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=3a&amp;lid=1&amp;o=e&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3a/Lid1/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>het bij regeling vaststellen van de procedure om te komen tot de beoordelingsnormen van de doorstroomtoetsen; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=3a&amp;lid=1&amp;o=f&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3a/Lid1/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>het opstellen van een beoordelingskader voor de erkenning en jaarlijkse vaststelling, bedoeld in de onderdelen a tot en met c, waarin ten aanzien van de psychometrische, onderwijskundige en organisatorische aspecten van de toetsen de toepassing is vastgelegd van de regels, bedoeld in het tweede lid.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=3a&amp;lid=1&amp;o=g&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=g"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=3a&amp;lid=1&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3a/Lid2" label-id="16303554L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het college verleent een erkenning als bedoeld in het eerste lid, onderdelen a en c:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel3a/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>voor een doorstroomtoets, indien deze toets voldoet aan de voorwaarden, genoemd in <extref doc="jci1.3:c:BWBR0003420&amp;artikel=45b" label-id="16363544" verwijzing-id="3201093" bwb-id="BWBR0003420">artikel 45b, vierde lid, van de Wet op het primair onderwijs</extref>, <extref doc="jci1.3:c:BWBR0003549&amp;artikel=48c" label-id="16302064" verwijzing-id="3163295" bwb-id="BWBR0003549">artikel 48c, vierde lid, van de Wet op de expertisecentra</extref> of <extref doc="jci1.3:c:BWBR0030280&amp;artikel=51b" label-id="16303094" verwijzing-id="3163296" bwb-id="BWBR0030280">artikel 51b, tweede lid, van de Wet primair onderwijs BES</extref>, en het eerste lid, onderdeel e;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=3a&amp;lid=2&amp;o=a&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3a/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>voor een toets verbonden aan een leerling- en onderwijsvolgsysteem, indien deze toets voldoet aan de voorwaarden, genoemd in <extref doc="jci1.3:c:BWBR0003420&amp;artikel=45b" label-id="16363544" verwijzing-id="3201094" bwb-id="BWBR0003420">artikel 45b, tweede lid, van de Wet op het primair onderwijs</extref>, <extref doc="jci1.3:c:BWBR0003549&amp;artikel=48c" label-id="16302064" verwijzing-id="3163297" bwb-id="BWBR0003549">artikel 48c, tweede lid, van de Wet op de expertisecentra</extref> of <extref doc="jci1.3:c:BWBR0030280&amp;artikel=51a" label-id="16303084" verwijzing-id="3163298" bwb-id="BWBR0030280">artikel 51a, tweede lid, van de Wet primair onderwijs BES</extref>; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=3a&amp;lid=2&amp;o=b&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3a/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de toets, bedoeld in de onderdelen a of b, voldoet aan de bij of krachtens algemene maatregel van bestuur te stellen regels over de validiteit, betrouwbaarheid, deugdelijke normering, organisatorische aspecten en voor ouders en leerlingen inzichtelijke weergave van de resultaten.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=3a&amp;lid=2&amp;o=c&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=3a&amp;lid=2&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3a/Lid3" label-id="16303554L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het college beslist binnen vijftien weken na ontvangst van een aanvraag tot erkenning of jaarlijkse vaststelling als bedoeld in het eerste lid, onderdelen a tot en met c.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=3a&amp;lid=3&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3a/Lid4" label-id="16303554L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Indien het college vaststelt dat een doorstroomtoets of een toets verbonden aan een leerling- en onderwijsvolgsysteem niet langer voldoet aan de criteria op basis waarvan de erkenning, bedoeld in het eerste lid, onderdelen a of c, is verleend, kan het college de erkenning intrekken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=3a&amp;lid=4&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3a/Lid5" label-id="16303554L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>De voordracht voor een krachtens het tweede lid, onderdeel c, vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=3a&amp;lid=5&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3a/Lid6" label-id="16303554L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>De regeling en het beoordelingskader, bedoeld in het eerste lid, onderdelen f en g, worden vastgesteld na goedkeuring door Onze Minister. Onze Minister kan zijn goedkeuring onthouden wegens strijd met het recht of het algemeen belang.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=3a&amp;lid=6&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2022-135"><publicatiejaar>2022</publicatiejaar><publicatienr>135</publicatienr><uitgiftedatum isodatum="2022-04-04">04-04-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-02-09">09-02-2022</ondertekeningsdatum><dossierref dossier="35671">35671</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2022-481"><publicatiejaar>2022</publicatiejaar><publicatienr>481</publicatienr><uitgiftedatum isodatum="2022-11-30">30-11-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-11-09">09-11-2022</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-01-01">01-01-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0025364&amp;artikel=3a&amp;g=2023-01-01" onderdeel="artikel=3a" korte-verwijzing="1.0:c:BWBR0025364&amp;artikel=3a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=3a&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=3a" korte-verwijzing="jci1.3:c:BWBR0025364&amp;artikel=3a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" stam-id="9915633" versie-id="16168552" id="C22941711" label-id="9891934" inwerking="2009-10-01" label="Artikel 4" bron="Stb.2009-93" effect="nieuwe-regeling" ondertekening_bron="2009-01-29" publicatie_bron="2009-03-05" publicatie_iwt="2009-09-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="9891934L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het college heeft ten minste zes leden en ten hoogste acht leden, onder wie een voorzitter.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=4&amp;lid=1&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="9891934L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Voor ieder lid van het college, de voorzitter uitgezonderd, zal Onze Minister één plaatsvervangend lid benoemen. Op de plaatsvervangende leden zijn de <extref doc="jci1.3:c:BWBR0020495&amp;artikel=9" verwijzing-id="2263138" bwb-id="BWBR0020495" label-id="8725804">artikelen 9</extref>, <extref doc="jci1.3:c:BWBR0020495&amp;artikel=12" verwijzing-id="2263139" bwb-id="BWBR0020495" label-id="8725844">12</extref>, <extref doc="jci1.3:c:BWBR0020495&amp;artikel=13" verwijzing-id="2263140" bwb-id="BWBR0020495" label-id="8725854">13</extref> en <extref doc="jci1.3:c:BWBR0020495&amp;artikel=14" verwijzing-id="2263141" bwb-id="BWBR0020495" label-id="8725864">14 van de Kaderwet zelfstandige bestuursorganen</extref> van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=4&amp;lid=2&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid3" label-id="9891934L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Onze Minister draagt bij de benoeming van de leden en de plaatsvervangende leden van het college zorg voor de onafhankelijkheid en deskundigheid van deze leden en voor voldoende draagvlak bij de representatieve onderwijsorganisaties voor hun benoeming.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=4&amp;lid=3&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid4" label-id="9891934L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De leden en de plaatsvervangende leden worden benoemd voor een periode van ten hoogste vier jaar. De leden en de plaatsvervangende leden kunnen éénmaal worden herbenoemd voor een periode van ten hoogste vier jaar.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=4&amp;lid=4&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-93"><publicatiejaar>2009</publicatiejaar><publicatienr>93</publicatienr><uitgiftedatum isodatum="2009-03-05">05-03-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-01-29">29-01-2009</ondertekeningsdatum><dossierref dossier="31411">31411</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-382"><publicatiejaar>2009</publicatiejaar><publicatienr>382</publicatienr><uitgiftedatum isodatum="2009-09-22">22-09-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-09-08">08-09-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-10-01">01-10-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0025364&amp;artikel=4&amp;g=2023-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0025364&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=4&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0025364&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" stam-id="9915643" versie-id="25833612" id="C37230451" label-id="9891944" inwerking="2020-01-01" label="Artikel 5" bron="Stb.2019-173" effect="wijziging" ondertekening_bron="2019-04-17" publicatie_bron="2019-05-16" publicatie_iwt="2019-11-06" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid1" label-id="9891944L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het college heeft een bureau ter ondersteuning van zijn werkzaamheden bestaande uit een directeur en andere medewerkers.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=5&amp;lid=1&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid2" label-id="9891944L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De directeur en de andere medewerkers zijn geen lid van het college.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=5&amp;lid=2&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid3" label-id="9891944L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Onze Minister gaat arbeidsovereenkomsten aan en wijzigt en beëindigt deze namens de Staat met de directeur en de andere medewerkers na overleg met de voorzitter van het college.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=5&amp;lid=3&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-173"><publicatiejaar>2019</publicatiejaar><publicatienr>173</publicatienr><uitgiftedatum isodatum="2019-05-16">16-05-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-04-17">17-04-2019</ondertekeningsdatum><dossierref dossier="35073">35073</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-385"><publicatiejaar>2019</publicatiejaar><publicatienr>385</publicatienr><uitgiftedatum isodatum="2019-11-06">06-11-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-10-24">24-10-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0025364&amp;artikel=5&amp;g=2023-01-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0025364&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=5&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0025364&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" stam-id="9915653" versie-id="16168572" id="C22941731" label-id="9891954" inwerking="2009-10-01" label="Artikel 6" bron="Stb.2009-93" effect="nieuwe-regeling" ondertekening_bron="2009-01-29" publicatie_bron="2009-03-05" publicatie_iwt="2009-09-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <al>De voorzitter vertegenwoordigt het college in en buiten rechte.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-93"><publicatiejaar>2009</publicatiejaar><publicatienr>93</publicatienr><uitgiftedatum isodatum="2009-03-05">05-03-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-01-29">29-01-2009</ondertekeningsdatum><dossierref dossier="31411">31411</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-382"><publicatiejaar>2009</publicatiejaar><publicatienr>382</publicatienr><uitgiftedatum isodatum="2009-09-22">22-09-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-09-08">08-09-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-10-01">01-10-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0025364&amp;artikel=6&amp;g=2023-01-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0025364&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=6&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0025364&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" stam-id="9915663" versie-id="16168582" id="C22941741" label-id="9891964" inwerking="2009-10-01" label="Artikel 7" bron="Stb.2009-93" effect="nieuwe-regeling" ondertekening_bron="2009-01-29" publicatie_bron="2009-03-05" publicatie_iwt="2009-09-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <al>Het college stelt een bestuursreglement vast, waarin in elk geval regels over de werkwijze en procedures zijn opgenomen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-93"><publicatiejaar>2009</publicatiejaar><publicatienr>93</publicatienr><uitgiftedatum isodatum="2009-03-05">05-03-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-01-29">29-01-2009</ondertekeningsdatum><dossierref dossier="31411">31411</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-382"><publicatiejaar>2009</publicatiejaar><publicatienr>382</publicatienr><uitgiftedatum isodatum="2009-09-22">22-09-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-09-08">08-09-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-10-01">01-10-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0025364&amp;artikel=7&amp;g=2023-01-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0025364&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=7&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0025364&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" stam-id="9915673" versie-id="28678322" id="C41333511" label-id="9891974" inwerking="2023-01-01" label="Artikel 8" bron="Stb.2022-135" effect="wijziging" ondertekening_bron="2022-02-09" publicatie_bron="2022-04-04" publicatie_iwt="2022-11-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid1" label-id="9891974L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het college zendt jaarlijks voor 1 april een werkprogramma voor het daaropvolgende kalenderjaar aan Onze Minister.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=8&amp;lid=1&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid2" label-id="9891974L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het werkprogramma omschrijft in elk geval:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel8/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de voorgenomen activiteiten van het college;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=8&amp;lid=2&amp;o=a&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel8/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de voorstellen voor de uitvoerende werkzaamheden op het terrein van de centrale examens of op het terrein van de staatsexamens, bedoeld in <extref doc="jci1.3:c:BWBR0044212&amp;paragraaf=7" label-id="15605534" verwijzing-id="3052985" bwb-id="BWBR0044212">hoofdstuk 2, paragraaf 7, van de Wet voortgezet onderwijs 2020</extref> en de daarop berustende bepalingen, waaronder in ieder geval de werkzaamheden van de Cito;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=8&amp;lid=2&amp;o=b&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel8/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de voorstellen voor de kosten van de werkzaamheden, bedoeld in onderdeel b.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=8&amp;lid=2&amp;o=c&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=8&amp;lid=2&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid3" label-id="9891974L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het college kan, mits gemotiveerd, aan Onze Minister tussentijds een wijziging van het werkprogramma voorstellen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=8&amp;lid=3&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-135"><publicatiejaar>2022</publicatiejaar><publicatienr>135</publicatienr><uitgiftedatum isodatum="2022-04-04">04-04-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-02-09">09-02-2022</ondertekeningsdatum><dossierref dossier="35671">35671</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-481"><publicatiejaar>2022</publicatiejaar><publicatienr>481</publicatienr><uitgiftedatum isodatum="2022-11-30">30-11-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-11-09">09-11-2022</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-01-01">01-01-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0025364&amp;artikel=8&amp;g=2023-01-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0025364&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=8&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0025364&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9_1" stam-id="12558463" versie-id="21173512" id="C30885221" label-id="12528854" inwerking="2014-08-01" label="Artikel 9*" bron="Stb.2014-13" effect="nieuw" ondertekening_bron="2013-12-11" publicatie_bron="2014-01-16" publicatie_iwt="2014-07-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9*</nr>
+  </kop>
+  <al>Zolang een of meer van de in <intref doc="jci1.3:c:BWBR0025364&amp;artikel=2&amp;z=2023-01-01&amp;g=2023-01-01" label-id="9891914" verwijzing-id="2617997" bwb-id="BWBR0025364" bwb-ng-variabel-deel="/Artikel2">artikel 2, zesde lid</intref>, genoemde artikelen van de <extref doc="jci1.3:c:BWBR0003420" label-id="2851954" verwijzing-id="2617995" bwb-id="BWBR0003420">Wet op het primair onderwijs</extref> en de <extref doc="jci1.3:c:BWBR0003549" label-id="2630144" verwijzing-id="2617996" bwb-id="BWBR0003549">Wet op de expertisecentra</extref> niet in werking is of zijn getreden, hebben de in het zesde lid beschreven taken van het college en het werkprogramma, bedoeld in <intref doc="jci1.3:c:BWBR0025364&amp;artikel=8&amp;z=2023-01-01&amp;g=2023-01-01" label-id="9891974" verwijzing-id="2617998" bwb-id="BWBR0025364" bwb-ng-variabel-deel="/Artikel8">artikel 8, tweede lid</intref>, uitsluitend betrekking op de toetsen, bedoeld in de reeds in werking getreden artikelen van de Wet op het primair onderwijs en de Wet op de expertisecentra.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-13"><publicatiejaar>2014</publicatiejaar><publicatienr>13</publicatienr><uitgiftedatum isodatum="2014-01-16">16-01-2014</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-11">11-12-2013</ondertekeningsdatum><dossierref dossier="33157">33157</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2014-246"><publicatiejaar>2014</publicatiejaar><publicatienr>246</publicatienr><uitgiftedatum isodatum="2014-07-03">03-07-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-06-23">23-06-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2014-08-01">01-08-2014</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Abusievelijk voegt het Staatsblad een tweede artikel 9 toe. </al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0025364&amp;artikel=9%2A&amp;g=2023-01-01" onderdeel="artikel=9%2A" korte-verwijzing="1.0:c:BWBR0025364&amp;artikel=9%2A"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=9*&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=9*" korte-verwijzing="jci1.3:c:BWBR0025364&amp;artikel=9*"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9_2" stam-id="9915683" versie-id="16168602" id="C22941761" label-id="9891984" inwerking="2009-10-01" label="Artikel 9" bron="Stb.2009-93" effect="nieuwe-regeling" ondertekening_bron="2009-01-29" publicatie_bron="2009-03-05" publicatie_iwt="2009-09-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet educatie en beroepsonderwijs.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-93"><publicatiejaar>2009</publicatiejaar><publicatienr>93</publicatienr><uitgiftedatum isodatum="2009-03-05">05-03-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-01-29">29-01-2009</ondertekeningsdatum><dossierref dossier="31411">31411</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-382"><publicatiejaar>2009</publicatiejaar><publicatienr>382</publicatienr><uitgiftedatum isodatum="2009-09-22">22-09-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-09-08">08-09-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-10-01">01-10-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0025364&amp;artikel=9&amp;g=2023-01-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0025364&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=9&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0025364&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" stam-id="9915693" versie-id="16168612" id="C22941771" label-id="9891994" inwerking="2009-10-01" label="Artikel 10" bron="Stb.2009-93" effect="nieuwe-regeling" ondertekening_bron="2009-01-29" publicatie_bron="2009-03-05" publicatie_iwt="2009-09-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op het onderwijstoezicht.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-93"><publicatiejaar>2009</publicatiejaar><publicatienr>93</publicatienr><uitgiftedatum isodatum="2009-03-05">05-03-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-01-29">29-01-2009</ondertekeningsdatum><dossierref dossier="31411">31411</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-382"><publicatiejaar>2009</publicatiejaar><publicatienr>382</publicatienr><uitgiftedatum isodatum="2009-09-22">22-09-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-09-08">08-09-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-10-01">01-10-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0025364&amp;artikel=10&amp;g=2023-01-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0025364&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=10&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0025364&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" stam-id="9915703" versie-id="16168622" id="C22941781" label-id="9892004" inwerking="2009-10-01" label="Artikel 11" bron="Stb.2009-93" effect="nieuwe-regeling" ondertekening_bron="2009-01-29" publicatie_bron="2009-03-05" publicatie_iwt="2009-09-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op het voortgezet onderwijs.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-93"><publicatiejaar>2009</publicatiejaar><publicatienr>93</publicatienr><uitgiftedatum isodatum="2009-03-05">05-03-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-01-29">29-01-2009</ondertekeningsdatum><dossierref dossier="31411">31411</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-382"><publicatiejaar>2009</publicatiejaar><publicatienr>382</publicatienr><uitgiftedatum isodatum="2009-09-22">22-09-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-09-08">08-09-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-10-01">01-10-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0025364&amp;artikel=11&amp;g=2023-01-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0025364&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=11&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0025364&amp;artikel=11"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel12" stam-id="9915713" versie-id="16168632" id="C22941791" label-id="9892014" inwerking="2009-10-01" label="Artikel 12" bron="Stb.2009-93" effect="nieuwe-regeling" ondertekening_bron="2009-01-29" publicatie_bron="2009-03-05" publicatie_iwt="2009-09-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">12</nr>
+  </kop>
+  <al>De archiefbescheiden van de centrale examencommissie vaststelling opgaven, bedoeld in <extref doc="jci1.3:c:BWBR0004593&amp;artikel=39" verwijzing-id="2263143" bwb-id="BWBR0004593" label-id="278624">artikel 39, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.</extref>, de staatsexamencommissie, bedoeld in <extref doc="jci1.3:c:BWBR0002399&amp;artikel=60" verwijzing-id="2263144" bwb-id="BWBR0002399" label-id="2999664">artikel 60, eerste lid, van de Wet op het voortgezet onderwijs</extref> en de commissie, bedoeld in <extref doc="jci1.3:c:BWBR0006192&amp;artikel=1" verwijzing-id="2263145" bwb-id="BWBR0006192" label-id="905374">artikel 1, van het Staatsexamenbesluit Nederlands als tweede taal</extref> zoals deze artikelen luidden op de dag voor de inwerkingtreding van <intref verwijzing-id="2263151" doc="jci1.3:c:BWBR0025364&amp;artikel=11&amp;z=2023-01-01&amp;g=2023-01-01" bwb-id="BWBR0025364" label-id="9892004" bwb-ng-variabel-deel="/Artikel11">artikel 11</intref> worden overgedragen aan het college.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-93"><publicatiejaar>2009</publicatiejaar><publicatienr>93</publicatienr><uitgiftedatum isodatum="2009-03-05">05-03-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-01-29">29-01-2009</ondertekeningsdatum><dossierref dossier="31411">31411</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-382"><publicatiejaar>2009</publicatiejaar><publicatienr>382</publicatienr><uitgiftedatum isodatum="2009-09-22">22-09-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-09-08">08-09-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-10-01">01-10-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0025364&amp;artikel=12&amp;g=2023-01-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0025364&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=12&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0025364&amp;artikel=12"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13" code="b1-13" stam-id="9915723" versie-id="16168642" id="C22941801" label-id="9892024" inwerking="2009-10-01" label="Artikel 13" bron="Stb.2009-93" effect="nieuwe-regeling" ondertekening_bron="2009-01-29" publicatie_bron="2009-03-05" publicatie_iwt="2009-09-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13</nr>
+  </kop>
+  <al>Na de inwerkingtreding van deze wet berusten de regelingen op grond van de <extref doc="jci1.3:c:BWBR0011538&amp;artikel=13" verwijzing-id="2263152" bwb-id="BWBR0011538" label-id="1372484">artikelen 13 van het Besluit staatsexamens vwo-havo-mavo 2000</extref>, <extref doc="jci1.3:c:BWBR0004593&amp;artikel=39" verwijzing-id="2263146" bwb-id="BWBR0004593" label-id="278624">39 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.</extref> en <extref doc="jci1.3:c:BWBR0006192&amp;artikel=3" verwijzing-id="2263147" bwb-id="BWBR0006192" label-id="905414">3</extref> en <extref doc="jci1.3:c:BWBR0006192&amp;artikel=10" verwijzing-id="2263148" bwb-id="BWBR0006192" label-id="905584">10 van het Staatsexamenbesluit Nederlands als tweede taal</extref> op <intref verwijzing-id="2263150" doc="jci1.3:c:BWBR0025364&amp;artikel=2&amp;z=2023-01-01&amp;g=2023-01-01" bwb-id="BWBR0025364" label-id="9891914" bwb-ng-variabel-deel="/Artikel2">artikel 2</intref> van deze wet.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-93"><publicatiejaar>2009</publicatiejaar><publicatienr>93</publicatienr><uitgiftedatum isodatum="2009-03-05">05-03-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-01-29">29-01-2009</ondertekeningsdatum><dossierref dossier="31411">31411</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-382"><publicatiejaar>2009</publicatiejaar><publicatienr>382</publicatienr><uitgiftedatum isodatum="2009-09-22">22-09-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-09-08">08-09-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-10-01">01-10-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0025364&amp;artikel=13&amp;g=2023-01-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0025364&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=13&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0025364&amp;artikel=13"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel14" stam-id="9915733" versie-id="16168652" id="C22941811" label-id="9892034" inwerking="2009-10-01" label="Artikel 14" bron="Stb.2009-93" effect="nieuwe-regeling" ondertekening_bron="2009-01-29" publicatie_bron="2009-03-05" publicatie_iwt="2009-09-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">14</nr>
+  </kop>
+  <al>De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-93"><publicatiejaar>2009</publicatiejaar><publicatienr>93</publicatienr><uitgiftedatum isodatum="2009-03-05">05-03-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-01-29">29-01-2009</ondertekeningsdatum><dossierref dossier="31411">31411</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-382"><publicatiejaar>2009</publicatiejaar><publicatienr>382</publicatienr><uitgiftedatum isodatum="2009-09-22">22-09-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-09-08">08-09-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-10-01">01-10-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0025364&amp;artikel=14&amp;g=2023-01-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0025364&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=14&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0025364&amp;artikel=14"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel15" stam-id="9915743" versie-id="21173522" id="C30885231" label-id="9892044" inwerking="2014-08-01" label="Artikel 15" bron="Stb.2014-13" effect="wijziging" ondertekening_bron="2013-12-11" publicatie_bron="2014-01-16" publicatie_iwt="2014-07-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet College voor toetsen en examens.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-13"><publicatiejaar>2014</publicatiejaar><publicatienr>13</publicatienr><uitgiftedatum isodatum="2014-01-16">16-01-2014</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-11">11-12-2013</ondertekeningsdatum><dossierref dossier="33157">33157</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2014-246"><publicatiejaar>2014</publicatiejaar><publicatienr>246</publicatienr><uitgiftedatum isodatum="2014-07-03">03-07-2014</uitgiftedatum><ondertekeningsdatum isodatum="2014-06-23">23-06-2014</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2014-08-01">01-08-2014</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0025364&amp;artikel=15&amp;g=2023-01-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0025364&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;artikel=15&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0025364&amp;artikel=15"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="9915753" versie-id="16168672" id="C22941831" label-id="9892054" inwerking="2009-10-01" bron="Stb.2009-93" effect="nieuwe-regeling" ondertekening_bron="2009-01-29" publicatie_bron="2009-03-05" publicatie_iwt="2009-09-22" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>’s-Gravenhage</plaats>
+      <datum isodatum="2009-01-29">29 januari 2009</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,</functie>
+    <naam>
+      <voornaam>J. M. van</voornaam>
+      <achternaam>Bijsterveldt-Vliegenthart</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Landbouw, Natuur en Voedselkwaliteit,</functie>
+    <naam>
+      <voornaam>G.</voornaam>
+      <achternaam>Verburg</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,</functie>
+    <naam>
+      <voornaam>A. Th. B.</voornaam>
+      <achternaam>Bijleveld-Schouten</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2009-03-05">de <nadruk type="cur">vijfde</nadruk> maart 2009</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie, </functie>
+      <naam>
+        <voornaam>E. M. H.</voornaam>
+        <achternaam>Hirsch Ballin</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-93"><publicatiejaar>2009</publicatiejaar><publicatienr>93</publicatienr><uitgiftedatum isodatum="2009-03-05">05-03-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-01-29">29-01-2009</ondertekeningsdatum><dossierref dossier="31411">31411</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2009-382"><publicatiejaar>2009</publicatiejaar><publicatienr>382</publicatienr><uitgiftedatum isodatum="2009-09-22">22-09-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-09-08">08-09-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-10-01">01-10-2009</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2022-135"><publicatiejaar>2022</publicatiejaar><publicatienr>135</publicatienr><uitgiftedatum isodatum="2022-04-04">04-04-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-02-09">09-02-2022</ondertekeningsdatum><dossierref dossier="35671">35671</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2022-135"><publicatiejaar>2022</publicatiejaar><publicatienr>135</publicatienr><uitgiftedatum isodatum="2022-04-04">04-04-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-02-09">09-02-2022</ondertekeningsdatum><dossierref dossier="35671">35671</dossierref></publicatie><inwerkingtreding.datum isodatum="2022-02-09">09-02-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0025364&amp;g=2023-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0025364"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0025364&amp;z=2023-01-01&amp;g=2023-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0025364"/></jcis></meta-data></wetgeving></toestand>

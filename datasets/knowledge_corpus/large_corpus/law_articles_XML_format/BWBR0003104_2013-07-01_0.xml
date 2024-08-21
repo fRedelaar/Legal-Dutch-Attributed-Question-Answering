@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0003104/2013-07-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0003104" inwerkingtreding="2013-07-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="1800693" versie-id="2680482" id="C2680481" label-id="1756154" inwerkingtredingsdatum="1977-07-04">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="1800723" versie-id="2680202" id="C2680201" label-id="1755884" inwerking="1977-07-04" bron="Stb.1977-313" effect="nieuwe-regeling" ondertekening_bron="1977-05-04" status="goed">Wet van 4 mei 1977, houdende regelen inzake het treffen van wedervergeldingsmaatregelen op het gebied van de zeescheepvaart <meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1977</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1977-05-04">04-05-1977</ondertekeningsdatum><dossierref dossier="10523">10523</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1977</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1977-05-04">04-05-1977</ondertekeningsdatum><dossierref dossier="10523">10523</dossierref></publicatie><inwerkingtreding.datum isodatum="1977-07-04">04-07-1977</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="1800733" versie-id="2680212" id="C2680211" label-id="1755894" inwerking="1977-07-04" bron="Stb.1977-313" effect="nieuwe-regeling" ondertekening_bron="1977-05-04">Wedervergeldingswet zeescheepvaart<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1977</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1977-05-04">04-05-1977</ondertekeningsdatum><dossierref dossier="10523">10523</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1977</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1977-05-04">04-05-1977</ondertekeningsdatum><dossierref dossier="10523">10523</dossierref></publicatie><inwerkingtreding.datum isodatum="1977-07-04">04-07-1977</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="1800743" versie-id="2680222" id="C2680221" label-id="1755904" inwerking="1977-07-04" bron="Stb.1977-313" effect="nieuwe-regeling" ondertekening_bron="1977-05-04" status="goed">
+  <wij>Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz. </wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten: </considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is regelen vast te stellen in het belang van de verdediging van de economische belangen van de Nederlandse koopvaardij en met het oog op de uitvoering van een internationale afspraak of een besluit van een volkenrechtelijke organisatie betrekking hebbende op het vervoer ter zee; </considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze: </al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1977</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1977-05-04">04-05-1977</ondertekeningsdatum><dossierref dossier="10523">10523</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1977</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1977-05-04">04-05-1977</ondertekeningsdatum><dossierref dossier="10523">10523</dossierref></publicatie><inwerkingtreding.datum isodatum="1977-07-04">04-07-1977</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" code="a-1" stam-id="1800753" versie-id="20599312" id="C29640481" label-id="1755914" inwerking="2013-07-01" label="Artikel 1" bron="Stb.2013-226" effect="wijziging" ondertekening_bron="2013-06-19" publicatie_bron="2013-06-28" publicatie_iwt="2013-06-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder: </al>
+  <al>Onze Minister: Onze Minister van Verkeer en Waterstaat; </al>
+  <al>zeeschip: een zeeschip in de zin van <extref doc="jci1.3:c:BWBR0005034&amp;artikel=2" verwijzing-id="2575992" bwb-id="BWBR0005034" label-id="1763824">artikel 2, eerste lid, van Boek 8 van het Burgerlijk Wetboek</extref>; </al>
+  <al>Nederlands zeeschip: een zeeschip dat voldoet aan de vereisten van <extref doc="jci1.3:c:BWBR0001838&amp;artikel=311" verwijzing-id="614605" bwb-id="BWBR0001838" label-id="1295094">artikel 311 van het Wetboek van Koophandel</extref> of is ingeschreven in het rompbevrachtingsregister, genoemd in <extref doc="jci1.3:c:BWBR0005681&amp;artikel=2" verwijzing-id="614606" bwb-id="BWBR0005681" label-id="873174">artikel 2 van de Wet nationaliteit zeeschepen in rompbevrachting</extref> (<nadruk type="cur">Stb.</nadruk> 1992, 541). </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-226"><publicatiejaar>2013</publicatiejaar><publicatienr>226</publicatienr><uitgiftedatum isodatum="2013-06-28">28-06-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-06-19">19-06-2013</ondertekeningsdatum><dossierref dossier="33455">33455</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-258"><publicatiejaar>2013</publicatiejaar><publicatienr>258</publicatienr><uitgiftedatum isodatum="2013-06-28">28-06-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-06-25">25-06-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-07-01">01-07-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=1&amp;g=2013-07-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=1&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="a-2" stam-id="1800763" versie-id="2680552" id="C2680551" label-id="1755924" inwerking="1998-01-01" label="Artikel 2" bron="Stb.1997-580" effect="wijziging" ondertekening_bron="1997-12-04" publicatie_bron="1997-12-18" publicatie_iwt="1997-12-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="1755924L1">
+    <lidnr>1</lidnr>
+    <al>Indien de verdediging van de economische belangen van de Nederlandse koopvaardij, dan wel een internationale afspraak of een besluit van een volkenrechtelijke organisatie betrekking hebbende op het vervoer ter zee zulks naar Ons oordeel vereist, kunnen Wij bij algemene maatregel van bestuur, in deze wet verder genoemd wedervergeldingsbesluit: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>verbieden, zonder vergunning van Onze Minister </al>
+        <lijst>
+          <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeela/Onderdeel1">
+            <li.nr>1°.</li.nr>
+            <al>als gezagvoerder van een zeeschip, varende onder een bij die maatregel aangewezen vlag, met dat zeeschip goederen te vervoeren over Nederlandse wateren; </al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=2&amp;lid=1&amp;o=a&amp;o=1&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="o=1"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeela/Onderdeel2">
+            <li.nr>2°.</li.nr>
+            <al>als eigenaar van een onderneming opzettelijk te bewerkstelligen, dat goederen worden vervoerd met een zeeschip, varende onder een bij die maatregel aangewezen vlag; </al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=2&amp;lid=1&amp;o=a&amp;o=2&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="o=2"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeela/Onderdeel3">
+            <li.nr>3°.</li.nr>
+            <al>een Nederlands zeeschip ter uitvoering van een overeenkomst van huur en verhuur, rompbevrachting of tijdbevrachting ter beschikking te stellen van een natuurlijke of rechtspersoon, gevestigd in een bij die maatregel aangewezen land; </al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=2&amp;lid=1&amp;o=a&amp;o=3&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="o=3"/></jcis></meta-data></li>
+        </lijst>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=2&amp;lid=1&amp;o=a&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>een heffing vaststellen, door Onze Minister op te leggen volgens een bij die maatregel te bepalen tarief, op zeeschepen die over Nederlandse wateren varen onder een bij die maatregel aangewezen vlag. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=2&amp;lid=1&amp;o=b&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=2&amp;lid=1&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="1755924L2">
+    <lidnr>2</lidnr>
+    <al> Bij een wedervergeldingsbesluit kan worden bepaald, dat het besluit mede van toepassing is ten aanzien van zeeschepen, varende onder een andere dan de bij het besluit aangewezen vlag, welk ingevolge een overeenkomst van huur en verhuur, rompbevrachting of tijdbevrachting ter beschikking staan van een natuurlijke of rechtspersoon, gevestigd in het land van die aangewezen vlag, indien van de zijde van dat land aan die schepen dezelfde voorrechten worden verleend als aan schepen varende onder de vlag van dat land. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=2&amp;lid=2&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid3" label-id="1755924L3">
+    <lidnr>3</lidnr>
+    <al> Een verbod of heffing, als bedoeld in het eerste lid, onder <nadruk type="cur">a</nadruk>, 1° of <nadruk type="cur">b</nadruk>, is niet van toepassing ten aanzien van een schip, dat zich in Nederlandse wateren bevindt uitsluitend </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>in doorvaart, of </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=2&amp;lid=3&amp;o=a&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>wegens gevaar voor de veiligheid van het schip of de opvarenden, of </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=2&amp;lid=3&amp;o=b&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid3/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>wegens gevaar voor leven of gezondheid van de opvarenden, of </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=2&amp;lid=3&amp;o=c&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid3/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>voor het ondergaan van onderhouds- of herstelwerkzaamheden of het innemen van bunkervoorraad of proviand. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=2&amp;lid=3&amp;o=d&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=2&amp;lid=3&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid4" label-id="1755924L4">
+    <lidnr>4</lidnr>
+    <al> De voordracht tot vaststelling, wijziging of intrekking van een wedervergeldingsbesluit wordt Ons gedaan door Onze Minister in overeenstemming met Onze Ministers van Buitenlandse Zaken, van Economische Zaken, van Landbouw en Visserij en voor Ontwikkelingssamenwerking. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=2&amp;lid=4&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-580"><publicatiejaar>1997</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-04">04-12-1997</ondertekeningsdatum><dossierref dossier="25464">25464</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-581"><publicatiejaar>1997</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=2&amp;g=2013-07-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=2&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="a-3" stam-id="1800773" versie-id="2680252" id="C2680251" label-id="1755934" inwerking="1977-07-04" label="Artikel 3" bron="Stb.1977-313" effect="nieuwe-regeling" ondertekening_bron="1977-05-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="1755934L1">
+    <lidnr>1</lidnr>
+    <al>Een wedervergeldingsbesluit, zomede een besluit tot wijziging of intrekking daarvan, treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het <nadruk type="cur">Staatsblad</nadruk>, waarin het wordt geplaatst. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=3&amp;lid=1&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="1755934L2">
+    <lidnr>2</lidnr>
+    <al> Een wedervergeldingsbesluit vervalt, behoudens eerdere intrekking, drie jaren na het inwerkingtreden, tenzij bij nadere wet anders wordt bepaald. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=3&amp;lid=2&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1977</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1977-05-04">04-05-1977</ondertekeningsdatum><dossierref dossier="10523">10523</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1977</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1977-05-04">04-05-1977</ondertekeningsdatum><dossierref dossier="10523">10523</dossierref></publicatie><inwerkingtreding.datum isodatum="1977-07-04">04-07-1977</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=3&amp;g=2013-07-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=3&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="a-4" stam-id="1800783" versie-id="2680262" id="C2680261" label-id="1755944" inwerking="1994-01-01" label="Artikel 4" bron="Stb.1992-422" effect="wijziging" ondertekening_bron="1992-06-04" publicatie_iwt="1993-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="1755944L1">
+    <lidnr>1</lidnr>
+    <al>Onze Minister kan van een bij een wedervergeldingsbesluit gesteld verbod of vastgestelde heffing vrijstelling en, op aanvraag, ontheffing verlenen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=4&amp;lid=1&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="1755944L2">
+    <lidnr>2</lidnr>
+    <al> Een besluit tot verlening van een vrijstelling, zomede een besluit tot wijziging of intrekking daarvan, wordt door Onze Minister vastgesteld in overeenstemming met Onze Ministers van Economische Zaken en van Landbouw en Visserij. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=4&amp;lid=2&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>422</publicatienr><ondertekeningsdatum isodatum="1992-06-04">04-06-1992</ondertekeningsdatum><dossierref dossier="22061">22061</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>693</publicatienr><uitgiftedatum isodatum="1993-12-23">23-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=4&amp;g=2013-07-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=4&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="a-5" stam-id="1800793" versie-id="2680272" id="C2680271" label-id="1755954" inwerking="1977-07-04" label="Artikel 5" bron="Stb.1977-313" effect="nieuwe-regeling" ondertekening_bron="1977-05-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>5</nr>
+  </kop>
+  <al>De vergunningen, vrijstellingen en ontheffingen kunnen onder beperkingen worden verleend. Aan de vergunningen, vrijstellingen en ontheffingen kunnen voorschriften worden verbonden. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1977</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1977-05-04">04-05-1977</ondertekeningsdatum><dossierref dossier="10523">10523</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1977</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1977-05-04">04-05-1977</ondertekeningsdatum><dossierref dossier="10523">10523</dossierref></publicatie><inwerkingtreding.datum isodatum="1977-07-04">04-07-1977</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=5&amp;g=2013-07-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=5&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="a-6" stam-id="1800803" versie-id="2680282" id="C2680281" label-id="1755964" inwerking="1994-01-01" label="Artikel 6" bron="Stb.1992-422" effect="wijziging" ondertekening_bron="1992-06-04" publicatie_iwt="1993-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+  </kop>
+  <al>Bij of krachtens een wedervergeldingsbesluit kan worden bepaald, welke gegevens bij het aanvragen van een vergunning of een ontheffing dienen te worden verstrekt. </al>
+  <al>Onder de gegevens, waarvan de verstrekking wordt voorgeschreven, kunnen over te leggen bewijsstukken begrepen zijn. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>422</publicatienr><ondertekeningsdatum isodatum="1992-06-04">04-06-1992</ondertekeningsdatum><dossierref dossier="22061">22061</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>693</publicatienr><uitgiftedatum isodatum="1993-12-23">23-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=6&amp;g=2013-07-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=6&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="a-7" stam-id="1800813" versie-id="2680292" id="C2680291" label-id="1755974" inwerking="1994-01-01" label="Artikel 7" bron="Stb.1992-422" effect="wijziging" ondertekening_bron="1992-06-04" publicatie_iwt="1993-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+  <al>Onze Minister kan een vergunning of een ontheffing intrekken, indien de te harer verkrijging verstrekte gegevens zo onjuist of onvolledig blijken, dat op de aanvrage een andere beslissing zou zijn genomen, als bij beoordeling daarvan de juiste omstandigheden bekend waren geweest. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>422</publicatienr><ondertekeningsdatum isodatum="1992-06-04">04-06-1992</ondertekeningsdatum><dossierref dossier="22061">22061</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>693</publicatienr><uitgiftedatum isodatum="1993-12-23">23-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=7&amp;g=2013-07-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=7&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" code="a-8" stam-id="1800823" versie-id="2680302" id="C5234721" label-id="1755984" inwerking="1994-01-01" label="Artikel 8" bron="Stb.1992-422" effect="wijziging" ondertekening_bron="1992-06-04" publicatie_iwt="1993-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>8</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid1" label-id="1755984L1">
+    <lidnr>1</lidnr>
+    <al>Onze Minister kan de vergunningen of ontheffingen, behorende tot een door hem aangewezen groep, gezamenlijk intrekken, indien een gewichtige reden dit naar zijn oordeel noodzakelijk maakt. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=8&amp;lid=1&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid2" label-id="1755984L2">
+    <lidnr>2</lidnr>
+    <al> Op een besluit krachtens het eerste lid is het bepaalde in <intref verwijzing-id="1632294" doc="jci1.3:c:BWBR0003104&amp;artikel=4&amp;z=2013-07-01&amp;g=2013-07-01" bwb-id="BWBR0003104" label-id="1755944" bwb-ng-variabel-deel="/Artikel4">artikel 4, tweede lid</intref>, van overeenkomstige toepassing. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=8&amp;lid=2&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>422</publicatienr><ondertekeningsdatum isodatum="1992-06-04">04-06-1992</ondertekeningsdatum><dossierref dossier="22061">22061</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>693</publicatienr><uitgiftedatum isodatum="1993-12-23">23-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=8&amp;g=2013-07-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=8&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" code="a-9" stam-id="1800833" versie-id="2680562" id="C20929981" label-id="1755994" inwerking="1998-01-01" label="Artikel 9" bron="Stb.1997-580" effect="wijziging" ondertekening_bron="1997-12-04" publicatie_bron="1997-12-18" publicatie_iwt="1997-12-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid1" label-id="1755994L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Van een krachtens <intref verwijzing-id="1632295" doc="jci1.3:c:BWBR0003104&amp;artikel=2&amp;z=2013-07-01&amp;g=2013-07-01" bwb-id="BWBR0003104" label-id="1755924" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid, onder b</intref>, opgelegde heffing wordt door Onze Minister schriftelijk mededeling gedaan aan de gezagvoerder van het zeeschip. </al>
+    <al>De mededeling bevat een opgave van de wijze waarop het bedrag der heffing is berekend. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=9&amp;lid=1&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid2" label-id="1755994L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Met betrekking tot deze heffing is de <extref doc="jci1.3:c:BWBR0004770" verwijzing-id="614607" bwb-id="BWBR0004770" label-id="2911504">Invorderingswet 1990</extref> van overeenkomstige toepassing waarbij de in het vorige lid bedoelde kennisgeving wordt aangemerkt als uitnodiging tot betaling. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=9&amp;lid=2&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid3" label-id="1755994L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Het is de gezagvoerder van het zeeschip niet toegestaan naar het buitenland te vertrekken, alvorens de opgelegde heffing is betaald of voor de betaling daarvan zekerheid is gesteld. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=9&amp;lid=3&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-580"><publicatiejaar>1997</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-04">04-12-1997</ondertekeningsdatum><dossierref dossier="25464">25464</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-581"><publicatiejaar>1997</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=9&amp;g=2013-07-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=9&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" code="a-10" stam-id="1800843" versie-id="2680322" id="C5234671" label-id="1756004" inwerking="1995-07-26" label="Artikel 10" bron="Stb.1995-355" effect="wijziging" ondertekening_bron="1995-07-10" publicatie_bron="1995-07-25" publicatie_iwt="1995-07-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>10</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid1" label-id="1756004L1">
+    <lidnr>1</lidnr>
+    <al>Onze Minister kan, wanneer hij overweegt een voordracht tot vaststelling, wijziging of intrekking van een wedervergeldingsbesluit te doen en naar zijn oordeel een gewichtige reden een onmiddellijke voorziening vereist, in overeenstemming met Onze Ministers van Buitenlandse Zaken, van Economische Zaken, van Landbouw en Visserij en voor Ontwikkelingssamenwerking, bij regeling, in deze wet verder genoemd wedervergeldingsregeling, overeenkomstig de in overweging zijnde maatregel regelen stellen en in het bestaande besluit vervatte regelen buiten werking stellen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=10&amp;lid=1&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid2" label-id="1756004L2">
+    <lidnr>2</lidnr>
+    <al> De <intref verwijzing-id="1632284" doc="jci1.3:c:BWBR0003104&amp;artikel=2&amp;z=2013-07-01&amp;g=2013-07-01" bwb-id="BWBR0003104" label-id="1755924" bwb-ng-variabel-deel="/Artikel2">artikelen 2, derde lid</intref>, en <intref verwijzing-id="1632285" doc="jci1.3:c:BWBR0003104&amp;artikel=4&amp;z=2013-07-01&amp;g=2013-07-01" bwb-id="BWBR0003104" label-id="1755944" bwb-ng-variabel-deel="/Artikel4">4</intref> tot en met <intref verwijzing-id="1632286" doc="jci1.3:c:BWBR0003104&amp;artikel=9&amp;z=2013-07-01&amp;g=2013-07-01" bwb-id="BWBR0003104" label-id="1755994" bwb-ng-variabel-deel="/Artikel9">9</intref> zijn van overeenkomstige toepassing. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=10&amp;lid=2&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1995-355"><publicatiejaar>1995</publicatiejaar><publicatienr>355</publicatienr><uitgiftedatum isodatum="1995-07-25">25-07-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-07-10">10-07-1995</ondertekeningsdatum><dossierref dossier="23983">23983</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1995-355"><publicatiejaar>1995</publicatiejaar><publicatienr>355</publicatienr><uitgiftedatum isodatum="1995-07-25">25-07-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-07-10">10-07-1995</ondertekeningsdatum><dossierref dossier="23983">23983</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-07-26">26-07-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=10&amp;g=2013-07-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=10&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" code="a-11" stam-id="1800853" versie-id="2680332" id="C2680331" label-id="1756014" inwerking="1995-07-26" label="Artikel 11" bron="Stb.1995-355" effect="wijziging" ondertekening_bron="1995-07-10" publicatie_bron="1995-07-25" publicatie_iwt="1995-07-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>11</nr>
+  </kop>
+  <al>Een wedervergeldingsregeling blijft, behoudens eerdere intrekking, van kracht totdat een wedervergeldingsbesluit, dat hetzelfde onderwerp betreft, in werking treedt, doch uiterlijk tot acht maanden na het in werking treden van de wedervergeldingsregeling. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1995-355"><publicatiejaar>1995</publicatiejaar><publicatienr>355</publicatienr><uitgiftedatum isodatum="1995-07-25">25-07-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-07-10">10-07-1995</ondertekeningsdatum><dossierref dossier="23983">23983</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1995-355"><publicatiejaar>1995</publicatiejaar><publicatienr>355</publicatienr><uitgiftedatum isodatum="1995-07-25">25-07-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-07-10">10-07-1995</ondertekeningsdatum><dossierref dossier="23983">23983</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-07-26">26-07-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=11&amp;g=2013-07-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=11&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=11"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11a" code="a-11a" stam-id="1800863" versie-id="2680342" id="C8177241" label-id="1756024" inwerking="1980-08-06" label="Artikel 11a" bron="Stb.1980-364" effect="nieuw" ondertekening_bron="1980-06-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>11a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel11a/Lid1" label-id="1756024L1">
+    <lidnr>1</lidnr>
+    <al>Onze Minister kan van een ieder die bij het vervoer op een door hem te omschrijven zeevervoermarkt is betrokken de inlichtingen verlangen, die hij nodig acht om te kunnen beoordelen, of aanleiding bestaat tot toepassing van <intref verwijzing-id="1632287" doc="jci1.3:c:BWBR0003104&amp;artikel=2&amp;z=2013-07-01&amp;g=2013-07-01" bwb-id="BWBR0003104" label-id="1755924" bwb-ng-variabel-deel="/Artikel2">artikel 2</intref> of <intref verwijzing-id="1632288" doc="jci1.3:c:BWBR0003104&amp;artikel=10&amp;z=2013-07-01&amp;g=2013-07-01" bwb-id="BWBR0003104" label-id="1756004" bwb-ng-variabel-deel="/Artikel10">artikel 10</intref>. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=11a&amp;lid=1&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11a/Lid2" label-id="1756024L2">
+    <lidnr>2</lidnr>
+    <al> Onze Minister kan, indien een internationale afspraak of een besluit van een volkenrechtelijke organisatie betrekking hebbende op het vervoer ter zee dit vereist, van een ieder, die bij het vervoer op een door hem te omschrijven zeevervoermarkt is betrokken, inlichtingen verlangen die hij nodig acht om te kunnen voldoen aan de in die afspraak of dat besluit neergelegde verplichtingen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=11a&amp;lid=2&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier=""><publicatiejaar>1980</publicatiejaar><publicatienr>364</publicatienr><ondertekeningsdatum isodatum="1980-06-12">12-06-1980</ondertekeningsdatum><dossierref dossier="15641">15641</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier=""><publicatiejaar>1980</publicatiejaar><publicatienr>364</publicatienr><ondertekeningsdatum isodatum="1980-06-12">12-06-1980</ondertekeningsdatum><dossierref dossier="15641">15641</dossierref></publicatie><inwerkingtreding.datum isodatum="1980-08-06">06-08-1980</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=11a&amp;g=2013-07-01" onderdeel="artikel=11a" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=11a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=11a&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=11a" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=11a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11b" code="a-11b" stam-id="1800873" versie-id="2680352" id="C2680351" label-id="1756034" inwerking="1994-10-01" label="Artikel 11b" bron="Stb.1994-573" effect="wijziging" ondertekening_bron="1994-06-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>11b</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel11b/Lid1" label-id="1756034L1">
+    <lidnr>1</lidnr>
+    <al>Onze Minister kan, indien er aanwijsbare omstandigheden zijn, op grond waarvan hij kan vermoeden, dat er aanleiding bestaat tot toepassing van artikel 2 of artikel 10, van de naar zijn oordeel bij het vervoer op een door hem te omschrijven zeevervoermarkt betrokkenen, inzage van alle boeken en bescheiden verlangen, waarvan hij raadpleging nodig acht om zich van het al of niet gegrond zijn van zijn vermoeden te overtuigen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=11b&amp;lid=1&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11b/Lid2" label-id="1756034L2">
+    <lidnr>2</lidnr>
+    <al> Onze Minister kan, indien een internationale afspraak of een besluit van een volkenrechtelijke organisatie betrekking hebbende op het vervoer ter zee dit vereist, van de naar zijn oordeel bij het vervoer op een door hem te omschrijven zeevervoermarkt betrokkenen, inzage van alle boeken en bescheiden verlangen, waarvan hij de raadpleging nodig acht om te kunnen voldoen aan in die afspraak of dat besluit neergelegde verplichtingen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=11b&amp;lid=2&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11b/Lid3" label-id="1756034L3">
+    <lidnr>3</lidnr>
+    <al> Het inzien van de boeken en bescheiden kan hij opdragen aan voor ieder afzonderlijk geval schriftelijk aan te wijzen personen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=11b&amp;lid=3&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11b/Lid4" label-id="1756034L4">
+    <lidnr>4</lidnr>
+    <al> De in het derde lid bedoelde personen hebben toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich toegang, alsmede inzage van boeken en bescheiden, met behulp van de sterke arm. Zo nodig verschaffen zij zich toegang, alsmede inzage van boeken en bescheiden met behulp van de sterke arm. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=11b&amp;lid=4&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>573</publicatienr><ondertekeningsdatum isodatum="1994-06-22">22-06-1994</ondertekeningsdatum><dossierref dossier="22539">22539</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>683</publicatienr><ondertekeningsdatum isodatum="1994-09-02">02-09-1994</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-10-01">01-10-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=11b&amp;g=2013-07-01" onderdeel="artikel=11b" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=11b"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=11b&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=11b" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=11b"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11c" code="a-11c" stam-id="1800883" versie-id="2680362" id="C8177251" label-id="1756044" inwerking="1980-08-06" label="Artikel 11c" bron="Stb.1980-364" effect="nieuw" ondertekening_bron="1980-06-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>11c</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel11c/Lid1" label-id="1756044L1">
+    <lidnr>1</lidnr>
+    <al>Een ieder van wie op grond van <intref verwijzing-id="1632289" doc="jci1.3:c:BWBR0003104&amp;artikel=11a&amp;z=2013-07-01&amp;g=2013-07-01" bwb-id="BWBR0003104" label-id="1756024" bwb-ng-variabel-deel="/Artikel11a">artikel 11<nadruk type="cur">a</nadruk></intref> inlichtingen zijn verlangd, is verplicht de verlangde inlichtingen volledig en naar waarheid te verstrekken op de wijze en binnen de termijn, door Onze Minister te bepalen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=11c&amp;lid=1&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11c/Lid2" label-id="1756044L2">
+    <lidnr>2</lidnr>
+    <al> Een ieder van wie op grond van <intref verwijzing-id="1632290" doc="jci1.3:c:BWBR0003104&amp;artikel=11b&amp;z=2013-07-01&amp;g=2013-07-01" bwb-id="BWBR0003104" label-id="1756034" bwb-ng-variabel-deel="/Artikel11b">artikel 11<nadruk type="cur">b</nadruk>, eerste en tweede lid</intref>, inzage in boeken en bescheiden is verlangd, is verplicht deze te verlenen met inachtneming van de door Onze Minister te geven aanwijzingen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=11c&amp;lid=2&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11c/Lid3" label-id="1756044L3">
+    <lidnr>3</lidnr>
+    <al> Zij, die uit hoofde van hun stand, beroep of ambt tot geheimhouding verplicht zijn, kunnen zich verschonen van het geven van inlichtingen, doch uitsluitend voor zover betreft hetgeen hun in hun hoedanigheid is toevertrouwd. Zij kunnen voorts inzage van de in <intref verwijzing-id="1632291" doc="jci1.3:c:BWBR0003104&amp;artikel=11b&amp;z=2013-07-01&amp;g=2013-07-01" bwb-id="BWBR0003104" label-id="1756034" bwb-ng-variabel-deel="/Artikel11b">artikel 11<nadruk type="cur">b</nadruk>, eerste lid</intref>, bedoelde boeken en bescheiden weigeren, voor zover hun plicht tot geheimhouding hen daartoe noopt. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=11c&amp;lid=3&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier=""><publicatiejaar>1980</publicatiejaar><publicatienr>364</publicatienr><ondertekeningsdatum isodatum="1980-06-12">12-06-1980</ondertekeningsdatum><dossierref dossier="15641">15641</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier=""><publicatiejaar>1980</publicatiejaar><publicatienr>364</publicatienr><ondertekeningsdatum isodatum="1980-06-12">12-06-1980</ondertekeningsdatum><dossierref dossier="15641">15641</dossierref></publicatie><inwerkingtreding.datum isodatum="1980-08-06">06-08-1980</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=11c&amp;g=2013-07-01" onderdeel="artikel=11c" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=11c"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=11c&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=11c" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=11c"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11d" code="a-11d" stam-id="1800893" versie-id="2680372" id="C5234701" label-id="1756054" inwerking="1994-01-01" label="Artikel 11d" bron="Stb.1992-422" effect="wijziging" ondertekening_bron="1992-06-04" publicatie_iwt="1993-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>11d</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel11d/Lid1" label-id="1756054L1">
+    <lidnr>1</lidnr>
+    <al>Onze Minister kan in de gevallen als bedoeld in <intref verwijzing-id="1632292" doc="jci1.3:c:BWBR0003104&amp;artikel=11b&amp;z=2013-07-01&amp;g=2013-07-01" bwb-id="BWBR0003104" label-id="1756034" bwb-ng-variabel-deel="/Artikel11b">artikel 11<nadruk type="cur">b</nadruk>, eerste of tweede lid</intref>, bij regeling bepalen dat een ieder, die bij het vervoer op een door hem te omschrijven zeevervoermarkt is betrokken, verplicht is een daarbij nader te omschrijven administratie te voeren. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=11d&amp;lid=1&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11d/Lid2" label-id="1756054L2">
+    <lidnr>2</lidnr>
+    <al> Een ieder die ingevolge een regeling op grond van het eerste lid een administratie voert of heeft gevoerd, is verplicht de bescheiden, waaruit die administratie bestaat, gedurende twee jaren na het kalenderjaar, waarop zij betrekking hebben, in Nederland te bewaren. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=11d&amp;lid=2&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>422</publicatienr><ondertekeningsdatum isodatum="1992-06-04">04-06-1992</ondertekeningsdatum><dossierref dossier="22061">22061</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>693</publicatienr><uitgiftedatum isodatum="1993-12-23">23-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=11d&amp;g=2013-07-01" onderdeel="artikel=11d" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=11d"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=11d&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=11d" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=11d"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel12" code="a-12" stam-id="1800903" versie-id="20031162" id="C28275311" label-id="1756064" inwerking="2013-01-01" label="Artikel 12" bron="Stb.2012-682" effect="vervallen" ondertekening_bron="2012-12-20" publicatie_bron="2012-12-27" publicatie_iwt="2012-12-27" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>12</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2012-682"><publicatiejaar>2012</publicatiejaar><publicatienr>682</publicatienr><uitgiftedatum isodatum="2012-12-27">27-12-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="32450">32450</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2012-684"><publicatiejaar>2012</publicatiejaar><publicatienr>684</publicatienr><uitgiftedatum isodatum="2012-12-27">27-12-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Deel C, artikel I, van Stb. 2012/682 bevat overgangsrecht m.b.t. deze wijziging.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=12&amp;g=2013-07-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=12&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=12"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13" stam-id="1800913" versie-id="2680392" id="C2680391" label-id="1756074" inwerking="1986-04-14" label="Artikel 13" bron="Stb.1986-99" effect="vervallen" ondertekening_bron="1986-03-12" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>13</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1986</publicatiejaar><publicatienr>99</publicatienr><ondertekeningsdatum isodatum="1986-03-12">12-03-1986</ondertekeningsdatum><dossierref dossier="18798">18798</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1986</publicatiejaar><publicatienr>141</publicatienr><ondertekeningsdatum isodatum="1986-03-26">26-03-1986</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1986-04-14">14-04-1986</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=13&amp;g=2013-07-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=13&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=13"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel14" stam-id="1800923" versie-id="2680402" id="C2680401" label-id="1756084" inwerking="1994-01-01" label="Artikel 14" bron="Stb.1993-650" effect="vervallen" ondertekening_bron="1993-12-16" publicatie_bron="1993-12-30" publicatie_iwt="1993-12-23" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>14</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>650</publicatienr><uitgiftedatum isodatum="1993-12-30">30-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-16">16-12-1993</ondertekeningsdatum><dossierref dossier="22495">22495</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>693</publicatienr><uitgiftedatum isodatum="1993-12-23">23-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=14&amp;g=2013-07-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=14&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=14"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel15" code="a-15" stam-id="1800933" versie-id="2680422" id="C8177261" label-id="1756094" inwerking="1994-01-01" label="Artikel 15" bron="Stb.1993-650" effect="nieuw" ondertekening_bron="1993-12-16" publicatie_bron="1993-12-30" publicatie_iwt="1993-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>15</nr>
+  </kop>
+  <al>In afwijking van <extref doc="jci1.3:c:BWBR0005537&amp;artikel=8:72" verwijzing-id="614608" bwb-id="BWBR0005537" label-id="2816414">artikel 8:72, tweede lid, van de Algemene wet bestuursrecht</extref> werkt een vernietiging vanaf het tijdstip, waarop zij wordt uitgesproken. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>650</publicatienr><uitgiftedatum isodatum="1993-12-30">30-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-16">16-12-1993</ondertekeningsdatum><dossierref dossier="22495">22495</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>693</publicatienr><uitgiftedatum isodatum="1993-12-23">23-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=15&amp;g=2013-07-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=15&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=15"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel16" code="a-16" stam-id="1800943" versie-id="2680432" id="C2680431" label-id="1756104" inwerking="1977-07-04" label="Artikel 16" bron="Stb.1977-313" effect="nieuwe-regeling" ondertekening_bron="1977-05-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>16</nr>
+  </kop>
+  <al>Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling behoeven kan deze geschieden bij algemene maatregel van bestuur. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1977</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1977-05-04">04-05-1977</ondertekeningsdatum><dossierref dossier="10523">10523</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1977</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1977-05-04">04-05-1977</ondertekeningsdatum><dossierref dossier="10523">10523</dossierref></publicatie><inwerkingtreding.datum isodatum="1977-07-04">04-07-1977</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=16&amp;g=2013-07-01" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=16&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=16"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel17" code="a-17" stam-id="1800953" versie-id="2680442" id="C2680441" label-id="1756114" inwerking="1977-07-04" label="Artikel 17" bron="Stb.1977-313" effect="nieuwe-regeling" ondertekening_bron="1977-05-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>17</nr>
+  </kop>
+  <al>Het is verboden terzake van een aanvrage om vergunning of ontheffing onjuiste of onvolledige gegevens te verstrekken. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1977</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1977-05-04">04-05-1977</ondertekeningsdatum><dossierref dossier="10523">10523</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1977</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1977-05-04">04-05-1977</ondertekeningsdatum><dossierref dossier="10523">10523</dossierref></publicatie><inwerkingtreding.datum isodatum="1977-07-04">04-07-1977</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=17&amp;g=2013-07-01" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=17&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=17"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel18" code="a-18" stam-id="1800963" versie-id="2680452" id="C2680451" label-id="1756124" inwerking="1977-07-04" label="Artikel 18" bron="Stb.1977-313" effect="nieuwe-regeling" ondertekening_bron="1977-05-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>18</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1977</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1977-05-04">04-05-1977</ondertekeningsdatum><dossierref dossier="10523">10523</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1977</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1977-05-04">04-05-1977</ondertekeningsdatum><dossierref dossier="10523">10523</dossierref></publicatie><inwerkingtreding.datum isodatum="1977-07-04">04-07-1977</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=18&amp;g=2013-07-01" onderdeel="artikel=18" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=18"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=18&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=18" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=18"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel19" code="a-19" stam-id="1800973" versie-id="2680462" id="C2680461" label-id="1756134" inwerking="1977-07-04" label="Artikel 19" bron="Stb.1977-313" effect="nieuwe-regeling" ondertekening_bron="1977-05-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>19</nr>
+  </kop>
+  <al>Deze wet kan worden aangehaald als: Wedervergeldingswet zeescheepvaart. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1977</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1977-05-04">04-05-1977</ondertekeningsdatum><dossierref dossier="10523">10523</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1977</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1977-05-04">04-05-1977</ondertekeningsdatum><dossierref dossier="10523">10523</dossierref></publicatie><inwerkingtreding.datum isodatum="1977-07-04">04-07-1977</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;artikel=19&amp;g=2013-07-01" onderdeel="artikel=19" korte-verwijzing="1.0:c:BWBR0003104&amp;artikel=19"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;artikel=19&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=19" korte-verwijzing="jci1.3:c:BWBR0003104&amp;artikel=19"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="1800983" versie-id="2680472" id="C2680471" label-id="1756144" inwerking="1977-07-04" bron="Stb.1977-313" effect="nieuwe-regeling" ondertekening_bron="1977-05-04" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden. </al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven ten Paleize Soestdijk </plaats>
+      <datum isodatum="">4 mei 1977 </datum>
+    </dagtekening>
+    <koning>JULIANA. </koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Staatssecretaris van Verkeer en Waterstaat, </functie>
+    <naam>
+      <achternaam>M. H. M. VAN HULTEN. </achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Buitenlandse Zaken, </functie>
+    <naam>
+      <achternaam>M. VAN DER STOEL. </achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Economische Zaken, </functie>
+    <naam>
+      <achternaam>R. F. M. LUBBERS. </achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Landbouw en Visserij, </functie>
+    <naam>
+      <achternaam>VAN DER STEE. </achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister voor Ontwikkelingssamenwerking, </functie>
+    <naam>
+      <achternaam>J. PRONK. </achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de veertiende juni 1977. </datum>
+    <ondertekening>
+      <functie>De Minister van Justitie, </functie>
+      <naam>
+        <achternaam>VAN AGT. </achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1977</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1977-05-04">04-05-1977</ondertekeningsdatum><dossierref dossier="10523">10523</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1977</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1977-05-04">04-05-1977</ondertekeningsdatum><dossierref dossier="10523">10523</dossierref></publicatie><inwerkingtreding.datum isodatum="1977-07-04">04-07-1977</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1977</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1977-05-04">04-05-1977</ondertekeningsdatum><dossierref dossier="10523">10523</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1977</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1977-05-04">04-05-1977</ondertekeningsdatum><dossierref dossier="10523">10523</dossierref></publicatie><inwerkingtreding.datum isodatum="1977-07-04">04-07-1977</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003104&amp;g=2013-07-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0003104"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003104&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0003104"/></jcis></meta-data></wetgeving></toestand>

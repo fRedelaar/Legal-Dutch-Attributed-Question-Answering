@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0007788/2019-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0007788" inwerkingtreding="2019-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="1988193" versie-id="24039102" id="C34544241" label-id="1937054" inwerkingtredingsdatum="2017-03-22">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="1988223" versie-id="2949532" id="C2949531" label-id="1936944" inwerking="1996-02-07" bron="Stb.1996-51" effect="nieuwe-regeling" ondertekening_bron="1995-12-21" publicatie_bron="1996-02-06" publicatie_iwt="1996-02-06" status="goed">Wet van 21 december 1995, houdende instelling van een Fonds economische structuurversterking<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-51"><publicatiejaar>1996</publicatiejaar><publicatienr>51</publicatienr><uitgiftedatum isodatum="1996-02-06">06-02-1996</uitgiftedatum><ondertekeningsdatum isodatum="1995-12-21">21-12-1995</ondertekeningsdatum><dossierref dossier="23002">23002</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-51"><publicatiejaar>1996</publicatiejaar><publicatienr>51</publicatienr><uitgiftedatum isodatum="1996-02-06">06-02-1996</uitgiftedatum><ondertekeningsdatum isodatum="1995-12-21">21-12-1995</ondertekeningsdatum><dossierref dossier="23002">23002</dossierref></publicatie><inwerkingtreding.datum isodatum="1996-02-07">07-02-1996</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="1988233" versie-id="2949542" id="C2949541" label-id="1936954" inwerking="1996-02-07" bron="Stb.1996-51" effect="nieuwe-regeling" ondertekening_bron="1995-12-21" publicatie_bron="1996-02-06" publicatie_iwt="1996-02-06">Wet Fonds economische structuurversterking<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-51"><publicatiejaar>1996</publicatiejaar><publicatienr>51</publicatienr><uitgiftedatum isodatum="1996-02-06">06-02-1996</uitgiftedatum><ondertekeningsdatum isodatum="1995-12-21">21-12-1995</ondertekeningsdatum><dossierref dossier="23002">23002</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-51"><publicatiejaar>1996</publicatiejaar><publicatienr>51</publicatienr><uitgiftedatum isodatum="1996-02-06">06-02-1996</uitgiftedatum><ondertekeningsdatum isodatum="1995-12-21">21-12-1995</ondertekeningsdatum><dossierref dossier="23002">23002</dossierref></publicatie><inwerkingtreding.datum isodatum="1996-02-07">07-02-1996</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="1988243" versie-id="2949552" id="C2949551" label-id="1936964" inwerking="1996-02-07" bron="Stb.1996-51" effect="nieuwe-regeling" ondertekening_bron="1995-12-21" publicatie_bron="1996-02-06" publicatie_iwt="1996-02-06" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is ter financiering van investeringsprojecten van nationaal belang waarmee beoogd wordt de economische structuur te versterken, een begrotingsfonds in te stellen, waarin een deel van de aardgasbaten afzonderlijk zal worden beheerd, en dat op grond van <extref doc="jci1.3:c:BWBR0003075&amp;artikel=2" verwijzing-id="696526" bwb-id="BWBR0003075" label-id="1226514">artikel 2 van de Comptabiliteitswet</extref> (<nadruk type="cur">Stb.</nadruk> 1992, 351) de instelling van een begrotingsfonds bij de wet dient te geschieden;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-51"><publicatiejaar>1996</publicatiejaar><publicatienr>51</publicatienr><uitgiftedatum isodatum="1996-02-06">06-02-1996</uitgiftedatum><ondertekeningsdatum isodatum="1995-12-21">21-12-1995</ondertekeningsdatum><dossierref dossier="23002">23002</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-51"><publicatiejaar>1996</publicatiejaar><publicatienr>51</publicatienr><uitgiftedatum isodatum="1996-02-06">06-02-1996</uitgiftedatum><ondertekeningsdatum isodatum="1995-12-21">21-12-1995</ondertekeningsdatum><dossierref dossier="23002">23002</dossierref></publicatie><inwerkingtreding.datum isodatum="1996-02-07">07-02-1996</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="1993-01-01">01-01-1993</terugwerkend.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="1988253" versie-id="25562782" id="C36488791" label-id="1936974" inwerking="2019-01-01" label="Artikel 1" bron="Stb.2018-487" effect="wijziging" ondertekening_bron="2018-12-05" publicatie_bron="2018-12-27" publicatie_iwt="2018-12-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid1" label-id="1936974L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Er is een Fonds economische structuurversterking, hierna te noemen: het fonds.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=1&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid2" label-id="1936974L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Het fonds is een begrotingsfonds als bedoeld in <extref doc="jci1.3:c:BWBR0039429&amp;artikel=2.11" label-id="13934384" verwijzing-id="2819086" bwb-id="BWBR0039429">artikel 2.11, eerste lid, van de Comptabiliteitswet 2016</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=1&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid3" label-id="1936974L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Onze Ministers van Economische Zaken en Klimaat en van Financiën beheren de begroting van het fonds.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=1&amp;lid=3&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-487"><publicatiejaar>2018</publicatiejaar><publicatienr>487</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-05">05-12-2018</ondertekeningsdatum><dossierref dossier="34987">34987</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-488"><publicatiejaar>2018</publicatiejaar><publicatienr>488</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-18">18-12-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-01-01">01-01-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007788&amp;artikel=1&amp;g=2019-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0007788&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0007788&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" stam-id="1988263" versie-id="25562792" id="C36488801" label-id="1936984" inwerking="2019-01-01" label="Artikel 2" bron="Stb.2018-487" effect="wijziging" ondertekening_bron="2018-12-05" publicatie_bron="2018-12-27" publicatie_iwt="2018-12-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="1936984L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De ontvangsten van het fonds worden gevormd door:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>41,5 procent van de niet-belastingontvangsten van de staat, verkregen uit de winning van koolwaterstoffen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;lid=1&amp;o=a&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>het bedrag dat overeenkomt met de rentelasten die bespaard worden als gevolg van het in mindering brengen op de staatsschuld van de in het derde lid omschreven opbrengsten;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;lid=1&amp;o=b&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>inkomsten van de staat voortvloeiend uit of verbandhoudend met de aanleg of de exploitatie van de Betuweroute en de HSL-Zuid, tot ten hoogste het nominale bedrag uit het Fes dat is besteed voor de voorfinanciering van de geraamde private bijdragen in de aanleg;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;lid=1&amp;o=c&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>andere door Onze Minister van Economische Zaken en Klimaat in overeenstemming met Onze Minister van Financiën voor het fonds te bestemmen inkomsten van de staat voortvloeiend uit of verbandhoudend met de aanleg of de exploitatie van de Betuweroute en de HSL-Zuid;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;lid=1&amp;o=d&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>andere voor het fonds te bestemmen ontvangsten uit de winning van koolwaterstoffen; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;lid=1&amp;o=e&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>het bedrag dat overeenkomt met de annuïteiten op basis van de opbrengsten van de hierna te noemen geveilde rechten, met een looptijd die overeenkomt met de voorziene looptijd van die rechten:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelf/Onderdeel1">
+            <li.nr>1°.</li.nr>
+            <al>de verlening van het recht om bepaalde etherfrequenties te gebruiken, alsmede de verlening van het recht op het gebruik van analoge en digitale radio- en televisiefrequenties;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;lid=1&amp;o=f&amp;o=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=1"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelf/Onderdeel2">
+            <li.nr>2°.</li.nr>
+            <al>de verlening in het jaar 2000 van het recht om UMTS-frequenties te gebruiken.</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;lid=1&amp;o=f&amp;o=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=2"/></jcis></meta-data></li>
+        </lijst>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;lid=1&amp;o=f&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="1936984L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onder ontvangsten als bedoeld in het eerste lid, onder a, worden niet verstaan de ontvangsten van Energie Beheer Nederland B.V., meerjarige stand Miljoenennota 2002, voortkomend uit de verwerving van de certificaten Energie Beheer Nederland B.V.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid3" label-id="1936984L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Opbrengsten als bedoeld in het eerste lid, onder b, zijn:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>ontvangsten van de staat, verkregen in verband met de overbelevering van aardgas door de Nederlandse Aardolie Maatschappij b.v. aan Brigitta Erdgas und Erdöl GmbH uit aardgaswinning in de Eemsmonding,</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;lid=3&amp;o=a&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de opbrengsten van vervreemding van staatsdeelnemingen,</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;lid=3&amp;o=b&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid3/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>andere nader aan te wijzen ontvangsten uit het vervreemden van materiële en immateriële activa en rechten van de staat.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;lid=3&amp;o=c&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;lid=3&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid4" label-id="1936984L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Onder ontvangsten als bedoeld in het derde lid worden niet verstaan:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid4/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de opbrengst van de verkoop van het Nederlands Omroepproduktiebedrijf n.v.;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;lid=4&amp;o=a&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid4/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de opbrengst van de verkoop van de aandelen in Netherlands Car b.v.;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;lid=4&amp;o=b&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid4/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de opbrengst van de verkoop van Roccade Informatica Groep n.v. voor zover deze het bedrag van € 181 512 086,44 niet overstijgt;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;lid=4&amp;o=c&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid4/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de opbrengst van de verkoop van aandelen die zijn verkregen bij wijze van dividend.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;lid=4&amp;o=d&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;lid=4&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid5" label-id="1936984L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Bij de berekening van de te besparen rentelasten, bedoeld in het eerste lid, onder b, wordt uitgegaan van het rendement op langlopende staatsobligaties op de dag waarop de opbrengst wordt bijgeschreven op een rekening van het Rijk.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;lid=5&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid6" label-id="1936984L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Bij de berekening van de te besparen rentelasten ten gevolge van het in mindering brengen op de staatsschuld van een opbrengst als bedoeld in het derde lid, onder b, worden afgetrokken de dividendinkomsten die genoten zouden worden indien de vervreemding of ontvangst niet zou hebben plaatsgevonden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;lid=6&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid7" label-id="1936984L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Indien opbrengsten als bedoeld in het eerste lid, onder e, als tijdelijke voorziening in het fonds zijn gestort in verband met vertraging in de in het eerste lid, onder b, bedoelde ontvangsten, kunnen deze bedragen op de in het eerste lid, onder b, bedoelde ontvangsten door Onze Minister van Economische Zaken en Klimaat in overeenstemming met Onze Minister van Financiën in mindering worden gebracht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;lid=7&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-487"><publicatiejaar>2018</publicatiejaar><publicatienr>487</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-05">05-12-2018</ondertekeningsdatum><dossierref dossier="34987">34987</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-488"><publicatiejaar>2018</publicatiejaar><publicatienr>488</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-18">18-12-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-01-01">01-01-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007788&amp;artikel=2&amp;g=2019-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0007788&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0007788&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="1988273" versie-id="24039082" id="C34692311" label-id="1936994" inwerking="2018-01-01" label="Artikel 3" bron="Stb.2017-139" effect="wijziging" ondertekening_bron="2017-03-22" publicatie_bron="2017-04-07" publicatie_iwt="2017-06-19" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="1936994L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Ten laste van het fonds kunnen bijdragen worden toegekend aan andere begrotingen van het Rijk als bedoeld in <extref doc="jci1.3:c:BWBR0039429&amp;artikel=2.1" label-id="13934274" verwijzing-id="2819089" bwb-id="BWBR0039429">artikel 2.1, eerste lid, van de Comptabiliteitswet 2016</extref> ten behoeve van de financiering van: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>investeringsprojecten van nationaal belang waarmee beoogd wordt de economische structuur te versterken, voorzover betrekking hebbend op: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeela/Onderdeel1">
+            <li.nr>1°.</li.nr>
+            <al>de verkeers- en vervoersinfrastructuur met inbegrip van kosten die samenhangen met milieumaatregelen;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=3&amp;lid=1&amp;o=a&amp;o=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=1"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeela/Onderdeel2">
+            <li.nr>2°.</li.nr>
+            <al>de technologie-, telecommunicatie- en kennisinfrastructuur;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=3&amp;lid=1&amp;o=a&amp;o=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=2"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeela/Onderdeel3">
+            <li.nr>3°.</li.nr>
+            <al>bodemsanering, voor zover verband houdend met de projecten genoemd onder 1° of met bouwprojecten in de binnensteden;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=3&amp;lid=1&amp;o=a&amp;o=3&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=3"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeela/Onderdeel4">
+            <li.nr>4°.</li.nr>
+            <al>de stedelijke hoofdstructuur, voor zover die samenhangt met en functioneel een relatie heeft met de projecten genoemd onder 1°;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=3&amp;lid=1&amp;o=a&amp;o=4&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=4"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeela/Onderdeel5">
+            <li.nr>5°.</li.nr>
+            <al>de ecologische hoofdstructuur, voor zover een functionele relatie bestaat met projecten genoemd onder 1°;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=3&amp;lid=1&amp;o=a&amp;o=5&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=5"/></jcis></meta-data></li>
+        </lijst>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=3&amp;lid=1&amp;o=a&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de projecten in het kader van de investeringsimpuls, zoals bedoeld in de Voorjaarsnota 1993 (Kamerstukken II 1992/93, 23 100, nr. 1).</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=3&amp;lid=1&amp;o=b&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=3&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="1936994L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Aan de toekenning van een bijdrage kunnen voorwaarden worden verbonden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=3&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-139"><publicatiejaar>2017</publicatiejaar><publicatienr>139</publicatienr><uitgiftedatum isodatum="2017-04-07">07-04-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-03-22">22-03-2017</ondertekeningsdatum><dossierref dossier="34426">34426</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-253"><publicatiejaar>2017</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2017-06-19">19-06-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-05-29">29-05-2017</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-01-01">01-01-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007788&amp;artikel=3&amp;g=2019-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0007788&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=3&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0007788&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" stam-id="1988283" versie-id="24039092" id="C34692281" label-id="1937004" inwerking="2018-01-01" label="Artikel 4" bron="Stb.2017-139" effect="wijziging" ondertekening_bron="2017-03-22" publicatie_bron="2017-04-07" publicatie_iwt="2017-06-19" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="1937004L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Ten laste van het fonds kunnen in de begroting niet meer uitgaven worden geraamd dan het totaal van de geraamde ontvangsten, inclusief het gerealiseerde batig saldo van het fonds van het voorafgaande jaar, verminderd met 10 procent van de bij de ontwerp-begroting voor dat jaar geraamde ontvangsten als bedoeld in <intref doc="jci1.3:c:BWBR0007788&amp;artikel=2&amp;z=2019-01-01&amp;g=2019-01-01" label-id="1936984" verwijzing-id="1632728" bwb-id="BWBR0007788" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid, onder a</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=4&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="1937004L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>In afwijking van <extref doc="jci1.3:c:BWBR0039429&amp;artikel=2.13" label-id="13934414" verwijzing-id="2819090" bwb-id="BWBR0039429">artikel 2.13, eerste lid, van de Comptabiliteitswet 2016</extref> worden de begroting en de financiële verantwoording van het fonds op basis van het kasstelsel, bedoeld in <extref doc="jci1.3:c:BWBR0039429&amp;artikel=1.1" label-id="13934254" verwijzing-id="2819091" bwb-id="BWBR0039429">artikel 1.1 van die wet</extref>, gepresenteerd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=4&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-139"><publicatiejaar>2017</publicatiejaar><publicatienr>139</publicatienr><uitgiftedatum isodatum="2017-04-07">07-04-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-03-22">22-03-2017</ondertekeningsdatum><dossierref dossier="34426">34426</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-253"><publicatiejaar>2017</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2017-06-19">19-06-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-05-29">29-05-2017</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-01-01">01-01-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007788&amp;artikel=4&amp;g=2019-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0007788&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=4&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0007788&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4a" stam-id="13973423" versie-id="24039132" id="C34692291" label-id="13936374" inwerking="2018-01-01" label="Artikel 4a" bron="Stb.2017-139" effect="nieuw" ondertekening_bron="2017-03-22" publicatie_bron="2017-04-07" publicatie_iwt="2017-06-19" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4a/Lid1" label-id="13936374L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Voor het fonds kan worden afgezien van het indienen van een voorstel van wet tot vaststelling van de begroting.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=4a&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4a/Lid2" label-id="13936374L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien in enig begrotingsjaar geen voorstel als bedoeld in het eerste lid wordt ingediend, worden, in afwijking van de <intref doc="jci1.3:c:BWBR0007788&amp;artikel=2&amp;z=2019-01-01&amp;g=2019-01-01" label-id="1936984" verwijzing-id="2819092" bwb-id="BWBR0007788" bwb-ng-variabel-deel="/Artikel2">artikelen 2</intref> en <intref doc="jci1.3:c:BWBR0007788&amp;artikel=3&amp;z=2019-01-01&amp;g=2019-01-01" label-id="1936994" verwijzing-id="2819093" bwb-id="BWBR0007788" bwb-ng-variabel-deel="/Artikel3">3</intref> de ontvangsten, respectievelijk de uitgaven, van het fonds voor dat begrotingsjaar op nihil gesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=4a&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4a/Lid3" label-id="13936374L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Dit artikel vervalt op het moment dat een voorstel als bedoeld in het eerste lid wordt ingediend.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=4a&amp;lid=3&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2017-139"><publicatiejaar>2017</publicatiejaar><publicatienr>139</publicatienr><uitgiftedatum isodatum="2017-04-07">07-04-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-03-22">22-03-2017</ondertekeningsdatum><dossierref dossier="34426">34426</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2017-253"><publicatiejaar>2017</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2017-06-19">19-06-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-05-29">29-05-2017</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-01-01">01-01-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007788&amp;artikel=4a&amp;g=2019-01-01" onderdeel="artikel=4a" korte-verwijzing="1.0:c:BWBR0007788&amp;artikel=4a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=4a&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=4a" korte-verwijzing="jci1.3:c:BWBR0007788&amp;artikel=4a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" stam-id="1988293" versie-id="25562802" id="C36488811" label-id="1937014" inwerking="2019-01-01" label="Artikel 5" bron="Stb.2018-487" effect="wijziging" ondertekening_bron="2018-12-05" publicatie_bron="2018-12-27" publicatie_iwt="2018-12-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <al>Onze Minister van Economische Zaken en Klimaat kan in overeenstemming met Onze Minister van Financiën regels stellen met betrekking tot de voorwaarden waaronder de bijdragen betaalbaar worden gesteld, alsmede met betrekking tot de informatieverstrekking over de besteding van de verkregen bijdragen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-487"><publicatiejaar>2018</publicatiejaar><publicatienr>487</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-05">05-12-2018</ondertekeningsdatum><dossierref dossier="34987">34987</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-488"><publicatiejaar>2018</publicatiejaar><publicatienr>488</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-18">18-12-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-01-01">01-01-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007788&amp;artikel=5&amp;g=2019-01-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0007788&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=5&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0007788&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5a" stam-id="8832123" versie-id="14021082" id="C19071821" label-id="8811714" inwerking="2007-01-01" label="Artikel 5a" bron="Stb.2006-682" effect="nieuw" ondertekening_bron="2006-12-14" publicatie_bron="2006-12-22" publicatie_iwt="2006-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel5a/Lid1" label-id="8811714L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>In afwijking van <intref verwijzing-id="2110243" doc="jci1.3:c:BWBR0007788&amp;artikel=2&amp;z=2019-01-01&amp;g=2019-01-01" bwb-id="BWBR0007788" label-id="1936984" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid, onderdeel a</intref>, wordt met betrekking tot het jaar 2007 een percentage van 40,9 toegepast.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=5a&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5a/Lid2" label-id="8811714L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>In afwijking van <intref verwijzing-id="2110244" doc="jci1.3:c:BWBR0007788&amp;artikel=2&amp;z=2019-01-01&amp;g=2019-01-01" bwb-id="BWBR0007788" label-id="1936984" bwb-ng-variabel-deel="/Artikel2">artikel 2, tweede lid</intref>, worden met betrekking tot het jaar 2007 de ontvangsten van Energie Beheer Nederland B.V. onder de ontvangsten als bedoeld in <intref verwijzing-id="2110245" doc="jci1.3:c:BWBR0007788&amp;artikel=2&amp;z=2019-01-01&amp;g=2019-01-01" bwb-id="BWBR0007788" label-id="1936984" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid, onderdeel a</intref>, verstaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=5a&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5a/Lid3" label-id="8811714L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Met betrekking tot het jaar 2007 worden de ontvangsten van het fonds, bedoeld in <intref verwijzing-id="2110246" doc="jci1.3:c:BWBR0007788&amp;artikel=2&amp;z=2019-01-01&amp;g=2019-01-01" bwb-id="BWBR0007788" label-id="1936984" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid, aanhef</intref>, verminderd met € 1 000 000 000.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=5a&amp;lid=3&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5a/Lid4" label-id="8811714L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Met betrekking tot het jaar 2009 worden de ontvangsten van het fonds, bedoeld in <intref verwijzing-id="2110247" doc="jci1.3:c:BWBR0007788&amp;artikel=2&amp;z=2019-01-01&amp;g=2019-01-01" bwb-id="BWBR0007788" label-id="1936984" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid, aanhef</intref>, vermeerderd met € 1 000 000 000 vermeerderd met rente.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=5a&amp;lid=4&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2006-682"><publicatiejaar>2006</publicatiejaar><publicatienr>682</publicatienr><uitgiftedatum isodatum="2006-12-22">22-12-2006</uitgiftedatum><ondertekeningsdatum isodatum="2006-12-14">14-12-2006</ondertekeningsdatum><dossierref dossier="30804">30804</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2006-682"><publicatiejaar>2006</publicatiejaar><publicatienr>682</publicatienr><uitgiftedatum isodatum="2006-12-22">22-12-2006</uitgiftedatum><ondertekeningsdatum isodatum="2006-12-14">14-12-2006</ondertekeningsdatum><dossierref dossier="30804">30804</dossierref></publicatie><inwerkingtreding.datum isodatum="2007-01-01">01-01-2007</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007788&amp;artikel=5a&amp;g=2019-01-01" onderdeel="artikel=5a" korte-verwijzing="1.0:c:BWBR0007788&amp;artikel=5a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=5a&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=5a" korte-verwijzing="jci1.3:c:BWBR0007788&amp;artikel=5a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="a-6" stam-id="1988303" versie-id="2949612" id="C17365481" label-id="1937024" inwerking="1996-02-07" label="Artikel 6" bron="Stb.1996-51" effect="nieuwe-regeling" ondertekening_bron="1995-12-21" publicatie_bron="1996-02-06" publicatie_iwt="1996-02-06" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+  </kop>
+  <al>Deze wet treedt in werking met ingang van de eerste dag na de datum van uitgifte van het <nadruk type="cur">Staatsblad</nadruk> waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1993.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-51"><publicatiejaar>1996</publicatiejaar><publicatienr>51</publicatienr><uitgiftedatum isodatum="1996-02-06">06-02-1996</uitgiftedatum><ondertekeningsdatum isodatum="1995-12-21">21-12-1995</ondertekeningsdatum><dossierref dossier="23002">23002</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-51"><publicatiejaar>1996</publicatiejaar><publicatienr>51</publicatienr><uitgiftedatum isodatum="1996-02-06">06-02-1996</uitgiftedatum><ondertekeningsdatum isodatum="1995-12-21">21-12-1995</ondertekeningsdatum><dossierref dossier="23002">23002</dossierref></publicatie><inwerkingtreding.datum isodatum="1996-02-07">07-02-1996</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="1993-01-01">01-01-1993</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007788&amp;artikel=6&amp;g=2019-01-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0007788&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=6&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0007788&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="a-7" stam-id="1988313" versie-id="2949632" id="C2949631" label-id="1937034" inwerking="1996-02-07" label="Artikel 7" bron="Stb.1996-51" effect="nieuwe-regeling" ondertekening_bron="1995-12-21" publicatie_bron="1996-02-06" publicatie_iwt="1996-02-06" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+  <al>Deze wet kan worden aangehaald als: Wet Fonds economische structuurversterking.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-51"><publicatiejaar>1996</publicatiejaar><publicatienr>51</publicatienr><uitgiftedatum isodatum="1996-02-06">06-02-1996</uitgiftedatum><ondertekeningsdatum isodatum="1995-12-21">21-12-1995</ondertekeningsdatum><dossierref dossier="23002">23002</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-51"><publicatiejaar>1996</publicatiejaar><publicatienr>51</publicatienr><uitgiftedatum isodatum="1996-02-06">06-02-1996</uitgiftedatum><ondertekeningsdatum isodatum="1995-12-21">21-12-1995</ondertekeningsdatum><dossierref dossier="23002">23002</dossierref></publicatie><inwerkingtreding.datum isodatum="1996-02-07">07-02-1996</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="1993-01-01">01-01-1993</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007788&amp;artikel=7&amp;g=2019-01-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0007788&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;artikel=7&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0007788&amp;artikel=7"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="1988323" versie-id="2949652" id="C2949651" label-id="1937044" inwerking="1996-02-07" bron="Stb.1996-51" effect="nieuwe-regeling" ondertekening_bron="1995-12-21" publicatie_bron="1996-02-06" publicatie_iwt="1996-02-06" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">21 december 1995</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Economische Zaken,</functie>
+    <naam>
+      <achternaam>G. J. Wijers</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Financiën,</functie>
+    <naam>
+      <achternaam>G. Zalm</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de zesde februari 1996</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>W. Sorgdrager</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-51"><publicatiejaar>1996</publicatiejaar><publicatienr>51</publicatienr><uitgiftedatum isodatum="1996-02-06">06-02-1996</uitgiftedatum><ondertekeningsdatum isodatum="1995-12-21">21-12-1995</ondertekeningsdatum><dossierref dossier="23002">23002</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-51"><publicatiejaar>1996</publicatiejaar><publicatienr>51</publicatienr><uitgiftedatum isodatum="1996-02-06">06-02-1996</uitgiftedatum><ondertekeningsdatum isodatum="1995-12-21">21-12-1995</ondertekeningsdatum><dossierref dossier="23002">23002</dossierref></publicatie><inwerkingtreding.datum isodatum="1996-02-07">07-02-1996</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="1993-01-01">01-01-1993</terugwerkend.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2017-139"><publicatiejaar>2017</publicatiejaar><publicatienr>139</publicatienr><uitgiftedatum isodatum="2017-04-07">07-04-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-03-22">22-03-2017</ondertekeningsdatum><dossierref dossier="34426">34426</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2017-139"><publicatiejaar>2017</publicatiejaar><publicatienr>139</publicatienr><uitgiftedatum isodatum="2017-04-07">07-04-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-03-22">22-03-2017</ondertekeningsdatum><dossierref dossier="34426">34426</dossierref></publicatie><inwerkingtreding.datum isodatum="2017-03-22">22-03-2017</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007788&amp;g=2019-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0007788"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007788&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0007788"/></jcis></meta-data></wetgeving></toestand>

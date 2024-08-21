@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0001881/1911-08-24/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0001881" inwerkingtreding="1911-08-24"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="462093" versie-id="681462" id="C681461" label-id="449114" inwerkingtredingsdatum="1911-08-24">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="462173" versie-id="681262" id="C681261" label-id="448934" inwerking="1911-08-24" bron="Stb.1911-215" effect="nieuwe-regeling" ondertekening_bron="1911-07-17" status="goed">Wet van 17 juli 1911, houdende voorziening in de bestaande onzekerheid ten aanzien van den vorm, waarin eeden, beloften en bevestigingen moeten worden afgelegd<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1911</publicatiejaar><publicatienr>215</publicatienr><ondertekeningsdatum isodatum="1911-07-17">17-07-1911</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1911</publicatiejaar><publicatienr>215</publicatienr><ondertekeningsdatum isodatum="1911-07-17">17-07-1911</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1911-08-24">24-08-1911</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="462203" versie-id="681312" id="C681311" label-id="448964" inwerking="1911-08-24" bron="Stb.1911-215" effect="nieuwe-regeling" ondertekening_bron="1911-07-17">Wet vorm van de eed<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1911</publicatiejaar><publicatienr>215</publicatienr><ondertekeningsdatum isodatum="1911-07-17">17-07-1911</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1911</publicatiejaar><publicatienr>215</publicatienr><ondertekeningsdatum isodatum="1911-07-17">17-07-1911</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1911-08-24">24-08-1911</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="462223" versie-id="681352" id="C681351" label-id="448994" inwerking="1911-08-24" bron="Stb.1911-215" effect="nieuwe-regeling" ondertekening_bron="1911-07-17" status="goed">
+  <wij>Wij WILHELMINA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of hooren lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzoo Wij in overweging genomen hebben, dat onzekerheid bestaat ten aanzien van den vorm, waarin eeden, beloften en bevestigingen moeten worden afgelegd en dat mitsdien voorziening te dier zake noodig is;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1911</publicatiejaar><publicatienr>215</publicatienr><ondertekeningsdatum isodatum="1911-07-17">17-07-1911</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1911</publicatiejaar><publicatienr>215</publicatienr><ondertekeningsdatum isodatum="1911-07-17">17-07-1911</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1911-08-24">24-08-1911</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" code="a-1" stam-id="462253" versie-id="681372" id="C681371" label-id="449024" inwerking="1911-08-24" label="Artikel 1" bron="Stb.1911-215" effect="nieuwe-regeling" ondertekening_bron="1911-07-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>1</nr>
+  </kop>
+  <al>Hij, die ter uitvoering van een wettelijk voorschrift mondeling een eed, belofte of bevestiging moet afleggen, zal: </al>
+  <lijst>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>indien hij een eed aflegt, onder het opsteken van de twee voorste vingers van zijn rechterhand, uitspreken de woorden: "Zoo waarlijk helpe mij God Almachtig",</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001881&amp;artikel=1&amp;o=a&amp;z=1911-08-24&amp;g=1911-08-24" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>indien hij een belofte aflegt, uitspreken de woorden: "Dat beloof ik", indien hij een bevestiging aflegt, uitspreken de woorden: "Dat verklaar ik",</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001881&amp;artikel=1&amp;o=b&amp;z=1911-08-24&amp;g=1911-08-24" onderdeel="o=b"/></jcis></meta-data></li>
+  </lijst>
+  <al>tenzij hij aan zijn godsdienstige gezindheid den plicht ontleent den eed, de belofte of de bevestiging op andere wijze te doen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1911</publicatiejaar><publicatienr>215</publicatienr><ondertekeningsdatum isodatum="1911-07-17">17-07-1911</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1911</publicatiejaar><publicatienr>215</publicatienr><ondertekeningsdatum isodatum="1911-07-17">17-07-1911</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1911-08-24">24-08-1911</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001881&amp;artikel=1&amp;g=1911-08-24" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0001881&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001881&amp;artikel=1&amp;z=1911-08-24&amp;g=1911-08-24" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0001881&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="a-2" stam-id="462273" versie-id="681392" id="C681391" label-id="449044" inwerking="1911-08-24" label="Artikel 2" bron="Stb.1911-215" effect="nieuwe-regeling" ondertekening_bron="1911-07-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <al>Indien bij het wettelijk voorschrift andere uit te spreken woorden zijn vastgesteld als de in het vorige artikel voorgeschrevene, treden de bij het bijzonder wettelijk voorschrift vastgestelde voor deze in de plaats.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1911</publicatiejaar><publicatienr>215</publicatienr><ondertekeningsdatum isodatum="1911-07-17">17-07-1911</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1911</publicatiejaar><publicatienr>215</publicatienr><ondertekeningsdatum isodatum="1911-07-17">17-07-1911</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1911-08-24">24-08-1911</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001881&amp;artikel=2&amp;g=1911-08-24" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0001881&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001881&amp;artikel=2&amp;z=1911-08-24&amp;g=1911-08-24" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0001881&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="a-3" stam-id="462293" versie-id="681412" id="C5193891" label-id="449064" inwerking="1911-08-24" label="Artikel 3" bron="Stb.1911-215" effect="nieuwe-regeling" ondertekening_bron="1911-07-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>3</nr>
+  </kop>
+  <al>Hij, die tengevolge van een lichaams- of spraakgebrek den eed, de belofte of de bevestiging niet kan afleggen op de bij de <intref verwijzing-id="1624883" doc="jci1.3:c:BWBR0001881&amp;artikel=1&amp;z=1911-08-24&amp;g=1911-08-24" bwb-id="BWBR0001881" label-id="449024" bwb-ng-variabel-deel="/Artikel1">artikelen 1</intref> en <intref verwijzing-id="1624884" doc="jci1.3:c:BWBR0001881&amp;artikel=2&amp;z=1911-08-24&amp;g=1911-08-24" bwb-id="BWBR0001881" label-id="449044" bwb-ng-variabel-deel="/Artikel2">2</intref> bepaalde wijze, zal den eed, de belofte of de bevestiging afleggen op een wijze, zooveel mogelijk overeenstemmende met het bij die artikelen voorgeschrevene, te bepalen door dengene in wiens handen de eed, de belofte of de bevestiging wordt afgelegd.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1911</publicatiejaar><publicatienr>215</publicatienr><ondertekeningsdatum isodatum="1911-07-17">17-07-1911</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1911</publicatiejaar><publicatienr>215</publicatienr><ondertekeningsdatum isodatum="1911-07-17">17-07-1911</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1911-08-24">24-08-1911</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001881&amp;artikel=3&amp;g=1911-08-24" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0001881&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001881&amp;artikel=3&amp;z=1911-08-24&amp;g=1911-08-24" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0001881&amp;artikel=3"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="462313" versie-id="681432" id="C681431" label-id="449084" inwerking="1911-08-24" bron="Stb.1911-215" effect="nieuwe-regeling" ondertekening_bron="1911-07-17" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven ten Paleize het Loo</plaats>
+      <datum isodatum="">den 17den Juli 1911</datum>
+    </dagtekening>
+    <koning>WILHELMINA.</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Justitie,</functie>
+    <naam>
+      <achternaam>E. R. H. REGOUT.</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">den vijf en twintigsten Juli 1911.</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>E. R. H. REGOUT.</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1911</publicatiejaar><publicatienr>215</publicatienr><ondertekeningsdatum isodatum="1911-07-17">17-07-1911</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1911</publicatiejaar><publicatienr>215</publicatienr><ondertekeningsdatum isodatum="1911-07-17">17-07-1911</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1911-08-24">24-08-1911</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1911</publicatiejaar><publicatienr>215</publicatienr><ondertekeningsdatum isodatum="1911-07-17">17-07-1911</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1911</publicatiejaar><publicatienr>215</publicatienr><ondertekeningsdatum isodatum="1911-07-17">17-07-1911</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1911-08-24">24-08-1911</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001881&amp;g=1911-08-24" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0001881"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001881&amp;z=1911-08-24&amp;g=1911-08-24" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0001881"/></jcis></meta-data></wetgeving></toestand>

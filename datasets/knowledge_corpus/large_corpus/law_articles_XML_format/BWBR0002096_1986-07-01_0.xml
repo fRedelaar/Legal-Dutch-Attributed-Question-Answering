@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0002096/1986-07-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0002096" inwerkingtreding="1986-07-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="16443" versie-id="19352" id="C19351" label-id="16674" inwerkingtredingsdatum="1952-08-21">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="16723" versie-id="19142" id="C19141" label-id="16504" inwerking="1952-08-21" bron="Stb.1952-404" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">Wet van 10 juli 1952, tot bescherming van de bevolking tegen de gevolgen van oorlogsgeweld<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>404</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2419">2419</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>404</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2419">2419</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-21">21-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="16743" versie-id="19162" id="C19161" label-id="16524" inwerking="1952-08-21" bron="Stb.1952-404" effect="nieuwe-regeling" ondertekening_bron="1952-07-10">Wet bescherming bevolking<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>404</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2419">2419</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>404</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2419">2419</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-21">21-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="16773" versie-id="19192" id="C19191" label-id="16554" inwerking="1952-08-21" bron="Stb.1952-404" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <wij>Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is bepalingen vast te stellen omtrent het nemen van maatregelen met betrekking tot de bescherming van de bevolking tegen de gevolgen van oorlogsgeweld;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>404</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2419">2419</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>404</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2419">2419</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-21">21-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="a-4" stam-id="16793" versie-id="19212" id="C5180711" label-id="16574" inwerking="1986-07-01" label="Artikel 4" bron="Stb.1986-312" effect="wijziging" ondertekening_bron="1986-06-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="16574L1">
+    <lidnr>1</lidnr>
+    <al>
+      <redactie type="vervanging">Vervallen.</redactie>
+    </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002096&amp;artikel=4&amp;lid=1&amp;z=1986-07-01&amp;g=1986-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="16574L2">
+    <lidnr>2</lidnr>
+    <al> Hij wijst in overeenstemming met Onze Minister wie het mede aangaat ondernemingen en openbare nutsbedrijven aan, ter bescherming waarvan hij bevelen kan geven op de voet van <intref verwijzing-id="1622507" doc="jci1.3:c:BWBR0002096&amp;artikel=7&amp;z=1986-07-01&amp;g=1986-07-01" bwb-id="BWBR0002096" label-id="16584" bwb-ng-variabel-deel="/Artikel7">artikel 7</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002096&amp;artikel=4&amp;lid=2&amp;z=1986-07-01&amp;g=1986-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1986</publicatiejaar><publicatienr>312</publicatienr><ondertekeningsdatum isodatum="1986-06-11">11-06-1986</ondertekeningsdatum><dossierref dossier="19394">19394</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1986</publicatiejaar><publicatienr>313</publicatienr><ondertekeningsdatum isodatum="1986-06-12">12-06-1986</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1986-07-01">01-07-1986</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002096&amp;artikel=4&amp;g=1986-07-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0002096&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002096&amp;artikel=4&amp;z=1986-07-01&amp;g=1986-07-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0002096&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="a-7" stam-id="16823" versie-id="19232" id="C5180721" label-id="16584" inwerking="1952-08-21" label="Artikel 7" bron="Stb.1952-404" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid1" label-id="16584L1">
+    <lidnr>1</lidnr>
+    <al>Onze Minister van Binnenlandse Zaken kan in het belang van de bescherming van bedrijven, aangewezen op de voet van <intref verwijzing-id="1622508" doc="jci1.3:c:BWBR0002096&amp;artikel=4&amp;z=1986-07-01&amp;g=1986-07-01" bwb-id="BWBR0002096" label-id="16574" bwb-ng-variabel-deel="/Artikel4">artikel 4, tweede lid</intref>, bevelen geven aan ondernemingen en openbare nutsbedrijven.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002096&amp;artikel=7&amp;lid=1&amp;z=1986-07-01&amp;g=1986-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid2" label-id="16584L2">
+    <lidnr>2</lidnr>
+    <al> Een bevel, als bedoeld in het vorige lid, wordt niet gegeven dan in overeenstemming met Onze Minister wie het mede aangaat en na overleg met de door Onze Minister van Binnenlandse Zaken aan te wijzen centrale organisaties van ondernemers dan wel, indien het overheidsbedrijven betreft, met de besturen dier bedrijven, tenzij zulks in verband met de vereiste spoed niet kan geschieden. In dit laatste geval wordt van het bevel onverwijld mededeling gedaan aan Onze Minister wie het mede aangaat en aan de aangewezen organisaties of besturen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002096&amp;artikel=7&amp;lid=2&amp;z=1986-07-01&amp;g=1986-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>404</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2419">2419</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>404</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2419">2419</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-21">21-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002096&amp;artikel=7&amp;g=1986-07-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0002096&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002096&amp;artikel=7&amp;z=1986-07-01&amp;g=1986-07-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0002096&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel29" code="a-29" stam-id="16843" versie-id="19262" id="C19261" label-id="16604" inwerking="1971-02-17" label="Artikel 29" bron="Stb.1970-666" effect="wijziging" ondertekening_bron="1970-12-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>29</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel29/Lid1" label-id="16604L1">
+    <lidnr>1</lidnr>
+    <al>Overtreding van hetgeen krachtens artikel 5 of 7 door Ons of Onze Minister van Binnenlandse Zaken, dan wel krachtens artikel 13 door de burgemeester of - bij toepassing van artikel 14 - door het kringbestuur is bepaald, wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van ten hoogste vijfduizend gulden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002096&amp;artikel=29&amp;lid=1&amp;z=1986-07-01&amp;g=1986-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel29/Lid2" label-id="16604L2">
+    <lidnr>2</lidnr>
+    <al> Indien het feit is gepleegd in de tijd, waarin de bescherming van de bevolking geheel of ten dele in staat van paraatheid is, worden de in het vorige lid gestelde maxima verdubbeld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002096&amp;artikel=29&amp;lid=2&amp;z=1986-07-01&amp;g=1986-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel29/Lid3" label-id="16604L3">
+    <lidnr>3</lidnr>
+    <al> Dit feit is een overtreding.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002096&amp;artikel=29&amp;lid=3&amp;z=1986-07-01&amp;g=1986-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>666</publicatienr><ondertekeningsdatum isodatum="1970-12-17">17-12-1970</ondertekeningsdatum><dossierref dossier="8841">8841</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1970</publicatiejaar><publicatienr>666</publicatienr><ondertekeningsdatum isodatum="1970-12-17">17-12-1970</ondertekeningsdatum><dossierref dossier="8841">8841</dossierref></publicatie><inwerkingtreding.datum isodatum="1971-02-17">17-02-1971</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002096&amp;artikel=29&amp;g=1986-07-01" onderdeel="artikel=29" korte-verwijzing="1.0:c:BWBR0002096&amp;artikel=29"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002096&amp;artikel=29&amp;z=1986-07-01&amp;g=1986-07-01" onderdeel="artikel=29" korte-verwijzing="jci1.3:c:BWBR0002096&amp;artikel=29"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="16873" versie-id="19302" id="C19301" label-id="16634" inwerking="1952-08-21" bron="Stb.1952-404" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven ten Paleize Soestdijk</plaats>
+      <datum isodatum="">10 Juli 1952.</datum>
+    </dagtekening>
+    <koning>JULIANA.</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister-President, Minister van Algemene Zaken,</functie>
+    <naam>
+      <achternaam>W. DREES.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Binnenlandse Zaken,</functie>
+    <naam>
+      <achternaam>BEEL.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister zonder Portefeuille,</functie>
+    <naam>
+      <achternaam>TEULINGS.</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de eerste Augustus 1952.</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie a.i.,</functie>
+      <naam>
+        <achternaam>BEEL.</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>404</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2419">2419</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>404</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2419">2419</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-21">21-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>404</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2419">2419</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>404</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2419">2419</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-21">21-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002096&amp;g=1986-07-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0002096"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002096&amp;z=1986-07-01&amp;g=1986-07-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0002096"/></jcis></meta-data></wetgeving></toestand>

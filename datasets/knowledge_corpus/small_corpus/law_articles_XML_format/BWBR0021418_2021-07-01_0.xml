@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0021418/2021-07-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0021418" inwerkingtreding="2021-07-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="8976053" versie-id="17606962" id="C24364321" label-id="8955424" inwerkingtredingsdatum="2010-05-17">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="8976073" versie-id="14271162" id="C20341541" label-id="8955004" inwerking="2008-01-01" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">Wet van 24 januari 2007, houdende regels omtrent ruimtevaartactiviteiten en de instelling van een register van ruimtevoorwerpen (Wet ruimtevaartactiviteiten)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="8976083" versie-id="14271172" id="C20341551" label-id="8955014" inwerking="2008-01-01" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13">Wet ruimtevaartactiviteiten<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="8976093" versie-id="14271182" id="C20341561" label-id="8955024" inwerking="2008-01-01" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het noodzakelijk is ten aanzien van ruimtevaartactiviteiten en de instelling en beheer van een register van ruimtevoorwerpen regels te stellen;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk1" stam-id="8976123" versie-id="14271212" id="C20341591" label-id="8955054" inwerking="2008-01-01" label="Hoofdstuk 1" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">1</nr>
+    <titel status="officieel">Algemene bepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1" stam-id="8976103" versie-id="25562962" id="C36489031" label-id="8955034" inwerking="2019-01-01" label="Artikel 1" bron="Stb.2018-487" effect="wijziging" ondertekening_bron="2018-12-05" publicatie_bron="2018-12-27" publicatie_iwt="2018-12-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>Onze Minister: Onze Minister van Economische Zaken en Klimaat;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=1&amp;artikel=1&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>ruimtevaartactiviteiten: het lanceren, het bedienen van de vlucht of het geleiden van ruimtevoorwerpen in de kosmische ruimte;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=1&amp;artikel=1&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>ruimtevoorwerp: ieder voorwerp gelanceerd of bestemd om te worden gelanceerd in de kosmische ruimte;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=1&amp;artikel=1&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>Nederlands schip: een schip als bedoeld in <extref doc="jci1.3:c:BWBR0009124&amp;artikel=1" label-id="655164" verwijzing-id="2131297" bwb-id="BWBR0009124">artikel 1, onderdeel b, van de Wet zeevarenden</extref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=1&amp;artikel=1&amp;o=d&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeele">
+      <li.nr>e.</li.nr>
+      <al>Nederlands luchtvaartuig: een in Nederland krachtens <extref doc="jci1.3:c:BWBR0005555&amp;artikel=3.3" label-id="541644" verwijzing-id="2131298" bwb-id="BWBR0005555">artikel 3.3 van de Wet luchtvaart</extref> geregistreerd luchtvaartuig;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=1&amp;artikel=1&amp;o=e&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=e"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeelf">
+      <li.nr>f.</li.nr>
+      <al>Ruimteverdrag: het op 27 januari 1967 te Londen/Moskou/Washington tot stand gekomen Verdrag inzake de beginselen waaraan de activiteiten van Staten zijn onderworpen bij het onderzoek en gebruik van de kosmische ruimte, met inbegrip van de maan en andere hemellichamen (Trb. 1967, 31);</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=1&amp;artikel=1&amp;o=f&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=f"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeelg">
+      <li.nr>g.</li.nr>
+      <al>Aansprakelijkheidsverdrag: de op 29 maart 1972 te Londen/Moskou/Washington tot stand gekomen Overeenkomst inzake de internationale aansprakelijkheid voor schade veroorzaakt door ruimtevoorwerpen (Trb. 1981, 37).</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=1&amp;artikel=1&amp;o=g&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=g"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-487"><publicatiejaar>2018</publicatiejaar><publicatienr>487</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-05">05-12-2018</ondertekeningsdatum><dossierref dossier="34987">34987</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-488"><publicatiejaar>2018</publicatiejaar><publicatienr>488</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-18">18-12-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-01-01">01-01-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=1&amp;g=2021-07-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=1&amp;artikel=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=1"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2" stam-id="8976113" versie-id="14271202" id="C20341581" label-id="8955044" inwerking="2008-01-01" label="Artikel 2" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1" label-id="8955044L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Deze wet is van toepassing op ruimtevaartactiviteiten die worden verricht in of vanuit Nederland dan wel op of vanaf een Nederlands schip of Nederlands luchtvaartuig.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid2" label-id="8955044L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Bij algemene maatregel van bestuur kan deze wet tevens geheel of gedeeltelijk van toepassing worden verklaard op:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>daarbij aan te wijzen ruimtevaartactiviteiten die worden verricht door een Nederlandse natuurlijke of rechtspersoon op of vanaf het grondgebied van een staat die geen partij is bij het Ruimteverdrag dan wel op of vanaf een schip of luchtvaartuig dat valt onder de rechtsmacht van een staat die geen partij is bij het Ruimteverdrag;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=1&amp;artikel=2&amp;lid=2&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>het vanuit Nederland door een natuurlijke of rechtspersoon organiseren van activiteiten in de kosmische ruimte.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=1&amp;artikel=2&amp;lid=2&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=1&amp;artikel=2&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=2&amp;g=2021-07-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=1&amp;artikel=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=2"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;hoofdstuk=1&amp;g=2021-07-01" onderdeel="hoofdstuk=1" korte-verwijzing="1.0:c:BWBR0021418&amp;hoofdstuk=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="hoofdstuk=1" korte-verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=1"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk1a" stam-id="10658613" versie-id="17606982" id="C25036251" label-id="10633194" inwerking="2010-10-10" label="Hoofdstuk 1a" bron="Stb.2010-350" effect="nieuw" ondertekening_bron="2010-05-17" publicatie_bron="2010-09-01" publicatie_iwt="2010-10-07" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">1a</nr>
+    <titel status="officieel">Bonaire, Sint Eustatius en Saba</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk1a/Artikel2a" stam-id="10658603" versie-id="17606972" id="C25036261" label-id="10633184" inwerking="2010-10-10" label="Artikel 2a" bron="Stb.2010-350" effect="nieuw" ondertekening_bron="2010-05-17" publicatie_bron="2010-09-01" publicatie_iwt="2010-10-07" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2a</nr>
+  </kop>
+  <al>Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2010-350"><publicatiejaar>2010</publicatiejaar><publicatienr>350</publicatienr><uitgiftedatum isodatum="2010-09-01">01-09-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-05-17">17-05-2010</ondertekeningsdatum><dossierref dossier="31959">31959</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2010-389"><publicatiejaar>2010</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2010-10-07">07-10-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-09-30">30-09-2010</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2010-10-10">10-10-2010</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van Nederland.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=2a&amp;g=2021-07-01" onderdeel="artikel=2a" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=2a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=1a&amp;artikel=2a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=2a" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=2a"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2010-350"><publicatiejaar>2010</publicatiejaar><publicatienr>350</publicatienr><uitgiftedatum isodatum="2010-09-01">01-09-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-05-17">17-05-2010</ondertekeningsdatum><dossierref dossier="31959">31959</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2010-389"><publicatiejaar>2010</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2010-10-07">07-10-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-09-30">30-09-2010</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2010-10-10">10-10-2010</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van Nederland.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;hoofdstuk=1a&amp;g=2021-07-01" onderdeel="hoofdstuk=1a" korte-verwijzing="1.0:c:BWBR0021418&amp;hoofdstuk=1a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=1a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="hoofdstuk=1a" korte-verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=1a"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk2" stam-id="8976243" versie-id="14271332" id="C20341711" label-id="8955174" inwerking="2008-01-01" label="Hoofdstuk 2" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">2</nr>
+    <titel status="officieel">Vergunningen</titel>
+  </kop><paragraaf bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf1" stam-id="8976143" versie-id="14271232" id="C20341611" label-id="8955074" inwerking="2008-01-01" label="§ 1" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">1</nr>
+    <titel status="officieel">Vergunning voor ruimtevaartactiviteiten</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf1/Artikel3" stam-id="8976133" versie-id="14271222" id="C20341601" label-id="8955064" inwerking="2008-01-01" label="Artikel 3" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf1/Artikel3/Lid1" label-id="8955064L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het is verboden zonder daartoe verleende vergunning van Onze Minister ruimtevaartactiviteiten als bedoeld in <intref verwijzing-id="2131319" doc="jci1.3:c:BWBR0021418&amp;hoofdstuk=1&amp;artikel=2&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0021418" label-id="8955044" bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2">artikel 2</intref> te verrichten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=1&amp;artikel=3&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf1/Artikel3/Lid2" label-id="8955064L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het eerste lid is niet van toepassing op ruimtevaartactiviteiten die worden verricht onder de verantwoordelijkheid van één of meer Onzer Ministers.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=1&amp;artikel=3&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf1/Artikel3/Lid3" label-id="8955064L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Aan de vergunning kunnen voorschriften en beperkingen worden verbonden met het oog op:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf1/Artikel3/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>veiligheid van personen en goederen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=1&amp;artikel=3&amp;lid=3&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf1/Artikel3/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>bescherming van het milieu in de kosmische ruimte;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=1&amp;artikel=3&amp;lid=3&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf1/Artikel3/Lid3/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>financiële zekerheid;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=1&amp;artikel=3&amp;lid=3&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf1/Artikel3/Lid3/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>bescherming van de openbare orde;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=1&amp;artikel=3&amp;lid=3&amp;o=d&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf1/Artikel3/Lid3/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>veiligheid van de staat;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=1&amp;artikel=3&amp;lid=3&amp;o=e&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf1/Artikel3/Lid3/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>het kunnen voldoen aan de internationale verplichtingen van de staat.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=1&amp;artikel=3&amp;lid=3&amp;o=f&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=f"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=1&amp;artikel=3&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf1/Artikel3/Lid4" label-id="8955064L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De vergunning wordt verleend onder voorwaarde van het hebben en instandhouden van de naar het oordeel van Onze Minister hoogst mogelijke dekking voor de aansprakelijkheid voortvloeiende uit de ruimtevaartactiviteiten waarvoor vergunning wordt gevraagd. Daarbij wordt rekening gehouden met hetgeen redelijkerwijs door verzekering kan worden gedekt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=1&amp;artikel=3&amp;lid=4&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf1/Artikel3/Lid5" label-id="8955064L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Aan de vergunning kan een termijn worden verbonden waarbinnen de ruimtevaartactiviteiten door de vergunninghouder worden aangevangen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=1&amp;artikel=3&amp;lid=5&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf1/Artikel3/Lid6" label-id="8955064L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>De vergunning wordt verleend voor de duur van de ruimtevaartactiviteiten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=1&amp;artikel=3&amp;lid=6&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf1/Artikel3/Lid7" label-id="8955064L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van het bepaalde in het vierde lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=1&amp;artikel=3&amp;lid=7&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=3&amp;g=2021-07-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=1&amp;artikel=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=3"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;paragraaf=1&amp;g=2021-07-01" onderdeel="paragraaf=1" korte-verwijzing="1.0:c:BWBR0021418&amp;paragraaf=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="paragraaf=1" korte-verwijzing="jci1.3:c:BWBR0021418&amp;paragraaf=1"/></jcis></meta-data></paragraaf><paragraaf bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2" stam-id="8976213" versie-id="14271302" id="C20341681" label-id="8955144" inwerking="2008-01-01" label="§ 2" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">2</nr>
+    <titel status="officieel">Aanvraag vergunning</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel4" stam-id="8976153" versie-id="14271242" id="C20341621" label-id="8955084" inwerking="2008-01-01" label="Artikel 4" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel4/Lid1" label-id="8955084L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De aanvraag om een vergunning wordt ingediend bij Onze Minister.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=4&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel4/Lid2" label-id="8955084L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de wijze waarop de aanvraag geschiedt en de gegevens en bescheiden die door de aanvrager worden verstrekt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=4&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel4/Lid3" label-id="8955084L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Bij ministeriële regeling kunnen voorts eisen worden gesteld waaraan de aanvrager moet voldoen om in aanmerking te komen voor een vergunning. Deze eisen kunnen betrekking hebben op:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel4/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de kennis en ervaring van de aanvrager;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=4&amp;lid=3&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel4/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>het verkregen hebben van toestemming voor het gebruik van frequentieruimte.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=4&amp;lid=3&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=4&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=4&amp;g=2021-07-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=4&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=4"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel5" code="b1-5" stam-id="8976163" versie-id="18537292" id="C25866871" label-id="8955094" inwerking="2012-01-01" label="Artikel 5" bron="Stb.2011-201" effect="wijziging" ondertekening_bron="2011-04-07" publicatie_bron="2011-05-03" publicatie_iwt="2011-05-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel5/Lid1" label-id="8955094L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister beslist op een aanvraag om een vergunning binnen zes maanden na de ontvangst daarvan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=5&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel5/Lid2" label-id="8955094L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Met toepassing van <extref doc="jci1.3:c:BWBR0026759&amp;artikel=28" verwijzing-id="2436080" bwb-id="BWBR0026759" label-id="10273934">artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet</extref> is <extref doc="jci1.3:c:BWBR0005537&amp;paragraaf=4.1.3.3" verwijzing-id="2436081" bwb-id="BWBR0005537" label-id="10274674">paragraaf 4.1.3.3. van de Algemene wet bestuursrecht</extref> niet van toepassing op een aanvraag om een vergunning.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=5&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2011-201"><publicatiejaar>2011</publicatiejaar><publicatienr>201</publicatienr><uitgiftedatum isodatum="2011-05-03">03-05-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-04-07">07-04-2011</ondertekeningsdatum><dossierref dossier="32614">32614</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2011-201"><publicatiejaar>2011</publicatiejaar><publicatienr>201</publicatienr><uitgiftedatum isodatum="2011-05-03">03-05-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-04-07">07-04-2011</ondertekeningsdatum><dossierref dossier="32614">32614</dossierref></publicatie><inwerkingtreding.datum isodatum="2012-01-01">01-01-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=5&amp;g=2021-07-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=5&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=5"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel6" stam-id="8976173" versie-id="14271262" id="C20341641" label-id="8955104" inwerking="2008-01-01" label="Artikel 6" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel6/Lid1" label-id="8955104L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een vergunning wordt geweigerd indien:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel6/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de naleving van een verdrag of een bindend besluit van een volkenrechtelijke organisatie dit vordert;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=6&amp;lid=1&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel6/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>feiten of omstandigheden er naar het oordeel van Onze Minister op duiden dat de veiligheid van personen en goederen, de bescherming van het milieu in de ruimte, de bescherming van de openbare orde of de veiligheid van de staat door het verlenen van de vergunning in gevaar kunnen worden gebracht;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=6&amp;lid=1&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel6/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>verlening daarvan in strijd zou zijn met bij of krachtens deze wet gestelde regels.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=6&amp;lid=1&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=6&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel6/Lid2" label-id="8955104L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Een vergunning kan door Onze Minister worden geweigerd indien:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel6/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>een eerder verleende vergunning is ingetrokken wegens overtreding van bij of krachtens deze wet gestelde regels dan wel van de aan de vergunning verbonden voorschriften;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=6&amp;lid=2&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel6/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de aanvrager niet heeft voldaan aan op hem rustende verplichtingen, voortvloeiend uit een eerder verleende vergunning;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=6&amp;lid=2&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel6/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de aanvraag of de aanvrager niet voldoet aan de daarvoor bij of krachtens deze wet gestelde regels;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=6&amp;lid=2&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel6/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>gegronde vrees bestaat dat de aanvrager niet overeenkomstig de bij of krachtens deze wet gestelde regels zal handelen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=6&amp;lid=2&amp;o=d&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel6/Lid2/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>de bescherming van de belangen, genoemd in <intref verwijzing-id="2131312" doc="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=1&amp;artikel=3&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0021418" label-id="8955064" bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf1/Artikel3">artikel 3, derde lid</intref>, dit vordert.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=6&amp;lid=2&amp;o=e&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=e"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=6&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=6&amp;g=2021-07-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=6&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=6"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel7" stam-id="8976183" versie-id="14271272" id="C20341651" label-id="8955114" inwerking="2008-01-01" label="Artikel 7" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel7/Lid1" label-id="8955114L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De vergunning wordt ingetrokken indien:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel7/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de vergunninghouder hierom verzoekt;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=7&amp;lid=1&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel7/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de naleving van een verdrag of een bindend besluit van een volkenrechtelijke organisatie dit vordert;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=7&amp;lid=1&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel7/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de vrees gewettigd is dat het van kracht blijven van de vergunning gevaar zal opleveren voor de veiligheid van personen en goederen, de bescherming van het milieu in de ruimte, de bescherming van de openbare orde of de veiligheid van de staat.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=7&amp;lid=1&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=7&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel7/Lid2" label-id="8955114L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Een vergunning kan door Onze Minister worden ingetrokken indien:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel7/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>niet overeenkomstig de bij of krachtens deze wet gestelde regels dan wel de aan de vergunning verbonden voorschriften is of wordt gehandeld;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=7&amp;lid=2&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel7/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de ruimtevaartactiviteiten niet binnen de gestelde termijn zijn aangevangen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=7&amp;lid=2&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel7/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>het doel van de ruimtevaartactiviteiten waarvoor vergunning is verleend, wezenlijk is veranderd;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=7&amp;lid=2&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel7/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>dit wordt gerechtvaardigd door een wijziging in de technische of financiële mogelijkheden van de vergunninghouder;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=7&amp;lid=2&amp;o=d&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel7/Lid2/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>de bij de aanvraag verstrekte gegevens of bescheiden zodanig onjuist of onvolledig blijken, dat op de aanvraag een andere beslissing zou zijn genomen, als bij de beoordeling daarvan de juiste omstandigheden volledig bekend waren geweest;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=7&amp;lid=2&amp;o=e&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel7/Lid2/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>de bescherming van de belangen, genoemd in <intref verwijzing-id="2131309" doc="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=1&amp;artikel=3&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0021418" label-id="8955064" bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf1/Artikel3">artikel 3, derde lid</intref>, dit vordert.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=7&amp;lid=2&amp;o=f&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=f"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=7&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel7/Lid3" label-id="8955114L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Alvorens de vergunning wordt ingetrokken, neemt Onze Minister alle nodige maatregelen om de veiligheid van personen en goederen, de bescherming van het milieu in de ruimte, de bescherming van de openbare orde of de veiligheid van de staat te waarborgen. Onze Minister geeft daartoe de nodige aanwijzingen aan degene wiens vergunning zal worden ingetrokken. Deze is gehouden de aanwijzingen op te volgen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=7&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel7/Lid4" label-id="8955114L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Op de gronden, genoemd in het tweede lid, kan Onze Minister in plaats van de vergunning intrekken deze ook wijzigen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=7&amp;lid=4&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=7&amp;g=2021-07-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=7&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=7"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel8" stam-id="8976193" versie-id="14271282" id="C20341661" label-id="8955124" inwerking="2008-01-01" label="Artikel 8" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel8/Lid1" label-id="8955124L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De vergunning is niet overdraagbaar.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=8&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel8/Lid2" label-id="8955124L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister kan op verzoek de tenaamstelling van de vergunning aanpassen indien de vergunning gehouden wordt door een rechtspersoon die fuseert, wordt gesplitst of verandert van naam.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=8&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=8&amp;g=2021-07-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=8&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=8"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel9" stam-id="8976203" versie-id="14271292" id="C20341671" label-id="8955134" inwerking="2008-01-01" label="Artikel 9" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel9/Lid1" label-id="8955134L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Bij algemene maatregel van bestuur kan worden bepaald dat ter dekking van de kosten van werkzaamheden of diensten ter uitvoering van het bij of krachtens deze wet bepaalde een vergoeding verschuldigd is door degene ten behoeve van wie werkzaamheden of diensten zijn verricht overeenkomstig bij of krachtens algemene maatregel van bestuur gestelde regels.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=9&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel9/Lid2" label-id="8955134L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien een ingevolge het eerste lid verschuldigd bedrag niet is betaald binnen de daarvoor gestelde termijn, wordt het desbetreffende bedrag vermeerderd met de wettelijke rente, te rekenen vanaf de dag waarop die termijn is verstreken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=9&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel9/Lid3" label-id="8955134L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Indien niet is betaald binnen de termijn bedoeld in het tweede lid, wordt degene die het bedrag is verschuldigd schriftelijk bevolen binnen twee weken alsnog het bedrag, verhoogd met de wettelijke rente en de kosten van de aanmaning, te betalen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=9&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=9&amp;g=2021-07-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=9&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=9"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;paragraaf=2&amp;g=2021-07-01" onderdeel="paragraaf=2" korte-verwijzing="1.0:c:BWBR0021418&amp;paragraaf=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="paragraaf=2" korte-verwijzing="jci1.3:c:BWBR0021418&amp;paragraaf=2"/></jcis></meta-data></paragraaf><paragraaf bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf3" stam-id="8976233" versie-id="14271322" id="C20341701" label-id="8955164" inwerking="2008-01-01" label="§ 3" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">3</nr>
+    <titel status="officieel">Calamiteiten</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf3/Artikel10" stam-id="8976223" versie-id="14271312" id="C20341691" label-id="8955154" inwerking="2008-01-01" label="Artikel 10" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf3/Artikel10/Lid1" label-id="8955154L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien zich een voorval voordoet of heeft voorgedaan dat gevaar kan opleveren voor de veiligheid van personen en goederen, de bescherming van het milieu in de ruimte, de bescherming van de openbare orde of de veiligheid van de staat, of anderszins schade kan opleveren, treft de vergunninghouder onverwijld de maatregelen die redelijkerwijs van hem kunnen worden verlangd om de gevolgen van die gebeurtenis te voorkomen of, voor zover die gevolgen niet kunnen worden voorkomen, zoveel mogelijk te beperken en ongedaan te maken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=3&amp;artikel=10&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf3/Artikel10/Lid2" label-id="8955154L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De vergunninghouder meldt Onze Minister onverwijld een voorval als bedoeld in het eerste lid en verstrekt tevens zo spoedig mogelijk de gegevens met betrekking tot:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf3/Artikel10/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de oorzaken van het voorval en de omstandigheden waaronder het voorval zich heeft voorgedaan;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=3&amp;artikel=10&amp;lid=2&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf3/Artikel10/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de gegevens die van belang zijn om de aard en de ernst van de gevolgen van het voorval te kunnen beoordelen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=3&amp;artikel=10&amp;lid=2&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf3/Artikel10/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de maatregelen die zijn genomen of worden overwogen om de gevolgen van het voorval te voorkomen, te beperken of ongedaan te maken;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=3&amp;artikel=10&amp;lid=2&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf3/Artikel10/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de maatregelen die zijn genomen of worden overwogen om te voorkomen dat een zodanig voorval zich tijdens een ruimtevaartactiviteit nogmaals kan voordoen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=3&amp;artikel=10&amp;lid=2&amp;o=d&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=3&amp;artikel=10&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=10&amp;g=2021-07-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=3&amp;artikel=10&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=10"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;paragraaf=3&amp;g=2021-07-01" onderdeel="paragraaf=3" korte-verwijzing="1.0:c:BWBR0021418&amp;paragraaf=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="paragraaf=3" korte-verwijzing="jci1.3:c:BWBR0021418&amp;paragraaf=3"/></jcis></meta-data></paragraaf><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;hoofdstuk=2&amp;g=2021-07-01" onderdeel="hoofdstuk=2" korte-verwijzing="1.0:c:BWBR0021418&amp;hoofdstuk=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="hoofdstuk=2" korte-verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=2"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk3" stam-id="8976263" versie-id="14271352" id="C20341731" label-id="8955194" inwerking="2008-01-01" label="Hoofdstuk 3" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">3</nr>
+    <titel status="officieel">Register ruimtevoorwerpen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk3/Artikel11" stam-id="8976253" versie-id="14271342" id="C20341721" label-id="8955184" inwerking="2008-01-01" label="Artikel 11" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel11/Lid1" label-id="8955184L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister houdt een register met gegevens betreffende ruimtevoorwerpen die gebruikt worden in het kader van ruimtevaartactiviteiten als bedoeld in <intref verwijzing-id="2131315" doc="jci1.3:c:BWBR0021418&amp;hoofdstuk=1&amp;artikel=2&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0021418" label-id="8955044" bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2">artikel 2</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=3&amp;artikel=11&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel11/Lid2" label-id="8955184L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De vergunninghouder verstrekt op bij algemene maatregel van bestuur vast te stellen momenten de voor het register benodigde gegevens.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=3&amp;artikel=11&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel11/Lid3" label-id="8955184L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Onze Minister draagt zorg voor registratie van ruimtevoorwerpen die gebruikt worden in het kader van ruimtevaartactiviteiten die worden verricht onder de verantwoordelijkheid van één of meer Onzer Ministers.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=3&amp;artikel=11&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel11/Lid4" label-id="8955184L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Bij of krachtens algemene maatregel van bestuur worden regels gesteld ter uitvoering van dit artikel.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=3&amp;artikel=11&amp;lid=4&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=11&amp;g=2021-07-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=3&amp;artikel=11&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=11"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;hoofdstuk=3&amp;g=2021-07-01" onderdeel="hoofdstuk=3" korte-verwijzing="1.0:c:BWBR0021418&amp;hoofdstuk=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="hoofdstuk=3" korte-verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=3"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk4" stam-id="8976283" versie-id="14271372" id="C20341751" label-id="8955214" inwerking="2008-01-01" label="Hoofdstuk 4" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">4</nr>
+    <titel status="officieel">Regres</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Artikel12" stam-id="8976273" versie-id="14271362" id="C20341741" label-id="8955204" inwerking="2008-01-01" label="Artikel 12" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">12</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel12/Lid1" label-id="8955204L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>In het geval de staat op grond van artikel VII van het Ruimteverdrag of het Aansprakelijkheidsverdrag gehouden is tot betaling van schadevergoeding, heeft de staat het recht deze geheel of gedeeltelijk te verhalen op degene wiens ruimtevaartactiviteit de schade heeft veroorzaakt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=4&amp;artikel=12&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel12/Lid2" label-id="8955204L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De vergunninghouder is, per gebeurtenis of serie van gebeurtenissen met dezelfde oorzaak, aansprakelijk voor schade veroorzaakt door zijn ruimtevaartactiviteiten, tot de hoogte van het verzekerde bedrag, bedoeld in <intref verwijzing-id="2131310" doc="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=1&amp;artikel=3&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0021418" label-id="8955064" bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf1/Artikel3">artikel 3, vierde lid</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=4&amp;artikel=12&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel12/Lid3" label-id="8955204L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De staat oefent het recht van verhaal, bedoeld in het eerste lid, in voorkomend geval jegens de vergunninghouder uit tot maximaal de hoogte van het verzekerde bedrag, bedoeld in <intref verwijzing-id="2131311" doc="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=1&amp;artikel=3&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0021418" label-id="8955064" bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf1/Artikel3">artikel 3, vierde lid</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=4&amp;artikel=12&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel12/Lid4" label-id="8955204L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De staat kan het recht van verhaal, bedoelt in het derde lid, in voorkomend geval eveneens uitoefenen tegen de verzekeraar van de vergunninghouder.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=4&amp;artikel=12&amp;lid=4&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=12&amp;g=2021-07-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=4&amp;artikel=12&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=12"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;hoofdstuk=4&amp;g=2021-07-01" onderdeel="hoofdstuk=4" korte-verwijzing="1.0:c:BWBR0021418&amp;hoofdstuk=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=4&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="hoofdstuk=4" korte-verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=4"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk5" stam-id="8976403" versie-id="14271492" id="C20341871" label-id="8955334" inwerking="2008-01-01" label="Hoofdstuk 5" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">5</nr>
+    <titel status="officieel">Handhaving</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel13" code="b1-13" stam-id="8976293" versie-id="14271382" id="C20341761" label-id="8955224" inwerking="2008-01-01" label="Artikel 13" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel13/Lid1" label-id="8955224L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Met het toezicht op de naleving van het bepaalde bij of krachtens de <intref verwijzing-id="2131407" doc="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=1&amp;artikel=3&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0021418" label-id="8955064" bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf1/Artikel3">artikelen 3</intref>, <intref verwijzing-id="2131408" doc="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=7&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0021418" label-id="8955114" bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel7">7, derde lid, derde volzin</intref>, <intref verwijzing-id="2131332" doc="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=3&amp;artikel=10&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0021418" label-id="8955154" bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf3/Artikel10">10</intref>, en <intref verwijzing-id="2131333" doc="jci1.3:c:BWBR0021418&amp;hoofdstuk=3&amp;artikel=11&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0021418" label-id="8955184" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel11">11, tweede lid</intref>, zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=5&amp;artikel=13&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel13/Lid2" label-id="8955224L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan in de Staatscourant.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=5&amp;artikel=13&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=13&amp;g=2021-07-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=5&amp;artikel=13&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=13"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel14" stam-id="8976303" versie-id="27631602" id="C39208131" label-id="8955234" inwerking="2021-07-01" label="Artikel 14" bron="Stb.2021-135" effect="wijziging" ondertekening_bron="2021-03-03" publicatie_bron="2021-03-17" publicatie_iwt="2021-06-02" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">14</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel14/Lid1" label-id="8955234L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de <intref doc="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=1&amp;artikel=3&amp;z=2021-07-01&amp;g=2021-07-01" label-id="8955064" verwijzing-id="2131366" bwb-id="BWBR0021418" bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf1/Artikel3">artikelen 3</intref>, <intref doc="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=7&amp;z=2021-07-01&amp;g=2021-07-01" label-id="8955114" verwijzing-id="2131367" bwb-id="BWBR0021418" bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel7">7, derde lid</intref>, <intref doc="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=3&amp;artikel=10&amp;z=2021-07-01&amp;g=2021-07-01" label-id="8955154" verwijzing-id="2131328" bwb-id="BWBR0021418" bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf3/Artikel10">10</intref> en <intref doc="jci1.3:c:BWBR0021418&amp;hoofdstuk=3&amp;artikel=11&amp;z=2021-07-01&amp;g=2021-07-01" label-id="8955184" verwijzing-id="2131329" bwb-id="BWBR0021418" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel11">11, tweede en vierde lid, van deze wet</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=5&amp;artikel=14&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel14/Lid2" label-id="8955234L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Voor de toepassing van het eerste lid is vereiste spoed als bedoeld in <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:24" label-id="2820124" verwijzing-id="2131300" bwb-id="BWBR0005537">artikel 5:24, vijfde lid, van de Algemene wet bestuursrecht</extref> in elk geval aanwezig indien het niet naleven van de in het eerste lid bedoelde verplichtingen een ernstige en directe bedreiging vormt voor de veiligheid van personen en goederen, de veiligheid van de staat of de openbare orde.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=5&amp;artikel=14&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-135"><publicatiejaar>2021</publicatiejaar><publicatienr>135</publicatienr><uitgiftedatum isodatum="2021-03-17">17-03-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-03-03">03-03-2021</ondertekeningsdatum><dossierref dossier="35256">35256</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-254"><publicatiejaar>2021</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2021-06-02">02-06-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-05-18">18-05-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=14&amp;g=2021-07-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=5&amp;artikel=14&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=14"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel15" stam-id="8976313" versie-id="27631612" id="C39208121" label-id="8955244" inwerking="2021-07-01" label="Artikel 15" bron="Stb.2021-135" effect="wijziging" ondertekening_bron="2021-03-03" publicatie_bron="2021-03-17" publicatie_iwt="2021-06-02" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel15/Lid1" label-id="8955244L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Ingeval van overtreding van het bepaalde bij of krachtens <intref doc="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=1&amp;artikel=3&amp;z=2021-07-01&amp;g=2021-07-01" label-id="8955064" verwijzing-id="2131324" bwb-id="BWBR0021418" bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf1/Artikel3">artikelen 3, eerste, derde en vierde lid</intref>, <intref doc="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=2&amp;artikel=7&amp;z=2021-07-01&amp;g=2021-07-01" label-id="8955114" verwijzing-id="2131325" bwb-id="BWBR0021418" bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf2/Artikel7">7, derde lid, derde volzin</intref>, <intref doc="jci1.3:c:BWBR0021418&amp;hoofdstuk=2&amp;paragraaf=3&amp;artikel=10&amp;z=2021-07-01&amp;g=2021-07-01" label-id="8955154" verwijzing-id="2131326" bwb-id="BWBR0021418" bwb-ng-variabel-deel="/Hoofdstuk2/Paragraaf3/Artikel10">10</intref>, of van <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:20" label-id="2820074" verwijzing-id="2131301" bwb-id="BWBR0005537">artikel 5:20, eerste lid, van de Algemene wet bestuursrecht</extref>, kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 450 000, of, indien dat meer is, 10 procent van de relevante jaaromzet van de onderneming in Nederland.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=5&amp;artikel=15&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk5/Artikel15/Lid2" label-id="8955244L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Ingeval van overtreding van het bepaalde bij of krachtens <intref doc="jci1.3:c:BWBR0021418&amp;hoofdstuk=3&amp;artikel=11&amp;z=2021-07-01&amp;g=2021-07-01" label-id="8955184" verwijzing-id="2131327" bwb-id="BWBR0021418" bwb-ng-variabel-deel="/Hoofdstuk3/Artikel11">artikel 11, tweede en vierde lid</intref>, kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 100 000.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=5&amp;artikel=15&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-135"><publicatiejaar>2021</publicatiejaar><publicatienr>135</publicatienr><uitgiftedatum isodatum="2021-03-17">17-03-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-03-03">03-03-2021</ondertekeningsdatum><dossierref dossier="35256">35256</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-254"><publicatiejaar>2021</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2021-06-02">02-06-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-05-18">18-05-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=15&amp;g=2021-07-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=5&amp;artikel=15&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=15"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel16" code="b1-16" stam-id="8976323" versie-id="16545062" id="C22771341" label-id="8955254" inwerking="2009-07-01" label="Artikel 16" bron="Stb.2007-80" effect="vervallen" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2009-06-30" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">16</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2009-266"><publicatiejaar>2009</publicatiejaar><publicatienr>266</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-07-01">01-07-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=16&amp;g=2021-07-01" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=5&amp;artikel=16&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=16"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel17" stam-id="8976333" versie-id="16545072" id="C22771351" label-id="8955264" inwerking="2009-07-01" label="Artikel 17" bron="Stb.2007-80" effect="vervallen" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2009-06-30" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">17</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2009-266"><publicatiejaar>2009</publicatiejaar><publicatienr>266</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-07-01">01-07-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=17&amp;g=2021-07-01" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=5&amp;artikel=17&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=17"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel18" stam-id="8976343" versie-id="16545082" id="C22771361" label-id="8955274" inwerking="2009-07-01" label="Artikel 18" bron="Stb.2007-80" effect="vervallen" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2009-06-30" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">18</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2009-266"><publicatiejaar>2009</publicatiejaar><publicatienr>266</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-07-01">01-07-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=18&amp;g=2021-07-01" onderdeel="artikel=18" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=18"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=5&amp;artikel=18&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=18" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=18"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel19" stam-id="8976353" versie-id="16545092" id="C22771371" label-id="8955284" inwerking="2009-07-01" label="Artikel 19" bron="Stb.2007-80" effect="vervallen" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2009-06-30" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">19</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2009-266"><publicatiejaar>2009</publicatiejaar><publicatienr>266</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-07-01">01-07-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=19&amp;g=2021-07-01" onderdeel="artikel=19" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=19"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=5&amp;artikel=19&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=19" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=19"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel20" stam-id="8976363" versie-id="16545102" id="C22771381" label-id="8955294" inwerking="2009-07-01" label="Artikel 20" bron="Stb.2007-80" effect="vervallen" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2009-06-30" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">20</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2009-266"><publicatiejaar>2009</publicatiejaar><publicatienr>266</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-07-01">01-07-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=20&amp;g=2021-07-01" onderdeel="artikel=20" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=20"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=5&amp;artikel=20&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=20" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=20"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel21" stam-id="8976373" versie-id="16545112" id="C22771391" label-id="8955304" inwerking="2009-07-01" label="Artikel 21" bron="Stb.2007-80" effect="vervallen" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2009-06-30" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">21</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2009-266"><publicatiejaar>2009</publicatiejaar><publicatienr>266</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-07-01">01-07-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=21&amp;g=2021-07-01" onderdeel="artikel=21" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=21"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=5&amp;artikel=21&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=21" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=21"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel22" stam-id="8976383" versie-id="16545122" id="C22771401" label-id="8955314" inwerking="2009-07-01" label="Artikel 22" bron="Stb.2007-80" effect="vervallen" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2009-06-30" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">22</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2009-266"><publicatiejaar>2009</publicatiejaar><publicatienr>266</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-07-01">01-07-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=22&amp;g=2021-07-01" onderdeel="artikel=22" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=22"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=5&amp;artikel=22&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=22" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=22"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel23" stam-id="8976393" versie-id="16545132" id="C22771411" label-id="8955324" inwerking="2009-07-01" label="Artikel 23" bron="Stb.2007-80" effect="vervallen" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2009-06-30" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">23</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2009-266"><publicatiejaar>2009</publicatiejaar><publicatienr>266</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-07-01">01-07-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=23&amp;g=2021-07-01" onderdeel="artikel=23" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=23"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=5&amp;artikel=23&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=23" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=23"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;hoofdstuk=5&amp;g=2021-07-01" onderdeel="hoofdstuk=5" korte-verwijzing="1.0:c:BWBR0021418&amp;hoofdstuk=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=5&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="hoofdstuk=5" korte-verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=5"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk6" stam-id="8976423" versie-id="14271512" id="C20341891" label-id="8955354" inwerking="2008-01-01" label="Hoofdstuk 6" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">6</nr>
+    <titel status="officieel">Wijziging in andere wetgeving</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk6/Artikel24" code="b1-24" stam-id="8976413" versie-id="14271502" id="C20341881" label-id="8955344" inwerking="2008-01-01" label="Artikel 24" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">24</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Artikel24/Lid1" label-id="8955344L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>
+      <redactie type="vervanging">Wijzigt de Wet op de economische delicten.</redactie>
+    </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=6&amp;artikel=24&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk6/Artikel24/Lid2" label-id="8955344L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>
+      <redactie type="vervanging">Wijzigt de Wet op de economische delicten.</redactie>
+    </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=6&amp;artikel=24&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=24&amp;g=2021-07-01" onderdeel="artikel=24" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=24"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=6&amp;artikel=24&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=24" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=24"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;hoofdstuk=6&amp;g=2021-07-01" onderdeel="hoofdstuk=6" korte-verwijzing="1.0:c:BWBR0021418&amp;hoofdstuk=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=6&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="hoofdstuk=6" korte-verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=6"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk7" stam-id="8976473" versie-id="14271562" id="C20341941" label-id="8955404" inwerking="2008-01-01" label="Hoofdstuk 7" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">7</nr>
+    <titel status="officieel">Slotbepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk7/Artikel25" stam-id="8976433" versie-id="14271522" id="C20341901" label-id="8955364" inwerking="2008-01-01" label="Artikel 25" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">25</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk7/Artikel25/Lid1" label-id="8955364L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Ruimtevaartactiviteiten als bedoeld in <intref verwijzing-id="2131318" doc="jci1.3:c:BWBR0021418&amp;hoofdstuk=1&amp;artikel=2&amp;z=2021-07-01&amp;g=2021-07-01" bwb-id="BWBR0021418" label-id="8955044" bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2">artikel 2</intref> die op de datum van inwerkingtreding van deze wet plaatsvinden, kunnen zonder vergunning worden voortgezet gedurende een periode van twaalf maanden vanaf deze datum.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=7&amp;artikel=25&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk7/Artikel25/Lid2" label-id="8955364L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Eenieder deelt binnen zes maanden na de datum van inwerkingtreding van deze wet aan Onze Minister de ruimtevaartactiviteiten mee die hij verricht en waarop deze wet betrekking kan hebben.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=7&amp;artikel=25&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=25&amp;g=2021-07-01" onderdeel="artikel=25" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=25"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=7&amp;artikel=25&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=25" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=25"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk7/Artikel26" code="b1-26" stam-id="8976443" versie-id="14271532" id="C20341911" label-id="8955374" inwerking="2008-01-01" label="Artikel 26" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">26</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt deze wet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=26&amp;g=2021-07-01" onderdeel="artikel=26" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=26"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=7&amp;artikel=26&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=26" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=26"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk7/Artikel27" stam-id="8976453" versie-id="14271542" id="C20341921" label-id="8955384" inwerking="2008-01-01" label="Artikel 27" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">27</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.<nadruk type="vet"/></al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=27&amp;g=2021-07-01" onderdeel="artikel=27" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=27"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=7&amp;artikel=27&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=27" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=27"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk7/Artikel28" stam-id="8976463" versie-id="14271552" id="C20341931" label-id="8955394" inwerking="2008-01-01" label="Artikel 28" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">28</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet ruimtevaartactiviteiten.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;artikel=28&amp;g=2021-07-01" onderdeel="artikel=28" korte-verwijzing="1.0:c:BWBR0021418&amp;artikel=28"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=7&amp;artikel=28&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=28" korte-verwijzing="jci1.3:c:BWBR0021418&amp;artikel=28"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;hoofdstuk=7&amp;g=2021-07-01" onderdeel="hoofdstuk=7" korte-verwijzing="1.0:c:BWBR0021418&amp;hoofdstuk=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=7&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="hoofdstuk=7" korte-verwijzing="jci1.3:c:BWBR0021418&amp;hoofdstuk=7"/></jcis></meta-data></hoofdstuk>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="8976483" versie-id="14271572" id="C20341951" label-id="8955414" inwerking="2008-01-01" bron="Stb.2007-80" effect="nieuwe-regeling" ondertekening_bron="2007-01-24" publicatie_bron="2007-03-06" publicatie_iwt="2007-12-13" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="24 januari 2007">24 januari 2007</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Economische Zaken</functie>, <naam><voornaam>J. G.</voornaam><achternaam>Wijn</achternaam></naam></ondertekening>
+  <uitgifte>
+    <datum isodatum="2007-03-06">de <nadruk type="cur">zesde</nadruk> maart 2007</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie</functie>, <naam><voornaam>E. M. H.</voornaam><achternaam>Hirsch Ballin</achternaam></naam></ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-80"><publicatiejaar>2007</publicatiejaar><publicatienr>80</publicatienr><uitgiftedatum isodatum="2007-03-06">06-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-01-24">24-01-2007</ondertekeningsdatum><dossierref dossier="30609">30609</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-492"><publicatiejaar>2007</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2007-12-13">13-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-30">30-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2010-350"><publicatiejaar>2010</publicatiejaar><publicatienr>350</publicatienr><uitgiftedatum isodatum="2010-09-01">01-09-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-05-17">17-05-2010</ondertekeningsdatum><dossierref dossier="31959">31959</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2010-350"><publicatiejaar>2010</publicatiejaar><publicatienr>350</publicatienr><uitgiftedatum isodatum="2010-09-01">01-09-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-05-17">17-05-2010</ondertekeningsdatum><dossierref dossier="31959">31959</dossierref></publicatie><inwerkingtreding.datum isodatum="2010-05-17">17-05-2010</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0021418&amp;g=2021-07-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0021418"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0021418&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0021418"/></jcis></meta-data></wetgeving></toestand>

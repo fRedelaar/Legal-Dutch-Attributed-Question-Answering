@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0042394/2023-07-22/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0042394" inwerkingtreding="2023-07-22"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="15118863" versie-id="25917722" id="C36929881" label-id="15067084" inwerkingtredingsdatum="2019-09-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="15118883" versie-id="25917532" id="C36929691" label-id="15066894" inwerking="2019-09-01" bron="Stb.2019-253" effect="nieuwe-regeling" ondertekening_bron="2019-07-02" publicatie_bron="2019-07-10" publicatie_iwt="2019-07-10" status="goed">Wet van 2 juli 2019, houdende een kader voor het ontwikkelen van beleid gericht op onomkeerbaar en stapsgewijs terugdringen van de Nederlandse emissies van broeikasgassen teneinde wereldwijde opwarming van de aarde en de verandering van het klimaat te beperken (Klimaatwet)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-253"><publicatiejaar>2019</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum><dossierref dossier="34534">34534</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-254"><publicatiejaar>2019</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-09-01">01-09-2019</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="15118893" versie-id="25917542" id="C36929701" label-id="15066904" inwerking="2019-09-01" bron="Stb.2019-253" effect="nieuwe-regeling" ondertekening_bron="2019-07-02" publicatie_bron="2019-07-10" publicatie_iwt="2019-07-10">Klimaatwet<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-253"><publicatiejaar>2019</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum><dossierref dossier="34534">34534</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-254"><publicatiejaar>2019</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-09-01">01-09-2019</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="15118903" versie-id="25917552" id="C36929711" label-id="15066914" inwerking="2019-09-01" bron="Stb.2019-253" effect="nieuwe-regeling" ondertekening_bron="2019-07-02" publicatie_bron="2019-07-10" publicatie_iwt="2019-07-10" status="goed">
+  <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben dat het wenselijk is doelstellingen voor Nederland te formuleren voor het terugdringen van de Nederlandse emissies van broeikasgassen en een wettelijk kader te scheppen voor het ontwikkelen van beleid hiervoor ter invulling van de eigenstandige verantwoordelijkheid die Nederland heeft om de mondiale stijging van temperatuur en de verandering van het klimaat te beperken, en dat het wenselijk is de bindende verplichtingen die Nederland met de op 12 december 2015 te Parijs tot stand gekomen Overeenkomst van Parijs is aangegaan in te vullen;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-253"><publicatiejaar>2019</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum><dossierref dossier="34534">34534</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-254"><publicatiejaar>2019</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-09-01">01-09-2019</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk1" stam-id="15118933" versie-id="25917582" id="C36929741" label-id="15066944" inwerking="2019-09-01" label="Hoofdstuk 1" bron="Stb.2019-253" effect="nieuwe-regeling" ondertekening_bron="2019-07-02" publicatie_bron="2019-07-10" publicatie_iwt="2019-07-10" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">1</nr>
+    <titel status="officieel">Algemene bepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1" stam-id="15118913" versie-id="29535352" id="C42223921" label-id="15066924" inwerking="2023-07-22" label="Artikel 1" bron="Stb.2023-271" effect="wijziging" ondertekening_bron="2023-07-10" publicatie_bron="2023-07-21" publicatie_iwt="2023-07-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>In deze wet wordt verstaan onder:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_1">
+      <al>
+        <nadruk type="cur">aandeel hernieuwbare energie:</nadruk> aandeel hernieuwbare energie, berekend in overeenstemming met de artikelen 5 tot en met 11 van de Richtlijn hernieuwbare energie, in het brutoeindverbruik van energie;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_2">
+      <al>
+        <nadruk type="cur">broeikasgassen:</nadruk> gassen genoemd in bijlage V, deel 2, van de Verordening governance van de Energie-unie;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_3">
+      <al>
+        <nadruk type="cur">hernieuwbare energie:</nadruk> energie uit hernieuwbare bronnen als bedoeld in artikel 2, onderdeel a, van de Richtlijn hernieuwbare energie;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_4">
+      <al>
+        <nadruk type="cur">CO2-neutrale elektriciteitsproductie:</nadruk> elektriciteitsproductie waarbij geen broeikasgassen vrijkomen in de atmosfeer of waarbij biomassa als brandstof gebruikt wordt;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_5">
+      <al>
+        <nadruk type="cur">Richtlijn hernieuwbare energie:</nadruk>
+        <extref doc="32009L0028" label="richtlijn" reeks="Celex">Richtlijn 2009/28/EG</extref> van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van <extref doc="32001L0077" label="richtlijn" reeks="Celex">Richtlijn 2001/77/EG</extref> en <extref doc="32003L0030" label="richtlijn" reeks="Celex">Richtlijn 2003/30/EG</extref> (PbEU 2009, L 140)</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_6">
+      <al>
+        <nadruk type="cur">Onze Minister:</nadruk> Onze Minister van Economische Zaken en Klimaat;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_7">
+      <al>
+        <nadruk type="cur">verordening governance van de energie-unie:</nadruk>
+        <extref doc="31999R2018" label="verordening" reeks="Celex">Verordening (EU) 2018/1999</extref> van het Europees Parlement en de Raad van 11 december 2018 inzake de governance van de energie-unie en van de klimaatactie, tot wijziging van <extref doc="31994L0022" label="richtlijn" reeks="Celex">Richtlijn 94/22/EG</extref>, <extref doc="31998L0070" label="richtlijn" reeks="Celex">Richtlijn 98/70/EG</extref>, <extref doc="32009L0031" label="richtlijn" reeks="Celex">Richtlijn 2009/31/EG</extref>, Verordening (EG) nr. 663/2009, Verordening (EG) nr. 715/2009, <extref doc="32009L0073" label="richtlijn" reeks="Celex">Richtlijn 2009/73/EG</extref>, <extref doc="32009L0119" label="richtlijn" reeks="Celex">Richtlijn 2009/119/EG</extref> van de Raad, <extref doc="32010L0031" label="richtlijn" reeks="Celex">Richtlijn 2010/31</extref>/EU, <extref doc="32012L0027" label="richtlijn" reeks="Celex">Richtlijn 2012/27</extref>/EU, <extref doc="32013L0030" label="richtlijn" reeks="Celex">Richtlijn 2013/30</extref>/EU en <extref doc="32015L0652" label="richtlijn" reeks="Celex">Richtlijn (EU) 2015/652</extref> van de Raad, en tot intrekking van Verordening (EU) nr. 525/2013 (PbEU 2018, L328);</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Onderdeel_8">
+      <al>
+        <nadruk type="cur">Europese klimaatwet:</nadruk>
+        <extref doc="33019R2021" label="verordening" reeks="Celex">Verordening (EU) 2021/1119</extref> van het Europees Parlement en de Raad van 30 juni 2021 tot vaststelling van een kader voor de verwezenlijking van klimaatneutraliteit, en tot wijziging van <extref doc="32009R0401" label="verordening" reeks="Celex">Verordening (EG) nr. 401/2009</extref> en <extref doc="31999R2018" label="verordening" reeks="Celex">Verordening (EU) 2018/1999</extref> (Pb EU 2021, L 243).</al>
+    </li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-271"><publicatiejaar>2023</publicatiejaar><publicatienr>271</publicatienr><uitgiftedatum isodatum="2023-07-21">21-07-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-07-10">10-07-2023</ondertekeningsdatum><dossierref dossier="36169">36169</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-271"><publicatiejaar>2023</publicatiejaar><publicatienr>271</publicatienr><uitgiftedatum isodatum="2023-07-21">21-07-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-07-10">10-07-2023</ondertekeningsdatum><dossierref dossier="36169">36169</dossierref></publicatie><inwerkingtreding.datum isodatum="2023-07-22">22-07-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0042394&amp;artikel=1&amp;g=2023-07-22" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0042394&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=1&amp;artikel=1&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0042394&amp;artikel=1"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2" stam-id="15118923" versie-id="29535382" id="C42223951" label-id="15066934" inwerking="2023-07-22" label="Artikel 2" bron="Stb.2023-271" effect="wijziging" ondertekening_bron="2023-07-10" publicatie_bron="2023-07-21" publicatie_iwt="2023-07-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1" label-id="15066934L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Deze wet biedt een kader voor de ontwikkeling van beleid gericht op het onomkeerbaar en stapsgewijs terugdringen van de emissies van broeikasgassen in Nederland teneinde wereldwijde opwarming van de aarde en de verandering van het klimaat te beperken, waarbij Nederland overeenkomstig artikel 2, eerste lid, van de Europese klimaatwet:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de netto-uitstoot van broeikasgassen uiterlijk in 2050 tot nul reduceert, en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=a&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>streeft naar negatieve emissies van broeikasgassen na 2050.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;o=b&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid2" label-id="15066934L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Teneinde deze doelstelling voor 2050 te bereiken streven Onze Ministers die het aangaat naar een reductie van de emissies van broeikasgassen van 55% ten opzichte van 1990 in 2030 en een volledige CO<inf>2</inf>-neutrale elektriciteitsproductie in 2050. Zij treffen daarnaast passende maatregelen opdat Nederland voldoet aan de reductieverplichtingen op grond van artikel 4, eerste lid, van de Europese klimaatwet en de ter uitwerking daarvan vastgestelde bindende EU-rechtshandelingen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=1&amp;artikel=2&amp;lid=2&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid3" label-id="15066934L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Voor de toepassing van deze wet geldt als de emissies van broeikasgassen de emissies binnen Nederland van broeikasgassen afkomstig van sectoren en bronnen en de verwijdering per put die in de nationale broeikasgasinventarissen overeenkomstig artikel 4, eerste lid, onder a, van het Raamverdrag van de Verenigde Naties inzake Klimaatverandering (Trb. 1992, 189) zijn opgenomen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=1&amp;artikel=2&amp;lid=3&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-271"><publicatiejaar>2023</publicatiejaar><publicatienr>271</publicatienr><uitgiftedatum isodatum="2023-07-21">21-07-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-07-10">10-07-2023</ondertekeningsdatum><dossierref dossier="36169">36169</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-271"><publicatiejaar>2023</publicatiejaar><publicatienr>271</publicatienr><uitgiftedatum isodatum="2023-07-21">21-07-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-07-10">10-07-2023</ondertekeningsdatum><dossierref dossier="36169">36169</dossierref></publicatie><inwerkingtreding.datum isodatum="2023-07-22">22-07-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0042394&amp;artikel=2&amp;g=2023-07-22" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0042394&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=1&amp;artikel=2&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0042394&amp;artikel=2"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-253"><publicatiejaar>2019</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum><dossierref dossier="34534">34534</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-254"><publicatiejaar>2019</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-09-01">01-09-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0042394&amp;hoofdstuk=1&amp;g=2023-07-22" onderdeel="hoofdstuk=1" korte-verwijzing="1.0:c:BWBR0042394&amp;hoofdstuk=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=1&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="hoofdstuk=1" korte-verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=1"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk2" stam-id="15118973" versie-id="25917622" id="C36929781" label-id="15066984" inwerking="2019-09-01" label="Hoofdstuk 2" bron="Stb.2019-253" effect="nieuwe-regeling" ondertekening_bron="2019-07-02" publicatie_bron="2019-07-10" publicatie_iwt="2019-07-10" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">2</nr>
+    <titel status="officieel">Klimaatplan</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3" stam-id="15118943" versie-id="25917592" id="C36929751" label-id="15066954" inwerking="2019-09-01" label="Artikel 3" bron="Stb.2019-253" effect="nieuwe-regeling" ondertekening_bron="2019-07-02" publicatie_bron="2019-07-10" publicatie_iwt="2019-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid1" label-id="15066954L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het klimaatplan bevat de hoofdzaken van het door Onze Ministers die het aangaat te voeren klimaatbeleid gericht op het realiseren van de doelstellingen, bedoeld in <intref doc="jci1.3:c:BWBR0042394&amp;hoofdstuk=1&amp;artikel=2&amp;z=2023-07-22&amp;g=2023-07-22" label-id="15066934" verwijzing-id="2952591" bwb-id="BWBR0042394" bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2">artikel 2</intref>, voor de eerstvolgende tien jaren.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=2&amp;artikel=3&amp;lid=1&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2" label-id="15066954L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het klimaatplan bevat tevens:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de maatregelen die worden getroffen zodat de doelstellingen, bedoeld in <intref doc="jci1.3:c:BWBR0042394&amp;hoofdstuk=1&amp;artikel=2&amp;z=2023-07-22&amp;g=2023-07-22" label-id="15066934" verwijzing-id="2952592" bwb-id="BWBR0042394" bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2">artikel 2</intref>, worden bereikt;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=a&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>het verwachte aandeel hernieuwbare energie en de verwachte besparing op het primaire energiegebruik;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=b&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de maatregelen die worden getroffen om het aandeel hernieuwbare energie en de besparing op het primaire energiegebruik te stimuleren;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=c&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>een beschouwing over de meest recente wetenschappelijke inzichten omtrent het beperken van klimaatverandering;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=d&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>een beschouwing van de ontwikkeling in de technologische mogelijkheden om de emissies van broeikasgassen te beperken en de daarmee samenhangende inzet van Onze Ministers op innovatie;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=e&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>een beschouwing van de wereldwijde en Europese ontwikkelingen op het gebied van de beperking van klimaatverandering voor zover deze relevant zijn voor het Nederlandse beleid, en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=f&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>een beschouwing van de gevolgen die het te voeren klimaatbeleid van de regering heeft op de financiële positie van huishoudens, bedrijven en overheden, de werkgelegenheid inclusief scholing en opleiding van werknemers, de ontwikkeling van de economie, het tot stand komen van een eerlijke en betaalbare transitie en voor de betrouwbaarheid van de energievoorziening.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=g&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="o=g"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-253"><publicatiejaar>2019</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum><dossierref dossier="34534">34534</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-254"><publicatiejaar>2019</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-09-01">01-09-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0042394&amp;artikel=3&amp;g=2023-07-22" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0042394&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=2&amp;artikel=3&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0042394&amp;artikel=3"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel4" stam-id="15118953" versie-id="25917602" id="C36929761" label-id="15066964" inwerking="2019-09-01" label="Artikel 4" bron="Stb.2019-253" effect="nieuwe-regeling" ondertekening_bron="2019-07-02" publicatie_bron="2019-07-10" publicatie_iwt="2019-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel4/Lid1" label-id="15066964L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het klimaatplan wordt voor de eerste maal vastgesteld in 2019 en ten minste eens in de vijf jaren opnieuw vastgesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=2&amp;artikel=4&amp;lid=1&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel4/Lid2" label-id="15066964L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Iedere twee jaar na de vaststelling van het klimaatplan wordt over de voortgang van de uitvoering gerapporteerd en, als deze daartoe aanleiding geeft in het licht van de doelstellingen van deze wet, worden maatregelen genomen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=2&amp;artikel=4&amp;lid=2&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel4/Lid3" label-id="15066964L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het eerste klimaatplan heeft betrekking op de periode van 2021 tot en met 2030.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=2&amp;artikel=4&amp;lid=3&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-253"><publicatiejaar>2019</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum><dossierref dossier="34534">34534</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-254"><publicatiejaar>2019</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-09-01">01-09-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0042394&amp;artikel=4&amp;g=2023-07-22" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0042394&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=2&amp;artikel=4&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0042394&amp;artikel=4"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5" stam-id="15118963" versie-id="25917612" id="C36929771" label-id="15066974" inwerking="2019-09-01" label="Artikel 5" bron="Stb.2019-253" effect="nieuwe-regeling" ondertekening_bron="2019-07-02" publicatie_bron="2019-07-10" publicatie_iwt="2019-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5/Lid1" label-id="15066974L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister stelt in overeenstemming met het gevoelen van de ministerraad en nadat het is overgelegd aan beide kamers der Staten-Generaal, het klimaatplan vast.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=2&amp;artikel=5&amp;lid=1&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5/Lid2" label-id="15066974L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Op de voorbereiding van het klimaatplan is <extref doc="jci1.3:c:BWBR0005537&amp;afdeling=3.4" label-id="2814354" verwijzing-id="2952590" bwb-id="BWBR0005537">afdeling 3.4 van de Algemene wet bestuursrecht</extref> van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=2&amp;artikel=5&amp;lid=2&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5/Lid3" label-id="15066974L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De Afdeling advisering van de Raad van State wordt over het klimaatplan gehoord.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=2&amp;artikel=5&amp;lid=3&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5/Lid4" label-id="15066974L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad en gehoord beide kamers der Staten-Generaal, het klimaatplan wijzigen indien dit naar zijn oordeel noodzakelijk is om de doelstellingen, bedoeld in <intref doc="jci1.3:c:BWBR0042394&amp;hoofdstuk=1&amp;artikel=2&amp;z=2023-07-22&amp;g=2023-07-22" label-id="15066934" verwijzing-id="2952593" bwb-id="BWBR0042394" bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2">artikel 2</intref>, te realiseren. Het tweede en derde lid zijn van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=2&amp;artikel=5&amp;lid=4&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-253"><publicatiejaar>2019</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum><dossierref dossier="34534">34534</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-254"><publicatiejaar>2019</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-09-01">01-09-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0042394&amp;artikel=5&amp;g=2023-07-22" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0042394&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=2&amp;artikel=5&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0042394&amp;artikel=5"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-253"><publicatiejaar>2019</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum><dossierref dossier="34534">34534</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-254"><publicatiejaar>2019</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-09-01">01-09-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0042394&amp;hoofdstuk=2&amp;g=2023-07-22" onderdeel="hoofdstuk=2" korte-verwijzing="1.0:c:BWBR0042394&amp;hoofdstuk=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=2&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="hoofdstuk=2" korte-verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=2"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk3" stam-id="15119003" versie-id="25917652" id="C36929811" label-id="15067014" inwerking="2019-09-01" label="Hoofdstuk 3" bron="Stb.2019-253" effect="nieuwe-regeling" ondertekening_bron="2019-07-02" publicatie_bron="2019-07-10" publicatie_iwt="2019-07-10" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">3</nr>
+    <titel status="officieel">Verantwoording</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk3/Artikel6" stam-id="15118983" versie-id="25917632" id="C36929791" label-id="15066994" inwerking="2019-09-01" label="Artikel 6" bron="Stb.2019-253" effect="nieuwe-regeling" ondertekening_bron="2019-07-02" publicatie_bron="2019-07-10" publicatie_iwt="2019-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel6/Lid1" label-id="15066994L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het Planbureau voor de Leefomgeving brengt eenmaal per jaar aan Onze Minister een klimaat- en energieverkenning uit.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=3&amp;artikel=6&amp;lid=1&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel6/Lid2" label-id="15066994L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De klimaat- en energieverkenning is een wetenschappelijke rapport over de gevolgen van het gevoerde klimaatbeleid in het voorafgaande kalenderjaar.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=3&amp;artikel=6&amp;lid=2&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel6/Lid3" label-id="15066994L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De klimaat- en energieverkenning bevat in ieder geval voor het voorafgaande kalenderjaar:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel6/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de emissies van broeikasgassen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=3&amp;artikel=6&amp;lid=3&amp;o=a&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel6/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de emissies van broeikasgassen per sector, en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=3&amp;artikel=6&amp;lid=3&amp;o=b&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel6/Lid3/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de ontwikkelingen en maatregelen die invloed hebben gehad op de emissies van broeikasgassen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=3&amp;artikel=6&amp;lid=3&amp;o=c&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=3&amp;artikel=6&amp;lid=3&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-253"><publicatiejaar>2019</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum><dossierref dossier="34534">34534</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-254"><publicatiejaar>2019</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-09-01">01-09-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0042394&amp;artikel=6&amp;g=2023-07-22" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0042394&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=3&amp;artikel=6&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0042394&amp;artikel=6"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk3/Artikel7" stam-id="15118993" versie-id="25917642" id="C36929801" label-id="15067004" inwerking="2020-01-01" label="Artikel 7" bron="Stb.2019-253" effect="nieuwe-regeling" ondertekening_bron="2019-07-02" publicatie_bron="2019-07-10" publicatie_iwt="2019-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel7/Lid1" label-id="15067004L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister zendt de klimaat- en energieverkenning op de vierde donderdag van oktober aan beide kamers der Staten-Generaal, tenzij deze datum valt in een periode waarin de Tweede Kamer der Staten-Generaal met reces is of wanneer deze datum een nationale feestdag is. In dat geval zendt Onze Minister de klimaat- en energieverkenning, na overleg met de voorzitters van beide kamers der Staten-Generaal, uiterlijk op 1 november van hetzelfde jaar aan beide kamers der Staten-Generaal.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=3&amp;artikel=7&amp;lid=1&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel7/Lid2" label-id="15067004L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister zendt gelijktijdig met de verzending van de klimaat- en energieverkenning de klimaatnota aan beide kamers der Staten-Generaal.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=3&amp;artikel=7&amp;lid=2&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel7/Lid3" label-id="15067004L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De klimaatnota bevat:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel7/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het totaalbeeld van de realisatie van het klimaatbeleid zoals dit is opgenomen in het klimaatplan;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=3&amp;artikel=7&amp;lid=3&amp;o=a&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel7/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>een weergave per Ministerie van de voornaamste aspecten van de realisatie van het klimaatbeleid;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=3&amp;artikel=7&amp;lid=3&amp;o=b&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel7/Lid3/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>een weergave van de gevolgen voor de departementale begrotingen van het klimaatbeleid;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=3&amp;artikel=7&amp;lid=3&amp;o=c&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel7/Lid3/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de financiële gevolgen voor huishoudens, ondernemingen en overheden van significante ontwikkelingen in het klimaatbeleid die afwijken van het klimaatplan;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=3&amp;artikel=7&amp;lid=3&amp;o=d&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel7/Lid3/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>de wijze waarop de klimaat- en energieverkenning wordt betrokken bij de eerstvolgende herziening of de evaluatie van de voortgang van het klimaatplan, en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=3&amp;artikel=7&amp;lid=3&amp;o=e&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel7/Lid3/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>de rapportage over de voortgang van de uitvoering van het klimaatplan, bedoeld in <intref doc="jci1.3:c:BWBR0042394&amp;hoofdstuk=2&amp;artikel=4&amp;z=2023-07-22&amp;g=2023-07-22" label-id="15066964" verwijzing-id="2952594" bwb-id="BWBR0042394" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel4">artikel 4, tweede lid</intref>, als deze is uitgevoerd.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=3&amp;artikel=7&amp;lid=3&amp;o=f&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="o=f"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=3&amp;artikel=7&amp;lid=3&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel7/Lid4" label-id="15067004L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De Afdeling advisering van de Raad van State wordt over de klimaatnota gehoord.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=3&amp;artikel=7&amp;lid=4&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-253"><publicatiejaar>2019</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum><dossierref dossier="34534">34534</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-254"><publicatiejaar>2019</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0042394&amp;artikel=7&amp;g=2023-07-22" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0042394&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=3&amp;artikel=7&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0042394&amp;artikel=7"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-253"><publicatiejaar>2019</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum><dossierref dossier="34534">34534</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-254"><publicatiejaar>2019</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-09-01">01-09-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0042394&amp;hoofdstuk=3&amp;g=2023-07-22" onderdeel="hoofdstuk=3" korte-verwijzing="1.0:c:BWBR0042394&amp;hoofdstuk=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=3&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="hoofdstuk=3" korte-verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=3"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk4" stam-id="15119023" versie-id="25917672" id="C36929831" label-id="15067034" inwerking="2019-09-01" label="Hoofdstuk 4" bron="Stb.2019-253" effect="nieuwe-regeling" ondertekening_bron="2019-07-02" publicatie_bron="2019-07-10" publicatie_iwt="2019-07-10" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">4</nr>
+    <titel status="officieel">Participatie</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Artikel8" stam-id="15119013" versie-id="25917662" id="C36929821" label-id="15067024" inwerking="2019-09-01" label="Artikel 8" bron="Stb.2019-253" effect="nieuwe-regeling" ondertekening_bron="2019-07-02" publicatie_bron="2019-07-10" publicatie_iwt="2019-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel8/Lid1" label-id="15067024L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Ten behoeve van de uitvoering van deze wet en het behalen van de doelstellingen, bedoeld in <intref doc="jci1.3:c:BWBR0042394&amp;hoofdstuk=1&amp;artikel=2&amp;z=2023-07-22&amp;g=2023-07-22" label-id="15066934" verwijzing-id="2952595" bwb-id="BWBR0042394" bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2">artikel 2</intref>, voert Onze Minister overleg met bestuursorganen van provincies, waterschappen, gemeenten en overige relevante partijen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=4&amp;artikel=8&amp;lid=1&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel8/Lid2" label-id="15067024L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>In het overleg worden in ieder geval de voortgang van de uitvoering van het vigerende klimaatplan en voorstellen voor maatregelen voor het in voorbereiding zijnde klimaatplan besproken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=4&amp;artikel=8&amp;lid=2&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel8/Lid3" label-id="15067024L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Onze Minister bevordert door middel van het overleg het sluiten van overeenkomsten met partijen, gericht op het bereiken van de doelstellingen, bedoeld in <intref doc="jci1.3:c:BWBR0042394&amp;hoofdstuk=1&amp;artikel=2&amp;z=2023-07-22&amp;g=2023-07-22" label-id="15066934" verwijzing-id="2952596" bwb-id="BWBR0042394" bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2">artikel 2</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=4&amp;artikel=8&amp;lid=3&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-253"><publicatiejaar>2019</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum><dossierref dossier="34534">34534</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-254"><publicatiejaar>2019</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-09-01">01-09-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0042394&amp;artikel=8&amp;g=2023-07-22" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0042394&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=4&amp;artikel=8&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0042394&amp;artikel=8"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-253"><publicatiejaar>2019</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum><dossierref dossier="34534">34534</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-254"><publicatiejaar>2019</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-09-01">01-09-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0042394&amp;hoofdstuk=4&amp;g=2023-07-22" onderdeel="hoofdstuk=4" korte-verwijzing="1.0:c:BWBR0042394&amp;hoofdstuk=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=4&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="hoofdstuk=4" korte-verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=4"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk5" stam-id="15119053" versie-id="25917702" id="C36929861" label-id="15067064" inwerking="2019-09-01" label="Hoofdstuk 5" bron="Stb.2019-253" effect="nieuwe-regeling" ondertekening_bron="2019-07-02" publicatie_bron="2019-07-10" publicatie_iwt="2019-07-10" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">5</nr>
+    <titel status="officieel">Slotbepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel9" stam-id="15119033" versie-id="25917682" id="C36929841" label-id="15067044" inwerking="2019-09-01" label="Artikel 9" bron="Stb.2019-253" effect="nieuwe-regeling" ondertekening_bron="2019-07-02" publicatie_bron="2019-07-10" publicatie_iwt="2019-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-253"><publicatiejaar>2019</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum><dossierref dossier="34534">34534</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-254"><publicatiejaar>2019</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-09-01">01-09-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0042394&amp;artikel=9&amp;g=2023-07-22" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0042394&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=5&amp;artikel=9&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0042394&amp;artikel=9"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk5/Artikel10" stam-id="15119043" versie-id="25917692" id="C36929851" label-id="15067054" inwerking="2019-09-01" label="Artikel 10" bron="Stb.2019-253" effect="nieuwe-regeling" ondertekening_bron="2019-07-02" publicatie_bron="2019-07-10" publicatie_iwt="2019-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Klimaatwet.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-253"><publicatiejaar>2019</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum><dossierref dossier="34534">34534</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-254"><publicatiejaar>2019</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-09-01">01-09-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0042394&amp;artikel=10&amp;g=2023-07-22" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0042394&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=5&amp;artikel=10&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0042394&amp;artikel=10"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-253"><publicatiejaar>2019</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum><dossierref dossier="34534">34534</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-254"><publicatiejaar>2019</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-09-01">01-09-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0042394&amp;hoofdstuk=5&amp;g=2023-07-22" onderdeel="hoofdstuk=5" korte-verwijzing="1.0:c:BWBR0042394&amp;hoofdstuk=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=5&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="hoofdstuk=5" korte-verwijzing="jci1.3:c:BWBR0042394&amp;hoofdstuk=5"/></jcis></meta-data></hoofdstuk>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="15119063" versie-id="25917712" id="C36929871" label-id="15067074" inwerking="2019-09-01" bron="Stb.2019-253" effect="nieuwe-regeling" ondertekening_bron="2019-07-02" publicatie_bron="2019-07-10" publicatie_iwt="2019-07-10" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>’s-Gravenhage</plaats>
+      <datum isodatum="2019-07-02">2 juli 2019</datum>
+    </dagtekening>
+    <koning>Willem-Alexander</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Economische Zaken en Klimaat,</functie>
+    <naam>
+      <voornaam>E.D.</voornaam>
+      <achternaam>Wiebes</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2019-07-10">de <nadruk type="cur">tiende</nadruk> juli 2019</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie en Veiligheid,</functie>
+      <naam>
+        <voornaam>F.B.J.</voornaam>
+        <achternaam>Grapperhaus</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-253"><publicatiejaar>2019</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum><dossierref dossier="34534">34534</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-254"><publicatiejaar>2019</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-09-01">01-09-2019</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-253"><publicatiejaar>2019</publicatiejaar><publicatienr>253</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum><dossierref dossier="34534">34534</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2019-254"><publicatiejaar>2019</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2019-07-10">10-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-02">02-07-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-09-01">01-09-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0042394&amp;g=2023-07-22" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0042394"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0042394&amp;z=2023-07-22&amp;g=2023-07-22" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0042394"/></jcis></meta-data></wetgeving></toestand>

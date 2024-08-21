@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0016941/2006-12-20/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0016941" inwerkingtreding="2006-12-20"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving soort="wet" stam-id="5954723" versie-id="10545452" id="C14665511" label-id="5944374" inwerkingtredingsdatum="2004-10-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="5954753" versie-id="10545332" id="C14665391" label-id="5944254" inwerking="2004-10-01" bron="Stb.2004-323" effect="nieuwe-regeling" ondertekening_bron="2004-06-30" publicatie_bron="2004-07-13" publicatie_iwt="2004-09-28" status="goed">Wet van 30 juni 2004 tot wijziging van de Arbeidstijdenwet in verband met de invoering van bestuursrechtelijke handhaving en de daarmee samenhangende bepalingen (Wet bestuurlijke boete Arbeidstijdenwet)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-323"><publicatiejaar>2004</publicatiejaar><publicatienr>323</publicatienr><uitgiftedatum isodatum="2004-07-13">13-07-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-06-30">30-06-2004</ondertekeningsdatum><dossierref dossier="29000">29000</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-478"><publicatiejaar>2004</publicatiejaar><publicatienr>478</publicatienr><uitgiftedatum isodatum="2004-09-28">28-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-07">07-09-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2004-10-01">01-10-2004</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="5954763" versie-id="10545342" id="C14665401" label-id="5944264" inwerking="2004-10-01" bron="Stb.2004-323" effect="nieuwe-regeling" ondertekening_bron="2004-06-30" publicatie_bron="2004-07-13" publicatie_iwt="2004-09-28">Wet bestuurlijke boete Arbeidstijdenwet<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-323"><publicatiejaar>2004</publicatiejaar><publicatienr>323</publicatienr><uitgiftedatum isodatum="2004-07-13">13-07-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-06-30">30-06-2004</ondertekeningsdatum><dossierref dossier="29000">29000</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-478"><publicatiejaar>2004</publicatiejaar><publicatienr>478</publicatienr><uitgiftedatum isodatum="2004-09-28">28-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-07">07-09-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2004-10-01">01-10-2004</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="5954773" versie-id="10545352" id="C14665411" label-id="5944274" inwerking="2004-10-01" bron="Stb.2004-323" effect="nieuwe-regeling" ondertekening_bron="2004-06-30" publicatie_bron="2004-07-13" publicatie_iwt="2004-09-28" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging hebben genomen, dat het omwille van een doelmatige handhaving van de <extref doc="jci1.3:c:BWBR0007671" verwijzing-id="1855713" bwb-id="BWBR0007671" label-id="2583414">Arbeidstijdenwet</extref> wenselijk is te komen tot de invoering van bestuursrechtelijke handhaving;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-323"><publicatiejaar>2004</publicatiejaar><publicatienr>323</publicatienr><uitgiftedatum isodatum="2004-07-13">13-07-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-06-30">30-06-2004</ondertekeningsdatum><dossierref dossier="29000">29000</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-478"><publicatiejaar>2004</publicatiejaar><publicatienr>478</publicatienr><uitgiftedatum isodatum="2004-09-28">28-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-07">07-09-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2004-10-01">01-10-2004</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/ArtikelI" stam-id="5954783" versie-id="11888992" id="C15985321" label-id="5944284" inwerking="2005-06-01" label="Artikel I" bron="Stb.2004-323" effect="wijziging" ondertekening_bron="2004-06-30" publicatie_bron="2004-07-13" publicatie_iwt="2005-05-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>I</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Arbeidstijdenwet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2004-323"><publicatiejaar>2004</publicatiejaar><publicatienr>323</publicatienr><uitgiftedatum isodatum="2004-07-13">13-07-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-06-30">30-06-2004</ondertekeningsdatum><dossierref dossier="29000">29000</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-256"><publicatiejaar>2005</publicatiejaar><publicatienr>256</publicatienr><uitgiftedatum isodatum="2005-05-24">24-05-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-05-04">04-05-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-06-01">01-06-2005</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Onderdeel B. Onderdeel D, ten aanzien van artikel 10:1, voor zover het de
+    in     artikel 5:12, tweede lid van de Arbeidstijdenwet,
+    onderscheiden     categorieën van arbeid     betreft, alsmede arbeid
+    in bedrijven of     inrichtingen die rechtstreeks     betrekking
+    heeft op arbeid     verricht in of op motorrijtuigen als     bedoeld
+    in artikel 5:12,     tweede lid, onderdeel a, van de Arbeidstijdenwet. Onderdeel D, de artikelen 10:14 tot en met 10:18. Onderdeel E voor zover het de     in     artikel 5:12, tweede lid
+    van de Arbeidstijdenwet,     onderscheiden     categorieën van
+    arbeid     betreft, alsmede arbeid     in bedrijven of
+    inrichtingen die rechtstreeks     betrekking     heeft op arbeid
+    verricht in of op motorrijtuigen als     bedoeld     in artikel
+    5:12,     tweede lid, onderdeel a, van de Arbeidstijdenwet.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0016941&amp;artikel=I&amp;g=2006-12-20" onderdeel="artikel=I" korte-verwijzing="1.0:c:BWBR0016941&amp;artikel=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0016941&amp;artikel=I&amp;z=2006-12-20&amp;g=2006-12-20" onderdeel="artikel=I" korte-verwijzing="jci1.3:c:BWBR0016941&amp;artikel=I"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelII" stam-id="5954793" versie-id="10545372" id="C15998561" label-id="5944294" inwerking="2004-10-01" label="Artikel II" bron="Stb.2004-323" effect="nieuwe-regeling" ondertekening_bron="2004-06-30" publicatie_bron="2004-07-13" publicatie_iwt="2004-09-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>II</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de economische delicten.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-323"><publicatiejaar>2004</publicatiejaar><publicatienr>323</publicatienr><uitgiftedatum isodatum="2004-07-13">13-07-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-06-30">30-06-2004</ondertekeningsdatum><dossierref dossier="29000">29000</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-488"><publicatiejaar>2004</publicatiejaar><publicatienr>488</publicatienr><uitgiftedatum isodatum="2004-09-30">30-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-21">21-09-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2004-10-01">01-10-2004</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking op 1     oktober 2004, met uitzondering van  de
+    in artikel 5:12, tweede     lid,     van de Arbeidstijdenwet
+    onderscheiden categorieën van arbeid,  alsmede arbeid in
+    bedrijven of     inrichtingen die rechtstreeks betrekking heeft op
+    arbeid verricht in     of op motorrijtuigen als bedoeld in artikel
+    5:12, tweede lid,     onderdeel a, van de Arbeidstijdenwet  (Stb. 2004/488). Treedt in werking op 1 juni 2005, voor zover het de in artikel
+    5:12, tweede lid,     van de Arbeidstijdenwet onderscheiden
+    categorieën van arbeid     betreft,     alsmede arbeid in bedrijven
+    of inrichtingen die     rechtstreeks     betrekking heeft op arbeid
+    verricht in of op     motorrijtuigen als     bedoeld in artikel
+    5:12, tweede lid,     onderdeel a van de     Arbeidstijdenwet  (Stb. 2005/256).</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0016941&amp;artikel=II&amp;g=2006-12-20" onderdeel="artikel=II" korte-verwijzing="1.0:c:BWBR0016941&amp;artikel=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0016941&amp;artikel=II&amp;z=2006-12-20&amp;g=2006-12-20" onderdeel="artikel=II" korte-verwijzing="jci1.3:c:BWBR0016941&amp;artikel=II"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIII" stam-id="5954803" versie-id="10545382" id="C14687771" label-id="5944304" inwerking="2004-10-01" label="Artikel III" bron="Stb.2004-323" effect="nieuwe-regeling" ondertekening_bron="2004-06-30" publicatie_bron="2004-07-13" publicatie_iwt="2004-09-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>III</nr>
+  </kop>
+  <al>Onze Minister zendt binnen 3 jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-323"><publicatiejaar>2004</publicatiejaar><publicatienr>323</publicatienr><uitgiftedatum isodatum="2004-07-13">13-07-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-06-30">30-06-2004</ondertekeningsdatum><dossierref dossier="29000">29000</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-488"><publicatiejaar>2004</publicatiejaar><publicatienr>488</publicatienr><uitgiftedatum isodatum="2004-09-30">30-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-21">21-09-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2004-10-01">01-10-2004</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0016941&amp;artikel=III&amp;g=2006-12-20" onderdeel="artikel=III" korte-verwijzing="1.0:c:BWBR0016941&amp;artikel=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0016941&amp;artikel=III&amp;z=2006-12-20&amp;g=2006-12-20" onderdeel="artikel=III" korte-verwijzing="jci1.3:c:BWBR0016941&amp;artikel=III"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIV" stam-id="5954813" versie-id="10545392" id="C14687781" label-id="5944314" inwerking="2004-10-01" label="Artikel IV" bron="Stb.2004-323" effect="nieuwe-regeling" ondertekening_bron="2004-06-30" publicatie_bron="2004-07-13" publicatie_iwt="2004-09-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>IV</nr>
+  </kop>
+  <al>De straffen gesteld op de bij de <extref doc="jci1.3:c:BWBR0007671" verwijzing-id="1855708" bwb-id="BWBR0007671" label-id="2583414">Arbeidstijdenwet</extref> juncto <extref doc="jci1.3:c:BWBR0002063&amp;artikel=1" verwijzing-id="1855709" bwb-id="BWBR0002063" label-id="2625264">artikel 1, onder 4°, van de Wet op de economische delicten</extref> strafbaar gestelde feiten waarvoor ingevolge deze wet een bestuurlijke boete kan worden opgelegd en die begaan zijn voor de dag van inwerkingtreding van deze wet of de desbetreffende onderdelen of artikelen daarvan, blijven van toepassing.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-323"><publicatiejaar>2004</publicatiejaar><publicatienr>323</publicatienr><uitgiftedatum isodatum="2004-07-13">13-07-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-06-30">30-06-2004</ondertekeningsdatum><dossierref dossier="29000">29000</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-488"><publicatiejaar>2004</publicatiejaar><publicatienr>488</publicatienr><uitgiftedatum isodatum="2004-09-30">30-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-21">21-09-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2004-10-01">01-10-2004</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0016941&amp;artikel=IV&amp;g=2006-12-20" onderdeel="artikel=IV" korte-verwijzing="1.0:c:BWBR0016941&amp;artikel=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0016941&amp;artikel=IV&amp;z=2006-12-20&amp;g=2006-12-20" onderdeel="artikel=IV" korte-verwijzing="jci1.3:c:BWBR0016941&amp;artikel=IV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelV" stam-id="5954823" versie-id="13903772" id="C18874561" label-id="5944324" inwerking="2006-12-20" label="Artikel V" bron="Stb.2006-647" effect="vervallen" ondertekening_bron="2006-11-20" publicatie_bron="2006-12-19" publicatie_iwt="2006-12-19" status="vervallen">
+  <kop>
+    <label>Artikel V</label>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2006-647"><publicatiejaar>2006</publicatiejaar><publicatienr>647</publicatienr><uitgiftedatum isodatum="2006-12-19">19-12-2006</uitgiftedatum><ondertekeningsdatum isodatum="2006-11-20">20-11-2006</ondertekeningsdatum><dossierref dossier="30614">30614</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2006-648"><publicatiejaar>2006</publicatiejaar><publicatienr>648</publicatienr><uitgiftedatum isodatum="2006-12-19">19-12-2006</uitgiftedatum><ondertekeningsdatum isodatum="2006-12-06">06-12-2006</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2006-12-20">20-12-2006</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVI" stam-id="5954833" versie-id="10545412" id="C14665471" label-id="5944334" inwerking="2004-10-01" label="Artikel VI" bron="Stb.2004-323" effect="nieuwe-regeling" ondertekening_bron="2004-06-30" publicatie_bron="2004-07-13" publicatie_iwt="2004-09-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>VI</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Arbeidsomstandighedenwet 1998.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-323"><publicatiejaar>2004</publicatiejaar><publicatienr>323</publicatienr><uitgiftedatum isodatum="2004-07-13">13-07-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-06-30">30-06-2004</ondertekeningsdatum><dossierref dossier="29000">29000</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-478"><publicatiejaar>2004</publicatiejaar><publicatienr>478</publicatienr><uitgiftedatum isodatum="2004-09-28">28-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-07">07-09-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2004-10-01">01-10-2004</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0016941&amp;artikel=VI&amp;g=2006-12-20" onderdeel="artikel=VI" korte-verwijzing="1.0:c:BWBR0016941&amp;artikel=VI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0016941&amp;artikel=VI&amp;z=2006-12-20&amp;g=2006-12-20" onderdeel="artikel=VI" korte-verwijzing="jci1.3:c:BWBR0016941&amp;artikel=VI"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVII" stam-id="5954843" versie-id="10545422" id="C14687801" label-id="5944344" inwerking="2004-10-01" label="Artikel VII" bron="Stb.2004-323" effect="nieuwe-regeling" ondertekening_bron="2004-06-30" publicatie_bron="2004-07-13" publicatie_iwt="2004-09-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>VII</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-323"><publicatiejaar>2004</publicatiejaar><publicatienr>323</publicatienr><uitgiftedatum isodatum="2004-07-13">13-07-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-06-30">30-06-2004</ondertekeningsdatum><dossierref dossier="29000">29000</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-488"><publicatiejaar>2004</publicatiejaar><publicatienr>488</publicatienr><uitgiftedatum isodatum="2004-09-30">30-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-21">21-09-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2004-10-01">01-10-2004</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0016941&amp;artikel=VII&amp;g=2006-12-20" onderdeel="artikel=VII" korte-verwijzing="1.0:c:BWBR0016941&amp;artikel=VII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0016941&amp;artikel=VII&amp;z=2006-12-20&amp;g=2006-12-20" onderdeel="artikel=VII" korte-verwijzing="jci1.3:c:BWBR0016941&amp;artikel=VII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVIII" stam-id="5954853" versie-id="10545432" id="C14687811" label-id="5944354" inwerking="2004-10-01" label="Artikel VIII" bron="Stb.2004-323" effect="nieuwe-regeling" ondertekening_bron="2004-06-30" publicatie_bron="2004-07-13" publicatie_iwt="2004-09-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>VIII</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet bestuurlijke boete Arbeidstijdenwet.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-323"><publicatiejaar>2004</publicatiejaar><publicatienr>323</publicatienr><uitgiftedatum isodatum="2004-07-13">13-07-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-06-30">30-06-2004</ondertekeningsdatum><dossierref dossier="29000">29000</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-488"><publicatiejaar>2004</publicatiejaar><publicatienr>488</publicatienr><uitgiftedatum isodatum="2004-09-30">30-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-21">21-09-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2004-10-01">01-10-2004</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0016941&amp;artikel=VIII&amp;g=2006-12-20" onderdeel="artikel=VIII" korte-verwijzing="1.0:c:BWBR0016941&amp;artikel=VIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0016941&amp;artikel=VIII&amp;z=2006-12-20&amp;g=2006-12-20" onderdeel="artikel=VIII" korte-verwijzing="jci1.3:c:BWBR0016941&amp;artikel=VIII"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="5954863" versie-id="10545442" id="C14665501" label-id="5944364" inwerking="2004-10-01" bron="Stb.2004-323" effect="nieuwe-regeling" ondertekening_bron="2004-06-30" publicatie_bron="2004-07-13" publicatie_iwt="2004-09-28" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="30 juni 2004">30 juni 2004</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Sociale Zaken en Werkgelegenheid ,</functie>
+    <naam>
+      <voornaam>A. J. de </voornaam>
+      <achternaam>Geus</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2004-07-13">de <nadruk type="cur">dertiende</nadruk> juli 2004</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie ,</functie>
+      <naam>
+        <voornaam>J. P. H.</voornaam>
+        <achternaam>Donner</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-323"><publicatiejaar>2004</publicatiejaar><publicatienr>323</publicatienr><uitgiftedatum isodatum="2004-07-13">13-07-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-06-30">30-06-2004</ondertekeningsdatum><dossierref dossier="29000">29000</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-478"><publicatiejaar>2004</publicatiejaar><publicatienr>478</publicatienr><uitgiftedatum isodatum="2004-09-28">28-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-07">07-09-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2004-10-01">01-10-2004</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-323"><publicatiejaar>2004</publicatiejaar><publicatienr>323</publicatienr><uitgiftedatum isodatum="2004-07-13">13-07-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-06-30">30-06-2004</ondertekeningsdatum><dossierref dossier="29000">29000</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2004-478"><publicatiejaar>2004</publicatiejaar><publicatienr>478</publicatienr><uitgiftedatum isodatum="2004-09-28">28-09-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-09-07">07-09-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2004-10-01">01-10-2004</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0016941&amp;g=2006-12-20" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0016941"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0016941&amp;z=2006-12-20&amp;g=2006-12-20" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0016941"/></jcis></meta-data></wetgeving></toestand>

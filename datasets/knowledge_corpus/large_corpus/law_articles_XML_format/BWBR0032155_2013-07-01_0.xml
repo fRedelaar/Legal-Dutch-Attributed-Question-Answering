@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0032155/2013-07-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0032155" inwerkingtreding="2013-07-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="11890053" versie-id="19744022" id="C27733631" label-id="11862154" inwerkingtredingsdatum="2013-01-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="11890073" versie-id="19743872" id="C27733481" label-id="11862004" inwerking="2013-01-01" bron="Stb.2012-527" effect="nieuwe-regeling" ondertekening_bron="2012-09-27" publicatie_bron="2012-10-31" publicatie_iwt="2012-10-31" status="goed">Wet van 27 september 2012 tot introductie van de bestuurlijke boete bij niet naleving van bijzondere meldingsplichten bij rijkssubsidies (Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-527"><publicatiejaar>2012</publicatiejaar><publicatienr>527</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-27">27-09-2012</ondertekeningsdatum><dossierref dossier="32838">32838</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-528"><publicatiejaar>2012</publicatiejaar><publicatienr>528</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-10-25">25-10-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="11890083" versie-id="19743882" id="C27733491" label-id="11862014" inwerking="2013-01-01" bron="Stb.2012-527" effect="nieuwe-regeling" ondertekening_bron="2012-09-27" publicatie_bron="2012-10-31" publicatie_iwt="2012-10-31">Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies <meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-527"><publicatiejaar>2012</publicatiejaar><publicatienr>527</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-27">27-09-2012</ondertekeningsdatum><dossierref dossier="32838">32838</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-528"><publicatiejaar>2012</publicatiejaar><publicatienr>528</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-10-25">25-10-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="11890093" versie-id="19743892" id="C27733501" label-id="11862024" inwerking="2013-01-01" bron="Stb.2012-527" effect="nieuwe-regeling" ondertekening_bron="2012-09-27" publicatie_bron="2012-10-31" publicatie_iwt="2012-10-31" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het met het oog op het tegengaan van mogelijk misbruik wenselijk is te voorzien in de mogelijkheid subsidieontvangers een bestuurlijke boete op te leggen bij niet naleving van aan een subsidie van een minister verbonden bijzondere meldingsplichten;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-527"><publicatiejaar>2012</publicatiejaar><publicatienr>527</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-27">27-09-2012</ondertekeningsdatum><dossierref dossier="32838">32838</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-528"><publicatiejaar>2012</publicatiejaar><publicatienr>528</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-10-25">25-10-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="11890103" versie-id="19743902" id="C27733511" label-id="11862034" inwerking="2013-01-01" label="Artikel 1" bron="Stb.2012-527" effect="nieuwe-regeling" ondertekening_bron="2012-09-27" publicatie_bron="2012-10-31" publicatie_iwt="2012-10-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>Deze wet is van toepassing op door Onze Ministers verstrekte subsidies waarop ingevolge de <extref doc="jci1.3:c:BWBR0005537" verwijzing-id="2522995" bwb-id="BWBR0005537" label-id="2816734">Algemene wet bestuursrecht</extref><extref doc="jci1.3:c:BWBR0005537&amp;titeldeel=4.2" verwijzing-id="2522996" bwb-id="BWBR0005537" label-id="2819924">titel 4.2 van die wet</extref> van toepassing is.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-527"><publicatiejaar>2012</publicatiejaar><publicatienr>527</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-27">27-09-2012</ondertekeningsdatum><dossierref dossier="32838">32838</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-528"><publicatiejaar>2012</publicatiejaar><publicatienr>528</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-10-25">25-10-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032155&amp;artikel=1&amp;g=2013-07-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0032155&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=1&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0032155&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" stam-id="11890113" versie-id="19743912" id="C27733521" label-id="11862044" inwerking="2013-01-01" label="Artikel 2" bron="Stb.2012-527" effect="nieuwe-regeling" ondertekening_bron="2012-09-27" publicatie_bron="2012-10-31" publicatie_iwt="2012-10-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <al>Indien voor een subsidie een datum geldt waarop de activiteiten waarvoor de subsidie is verleend uiterlijk moeten zijn verricht alsmede een datum waarop de subsidie uiterlijk ambtshalve wordt vastgesteld, verbindt Onze Minister die het aangaat aan de subsidiebeschikking de bijzondere meldingsplicht voor de subsidieontvanger om, zodra de eerstgenoemde datum is verstreken zonder dat de activiteiten geheel zijn verricht, daarvan onverwijld een schriftelijke melding te doen bij Onze Minister.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-527"><publicatiejaar>2012</publicatiejaar><publicatienr>527</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-27">27-09-2012</ondertekeningsdatum><dossierref dossier="32838">32838</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-528"><publicatiejaar>2012</publicatiejaar><publicatienr>528</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-10-25">25-10-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032155&amp;artikel=2&amp;g=2013-07-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0032155&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=2&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0032155&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="11890123" versie-id="19743922" id="C27733531" label-id="11862054" inwerking="2013-01-01" label="Artikel 3" bron="Stb.2012-527" effect="nieuwe-regeling" ondertekening_bron="2012-09-27" publicatie_bron="2012-10-31" publicatie_iwt="2012-10-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <al>Indien bij de verlening van een subsidie tevens voorschotten van in totaal per jaar gemiddeld € 200 000 of meer ambtshalve worden verleend, kan Onze Minister die het aangaat aan de subsidie de bijzondere meldingsplicht verbinden om, indien de gemaakte subsidiabele kosten in bij die beschikking te bepalen periodes 75% of minder bedragen van de voor de desbetreffende periode begrote subsidiabele kosten, dit binnen twee maanden na afloop van die periode schriftelijk te melden bij Onze Minister.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-527"><publicatiejaar>2012</publicatiejaar><publicatienr>527</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-27">27-09-2012</ondertekeningsdatum><dossierref dossier="32838">32838</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-528"><publicatiejaar>2012</publicatiejaar><publicatienr>528</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-10-25">25-10-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032155&amp;artikel=3&amp;g=2013-07-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0032155&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=3&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0032155&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" stam-id="11890133" versie-id="19743932" id="C27733541" label-id="11862064" inwerking="2013-01-01" label="Artikel 4" bron="Stb.2012-527" effect="nieuwe-regeling" ondertekening_bron="2012-09-27" publicatie_bron="2012-10-31" publicatie_iwt="2012-10-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="11862064L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien aan een subsidie verplichtingen zijn verbonden die strekken tot het voorkomen van inzet van dwangarbeid en kinderarbeid bij subsidiabele activiteiten in het buitenland, kan Onze Minister die het aangaat aan de subsidie tevens de bijzondere meldingsplicht verbinden om feiten en omstandigheden die duiden op inzet van dwangarbeid of kinderarbeid door één of meer van de bij de subsidiabele activiteiten betrokken partijen die in de beschikking tot verlening van de subsidie zijn aangeduid, binnen een daarbij te bepalen termijn schriftelijk te melden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=4&amp;lid=1&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="11862064L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onder dwangarbeid wordt verstaan gedwongen of verplichte arbeid als bedoeld in artikel 2 van het Verdrag betreffende den gedwongen of verplichten arbeid, 1930.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=4&amp;lid=2&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid3" label-id="11862064L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Onder kinderarbeid wordt in elk geval verstaan elke vorm van arbeid in en buiten dienstverband verricht door personen die de leeftijd van 18 jaar nog niet hebben bereikt en die behoort tot de ergste vormen van kinderarbeid, bedoeld in artikel 3, van het Verdrag betreffende de ergste vormen van kinderarbeid, 1999.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=4&amp;lid=3&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid4" label-id="11862064L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Indien de subsidiabele activiteiten plaatsvinden op het grondgebied van een Staat die partij is bij het Verdrag betreffende de minimumleeftijd, 1973 wordt voorts onder kinderarbeid verstaan: elke vorm van arbeid die krachtens de wetgeving van die Staat ter uitvoering van dat verdrag is verboden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=4&amp;lid=4&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid5" label-id="11862064L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Indien de subsidiabele activiteiten plaatsvinden op het grondgebied van een Staat die geen partij is bij het Verdrag betreffende de minimumleeftijd, 1973 wordt onder kinderarbeid voorts verstaan:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel4/Lid5/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>elke vorm van arbeid in en buiten dienstverband verricht door personen die leerplichtig zijn of die de leeftijd van 15 jaar nog niet hebben bereikt, en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=4&amp;lid=5&amp;o=a&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid5/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>elke vorm van arbeid in en buiten dienstverband verricht door personen die de leeftijd van 18 jaar nog niet hebben bereikt, voor zover die arbeid krachtens de aard van de arbeid of de omstandigheden waaronder deze wordt uitgevoerd de gezondheid, de veiligheid of de zedelijkheid van jeugdige personen in gevaar kan brengen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=4&amp;lid=5&amp;o=b&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=4&amp;lid=5&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid6" label-id="11862064L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>In afwijking van het vijfde lid wordt onder kinderarbeid niet verstaan lichte werkzaamheden als bedoeld in artikel 7, eerste lid, van het Verdrag betreffende de minimumleeftijd, 1973, die gedurende ten hoogste 14 uur per week worden verricht door personen die de leeftijd van 13 jaar hebben bereikt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=4&amp;lid=6&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid7" label-id="11862064L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Indien blijkens de subsidie-aanvraag de omstandigheden waaronder de arbeid wordt verricht van dien aard zijn dat ontwikkeling, scholing, gezondheid, veiligheid noch zedelijkheid van de desbetreffende personen hierdoor naar verwachting wordt geschaad kan Onze Minister die het aangaat in de beschikking tot verlening van de subsidie bepalen dat, in afwijking van het vijfde en het zesde lid, onder kinderarbeid niet wordt verstaan:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel4/Lid7/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>arbeid als bedoeld in het vijfde lid onder a, verricht door personen die nog leerplichtig zijn;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=4&amp;lid=7&amp;o=a&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid7/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>arbeid als bedoeld in het vijfde lid onder a, verricht door personen die de leeftijd van 14 jaar hebben bereikt;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=4&amp;lid=7&amp;o=b&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid7/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>arbeid als bedoeld in het vijfde lid onder b, verricht door personen die de leeftijd van 16 jaar hebben bereikt;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=4&amp;lid=7&amp;o=c&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid7/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>lichte werkzaamheden als bedoeld in het zesde lid, verricht door personen die de leeftijd van 12 jaar hebben bereikt.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=4&amp;lid=7&amp;o=d&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=4&amp;lid=7&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid8" label-id="11862064L8">
+    <lidnr status="officieel">8</lidnr>
+    <al>Onze Minister die het aangaat kan bij toepassing van het zevende lid voorschriften en beperkingen aan de subsidiebeschikking verbinden met het oog op bescherming van de ontwikkeling, scholing, gezondheid, veiligheid en zedelijkheid van de desbetreffende personen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=4&amp;lid=8&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=8"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-527"><publicatiejaar>2012</publicatiejaar><publicatienr>527</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-27">27-09-2012</ondertekeningsdatum><dossierref dossier="32838">32838</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-528"><publicatiejaar>2012</publicatiejaar><publicatienr>528</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-10-25">25-10-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032155&amp;artikel=4&amp;g=2013-07-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0032155&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=4&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0032155&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" stam-id="11890143" versie-id="19743942" id="C27733551" label-id="11862074" inwerking="2013-01-01" label="Artikel 5" bron="Stb.2012-527" effect="nieuwe-regeling" ondertekening_bron="2012-09-27" publicatie_bron="2012-10-31" publicatie_iwt="2012-10-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <al>Een beschikking waarbij een bijzondere meldingsplicht als bedoeld in <intref verwijzing-id="2523002" doc="jci1.3:c:BWBR0032155&amp;artikel=2&amp;z=2013-07-01&amp;g=2013-07-01" bwb-id="BWBR0032155" label-id="11862044" bwb-ng-variabel-deel="/Artikel2">artikel 2</intref>, <intref verwijzing-id="2523003" doc="jci1.3:c:BWBR0032155&amp;artikel=3&amp;z=2013-07-01&amp;g=2013-07-01" bwb-id="BWBR0032155" label-id="11862054" bwb-ng-variabel-deel="/Artikel3">3</intref> of <intref verwijzing-id="2523004" doc="jci1.3:c:BWBR0032155&amp;artikel=4&amp;z=2013-07-01&amp;g=2013-07-01" bwb-id="BWBR0032155" label-id="11862064" bwb-ng-variabel-deel="/Artikel4">4</intref> aan een subsidie wordt verbonden, merkt deze aan als bijzondere meldingsplicht in de zin van deze wet.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-527"><publicatiejaar>2012</publicatiejaar><publicatienr>527</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-27">27-09-2012</ondertekeningsdatum><dossierref dossier="32838">32838</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-528"><publicatiejaar>2012</publicatiejaar><publicatienr>528</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-10-25">25-10-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032155&amp;artikel=5&amp;g=2013-07-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0032155&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=5&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0032155&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" stam-id="11890153" versie-id="19743952" id="C27733561" label-id="11862084" inwerking="2013-01-01" label="Artikel 6" bron="Stb.2012-527" effect="nieuwe-regeling" ondertekening_bron="2012-09-27" publicatie_bron="2012-10-31" publicatie_iwt="2012-10-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid1" label-id="11862084L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het niet voldoen aan de bijzondere meldingsplicht, bedoeld in <intref verwijzing-id="2522999" doc="jci1.3:c:BWBR0032155&amp;artikel=2&amp;z=2013-07-01&amp;g=2013-07-01" bwb-id="BWBR0032155" label-id="11862044" bwb-ng-variabel-deel="/Artikel2">artikel 2</intref>, is een overtreding ter zake waarvan door Onze Minister die het aangaat een bestuurlijke boete kan worden opgelegd van ten hoogste het bedrag van de vierde categorie geldboete, bedoeld in <extref doc="jci1.3:c:BWBR0001854&amp;artikel=23" verwijzing-id="2522997" bwb-id="BWBR0001854" label-id="2962974">artikel 23, vierde lid, van het Wetboek van Strafrecht</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=6&amp;lid=1&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid2" label-id="11862084L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het niet voldoen aan de bijzondere meldingsplicht, bedoeld in <intref verwijzing-id="2523000" doc="jci1.3:c:BWBR0032155&amp;artikel=3&amp;z=2013-07-01&amp;g=2013-07-01" bwb-id="BWBR0032155" label-id="11862054" bwb-ng-variabel-deel="/Artikel3">artikel 3</intref> of <intref verwijzing-id="2523001" doc="jci1.3:c:BWBR0032155&amp;artikel=4&amp;z=2013-07-01&amp;g=2013-07-01" bwb-id="BWBR0032155" label-id="11862064" bwb-ng-variabel-deel="/Artikel4">artikel 4, eerste lid</intref>, is een overtreding ter zake waarvan door Onze Minister die het aangaat een bestuurlijke boete kan worden opgelegd van ten hoogste het bedrag van de vijfde categorie geldboete, bedoeld in <extref doc="jci1.3:c:BWBR0001854&amp;artikel=23" verwijzing-id="2522998" bwb-id="BWBR0001854" label-id="2962974">artikel 23, vierde lid, van het Wetboek van Strafrecht</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=6&amp;lid=2&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-527"><publicatiejaar>2012</publicatiejaar><publicatienr>527</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-27">27-09-2012</ondertekeningsdatum><dossierref dossier="32838">32838</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-528"><publicatiejaar>2012</publicatiejaar><publicatienr>528</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-10-25">25-10-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032155&amp;artikel=6&amp;g=2013-07-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0032155&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=6&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0032155&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="b1-7" stam-id="11890163" versie-id="20599342" id="C29640731" label-id="11862094" inwerking="2013-07-01" label="Artikel 7" bron="Stb.2013-226" effect="wijziging" ondertekening_bron="2013-06-19" publicatie_bron="2013-06-28" publicatie_iwt="2013-06-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid1" label-id="11862094L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>
+      <redactie type="vervanging">Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.</redactie>
+    </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=7&amp;lid=1&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid2" label-id="11862094L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>
+      <redactie type="vervanging">Vervallen.</redactie>
+    </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=7&amp;lid=2&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-226"><publicatiejaar>2013</publicatiejaar><publicatienr>226</publicatienr><uitgiftedatum isodatum="2013-06-28">28-06-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-06-19">19-06-2013</ondertekeningsdatum><dossierref dossier="33455">33455</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-258"><publicatiejaar>2013</publicatiejaar><publicatienr>258</publicatienr><uitgiftedatum isodatum="2013-06-28">28-06-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-06-25">25-06-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-07-01">01-07-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032155&amp;artikel=7&amp;g=2013-07-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0032155&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=7&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0032155&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" stam-id="11890173" versie-id="19743972" id="C27733581" label-id="11862104" inwerking="2013-01-01" label="Artikel 8" bron="Stb.2012-527" effect="nieuwe-regeling" ondertekening_bron="2012-09-27" publicatie_bron="2012-10-31" publicatie_iwt="2012-10-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <al>Onze Minister van Financiën zendt binnen 5 jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-527"><publicatiejaar>2012</publicatiejaar><publicatienr>527</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-27">27-09-2012</ondertekeningsdatum><dossierref dossier="32838">32838</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-528"><publicatiejaar>2012</publicatiejaar><publicatienr>528</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-10-25">25-10-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032155&amp;artikel=8&amp;g=2013-07-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0032155&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=8&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0032155&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" stam-id="11890183" versie-id="19743982" id="C27733591" label-id="11862114" inwerking="2013-01-01" label="Artikel 9" bron="Stb.2012-527" effect="nieuwe-regeling" ondertekening_bron="2012-09-27" publicatie_bron="2012-10-31" publicatie_iwt="2012-10-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+  </kop>
+  <al>Deze wet is niet van toepassing op subsidies die voor de inwerkingtreding van deze wet zijn verstrekt.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-527"><publicatiejaar>2012</publicatiejaar><publicatienr>527</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-27">27-09-2012</ondertekeningsdatum><dossierref dossier="32838">32838</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-528"><publicatiejaar>2012</publicatiejaar><publicatienr>528</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-10-25">25-10-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032155&amp;artikel=9&amp;g=2013-07-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0032155&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=9&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0032155&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" stam-id="11890193" versie-id="19743992" id="C27733601" label-id="11862124" inwerking="2013-01-01" label="Artikel 10" bron="Stb.2012-527" effect="nieuwe-regeling" ondertekening_bron="2012-09-27" publicatie_bron="2012-10-31" publicatie_iwt="2012-10-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-527"><publicatiejaar>2012</publicatiejaar><publicatienr>527</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-27">27-09-2012</ondertekeningsdatum><dossierref dossier="32838">32838</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-528"><publicatiejaar>2012</publicatiejaar><publicatienr>528</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-10-25">25-10-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032155&amp;artikel=10&amp;g=2013-07-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0032155&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=10&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0032155&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" stam-id="11890203" versie-id="19744002" id="C27733611" label-id="11862134" inwerking="2013-01-01" label="Artikel 11" bron="Stb.2012-527" effect="nieuwe-regeling" ondertekening_bron="2012-09-27" publicatie_bron="2012-10-31" publicatie_iwt="2012-10-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-527"><publicatiejaar>2012</publicatiejaar><publicatienr>527</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-27">27-09-2012</ondertekeningsdatum><dossierref dossier="32838">32838</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-528"><publicatiejaar>2012</publicatiejaar><publicatienr>528</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-10-25">25-10-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032155&amp;artikel=11&amp;g=2013-07-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0032155&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;artikel=11&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0032155&amp;artikel=11"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="11890213" versie-id="19744012" id="C27733621" label-id="11862144" inwerking="2013-01-01" bron="Stb.2012-527" effect="nieuwe-regeling" ondertekening_bron="2012-09-27" publicatie_bron="2012-10-31" publicatie_iwt="2012-10-31" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>’s-Gravenhage</plaats>
+      <datum isodatum="2012-09-27">27 september 2012</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Financiën,</functie>
+    <naam>
+      <voornaam>J. C. de</voornaam>
+      <achternaam>Jager</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Economische Zaken, Landbouw en Innovatie,</functie>
+    <naam>
+      <voornaam>M. J. M.</voornaam>
+      <achternaam>Verhagen</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Buitenlandse Zaken,</functie>
+    <naam>
+      <voornaam>U.</voornaam>
+      <achternaam>Rosenthal</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Veiligheid en Justitie,</functie>
+    <naam>
+      <voornaam>I. W.</voornaam>
+      <achternaam>Opstelten</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2012-10-31">de <nadruk type="cur">eenendertigste</nadruk> oktober 2012</datum>
+    <ondertekening>
+      <functie>De Minister van Veiligheid en Justitie,</functie>
+      <naam>
+        <voornaam>I. W.</voornaam>
+        <achternaam>Opstelten</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-527"><publicatiejaar>2012</publicatiejaar><publicatienr>527</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-27">27-09-2012</ondertekeningsdatum><dossierref dossier="32838">32838</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-528"><publicatiejaar>2012</publicatiejaar><publicatienr>528</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-10-25">25-10-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-527"><publicatiejaar>2012</publicatiejaar><publicatienr>527</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-27">27-09-2012</ondertekeningsdatum><dossierref dossier="32838">32838</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2012-528"><publicatiejaar>2012</publicatiejaar><publicatienr>528</publicatienr><uitgiftedatum isodatum="2012-10-31">31-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-10-25">25-10-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0032155&amp;g=2013-07-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0032155"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0032155&amp;z=2013-07-01&amp;g=2013-07-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0032155"/></jcis></meta-data></wetgeving></toestand>

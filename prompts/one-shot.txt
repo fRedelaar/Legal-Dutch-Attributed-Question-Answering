@@ -1,0 +1,33 @@
+You will be given a question and a list of 5 documents that are retrieved by BM25. The retrieved documents contain content that are the most relevant to the question from a large corpus.
+
+Your task is to generate 2 things as an output. 1: An answer to the question based on the set of documents provided, and 2: A list of attributions to the documents you have used to generate your answer. Note that not all of these 5 documents are relevant to the answer. BM25 simply returned the documents most likely to be relevant to the question.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Steps:
+
+1. Read the question carefully and identify the main topic and key points.
+2. Read the documents provided by BM25 and check if they contain information that are directly relevant for the answer to the question.
+3. Generate the answer string that answers the question based on the documents provided. Starting your answer with "ANSWER:".
+4. Create a list of the document IDs that you have used for your answer, so the user can cross-check. Do only use the IDs of documents you have actually used to generate your answer. Start your answer with "DOC IDS:".
+
+Example 1:
+
+Question (EXAMPLE OF THE INPUT YOU WILL RECEIVE):
+Question: Wanneer wordt een ongewenstheid verklaring opgeheven?
+
+Documents (EXAMPLE OF THE INPUT YOU WILL RECEIVE):
+Potential relevant documents: [['DOC0068', 'Vreemdelingenwet 2000 Verblijf Rechtmatig verblijf nan Artikel 9 burgers van de Unie en hun familieleden , tot wijziging van Verordening ( EEG ) 1612/68 en tot intrekking van Richtlijnen 64/221/EEG , 68/360/EEG , 72/194/EEG , 73/148/EEG , 75/34/EEG , 75/35/EEG , 90/364/EEG , 90/365/EEG en 93/96/EEG ( PbEU L 158 ) . Onze Minister verschaft desgevraagd een dergelijk document of schriftelijke verklaring aan de vreemdeling die rechtmatig verblijf heeft op grond van artikel 8 , onder i . Bij de aanvraag van een beschikking anders dan op grond van deze wet legt de vreemdeling desgevraagd een kopie van het document of de schriftelijke verklaring over , dat wordt aangemerkt als een bescheid als bedoeld in artikel 4:3 , tweede lid , van de Algemene wet bestuursrecht . Onze Minister wijst bij ministeriële regeling de bescheiden , bedoeld in het eerste tot en met derde lid , aan en kan modellen vaststellen voor de documenten en de schriftelijke verklaring .'], ['DOC0285', 'Vreemdelingenwet 2000 Rechtsmiddelen Bijzondere rechtsmiddelen nan Artikel 106 Indien de rechtbank de opheffing van een maatregel strekkende tot vrijheidsontneming of -beperking beveelt , dan wel de vrijheidsontneming of -beperking reeds voor de behandeling van het verzoek om opheffing van die maatregel wordt opgeheven , kan zij aan de vreemdeling een vergoeding ten laste van de Staat toekennen . Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat . De artikelen 534 en 536 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing . Indien de vreemdeling na het indienen van zijn verzoek is overleden , geschiedt de toekenning ten behoeve van zijn erfgenamen . Het eerste lid is van overeenkomstige toepassing , indien de Afdeling bestuursrechtspraak van de Raad van State de opheffing van de maatregel strekkende tot vrijheidsontneming of -beperking beveelt .'], ['DOC0023', 'Vreemdelingenwet 2000 Inleidende bepalingen De referent Erkenning als referent Artikel 2e en naleving van een gedragscode . Natuurlijke personen worden niet als referent erkend . Overeenkomstig bij regeling van Onze Minister gestelde regels , legt de aanvrager desgevraagd een verklaring omtrent het gedrag over , afgegeven volgens de Wet justitiële en strafvorderlijke gegevens .'], ['DOC0226', 'Vreemdelingenwet 2000 Vertrek , uitzetting en overdracht , inreisverbod en ongewenstverklaring Ongewenstverklaring nan Artikel 68 Onze Minister kan op aanvraag van de vreemdeling besluiten tot opheffing van de ongewenstverklaring . De ongewenstverklaring wordt opgeheven indien de vreemdeling tien jaren onafgebroken buiten Nederland verblijf heeft gehad en zich in die periode geen van de gronden , bedoeld in artikel 67 , eerste lid , hebben voorgedaan . Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de toepassing van deze afdeling .'], ['DOC0303', 'Vreemdelingenwet 2000 Algemene en strafbepalingen nan Afwijkingen Artikel 110 Onverminderd de artikelen 7 , eerste lid , en 8 , eerste lid , van de Coördinatiewet uitzonderingstoestanden kan , ingeval buitengewone omstandigheden dit noodzakelijk maken , bij koninklijk besluit , op voordracht van Onze Minister-president , artikel 111 in werking worden gesteld . Wanneer het in het eerste lid bedoelde besluit is genomen , wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepaling . Wordt het voorstel van wet door de Staten-Generaal verworpen , dan wordt bij koninklijk besluit , op voordracht van Onze Minister-president , de bepaling die ingevolge het eerste lid in werking is gesteld , onverwijld buiten werking gesteld . Bij koninklijk besluit , op voordracht van Onze Minister-president , wordt de bepaling die ingevolge het eerste lid in werking is gesteld , buiten werking gesteld , zodra de omstandigheden dit naar Ons oordeel toelaten . Het besluit als bedoeld in het eerste , derde en vierde lid , wordt op de']]
+
+
+(EXAMPLE OF YOUR OUTPUT - ALWAYS DO IT IN THIS FORMAT, CAPITALIZING THE "ANSWER:"):
+ANSWER: De ongewenstheid verklaring wordt opgeheven bij de volgende condities: Indien de vreemdeling tien jaar onafgebroken buiten Nederland verblijf heeft gehad en de vreemdeling niet ongewenst is verklaard.
+
+(EXAMPLE OF YOUR OUTPUT - ALWAYS DO IT IN THIS FORMAT, CAPITALIZING "DOC IDS:", THERE CAN BE ONE OR MORE.):
+DOC IDS: DOC0226
+
+REMEMBER, YOUR TASK IS TO GENERATE AN ANSWER STRING AND A LIST FOR THE DOCUMENT IDs USED IN YOUR ANSWER.
+ALWAYS START THE ANSWER WITH: "ANSWER:", AND THE ATTRIBUTION WITH "DOC IDS:".
+ALWAYS USE CAPITALIZATION FOR ANSWER AND DOC IDS IN YOUR OUTPUT! DO NOT HAVE ANY OTHER OUTPUT.
+
+Here comes your task:

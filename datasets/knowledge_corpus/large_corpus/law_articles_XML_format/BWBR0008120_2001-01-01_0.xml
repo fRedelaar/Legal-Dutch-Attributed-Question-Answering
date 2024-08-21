@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0008120/2001-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0008120" inwerkingtreding="2001-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties><redactionele-correctie label-id="54974" oud-revisie-id="21023431" nieuw-revisie-id="32135831"/></redactionele-correcties><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="55393" versie-id="69592" id="C69591" label-id="55004" inwerkingtredingsdatum="1998-01-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="55423" versie-id="69342" id="C69341" label-id="54854" inwerking="1998-01-01" bron="Stb.1996-333" effect="nieuwe-regeling" ondertekening_bron="1996-06-20" publicatie_bron="1996-07-04" publicatie_iwt="1997-12-18" status="goed">Wet van 20 juni 1996 tot aanvulling van de Algemene wet bestuursrecht (Derde tranche Algemene wet bestuursrecht)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-333"><publicatiejaar>1996</publicatiejaar><publicatienr>333</publicatienr><uitgiftedatum isodatum="1996-07-04">04-07-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-06-20">20-06-1996</ondertekeningsdatum><dossierref dossier="23700">23700</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-581"><publicatiejaar>1997</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Bij Stb. 2001/208 is bepaald dat met ingang van 11 mei 2001 deze
+        wet ook van toepassing is op de wetten genoemd in artikel VI,
+        tweede lid.</al></opmerkingen-inhoud></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="55433" versie-id="69352" id="C69351" label-id="54874" inwerking="1998-01-01" bron="Stb.1996-333" effect="nieuwe-regeling" ondertekening_bron="1996-06-20" publicatie_bron="1996-07-04" publicatie_iwt="1997-12-18">Derde tranche Algemene wet bestuursrecht<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-333"><publicatiejaar>1996</publicatiejaar><publicatienr>333</publicatienr><uitgiftedatum isodatum="1996-07-04">04-07-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-06-20">20-06-1996</ondertekeningsdatum><dossierref dossier="23700">23700</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-581"><publicatiejaar>1997</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Bij Stb. 2001/208 is bepaald dat met ingang van 11 mei 2001 deze
+        wet ook van toepassing is op de wetten genoemd in artikel VI,
+        tweede lid.</al></opmerkingen-inhoud></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="55443" versie-id="69372" id="C69371" label-id="54884" inwerking="1998-01-01" bron="Stb.1996-333" effect="nieuwe-regeling" ondertekening_bron="1996-06-20" publicatie_bron="1996-07-04" publicatie_iwt="1997-12-18" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het, ter nadere uitwerking van <extref doc="jci1.3:c:BWBR0001840&amp;artikel=107" verwijzing-id="8493" bwb-id="BWBR0001840" label-id="2941654">artikel 107, tweede lid, van de Grondwet</extref>, gewenst is de <extref doc="jci1.3:c:BWBR0005537" verwijzing-id="8497" bwb-id="BWBR0005537" label-id="2816734">Algemene wet bestuursrecht</extref> aan te vullen met bepalingen inzake mandaat en delegatie, inzake toezicht op bestuursorganen, inzake subsidies, inzake beleidsregels en inzake handhaving; </considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-333"><publicatiejaar>1996</publicatiejaar><publicatienr>333</publicatienr><uitgiftedatum isodatum="1996-07-04">04-07-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-06-20">20-06-1996</ondertekeningsdatum><dossierref dossier="23700">23700</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-581"><publicatiejaar>1997</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Bij Stb. 2001/208 is bepaald dat met ingang van 11 mei 2001 deze
+        wet ook van toepassing is op de wetten genoemd in artikel VI,
+        tweede lid.</al></opmerkingen-inhoud></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/ArtikelI" code="b1-i" stam-id="55453" versie-id="69842" id="C69841" label-id="54894" inwerking="2001-01-01" label="ARTIKEL I" bron="Stb.1996-333" effect="wijziging" ondertekening_bron="1996-06-20" publicatie_bron="1996-07-04" publicatie_iwt="1997-12-18" status="goed">
+  <kop>
+    <label>ARTIKEL</label>
+    <nr>I</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Algemene wet bestuursrecht.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1996-333"><publicatiejaar>1996</publicatiejaar><publicatienr>333</publicatienr><uitgiftedatum isodatum="1996-07-04">04-07-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-06-20">20-06-1996</ondertekeningsdatum><dossierref dossier="23700">23700</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-581"><publicatiejaar>1997</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2001-01-01">01-01-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008120&amp;artikel=I&amp;g=2001-01-01" onderdeel="artikel=I" korte-verwijzing="1.0:c:BWBR0008120&amp;artikel=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=I&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="artikel=I" korte-verwijzing="jci1.3:c:BWBR0008120&amp;artikel=I"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelII" code="b1-ii" stam-id="55473" versie-id="69512" id="C69511" label-id="54924" inwerking="1998-01-01" label="ARTIKEL II" bron="Stb.1996-333" effect="nieuwe-regeling" ondertekening_bron="1996-06-20" publicatie_bron="1996-07-04" publicatie_iwt="1997-12-18" status="goed">
+  <kop>
+    <label>ARTIKEL</label>
+    <nr>II</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/ArtikelII/Lid1" label-id="54924L1">
+    <lidnr>1</lidnr>
+    <al>Indien een besluit voor de inwerkingtreding van deze wet ter goedkeuring is verzonden, blijven op de goedkeuring van dat besluit de bepalingen van toepassing die gelden op de dag waarop het besluit ter goedkeuring is verzonden. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=II&amp;lid=1&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelII/Lid2" label-id="54924L2">
+    <lidnr>2</lidnr>
+    <al>Indien een besluit voor de inwerkingtreding van deze wet is geschorst, blijven op de schorsing de bepalingen van toepassing die gelden op de dag waarop het besluit tot schorsing is bekendgemaakt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=II&amp;lid=2&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-333"><publicatiejaar>1996</publicatiejaar><publicatienr>333</publicatienr><uitgiftedatum isodatum="1996-07-04">04-07-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-06-20">20-06-1996</ondertekeningsdatum><dossierref dossier="23700">23700</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-581"><publicatiejaar>1997</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Bij Stb. 2001/208 is bepaald dat met ingang van 11 mei 2001 deze
+        wet ook van toepassing is op de wetten genoemd in artikel VI,
+        tweede lid.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008120&amp;artikel=II&amp;g=2001-01-01" onderdeel="artikel=II" korte-verwijzing="1.0:c:BWBR0008120&amp;artikel=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=II&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="artikel=II" korte-verwijzing="jci1.3:c:BWBR0008120&amp;artikel=II"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIII" code="b1-iii" stam-id="55483" versie-id="69522" id="C69521" label-id="54934" inwerking="1998-01-01" label="ARTIKEL III" bron="Stb.1996-333" effect="nieuwe-regeling" ondertekening_bron="1996-06-20" publicatie_bron="1996-07-04" publicatie_iwt="1997-12-18" status="goed">
+  <kop>
+    <label>ARTIKEL</label>
+    <nr>III</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/ArtikelIII/Lid1" label-id="54934L1">
+    <lidnr>1</lidnr>
+    <al>
+      <extref doc="jci1.3:c:BWBR0005537&amp;titeldeel=4.2" verwijzing-id="8505" bwb-id="BWBR0005537" label-id="2819924">Titel 4.2 van de Algemene wet bestuursrecht</extref> is niet van toepassing op subsidies die voor de inwerkingtreding van deze wet zijn verleend of vastgesteld. Op deze subsidies is het recht van toepassing zoals dat gold voor het tijdstip van inwerkingtreding van deze wet. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=III&amp;lid=1&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelIII/Lid2" label-id="54934L2">
+    <lidnr>2</lidnr>
+    <al>
+      <extref doc="jci1.3:c:BWBR0005537&amp;artikel=4:23" verwijzing-id="8506" bwb-id="BWBR0005537" label-id="2819214">Artikel 4:23, eerste lid, van de Algemene wet bestuursrecht</extref> is gedurende vier jaren na de inwerkingtreding van deze wet niet van toepassing op subsidies gelijksoortig aan die, welke door het betrokken bestuursorgaan reeds voor de inwerkingtreding van deze wet overeenkomstig bekendgemaakt beleid werden verstrekt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=III&amp;lid=2&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelIII/Lid3" label-id="54934L3">
+    <lidnr>3</lidnr>
+    <al>Ten aanzien van subsidies als bedoeld in het tweede lid kan hetgeen ingevolge <extref doc="jci1.3:c:BWBR0005537&amp;titeldeel=4.2" verwijzing-id="8507" bwb-id="BWBR0005537" label-id="2819924">titel 4.2 van de Algemene wet bestuursrecht</extref> bij wettelijk voorschrift kan of moet worden bepaald, bij beleidsregel worden bepaald.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=III&amp;lid=3&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelIII/Lid4" label-id="54934L4">
+    <lidnr>4</lidnr>
+    <al>Het in <extref doc="jci1.3:c:BWBR0005537&amp;artikel=4:23" verwijzing-id="8508" bwb-id="BWBR0005537" label-id="2819214">artikel 4:23, vierde lid, van de Algemene wet bestuursrecht</extref> bedoelde verslag heeft mede betrekking op subsidies die met toepassing van het tweede lid worden verstrekt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=III&amp;lid=4&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-333"><publicatiejaar>1996</publicatiejaar><publicatienr>333</publicatienr><uitgiftedatum isodatum="1996-07-04">04-07-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-06-20">20-06-1996</ondertekeningsdatum><dossierref dossier="23700">23700</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-581"><publicatiejaar>1997</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Bij Stb. 2001/208 is bepaald dat met ingang van 11 mei 2001 deze
+        wet ook van toepassing is op de wetten genoemd in artikel VI,
+        tweede lid.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008120&amp;artikel=III&amp;g=2001-01-01" onderdeel="artikel=III" korte-verwijzing="1.0:c:BWBR0008120&amp;artikel=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=III&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="artikel=III" korte-verwijzing="jci1.3:c:BWBR0008120&amp;artikel=III"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIV" code="b1-iv" stam-id="55493" versie-id="69542" id="C69541" label-id="54954" inwerking="1998-01-01" label="ARTIKEL IV" bron="Stb.1996-333" effect="nieuwe-regeling" ondertekening_bron="1996-06-20" publicatie_bron="1996-07-04" publicatie_iwt="1997-12-18" status="goed">
+  <kop>
+    <label>ARTIKEL</label>
+    <nr>IV</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/ArtikelIV/Lid1" label-id="54954L1">
+    <lidnr>1</lidnr>
+    <al>Indien een beslissing tot toepassing van bestuursdwang voor de inwerkingtreding van deze wet is bekendgemaakt, blijven op de toepassing van bestuursdwang ten aanzien van de in die beslissing genoemde overtreding de bepalingen van toepassing die gelden op de dag waarop de beslissing is bekendgemaakt. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=IV&amp;lid=1&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelIV/Lid2" label-id="54954L2">
+    <lidnr>2</lidnr>
+    <al>Indien een beschikking tot oplegging van een last onder dwangsom voor de inwerkingtreding van deze wet is bekendgemaakt, blijven daarop de bepalingen van toepassing die gelden op de dag waarop de beschikking is bekendgemaakt. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=IV&amp;lid=2&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-333"><publicatiejaar>1996</publicatiejaar><publicatienr>333</publicatienr><uitgiftedatum isodatum="1996-07-04">04-07-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-06-20">20-06-1996</ondertekeningsdatum><dossierref dossier="23700">23700</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-581"><publicatiejaar>1997</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Bij Stb. 2001/208 is bepaald dat met ingang van 11 mei 2001 deze
+        wet ook van toepassing is op de wetten genoemd in artikel VI,
+        tweede lid.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008120&amp;artikel=IV&amp;g=2001-01-01" onderdeel="artikel=IV" korte-verwijzing="1.0:c:BWBR0008120&amp;artikel=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=IV&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="artikel=IV" korte-verwijzing="jci1.3:c:BWBR0008120&amp;artikel=IV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelV" code="b1-v" stam-id="55503" versie-id="69552" id="C69551" label-id="54964" inwerking="1998-01-01" label="ARTIKEL V" bron="Stb.1996-333" effect="nieuwe-regeling" ondertekening_bron="1996-06-20" publicatie_bron="1996-07-04" publicatie_iwt="1997-12-18" status="goed">
+  <kop>
+    <label>ARTIKEL</label>
+    <nr>V</nr>
+  </kop>
+  <al>Degene die volgens het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet bevoegd was een besluit te nemen of een andere handeling te verrichten, welke bevoegdheid na dat tijdstip als gevolg van deze wet, de <extref doc="jci1.3:c:BWBR0008994" verwijzing-id="8518" bwb-id="BWBR0008994" label-id="618554">Aanpassingswet derde tranche Awb I</extref> of de Aanpassingswet derde tranche Awb II niet meer door hem zou kunnen worden uitgeoefend, behoudt niettemin deze bevoegdheid totdat in overeenstemming met deze wet, de <extref doc="jci1.3:c:BWBR0008994" verwijzing-id="8520" bwb-id="BWBR0008994" label-id="618554">Aanpassingswet derde tranche Awb I</extref> of de Aanpassingswet derde tranche Awb II in de bevoegdheid is voorzien, doch niet langer dan dertien weken na het tijdstip van inwerkingtreding van deze wet. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-333"><publicatiejaar>1996</publicatiejaar><publicatienr>333</publicatienr><uitgiftedatum isodatum="1996-07-04">04-07-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-06-20">20-06-1996</ondertekeningsdatum><dossierref dossier="23700">23700</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-581"><publicatiejaar>1997</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Bij Stb. 2001/208 is bepaald dat met ingang van 11 mei 2001 deze
+        wet ook van toepassing is op de wetten genoemd in artikel VI,
+        tweede lid.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008120&amp;artikel=V&amp;g=2001-01-01" onderdeel="artikel=V" korte-verwijzing="1.0:c:BWBR0008120&amp;artikel=V"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=V&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="artikel=V" korte-verwijzing="jci1.3:c:BWBR0008120&amp;artikel=V"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVI" stam-id="55513" versie-id="15413822" id="C32135831" label-id="54974" inwerking="2000-09-01" label="ARTIKEL VI" bron="Stb.2000-286" effect="wijziging" ondertekening_bron="2000-06-29" publicatie_bron="2000-07-13" publicatie_iwt="2000-07-13" status="goed">
+  <kop>
+    <label>ARTIKEL</label>
+    <nr status="officieel">VI</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/ArtikelVI/Lid1" label-id="54974L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=VI&amp;lid=1&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelVI/Lid2" label-id="54974L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Bij koninklijk besluit kan een ander tijdstip worden vastgesteld, waarop deze wet in werking treedt voor de toepassing van: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/ArtikelVI/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de <extref doc="jci1.3:c:BWBR0003420" label-id="2851954" verwijzing-id="8362" bwb-id="BWBR0003420">Wet op het basisonderwijs</extref>; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=VI&amp;lid=2&amp;o=a&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/ArtikelVI/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de <extref doc="jci1.3:c:BWBR0002399" label-id="3001384" verwijzing-id="8366" bwb-id="BWBR0002399">Wet op het voortgezet onderwijs</extref>; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=VI&amp;lid=2&amp;o=b&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/ArtikelVI/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de <extref doc="jci1.3:c:BWBR0003549" label-id="2630144" verwijzing-id="8369" bwb-id="BWBR0003549">Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs</extref>; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=VI&amp;lid=2&amp;o=c&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/ArtikelVI/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de <extref doc="jci1.3:c:BWBR0007625" label-id="2478204" verwijzing-id="8371" bwb-id="BWBR0007625">Wet educatie en beroepsonderwijs</extref>; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=VI&amp;lid=2&amp;o=d&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/ArtikelVI/Lid2/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>de <extref doc="jci1.3:c:BWBR0005682" label-id="2885604" verwijzing-id="8374" bwb-id="BWBR0005682">Wet op het hoger onderwijs en wetenschappelijk onderzoek</extref>; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=VI&amp;lid=2&amp;o=e&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/ArtikelVI/Lid2/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>de <extref doc="jci1.3:c:BWBR0004191" label-id="1254314" verwijzing-id="8377" bwb-id="BWBR0004191">Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek</extref>; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=VI&amp;lid=2&amp;o=f&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/ArtikelVI/Lid2/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>de <extref doc="jci1.3:c:BWBR0003906" label-id="1720334" verwijzing-id="8379" bwb-id="BWBR0003906">TNO-wet</extref>; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=VI&amp;lid=2&amp;o=g&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="o=g"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/ArtikelVI/Lid2/Onderdeelh">
+        <li.nr>h.</li.nr>
+        <al>de <extref doc="jci1.3:c:BWBR0011453" label-id="2553864" verwijzing-id="2214021" bwb-id="BWBR0011453">Wet studiefinanciering 2000</extref>; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=VI&amp;lid=2&amp;o=h&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="o=h"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/ArtikelVI/Lid2/Onderdeeli">
+        <li.nr>i.</li.nr>
+        <al>de Wet tegemoetkoming studiekosten; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=VI&amp;lid=2&amp;o=i&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="o=i"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/ArtikelVI/Lid2/Onderdeelj">
+        <li.nr>j.</li.nr>
+        <al>de <extref doc="jci1.3:c:BWBR0004188" label-id="2644034" verwijzing-id="8388" bwb-id="BWBR0004188">Les- en cursusgeldwet</extref>; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=VI&amp;lid=2&amp;o=j&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="o=j"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/ArtikelVI/Lid2/Onderdeelk">
+        <li.nr>k.</li.nr>
+        <al>de <extref doc="jci1.3:c:BWBR0006320" label-id="2962204" verwijzing-id="8391" bwb-id="BWBR0006320">Wet verzelfstandiging Informatiseringsbank</extref>; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=VI&amp;lid=2&amp;o=k&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="o=k"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/ArtikelVI/Lid2/Onderdeell">
+        <li.nr>l.</li.nr>
+        <al>de <extref doc="jci1.3:c:BWBR0002628" label-id="2923574" verwijzing-id="8395" bwb-id="BWBR0002628">Leerplichtwet 1969</extref>. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=VI&amp;lid=2&amp;o=l&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="o=l"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=VI&amp;lid=2&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelVI/Lid3" label-id="54974L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Bij koninklijk besluit kan een ander tijdstip worden vastgesteld, waarop titel 4.2 van deze wet in werking treedt voor de toepassing van de <extref doc="jci1.3:c:BWBR0004149" label-id="1573044" verwijzing-id="8359" bwb-id="BWBR0004149">Mediawet</extref>. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=VI&amp;lid=3&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2000-286"><publicatiejaar>2000</publicatiejaar><publicatienr>286</publicatienr><uitgiftedatum isodatum="2000-07-13">13-07-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-06-29">29-06-2000</ondertekeningsdatum><dossierref dossier="26873">26873</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2000-286"><publicatiejaar>2000</publicatiejaar><publicatienr>286</publicatienr><uitgiftedatum isodatum="2000-07-13">13-07-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-06-29">29-06-2000</ondertekeningsdatum><dossierref dossier="26873">26873</dossierref></publicatie><inwerkingtreding.datum isodatum="2000-09-01">01-09-2000</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008120&amp;artikel=VI&amp;g=2001-01-01" onderdeel="artikel=VI" korte-verwijzing="1.0:c:BWBR0008120&amp;artikel=VI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;artikel=VI&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="artikel=VI" korte-verwijzing="jci1.3:c:BWBR0008120&amp;artikel=VI"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="55523" versie-id="69572" id="C5352981" label-id="54984" inwerking="1998-01-01" bron="Stb.1996-333" effect="nieuwe-regeling" ondertekening_bron="1996-06-20" publicatie_bron="1996-07-04" publicatie_iwt="1997-12-18" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">20 juni 1996</datum>
+    </dagtekening>
+    <koning>Beatrix </koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Justitie,</functie>
+    <naam>
+      <achternaam>W. Sorgdrager </achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Staatssecretaris van Binnenlandse Zaken,</functie>
+    <naam>
+      <achternaam>J. Kohnstamm </achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de vierde juli 1996</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>W. Sorgdrager</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-333"><publicatiejaar>1996</publicatiejaar><publicatienr>333</publicatienr><uitgiftedatum isodatum="1996-07-04">04-07-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-06-20">20-06-1996</ondertekeningsdatum><dossierref dossier="23700">23700</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-581"><publicatiejaar>1997</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Bij Stb. 2001/208 is bepaald dat met ingang van 11 mei 2001 deze
+        wet ook van toepassing is op de wetten genoemd in artikel VI,
+        tweede lid.</al></opmerkingen-inhoud></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1996-333"><publicatiejaar>1996</publicatiejaar><publicatienr>333</publicatienr><uitgiftedatum isodatum="1996-07-04">04-07-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-06-20">20-06-1996</ondertekeningsdatum><dossierref dossier="23700">23700</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1997-581"><publicatiejaar>1997</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Bij Stb. 2001/208 is bepaald dat met ingang van 11 mei 2001 deze
+        wet ook van toepassing is op de wetten genoemd in artikel VI,
+        tweede lid.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0008120&amp;g=2001-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0008120"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0008120&amp;z=2001-01-01&amp;g=2001-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0008120"/></jcis></meta-data></wetgeving></toestand>

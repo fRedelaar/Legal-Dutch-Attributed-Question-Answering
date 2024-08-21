@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0010591/2021-06-07/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0010591" inwerkingtreding="2021-06-07"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties><redactionele-correctie label-id="12082804" oud-revisie-id="39202361" nieuw-revisie-id="41704581"/><redactionele-correctie label-id="12082804" oud-revisie-id="41704581" nieuw-revisie-id="42944611"/></redactionele-correcties><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="1910273" versie-id="20195952" id="C28393591" label-id="1860264" inwerkingtredingsdatum="1999-07-21">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="1910313" versie-id="2832882" id="C2832881" label-id="1860184" inwerking="1999-07-21" bron="Stb.1999-303" effect="nieuwe-regeling" ondertekening_bron="1999-07-08" publicatie_bron="1999-07-20" publicatie_iwt="1999-07-20" status="goed">Wet van 8 juli 1999, houdende aanpassing van de Nederlandse wetgeving aan richtlijn 96/9/EG van het Europees Parlement en de Raad van 11 maart 1996 betreffende de rechtsbescherming van databanken<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1999-303"><publicatiejaar>1999</publicatiejaar><publicatienr>303</publicatienr><uitgiftedatum isodatum="1999-07-20">20-07-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-07-08">08-07-1999</ondertekeningsdatum><dossierref dossier="26108">26108</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1999-303"><publicatiejaar>1999</publicatiejaar><publicatienr>303</publicatienr><uitgiftedatum isodatum="1999-07-20">20-07-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-07-08">08-07-1999</ondertekeningsdatum><dossierref dossier="26108">26108</dossierref></publicatie><inwerkingtreding.datum isodatum="1999-07-21">21-07-1999</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="1910323" versie-id="2832892" id="C2832891" label-id="1860194" inwerking="1999-07-21" bron="Stb.1999-303" effect="nieuwe-regeling" ondertekening_bron="1999-07-08" publicatie_bron="1999-07-20" publicatie_iwt="1999-07-20">Databankenwet<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1999-303"><publicatiejaar>1999</publicatiejaar><publicatienr>303</publicatienr><uitgiftedatum isodatum="1999-07-20">20-07-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-07-08">08-07-1999</ondertekeningsdatum><dossierref dossier="26108">26108</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1999-303"><publicatiejaar>1999</publicatiejaar><publicatienr>303</publicatienr><uitgiftedatum isodatum="1999-07-20">20-07-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-07-08">08-07-1999</ondertekeningsdatum><dossierref dossier="26108">26108</dossierref></publicatie><inwerkingtreding.datum isodatum="1999-07-21">21-07-1999</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="1910333" versie-id="2832902" id="C18672971" label-id="1860204" inwerking="1999-07-21" bron="Stb.1999-303" effect="nieuwe-regeling" ondertekening_bron="1999-07-08" publicatie_bron="1999-07-20" publicatie_iwt="1999-07-20" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al bevat="grondslag">Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de Nederlandse wetgeving aan te passen met het oog op <extref doc="31996L0009" label="richtlijn" reeks="Celex">richtlijn 96/9/EG</extref> van het Europees Parlement en de Raad van 11 maart 1996 betreffende de rechtsbescherming van databanken (Pb EG L77);</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1999-303"><publicatiejaar>1999</publicatiejaar><publicatienr>303</publicatienr><uitgiftedatum isodatum="1999-07-20">20-07-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-07-08">08-07-1999</ondertekeningsdatum><dossierref dossier="26108">26108</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1999-303"><publicatiejaar>1999</publicatiejaar><publicatienr>303</publicatienr><uitgiftedatum isodatum="1999-07-20">20-07-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-07-08">08-07-1999</ondertekeningsdatum><dossierref dossier="26108">26108</dossierref></publicatie><inwerkingtreding.datum isodatum="1999-07-21">21-07-1999</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/ArtikelI" stam-id="12111423" versie-id="27795862" id="C42944611" label-id="12082804" inwerking="2021-06-07" label="ARTIKEL I" bron="Stb.2021-248" effect="wijziging" ondertekening_bron="2021-05-19" publicatie_bron="2021-06-01" publicatie_iwt="2021-06-01" status="goed">
+  <kop>
+    <label>ARTIKEL</label>
+    <nr status="officieel">I</nr>
+    <titel status="officieel">Bescherming van de producent van databanken</titel>
+  </kop>
+  <tussenkop kopopmaak="cur">Artikel 1</tussenkop>
+  <lijst bwb-ng-variabel-deel="/ArtikelI/Opsomming_1" level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_1/Onderdeel1">
+      <li.nr>1.</li.nr>
+      <al>Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:</al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_1/Onderdeel1/Onderdeela">
+          <li.nr>a.</li.nr>
+          <al>databank: een verzameling van werken, gegevens of andere zelfstandige elementen die systematisch of methodisch geordend en afzonderlijk met elektronische middelen of anderszins toegankelijk zijn en waarvan de verkrijging, de controle of de presentatie van de inhoud in kwalitatief of kwantitatief opzicht getuigt van een substantiële investering;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=1&amp;o=a&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=a"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_1/Onderdeel1/Onderdeelb">
+          <li.nr>b.</li.nr>
+          <al>producent van een databank: degene die het risico draagt van de voor de databank te maken investering;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=1&amp;o=b&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=b"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_1/Onderdeel1/Onderdeelc">
+          <li.nr>c.</li.nr>
+          <al>opvragen: het permanent of tijdelijk overbrengen van de inhoud van een databank of een deel daarvan op een andere drager, ongeacht op welke wijze en in welke vorm;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=1&amp;o=c&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=c"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_1/Onderdeel1/Onderdeeld">
+          <li.nr>d.</li.nr>
+          <al>hergebruiken: elke vorm van het aan het publiek ter beschikking stellen van de inhoud van een databank of een deel daarvan door verspreiding van exemplaren, verhuur, on line transmissie of transmissie in een andere vorm;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=1&amp;o=d&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=d"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_1/Onderdeel1/Onderdeele">
+          <li.nr>e.</li.nr>
+          <al>technische voorzieningen: technologie, inrichtingen of onderdelen die in het kader van hun normale werking dienen voor het voorkomen of beperken van handelingen ten aanzien van databanken, en door de producent van de databank of zijn rechtverkrijgende niet zijn toegestaan; technische voorzieningen worden geacht «doeltreffend» te zijn indien het opvragen en hergebruiken van een databank door de producent van de databank of zijn rechtverkrijgende wordt beheerst door middel van toegangscontrole of door toepassing van een beschermingsprocédé zoals encryptie, vervorming of andere transformatie van de databank of een kopieerbeveiliging die de beoogde bescherming bereikt;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=1&amp;o=e&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=e"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_1/Onderdeel1/Onderdeelf">
+          <li.nr>f.</li.nr>
+          <al>informatie betreffende het beheer van rechten: alle door de producent van een databank en zijn rechtverkrijgenden verstrekte informatie welke verbonden is met een exemplaar van een databank of bij het hergebruiken van een databank bekend wordt gemaakt, die dient ter identificatie van de databank, of informatie betreffende de voorwaarden voor het gebruik van de databank, alsmede de cijfers of codes waarin die informatie is vervat;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=1&amp;o=f&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=f"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_1/Onderdeel1/Onderdeelg">
+          <li.nr>g.</li.nr>
+          <al>onderzoeksorganisatie: een universiteit, inclusief de bibliotheken ervan, een onderzoeksinstelling of een andere entiteit die hoofdzakelijk tot doel heeft wetenschappelijk onderzoek te verrichten of onderwijsactiviteiten te verrichten die ook de verrichting van wetenschappelijk onderzoek omvatten:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_1/Onderdeel1/Onderdeelg/Onderdeel1">
+              <li.nr>1°.</li.nr>
+              <al>zonder winstoogmerk of door herinvestering van alle winst in haar wetenschappelijk onderzoek, of</al>
+            <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=1&amp;o=g&amp;o=1&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=1"/></jcis></meta-data></li>
+            <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_1/Onderdeel1/Onderdeelg/Onderdeel2">
+              <li.nr>2°.</li.nr>
+              <al>op grond van een door een staat die partij is bij de Europese Unie of Europese Economische Ruimte, erkende taak van algemeen belang;</al>
+            <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=1&amp;o=g&amp;o=2&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=2"/></jcis></meta-data></li>
+          </lijst>
+          <al>op zodanige wijze dat de toegang tot de door zulk wetenschappelijk onderzoek voortgebrachte resultaten niet op preferentiële basis kan worden aangewend door een onderneming die een beslissende invloed heeft op dit soort organisatie;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=1&amp;o=g&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=g"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_1/Onderdeel1/Onderdeelh">
+          <li.nr>h.</li.nr>
+          <al>tekst- en datamining: een geautomatiseerde analysetechniek die gericht is op de ontleding van tekst en gegevens in digitale vorm om informatie te genereren zoals, maar niet uitsluitend, patronen, trends en onderlinge verbanden; en</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=1&amp;o=h&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=h"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_1/Onderdeel1/Onderdeeli">
+          <li.nr>i.</li.nr>
+          <al>instelling voor cultureel erfgoed: een voor het publiek toegankelijke bibliotheek of een voor het publiek toegankelijk museum, een archief of een instelling voor cinematografisch of audio(visueel) erfgoed.</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=1&amp;o=i&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=i"/></jcis></meta-data></li>
+      </lijst>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=1&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=1"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_1/Onderdeel2">
+      <li.nr>2.</li.nr>
+      <al>Het voor een beperkte tijd en zonder direct of indirect economisch of commercieel voordeel voor gebruik ter beschikking stellen door voor het publiek toegankelijke instellingen wordt niet als opvragen of hergebruiken beschouwd.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=2&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=2"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_1/Onderdeel3">
+      <li.nr>3.</li.nr>
+      <al>Op computerprogramma's die worden gebruikt bij de productie of de werking van met elektronische middelen toegankelijke databanken zijn de desbetreffende bepalingen in de <extref doc="jci1.3:c:BWBR0001886" label-id="2880054" verwijzing-id="652603" bwb-id="BWBR0001886">Auteurswet</extref> van toepassing.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=3&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=3"/></jcis></meta-data></li>
+  </lijst>
+  <tussenkop kopopmaak="cur">Artikel 1a.</tussenkop>
+  <al>Behoudens bewijs van het tegendeel wordt voor de producent van een databank gehouden degene die in de databank als zodanig is aangeduid, of bij gebreke van een dergelijke aanduiding, degene die bij de openbaarmaking van de databank als producent daarvan is bekend gemaakt door degene die haar openbaar maakt.</al>
+  <tussenkop kopopmaak="cur">Artikel 2.</tussenkop>
+  <lijst bwb-ng-variabel-deel="/ArtikelI/Opsomming_2" level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_2/Onderdeel1">
+      <li.nr>1.</li.nr>
+      <al>De producent van een databank heeft het uitsluitende recht om toestemming te verlenen voor de volgende handelingen:</al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_2/Onderdeel1/Onderdeela">
+          <li.nr>a.</li.nr>
+          <al>het opvragen of hergebruiken van het geheel of een in kwalitatief of kwantitatief opzicht substantieel deel van de inhoud van de databank;</al>
+        </li>
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_2/Onderdeel1/Onderdeelb">
+          <li.nr>b.</li.nr>
+          <al>het herhaald en systematisch opvragen of hergebruiken van in kwalitatief of in kwantitatief opzicht niet-substantiële delen van de inhoud van een databank, voorzover dit in strijd is met de normale exploitatie van die databank of ongerechtvaardigde schade toebrengt aan de rechtmatige belangen van de producent van de databank.</al>
+        </li>
+      </lijst>
+    </li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_2/Onderdeel2">
+      <li.nr>2.</li.nr>
+      <al>Het auteursrecht of andere rechten op de databank of op de in de databank opgenomen werken, gegevens of andere elementen blijven onverlet.</al>
+    </li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_2/Onderdeel3">
+      <li.nr>3.</li.nr>
+      <al>Indien een exemplaar van een databank door of met toestemming van de producent of zijn rechtverkrijgende voor de eerste maal in het verkeer is gebracht door eigendomsoverdracht in een van de lidstaten van de Europese Unie of in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992, vormt anderszins in het verkeer brengen in die staten van dat exemplaar geen inbreuk op het in het eerste lid bedoelde recht.</al>
+    </li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_2/Onderdeel4">
+      <li.nr>4.</li.nr>
+      <al>Het in het eerste lid bedoelde recht gaat over bij erfopvolging en is vatbaar voor gehele of gedeeltelijke overdracht. De levering vereist voor gehele of gedeeltelijke overdracht geschiedt door een daartoe bestemde akte.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=4&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=4"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_2/Onderdeel5">
+      <li.nr>5.</li.nr>
+      <al>De rechter kan op vordering van de producent, tussenpersonen wier diensten door derden worden gebruikt om inbreuk op het in het eerste lid bedoelde recht van de producent te maken, bevelen de diensten die gebruikt worden om die inbreuk te maken, te staken.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=5&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=5"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_2/Onderdeel6">
+      <li.nr>6.</li.nr>
+      <al>De voorzieningenrechter kan op vordering van de producent tijdelijke voortzetting van de vermeende inbreuk op het in het eerste lid bedoelde recht toestaan onder de voorwaarde dat zekerheid wordt gesteld voor vergoeding van de door de producent geleden schade. Onder dezelfde voorwaarden kan de rechter voortzetting van de dienstverlening door de tussenpersoon als bedoeld in het vijfde lid toestaan.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=6&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=6"/></jcis></meta-data></li>
+  </lijst>
+  <tussenkop kopopmaak="cur">Artikel 3.</tussenkop>
+  <lijst bwb-ng-variabel-deel="/ArtikelI/Opsomming_3" level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_3/Onderdeel1">
+      <li.nr>1.</li.nr>
+      <al>De producent van een databank welke op enigerlei wijze aan het publiek ter beschikking is gesteld mag de rechtmatige gebruiker van die databank niet verhinderen in kwalitatief of kwantitatief opzicht niet-substantiële delen van de inhoud ervan op te vragen of te hergebruiken. Voorzover de rechtmatige gebruiker toestemming heeft om slechts een deel van de databank op te vragen of te hergebruiken, geldt de eerste zin slechts voor dat deel.</al>
+    </li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_3/Onderdeel2">
+      <li.nr>2.</li.nr>
+      <al>Bij overeenkomst kan niet ten nadele van de rechtmatige gebruiker van het eerste lid worden afgeweken.</al>
+    </li>
+  </lijst>
+  <tussenkop kopopmaak="cur">Artikel 4.</tussenkop>
+  <al>De rechtmatige gebruiker van een databank welke op enigerlei wijze aan het publiek ter beschikking is gesteld, mag geen handelingen verrichten waardoor hij de normale exploitatie van de databank in gevaar brengt of ongerechtvaardigde schade aan de producent toebrengt.</al>
+  <tussenkop kopopmaak="cur">Artikel 4a</tussenkop>
+  <al>Als inbreuk op rechten, bedoeld in artikel 2, wordt niet beschouwd:</al>
+  <lijst bwb-ng-variabel-deel="/ArtikelI/Opsomming_4" level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_4/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>opvragingen van een databank, bedoeld in artikel 2, door onderzoeksorganisaties en cultureel erfgoedinstellingen die daartoe rechtmatige toegang hebben, om tekst- en datamining te verrichten met het oog op wetenschappelijk onderzoek; <extref doc="jci1.3:c:BWBR0001886&amp;artikel=15n" label-id="15716624" verwijzing-id="3042694" bwb-id="BWBR0001886">artikel 15n, tweede tot en met vierde lid, van de Auteurswet</extref> is van overeenkomstige toepassing;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=a&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_4/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>onverminderd het in onderdeel a bepaalde, opvragingen van een databank, bedoeld in artikel 2, in het kader van tekst- en datamining door degene die daartoe rechtmatige toegang hebben en het databankenrecht niet uitdrukkelijk op passende wijze is voorbehouden, zoals door middel van machinaal leesbare middelen bij een online ter beschikking gestelde databank; <extref doc="jci1.3:c:BWBR0001886&amp;artikel=15o" label-id="15716634" verwijzing-id="3042695" bwb-id="BWBR0001886">artikel 15o, tweede lid, van de Auteurswet</extref> is van overeenkomstige toepassing.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=b&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_4/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>opvragingen en hergebruik van een databank, bedoeld in artikel 2, uitsluitend ter toelichting bij het onderwijs, voor zover dit door het beoogde, niet commerciële doel wordt gerechtvaardigd; de <extref doc="jci1.3:c:BWBR0001886&amp;artikel=16" label-id="2879084" verwijzing-id="3042696" bwb-id="BWBR0001886">artikelen 16, eerste, onder 1°. tot en met 4°., vijfde en zesde lid</extref>, en <extref doc="jci1.3:c:BWBR0001886&amp;artikel=47d" label-id="15907384" verwijzing-id="3078457" bwb-id="BWBR0001886">47d, eerste lid, van de Auteurswet</extref> zijn van overeenkomstige toepassing;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=c&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_4/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>opvragingen van een databank, bedoeld in artikel 2, door cultureel erfgoedinstellingen mits:</al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_4/Onderdeeld/Onderdeel1">
+          <li.nr>1°.</li.nr>
+          <al>de opvragingen geschieden met als doel het behoud van de databank en de opvragingen daarvoor noodzakelijk zijn; en</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=d&amp;o=1&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=1"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_4/Onderdeeld/Onderdeel2">
+          <li.nr>2°.</li.nr>
+          <al>de databank permanent deel uitmaakt van de collectie van de cultureel erfgoedinstellingen;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=d&amp;o=2&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=2"/></jcis></meta-data></li>
+      </lijst>
+      <al>
+        <extref doc="jci1.3:c:BWBR0001886&amp;artikel=16n" label-id="5955634" verwijzing-id="3042698" bwb-id="BWBR0001886">artikel 16n, tweede lid, van de Auteurswet</extref> is van overeenkomstige toepassing; en</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=d&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=d"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_4/Onderdeele">
+      <li.nr>e.</li.nr>
+      <al>het op een niet-commerciële website beschikbaar stellen voor het publiek van een databank, door een cultureel erfgoedinstelling mits:</al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_4/Onderdeele/Onderdeel1">
+          <li.nr>1°.</li.nr>
+          <al>de databank niet in de handel is;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=e&amp;o=1&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=1"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_4/Onderdeele/Onderdeel2">
+          <li.nr>2°.</li.nr>
+          <al>de databank permanent deel uitmaakt van de collectie van de erfgoedinstelling;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=e&amp;o=2&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=2"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_4/Onderdeele/Onderdeel3">
+          <li.nr>3°.</li.nr>
+          <al>de databank beschikbaar wordt gesteld op een niet-commerciële website; en</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=e&amp;o=3&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=3"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_4/Onderdeele/Onderdeel4">
+          <li.nr>4°.</li.nr>
+          <al>de naam van de producent of zijn rechtverkrijgende wordt vermeld, tenzij dit niet mogelijk blijkt;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=e&amp;o=4&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=4"/></jcis></meta-data></li>
+      </lijst>
+      <al>de <extref doc="jci1.3:c:BWBR0001886&amp;artikel=18c" label-id="15716644" verwijzing-id="3042699" bwb-id="BWBR0001886">artikelen 18c, tweede en derde lid</extref>, en <extref doc="jci1.3:c:BWBR0001886&amp;artikel=47d" label-id="15907384" verwijzing-id="3078458" bwb-id="BWBR0001886">47d, tweede lid, van de Auteurswet</extref> zijn van overeenkomstige toepassing.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=e&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=e"/></jcis></meta-data></li>
+  </lijst>
+  <tussenkop kopopmaak="cur">Artikel 5.</tussenkop>
+  <lijst bwb-ng-variabel-deel="/ArtikelI/Opsomming_5" level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_5/Onderdeel1">
+      <li.nr>1.</li.nr>
+      <al>De rechtmatige gebruiker van een databank die op enigerlei wijze aan het publiek ter beschikking is gesteld mag zonder toestemming van de producent van de databank een substantieel deel van de inhoud van de databank:</al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_5/Onderdeel1/Onderdeela">
+          <li.nr>a.</li.nr>
+          <al>opvragen voor privé doeleinden, mits het een niet-elektronische databank betreft;</al>
+        </li>
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_5/Onderdeel1/Onderdeelb">
+          <li.nr>b.</li.nr>
+          <al>opvragen ter illustratie bij onderwijs of voor wetenschappelijk onderzoek, met bronvermelding en voor zover door het niet-commerciële doel gerechtvaardigd onverminderd het in artikel 4a, onderdelen a en c, bepaalde; en</al>
+        </li>
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_5/Onderdeel1/Onderdeelc">
+          <li.nr>c.</li.nr>
+          <al>opvragen of hergebruiken voor de openbare veiligheid of in het kader van een administratieve of rechterlijke procedure.</al>
+        </li>
+      </lijst>
+    </li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_5/Onderdeel2">
+      <li.nr>2.</li.nr>
+      <al>De <extref doc="jci1.3:c:BWBR0001886&amp;artikel=15j" label-id="14707014,14707024,14707034,14707044" verwijzing-id="2900897" bwb-id="BWBR0001886">artikelen 15j tot en met 15m</extref>, <extref doc="jci1.3:c:BWBR0001886&amp;artikel=16g" label-id="2879154" verwijzing-id="2897936" bwb-id="BWBR0001886">16g</extref> en <extref doc="jci1.3:c:BWBR0001886&amp;artikel=17d" label-id="2879204" verwijzing-id="2897937" bwb-id="BWBR0001886">17d van de Auteurswet</extref> zijn van overeenkomstige toepassing.</al>
+    </li>
+  </lijst>
+  <tussenkop kopopmaak="cur">Artikel 5a.</tussenkop>
+  <lijst bwb-ng-variabel-deel="/ArtikelI/Opsomming_6" level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_6/Onderdeel1">
+      <li.nr>1.</li.nr>
+      <al>Degene, die doeltreffende technische voorzieningen omzeilt en dat weet of redelijkerwijs behoort te weten, handelt onrechtmatig.</al>
+    </li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_6/Onderdeel2">
+      <li.nr>2.</li.nr>
+      <al>Degene die diensten verricht of inrichtingen, producten of onderdelen vervaardigt, invoert, distribueert, verkoopt, verhuurt, adverteert of voor commerciële doeleinden bezit die:</al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_6/Onderdeel2/Onderdeela">
+          <li.nr>a)</li.nr>
+          <al>aangeboden, aangeprezen of in de handel gebracht worden met het doel om de beschermende werking van doeltreffende technische voorzieningen te omzeilen, of</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=2&amp;o=a&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=a"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_6/Onderdeel2/Onderdeelb">
+          <li.nr>b)</li.nr>
+          <al>slechts een commercieel beperkt doel of nut hebben anders dan het omzeilen van de beschermende werking van doeltreffende technische voorzieningen, of</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=2&amp;o=b&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=b"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_6/Onderdeel2/Onderdeelc">
+          <li.nr>c)</li.nr>
+          <al>vooral ontworpen, vervaardigd of aangepast worden met het doel het omzeilen van de beschermende werking van doeltreffende technische voorzieningen mogelijk of gemakkelijker te maken,</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;o=2&amp;o=c&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=c"/></jcis></meta-data></li>
+      </lijst>
+      <al>handelt onrechtmatig.</al>
+    </li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_6/Onderdeel3">
+      <li.nr>3.</li.nr>
+      <al>Bij algemene maatregel van bestuur kunnen regelen worden vastgesteld die de producent van de databank er toe verplichten aan de gebruiker van de databank voor doeleinden als omschreven in artikel 5, eerste lid, de nodige middelen te verschaffen om van deze beperking te profiteren, mits de gebruiker rechtmatig toegang tot de door de technische voorziening beschermde databank heeft. Het bepaalde in de voorgaande zin geldt niet ten aanzien van databanken die onder contractuele voorwaarden aan gebruikers beschikbaar worden gesteld op een door hen individueel gekozen plaats en tijd. <extref doc="jci1.3:c:BWBR0001886&amp;artikel=17d" label-id="2879204" verwijzing-id="1858901" bwb-id="BWBR0001886">Artikel 17d van de Auteurswet 1912</extref> is van overeenkomstige toepassing.</al>
+    </li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_6/Onderdeel4">
+      <li.nr>4.</li.nr>
+      <al>Bij algemene maatregel van bestuur kunnen regels worden vastgesteld die de producent van de databank er toe verplichten aan de gebruiker van de databank voor doeleinden als omschreven in artikel 4a, onderdelen a tot en met d, en <extref doc="jci1.3:c:BWBR0001886&amp;artikel=5" label-id="2878854" verwijzing-id="2897938" bwb-id="BWBR0001886">artikel 5, tweede lid</extref>, juncto <extref doc="jci1.3:c:BWBR0001886&amp;artikel=15j" label-id="14707014" verwijzing-id="2900898" bwb-id="BWBR0001886">artikel 15j van de Auteurswet</extref> de nodige middelen te verschaffen om van deze beperkingen te profiteren, mits de gebruiker rechtmatig toegang heeft tot de door de technische voorziening beschermde databank. <extref doc="jci1.3:c:BWBR0001886&amp;artikel=17d" label-id="2879204" verwijzing-id="2897939" bwb-id="BWBR0001886">Artikel 17d van de Auteurswet</extref> is van overeenkomstige toepassing.</al>
+    </li>
+  </lijst>
+  <tussenkop kopopmaak="cur">Artikel 5b.</tussenkop>
+  <al>Degene die opzettelijk en zonder daartoe gerechtigd te zijn elektronische informatie betreffende het beheer van rechten verwijdert of wijzigt, of databanken waaruit op ongeoorloofde wijze dergelijke informatie is verwijderd of waarin op ongeoorloofde wijze dergelijke informatie is gewijzigd, verspreidt, ter verspreiding invoert, uitzendt of anderszins openbaar maakt, en weet of redelijkerwijs behoort te weten dat hij zodoende aanzet tot inbreuk op het databankenrecht, dan wel een dergelijke inbreuk mogelijk maakt, vergemakkelijkt of verbergt, handelt onrechtmatig.</al>
+  <tussenkop kopopmaak="cur">Artikel 5ba</tussenkop>
+  <lijst bwb-ng-variabel-deel="/ArtikelI/Opsomming_7" level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_7/Onderdeel1">
+      <li.nr>1.</li.nr>
+      <al>Op een collectieve beheersorganisatie als bedoeld in <extref doc="jci1.3:c:BWBR0014779&amp;artikel=1" label-id="3355064" verwijzing-id="3042690" bwb-id="BWBR0014779">artikel 1, onderdeel d, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten</extref> die een niet-exclusieve licentie voor niet-commerciële doeleinden verleent aan een cultureel erfgoedinstelling voor het opvragen en hergebruiken van een databank die permanent deel uitmaakt van de collectie van die erfgoedinstelling en die niet in de handel verkrijgbaar is, zijn <extref doc="jci1.3:c:BWBR0001886&amp;artikel=17d" label-id="2879204" verwijzing-id="3042701" bwb-id="BWBR0001886">artikel 17d</extref> en de <extref doc="jci1.3:c:BWBR0001886&amp;hoofdstuk=IVa" label-id="15716734" verwijzing-id="3042702" bwb-id="BWBR0001886">eerste paragraaf van hoofdstuk IVa van de Auteurswet</extref> van overeenkomstige toepassing.</al>
+    </li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_7/Onderdeel2">
+      <li.nr>2.</li.nr>
+      <al>Op een collectieve beheersorganisatie als bedoeld in <extref doc="jci1.3:c:BWBR0014779&amp;artikel=1" label-id="3355064" verwijzing-id="3042693" bwb-id="BWBR0014779">artikel 1, onderdeel d, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten</extref> die een licentie een verruimde werking verleent voor het opvragen en hergebruiken van een databank, zijn de <extref doc="jci1.3:c:BWBR0001886&amp;artikel=17d" label-id="2879204" verwijzing-id="3042703" bwb-id="BWBR0001886">artikelen 17d</extref> en <extref doc="jci1.3:c:BWBR0001886&amp;artikel=45" label-id="2879674" verwijzing-id="3042704" bwb-id="BWBR0001886">45 van de Auteurswet</extref> van overeenkomstige toepassing.</al>
+    </li>
+  </lijst>
+  <tussenkop kopopmaak="cur">Artikel 5c.</tussenkop>
+  <lijst bwb-ng-variabel-deel="/ArtikelI/Opsomming_8" level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_8/Onderdeel1">
+      <li.nr>1.</li.nr>
+      <al>Inbreuk op het recht genoemd in artikel 2 en inbreuk op het in artikel 5a, eerste en tweede lid, of artikel 5b bepaalde, geeft de bevoegdheid het geheel of een deel van de inhoud van de databank als bedoeld in artikel 2 en inrichtingen, producten en onderdelen als bedoeld in artikel 5a of databanken als bedoeld in artikel 5b als zijn eigendom op te eisen dan wel onttrekking aan het handelsverkeer, vernietiging of onbruikbaarmaking daarvan te vorderen. Gelijke bevoegdheid bestaat ten aanzien van roerende zaken die geen registergoederen zijn en die rechtstreeks hebben gediend tot de vervaardiging van de inrichtingen, producten en onderdelen, bedoeld in de eerste zin.</al>
+    </li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_8/Onderdeel2">
+      <li.nr>2.</li.nr>
+      <al>De bepalingen van het <extref doc="jci1.3:c:BWBR0001827" label-id="3192094" verwijzing-id="1858902" bwb-id="BWBR0001827">Wetboek van Burgerlijke Rechtsvordering</extref> betreffende beslag en executie tot afgifte van roerende zaken die geen registergoederen zijn, zijn van toepassing. Bij samenloop met een ander beslag gaat degene die beslag heeft gelegd krachtens dit artikel voor.</al>
+    </li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_8/Onderdeel3">
+      <li.nr>3.</li.nr>
+      <al>De maatregelen bedoeld in het eerste lid worden op kosten van de verweerder uitgevoerd, tenzij bijzondere redenen dit beletten.</al>
+    </li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_8/Onderdeel4">
+      <li.nr>4.</li.nr>
+      <al>Tenzij anders is overeengekomen, heeft de licentienemer het recht de uit het eerste lid voortvloeiende bevoegdheden uit te oefenen, voor zover deze strekken tot bescherming van de rechten waarvan de uitoefening hem is toegestaan.</al>
+    </li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_8/Onderdeel5">
+      <li.nr>5.</li.nr>
+      <al>De rechter kan op vordering van de producent degene die inbreuk op diens recht heeft gemaakt, bevelen al hetgeen hem bekend is omtrent de herkomst en distributiekanalen van de databanken en delen van databanken die inbreuk maken, aan de gerechtigde mee te delen en alle daarop betrekking hebbende gegevens aan deze te verstrekken. Onder dezelfde voorwaarden kan dit bevel worden gegeven aan een derde die op commerciële schaal inbreukmakende databanken of delen van databanken in zijn bezit heeft of gebruikt, die op commerciële schaal diensten verleent die bij de inbreuk worden gebruikt, of die door een van deze derden is aangewezen als zijnde betrokken bij de productie, fabricage of distributie van deze databanken of delen van databanken of bij het verlenen van deze diensten. Deze derde kan zich verschonen van het verstrekken van informatie die bewijs zou vormen van deelname aan een inbreuk op een recht van intellectuele eigendom door hem zelf of door de andere in <extref doc="jci1.3:c:BWBR0001827&amp;artikel=165" label-id="3179094" verwijzing-id="2136586" bwb-id="BWBR0001827">artikel 165, derde lid, Wetboek van Burgerlijke Rechtsvordering</extref> bedoelde personen.</al>
+    </li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_8/Onderdeel6">
+      <li.nr>6.</li.nr>
+      <al>Bij de beoordeling van de maatregelen die de producent of diens licentienemer kan vorderen ingevolge de bevoegdheden, genoemd in het eerste lid, houdt de rechter rekening met de noodzakelijke evenredigheid tussen de ernst van de inbreuk en de gevorderde maatregelen en met de belangen van derden.</al>
+    </li>
+  </lijst>
+  <tussenkop kopopmaak="cur">Artikel 5d.</tussenkop>
+  <lijst bwb-ng-variabel-deel="/ArtikelI/Opsomming_9" level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_9/Onderdeel1">
+      <li.nr>1.</li.nr>
+      <al>Naast schadevergoeding kan de producent van de databank of zijn rechtverkrijgende vorderen dat degene die inbreuk op het databankrecht heeft gemaakt, wordt veroordeeld de door deze ten gevolge van de inbreuk genoten winst af te dragen en dienaangaande rekening en verantwoording af te leggen.</al>
+    </li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_9/Onderdeel2">
+      <li.nr>2.</li.nr>
+      <al>In passende gevallen kan de rechter de schadevergoeding vaststellen als een forfaitair bedrag.</al>
+    </li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_9/Onderdeel3">
+      <li.nr>3.</li.nr>
+      <al>De producent of diens rechtverkrijgende kan de in het eerste lid bedoelde vorderingen of een van deze ook namens of mede namens een licentienemer instellen, onverminderd de bevoegdheid van deze laatste in een al of niet namens hem of mede namens hem door de producent of diens rechtverkrijgende ingesteld geding tussen te komen om rechtstreeks de door hem geleden schade vergoed te krijgen of om zich een evenredig deel van de door de verweerder af te dragen winst te doen toewijzen. De in het eerste lid bedoelde vorderingen of een van deze kan een licentienemer slechts instellen als hij bevoegdheid daartoe van de producent of diens rechtverkrijgende heeft bedongen.</al>
+    </li>
+  </lijst>
+  <tussenkop kopopmaak="cur">Artikel 5e.</tussenkop>
+  <al>De rechter kan op vordering van de producent of zijn rechtverkrijgende gelasten dat op kosten van degene die inbreuk op diens recht heeft gemaakt passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.</al>
+  <tussenkop kopopmaak="cur">Artikel 6.</tussenkop>
+  <lijst bwb-ng-variabel-deel="/ArtikelI/Opsomming_10" level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_10/Onderdeel1">
+      <li.nr>1.</li.nr>
+      <al>Het recht, bedoeld in artikel 2, eerste lid, ontstaat op het tijdstip waarop de productie van de databank is voltooid. Het vervalt door verloop van vijftien jaar na 1 januari van het jaar volgend op het tijdstip van voltooiing.</al>
+    </li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_10/Onderdeel2">
+      <li.nr>2.</li.nr>
+      <al>Indien een databank voor het tijdstip waarop de productie werd voltooid ter beschikking van het publiek is gesteld, vervalt het recht, bedoeld in artikel 2, eerste lid, door verloop van vijftien jaar na 1 januari van het jaar volgend op het tijdstip waarop de databank voor het eerst ter beschikking van het publiek werd gesteld.</al>
+    </li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_10/Onderdeel3">
+      <li.nr>3.</li.nr>
+      <al>Met elke in kwalitatief of kwantitatief opzicht substantiële wijziging van de inhoud van de databank, met name door opeenvolgende toevoegingen, weglatingen of veranderingen, die in kwalitatief of kwantitatief opzicht getuigt van een nieuwe substantiële investering, ontstaat een nieuw recht als bedoeld in artikel 2, eerste lid, voor de door die investering ontstane databank.</al>
+    </li>
+  </lijst>
+  <tussenkop kopopmaak="cur">Artikel 7.</tussenkop>
+  <al>Het recht, bedoeld in artikel 2, eerste lid, komt toe aan:</al>
+  <lijst bwb-ng-variabel-deel="/ArtikelI/Opsomming_11" level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_11/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>de producent van de databank of zijn rechtverkrijgende die onderdaan is van of zijn gewone verblijfplaats heeft op het grondgebied van een lidstaat van de Europese Unie of van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_11/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>de producent van de databank of zijn rechtverkrijgende die een rechtspersoon is die is opgericht overeenkomstig de wetgeving van een lidstaat van de Europese Unie of van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992 en haar statutaire zetel, hoofdbestuur of hoofdvestiging heeft binnen het grondgebied van een van die staten; indien een dergelijke rechtspersoon echter alleen haar statutaire zetel op het grondgebied van een van die staten heeft, moeten haar werkzaamheden een daadwerkelijke en duurzame band hebben met de economie van die staat;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_11/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>de producent van de databank of zijn rechtverkrijgende die een recht kan ontlenen aan een overeenkomst die de Raad van de Europese Unie heeft gesloten met andere landen dan bedoeld onder a. of b.</al>
+    </li>
+  </lijst>
+  <tussenkop kopopmaak="cur">Artikel 8.</tussenkop>
+  <lijst bwb-ng-variabel-deel="/ArtikelI/Opsomming_12" level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_12/Onderdeel1">
+      <li.nr>1.</li.nr>
+      <al>De openbare macht bezit het recht, bedoeld in artikel 2, eerste lid, niet ten aanzien van databanken waarvan zij de producent is en waarvan de inhoud gevormd wordt door wetten, besluiten en verordeningen, door haar uitgevaardigd, rechterlijke uitspraken en administratieve beslissingen.</al>
+    </li>
+    <li bwb-ng-variabel-deel="/ArtikelI/Opsomming_12/Onderdeel2">
+      <li.nr>2.</li.nr>
+      <al>Het recht, bedoeld in artikel 2, eerste lid, is niet van toepassing op databanken waarvan de openbare macht de producent is, tenzij het recht hetzij in het algemeen bij de wet, besluit of verordening, hetzij in een bepaald geval blijkens mededeling op de databank zelf of bij de terbeschikkingstelling aan het publiek van de databank uitdrukkelijk is voorbehouden. </al>
+    </li>
+  </lijst>
+  <tussenkop kopopmaak="cur">Artikel 9.</tussenkop>
+  <al>Deze wet wordt aangehaald als: Databankenwet.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-558"><publicatiejaar>2020</publicatiejaar><publicatienr>558</publicatienr><uitgiftedatum isodatum="2020-12-29">29-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-16">16-12-2020</ondertekeningsdatum><dossierref dossier="35454">35454</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-559"><publicatiejaar>2020</publicatiejaar><publicatienr>559</publicatienr><uitgiftedatum isodatum="2020-12-29">29-12-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-12-18">18-12-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-06-07">07-06-2021</inwerkingtreding.datum></inwerkingtreding></brondata><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-248"><publicatiejaar>2021</publicatiejaar><publicatienr>248</publicatienr><uitgiftedatum isodatum="2021-06-01">01-06-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-05-19">19-05-2021</ondertekeningsdatum><dossierref dossier="35597">35597</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-249"><publicatiejaar>2021</publicatiejaar><publicatienr>249</publicatienr><uitgiftedatum isodatum="2021-06-01">01-06-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-05-31">31-05-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-06-07">07-06-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0010591&amp;artikel=I&amp;g=2021-06-07" onderdeel="artikel=I" korte-verwijzing="1.0:c:BWBR0010591&amp;artikel=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="artikel=I" korte-verwijzing="jci1.3:c:BWBR0010591&amp;artikel=I"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelII" code="b1-ii" stam-id="1910353" versie-id="2832922" id="C25180031" label-id="1860224" inwerking="1999-07-21" label="ARTIKEL II" bron="Stb.1999-303" effect="nieuwe-regeling" ondertekening_bron="1999-07-08" publicatie_bron="1999-07-20" publicatie_iwt="1999-07-20" status="goed">
+  <kop>
+    <label>ARTIKEL</label>
+    <nr status="officieel">II</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Auteurswet 1912.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1999-303"><publicatiejaar>1999</publicatiejaar><publicatienr>303</publicatienr><uitgiftedatum isodatum="1999-07-20">20-07-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-07-08">08-07-1999</ondertekeningsdatum><dossierref dossier="26108">26108</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1999-303"><publicatiejaar>1999</publicatiejaar><publicatienr>303</publicatienr><uitgiftedatum isodatum="1999-07-20">20-07-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-07-08">08-07-1999</ondertekeningsdatum><dossierref dossier="26108">26108</dossierref></publicatie><inwerkingtreding.datum isodatum="1999-07-21">21-07-1999</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0010591&amp;artikel=II&amp;g=2021-06-07" onderdeel="artikel=II" korte-verwijzing="1.0:c:BWBR0010591&amp;artikel=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=II&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="artikel=II" korte-verwijzing="jci1.3:c:BWBR0010591&amp;artikel=II"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIII" code="b1-iii" stam-id="1910363" versie-id="15224302" id="C25180041" label-id="1860234" inwerking="2008-03-26" label="ARTIKEL III" bron="Stb.2008-85" effect="wijziging" ondertekening_bron="2008-03-13" publicatie_bron="2008-03-25" publicatie_iwt="2008-03-25" status="goed">
+  <kop>
+    <label>ARTIKEL</label>
+    <nr status="officieel">III</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/ArtikelIII/LidA" label-id="1860234L1">
+    <lidnr status="officieel">A</lidnr>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/ArtikelIII/LidA/Onderdeel1">
+        <li.nr>1.</li.nr>
+        <al>
+          <intref verwijzing-id="1632465" bwb-id="BWBR0010591" label-id="1860214" doc="">Artikel I</intref> is ook van toepassing op databanken waarvan de productie na 1 januari 1983 voltooid is, met dien verstande dat aan vóór 1 januari 1998 verrichte handelingen en verkregen rechten geen afbreuk wordt gedaan.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=III&amp;lid=A&amp;o=1&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=1"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/ArtikelIII/LidA/Onderdeel2">
+        <li.nr>2.</li.nr>
+        <al>Het recht, bedoeld in artikel 2, eerste lid, vervalt in dat geval op 1 januari 2014.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=III&amp;lid=A&amp;o=2&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="o=2"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=III&amp;lid=A&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="lid=A"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelIII/LidB" label-id="1860234L2">
+    <lidnr status="officieel">B</lidnr>
+    <al>
+      <intref verwijzing-id="1632464" doc="jci1.3:c:BWBR0010591&amp;artikel=II&amp;z=2021-06-07&amp;g=2021-06-07" bwb-id="BWBR0010591" label-id="1860224" bwb-ng-variabel-deel="/ArtikelII">Artikel II</intref> is ook van toepassing op verzamelingen als bedoeld in <extref doc="jci1.3:c:BWBR0001886&amp;artikel=10" verwijzing-id="652604" bwb-id="BWBR0001886" label-id="2878914">artikel 10, derde lid, van de Auteurswet</extref> die vóór 1 januari 1998 gemaakt zijn, met dien verstande dat aan vóór die datum verrichte handelingen en verkregen rechten geen afbreuk wordt gedaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=III&amp;lid=B&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="lid=B"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelIII/LidC" label-id="1860234L3">
+    <lidnr status="officieel">C</lidnr>
+    <al>Op verzamelingen als bedoeld in <extref doc="jci1.3:c:BWBR0001886&amp;artikel=10" verwijzing-id="652605" bwb-id="BWBR0001886" label-id="2878914">artikel 10, derde lid, van de Auteurswet</extref> die op 27 maart 1996 behoorden tot de in <extref doc="jci1.3:c:BWBR0001886&amp;artikel=10" verwijzing-id="652606" bwb-id="BWBR0001886" label-id="2878914">artikel 10, eerste lid, onder 1°, van de Auteurswet</extref> genoemde geschriften blijven de bepalingen in <extref doc="jci1.3:c:BWBR0001886&amp;hoofdstuk=III" verwijzing-id="652607" bwb-id="BWBR0001886" label-id="2879644">hoofdstuk III van de Auteurswet</extref> over de duur van het auteursrecht van toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=III&amp;lid=C&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="lid=C"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-85"><publicatiejaar>2008</publicatiejaar><publicatienr>85</publicatienr><uitgiftedatum isodatum="2008-03-25">25-03-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-03-13">13-03-2008</ondertekeningsdatum><dossierref dossier="31248">31248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-85"><publicatiejaar>2008</publicatiejaar><publicatienr>85</publicatienr><uitgiftedatum isodatum="2008-03-25">25-03-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-03-13">13-03-2008</ondertekeningsdatum><dossierref dossier="31248">31248</dossierref></publicatie><inwerkingtreding.datum isodatum="2008-03-26">26-03-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0010591&amp;artikel=III&amp;g=2021-06-07" onderdeel="artikel=III" korte-verwijzing="1.0:c:BWBR0010591&amp;artikel=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=III&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="artikel=III" korte-verwijzing="jci1.3:c:BWBR0010591&amp;artikel=III"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIV" code="b1-iv" stam-id="1910373" versie-id="2832942" id="C25227691" label-id="1860244" inwerking="1999-07-21" label="ARTIKEL IV" bron="Stb.1999-303" effect="nieuwe-regeling" ondertekening_bron="1999-07-08" publicatie_bron="1999-07-20" publicatie_iwt="1999-07-20" status="goed">
+  <kop>
+    <label>ARTIKEL</label>
+    <nr status="officieel">IV</nr>
+  </kop>
+  <al>Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1999-303"><publicatiejaar>1999</publicatiejaar><publicatienr>303</publicatienr><uitgiftedatum isodatum="1999-07-20">20-07-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-07-08">08-07-1999</ondertekeningsdatum><dossierref dossier="26108">26108</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1999-303"><publicatiejaar>1999</publicatiejaar><publicatienr>303</publicatienr><uitgiftedatum isodatum="1999-07-20">20-07-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-07-08">08-07-1999</ondertekeningsdatum><dossierref dossier="26108">26108</dossierref></publicatie><inwerkingtreding.datum isodatum="1999-07-21">21-07-1999</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0010591&amp;artikel=IV&amp;g=2021-06-07" onderdeel="artikel=IV" korte-verwijzing="1.0:c:BWBR0010591&amp;artikel=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;artikel=IV&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="artikel=IV" korte-verwijzing="jci1.3:c:BWBR0010591&amp;artikel=IV"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="1910383" versie-id="2832952" id="C20867771" label-id="1860254" inwerking="1999-07-21" bron="Stb.1999-303" effect="nieuwe-regeling" ondertekening_bron="1999-07-08" publicatie_bron="1999-07-20" publicatie_iwt="1999-07-20" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">8 juli 1999</datum>
+    </dagtekening>
+    <koning>Beatrix </koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Justitie,</functie>
+    <naam>
+      <achternaam>A. H. Korthals</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de <nadruk type="cur">twintigste</nadruk> juli 1999</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>A. H. Korthals</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1999-303"><publicatiejaar>1999</publicatiejaar><publicatienr>303</publicatienr><uitgiftedatum isodatum="1999-07-20">20-07-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-07-08">08-07-1999</ondertekeningsdatum><dossierref dossier="26108">26108</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1999-303"><publicatiejaar>1999</publicatiejaar><publicatienr>303</publicatienr><uitgiftedatum isodatum="1999-07-20">20-07-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-07-08">08-07-1999</ondertekeningsdatum><dossierref dossier="26108">26108</dossierref></publicatie><inwerkingtreding.datum isodatum="1999-07-21">21-07-1999</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1999-303"><publicatiejaar>1999</publicatiejaar><publicatienr>303</publicatienr><uitgiftedatum isodatum="1999-07-20">20-07-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-07-08">08-07-1999</ondertekeningsdatum><dossierref dossier="26108">26108</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1999-303"><publicatiejaar>1999</publicatiejaar><publicatienr>303</publicatienr><uitgiftedatum isodatum="1999-07-20">20-07-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-07-08">08-07-1999</ondertekeningsdatum><dossierref dossier="26108">26108</dossierref></publicatie><inwerkingtreding.datum isodatum="1999-07-21">21-07-1999</inwerkingtreding.datum></inwerkingtreding></brondata><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-1999-303"><publicatiejaar>1999</publicatiejaar><publicatienr>303</publicatienr><uitgiftedatum isodatum="1999-07-20">20-07-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-07-08">08-07-1999</ondertekeningsdatum><dossierref dossier="26108">26108</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-1999-303"><publicatiejaar>1999</publicatiejaar><publicatienr>303</publicatienr><uitgiftedatum isodatum="1999-07-20">20-07-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-07-08">08-07-1999</ondertekeningsdatum><dossierref dossier="26108">26108</dossierref></publicatie><inwerkingtreding.datum isodatum="1999-07-21">21-07-1999</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0010591&amp;g=2021-06-07" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0010591"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0010591&amp;z=2021-06-07&amp;g=2021-06-07" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0010591"/></jcis></meta-data></wetgeving></toestand>

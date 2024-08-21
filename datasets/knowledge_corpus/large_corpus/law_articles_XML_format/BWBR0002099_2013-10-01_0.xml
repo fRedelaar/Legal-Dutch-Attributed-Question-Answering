@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0002099/2013-10-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0002099" inwerkingtreding="2013-10-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="903843" versie-id="20435612" id="C28719831" label-id="876904" inwerkingtredingsdatum="2012-12-13">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="903873" versie-id="1321202" id="C1321201" label-id="876454" inwerking="1952-08-05" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">Wet van 10 Juli 1952, houdende vaststelling van de Wet Oorlogsstrafrecht alsmede van enige daarmede verband houdende wijzigingen in het Wetboek van Strafrecht, het Wetboek van Militair Strafrecht en de Invoeringswet Militair Straf- en Tuchtrecht<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="903883" versie-id="1321222" id="C1321221" label-id="876464" inwerking="1952-08-05" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10">Wet oorlogsstrafrecht<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="903893" versie-id="1321232" id="C1321231" label-id="876474" inwerking="1952-08-05" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <wij>Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is bepalingen vast te stellen met betrekking tot in geval van oorlog gepleegde misdrijven en hun berechting, zomede enige wijzigingen aan te brengen in het <extref doc="jci1.3:c:BWBR0001854" verwijzing-id="277740" bwb-id="BWBR0001854" label-id="2970494">Wetboek van Strafrecht</extref>, het <extref doc="jci1.3:c:BWBR0001869" verwijzing-id="277741" bwb-id="BWBR0001869" label-id="469844">Wetboek van Militair Strafrecht</extref> en de Invoeringswet Militair Straf- en Tuchtrecht;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/ArtikelI" code="a-i" stam-id="903903" versie-id="1321242" id="C1321241" label-id="876484" inwerking="1952-08-05" label="Artikel I" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>I</nr>
+  </kop>
+  <al>De navolgende bepalingen worden vastgesteld, die kunnen worden aangehaald als WET OORLOGSSTRAFRECHT</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=I&amp;g=2013-10-01" onderdeel="artikel=I" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=I&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=I" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=I"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="903913" versie-id="7837182" id="C30831791" label-id="876494" inwerking="2003-10-01" label="Artikel 1" bron="Stb.2003-270" effect="wijziging" ondertekening_bron="2003-06-19" publicatie_bron="2003-07-03" publicatie_iwt="2003-09-02" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid1" label-id="876494L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De bepalingen van deze wet zijn van toepassing op de misdrijven, in geval van oorlog begaan of eerst in geval van oorlog strafbaar, welke zijn omschreven in: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeel1">
+        <li.nr>1°.</li.nr>
+        <al>een der <extref doc="jci1.3:c:BWBR0001854&amp;titeldeel=I" label-id="2965184" verwijzing-id="1776752" bwb-id="BWBR0001854">Titels I</extref> en <extref doc="jci1.3:c:BWBR0001854&amp;titeldeel=II" label-id="2965264" verwijzing-id="1776753" bwb-id="BWBR0001854">II van het Tweede Boek van het Wetboek van Strafrecht</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=1&amp;lid=1&amp;o=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="o=1"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeel2">
+        <li.nr>2°.</li.nr>
+        <al>het <extref doc="jci1.3:c:BWBR0001869" label-id="469844" verwijzing-id="277753" bwb-id="BWBR0001869">Wetboek van Militair Strafrecht</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=1&amp;lid=1&amp;o=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="o=2"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeel3">
+        <li.nr>3°.</li.nr>
+        <al>de <intref doc="jci1.3:c:BWBR0002099&amp;artikel=4&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876524,876534,876544,876554" verwijzing-id="1776748" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel4">artikelen 4 tot en met 7 van deze wet</intref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=1&amp;lid=1&amp;o=3&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="o=3"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeel4">
+        <li.nr>4°.</li.nr>
+        <al>de <extref doc="jci1.3:c:BWBR0001854&amp;artikel=131" label-id="2965474,2965484,2965494,2965504" verwijzing-id="277756" bwb-id="BWBR0001854">artikelen 131 tot en met 134</extref>, <extref doc="jci1.3:c:BWBR0001854&amp;artikel=189" label-id="2966404" verwijzing-id="277758" bwb-id="BWBR0001854">189</extref> en <extref doc="jci1.3:c:BWBR0001854&amp;artikel=416" label-id="2969374,2969384,2969394" verwijzing-id="277759" bwb-id="BWBR0001854">416-417<nadruk type="cur">bis</nadruk> van het Wetboek van Strafrecht</extref>, indien het strafbare feit of het misdrijf, waarvan in die artikelen gesproken wordt, is een misdrijf als in dit artikel bedoeld.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=1&amp;lid=1&amp;o=4&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="o=4"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=1&amp;lid=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid2" label-id="876494L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> In geval van een gewapend conflict, dat niet als oorlog kan worden aangemerkt en waarbij Nederland is betrokken hetzij ter individuele of collectieve zelfverdediging, hetzij tot herstel van internationale orde en veiligheid, zijn de <intref doc="jci1.3:c:BWBR0002099&amp;artikel=4&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876524,876534,876544,876554" verwijzing-id="1776747" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel4">artikelen 4 tot en met 7</intref> van overeenkomstige toepassing en kunnen Wij bij algemene maatregel van bestuur bepalen, dat de overige bepalingen van deze wet geheel of ten dele van toepassing zullen zijn.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=1&amp;lid=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid3" label-id="876494L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Onder oorlog wordt begrepen burgeroorlog.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=1&amp;lid=3&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2003-270"><publicatiejaar>2003</publicatiejaar><publicatienr>270</publicatienr><uitgiftedatum isodatum="2003-07-03">03-07-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-06-19">19-06-2003</ondertekeningsdatum><dossierref dossier="28337">28337</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2003-340"><publicatiejaar>2003</publicatiejaar><publicatienr>340</publicatienr><uitgiftedatum isodatum="2003-09-02">02-09-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-08-25">25-08-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-10-01">01-10-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=1&amp;g=2013-10-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" stam-id="903923" versie-id="1321272" id="C30831801" label-id="876504" inwerking="1991-01-01" label="Artikel 2" bron="Stb.1990-372" effect="wijziging" ondertekening_bron="1990-06-14" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <al>Voor zover in deze wet niet anders is bepaald, vinden ten aanzien van de in <intref doc="jci1.3:c:BWBR0002099&amp;artikel=1&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876494" verwijzing-id="1627326" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel1">artikel 1</intref> bedoelde misdrijven de bepalingen van het <extref doc="jci1.3:c:BWBR0001869" label-id="469844" verwijzing-id="277761" bwb-id="BWBR0001869">Wetboek van Militair Strafrecht</extref> en die ter uitvoering daarvan alsmede, behoudens de uitzonderingen bij dat Wetboek vastgesteld, de bepalingen van het gemene strafrecht toepassing, met dien verstande, dat waar in het <extref doc="jci1.3:c:BWBR0001869" label-id="469844" verwijzing-id="277762" bwb-id="BWBR0001869">Wetboek van Militair Strafrecht</extref> of in de bepalingen ter uitvoering daarvan gesproken wordt van de gerechten bedoeld in de <extref doc="jci1.3:c:BWBR0004789" label-id="214544" verwijzing-id="277764" bwb-id="BWBR0004789">Wet militaire strafrechtspraak</extref>, of van in <extref doc="jci1.3:c:BWBR0004789&amp;artikel=2" label-id="213134" verwijzing-id="277766" bwb-id="BWBR0004789">artikel 2 van de Wet militaire strafrechtspraak</extref> genoemde personen, daaronder worden begrepen de bij deze wet aangewezen gerechten onderscheidenlijk de personen vallende onder de rechtsmacht van deze gerechten.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1990</publicatiejaar><publicatienr>372</publicatienr><ondertekeningsdatum isodatum="1990-06-14">14-06-1990</ondertekeningsdatum><dossierref dossier="17804">17804</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1990</publicatiejaar><publicatienr>582</publicatienr><ondertekeningsdatum isodatum="1990-11-30">30-11-1990</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1991-01-01">01-01-1991</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=2&amp;g=2013-10-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="903933" versie-id="7837192" id="C30831811" label-id="876514" inwerking="2003-10-01" label="Artikel 3" bron="Stb.2003-270" effect="wijziging" ondertekening_bron="2003-06-19" publicatie_bron="2003-07-03" publicatie_iwt="2003-09-02" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <al>Onverminderd het te dien aanzien in het <extref doc="jci1.3:c:BWBR0001854" label-id="2970494" verwijzing-id="277770" bwb-id="BWBR0001854">Wetboek van Strafrecht</extref> en het <extref doc="jci1.3:c:BWBR0001869" label-id="469844" verwijzing-id="277771" bwb-id="BWBR0001869">Wetboek van Militair Strafrecht</extref> bepaalde is de Nederlandse strafwet toepasselijk: </al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel3/Onderdeel1">
+      <li.nr>1°.</li.nr>
+      <al>op ieder, die zich buiten het rijk in Europa schuldig maakt aan een misdrijf omschreven in de <intref doc="jci1.3:c:BWBR0002099&amp;artikel=4&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876524" verwijzing-id="1627336" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel4">artikelen 4</intref>-<intref doc="jci1.3:c:BWBR0002099&amp;artikel=7&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876554" verwijzing-id="1627337" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel7">7 van deze wet</intref>, indien dit feit is gepleegd tegen of met betrekking tot een Nederlander of een Nederlands rechtspersoon of indien enig Nederlands belang daardoor is of kon worden geschaad;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=3&amp;o=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="o=1"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel3/Onderdeel2">
+      <li.nr>2°.</li.nr>
+      <al>op ieder, die zich buiten het rijk in Europa schuldig maakt aan een misdrijf, omschreven in een der <extref doc="jci1.3:c:BWBR0001854&amp;artikel=131" label-id="2965474,2965484,2965494,2965504" verwijzing-id="277773" bwb-id="BWBR0001854">artikelen 131 tot en met 134</extref>, <extref doc="jci1.3:c:BWBR0001854&amp;artikel=189" label-id="2966404" verwijzing-id="277775" bwb-id="BWBR0001854">189</extref> en <extref doc="jci1.3:c:BWBR0001854&amp;artikel=416" label-id="2969374,2969384,2969394" verwijzing-id="277776" bwb-id="BWBR0001854">416-417<nadruk type="cur">bis</nadruk> van het Wetboek van Strafrecht</extref>, indien het strafbare feit of het misdrijf, waarvan in die artikelen gesproken wordt, is een misdrijf als hiervoor onder 1°. bedoeld;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=3&amp;o=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="o=2"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel3/Onderdeel3">
+      <li.nr>3°.</li.nr>
+      <al>op de Nederlander, die zich buiten het rijk in Europa schuldig maakt aan een misdrijf, in <intref doc="jci1.3:c:BWBR0002099&amp;artikel=1&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876494" verwijzing-id="1627338" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel1">artikel 1</intref> bedoeld.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=3&amp;o=3&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="o=3"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2003-270"><publicatiejaar>2003</publicatiejaar><publicatienr>270</publicatienr><uitgiftedatum isodatum="2003-07-03">03-07-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-06-19">19-06-2003</ondertekeningsdatum><dossierref dossier="28337">28337</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2003-340"><publicatiejaar>2003</publicatiejaar><publicatienr>340</publicatienr><uitgiftedatum isodatum="2003-09-02">02-09-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-08-25">25-08-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-10-01">01-10-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=3&amp;g=2013-10-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=3&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" stam-id="903943" versie-id="12746202" id="C30831821" label-id="876524" inwerking="2006-02-01" label="Artikel 4" bron="Stb.2006-11" effect="wijziging" ondertekening_bron="2005-12-22" publicatie_bron="2006-01-12" publicatie_iwt="2006-01-19" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <al>De Nederlander, die vrijwillig in krijgsdienst treedt bij een buitenlandse mogendheid, wetende, dat deze met Nederland in oorlog is, wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2006-11"><publicatiejaar>2006</publicatiejaar><publicatienr>11</publicatienr><uitgiftedatum isodatum="2006-01-12">12-01-2006</uitgiftedatum><ondertekeningsdatum isodatum="2005-12-22">22-12-2005</ondertekeningsdatum><dossierref dossier="28484">28484</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2006-23"><publicatiejaar>2006</publicatiejaar><publicatienr>23</publicatienr><uitgiftedatum isodatum="2006-01-19">19-01-2006</uitgiftedatum><ondertekeningsdatum isodatum="2006-01-09">09-01-2006</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2006-02-01">01-02-2006</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=4&amp;g=2013-10-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=4&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" stam-id="903953" versie-id="12746222" id="C30831831" label-id="876534" inwerking="2006-02-01" label="Artikel 5" bron="Stb.2006-11" effect="wijziging" ondertekening_bron="2005-12-22" publicatie_bron="2006-01-12" publicatie_iwt="2006-01-19" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid1" label-id="876534L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Hij die in geval van oorlog opzettelijk een ander blootstelt aan opsporing, vervolging, vrijheidsberoving of -beperking, enige straf of enige maatregel door of vanwege de vijand of diens helpers, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=5&amp;lid=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid2" label-id="876534L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Levenslange gevangenisstraf, of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie wordt opgelegd, indien het feit zwaar lichamelijk letsel, de dood of de vermissing, waaruit redelijkerwijze de dood is af te leiden, ten gevolge heeft.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=5&amp;lid=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2006-11"><publicatiejaar>2006</publicatiejaar><publicatienr>11</publicatienr><uitgiftedatum isodatum="2006-01-12">12-01-2006</uitgiftedatum><ondertekeningsdatum isodatum="2005-12-22">22-12-2005</ondertekeningsdatum><dossierref dossier="28484">28484</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2006-23"><publicatiejaar>2006</publicatiejaar><publicatienr>23</publicatienr><uitgiftedatum isodatum="2006-01-19">19-01-2006</uitgiftedatum><ondertekeningsdatum isodatum="2006-01-09">09-01-2006</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2006-02-01">01-02-2006</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=5&amp;g=2013-10-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=5&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" stam-id="903963" versie-id="12746232" id="C30831841" label-id="876544" inwerking="2006-02-01" label="Artikel 6" bron="Stb.2006-11" effect="wijziging" ondertekening_bron="2005-12-22" publicatie_bron="2006-01-12" publicatie_iwt="2006-01-19" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <al>Hij die een misdrijf begaat en daartoe gebruik maakt of dreigt te maken van macht, gelegenheid of middel, hem door de vijand geboden, wordt gestraft met: </al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel6/Onderdeel1">
+      <li.nr>1°.</li.nr>
+      <al>het dubbele van de op dat misdrijf gestelde gevangenisstraf, indien deze niet meer dan tien jaren gevangenisstraf bedraagt;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=6&amp;o=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="o=1"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel6/Onderdeel2">
+      <li.nr>2°.</li.nr>
+      <al>levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren, of geldboete van de vijfde categorie indien op dat misdrijf gevangenisstraf van meer dan tien jaren is gesteld;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=6&amp;o=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="o=2"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2006-11"><publicatiejaar>2006</publicatiejaar><publicatienr>11</publicatienr><uitgiftedatum isodatum="2006-01-12">12-01-2006</uitgiftedatum><ondertekeningsdatum isodatum="2005-12-22">22-12-2005</ondertekeningsdatum><dossierref dossier="28484">28484</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2006-23"><publicatiejaar>2006</publicatiejaar><publicatienr>23</publicatienr><uitgiftedatum isodatum="2006-01-19">19-01-2006</uitgiftedatum><ondertekeningsdatum isodatum="2006-01-09">09-01-2006</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2006-02-01">01-02-2006</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=6&amp;g=2013-10-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=6&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" stam-id="903973" versie-id="1321332" id="C30831851" label-id="876554" inwerking="1984-05-01" label="Artikel 7" bron="Stb.1984-91" effect="wijziging" ondertekening_bron="1984-03-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <al>Hij die in geval van oorlog opzettelijk gebruik maakt of dreigt te maken van macht, gelegenheid of middel hem door de vijand geboden, om een ander in zijn vermogen wederrechtelijk te benadelen of om zich of een ander wederrechtelijk te bevoordelen, wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>91</publicatienr><ondertekeningsdatum isodatum="1984-03-10">10-03-1984</ondertekeningsdatum><dossierref dossier="17524">17524</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>129</publicatienr><ondertekeningsdatum isodatum="1984-04-21">21-04-1984</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1984-05-01">01-05-1984</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=7&amp;g=2013-10-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=7&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" code="a-8" stam-id="903983" versie-id="7837202" id="C12614201" label-id="876564" inwerking="2003-10-01" label="Artikel 8" bron="Stb.2003-270" effect="vervallen" ondertekening_bron="2003-06-19" publicatie_bron="2003-07-03" publicatie_iwt="2003-09-02" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>8</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2003-270"><publicatiejaar>2003</publicatiejaar><publicatienr>270</publicatienr><uitgiftedatum isodatum="2003-07-03">03-07-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-06-19">19-06-2003</ondertekeningsdatum><dossierref dossier="28337">28337</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2003-340"><publicatiejaar>2003</publicatiejaar><publicatienr>340</publicatienr><uitgiftedatum isodatum="2003-09-02">02-09-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-08-25">25-08-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-10-01">01-10-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=8&amp;g=2013-10-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=8&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" code="a-9" stam-id="903993" versie-id="7837212" id="C12614211" label-id="876574" inwerking="2003-10-01" label="Artikel 9" bron="Stb.2003-270" effect="vervallen" ondertekening_bron="2003-06-19" publicatie_bron="2003-07-03" publicatie_iwt="2003-09-02" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>9</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2003-270"><publicatiejaar>2003</publicatiejaar><publicatienr>270</publicatienr><uitgiftedatum isodatum="2003-07-03">03-07-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-06-19">19-06-2003</ondertekeningsdatum><dossierref dossier="28337">28337</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2003-340"><publicatiejaar>2003</publicatiejaar><publicatienr>340</publicatienr><uitgiftedatum isodatum="2003-09-02">02-09-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-08-25">25-08-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-10-01">01-10-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=9&amp;g=2013-10-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=9&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" code="a-10" stam-id="904003" versie-id="7837222" id="C12614221" label-id="876584" inwerking="2003-10-01" label="Artikel 10" bron="Stb.2003-270" effect="vervallen" ondertekening_bron="2003-06-19" publicatie_bron="2003-07-03" publicatie_iwt="2003-09-02" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>10</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2003-270"><publicatiejaar>2003</publicatiejaar><publicatienr>270</publicatienr><uitgiftedatum isodatum="2003-07-03">03-07-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-06-19">19-06-2003</ondertekeningsdatum><dossierref dossier="28337">28337</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2003-340"><publicatiejaar>2003</publicatiejaar><publicatienr>340</publicatienr><uitgiftedatum isodatum="2003-09-02">02-09-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-08-25">25-08-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-10-01">01-10-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=10&amp;g=2013-10-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=10&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10a" stam-id="904013" versie-id="7837232" id="C30831871" label-id="876594" inwerking="2003-10-01" label="Artikel 10a" bron="Stb.2003-270" effect="wijziging" ondertekening_bron="2003-06-19" publicatie_bron="2003-07-03" publicatie_iwt="2003-09-02" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10a</nr>
+  </kop>
+  <al>Bij veroordeling tot een gevangenisstraf van tenminste een jaar wegens een der in de <intref doc="jci1.3:c:BWBR0002099&amp;artikel=4&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876524,876534,876544,876554" verwijzing-id="1776767" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel4">artikelen 4 tot en met 7</intref> bedoelde feiten kan ontzetting van het in <extref doc="jci1.3:c:BWBR0001854&amp;artikel=28" label-id="2963114" verwijzing-id="277793" bwb-id="BWBR0001854">artikel 28, eerste lid, onder 3°, van het Wetboek van Strafrecht</extref> vermelde recht worden uitgesproken.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2003-270"><publicatiejaar>2003</publicatiejaar><publicatienr>270</publicatienr><uitgiftedatum isodatum="2003-07-03">03-07-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-06-19">19-06-2003</ondertekeningsdatum><dossierref dossier="28337">28337</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2003-340"><publicatiejaar>2003</publicatiejaar><publicatienr>340</publicatienr><uitgiftedatum isodatum="2003-09-02">02-09-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-08-25">25-08-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-10-01">01-10-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=10a&amp;g=2013-10-01" onderdeel="artikel=10a" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=10a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=10a&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=10a" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=10a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" stam-id="904023" versie-id="7837242" id="C30831881" label-id="876604" inwerking="2003-10-01" label="Artikel 11" bron="Stb.2003-270" effect="wijziging" ondertekening_bron="2003-06-19" publicatie_bron="2003-07-03" publicatie_iwt="2003-09-02" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+  </kop>
+  <al>De bij de <intref doc="jci1.3:c:BWBR0002099&amp;artikel=4&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876524,876534,876544,876554" verwijzing-id="1776768" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel4">artikelen 4 tot en met 7</intref> strafbaar gestelde feiten worden beschouwd als misdrijven.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2003-270"><publicatiejaar>2003</publicatiejaar><publicatienr>270</publicatienr><uitgiftedatum isodatum="2003-07-03">03-07-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-06-19">19-06-2003</ondertekeningsdatum><dossierref dossier="28337">28337</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2003-340"><publicatiejaar>2003</publicatiejaar><publicatienr>340</publicatienr><uitgiftedatum isodatum="2003-09-02">02-09-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-08-25">25-08-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-10-01">01-10-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=11&amp;g=2013-10-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=11&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=11"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel12" stam-id="904033" versie-id="7837262" id="C30831891" label-id="876614" inwerking="2003-10-01" label="Artikel 12" bron="Stb.2003-270" effect="wijziging" ondertekening_bron="2003-06-19" publicatie_bron="2003-07-03" publicatie_iwt="2003-09-02" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">12</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel12/Lid1" label-id="876614L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Van de misdrijven, in <intref doc="jci1.3:c:BWBR0002099&amp;artikel=1&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876494" verwijzing-id="1627319" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel1">artikel 1</intref> bedoeld, door wie ook begaan, nemen, behoudens het bepaalde in het tweede lid, kennis de gerechten bedoeld in de <extref doc="jci1.3:c:BWBR0004789" label-id="214544" verwijzing-id="277796" bwb-id="BWBR0004789">Wet militaire strafrechtspraak</extref>, de Hoge Raad daaronder begrepen, op de wijze als in die wet bepaald.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=12&amp;lid=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel12/Lid2" label-id="876614L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Indien de vervolging van een misdrijf als in <intref doc="jci1.3:c:BWBR0002099&amp;artikel=1&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876494" verwijzing-id="1627320" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel1">artikel 1</intref> bedoeld plaats vindt na een vijandelijke bezetting van het grondgebied van het rijk in Europa of van een gedeelte daarvan, nemen bijzondere rechtbanken en het Bijzondere Hooggerechtshof van deze misdrijven kennis met uitzondering van de misdrijven, door militairen begaan, bedoeld in <intref doc="jci1.3:c:BWBR0002099&amp;artikel=1&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876494" verwijzing-id="1627321" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel1">artikel 1, eerste lid, onder 2°</intref>., of omschreven in de <extref doc="jci1.3:c:BWBR0001854&amp;artikel=131" label-id="2965474,2965484,2965494,2965504" verwijzing-id="277797" bwb-id="BWBR0001854">artikelen 131 tot en met 134</extref>, <extref doc="jci1.3:c:BWBR0001854&amp;artikel=189" label-id="2966404" verwijzing-id="277799" bwb-id="BWBR0001854">189</extref> of <extref doc="jci1.3:c:BWBR0001854&amp;artikel=416" label-id="2969374,2969384,2969394" verwijzing-id="277800" bwb-id="BWBR0001854">416-417<nadruk type="cur">bis</nadruk> van het Wetboek van Strafrecht</extref>, indien het misdrijf, waarvan in die artikelen gesproken wordt, is een misdrijf als bedoeld in <intref doc="jci1.3:c:BWBR0002099&amp;artikel=1&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876494" verwijzing-id="1627322" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel1">artikel 1, eerste lid, onder 2°</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=12&amp;lid=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel12/Lid3" label-id="876614L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Wij kunnen bij algemene maatregel van bestuur voorzieningen treffen omtrent de overgang van zaken naar de bijzondere gerechten alsmede omtrent de voorbereiding van de vervolging voor de tijd, dat deze gerechten nog niet zijn ingesteld. Daarbij kan tevens worden bepaald dat de bijzondere gerechten mede kennisnemen van misdrijven, omschreven in de <extref doc="jci1.3:c:BWBR0015252" label-id="4927344" verwijzing-id="1776903" bwb-id="BWBR0015252">Wet internationale misdrijven</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=12&amp;lid=3&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel12/Lid4" label-id="876614L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> Wij behouden Ons voor bij algemene maatregel van bestuur te bepalen, dat wegens de geringe omvang of duur der bezetting het bepaalde in het tweede lid buiten toepassing zal blijven.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=12&amp;lid=4&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel12/Lid5" label-id="876614L5">
+    <lidnr status="officieel">5</lidnr>
+    <al> Eveneens behouden Wij Ons voor bij algemene maatregel van bestuur te bepalen, dat na afloop van feitelijke oorlogshandelingen, ook wanneer daaraan niet een vijandelijke bezetting van het Rijk in Europa of van een gedeelte daarvan is voorafgegaan, het tweede lid in verband met de omvang en de aard der te berechten feiten toepassing zal vinden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=12&amp;lid=5&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2003-270"><publicatiejaar>2003</publicatiejaar><publicatienr>270</publicatienr><uitgiftedatum isodatum="2003-07-03">03-07-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-06-19">19-06-2003</ondertekeningsdatum><dossierref dossier="28337">28337</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2003-340"><publicatiejaar>2003</publicatiejaar><publicatienr>340</publicatienr><uitgiftedatum isodatum="2003-09-02">02-09-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-08-25">25-08-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-10-01">01-10-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=12&amp;g=2013-10-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=12&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=12"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13" stam-id="904043" versie-id="1321402" id="C30831901" label-id="876624" inwerking="1952-08-05" label="Artikel 13" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid1" label-id="876624L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De bijzondere rechtbanken en het Bijzondere Hooggerechtshof worden door Ons ingesteld en samengesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=13&amp;lid=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid2" label-id="876624L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Het rechtsgebied en de plaats van vestiging der bijzondere rechtbanken en de plaats van vestiging van het Bijzondere Hooggerechtshof worden door Ons bij algemene maatregel van bestuur bepaald.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=13&amp;lid=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=13&amp;g=2013-10-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=13&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=13"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel14" stam-id="904053" versie-id="1321412" id="C30831911" label-id="876634" inwerking="1952-08-05" label="Artikel 14" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">14</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid1" label-id="876634L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het Bijzondere Hooggerechtshof en de bijzondere rechtbanken zijn samengesteld uit een rechtsgeleerde president en zoveel rechtsgeleerde vice-presidenten en rechtsgeleerde en militaire leden als nodig zal blijken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=14&amp;lid=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid2" label-id="876634L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Bij het Bijzondere Hooggerechtshof zijn een procureur-generaal en zoveel advocaten-generaal, bij de bijzondere rechtbanken een officier van justitie en zoveel substituut-officieren als nodig zullen blijken. Bij ieder college is een griffier en zijn zoveel substituut-griffiers als nodig zal blijken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=14&amp;lid=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid3" label-id="876634L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Wij kunnen plaatsvervangende rechtsgeleerde en militaire leden benoemen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=14&amp;lid=3&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=14&amp;g=2013-10-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=14&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=14"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel15" stam-id="904063" versie-id="1321942" id="C30831931" label-id="876644" inwerking="1999-06-01" label="Artikel 15" bron="Stb.1999-194" effect="wijziging" ondertekening_bron="1999-04-19" publicatie_bron="1999-05-27" publicatie_iwt="1999-05-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel15/Lid1" label-id="876644L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Tot de in <intref doc="jci1.3:c:BWBR0002099&amp;artikel=14&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876634" verwijzing-id="1627323" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel14">artikel 14</intref> genoemde betrekkingen met uitzondering van die van militair lid en plaatsvervangend militair lid zijn benoembaar: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel15/Lid1/Onderdeel1">
+        <li.nr>1°.</li.nr>
+        <al>bij het Bijzondere Hooggerechtshof zij die benoembaar zijn onderscheidenlijk tot raadsheer in, advocaat-generaal bij of griffier of substituut-griffier van een gerechtshof;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=15&amp;lid=1&amp;o=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="o=1"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel15/Lid1/Onderdeel2">
+        <li.nr>2°.</li.nr>
+        <al>bij de bijzondere rechtbanken zij die benoembaar zijn onderscheidenlijk tot rechter in, officier of substituut-officier van justitie bij of griffier of substituut-griffier van een arrondissements-rechtbank.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=15&amp;lid=1&amp;o=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="o=2"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=15&amp;lid=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel15/Lid2" label-id="876644L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> De met rechtspraak belaste rechtsgeleerde leden der bijzondere colleges worden door Ons benoemd voor de duur der instandhouding van het college en bij voorkeur uit de leden van de rechterlijke macht, met rechtspraak belast.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=15&amp;lid=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel15/Lid3" label-id="876644L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Tot militaire leden en plaatsvervangende militaire leden zijn benoembaar: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel15/Lid3/Onderdeel1">
+        <li.nr>1°.</li.nr>
+        <al>in het Bijzondere Hooggerechtshof opper- en vlagofficieren, al dan niet in actieve dienst;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=15&amp;lid=3&amp;o=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="o=1"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel15/Lid3/Onderdeel2">
+        <li.nr>2°.</li.nr>
+        <al>in de bijzondere rechtbanken officieren, al dan niet in actieve dienst, die ten minste de rang van hoofdofficier hebben.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=15&amp;lid=3&amp;o=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="o=2"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=15&amp;lid=3&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1999-194"><publicatiejaar>1999</publicatiejaar><publicatienr>194</publicatienr><uitgiftedatum isodatum="1999-05-27">27-05-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-04-19">19-04-1999</ondertekeningsdatum><dossierref dossier="25392">25392</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1999-198"><publicatiejaar>1999</publicatiejaar><publicatienr>198</publicatienr><uitgiftedatum isodatum="1999-05-27">27-05-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-05-19">19-05-1999</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1999-06-01">01-06-1999</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=15&amp;g=2013-10-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=15&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=15"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel16" stam-id="904073" versie-id="1321432" id="C30831941" label-id="876654" inwerking="1952-08-05" label="Artikel 16" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">16</nr>
+  </kop>
+  <al>De leden van de bijzondere colleges ontvangen een bezoldiging, die bij de bijzondere rechtbanken een derde gedeelte van de bezoldiging voor overeenkomstige bedieningen bij de arrondissements-rechtbanken, en bij het Bijzondere Hooggerechtshof een derde gedeelte van de bezoldiging voor overeenkomstige bedieningen bij de Hoge Raad der Nederlanden bedraagt.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=16&amp;g=2013-10-01" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=16&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=16"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel17" stam-id="904083" versie-id="1321442" id="C30831951" label-id="876664" inwerking="1952-08-05" label="Artikel 17" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">17</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel17/Lid1" label-id="876664L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het Bijzondere Hooggerechtshof vonnist met vijf leden, waaronder tenminste een en ten hoogste twee militaire leden; indien er twee militaire leden zijn, zal zoveel mogelijk een hunner tot de zeemacht en een tot de landmacht behoren.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=17&amp;lid=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel17/Lid2" label-id="876664L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> De bijzondere rechtbanken vonnissen met drie leden, waaronder één militair lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=17&amp;lid=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=17&amp;g=2013-10-01" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=17&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=17"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel18" stam-id="904093" versie-id="1321452" id="C30831961" label-id="876674" inwerking="1952-08-05" label="Artikel 18" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">18</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid1" label-id="876674L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Tegen de vonnissen der bijzondere rechtbanken staat geen hoger beroep open.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=18&amp;lid=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid2" label-id="876674L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Tegen deze vonnissen kan beroep in cassatie op de voet van <intref doc="jci1.3:c:BWBR0002099&amp;artikel=19&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876684" verwijzing-id="1627324" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel19">artikel 19</intref> worden ingesteld bij het Bijzondere Hooggerechtshof.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=18&amp;lid=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=18&amp;g=2013-10-01" onderdeel="artikel=18" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=18"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=18&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=18" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=18"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel19" stam-id="904103" versie-id="1321462" id="C30831971" label-id="876684" inwerking="1952-08-05" label="Artikel 19" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">19</nr>
+  </kop>
+  <al>Onverminderd het bepaalde in <intref doc="jci1.3:c:BWBR0002099&amp;artikel=34&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876834" verwijzing-id="1627325" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel34">artikel 34</intref> vernietigt het Bijzondere Hooggerechtshof de vonnissen der bijzondere rechtbanken: </al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel19/Onderdeel1">
+      <li.nr>1°.</li.nr>
+      <al>wegens het verzuim van vormen, voorgeschreven op straffe van nietigheid, met dien verstande, dat een zodanig verzuim geen grond tot vernietiging behoeft te geven, indien redelijkerwijze moet worden aangenomen, dat de verdachte door het verzuim in zijn belangen niet is geschaad;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=19&amp;o=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="o=1"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel19/Onderdeel2">
+      <li.nr>2°.</li.nr>
+      <al>wegens verkeerde toepassing of schending der wet, waarmede te dezen wordt gelijkgesteld de oplegging van een straf of een maatregel, welke niet geacht kan worden te beantwoorden aan de ernst van het misdrijf, de omstandigheden, waaronder het is begaan, of de persoon of de persoonlijke omstandigheden van de veroordeelde;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=19&amp;o=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="o=2"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel19/Onderdeel3">
+      <li.nr>3°.</li.nr>
+      <al>wegens overschrijding van rechtsmacht.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=19&amp;o=3&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="o=3"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=19&amp;g=2013-10-01" onderdeel="artikel=19" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=19"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=19&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=19" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=19"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel20" stam-id="904113" versie-id="1321472" id="C30831981" label-id="876694" inwerking="1952-08-05" label="Artikel 20" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">20</nr>
+  </kop>
+  <al>De bepalingen van de <extref doc="jci1.3:c:BWBR0001830" label-id="2638084" verwijzing-id="277812" bwb-id="BWBR0001830">wet op de rechterlijke organisatie</extref> en het beleid der justitie, met uitzondering van de <intref doc="jci1.3:c:BWBR0002099&amp;artikel=8&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876564" verwijzing-id="1627327" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel8">artikelen 8, eerste lid</intref>, <intref doc="jci1.3:c:BWBR0002099&amp;artikel=15&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876644" verwijzing-id="1627328" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel15">15</intref>, <intref doc="jci1.3:c:BWBR0002099&amp;artikel=17&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876664" verwijzing-id="1627329" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel17">17</intref> en <intref doc="jci1.3:c:BWBR0002099&amp;artikel=18&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876674" verwijzing-id="1627330" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel18">18</intref>, en de ter uitvoering van die wet gegeven regelingen zijn met betrekking tot de bijzondere colleges van overeenkomstige toepassing, indien en voor zover van die bepalingen niet in deze wet wordt afgeweken, met dien verstande dat ten aanzien van de bijzondere rechtbanken de bepalingen met betrekking tot de arrondissements-rechtbanken en ten aanzien van het Bijzondere Hooggerechtshof de bepalingen betreffende de Hoge Raad van overeenkomstige toepassing zijn, behoudens dat ten aanzien van het Bijzondere Hooggerechtshof aanbevelingen - voor vacatures waarin na de instelling moet worden voorzien - geschieden op de wijze als voor de gerechtshoven voorgeschreven.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=20&amp;g=2013-10-01" onderdeel="artikel=20" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=20"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=20&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=20" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=20"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel21" code="a-21" stam-id="904123" versie-id="10458712" id="C14279101" label-id="876704" inwerking="2004-07-01" label="Artikel 21" bron="Stb.2004-215" effect="wijziging" ondertekening_bron="2004-05-13" publicatie_bron="2004-05-25" publicatie_iwt="2004-06-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>21</nr>
+  </kop>
+  <al>Op de rechtspleging bij de bijzondere rechtbanken en bij het Bijzondere Hooggerechtshof zijn de bepalingen van het <extref doc="jci1.3:c:BWBR0001903" verwijzing-id="277813" bwb-id="BWBR0001903" label-id="3010844">Wetboek van Strafvordering</extref> van overeenkomstige toepassing, indien en voor zover van die bepalingen niet in deze wet wordt afgeweken, met dien verstande dat: </al>
+  <lijst>
+    <li bwb-ng-variabel-deel="/Artikel21/Onderdeel1">
+      <li.nr>1°.</li.nr>
+      <al>hetgeen daarin omtrent de rechtbank, derzelver voorzitter, de rechters, de rechter-commissaris, de officier van justitie en de griffier bij de rechtbank is bepaald, te dezen geldt voor de bijzondere rechtbank en de ambtsdragers bij dit college;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=21&amp;o=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="o=1"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel21/Onderdeel2">
+      <li.nr>2°.</li.nr>
+      <al>hetgeen daarin omtrent de Hoge Raad, deszelfs voorzitter en leden, de procureur-generaal en de griffier van de Hoge Raad is bepaald, te dezen geldt voor het Bijzondere Hooggerechtshof en de ambtsdragers bij dit Hof;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=21&amp;o=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="o=2"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel21/Onderdeel3">
+      <li.nr>3°.</li.nr>
+      <al>hetgeen daarin met betrekking tot de rechtbank of het gerechtshof en de leden der rechterlijke macht bij een dezer gerechten is bepaald, te dezen buiten toepassing blijft.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=21&amp;o=3&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="o=3"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2004-215"><publicatiejaar>2004</publicatiejaar><publicatienr>215</publicatienr><uitgiftedatum isodatum="2004-05-25">25-05-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-05-13">13-05-2004</ondertekeningsdatum><dossierref dossier="28958">28958</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2004-275"><publicatiejaar>2004</publicatiejaar><publicatienr>275</publicatienr><uitgiftedatum isodatum="2004-06-24">24-06-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-06-17">17-06-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2004-07-01">01-07-2004</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=21&amp;g=2013-10-01" onderdeel="artikel=21" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=21"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=21&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=21" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=21"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel22" stam-id="904133" versie-id="1321492" id="C30831991" label-id="876714" inwerking="1952-08-05" label="Artikel 22" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">22</nr>
+  </kop>
+  <al>Onze Minister van Justitie kan bepalen, dat in geval van een misdrijf, waarop deze wet van toepassing is, een bevel tot inverzekeringstelling, als bedoeld in <extref doc="jci1.3:c:BWBR0001903&amp;artikel=57" label-id="3002364" verwijzing-id="277819" bwb-id="BWBR0001903">artikel 57 van het Wetboek van Strafvordering</extref>, gedurende een langere dan de in artikel 58, tweede lid, van dat Wetboek genoemde termijn van twee dagen van kracht zal zijn, met dien verstande dat de inverzekeringstelling niet langer dan een jaar mag duren.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=22&amp;g=2013-10-01" onderdeel="artikel=22" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=22"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=22&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=22" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=22"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel23" stam-id="904143" versie-id="1321502" id="C30832001" label-id="876724" inwerking="1952-08-05" label="Artikel 23" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">23</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel23/Lid1" label-id="876724L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister van Justitie kan, indien zulks voor de goede gang van zaken nodig is, bepalen, dat bij een bijzondere rechtbank één of meer rechters belast worden met vereenvoudigde gerechtelijke afdoening van strafzaken overeenkomstig het bepaalde in deze afdeling.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=23&amp;lid=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel23/Lid2" label-id="876724L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Deze worden op voordracht van de president voor de tijd van één jaar uit de rechtsgeleerde leden of plaatsvervangende leden van de bijzondere rechtbank door Onze Minister van Justitie aangewezen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=23&amp;lid=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=23&amp;g=2013-10-01" onderdeel="artikel=23" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=23"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=23&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=23" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=23"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel24" stam-id="904153" versie-id="1321512" id="C30832011" label-id="876734" inwerking="1952-08-05" label="Artikel 24" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">24</nr>
+  </kop>
+  <al>Indien naar het aanvankelijk oordeel van het openbaar ministerie in een zaak als hoofdstraf gevangenisstraf van ten hoogste zes jaren, hechtenis of geldboete dient te worden opgelegd en de zaak naar het aanvankelijk oordeel van het openbaar ministerie voor vereenvoudigde gerechtelijke afdoening in aanmerking komt, stelt het de stukken, vergezeld van een schriftelijke vordering tot oplegging van een bepaalde straf, te dien einde in handen van de rechter.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=24&amp;g=2013-10-01" onderdeel="artikel=24" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=24"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=24&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=24" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=24"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel25" stam-id="904163" versie-id="1321522" id="C30832021" label-id="876744" inwerking="1952-08-05" label="Artikel 25" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">25</nr>
+  </kop>
+  <al>Indien de rechter oordeelt, dat de zaak niet voor vereenvoudigde gerechtelijke afdoening in aanmerking komt, geeft hij daarvan kennis aan het openbaar ministerie onder wederoverlegging der stukken.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=25&amp;g=2013-10-01" onderdeel="artikel=25" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=25"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=25&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=25" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=25"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel26" stam-id="904173" versie-id="1321532" id="C30832031" label-id="876754" inwerking="1952-08-05" label="Artikel 26" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">26</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel26/Lid1" label-id="876754L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien de rechter op grond van de stukken en het verhoor van de verdachte de overtuiging heeft bekomen, dat deze een misdrijf heeft begaan, waarop de bepalingen van deze wet van toepassing zijn, en deswege strafbaar is, kan hij de verdachte straf opleggen. De rechter is niet bevoegd tot oplegging van andere hoofdstraffen dan gevangenisstraf van ten hoogste zes jaren, hechtenis en geldboete.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=26&amp;lid=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel26/Lid2" label-id="876754L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Indien de rechter niet de overtuiging heeft bekomen, dat de verdachte een bepaald feit, in de vordering van het openbaar ministerie vermeld, heeft begaan, spreekt hij hem ter zake van dat feit vrij.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=26&amp;lid=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel26/Lid3" label-id="876754L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Indien de rechter de overtuiging heeft bekomen, dat de verdachte een bepaald feit, in de vordering van het openbaar ministerie vermeld, heeft begaan doch van oordeel is, dat dit niet is een misdrijf, waarop de bepalingen van deze wet van toepassing zijn, of dat de verdachte deswege niet strafbaar is, verklaart hij zich onbevoegd onderscheidenlijk ontslaat hij hem ter zake van dat feit van alle rechtsvervolging.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=26&amp;lid=3&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel26/Lid4" label-id="876754L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> De rechter geeft de beslissing, in dit artikel bedoeld, bij schriftelijke beschikking.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=26&amp;lid=4&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=26&amp;g=2013-10-01" onderdeel="artikel=26" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=26"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=26&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=26" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=26"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel27" stam-id="904183" versie-id="1321542" id="C30832041" label-id="876764" inwerking="1952-08-05" label="Artikel 27" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">27</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel27/Lid1" label-id="876764L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De rechter geeft de beschikking niet alvorens de verdachte te hebben gehoord. Hij doet de verdachte, die in verzekerde bewaring is, voor zich verschijnen. Indien de verdachte in vrijheid is, beveelt hij diens dagvaarding; indien de verdachte niet op de dagvaarding verschijnt, doet hij hem andermaal dagvaarden; hij kan daarbij diens medebrenging bevelen of zodanig bevel later uitvaardigen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=27&amp;lid=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel27/Lid2" label-id="876764L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> De president van de bijzondere rechtbank voegt de verdachte, die geen raadsman heeft, uiterlijk de tiende dag vóór die, waarop het verhoor zal plaats vinden, een raadsman toe. Van deze toevoeging benevens van de datum van het verhoor wordt onverwijld schriftelijk kennis gegeven aan de raadsman en aan de verdachte.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=27&amp;lid=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel27/Lid3" label-id="876764L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> De rechter stelt de verdachte en diens raadsman desverlangd in de gelegenheid van de stukken kennis te nemen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=27&amp;lid=3&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel27/Lid4" label-id="876764L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> Het openbaar ministerie en de raadsman van de verdachte zijn bevoegd het verhoor bij te wonen. In dat geval worden zij in de gelegenheid gesteld het woord te voeren.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=27&amp;lid=4&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=27&amp;g=2013-10-01" onderdeel="artikel=27" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=27"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=27&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=27" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=27"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel28" stam-id="904193" versie-id="1321552" id="C30832051" label-id="876774" inwerking="1952-08-05" label="Artikel 28" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">28</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel28/Lid1" label-id="876774L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De beschikking behelst de naam van de rechter, de dag waarop de beschikking is genomen, en voor zover mogelijk naam en voornamen, leeftijd, geboorteplaats, beroep en woon- of verblijfplaats van de verdachte.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=28&amp;lid=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel28/Lid2" label-id="876774L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> De beschikking bevat voorts de beslissing op grond van <intref doc="jci1.3:c:BWBR0002099&amp;artikel=26&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876754" verwijzing-id="1627331" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel26">artikel 26</intref> genomen. In geval van een beslissing als in het eerste lid van dat artikel bedoeld, vermeldt de beschikking de opgelegde straf en het strafbare feit volgens de wettelijke omschrijving ter zake waarvan de straf is opgelegd, met vermelding omstreeks welke tijd en waar ter plaatse het is begaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=28&amp;lid=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=28&amp;g=2013-10-01" onderdeel="artikel=28" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=28"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=28&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=28" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=28"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel29" stam-id="904203" versie-id="1321572" id="C30832061" label-id="876784" inwerking="1952-08-05" label="Artikel 29" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">29</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel29/Lid1" label-id="876784L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De rechter doet de beschikking met de stukken onverwijld toekomen aan het openbaar ministerie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=29&amp;lid=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel29/Lid2" label-id="876784L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> De beschikking wordt aan de verdachte in persoon betekend, tenzij zij is genomen en aan de verdachte in afschrift is uitgereikt aanstonds na het verhoor. In het laatste geval maakt de rechter van de uitreiking een acte op. Bij de uitreiking of betekening wordt de verdachte opmerkzaam gemaakt op de bevoegdheden, hem toegekend in de <intref doc="jci1.3:c:BWBR0002099&amp;artikel=30&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876794" verwijzing-id="1627332" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel30">artikelen 30</intref> en <intref doc="jci1.3:c:BWBR0002099&amp;artikel=31&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876804" verwijzing-id="1627333" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel31">31</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=29&amp;lid=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=29&amp;g=2013-10-01" onderdeel="artikel=29" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=29"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=29&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=29" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=29"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel30" stam-id="904213" versie-id="1321582" id="C30832071" label-id="876794" inwerking="1952-08-05" label="Artikel 30" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">30</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel30/Lid1" label-id="876794L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De verdachte is bevoegd uiterlijk binnen drie weken na de dagtekening van de beschikking, welke hem bij gelegenheid van zijn verhoor is uitgereikt, of anders binnen drie weken na de datum, waarop de beschikking hem in persoon is betekend, een verklaring van bezwaar af te leggen. De artikelen 449-452 van het <extref doc="jci1.3:c:BWBR0001903" label-id="3010844" verwijzing-id="277827" bwb-id="BWBR0001903">Wetboek van Strafvordering</extref> zijn van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=30&amp;lid=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel30/Lid2" label-id="876794L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Gelijke bevoegdheid komt toe aan het openbaar ministerie binnen twee weken na dagtekening van de beschikking.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=30&amp;lid=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=30&amp;g=2013-10-01" onderdeel="artikel=30" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=30"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=30&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=30" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=30"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel31" stam-id="904223" versie-id="1321592" id="C30832091" label-id="876804" inwerking="1952-08-05" label="Artikel 31" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">31</nr>
+  </kop>
+  <al>Het openbaar ministerie en de verdachte kunnen afstand doen van de bevoegdheid om een verklaring van bezwaar af te leggen. <extref doc="jci1.3:c:BWBR0001903&amp;artikel=454" label-id="3007724" verwijzing-id="277830" bwb-id="BWBR0001903">Artikel 454 van het Wetboek van Strafvordering</extref> is van overeenkomstige toepassing, met dien verstande dat het openbaar ministerie en de verdachte ook aanstonds na de uitreiking van het afschrift van de beschikking bij gelegenheid van het verhoor afstand kunnen doen van de bevoegdheid een verklaring van bezwaar af te leggen; in dat geval wordt de acte door de rechter opgemaakt.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=31&amp;g=2013-10-01" onderdeel="artikel=31" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=31"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=31&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=31" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=31"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel32" stam-id="904233" versie-id="1321602" id="C30832101" label-id="876814" inwerking="1952-08-05" label="Artikel 32" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">32</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel32/Lid1" label-id="876814L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Door een verklaring van bezwaar vervalt de beschikking.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=32&amp;lid=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel32/Lid2" label-id="876814L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> De beschikking vervalt eveneens, indien zij niet binnen drie maanden na haar dagtekening in afschrift uitgereikt of betekend is.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=32&amp;lid=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel32/Lid3" label-id="876814L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Wanneer de termijn, in <intref doc="jci1.3:c:BWBR0002099&amp;artikel=30&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876794" verwijzing-id="1627339" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel30">artikel 30</intref> genoemd, is verstreken zonder dat een verklaring van bezwaar is afgelegd, of zoveel eerder als zowel door het openbaar ministerie als door de verdachte afstand is gedaan van de bevoegdheid om een verklaring van bezwaar af te leggen, geldt de beschikking als een einduitspraak van de bijzondere rechtbank, waartegen geen gewoon rechtsmiddel openstaat.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=32&amp;lid=3&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=32&amp;g=2013-10-01" onderdeel="artikel=32" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=32"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=32&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=32" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=32"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel33" stam-id="904243" versie-id="1321612" id="C30832111" label-id="876824" inwerking="1952-08-05" label="Artikel 33" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">33</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel33/Lid1" label-id="876824L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De verdachte kan ter terechtzitting van het Bijzondere Hooggerechtshof omtrent zijn persoon en zijn persoonlijke omstandigheden worden gehoord.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=33&amp;lid=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel33/Lid2" label-id="876824L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Te dien einde kan het Bijzondere Hooggerechtshof, indien de verdachte op de bepaalde rechtsdag niet ter terechtzitting aanwezig is, zowel bij de aanvang als gedurende de loop der behandeling der zaak bevelen, dat hij op een door het Hof te bepalen tijdstip ter terechtzitting aanwezig zal zijn en daartoe tevens zijn medebrenging gelasten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=33&amp;lid=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel33/Lid3" label-id="876824L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Het bepaalde in <extref doc="jci1.3:c:BWBR0001903&amp;artikel=310" label-id="3005954" verwijzing-id="277835" bwb-id="BWBR0001903">artikel 310 van het Wetboek van Strafvordering</extref> is voor de behandeling der zaak in cassatie van overeenkomstige toepassing, met dien verstande dat hetgeen daar ten aanzien van de rechtbank en de officier van justitie is bepaald, te dezen geldt voor het Bijzondere Hooggerechtshof en de procureur-generaal bij dat hof.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=33&amp;lid=3&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel33/Lid4" label-id="876824L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> Indien het Bijzondere Hooggerechtshof een nader onderzoek naar de omstandigheden, waaronder het misdrijf is begaan, of naar de persoon of de persoonlijke omstandigheden van de verdachte noodzakelijk oordeelt, zijn de <extref doc="jci1.3:c:BWBR0001903&amp;artikel=316" label-id="3006024" verwijzing-id="277838" bwb-id="BWBR0001903">artikelen 316</extref> en <extref doc="jci1.3:c:BWBR0001903&amp;artikel=317" label-id="3006034" verwijzing-id="277842" bwb-id="BWBR0001903">317 van het Wetboek van Strafvordering</extref> van overeenkomstige toepassing, met dien verstande, dat hetgeen daar ten aanzien van de rechtbank, de officier van justitie en de rechter-commissaris is bepaald, ten deze geldt voor het Bijzondere Hooggerechtshof, de procureur-generaal bij dat hof en de rechter-commissaris bij de bijzondere rechtbank, die in eerste aanleg uitspraak heeft gedaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=33&amp;lid=4&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=33&amp;g=2013-10-01" onderdeel="artikel=33" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=33"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=33&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=33" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=33"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel34" stam-id="904253" versie-id="1321622" id="C30832121" label-id="876834" inwerking="1952-08-05" label="Artikel 34" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">34</nr>
+  </kop>
+  <al>Indien een onderzoek als in <intref doc="jci1.3:c:BWBR0002099&amp;artikel=33&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876824" verwijzing-id="1627340" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel33">artikel 33, vierde lid</intref>, bedoeld, mede leidt tot het oordeel, dat de verdachte niet strafbaar is, kan het Bijzondere Hooggerechtshof de verdachte van rechtsvervolging ontslaan.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=34&amp;g=2013-10-01" onderdeel="artikel=34" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=34"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=34&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=34" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=34"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel35" stam-id="904263" versie-id="1321632" id="C30832131" label-id="876844" inwerking="1952-08-05" label="Artikel 35" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">35</nr>
+  </kop>
+  <al>Indien alleen door de verdachte beroep in cassatie is ingesteld, kan hij ter zake van hetgeen in eerste aanleg te zijnen aanzien bewezen is verklaard, slechts met eenparigheid van stemmen tot een zwaardere straf worden veroordeeld dan hem bij het vonnis van de bijzondere rechtbank is opgelegd.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=35&amp;g=2013-10-01" onderdeel="artikel=35" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=35"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=35&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=35" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=35"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel36" stam-id="904273" versie-id="20126392" id="C30832161" label-id="876854" inwerking="2013-07-01" label="Artikel 36" bron="Stb.2013-25" effect="wijziging" ondertekening_bron="2012-12-13" publicatie_bron="2013-01-24" publicatie_iwt="2013-02-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">36</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel36/Lid1" label-id="876854L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>In afwijking in zoverre van het bepaalde in <extref doc="jci1.3:c:BWBR0001903&amp;artikel=471" label-id="3007924" verwijzing-id="2548494" bwb-id="BWBR0001903">artikel 471, eerste lid, van het Wetboek van Strafvordering</extref> geschiedt zowel in het daar als ook in het in <extref doc="jci1.3:c:BWBR0001903&amp;artikel=472" label-id="3007934" verwijzing-id="2548495" bwb-id="BWBR0001903">artikel 472, eerste en tweede lid, van dat Wetboek</extref> bedoelde geval, de verwijzing naar een bijzondere rechtbank.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=36&amp;lid=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel36/Lid2" label-id="876854L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Hetgeen bij de <extref doc="jci1.3:c:BWBR0001903&amp;artikel=473" label-id="3007944" verwijzing-id="2505144" bwb-id="BWBR0001903">artikelen 473</extref> en <extref doc="jci1.3:c:BWBR0001903&amp;artikel=476" label-id="3007974" verwijzing-id="2548496" bwb-id="BWBR0001903">476 van dat Wetboek</extref>, alsmede bij de artikelen, waarnaar daarin wordt verwezen, omtrent het gerechtshof, deszelfs voorzitter en de advocaat-generaal is bepaald, is ten aanzien van de bijzondere rechtbank, derzelver voorzitter en de officier van justitie van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=36&amp;lid=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-25"><publicatiejaar>2013</publicatiejaar><publicatienr>25</publicatienr><uitgiftedatum isodatum="2013-01-24">24-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-13">13-12-2012</ondertekeningsdatum><dossierref dossier="33429">33429</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-51"><publicatiejaar>2013</publicatiejaar><publicatienr>51</publicatienr><uitgiftedatum isodatum="2013-02-15">15-02-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-02-08">08-02-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-07-01">01-07-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=36&amp;g=2013-10-01" onderdeel="artikel=36" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=36"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=36&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=36" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=36"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel37" stam-id="12220803" versie-id="20435622" id="C29585611" label-id="12192054" inwerking="2013-10-01" label="Artikel 37" bron="Stb.2013-25" effect="nieuw" ondertekening_bron="2012-12-13" publicatie_bron="2013-01-24" publicatie_iwt="2013-07-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">37</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel37/Lid1" label-id="12192054L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>In afwijking in zoverre van <extref doc="jci1.3:c:BWBR0001903&amp;artikel=482g" verwijzing-id="2563631" bwb-id="BWBR0001903" label-id="12190504">artikel 482g van het Wetboek van Strafvordering</extref>, geschiedt in het daar bedoelde geval, de verwijzing naar een bijzondere rechtbank.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=37&amp;lid=1&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel37/Lid2" label-id="12192054L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Hetgeen bij <extref doc="jci1.3:c:BWBR0001903&amp;artikel=482g" verwijzing-id="2563632" bwb-id="BWBR0001903" label-id="12190504">artikel 482g van het Wetboek van Strafvordering</extref>, alsmede bij de artikelen, waarnaar daarin wordt verwezen, omtrent de rechtbank, deszelfs voorzitter en de officier van justitie is bepaald, is ten aanzien van de bijzondere rechtbank, derzelver voorzitter en de officier van justitie bij die rechtbank van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=37&amp;lid=2&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2013-25"><publicatiejaar>2013</publicatiejaar><publicatienr>25</publicatienr><uitgiftedatum isodatum="2013-01-24">24-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-13">13-12-2012</ondertekeningsdatum><dossierref dossier="33429">33429</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2013-313"><publicatiejaar>2013</publicatiejaar><publicatienr>313</publicatienr><uitgiftedatum isodatum="2013-07-25">25-07-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-07-17">17-07-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-10-01">01-10-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=37&amp;g=2013-10-01" onderdeel="artikel=37" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=37"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=37&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=37" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=37"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIa" stam-id="10658843" versie-id="17607542" id="C30832151" label-id="10633424" inwerking="2010-10-10" label="Artikel Ia" bron="Stb.2010-350" effect="nieuw" ondertekening_bron="2010-05-17" publicatie_bron="2010-09-01" publicatie_iwt="2010-10-07" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">Ia</nr>
+  </kop>
+  <al>De Wet oorlogsstrafrecht is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat voor de toepassing van de <intref doc="jci1.3:c:BWBR0002099&amp;artikel=3&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876514" verwijzing-id="2368946" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel3">artikelen 3, onderdelen 1° tot en met 3°</intref>, en <intref doc="jci1.3:c:BWBR0002099&amp;artikel=12&amp;z=2013-10-01&amp;g=2013-10-01" label-id="876614" verwijzing-id="2368947" bwb-id="BWBR0002099" bwb-ng-variabel-deel="/Artikel12">12, tweede en vijfde lid</intref>, van de Wet oorlogsstrafrecht in plaats van «het rijk in Europa» telkens wordt gelezen: Nederland.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2010-350"><publicatiejaar>2010</publicatiejaar><publicatienr>350</publicatienr><uitgiftedatum isodatum="2010-09-01">01-09-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-05-17">17-05-2010</ondertekeningsdatum><dossierref dossier="31959">31959</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2010-389"><publicatiejaar>2010</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2010-10-07">07-10-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-09-30">30-09-2010</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2010-10-10">10-10-2010</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van Nederland.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=Ia&amp;g=2013-10-01" onderdeel="artikel=Ia" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=Ia"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=Ia&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=Ia" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=Ia"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelII" code="a-ii" stam-id="904283" versie-id="1321662" id="C1321661" label-id="876864" inwerking="1952-08-05" label="Artikel II" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>II</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=II&amp;g=2013-10-01" onderdeel="artikel=II" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=II&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=II" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=II"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIII" code="a-iii" stam-id="904293" versie-id="1321672" id="C1321671" label-id="876874" inwerking="1952-08-05" label="Artikel III" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>III</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=III&amp;g=2013-10-01" onderdeel="artikel=III" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=III&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=III" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=III"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIV" code="a-iv" stam-id="904303" versie-id="1321682" id="C1321681" label-id="876884" inwerking="1952-08-05" label="Artikel IV" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>IV</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;artikel=IV&amp;g=2013-10-01" onderdeel="artikel=IV" korte-verwijzing="1.0:c:BWBR0002099&amp;artikel=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;artikel=IV&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="artikel=IV" korte-verwijzing="jci1.3:c:BWBR0002099&amp;artikel=IV"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="904313" versie-id="1321692" id="C1321691" label-id="876894" inwerking="1952-08-05" bron="Stb.1952-408" effect="nieuwe-regeling" ondertekening_bron="1952-07-10" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven ten Paleize Soestdijk</plaats>
+      <datum isodatum="">10 Juli 1952</datum>
+    </dagtekening>
+    <koning>JULIANA.</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Justitie,</functie>
+    <naam>
+      <achternaam>H. MULDERIJE.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Oorlog,</functie>
+    <naam>
+      <achternaam>C. STAF.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Marine,</functie>
+    <naam>
+      <achternaam>C. STAF.</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de zestiende Juli 1952.</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>H. MULDERIJE.</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1952</publicatiejaar><publicatienr>408</publicatienr><ondertekeningsdatum isodatum="1952-07-10">10-07-1952</ondertekeningsdatum><dossierref dossier="2258">2258</dossierref></publicatie><inwerkingtreding.datum isodatum="1952-08-05">05-08-1952</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2013-25"><publicatiejaar>2013</publicatiejaar><publicatienr>25</publicatienr><uitgiftedatum isodatum="2013-01-24">24-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-13">13-12-2012</ondertekeningsdatum><dossierref dossier="33429">33429</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2013-25"><publicatiejaar>2013</publicatiejaar><publicatienr>25</publicatienr><uitgiftedatum isodatum="2013-01-24">24-01-2013</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-13">13-12-2012</ondertekeningsdatum><dossierref dossier="33429">33429</dossierref></publicatie><inwerkingtreding.datum isodatum="2012-12-13">13-12-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002099&amp;g=2013-10-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0002099"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002099&amp;z=2013-10-01&amp;g=2013-10-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0002099"/></jcis></meta-data></wetgeving></toestand>

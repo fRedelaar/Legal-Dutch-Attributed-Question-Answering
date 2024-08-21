@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0009930/2024-03-25/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0009930" inwerkingtreding="2024-03-25"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="926533" versie-id="1356002" id="C1356001" label-id="898374" inwerkingtredingsdatum="1998-10-23">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="926563" versie-id="1355792" id="C1355791" label-id="898164" inwerking="1998-10-23" bron="Stb.1998-600" effect="nieuwe-regeling" ondertekening_bron="1998-10-01" publicatie_bron="1998-10-22" publicatie_iwt="1998-10-22" status="goed"> Wet van 1 oktober 1998, houdende voorzieningen betreffende de totstandbrenging en de exploitatie van een vaste oeververbinding onder de Westerschelde door een naamloze vennootschap (Tunnelwet Westerschelde)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-10-23">23-10-1998</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="926573" versie-id="1355802" id="C1355801" label-id="898174" inwerking="1998-10-23" bron="Stb.1998-600" effect="nieuwe-regeling" ondertekening_bron="1998-10-01" publicatie_bron="1998-10-22" publicatie_iwt="1998-10-22">Tunnelwet Westerschelde<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-10-23">23-10-1998</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="926583" versie-id="1355812" id="C1355811" label-id="898184" inwerking="1998-10-23" bron="Stb.1998-600" effect="nieuwe-regeling" ondertekening_bron="1998-10-01" publicatie_bron="1998-10-22" publicatie_iwt="1998-10-22" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz. </wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten: </considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is in verband met de totstandbrenging en exploitatie van een vaste oeververbinding onder de Westerschelde door een privaatrechtelijke rechtspersoon, bijzondere wettelijke voorzieningen te treffen, waaronder de machtiging, bedoeld in <extref verwijzing-id="284272" doc="jci1.3:c:BWBR0003075&amp;artikel=29" bwb-id="BWBR0003075" label-id="1226874">artikel 29 van de Comptabiliteitswet</extref>, voor de oprichting van de rechtspersoon;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-10-23">23-10-1998</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf1" stam-id="926603" versie-id="1355832" id="C1355831" label-id="898204" inwerking="1998-10-23" label="§ 1" bron="Stb.1998-600" effect="nieuwe-regeling" ondertekening_bron="1998-10-01" publicatie_bron="1998-10-22" publicatie_iwt="1998-10-22" status="goed">
+  <kop>
+    <label>§</label>
+    <nr>1</nr>
+    <titel status="officieel">Algemene bepalingen </titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf1/Artikel1" stam-id="926593" versie-id="29922462" id="C42889241" label-id="898194" inwerking="2024-03-25" label="Artikel 1" bron="Stb.2023-419" effect="wijziging" ondertekening_bron="2023-11-08" publicatie_bron="2023-11-22" publicatie_iwt="2023-11-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf1/Artikel1/Lid1" label-id="898194L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>In deze wet wordt verstaan onder: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Paragraaf1/Artikel1/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>Onze Minister: Onze Minister van Infrastructuur en Waterstaat; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=1&amp;artikel=1&amp;lid=1&amp;o=a&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf1/Artikel1/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de NV: de naamloze vennootschap, bedoeld in <intref doc="jci1.3:c:BWBR0009930&amp;paragraaf=2&amp;artikel=2&amp;z=2024-03-25&amp;g=2024-03-25" label-id="898214" verwijzing-id="1867780" bwb-id="BWBR0009930" bwb-ng-variabel-deel="/Paragraaf2/Artikel2">artikel 2, eerste lid</intref>; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=1&amp;artikel=1&amp;lid=1&amp;o=b&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf1/Artikel1/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de exploitant: de NV, of de rechtspersoon met wie de NV is overeengekomen dat die rechtspersoon de tunnel met aansluitende wegen en bijbehorende werken, of een deel ervan, zal exploiteren. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=1&amp;artikel=1&amp;lid=1&amp;o=c&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=1&amp;artikel=1&amp;lid=1&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf1/Artikel1/Lid2" label-id="898194L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Op de in deze wet gebruikte woorden motorrijtuig, personenauto en motorrijwiel zijn de <extref doc="jci1.3:c:BWBR0006324&amp;artikel=2" label-id="2845164" verwijzing-id="284274" bwb-id="BWBR0006324">artikelen 2</extref> en<extref doc="jci1.3:c:BWBR0006324&amp;artikel=3" label-id="2845174" verwijzing-id="284276" bwb-id="BWBR0006324"> 3 van de Wet op de motorrijtuigenbelasting 1994</extref> van toepassing. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=1&amp;artikel=1&amp;lid=2&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-419"><publicatiejaar>2023</publicatiejaar><publicatienr>419</publicatienr><uitgiftedatum isodatum="2023-11-22">22-11-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-11-08">08-11-2023</ondertekeningsdatum><dossierref dossier="36384">36384</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-419"><publicatiejaar>2023</publicatiejaar><publicatienr>419</publicatienr><uitgiftedatum isodatum="2023-11-22">22-11-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-11-08">08-11-2023</ondertekeningsdatum><dossierref dossier="36384">36384</dossierref></publicatie><inwerkingtreding.datum isodatum="2024-03-25">25-03-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009930&amp;artikel=1&amp;g=2024-03-25" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0009930&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=1&amp;artikel=1&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0009930&amp;artikel=1"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-10-23">23-10-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009930&amp;paragraaf=1&amp;g=2024-03-25" onderdeel="paragraaf=1" korte-verwijzing="1.0:c:BWBR0009930&amp;paragraaf=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=1&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="paragraaf=1" korte-verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=1"/></jcis></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf2" stam-id="926623" versie-id="1355852" id="C1355851" label-id="898224" inwerking="1998-10-23" label="§ 2" bron="Stb.1998-600" effect="nieuwe-regeling" ondertekening_bron="1998-10-01" publicatie_bron="1998-10-22" publicatie_iwt="1998-10-22" status="goed">
+  <kop>
+    <label>§</label>
+    <nr>2</nr>
+    <titel status="officieel">Oprichting vennootschap </titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf2/Artikel2" code="b1-2" stam-id="926613" versie-id="1355842" id="C1355841" label-id="898214" inwerking="1998-10-23" label="Artikel 2" bron="Stb.1998-600" effect="nieuwe-regeling" ondertekening_bron="1998-10-01" publicatie_bron="1998-10-22" publicatie_iwt="1998-10-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf2/Artikel2/Lid1" label-id="898214L1">
+    <lidnr>1</lidnr>
+    <al>Onze Minister wordt gemachtigd namens de Staat der Nederlanden een naamloze vennootschap op te richten en deel te nemen in het bij de oprichting door hem vast te stellen kapitaal, alsmede deel te nemen in verdere plaatsing van het kapitaal. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=2&amp;artikel=2&amp;lid=1&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf2/Artikel2/Lid2" label-id="898214L2">
+    <lidnr>2</lidnr>
+    <al>De NV heeft als doel een tunnel onder de Westerschelde met aansluitende wegen en bijbehorende werken tot stand te brengen, in stand te houden en als rechthebbende te exploiteren of doen exploiteren. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=2&amp;artikel=2&amp;lid=2&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-10-23">23-10-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009930&amp;artikel=2&amp;g=2024-03-25" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0009930&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=2&amp;artikel=2&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0009930&amp;artikel=2"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-10-23">23-10-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009930&amp;paragraaf=2&amp;g=2024-03-25" onderdeel="paragraaf=2" korte-verwijzing="1.0:c:BWBR0009930&amp;paragraaf=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=2&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="paragraaf=2" korte-verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=2"/></jcis></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf3" stam-id="926653" versie-id="1355882" id="C1355881" label-id="898254" inwerking="1998-10-23" label="§ 3" bron="Stb.1998-600" effect="nieuwe-regeling" ondertekening_bron="1998-10-01" publicatie_bron="1998-10-22" publicatie_iwt="1998-10-22" status="goed">
+  <kop>
+    <label>§</label>
+    <nr>3</nr>
+    <titel status="officieel">Wegenrechtelijke bepalingen </titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf3/Artikel3" stam-id="926633" versie-id="29922922" id="C42889721" label-id="898234" inwerking="2024-03-25" label="Artikel 3" bron="Stb.2023-419" effect="wijziging" ondertekening_bron="2023-11-08" publicatie_bron="2023-11-22" publicatie_iwt="2023-11-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel3/Lid1" label-id="898234L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Bij regeling van Onze Minister wordt aan de wegen door de tunnel en aan de aansluitende wegen de bestemming van openbare weg gegeven, alsmede de datum bepaald met ingang waarvan die wegen openbaar zijn. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=3&amp;artikel=3&amp;lid=1&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel3/Lid2" label-id="898234L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Met ingang van de datum, bedoeld in het eerste lid, is de NV onderhoudsplichtige van die wegen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=3&amp;artikel=3&amp;lid=2&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel3/Lid3" label-id="898234L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Met ingang van de datum, bedoeld in het eerste lid, berust bij het Rijk het toezicht op het in goede staat verkeren van die wegen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=3&amp;artikel=3&amp;lid=3&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel3/Lid4" label-id="898234L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Waar in de <extref label-id="2959334" verwijzing-id="284281" bwb-id="BWBR0006622" doc="onbekend">Wegenverkeerswet 1994</extref> en de daarop berustende bepalingen voor wegen onder beheer van het Rijk de Minister van Infrastructuur en Waterstaat als bevoegd gezag wordt aangewezen, is in afwijking daarvan voor de wegen, bedoeld in het eerste lid, het college van gedeputeerde staten bevoegd, met dien verstande dat bij algemene maatregel van bestuur kan worden bepaald dat dit lid vervalt. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=3&amp;artikel=3&amp;lid=4&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel3/Lid5" label-id="898234L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>De bevoegdheid krachtens <extref doc="jci1.3:c:BWBR0001867&amp;artikel=38" label-id="2122594" verwijzing-id="284282" bwb-id="BWBR0001867">artikel 38 van de Waterstaatswet 1900</extref> tot het geven van bevelen tot de uitvoering van noodzakelijke waterstaatswerken en voorzieningen komt wat de Westerscheldetunnel, de wegen door de tunnel en de aansluitende wegen betreft toe aan Onze Minister. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=3&amp;artikel=3&amp;lid=5&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-419"><publicatiejaar>2023</publicatiejaar><publicatienr>419</publicatienr><uitgiftedatum isodatum="2023-11-22">22-11-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-11-08">08-11-2023</ondertekeningsdatum><dossierref dossier="36384">36384</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-419"><publicatiejaar>2023</publicatiejaar><publicatienr>419</publicatienr><uitgiftedatum isodatum="2023-11-22">22-11-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-11-08">08-11-2023</ondertekeningsdatum><dossierref dossier="36384">36384</dossierref></publicatie><inwerkingtreding.datum isodatum="2024-03-25">25-03-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009930&amp;artikel=3&amp;g=2024-03-25" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0009930&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=3&amp;artikel=3&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0009930&amp;artikel=3"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf3/Artikel4" stam-id="926643" versie-id="29922932" id="C42889731" label-id="898244" inwerking="2024-03-25" label="Artikel 4" bron="Stb.2023-419" effect="wijziging" ondertekening_bron="2023-11-08" publicatie_bron="2023-11-22" publicatie_iwt="2023-11-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel4/Lid1" label-id="898244L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Met ingang van de datum, bedoeld in <intref doc="jci1.3:c:BWBR0009930&amp;paragraaf=3&amp;artikel=3&amp;z=2024-03-25&amp;g=2024-03-25" label-id="898234" verwijzing-id="1867781" bwb-id="BWBR0009930" bwb-ng-variabel-deel="/Paragraaf3/Artikel3">artikel 3, eerste lid</intref>, doet de exploitant aan een ieder die met een motorrijtuig, onderscheidenlijk een voertuig dat door een motorrijtuig wordt voortbewogen, gebruik wil maken van een weg door de tunnel, een aanbod tot het sluiten van een overeenkomst, houdende het gebruik van de weg door de tunnel. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=3&amp;artikel=4&amp;lid=1&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel4/Lid2" label-id="898244L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>In afwijking van <extref doc="jci1.3:c:BWBR0001948&amp;artikel=14" label-id="2973044" verwijzing-id="284284" bwb-id="BWBR0001948">artikel 14 van de Wegenwet</extref> is de exploitant bevoegd: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Paragraaf3/Artikel4/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het gebruik van de wegen door de tunnel te ontzeggen aan degene die met hem geen overeenkomst sluit over het gebruik; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=3&amp;artikel=4&amp;lid=2&amp;o=a&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Paragraaf3/Artikel4/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>voorzieningen op de aansluitende wegen aan te brengen die tot doel hebben voor degene die de overeenkomst niet sluit, of niet nakomt, de verdere doorgang onmogelijk te maken. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=3&amp;artikel=4&amp;lid=2&amp;o=b&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=3&amp;artikel=4&amp;lid=2&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf3/Artikel4/Lid3" label-id="898244L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De exploitant benadeelt niet-reguliere gebruikers van de tunnel niet op ongerechtvaardigde wijze bij de toepassing van het eerste en tweede lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=3&amp;artikel=4&amp;lid=3&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-419"><publicatiejaar>2023</publicatiejaar><publicatienr>419</publicatienr><uitgiftedatum isodatum="2023-11-22">22-11-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-11-08">08-11-2023</ondertekeningsdatum><dossierref dossier="36384">36384</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-419"><publicatiejaar>2023</publicatiejaar><publicatienr>419</publicatienr><uitgiftedatum isodatum="2023-11-22">22-11-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-11-08">08-11-2023</ondertekeningsdatum><dossierref dossier="36384">36384</dossierref></publicatie><inwerkingtreding.datum isodatum="2024-03-25">25-03-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009930&amp;artikel=4&amp;g=2024-03-25" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0009930&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=3&amp;artikel=4&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0009930&amp;artikel=4"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-10-23">23-10-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009930&amp;paragraaf=3&amp;g=2024-03-25" onderdeel="paragraaf=3" korte-verwijzing="1.0:c:BWBR0009930&amp;paragraaf=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=3&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="paragraaf=3" korte-verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=3"/></jcis></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf4" stam-id="926703" versie-id="1355932" id="C1355931" label-id="898304" inwerking="1998-10-23" label="§ 4" bron="Stb.1998-600" effect="nieuwe-regeling" ondertekening_bron="1998-10-01" publicatie_bron="1998-10-22" publicatie_iwt="1998-10-22" status="goed">
+  <kop>
+    <label>§</label>
+    <nr>4</nr>
+    <titel status="officieel">Tarieven </titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf4/Artikel5" stam-id="926663" versie-id="29922942" id="C42889741" label-id="898264" inwerking="2024-03-25" label="Artikel 5" bron="Stb.2023-419" effect="wijziging" ondertekening_bron="2023-11-08" publicatie_bron="2023-11-22" publicatie_iwt="2023-11-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf4/Artikel5/Lid1" label-id="898264L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De exploitant stelt voor de vergoeding voor het gebruik van een weg door de tunnel tarieven vast, en maakt deze bekend. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=4&amp;artikel=5&amp;lid=1&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf4/Artikel5/Lid2" label-id="898264L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De tarieven kennen een referentietarief zijnde de hoogte van de vergoeding voor het gebruik van een weg door de tunnel met een personenauto in de periode dat geen bijzondere verhogingen van toepassing zijn. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=4&amp;artikel=5&amp;lid=2&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf4/Artikel5/Lid3" label-id="898264L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De tarieven kennen geen tarief waarvan de hoogte wordt bepaald naar gelang het aantal inzittenden. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=4&amp;artikel=5&amp;lid=3&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf4/Artikel5/Lid4" label-id="898264L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De exploitant maakt bij het heffen van het toltarief geen direct of indirect onderscheid als bedoeld in artikel 7, vijfde lid, van <extref doc="31999L0062" label="richtlijn" reeks="Celex">Richtlijn 99/62/EG</extref> van het Europees Parlement en de Raad van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen (PbEG 1999, L 187) op grond van de nationaliteit van de weggebruiker, de lidstaat of het derde land waar de vervoerder gevestigd is, de lidstaat of het derde land waar het voertuig geregistreerd is, of de herkomst of de bestemming van het vervoer.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=4&amp;artikel=5&amp;lid=4&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-419"><publicatiejaar>2023</publicatiejaar><publicatienr>419</publicatienr><uitgiftedatum isodatum="2023-11-22">22-11-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-11-08">08-11-2023</ondertekeningsdatum><dossierref dossier="36384">36384</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-419"><publicatiejaar>2023</publicatiejaar><publicatienr>419</publicatienr><uitgiftedatum isodatum="2023-11-22">22-11-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-11-08">08-11-2023</ondertekeningsdatum><dossierref dossier="36384">36384</dossierref></publicatie><inwerkingtreding.datum isodatum="2024-03-25">25-03-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009930&amp;artikel=5&amp;g=2024-03-25" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0009930&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=4&amp;artikel=5&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0009930&amp;artikel=5"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf4/Artikel6" code="b1-6" stam-id="926673" versie-id="1355902" id="C1355901" label-id="898274" inwerking="1998-10-23" label="Artikel 6" bron="Stb.1998-600" effect="nieuwe-regeling" ondertekening_bron="1998-10-01" publicatie_bron="1998-10-22" publicatie_iwt="1998-10-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf4/Artikel6/Lid1" label-id="898274L1">
+    <lidnr>1</lidnr>
+    <al>De hoogste vergoeding voor een rit met een personenauto bedraagt ten hoogste twee keer het referentietarief. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=4&amp;artikel=6&amp;lid=1&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf4/Artikel6/Lid2" label-id="898274L2">
+    <lidnr>2</lidnr>
+    <al>De hoogste vergoeding voor een rit met een motorrijwiel bedraagt ten hoogste het referentietarief. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=4&amp;artikel=6&amp;lid=2&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf4/Artikel6/Lid3" label-id="898274L3">
+    <lidnr>3</lidnr>
+    <al>De hoogste vergoeding voor een rit met een ander motorrijtuig dan een personenauto of een motorrijwiel bedraagt ten hoogste vijf keer het referentietarief. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=4&amp;artikel=6&amp;lid=3&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf4/Artikel6/Lid4" label-id="898274L4">
+    <lidnr>4</lidnr>
+    <al>De hoogste vergoeding voor een rit met een voertuig dat door een motorrijtuig wordt voortbewogen, bedraagt ten hoogste de hoogte van de vergoeding die verschuldigd is voor de rit met het motorrijtuig dat het voertuig voortbeweegt. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=4&amp;artikel=6&amp;lid=4&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-10-23">23-10-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009930&amp;artikel=6&amp;g=2024-03-25" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0009930&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=4&amp;artikel=6&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0009930&amp;artikel=6"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf4/Artikel7" code="b1-7" stam-id="926683" versie-id="1355912" id="C14483711" label-id="898284" inwerking="1998-10-23" label="Artikel 7" bron="Stb.1998-600" effect="nieuwe-regeling" ondertekening_bron="1998-10-01" publicatie_bron="1998-10-22" publicatie_iwt="1998-10-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+  <al>Het referentietarief mag over een periode van twaalf maanden ten hoogste worden verhoogd met 10% gedurende de eerste twee jaar met ingang van de datum, bedoeld in <intref verwijzing-id="1867782" doc="jci1.3:c:BWBR0009930&amp;paragraaf=3&amp;artikel=3&amp;z=2024-03-25&amp;g=2024-03-25" bwb-id="BWBR0009930" label-id="898234" bwb-ng-variabel-deel="/Paragraaf3/Artikel3">artikel 3, eerste lid</intref>, 8% gedurende het derde en het vierde jaar na bedoelde datum, 6% gedurende het vijfde en het zesde jaar na bedoelde datum en 4% gedurende het zevende jaar en de volgende jaren na bedoelde datum, telkens vermeerderd met de percentuele stijging van de prijzen bij het onderhoud van wegen met een gesloten verharding buiten de bebouwde kom over de jongste vergelijkbare periode. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-10-23">23-10-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009930&amp;artikel=7&amp;g=2024-03-25" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0009930&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=4&amp;artikel=7&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0009930&amp;artikel=7"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf4/Artikel8" code="b1-8" stam-id="926693" versie-id="1355922" id="C1355921" label-id="898294" inwerking="1998-10-23" label="Artikel 8" bron="Stb.1998-600" effect="nieuwe-regeling" ondertekening_bron="1998-10-01" publicatie_bron="1998-10-22" publicatie_iwt="1998-10-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>8</nr>
+  </kop>
+  <al>Geen vergoeding is verschuldigd voor het gebruik met motorrijtuigen: </al>
+  <lijst>
+    <li bwb-ng-variabel-deel="/Paragraaf4/Artikel8/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>die zijn ingericht en uitsluitend worden gebruikt voor het vervoer van zieken en gewonden en die als zodanig uiterlijk herkenbaar zijn; </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=4&amp;artikel=8&amp;o=a&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Paragraaf4/Artikel8/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>die zijn ingericht en uitsluitend worden gebruikt voor het vervoer van een stoffelijk overschot; </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=4&amp;artikel=8&amp;o=b&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Paragraaf4/Artikel8/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>die uitsluitend worden gebruikt voor defensie, of </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=4&amp;artikel=8&amp;o=c&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Paragraaf4/Artikel8/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>die uitsluitend worden gebruikt door politie en brandweer en als zodanig uiterlijk herkenbaar zijn. </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=4&amp;artikel=8&amp;o=d&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="o=d"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-10-23">23-10-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009930&amp;artikel=8&amp;g=2024-03-25" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0009930&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=4&amp;artikel=8&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0009930&amp;artikel=8"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-10-23">23-10-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009930&amp;paragraaf=4&amp;g=2024-03-25" onderdeel="paragraaf=4" korte-verwijzing="1.0:c:BWBR0009930&amp;paragraaf=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=4&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="paragraaf=4" korte-verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=4"/></jcis></meta-data></paragraaf>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf5" stam-id="926753" versie-id="1355982" id="C1355981" label-id="898354" inwerking="1998-10-23" label="§ 5" bron="Stb.1998-600" effect="nieuwe-regeling" ondertekening_bron="1998-10-01" publicatie_bron="1998-10-22" publicatie_iwt="1998-10-22" status="goed">
+  <kop>
+    <label>§</label>
+    <nr>5</nr>
+    <titel status="officieel">Slotbepalingen </titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf5/Artikel9" code="b1-9" stam-id="926713" versie-id="1355942" id="C14483751" label-id="898314" inwerking="1998-10-23" label="Artikel 9" bron="Stb.1998-600" effect="nieuwe-regeling" ondertekening_bron="1998-10-01" publicatie_bron="1998-10-22" publicatie_iwt="1998-10-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>9</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf5/Artikel9/Lid1" label-id="898314L1">
+    <lidnr>1</lidnr>
+    <al>Het referentietarief bedraagt op de datum, bedoeld in <intref verwijzing-id="1867784" doc="jci1.3:c:BWBR0009930&amp;paragraaf=3&amp;artikel=3&amp;z=2024-03-25&amp;g=2024-03-25" bwb-id="BWBR0009930" label-id="898234" bwb-ng-variabel-deel="/Paragraaf3/Artikel3">artikel 3, eerste lid</intref>, ten hoogste het bedrag dat bij regeling van Onze Minister is vastgesteld. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=5&amp;artikel=9&amp;lid=1&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf5/Artikel9/Lid2" label-id="898314L2">
+    <lidnr>2</lidnr>
+    <al>De regeling, bedoeld in het eerste lid, treedt niet eerder in werking dan acht weken na de datum van bekendmaking in de Staatscourant. Van de bekendmaking wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=5&amp;artikel=9&amp;lid=2&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-10-23">23-10-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009930&amp;artikel=9&amp;g=2024-03-25" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0009930&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=5&amp;artikel=9&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0009930&amp;artikel=9"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf5/Artikel10" code="b1-10" stam-id="926723" versie-id="1355952" id="C14483791" label-id="898324" inwerking="1998-10-23" label="Artikel 10" bron="Stb.1998-600" effect="nieuwe-regeling" ondertekening_bron="1998-10-01" publicatie_bron="1998-10-22" publicatie_iwt="1998-10-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>10</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf5/Artikel10/Lid1" label-id="898324L1">
+    <lidnr>1</lidnr>
+    <al>Deze wet vervalt met ingang van het eenendertigste jaar na de datum, bedoeld in <intref verwijzing-id="1867786" doc="jci1.3:c:BWBR0009930&amp;paragraaf=3&amp;artikel=3&amp;z=2024-03-25&amp;g=2024-03-25" bwb-id="BWBR0009930" label-id="898234" bwb-ng-variabel-deel="/Paragraaf3/Artikel3">artikel 3, eerste lid</intref>. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=5&amp;artikel=10&amp;lid=1&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf5/Artikel10/Lid2" label-id="898324L2">
+    <lidnr>2</lidnr>
+    <al>Indien de resultaten van de NV daartoe aanleiding geven, kan bij algemene maatregel van bestuur de werkingsduur van deze wet worden verlengd tot een totale periode van ten hoogste vijftig jaar. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=5&amp;artikel=10&amp;lid=2&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-10-23">23-10-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009930&amp;artikel=10&amp;g=2024-03-25" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0009930&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=5&amp;artikel=10&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0009930&amp;artikel=10"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf5/Artikel11" code="b1-11" stam-id="926733" versie-id="1355962" id="C1355961" label-id="898334" inwerking="1998-10-23" label="Artikel 11" bron="Stb.1998-600" effect="nieuwe-regeling" ondertekening_bron="1998-10-01" publicatie_bron="1998-10-22" publicatie_iwt="1998-10-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>11</nr>
+  </kop>
+  <al>Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-10-23">23-10-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009930&amp;artikel=11&amp;g=2024-03-25" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0009930&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=5&amp;artikel=11&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0009930&amp;artikel=11"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf5/Artikel12" code="b1-12" stam-id="926743" versie-id="1355972" id="C1355971" label-id="898344" inwerking="1998-10-23" label="Artikel 12" bron="Stb.1998-600" effect="nieuwe-regeling" ondertekening_bron="1998-10-01" publicatie_bron="1998-10-22" publicatie_iwt="1998-10-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>12</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Tunnelwet Westerschelde. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-10-23">23-10-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009930&amp;artikel=12&amp;g=2024-03-25" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0009930&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=5&amp;artikel=12&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0009930&amp;artikel=12"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-10-23">23-10-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009930&amp;paragraaf=5&amp;g=2024-03-25" onderdeel="paragraaf=5" korte-verwijzing="1.0:c:BWBR0009930&amp;paragraaf=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=5&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="paragraaf=5" korte-verwijzing="jci1.3:c:BWBR0009930&amp;paragraaf=5"/></jcis></meta-data></paragraaf>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="926763" versie-id="1355992" id="C1355991" label-id="898364" inwerking="1998-10-23" bron="Stb.1998-600" effect="nieuwe-regeling" ondertekening_bron="1998-10-01" publicatie_bron="1998-10-22" publicatie_iwt="1998-10-22" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">1 oktober 1998 </datum>
+    </dagtekening>
+    <koning>Beatrix </koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Verkeer en Waterstaat, </functie>
+    <naam>
+      <achternaam>T. Netelenbos </achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">tweeëntwintigste oktober 1998 </datum>
+    <ondertekening>
+      <functie>De Minister van Justitie, </functie>
+      <naam>
+        <achternaam>A. H. Korthals </achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-10-23">23-10-1998</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-600"><publicatiejaar>1998</publicatiejaar><publicatienr>600</publicatienr><uitgiftedatum isodatum="1998-10-22">22-10-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-01">01-10-1998</ondertekeningsdatum><dossierref dossier="25675">25675</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-10-23">23-10-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009930&amp;g=2024-03-25" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0009930"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009930&amp;z=2024-03-25&amp;g=2024-03-25" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0009930"/></jcis></meta-data></wetgeving></toestand>

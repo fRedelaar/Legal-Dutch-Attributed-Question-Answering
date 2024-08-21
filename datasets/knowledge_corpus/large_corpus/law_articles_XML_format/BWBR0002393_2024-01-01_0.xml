@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0002393/2024-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0002393" inwerkingtreding="2024-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="1791643" versie-id="2662622" id="C2662621" label-id="1747394" inwerkingtredingsdatum="1997-05-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="1791673" versie-id="2662042" id="C2662041" label-id="1746954" inwerking="1963-02-15" bron="Stb.1962-587" effect="nieuwe-regeling" ondertekening_bron="1962-12-12" status="goed">Wet van 12 december 1962, houdende een regeling betreffende het vorderen van zaken door de landsoverheid <meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1962</publicatiejaar><publicatienr>587</publicatienr><ondertekeningsdatum isodatum="1962-12-12">12-12-1962</ondertekeningsdatum><dossierref dossier="5348">5348</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1963</publicatiejaar><publicatienr>30</publicatienr><ondertekeningsdatum isodatum="1963-02-07">07-02-1963</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1963-02-15">15-02-1963</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="1791683" versie-id="11340722" id="C15798871" label-id="1746964" inwerking="2005-03-16" bron="Stb.2004-686" effect="wijziging" ondertekening_bron="2004-12-02" publicatie_bron="2004-12-28" publicatie_iwt="2005-03-15">Vorderingswet <meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2004-686"><publicatiejaar>2004</publicatiejaar><publicatienr>686</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-02">02-12-2004</ondertekeningsdatum><dossierref dossier="29514">29514</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-118"><publicatiejaar>2005</publicatiejaar><publicatienr>118</publicatienr><uitgiftedatum isodatum="2005-03-15">15-03-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-02-23">23-02-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-03-16">16-03-2005</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="1791693" versie-id="2662062" id="C2662061" label-id="1746974" inwerking="1963-02-15" bron="Stb.1962-587" effect="nieuwe-regeling" ondertekening_bron="1962-12-12" status="goed">
+  <wij>Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz. </wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten: </considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is een nieuwe regeling vast te stellen betreffende het vorderen van zaken door de landsoverheid; </considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze: </al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1962</publicatiejaar><publicatienr>587</publicatienr><ondertekeningsdatum isodatum="1962-12-12">12-12-1962</ondertekeningsdatum><dossierref dossier="5348">5348</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1963</publicatiejaar><publicatienr>30</publicatienr><ondertekeningsdatum isodatum="1963-02-07">07-02-1963</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1963-02-15">15-02-1963</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" code="a-1" stam-id="1791703" versie-id="2662722" id="C2662721" label-id="1746984" inwerking="1999-02-17" label="Artikel 1" bron="Stb.1999-30" effect="wijziging" ondertekening_bron="1999-01-28" publicatie_bron="1999-02-16" publicatie_iwt="1999-02-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid1" label-id="1746984L1">
+    <lidnr>1</lidnr>
+    <al>Voor de toepassing van het bij en krachtens deze wet bepaalde worden onder zaken verstaan de voor menselijke beheersing vatbare stoffelijke objecten. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=1&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid2" label-id="1746984L2">
+    <lidnr>2</lidnr>
+    <al> Met betrekking tot vermogensrechten kan in dezelfde gevallen een vordering plaats vinden als met betrekking tot zaken. Voor zover geen andere regels zijn gegeven, is het bij en krachtens deze wet met betrekking tot zaken bepaalde van overeenkomstige toepassing. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=1&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid3" label-id="1746984L3">
+    <lidnr>3</lidnr>
+    <al> Op grond van het bij en krachtens deze wet bepaalde is geen vordering toegelaten van enig recht dat betrekking heeft op </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>alle vaartuigen, hoe ook genaamd en van welke aard ook, welke geheel of in hoofdzaak tot de vaart ter zee zijn bestemd; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=1&amp;lid=3&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>effecten, betaalmiddelen, geldswaardige papieren, goud, vorderingen en documenten waarin zodanige vorderingen zijn belichaamd, ten aanzien waarvan het bepaalde bij of krachtens de <extref doc="jci1.3:c:BWBR0006547" verwijzing-id="607764" bwb-id="BWBR0006547" label-id="262174">Wet financiële betrekkingen buitenland 1994</extref> van toepassing is.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=1&amp;lid=3&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=1&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1999-30"><publicatiejaar>1999</publicatiejaar><publicatienr>30</publicatienr><uitgiftedatum isodatum="1999-02-16">16-02-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-01-28">28-01-1999</ondertekeningsdatum><dossierref dossier="25836">25836</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1999-40"><publicatiejaar>1999</publicatiejaar><publicatienr>40</publicatienr><uitgiftedatum isodatum="1999-02-16">16-02-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-02-04">04-02-1999</ondertekeningsdatum><dossierref dossier="25836">25836</dossierref></publicatie><inwerkingtreding.datum isodatum="1999-02-17">17-02-1999</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=1&amp;g=2024-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="a-2" stam-id="1791713" versie-id="2662082" id="C2662081" label-id="1746994" inwerking="1963-02-15" label="Artikel 2" bron="Stb.1962-587" effect="nieuwe-regeling" ondertekening_bron="1962-12-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <al>De toepasselijkheid van deze wet wordt beperkt door de in het volkenrecht erkende uitzonderingen. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1962</publicatiejaar><publicatienr>587</publicatienr><ondertekeningsdatum isodatum="1962-12-12">12-12-1962</ondertekeningsdatum><dossierref dossier="5348">5348</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1963</publicatiejaar><publicatienr>30</publicatienr><ondertekeningsdatum isodatum="1963-02-07">07-02-1963</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1963-02-15">15-02-1963</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=2&amp;g=2024-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="b1-3" stam-id="1791723" versie-id="2662592" id="C5032811" label-id="1747004" inwerking="1997-05-01" label="Artikel 3" bron="Stb.1996-366" effect="wijziging" ondertekening_bron="1996-04-03" publicatie_bron="1996-07-09" publicatie_iwt="1997-04-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="1747004L1">
+    <lidnr>1</lidnr>
+    <al>Onverminderd de <extref doc="jci1.3:c:BWBR0007981&amp;artikel=7" verwijzing-id="607765" bwb-id="BWBR0007981" label-id="106544">artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden</extref> kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, <intref verwijzing-id="1615268" doc="jci1.3:c:BWBR0002393&amp;artikel=3a&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0002393" label-id="1747424" bwb-ng-variabel-deel="/Artikel3a">artikel 3 <nadruk type="cur">a</nadruk></intref> in werking worden gesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=3&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="1747004L2">
+    <lidnr>2</lidnr>
+    <al>Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepaling.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=3&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid3" label-id="1747004L3">
+    <lidnr>3</lidnr>
+    <al>Wordt het voorstel van wet door de Staten-Generaal verworpen, dan wordt bij koninklijk besluit, op voordracht van Onze Minister-President, de bepaling die ingevolge het eerste lid in werking is gesteld, onverwijld buiten werking gesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=3&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid4" label-id="1747004L4">
+    <lidnr>4</lidnr>
+    <al>Bij koninklijk besluit, op voordracht van Onze Minister-President, wordt de bepaling die ingevolge het eerste lid in werking is gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=3&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid5" label-id="1747004L5">
+    <lidnr>5</lidnr>
+    <al>Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=3&amp;lid=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid6" label-id="1747004L6">
+    <lidnr>6</lidnr>
+    <al>Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het <nadruk type="cur">Staatsblad</nadruk>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=3&amp;lid=6&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1996-366"><publicatiejaar>1996</publicatiejaar><publicatienr>366</publicatienr><uitgiftedatum isodatum="1996-07-09">09-07-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-04-03">03-04-1996</ondertekeningsdatum><dossierref dossier="23791">23791</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-172"><publicatiejaar>1997</publicatiejaar><publicatienr>172</publicatienr><uitgiftedatum isodatum="1997-04-29">29-04-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-04-23">23-04-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1997-05-01">01-05-1997</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Artikel 3a kan volgens artikel 7, eerste lid en artikel 8,
+        eerste lid van de Coördinatiewet uitzonderingstoestanden in
+        beperkte en in algemene noodtoestand in werking worden gesteld.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=3&amp;g=2024-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3a" stam-id="1792133" versie-id="2662612" id="C34307501" label-id="1747424" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3a</nr>
+  </kop>
+  <al>
+    <redactie type="noodwetgeving">Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.</redactie>
+  </al>
+  <al>Al Onze Ministers zijn bevoegd, indien dit noodzakelijk is met het oog op de behartiging van belangen van tot hun zorg behorende aangelegenheden, ten behoeve van de Staat, andere lichamen of personen het eigendomsrecht op of een recht tot gebruik van zaken te vorderen. </al>
+<meta-data><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=3a&amp;g=2024-01-01" onderdeel="artikel=3a" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=3a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=3a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=3a" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=3a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="a-4" stam-id="1791733" versie-id="2662102" id="C8169971" label-id="1747014" inwerking="1994-01-01" label="Artikel 4" bron="Stb.1992-422" effect="nieuw" ondertekening_bron="1992-06-04" publicatie_iwt="1993-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>4</nr>
+  </kop>
+  <al>De bekendmaking van een beschikking waarbij een Onzer Ministers machtiging verleent namens hem vorderingsbeschikkingen te ondertekenen, geschiedt door toezending of uitreiking aan de gemachtigde dan wel door plaatsing in de <nadruk type="cur">Staatscourant</nadruk>. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>422</publicatienr><ondertekeningsdatum isodatum="1992-06-04">04-06-1992</ondertekeningsdatum><dossierref dossier="22061">22061</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>693</publicatienr><uitgiftedatum isodatum="1993-12-23">23-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=4&amp;g=2024-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" stam-id="1791743" versie-id="28356382" id="C40150201" label-id="1747024" inwerking="2022-03-02" label="Artikel 5" bron="Stb.2022-23" effect="wijziging" ondertekening_bron="2021-12-15" publicatie_bron="2022-01-20" publicatie_iwt="2022-03-01" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid1" label-id="1747024L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Ministers gaan niet tot vordering over dan in overeenstemming met Onze Minister van Economische Zaken en Klimaat. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=5&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid2" label-id="1747024L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Alvorens een beslissing omtrent vorderingen te nemen pleegt Onze Minister van Economische Zaken en Klimaat overleg met Onze Ministers, tot wier zorg belangen, die door de vorderingen kunnen worden geraakt, behoren, tenzij de vereiste spoed dit niet toelaat. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=5&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-23"><publicatiejaar>2022</publicatiejaar><publicatienr>23</publicatienr><uitgiftedatum isodatum="2022-01-20">20-01-2022</uitgiftedatum><ondertekeningsdatum isodatum="2021-12-15">15-12-2021</ondertekeningsdatum><dossierref dossier="35889">35889</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-100"><publicatiejaar>2022</publicatiejaar><publicatienr>100</publicatienr><uitgiftedatum isodatum="2022-03-01">01-03-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-02-07">07-02-2022</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-03-02">02-03-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=5&amp;g=2024-01-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="a-6" stam-id="1791753" versie-id="2662122" id="C2662121" label-id="1747034" inwerking="1963-02-15" label="Artikel 6" bron="Stb.1962-587" effect="nieuwe-regeling" ondertekening_bron="1962-12-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+  </kop>
+  <al>In vorderingsbeschikkingen kan aan daarbij aangewezen personen de verplichting worden opgelegd, om, voor zover hun dat feitelijk en rechtens mogelijk is, op de daarbij aangegeven plaats en tijd aan degene, te wiens behoeve de vordering geschiedt, de feitelijke mogelijkheid tot uitoefening van het gevorderde recht te verschaffen. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1962</publicatiejaar><publicatienr>587</publicatienr><ondertekeningsdatum isodatum="1962-12-12">12-12-1962</ondertekeningsdatum><dossierref dossier="5348">5348</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1963</publicatiejaar><publicatienr>30</publicatienr><ondertekeningsdatum isodatum="1963-02-07">07-02-1963</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1963-02-15">15-02-1963</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=6&amp;g=2024-01-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=6&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="a-7" stam-id="1791763" versie-id="2662132" id="C2662131" label-id="1747044" inwerking="1963-02-15" label="Artikel 7" bron="Stb.1962-587" effect="nieuwe-regeling" ondertekening_bron="1962-12-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+  <al>In beschikkingen tot vordering van een recht tot gebruik van een zaak wordt de inhoud van dat recht omschreven. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1962</publicatiejaar><publicatienr>587</publicatienr><ondertekeningsdatum isodatum="1962-12-12">12-12-1962</ondertekeningsdatum><dossierref dossier="5348">5348</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1963</publicatiejaar><publicatienr>30</publicatienr><ondertekeningsdatum isodatum="1963-02-07">07-02-1963</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1963-02-15">15-02-1963</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=7&amp;g=2024-01-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=7&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" code="a-8" stam-id="1791773" versie-id="2662142" id="C2662141" label-id="1747054" inwerking="1963-02-15" label="Artikel 8" bron="Stb.1962-587" effect="nieuwe-regeling" ondertekening_bron="1962-12-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>8</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid1" label-id="1747054L1">
+    <lidnr>1</lidnr>
+    <al>Ingeval de vorderingsbeschikking door een gemachtigde is ondertekend, vermeldt zij de naam en de functie van de ondertekenaar alsmede de beschikking, waarbij de machtiging is verleend. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=8&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid2" label-id="1747054L2">
+    <lidnr>2</lidnr>
+    <al> Het niet inachtnemen van het eerste lid brengt nietigheid van de beschikking mede indien op deze nietigheid binnen één maand nadat de vordering is gedaan, een beroep wordt gedaan. Zodanig beroep kan niet worden gedaan door de Staat, noch door degene, te wiens behoeve de vordering is geschied. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=8&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1962</publicatiejaar><publicatienr>587</publicatienr><ondertekeningsdatum isodatum="1962-12-12">12-12-1962</ondertekeningsdatum><dossierref dossier="5348">5348</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1963</publicatiejaar><publicatienr>30</publicatienr><ondertekeningsdatum isodatum="1963-02-07">07-02-1963</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1963-02-15">15-02-1963</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=8&amp;g=2024-01-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=8&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" stam-id="1791783" versie-id="28356892" id="C40150211" label-id="1747064" inwerking="2022-03-02" label="Artikel 9" bron="Stb.2022-23" effect="wijziging" ondertekening_bron="2021-12-15" publicatie_bron="2022-01-20" publicatie_iwt="2022-03-01" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid1" label-id="1747064L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De bekendmaking van een vorderingsbeschikking geschiedt door toezending of uitreiking: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel9/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>aan de eigenaar, de beperkt gerechtigde, de pachter, de huurder, de huurkoper en degene die beslag heeft gelegd, voor zover zij bekend zijn; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=9&amp;lid=1&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel9/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>bij toepassing van <intref doc="jci1.3:c:BWBR0002393&amp;artikel=6&amp;z=2024-01-01&amp;g=2024-01-01" label-id="1747034" verwijzing-id="1615273" bwb-id="BWBR0002393" bwb-ng-variabel-deel="/Artikel6">artikel 6</intref> aan ieder der krachtens dat artikel aangewezen personen; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=9&amp;lid=1&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel9/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>aan degene, in wiens feitelijke macht de zaak wordt aangetroffen. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=9&amp;lid=1&amp;o=c&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=9&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid2" label-id="1747064L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Tegelijkertijd met of zo spoedig mogelijk na de bekendmaking wordt van de vorderingsbeschikking door middel van toezending of uitreiking van een exemplaar daarvan mededeling gedaan: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel9/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>indien de vordering ten behoeve van een ander dan de Staat geschiedt, aan deze ander; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=9&amp;lid=2&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel9/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>aan de burgemeester der gemeente, waar de zaak wordt aangetroffen. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=9&amp;lid=2&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=9&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid3" label-id="1747064L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Ingeval van vordering van het eigendomsrecht op of een recht tot gebruik van tot een zelfde groep behorende zaken, die bij verscheidene personen aanwezig zijn, kunnen de bekendmaking en de mededeling overeenkomstig het eerste en tweede lid worden vervangen door een algemene bekendmaking de beschikking. De beschikking wordt dan tevens zo spoedig mogelijk in de <nadruk type="cur">Staatscourant</nadruk> geplaatst. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=9&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid4" label-id="1747064L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> Van vorderingsbeschikkingen, die niet door Onze Minister van Economische Zaken en Klimaat zijn vastgesteld, wordt aan deze afschrift gezonden. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=9&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-23"><publicatiejaar>2022</publicatiejaar><publicatienr>23</publicatienr><uitgiftedatum isodatum="2022-01-20">20-01-2022</uitgiftedatum><ondertekeningsdatum isodatum="2021-12-15">15-12-2021</ondertekeningsdatum><dossierref dossier="35889">35889</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-100"><publicatiejaar>2022</publicatiejaar><publicatienr>100</publicatienr><uitgiftedatum isodatum="2022-03-01">01-03-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-02-07">07-02-2022</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-03-02">02-03-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=9&amp;g=2024-01-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=9&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" code="d1-10" stam-id="1791793" versie-id="16494092" id="C22716441" label-id="1747074" inwerking="2009-07-01" label="Artikel 10" bron="Stb.2009-265" effect="wijziging" ondertekening_bron="2009-06-25" publicatie_bron="2009-06-30" publicatie_iwt="2009-06-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid1" label-id="1747074L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister die een vordering heeft gedaan, is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de vordering. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=10&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid2" label-id="1747074L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Een machtiging als bedoeld in <extref doc="jci1.3:c:BWBR0006763&amp;artikel=2" verwijzing-id="607766" bwb-id="BWBR0006763" label-id="1202434">artikel 2 van de Algemene wet op het binnentreden</extref> kan worden gegeven door Onze Minister die de vordering heeft gedaan. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=10&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-265"><publicatiejaar>2009</publicatiejaar><publicatienr>265</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum><dossierref dossier="31124">31124</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-266"><publicatiejaar>2009</publicatiejaar><publicatienr>266</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-07-01">01-07-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=10&amp;g=2024-01-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=10&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" code="a-11" stam-id="1791803" versie-id="2662172" id="C2662171" label-id="1747084" inwerking="1992-01-01" label="Artikel 11" bron="Stb.1989-490" effect="wijziging" ondertekening_bron="1989-10-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>11</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid1" label-id="1747084L1">
+    <lidnr>1</lidnr>
+    <al>Ingeval het eigendomsrecht op een zaak is gevorderd, gaat dit op degene, te wiens behoeve de vordering is geschied, over op het tijdstip, waarop hij de feitelijke mogelijkheid tot uitoefening van dat recht verkrijgt, of, zo hij deze reeds heeft, op het voor dat geval in de vorderingsbeschikking te bepalen tijdstip. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=11&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid2" label-id="1747084L2">
+    <lidnr>2</lidnr>
+    <al> De in <extref doc="jci1.3:c:BWBR0001842&amp;artikel=60" verwijzing-id="607767" bwb-id="BWBR0001842" label-id="2929404">artikel 60 der Onteigeningswet</extref> (<nadruk type="cur">Stb.</nadruk> 1851, 125) bedoelde lasten en belastingen, waarmede de zaak is bezwaard, gaan bij de eigendomsovergang over op degene, te wiens behoeve de vordering is geschied. Overigens gaat de eigendom over, vrij van alle met betrekking tot de zaak bestaande lasten en rechten, tenzij in de vorderingsbeschikking anders is bepaald. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=11&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1989</publicatiejaar><publicatienr>490</publicatienr><ondertekeningsdatum isodatum="1989-10-25">25-10-1989</ondertekeningsdatum><dossierref dossier="19077">19077</dossierref></publicatie><juncto><publicatie soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>607</publicatienr><ondertekeningsdatum isodatum="1991-12-03">03-12-1991</ondertekeningsdatum></publicatie></juncto></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1990</publicatiejaar><publicatienr>90</publicatienr><ondertekeningsdatum isodatum="1990-02-20">20-02-1990</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-01-01">01-01-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=11&amp;g=2024-01-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=11&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=11"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel12" code="a-12" stam-id="1791813" versie-id="2662182" id="C2662181" label-id="1747094" inwerking="1963-02-15" label="Artikel 12" bron="Stb.1962-587" effect="nieuwe-regeling" ondertekening_bron="1962-12-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>12</nr>
+  </kop>
+  <al>Ingeval een recht tot gebruik van een zaak is gevorderd, ontstaat dit recht voor degene, te wiens behoeve de vordering is geschied, op het tijdstip, waarop hij de feitelijke mogelijkheid tot uitoefening van dat recht verkrijgt, of, zo hij deze reeds heeft, op het voor dat geval in de vorderingsbeschikking te bepalen tijdstip. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1962</publicatiejaar><publicatienr>587</publicatienr><ondertekeningsdatum isodatum="1962-12-12">12-12-1962</ondertekeningsdatum><dossierref dossier="5348">5348</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1963</publicatiejaar><publicatienr>30</publicatienr><ondertekeningsdatum isodatum="1963-02-07">07-02-1963</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1963-02-15">15-02-1963</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=12&amp;g=2024-01-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=12&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=12"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13" stam-id="1791823" versie-id="28356902" id="C40150221" label-id="1747104" inwerking="2022-03-02" label="Artikel 13" bron="Stb.2022-23" effect="wijziging" ondertekening_bron="2021-12-15" publicatie_bron="2022-01-20" publicatie_iwt="2022-03-01" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid1" label-id="1747104L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Zodra als gevolg van een vordering het eigendomsrecht is overgegaan of een recht tot gebruik is ontstaan, wordt daarvan door Onze Minister, die de vordering heeft gedaan, zo spoedig mogelijk een bewijsstuk opgemaakt. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=13&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid2" label-id="1747104L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Het bewijsstuk verwijst naar de vorderingsbeschikking en bevat zo nodig de gegevens vereist met betrekking tot de inschrijving van stukken in de betrokken openbare registers, voor zover deze niet in de beschikking staan. Indien de feitelijke mogelijkheid tot uitoefening van het gevorderde recht is verschaft met toepassing van <intref doc="jci1.3:c:BWBR0002393&amp;artikel=10&amp;z=2024-01-01&amp;g=2024-01-01" label-id="1747074" verwijzing-id="1615242" bwb-id="BWBR0002393" bwb-ng-variabel-deel="/Artikel10">artikel 10</intref>, wordt hiervan in het bewijsstuk melding gemaakt. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=13&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid3" label-id="1747104L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Een exemplaar van het bewijsstuk, mede ondertekend door degene, te wiens behoeve de vordering is geschied, wordt, zo mogelijk, verstrekt aan ieder dergenen, aan wie een exemplaar van de vorderingsbeschikking is verstrekt. Van bewijsstukken, die niet door Onze Minister van Economische Zaken en Klimaat zijn opgemaakt, wordt aan deze afschrift gezonden. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=13&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-23"><publicatiejaar>2022</publicatiejaar><publicatienr>23</publicatienr><uitgiftedatum isodatum="2022-01-20">20-01-2022</uitgiftedatum><ondertekeningsdatum isodatum="2021-12-15">15-12-2021</ondertekeningsdatum><dossierref dossier="35889">35889</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-100"><publicatiejaar>2022</publicatiejaar><publicatienr>100</publicatienr><uitgiftedatum isodatum="2022-03-01">01-03-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-02-07">07-02-2022</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-03-02">02-03-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=13&amp;g=2024-01-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=13&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=13"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel14" code="a-14" stam-id="1791833" versie-id="2662202" id="C8169981" label-id="1747114" inwerking="1992-01-01" label="Artikel 14" bron="Stb.1989-490" effect="nieuw" ondertekening_bron="1989-10-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>14</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid1" label-id="1747114L1">
+    <lidnr>1</lidnr>
+    <al>Ingeval een registergoed of een recht waarvan de overdracht slechts na inschrijving in openbare registers tegen derden werkt, is gevorderd, doet Onze Minister, die de vordering heeft gedaan, de vorderingsbeschikking en het krachtens <intref verwijzing-id="1615243" doc="jci1.3:c:BWBR0002393&amp;artikel=13&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0002393" label-id="1747104" bwb-ng-variabel-deel="/Artikel13">artikel 13</intref> opgemaakte bewijsstuk zo spoedig mogelijk in de betrokken openbare registers inschrijven. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=14&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid2" label-id="1747114L2">
+    <lidnr>2</lidnr>
+    <al> Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek is niet van toepassing. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=14&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier=""><publicatiejaar>1989</publicatiejaar><publicatienr>490</publicatienr><ondertekeningsdatum isodatum="1989-10-25">25-10-1989</ondertekeningsdatum><dossierref dossier="19077">19077</dossierref></publicatie><juncto><publicatie soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>607</publicatienr><ondertekeningsdatum isodatum="1991-12-03">03-12-1991</ondertekeningsdatum></publicatie></juncto></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier=""><publicatiejaar>1990</publicatiejaar><publicatienr>90</publicatienr><ondertekeningsdatum isodatum="1990-02-20">20-02-1990</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-01-01">01-01-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=14&amp;g=2024-01-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=14&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=14"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel15" stam-id="1791843" versie-id="26617912" id="C42309551" label-id="1747124" inwerking="2024-01-01" label="Artikel 15" bron="Stb.2020-112" effect="wijziging" ondertekening_bron="2020-03-14" publicatie_bron="2020-04-09" publicatie_iwt="2023-04-07" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel15/Lid1" label-id="1747124L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Degene te wiens behoeve de vordering is geschied, is gehouden de eigenaar, de beperkt gerechtigde, de pachter, de huurder, de huurkoper en de beslaglegger voor zover zij schade lijden, schadeloos te stellen. Het recht op schadeloosstelling van de pand- of hypotheekhouder en van de beslaglegger wordt echter uitgeoefend overeenkomstig de hun in <extref doc="jci1.3:c:BWBR0005291&amp;artikel=229" label-id="2900594" verwijzing-id="2992002" bwb-id="BWBR0005291">artikel 229 van Boek 3 van het Burgerlijk Wetboek</extref> en de <extref doc="jci1.3:c:BWBR0001827&amp;artikel=455a" label-id="3183024" verwijzing-id="607768" bwb-id="BWBR0001827">artikelen 455a</extref> en <extref doc="jci1.3:c:BWBR0001827&amp;artikel=507a" label-id="3184114" verwijzing-id="607769" bwb-id="BWBR0001827">507a van het Wetboek van Burgerlijke Rechtsvordering</extref> toegekende rechten. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=15&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel15/Lid2" label-id="1747124L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> De schadeloosstelling wordt, ingeval het eigendomsrecht op een zaak is gevorderd, vastgesteld met overeenkomstige toepassing, voor zover uit deze wet niet anders voortvloeit, van <extref doc="jci1.3:c:BWBR0037885&amp;paragraaf=15.3.1" label-id="16037374" verwijzing-id="3252858" bwb-id="BWBR0037885">paragraaf 15.3.1 van de Omgevingswet</extref> en, ingeval het een roerende zaak betreft, tevens overeenkomstig bij algemene maatregel van bestuur daaromtrent te stellen aanvullende regelen. Zij wordt, ingeval een recht tot gebruik van een zaak is gevorderd, vastgesteld overeenkomstig bij zodanige maatregel daaromtrent te stellen regelen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=15&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel15/Lid3" label-id="1747124L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> De Staat is voor de betaling van de schadeloosstelling mede aansprakelijk. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=15&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-112"><publicatiejaar>2020</publicatiejaar><publicatienr>112</publicatienr><uitgiftedatum isodatum="2020-04-09">09-04-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-03-14">14-03-2020</ondertekeningsdatum><dossierref dossier="35133">35133</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-113"><publicatiejaar>2023</publicatiejaar><publicatienr>113</publicatienr><uitgiftedatum isodatum="2023-04-07">07-04-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-05">05-04-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=15&amp;g=2024-01-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=15&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=15"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel16" code="a-16" stam-id="1791853" versie-id="2662222" id="C2662221" label-id="1747134" inwerking="1963-02-15" label="Artikel 16" bron="Stb.1962-587" effect="nieuwe-regeling" ondertekening_bron="1962-12-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>16</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel16/Lid1" label-id="1747134L1">
+    <lidnr>1</lidnr>
+    <al>Het bedrag van de aan iedere rechthebbende te betalen schadeloosstelling wordt, zo mogelijk, door Onze Minister, die de vordering heeft gedaan, degene, te wiens behoeve de vordering is geschied, en de rechthebbende in onderling overleg vastgesteld. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=16&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel16/Lid2" label-id="1747134L2">
+    <lidnr>2</lidnr>
+    <al> Nadat overeenstemming is bereikt, wordt een bewijsstuk, waarin het overeengekomene wordt vastgelegd, opgemaakt en door degenen, die aan het overleg hebben deelgenomen, ondertekend. Van dit bewijsstuk ontvangt elk een exemplaar. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=16&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1962</publicatiejaar><publicatienr>587</publicatienr><ondertekeningsdatum isodatum="1962-12-12">12-12-1962</ondertekeningsdatum><dossierref dossier="5348">5348</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1963</publicatiejaar><publicatienr>30</publicatienr><ondertekeningsdatum isodatum="1963-02-07">07-02-1963</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1963-02-15">15-02-1963</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=16&amp;g=2024-01-01" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=16&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=16"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel17" code="a-17" stam-id="1791863" versie-id="12789272" id="C17249051" label-id="1747144" inwerking="2006-02-01" label="Artikel 17" bron="Stb.2006-24" effect="wijziging" ondertekening_bron="2005-12-22" publicatie_bron="2006-01-31" publicatie_iwt="2006-01-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>17</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel17/Lid1" label-id="1747144L1">
+    <lidnr>1</lidnr>
+    <al>De vaststelling van het bedrag van de schadeloosstelling, te betalen aan rechthebbenden met wie daarover geen overeenstemming is bereikt of die niet aan het overleg hebben deelgenomen, geschiedt: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Artikel17/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>zo het betreft vordering van het eigendomsrecht op een onroerende zaak, of van een beperkt recht waaraan een zodanige zaak is onderworpen, telkens ongeacht of zij zijn gevorderd tezamen met andere zich daarop bevindende of daarbij behorende zaken, door de rechtbank, binnen wier rechtsgebied de betrokken onroerende zaak is gelegen; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=17&amp;lid=1&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel17/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>in andere gevallen door de kantonrechter, binnen wiens rechtsgebied de betrokken onroerende zaak is gelegen, dan wel de betrokken roerende zaak is aangetroffen of, zo de vordering niet op enige zaak betrekking heeft, door de kantonrechter van de woonplaats van degene te wiens behoeve de vordering is geschied. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=17&amp;lid=1&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=17&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel17/Lid2" label-id="1747144L2">
+    <lidnr>2</lidnr>
+    <al> Indien de betrokken onroerende zaak in het rechtsgebied van meer dan één rechtbank of kantonrechter is gelegen, geschiedt de vaststelling van het bedrag van de schadeloosstelling door een dier rechtbanken of kantonrechters, ter keuze van de meest gerede partij. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=17&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2006-24"><publicatiejaar>2006</publicatiejaar><publicatienr>24</publicatienr><uitgiftedatum isodatum="2006-01-31">31-01-2006</uitgiftedatum><ondertekeningsdatum isodatum="2005-12-22">22-12-2005</ondertekeningsdatum><dossierref dossier="30171">30171</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2006-24"><publicatiejaar>2006</publicatiejaar><publicatienr>24</publicatienr><uitgiftedatum isodatum="2006-01-31">31-01-2006</uitgiftedatum><ondertekeningsdatum isodatum="2005-12-22">22-12-2005</ondertekeningsdatum><dossierref dossier="30171">30171</dossierref></publicatie><inwerkingtreding.datum isodatum="2006-02-01">01-02-2006</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=17&amp;g=2024-01-01" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=17&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=17"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel18" code="a-18" stam-id="1791873" versie-id="10459112" id="C14279811" label-id="1747154" inwerking="2004-07-01" label="Artikel 18" bron="Stb.2004-215" effect="wijziging" ondertekening_bron="2004-05-13" publicatie_bron="2004-05-25" publicatie_iwt="2004-06-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>18</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid1" label-id="1747154L1">
+    <lidnr>1</lidnr>
+    <al>Het bedrag van de in <intref verwijzing-id="1615244" doc="jci1.3:c:BWBR0002393&amp;artikel=17&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0002393" label-id="1747144" bwb-ng-variabel-deel="/Artikel17">artikel 17</intref> bedoelde schadeloosstelling wordt door de rechter vastgesteld op verzoek van de rechthebbende, van degene, te wiens behoeve de vordering is geschied of van Onze Minister, die de vordering heeft gedaan. Het geding wordt door de verzoeker aanhangig gemaakt bij een in drievoud ingediend verzoekschrift, waarin de namen en adressen van de overige in dit lid bedoelde partijen zijn vermeld, alsmede het bedrag van de schadeloosstelling, waarvan vaststelling wordt verlangd. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=18&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid2" label-id="1747154L2">
+    <lidnr>2</lidnr>
+    <al> Indien het verzoekschrift aan de kantonrechter is gericht, bepaalt deze de dag en het uur waarop de zaak ter terechtzitting zal dienen; indien het aan de rechtbank is gericht, bepaalt de rechtbank de dag waarop de zaak ter rolle zal worden uitgeroepen. Bedoelde dag zal niet later mogen worden gesteld dan drie weken na die, waarop het verzoekschrift ter griffie is ontvangen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=18&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid3" label-id="1747154L3">
+    <lidnr>3</lidnr>
+    <al> De griffier geeft bij aangetekende brief van deze dagbepaling kennis aan de verzoeker en aan de overige partijen. Tussen de dag, waarop deze kennisgeving is verzonden en de in het tweede lid bedoelde dag moeten tenminste veertien dagen verlopen. Bij de kennisgeving aan de overige partijen wordt een afschrift van het verzoekschrift gevoegd. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=18&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid4" label-id="1747154L4">
+    <lidnr>4</lidnr>
+    <al> De in het derde lid bedoelde kennisgeving heeft ten opzichte van partijen de kracht van een dagvaarding. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=18&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid5" label-id="1747154L5">
+    <lidnr>5</lidnr>
+    <al> Tegen het vonnis is uitsluitend beroep in cassatie toegelaten. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=18&amp;lid=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid6" label-id="1747154L6">
+    <lidnr>6</lidnr>
+    <al> De bepalingen van het <extref doc="jci1.3:c:BWBR0001827" verwijzing-id="607771" bwb-id="BWBR0001827" label-id="3192094">Wetboek van Burgerlijke Rechtsvordering</extref> zijn op het geding van toepassing voor zover daarvan bij deze wet niet is afgeweken. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=18&amp;lid=6&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2004-215"><publicatiejaar>2004</publicatiejaar><publicatienr>215</publicatienr><uitgiftedatum isodatum="2004-05-25">25-05-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-05-13">13-05-2004</ondertekeningsdatum><dossierref dossier="28958">28958</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2004-275"><publicatiejaar>2004</publicatiejaar><publicatienr>275</publicatienr><uitgiftedatum isodatum="2004-06-24">24-06-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-06-17">17-06-2004</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2004-07-01">01-07-2004</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=18&amp;g=2024-01-01" onderdeel="artikel=18" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=18"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=18&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=18" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=18"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel19" code="a-19" stam-id="1791883" versie-id="2662252" id="C5032721" label-id="1747164" inwerking="1992-01-01" label="Artikel 19" bron="Stb.1989-490" effect="wijziging" ondertekening_bron="1989-10-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>19</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel19/Lid1" label-id="1747164L1">
+    <lidnr>1</lidnr>
+    <al>Degene, die als gevolg van een vordering het eigendomsrecht op een zaak of een beperkt recht, waaraan een zaak is onderworpen, heeft verkregen, mag die zaak of dat recht, zo de betrokken zaak onroerend is, binnen tien en anders binnen drie jaren daarna niet vervreemden alvorens die zaak of dat recht aan degene, die deze zaak of dat recht door de vordering heeft verloren, te koop te hebben aangeboden tegen een prijs, te bepalen in onderling overleg, dan wel bij gebreke van overeenstemming door de in <intref verwijzing-id="1615245" doc="jci1.3:c:BWBR0002393&amp;artikel=17&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0002393" label-id="1747144" bwb-ng-variabel-deel="/Artikel17">artikel 17</intref> bedoelde rechter. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=19&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel19/Lid2" label-id="1747164L2">
+    <lidnr>2</lidnr>
+    <al> Niet inachtneming van het eerste lid tast de geldigheid van de vervreemding niet aan. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=19&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel19/Lid3" label-id="1747164L3">
+    <lidnr>3</lidnr>
+    <al> Indien bij een vorderingsbeschikking is vermeld, dat de vordering mede beoogt degene, te wiens behoeve gevorderd wordt, in de gelegenheid te stellen de zaak of het recht te vervreemden, is het eerste lid niet van toepassing. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=19&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1989</publicatiejaar><publicatienr>490</publicatienr><ondertekeningsdatum isodatum="1989-10-25">25-10-1989</ondertekeningsdatum><dossierref dossier="19077">19077</dossierref></publicatie><juncto><publicatie soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>607</publicatienr><ondertekeningsdatum isodatum="1991-12-03">03-12-1991</ondertekeningsdatum></publicatie></juncto></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1990</publicatiejaar><publicatienr>90</publicatienr><ondertekeningsdatum isodatum="1990-02-20">20-02-1990</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-01-01">01-01-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=19&amp;g=2024-01-01" onderdeel="artikel=19" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=19"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=19&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=19" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=19"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel20" code="a-20" stam-id="1791893" versie-id="2662262" id="C5032731" label-id="1747174" inwerking="1994-01-01" label="Artikel 20" bron="Stb.1992-422" effect="wijziging" ondertekening_bron="1992-06-04" publicatie_iwt="1993-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>20</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel20/Lid1" label-id="1747174L1">
+    <lidnr>1</lidnr>
+    <al>Onze Minister, wie het rechtstreeks aangaat, kan een als gevolg van een vordering ontstaan recht tot gebruik van een zaak, waarvan de duur in de vorderingsbeschikking niet aan een termijn is gebonden, met een termijn van zes maanden beëindigen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=20&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel20/Lid2" label-id="1747174L2">
+    <lidnr>2</lidnr>
+    <al> Hij kan een als gevolg van een vordering ontstaan recht tot gebruik van een zaak zonder inachtneming van enige termijn beëindigen, indien gebleken is, dat degene, voor wie het recht is ontstaan, en de eigenaar van de zaak daartegen geen bedenkingen hebben. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=20&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel20/Lid3" label-id="1747174L3">
+    <lidnr>3</lidnr>
+    <al> De <intref verwijzing-id="1615246" doc="jci1.3:c:BWBR0002393&amp;artikel=4&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0002393" label-id="1747014" bwb-ng-variabel-deel="/Artikel4">artikelen 4</intref> en <intref verwijzing-id="1615247" doc="jci1.3:c:BWBR0002393&amp;artikel=8&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0002393" label-id="1747054" bwb-ng-variabel-deel="/Artikel8">8</intref> zijn van overeenkomstige toepassing. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=20&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel20/Lid4" label-id="1747174L4">
+    <lidnr>4</lidnr>
+    <al> De bekendmaking van de beschikking geschiedt door toezending of uitreiking aan degene wiens recht wordt beëindigd; tegelijkertijd of zo spoedig mogelijk daarna wordt van de beschikking door middel van toezending of uitreiking mededeling gedaan aan de eigenaar van de zaak. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=20&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>422</publicatienr><ondertekeningsdatum isodatum="1992-06-04">04-06-1992</ondertekeningsdatum><dossierref dossier="22061">22061</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>693</publicatienr><uitgiftedatum isodatum="1993-12-23">23-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=20&amp;g=2024-01-01" onderdeel="artikel=20" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=20"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=20&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=20" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=20"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel21" code="a-21" stam-id="1791903" versie-id="2662272" id="C5032741" label-id="1747184" inwerking="1963-02-15" label="Artikel 21" bron="Stb.1962-587" effect="nieuwe-regeling" ondertekening_bron="1962-12-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>21</nr>
+  </kop>
+  <al>Een als gevolg van een vordering ontstaan recht tot gebruik van een zaak, dat nog bestaat bij het vervallen van de bevoegdheid, krachtens welke die vordering is gedaan, blijft bestaan tot zes maanden nadat vorenbedoelde bevoegdheid is vervallen, tenzij het eerder een einde neemt door het verstrijken van de termijn, waaraan zijn duur in de vorderingsbeschikking was gebonden of als gevolg van toepassing van <intref verwijzing-id="1615248" doc="jci1.3:c:BWBR0002393&amp;artikel=20&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0002393" label-id="1747174" bwb-ng-variabel-deel="/Artikel20">artikel 20</intref>. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1962</publicatiejaar><publicatienr>587</publicatienr><ondertekeningsdatum isodatum="1962-12-12">12-12-1962</ondertekeningsdatum><dossierref dossier="5348">5348</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1963</publicatiejaar><publicatienr>30</publicatienr><ondertekeningsdatum isodatum="1963-02-07">07-02-1963</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1963-02-15">15-02-1963</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=21&amp;g=2024-01-01" onderdeel="artikel=21" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=21"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=21&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=21" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=21"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel22" code="a-22" stam-id="1791913" versie-id="16494112" id="C22716461" label-id="1747194" inwerking="2009-07-01" label="Artikel 22" bron="Stb.2009-265" effect="wijziging" ondertekening_bron="2009-06-25" publicatie_bron="2009-06-30" publicatie_iwt="2009-06-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">22</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel22/Lid1" label-id="1747194L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>In alle gevallen, waarin een recht tot gebruik van een zaak is geëindigd, is degene, voor wie dat recht als gevolg van de vordering was ontstaan, verplicht aan de eigenaar van de zaak onverwijld de feitelijke mogelijkheid tot uitoefening van het recht te verschaffen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=22&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel22/Lid2" label-id="1747194L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister die het rechtstreeks aangaat is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het eerste lid. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=22&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-265"><publicatiejaar>2009</publicatiejaar><publicatienr>265</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum><dossierref dossier="31124">31124</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-266"><publicatiejaar>2009</publicatiejaar><publicatienr>266</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-07-01">01-07-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=22&amp;g=2024-01-01" onderdeel="artikel=22" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=22"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=22&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=22" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=22"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel23" stam-id="1791923" versie-id="28356912" id="C40150231" label-id="1747204" inwerking="2022-03-02" label="Artikel 23" bron="Stb.2022-23" effect="wijziging" ondertekening_bron="2021-12-15" publicatie_bron="2022-01-20" publicatie_iwt="2022-03-01" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">23</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel23/Lid1" label-id="1747204L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Zolang niet een krachtens <intref doc="jci1.3:c:BWBR0002393&amp;artikel=3&amp;z=2024-01-01&amp;g=2024-01-01" label-id="1747004" verwijzing-id="1615249" bwb-id="BWBR0002393" bwb-ng-variabel-deel="/Artikel3">artikel 3, eerste lid</intref>, vastgesteld besluit in werking is, kan bij koninklijk besluit aan Onze Minister van Defensie de bevoegdheid worden verleend in het belang van de uitvoering van de militaire taak, ten behoeve van de Staat of van andere met de behartiging van openbare belangen belaste lichamen het eigendomsrecht op of een recht tot gebruik van een of meer bij Ons besluit aangewezen onroerende zaken te vorderen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=23&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel23/Lid2" label-id="1747204L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Zolang niet een krachtens <intref doc="jci1.3:c:BWBR0002393&amp;artikel=3&amp;z=2024-01-01&amp;g=2024-01-01" label-id="1747004" verwijzing-id="1615250" bwb-id="BWBR0002393" bwb-ng-variabel-deel="/Artikel3">artikel 3, eerste lid</intref>, vastgesteld besluit in werking is, kan bij koninklijk besluit aan Onze Minister van Binnenlandse Zaken de bevoegdheid worden verleend in het belang van de bestrijding van rampen en zware ongevallen in buitengewone omstandigheden als bedoeld in <extref doc="jci1.3:c:BWBR0027466&amp;paragraaf=12" label-id="10462634" verwijzing-id="2342169" bwb-id="BWBR0027466">paragraaf 12 van de Wet veiligheidsregio’s</extref>, van de beperking van de onmiddellijke gevolgen daarvan, ten behoeve van de Staat of van andere met de behartiging van openbare belangen belaste lichamen het eigendomsrecht op of een recht tot gebruik van een of meer bij Ons besluit aangewezen onroerende zaken te vorderen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=23&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel23/Lid3" label-id="1747204L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Wij nemen Ons besluit als bedoeld in het eerste of tweede lid, de Raad van State gehoord. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=23&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel23/Lid4" label-id="1747204L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> De voordracht tot vaststelling van een besluit krachtens het eerste lid wordt Ons gedaan door Onze Minister van Defensie, tezamen met Onze Minister van Economische Zaken en Klimaat, en de voordracht tot vaststelling van een besluit krachtens het tweede lid wordt Ons gedaan door Onze Minister van Binnenlandse Zaken, tezamen met Onze Minister van Economische Zaken en Klimaat. Onze Minister van Economische Zaken en Klimaat pleegt, alvorens de voordracht mede te ondertekenen, overleg met Onze Ministers, tot wier zorg belangen, die door de vordering kunnen worden geraakt, behoren. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=23&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel23/Lid5" label-id="1747204L5">
+    <lidnr status="officieel">5</lidnr>
+    <al> De voordracht wordt niet gedaan dan nadat gebleken is, dat de nodige beschikking over de onroerende zaak niet of niet tijdig bij minnelijke overeenkomst verkregen kan worden. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=23&amp;lid=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel23/Lid6" label-id="1747204L6">
+    <lidnr status="officieel">6</lidnr>
+    <al> Een krachtens het eerste of tweede lid verleende bevoegdheid vervalt een maand na het in werking treden van Ons besluit, waarbij zij is verleend. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=23&amp;lid=6&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel23/Lid7" label-id="1747204L7">
+    <lidnr status="officieel">7</lidnr>
+    <al> De vorderingsbeschikking vermeldt het koninklijk besluit, waarbij de bevoegdheid tot het doen der vordering is verleend. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=23&amp;lid=7&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel23/Lid8" label-id="1747204L8">
+    <lidnr status="officieel">8</lidnr>
+    <al> De <intref doc="jci1.3:c:BWBR0002393&amp;artikel=4&amp;z=2024-01-01&amp;g=2024-01-01" label-id="1747014" verwijzing-id="1615251" bwb-id="BWBR0002393" bwb-ng-variabel-deel="/Artikel4">artikelen 4</intref>, <intref doc="jci1.3:c:BWBR0002393&amp;artikel=7&amp;z=2024-01-01&amp;g=2024-01-01" label-id="1747044" verwijzing-id="1615252" bwb-id="BWBR0002393" bwb-ng-variabel-deel="/Artikel7">7</intref>, <intref doc="jci1.3:c:BWBR0002393&amp;artikel=8&amp;z=2024-01-01&amp;g=2024-01-01" label-id="1747054" verwijzing-id="1615253" bwb-id="BWBR0002393" bwb-ng-variabel-deel="/Artikel8">8</intref>, <intref doc="jci1.3:c:BWBR0002393&amp;artikel=9&amp;z=2024-01-01&amp;g=2024-01-01" label-id="1747064" verwijzing-id="1615254" bwb-id="BWBR0002393" bwb-ng-variabel-deel="/Artikel9">9, eerste en derde lid</intref>, <intref doc="jci1.3:c:BWBR0002393&amp;artikel=20&amp;z=2024-01-01&amp;g=2024-01-01" label-id="1747174,1747184,1747194,1747204,1747214,1747224" verwijzing-id="1615608" bwb-id="BWBR0002393" bwb-ng-variabel-deel="/Artikel20">15-20</intref> en <intref doc="jci1.3:c:BWBR0002393&amp;artikel=22&amp;z=2024-01-01&amp;g=2024-01-01" label-id="1747194" verwijzing-id="1615257" bwb-id="BWBR0002393" bwb-ng-variabel-deel="/Artikel22">22</intref> zijn van toepassing. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=23&amp;lid=8&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=8"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel23/Lid9" label-id="1747204L9">
+    <lidnr status="officieel">9</lidnr>
+    <al> Met betrekking tot het bepaalde in de <intref doc="jci1.3:c:BWBR0002393&amp;artikel=23&amp;z=2024-01-01&amp;g=2024-01-01" label-id="1747204,1747214,1747224,1747234,1747244" verwijzing-id="1615609" bwb-id="BWBR0002393" bwb-ng-variabel-deel="/Artikel23">artikelen 23-27</intref> blijft <intref doc="jci1.3:c:BWBR0002393&amp;artikel=1&amp;z=2024-01-01&amp;g=2024-01-01" label-id="1746984" verwijzing-id="1615260" bwb-id="BWBR0002393" bwb-ng-variabel-deel="/Artikel1">artikel 1, tweede lid</intref>, buiten toepassing. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=23&amp;lid=9&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=9"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-23"><publicatiejaar>2022</publicatiejaar><publicatienr>23</publicatienr><uitgiftedatum isodatum="2022-01-20">20-01-2022</uitgiftedatum><ondertekeningsdatum isodatum="2021-12-15">15-12-2021</ondertekeningsdatum><dossierref dossier="35889">35889</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-100"><publicatiejaar>2022</publicatiejaar><publicatienr>100</publicatienr><uitgiftedatum isodatum="2022-03-01">01-03-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-02-07">07-02-2022</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-03-02">02-03-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=23&amp;g=2024-01-01" onderdeel="artikel=23" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=23"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=23&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=23" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=23"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel24" code="a-24" stam-id="1791933" versie-id="2662302" id="C5032761" label-id="1747214" inwerking="1992-01-01" label="Artikel 24" bron="Stb.1989-490" effect="wijziging" ondertekening_bron="1989-10-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>24</nr>
+  </kop>
+  <al>In krachtens <intref verwijzing-id="1615261" doc="jci1.3:c:BWBR0002393&amp;artikel=23&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0002393" label-id="1747204" bwb-ng-variabel-deel="/Artikel23">artikel 23</intref> vastgestelde vorderingsbeschikkingen kan aan daarbij aangewezen personen de verplichting worden opgelegd, om, voor zover hun dat feitelijk en rechtens mogelijk is, op het tijdstip, waarop het gevorderde recht op de zaak zal overgaan of ontstaan, aan degene, te wiens behoeve de vordering geschiedt, de feitelijke mogelijkheid tot uitoefening van dat recht te verschaffen. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1989</publicatiejaar><publicatienr>490</publicatienr><ondertekeningsdatum isodatum="1989-10-25">25-10-1989</ondertekeningsdatum><dossierref dossier="19077">19077</dossierref></publicatie><juncto><publicatie soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>607</publicatienr><ondertekeningsdatum isodatum="1991-12-03">03-12-1991</ondertekeningsdatum></publicatie></juncto></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1990</publicatiejaar><publicatienr>90</publicatienr><ondertekeningsdatum isodatum="1990-02-20">20-02-1990</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-01-01">01-01-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=24&amp;g=2024-01-01" onderdeel="artikel=24" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=24"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=24&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=24" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=24"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel25" code="a-25" stam-id="1791943" versie-id="2662312" id="C5032771" label-id="1747224" inwerking="1992-01-01" label="Artikel 25" bron="Stb.1989-490" effect="wijziging" ondertekening_bron="1989-10-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>25</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel25/Lid1" label-id="1747224L1">
+    <lidnr>1</lidnr>
+    <al>In geval krachtens <intref verwijzing-id="1615262" doc="jci1.3:c:BWBR0002393&amp;artikel=23&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0002393" label-id="1747204" bwb-ng-variabel-deel="/Artikel23">artikel 23</intref> het eigendomsrecht op een onroerende zaak is gevorderd, doet Onze Minister, die de vordering heeft gedaan, de beschikking zo spoedig mogelijk inschrijven in de openbare registers, bedoeld in <extref doc="jci1.3:c:BWBR0005291&amp;afdeling=2" verwijzing-id="607773" bwb-id="BWBR0005291" label-id="2898854">afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek</extref>. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=25&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel25/Lid2" label-id="1747224L2">
+    <lidnr>2</lidnr>
+    <al> Door de inschrijving van de beschikking gaat het eigendomsrecht op de zaak over op degene, te wiens behoeve de vordering is geschied. <intref verwijzing-id="1615263" doc="jci1.3:c:BWBR0002393&amp;artikel=11&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0002393" label-id="1747084" bwb-ng-variabel-deel="/Artikel11">Artikel 11, tweede lid</intref>, is van toepassing. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=25&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1989</publicatiejaar><publicatienr>490</publicatienr><ondertekeningsdatum isodatum="1989-10-25">25-10-1989</ondertekeningsdatum><dossierref dossier="19077">19077</dossierref></publicatie><juncto><publicatie soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>607</publicatienr><ondertekeningsdatum isodatum="1991-12-03">03-12-1991</ondertekeningsdatum></publicatie></juncto></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1990</publicatiejaar><publicatienr>90</publicatienr><ondertekeningsdatum isodatum="1990-02-20">20-02-1990</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-01-01">01-01-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=25&amp;g=2024-01-01" onderdeel="artikel=25" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=25"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=25&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=25" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=25"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel26" code="a-26" stam-id="1791953" versie-id="2662322" id="C5032781" label-id="1747234" inwerking="1992-01-01" label="Artikel 26" bron="Stb.1989-490" effect="wijziging" ondertekening_bron="1989-10-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>26</nr>
+  </kop>
+  <al>Ingeval krachtens <intref verwijzing-id="1615264" doc="jci1.3:c:BWBR0002393&amp;artikel=23&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0002393" label-id="1747204" bwb-ng-variabel-deel="/Artikel23">artikel 23</intref> een recht tot gebruik van een onroerende zaak is gevorderd, ontstaat dit recht voor degene, te wiens behoeve de vordering is geschied, op het daarvoor in de vorderingsbeschikking te bepalen tijdstip. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1989</publicatiejaar><publicatienr>490</publicatienr><ondertekeningsdatum isodatum="1989-10-25">25-10-1989</ondertekeningsdatum><dossierref dossier="19077">19077</dossierref></publicatie><juncto><publicatie soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>607</publicatienr><ondertekeningsdatum isodatum="1991-12-03">03-12-1991</ondertekeningsdatum></publicatie></juncto></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1990</publicatiejaar><publicatienr>90</publicatienr><ondertekeningsdatum isodatum="1990-02-20">20-02-1990</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-01-01">01-01-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=26&amp;g=2024-01-01" onderdeel="artikel=26" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=26"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=26&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=26" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=26"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel27" code="d1-27" stam-id="1791963" versie-id="16494132" id="C22716451" label-id="1747244" inwerking="2009-07-01" label="Artikel 27" bron="Stb.2009-265" effect="wijziging" ondertekening_bron="2009-06-25" publicatie_bron="2009-06-30" publicatie_iwt="2009-06-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">27</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel27/Lid1" label-id="1747244L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister die krachtens <intref verwijzing-id="1615265" doc="jci1.3:c:BWBR0002393&amp;artikel=23&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0002393" label-id="1747204" bwb-ng-variabel-deel="/Artikel23">artikel 23</intref> een vordering heeft gedaan, is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de vordering. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=27&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel27/Lid2" label-id="1747244L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Een machtiging als bedoeld in <extref doc="jci1.3:c:BWBR0006763&amp;artikel=2" verwijzing-id="607774" bwb-id="BWBR0006763" label-id="1202434">artikel 2 van de Algemene wet op het binnentreden</extref> kan worden gegeven door Onze Minister die de vordering krachtens <intref verwijzing-id="1615266" doc="jci1.3:c:BWBR0002393&amp;artikel=23&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0002393" label-id="1747204" bwb-ng-variabel-deel="/Artikel23">artikel 23</intref> heeft gedaan. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=27&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-265"><publicatiejaar>2009</publicatiejaar><publicatienr>265</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum><dossierref dossier="31124">31124</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-266"><publicatiejaar>2009</publicatiejaar><publicatienr>266</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-07-01">01-07-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=27&amp;g=2024-01-01" onderdeel="artikel=27" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=27"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=27&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=27" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=27"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel28" code="a-28" stam-id="1791973" versie-id="2662342" id="C2662341" label-id="1747254" inwerking="1963-02-15" label="Artikel 28" bron="Stb.1962-587" effect="nieuwe-regeling" ondertekening_bron="1962-12-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>28</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Dit artikel is niet gepubliceerd.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1962</publicatiejaar><publicatienr>587</publicatienr><ondertekeningsdatum isodatum="1962-12-12">12-12-1962</ondertekeningsdatum><dossierref dossier="5348">5348</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1963</publicatiejaar><publicatienr>30</publicatienr><ondertekeningsdatum isodatum="1963-02-07">07-02-1963</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1963-02-15">15-02-1963</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=28&amp;g=2024-01-01" onderdeel="artikel=28" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=28"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=28&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=28" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=28"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel29" stam-id="1791983" versie-id="27628592" id="C39206051" label-id="1747264" inwerking="2021-07-01" label="Artikel 29" bron="Stb.2021-135" effect="wijziging" ondertekening_bron="2021-03-03" publicatie_bron="2021-03-17" publicatie_iwt="2021-06-02" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">29</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel29/Lid1" label-id="1747264L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Ministers, aan wie krachtens <intref doc="jci1.3:c:BWBR0002393&amp;artikel=3&amp;z=2024-01-01&amp;g=2024-01-01" label-id="1747004" verwijzing-id="1615267" bwb-id="BWBR0002393" bwb-ng-variabel-deel="/Artikel3">artikel 3</intref> of <intref doc="jci1.3:c:BWBR0002393&amp;artikel=23&amp;z=2024-01-01&amp;g=2024-01-01" label-id="1747204" verwijzing-id="1615610" bwb-id="BWBR0002393" bwb-ng-variabel-deel="/Artikel23">23</intref> vorderingsbevoegdheid is verleend, kunnen van een ieder inlichtingen en inzage van zakelijke gegevens en bescheiden vorderen, voor zover zij die voor een goede uitvoering van deze wet nodig achten. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=29&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel29/Lid2" label-id="1747264L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Zij kunnen de uitoefening van de in het eerste lid bedoelde bevoegdheden, opdragen aan daartoe schriftelijk door hen aangewezen personen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=29&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel29/Lid3" label-id="1747264L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:12" label-id="2819994" verwijzing-id="3066804" bwb-id="BWBR0005537">artikelen 5:12.</extref>, <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:13" label-id="2820004" verwijzing-id="3066805" bwb-id="BWBR0005537">5:13</extref>, <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:15" label-id="2820024" verwijzing-id="3066806" bwb-id="BWBR0005537">5:15</extref> en <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:20" label-id="2820074" verwijzing-id="3066807" bwb-id="BWBR0005537">5:20, eerste en tweede lid, van de Algemene wet bestuursrecht</extref> zijn van overeenkomstige toepassing ten aanzien van de in het tweede lid bedoelde personen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=29&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel29/Lid4" label-id="1747264L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Zo nodig oefenen die personen de in het eerste lid genoemde bevoegdheid uit met behulp van de sterke arm. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=29&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel29/Lid5" label-id="1747264L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Onze Ministers zijn bevoegd tot overeenkomstige toepassing van <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:20" label-id="2820074" verwijzing-id="3066809" bwb-id="BWBR0005537">artikel 5:20, derde lid, van de Algemene wet bestuursrecht</extref> ten aanzien van de in het tweede lid bedoelde personen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=29&amp;lid=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-135"><publicatiejaar>2021</publicatiejaar><publicatienr>135</publicatienr><uitgiftedatum isodatum="2021-03-17">17-03-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-03-03">03-03-2021</ondertekeningsdatum><dossierref dossier="35256">35256</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-254"><publicatiejaar>2021</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2021-06-02">02-06-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-05-18">18-05-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=29&amp;g=2024-01-01" onderdeel="artikel=29" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=29"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=29&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=29" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=29"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel31" code="a-31" stam-id="1791993" versie-id="11340692" id="C15798851" label-id="1747274" inwerking="2005-03-16" label="Artikel 31" bron="Stb.2004-686" effect="wijziging" ondertekening_bron="2004-12-02" publicatie_bron="2004-12-28" publicatie_iwt="2005-03-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>31</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel31/Lid1" label-id="1747274L1">
+    <lidnr>1</lidnr>
+    <al>Een bij of krachtens deze wet opgelegde verplichting vervalt van rechtswege voorzover het voldoen hieraan zou meebrengen dat niet kan worden voldaan aan een verplichting die voortvloeit uit de uitoefening van buitengewone bevoegdheden ten behoeve van de uitvoering van de militaire taak.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=31&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel31/Lid2" label-id="1747274L2">
+    <lidnr>2</lidnr>
+    <al>Een bij of krachtens deze wet opgelegde verplichting die niet voortvloeit uit de uitoefening van buitengewone bevoegdheden ten behoeve van de uitvoering van de militaire taak, vervalt eveneens van rechtswege voorzover het voldoen hieraan zou meebrengen dat niet kan worden voldaan aan een verplichting die bij of krachtens deze of een andere wet is opgelegd in het belang van de bestrijding van een ramp, een zwaar ongeval of van een verstoring van de openbare orde of van ernstige vrees voor het ontstaan daarvan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=31&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2004-686"><publicatiejaar>2004</publicatiejaar><publicatienr>686</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-02">02-12-2004</ondertekeningsdatum><dossierref dossier="29514">29514</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-118"><publicatiejaar>2005</publicatiejaar><publicatienr>118</publicatienr><uitgiftedatum isodatum="2005-03-15">15-03-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-02-23">23-02-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-03-16">16-03-2005</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=31&amp;g=2024-01-01" onderdeel="artikel=31" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=31"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=31&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=31" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=31"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel32" stam-id="1792003" versie-id="2662682" id="C5032821" label-id="1747284" inwerking="1998-01-01" label="Artikel 32" bron="Stb.1997-510" effect="wijziging" ondertekening_bron="1997-11-06" publicatie_bron="1997-11-18" publicatie_iwt="1997-12-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>32</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel32/Lid1" label-id="1747284L1">
+    <lidnr>1</lidnr>
+    <al>Hij die opzettelijk niet voldoet aan een hem bij of krachtens <intref verwijzing-id="1615269" doc="jci1.3:c:BWBR0002393&amp;artikel=6&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0002393" label-id="1747034" bwb-ng-variabel-deel="/Artikel6">artikel 6</intref>, <intref verwijzing-id="1615612" doc="jci1.3:c:BWBR0002393&amp;artikel=22&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0002393" label-id="1747194" bwb-ng-variabel-deel="/Artikel22">22</intref> of <intref verwijzing-id="1615613" doc="jci1.3:c:BWBR0002393&amp;artikel=24&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0002393" label-id="1747214" bwb-ng-variabel-deel="/Artikel24">24</intref> opgelegde verplichting, dan wel opzettelijk bewerkt, dat aan zodanige, een ander opgelegde verplichting niet wordt voldaan, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=32&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel32/Lid2" label-id="1747284L2">
+    <lidnr>2</lidnr>
+    <al> Hij aan wiens schuld te wijten is, dat aan een verplichting als in het vorige lid bedoeld niet wordt voldaan, wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de derde categorie. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=32&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel32/Lid3" label-id="1747284L3">
+    <lidnr>3</lidnr>
+    <al> Hij die de krachtens <intref verwijzing-id="1615270" doc="jci1.3:c:BWBR0002393&amp;artikel=29&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0002393" label-id="1747264" bwb-ng-variabel-deel="/Artikel29">artikel 29</intref> van hem verlangde inlichtingen niet, niet volledig of niet naar waarheid verstrekt of niet inzage verleent van de zakelijke gegevens en bescheiden, waarvan krachtens dat artikel inzage is gevorderd, wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de derde categorie. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=32&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel32/Lid4" label-id="1747284L4">
+    <lidnr>4</lidnr>
+    <al> De in het eerste lid strafbaar gestelde feiten zijn misdrijven, de in het tweede en derde lid strafbaar gestelde feiten zijn overtredingen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=32&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-510"><publicatiejaar>1997</publicatiejaar><publicatienr>510</publicatienr><uitgiftedatum isodatum="1997-11-18">18-11-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-11-06">06-11-1997</ondertekeningsdatum><dossierref dossier="25280">25280</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-581"><publicatiejaar>1997</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=32&amp;g=2024-01-01" onderdeel="artikel=32" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=32"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=32&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=32" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=32"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel33" stam-id="1792013" versie-id="27628602" id="C39206061" label-id="1747294" inwerking="2021-07-01" label="Artikel 33" bron="Stb.2021-135" effect="wijziging" ondertekening_bron="2021-03-03" publicatie_bron="2021-03-17" publicatie_iwt="2021-06-02" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">33</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel33/Lid1" label-id="1747294L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, onverminderd <extref doc="jci1.3:c:BWBR0001903&amp;artikel=141" label-id="3003844" verwijzing-id="607776" bwb-id="BWBR0001903">artikel 141 van het Wetboek van Strafvordering</extref>, belast de door Onze Minister van Veiligheid en Justitie in overeenstemming met Onze andere Ministers, wie het aangaat, daartoe aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van feiten, strafbaar gesteld in de <extref doc="jci1.3:c:BWBR0001854&amp;artikel=179" label-id="2966294" verwijzing-id="607777" bwb-id="BWBR0001854">artikelen 179</extref> tot en met <extref doc="jci1.3:c:BWBR0001854&amp;artikel=182" label-id="2966324" verwijzing-id="607778" bwb-id="BWBR0001854">182</extref> en <extref doc="jci1.3:c:BWBR0001854&amp;artikel=184" label-id="2966344" verwijzing-id="607779" bwb-id="BWBR0001854">184 van het Wetboek van Strafrecht</extref>, voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=33&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel33/Lid2" label-id="1747294L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:13" label-id="2820004" verwijzing-id="607780" bwb-id="BWBR0005537">artikelen 5:13</extref>, <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:15" label-id="2820024" verwijzing-id="607781" bwb-id="BWBR0005537">5:15</extref> en <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:20" label-id="2820074" verwijzing-id="607782" bwb-id="BWBR0005537">5:20, eerste en tweede lid, van de Algemene wet bestuursrecht</extref> zijn van overeenkomstige toepassing ten aanzien van de in het eerste lid bedoelde ambtenaren. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=33&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel33/Lid3" label-id="1747294L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De in het eerste lid bedoelde ambtenaren zijn bevoegd bij het opsporen van de bij deze wet strafbaar gestelde feiten, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=33&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel33/Lid4" label-id="1747294L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de <nadruk type="cur">Staatscourant</nadruk>. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=33&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-135"><publicatiejaar>2021</publicatiejaar><publicatienr>135</publicatienr><uitgiftedatum isodatum="2021-03-17">17-03-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-03-03">03-03-2021</ondertekeningsdatum><dossierref dossier="35256">35256</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-254"><publicatiejaar>2021</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2021-06-02">02-06-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-05-18">18-05-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=33&amp;g=2024-01-01" onderdeel="artikel=33" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=33"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=33&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=33" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=33"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel34" stam-id="1792023" versie-id="2662402" id="C2662401" label-id="1747304" inwerking="1994-01-01" label="Artikel 34" bron="Stb.1992-422" effect="vervallen" ondertekening_bron="1992-06-04" publicatie_iwt="1993-12-23" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>34</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>422</publicatienr><ondertekeningsdatum isodatum="1992-06-04">04-06-1992</ondertekeningsdatum><dossierref dossier="22061">22061</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>693</publicatienr><uitgiftedatum isodatum="1993-12-23">23-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=34&amp;g=2024-01-01" onderdeel="artikel=34" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=34"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=34&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=34" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=34"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel35" code="a-35" stam-id="1792033" versie-id="2662412" id="C2662411" label-id="1747314" inwerking="1963-02-15" label="Artikel 35" bron="Stb.1962-587" effect="nieuwe-regeling" ondertekening_bron="1962-12-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>35</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel35/Lid1" label-id="1747314L1">
+    <lidnr status="redactioneel">1</lidnr>
+    <al> De Algemene Vorderingswet 1939 (<nadruk type="cur">Stb.</nadruk> 631) en de Algemene Vorderingsregeling 1944 (<nadruk type="cur">Stb.</nadruk> E 140) worden ingetrokken. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=35&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel35/Lid2" label-id="1747314L2">
+    <lidnr>2</lidnr>
+    <al>
+      <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+    </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=35&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel35/Lid3" label-id="1747314L3">
+    <lidnr>3</lidnr>
+    <al> Het Algemeen Vorderingsbesluit 1940 (<nadruk type="cur">Verordeningenblad</nadruk> 110) vervalt. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=35&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1962</publicatiejaar><publicatienr>587</publicatienr><ondertekeningsdatum isodatum="1962-12-12">12-12-1962</ondertekeningsdatum><dossierref dossier="5348">5348</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1963</publicatiejaar><publicatienr>30</publicatienr><ondertekeningsdatum isodatum="1963-02-07">07-02-1963</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1963-02-15">15-02-1963</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=35&amp;g=2024-01-01" onderdeel="artikel=35" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=35"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=35&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=35" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=35"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel36" stam-id="1792043" versie-id="2662422" id="C5032831" label-id="1747324" inwerking="1963-02-15" label="Artikel 36" bron="Stb.1962-587" effect="nieuwe-regeling" ondertekening_bron="1962-12-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>36</nr>
+  </kop>
+  <al>Ten aanzien van op grond van de Algemene Vorderingswet 1939 en het Algemeen Vorderingsbesluit 1940 gedane vorderingen blijft het bij en krachtens de artikelen 10 en 11 van die wet onderscheidenlijk de artikelen 9, 10 en 11 van dat besluit bepaalde van toepassing, behoudens dat met overeenkomstige toepassing van <intref verwijzing-id="1615271" doc="jci1.3:c:BWBR0002393&amp;artikel=17&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0002393" label-id="1747144" bwb-ng-variabel-deel="/Artikel17">artikel 17 van deze wet</intref> de rechter in de plaats treedt van de krachtens die regelingen ingestelde commissies. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1962</publicatiejaar><publicatienr>587</publicatienr><ondertekeningsdatum isodatum="1962-12-12">12-12-1962</ondertekeningsdatum><dossierref dossier="5348">5348</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1963</publicatiejaar><publicatienr>30</publicatienr><ondertekeningsdatum isodatum="1963-02-07">07-02-1963</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1963-02-15">15-02-1963</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=36&amp;g=2024-01-01" onderdeel="artikel=36" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=36"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=36&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=36" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=36"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel37" stam-id="1792053" versie-id="2662432" id="C5032841" label-id="1747334" inwerking="1992-01-01" label="Artikel 37" bron="Stb.1989-490" effect="wijziging" ondertekening_bron="1989-10-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>37</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel37/Lid1" label-id="1747334L1">
+    <lidnr>1</lidnr>
+    <al>Een recht tot gebruik van een zaak of vermogensrecht, ontstaan als gevolg van een op grond van de Algemene Vorderingswet 1939 of het Algemeen Vorderingsbesluit 1940 gedane vordering en nog bestaande bij het in werking treden van deze wet, blijft bestaan tot het tijdstip, waarop het krachtens de wettelijke regeling, op grond waarvan de vordering is gedaan, een einde zou hebben genomen, of, indien geen zodanig tijdstip is bepaald, tot zes maanden na het in werking treden van deze wet. Onze Minister, wie het rechtstreeks aangaat, kan laatstbedoelde termijn eenmaal met ten hoogste zes maanden verlengen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=37&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel37/Lid2" label-id="1747334L2">
+    <lidnr>2</lidnr>
+    <al>
+      <intref verwijzing-id="1615272" doc="jci1.3:c:BWBR0002393&amp;artikel=22&amp;z=2024-01-01&amp;g=2024-01-01" bwb-id="BWBR0002393" label-id="1747194" bwb-ng-variabel-deel="/Artikel22">Artikel 22</intref> is van overeenkomstige toepassing. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=37&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1989</publicatiejaar><publicatienr>490</publicatienr><ondertekeningsdatum isodatum="1989-10-25">25-10-1989</ondertekeningsdatum><dossierref dossier="19077">19077</dossierref></publicatie><juncto><publicatie soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>607</publicatienr><ondertekeningsdatum isodatum="1991-12-03">03-12-1991</ondertekeningsdatum></publicatie></juncto></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1990</publicatiejaar><publicatienr>90</publicatienr><ondertekeningsdatum isodatum="1990-02-20">20-02-1990</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-01-01">01-01-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=37&amp;g=2024-01-01" onderdeel="artikel=37" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=37"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=37&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=37" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=37"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel38" code="a-38" stam-id="1792073" versie-id="11340712" id="C15798861" label-id="1747354" inwerking="2005-03-16" label="Artikel 38" bron="Stb.2004-686" effect="wijziging" ondertekening_bron="2004-12-02" publicatie_bron="2004-12-28" publicatie_iwt="2005-03-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>38</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Vorderingswet.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2004-686"><publicatiejaar>2004</publicatiejaar><publicatienr>686</publicatienr><uitgiftedatum isodatum="2004-12-28">28-12-2004</uitgiftedatum><ondertekeningsdatum isodatum="2004-12-02">02-12-2004</ondertekeningsdatum><dossierref dossier="29514">29514</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-118"><publicatiejaar>2005</publicatiejaar><publicatienr>118</publicatienr><uitgiftedatum isodatum="2005-03-15">15-03-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-02-23">23-02-2005</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2005-03-16">16-03-2005</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=38&amp;g=2024-01-01" onderdeel="artikel=38" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=38"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=38&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=38" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=38"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel39" code="a-39" stam-id="1792083" versie-id="2662472" id="C2662471" label-id="1747364" inwerking="1963-02-15" label="Artikel 39" bron="Stb.1962-587" effect="nieuwe-regeling" ondertekening_bron="1962-12-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>39</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een door Ons te bepalen tijdstip. </al>
+  <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1962</publicatiejaar><publicatienr>587</publicatienr><ondertekeningsdatum isodatum="1962-12-12">12-12-1962</ondertekeningsdatum><dossierref dossier="5348">5348</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1963</publicatiejaar><publicatienr>30</publicatienr><ondertekeningsdatum isodatum="1963-02-07">07-02-1963</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1963-02-15">15-02-1963</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;artikel=39&amp;g=2024-01-01" onderdeel="artikel=39" korte-verwijzing="1.0:c:BWBR0002393&amp;artikel=39"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;artikel=39&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=39" korte-verwijzing="jci1.3:c:BWBR0002393&amp;artikel=39"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="1792103" versie-id="2662492" id="C2662491" label-id="1747384" inwerking="1963-02-15" bron="Stb.1962-587" effect="nieuwe-regeling" ondertekening_bron="1962-12-12" status="goed">
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven ten Paleize Soestdijk</plaats>
+      <datum isodatum="">12 december 1962. </datum>
+    </dagtekening>
+    <koning>JULIANA. </koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister-President, Minister van Algemene Zaken, </functie>
+    <naam>
+      <achternaam>J. DE QUAY.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Staatssecretaris van Economische Zaken, </functie>
+    <naam>
+      <achternaam>F. J. W. GIJZELS.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Binnenlandse Zaken, </functie>
+    <naam>
+      <achternaam>E. H. TOXOPEUS.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Defensie, </functie>
+    <naam>
+      <achternaam>S. H. VISSER.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Justitie, </functie>
+    <naam>
+      <achternaam>A. C. W. BEERMAN.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Financiën, </functie>
+    <naam>
+      <achternaam>J. ZIJLSTRA.</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de negenentwintigste januari 1963. </datum>
+    <ondertekening>
+      <functie>De Minister van Justitie, </functie>
+      <naam>
+        <achternaam>A. C. W. BEERMAN.</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1962</publicatiejaar><publicatienr>587</publicatienr><ondertekeningsdatum isodatum="1962-12-12">12-12-1962</ondertekeningsdatum><dossierref dossier="5348">5348</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1963</publicatiejaar><publicatienr>30</publicatienr><ondertekeningsdatum isodatum="1963-02-07">07-02-1963</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1963-02-15">15-02-1963</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-1996-366"><publicatiejaar>1996</publicatiejaar><publicatienr>366</publicatienr><uitgiftedatum isodatum="1996-07-09">09-07-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-04-03">03-04-1996</ondertekeningsdatum><dossierref dossier="23791">23791</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-1997-172"><publicatiejaar>1997</publicatiejaar><publicatienr>172</publicatienr><uitgiftedatum isodatum="1997-04-29">29-04-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-04-23">23-04-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1997-05-01">01-05-1997</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Artikel 3a kan volgens artikel 7, eerste lid en artikel 8,
+        eerste lid van de Coördinatiewet uitzonderingstoestanden in
+        beperkte en in algemene noodtoestand in werking worden gesteld.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002393&amp;g=2024-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0002393"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002393&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0002393"/></jcis></meta-data></wetgeving></toestand>

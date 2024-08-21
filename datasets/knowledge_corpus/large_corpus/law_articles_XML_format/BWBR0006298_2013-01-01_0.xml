@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0006298/2013-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0006298" inwerkingtreding="2013-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="1314403" versie-id="1955602" id="C1955601" label-id="1273774" inwerkingtredingsdatum="2001-08-24">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="1314433" versie-id="1955442" id="C1955441" label-id="1273654" inwerking="1993-12-29" bron="Stb.1993-695" effect="nieuwe-regeling" ondertekening_bron="1993-12-09" status="goed">Wet van 9 december 1993, houdende voorschriften inzake uitbetaling en verhoging van Surinaams pensioen voor Surinaams gepensioneerden in Nederland<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>695</publicatienr><ondertekeningsdatum isodatum="1993-12-09">09-12-1993</ondertekeningsdatum><dossierref dossier="23092">23092</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>695</publicatienr><ondertekeningsdatum isodatum="1993-12-09">09-12-1993</ondertekeningsdatum><dossierref dossier="23092">23092</dossierref></publicatie><inwerkingtreding.datum isodatum="1993-12-29">29-12-1993</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="1314443" versie-id="1955452" id="C1955451" label-id="1273664" inwerking="1993-12-29" bron="Stb.1993-695" effect="nieuwe-regeling" ondertekening_bron="1993-12-09">Garantiewet Surinaamse pensioenen<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>695</publicatienr><ondertekeningsdatum isodatum="1993-12-09">09-12-1993</ondertekeningsdatum><dossierref dossier="23092">23092</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>695</publicatienr><ondertekeningsdatum isodatum="1993-12-09">09-12-1993</ondertekeningsdatum><dossierref dossier="23092">23092</dossierref></publicatie><inwerkingtreding.datum isodatum="1993-12-29">29-12-1993</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="1314453" versie-id="1955462" id="C1955461" label-id="1273674" inwerking="1993-12-29" bron="Stb.1993-695" effect="nieuwe-regeling" ondertekening_bron="1993-12-09" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is een garantie te treffen houdende uitbetaling en verhoging van Surinaams pensioen voor Surinaams gepensioneerden en hun nabestaanden die voor de soevereiniteitsoverdracht aan Suriname op 25 november 1975 aldaar pensioenaanspraken hebben opgebouwd en die zich voor 1 mei 1985 in Nederland gevestigd hebben;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>695</publicatienr><ondertekeningsdatum isodatum="1993-12-09">09-12-1993</ondertekeningsdatum><dossierref dossier="23092">23092</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>695</publicatienr><ondertekeningsdatum isodatum="1993-12-09">09-12-1993</ondertekeningsdatum><dossierref dossier="23092">23092</dossierref></publicatie><inwerkingtreding.datum isodatum="1993-12-29">29-12-1993</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" code="a-1" stam-id="1314463" versie-id="1955572" id="C1955571" label-id="1273684" inwerking="2001-08-24" label="Artikel 1" bron="Stb.2001-377" effect="wijziging" ondertekening_bron="2001-07-16" publicatie_bron="2001-08-23" publicatie_iwt="2001-08-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>1</nr>
+  </kop>
+  <al>In deze wet wordt verstaan onder: </al>
+  <lijst>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>Surinaams pensioen: een pensioenuitkering die bij ontslag is toegekend of waarop bij ontslag uitzicht bestond uit hoofde van de in Suriname van kracht zijnde Ambtenarenpensioenverordening 1972;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=1&amp;o=a&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>stichting: de Stichting Administratie Indonesische Pensioenen;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=1&amp;o=b&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>garantiepensioen: een door de stichting ter vervanging van de aanspraak op Surinaams pensioen uit te betalen pensioen;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=1&amp;o=c&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>ambtenaar: degene die vanaf een voor 25 november 1975 gelegen tijdstip in ambtelijke dienst van Suriname of als leerkracht bij het bijzonder onderwijs in Suriname werkzaam is geweest en op grond daarvan uitzicht heeft op een Surinaams pensioen;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=1&amp;o=d&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeele">
+      <li.nr>e.</li.nr>
+      <al>gepensioneerde: de gewezen ambtenaar die aanspraak heeft op een Surinaams pensioen;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=1&amp;o=e&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelf">
+      <li.nr>f.</li.nr>
+      <al>nabestaande: </al>
+      <lijst>
+        <li bwb-ng-variabel-deel="/Artikel1/Onderdeelf/Onderdeel1">
+          <li.nr>1°.</li.nr>
+          <al>de weduwe of weduwnaar die op grond van de Surinaamse Ambtenarenpensioenverordening 1972 aanspraak heeft op een nabestaandenpensioen ingevolge het overlijden van een ambtenaar of gepensioneerde en die zich voor 1 mei 1985 blijvend in Nederland heeft gevestigd;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=1&amp;o=f&amp;o=1&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="o=1"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/Artikel1/Onderdeelf/Onderdeel2">
+          <li.nr>2°.</li.nr>
+          <al>de wees die op grond van de Surinaamse Ambtenarenpensioenverordening 1972 aanspraak heeft op een wezenpensioen ingevolge het overlijden van een ambtenaar of gepensioneerde en die zich voor 1 mei 1985 blijvend in Nederland heeft gevestigd of is geboren uit zijn voor die datum in Nederland gevestigde moeder;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=1&amp;o=f&amp;o=2&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="o=2"/></jcis></meta-data></li>
+      </lijst>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=1&amp;o=f&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelg">
+      <li.nr>g.</li.nr>
+      <al>rechthebbende: de gepensioneerde die zich voor 1 mei 1985 blijvend in Nederland heeft gevestigd dan wel de nabestaande of nabestaanden;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=1&amp;o=g&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="o=g"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelh">
+      <li.nr>h.</li.nr>
+      <al>Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=1&amp;o=h&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="o=h"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2001-377"><publicatiejaar>2001</publicatiejaar><publicatienr>377</publicatienr><uitgiftedatum isodatum="2001-08-23">23-08-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-07-16">16-07-2001</ondertekeningsdatum><dossierref dossier="27692">27692</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2001-377"><publicatiejaar>2001</publicatiejaar><publicatienr>377</publicatienr><uitgiftedatum isodatum="2001-08-23">23-08-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-07-16">16-07-2001</ondertekeningsdatum><dossierref dossier="27692">27692</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-08-24">24-08-2001</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2001-01-01">01-01-2001</terugwerkend.datum></inwerkingtreding><opmerkingen-inhoud><al>Artikelen 1 en 6a werken terug tot en met 1 januari 2001.
+        Artikel 6 werkt terug tot en met 1 juli 1996.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006298&amp;artikel=1&amp;g=2013-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0006298&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=1&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0006298&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="a-2" stam-id="1314473" versie-id="1955482" id="C20927161" label-id="1273694" inwerking="1993-12-29" label="Artikel 2" bron="Stb.1993-695" effect="nieuwe-regeling" ondertekening_bron="1993-12-09" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="1273694L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Op aanvraag van de rechthebbende wordt door de stichting een garantiepensioen toegekend, indien de rechthebbende: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>aantoont dat hij zich voor 1 mei 1985 in Nederland heeft gevestigd of, indien hij een wees is, dat hij is geboren uit een moeder die zich voor die datum in Nederland heeft gevestigd en;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=2&amp;lid=1&amp;o=a&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>zijn aanspraak op Surinaams pensioen aan de Nederlandse Staat heeft gecedeerd.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=2&amp;lid=1&amp;o=b&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=2&amp;lid=1&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="1273694L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Door de stichting wordt op de daartoe gedane aanvraag tevens een garantiepensioen toegekend aan degene die niet als rechthebbende in de zin van <intref verwijzing-id="1615278" doc="jci1.3:c:BWBR0006298&amp;artikel=1&amp;z=2013-01-01&amp;g=2013-01-01" bwb-id="BWBR0006298" label-id="1273684" bwb-ng-variabel-deel="/Artikel1">artikel 1, onder g</intref>, kan worden aangemerkt, maar aan wie voor 1 januari 1992 door de stichting voorschotten zijn verstrekt op zijn Surinaams pensioen, op voorwaarde dat hij zijn aanspraak op Surinaams pensioen aan de Nederlandse Staat heeft gecedeerd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=2&amp;lid=2&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid3" label-id="1273694L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Voorts wordt door de stichting op de daartoe gedane aanvraag een garantiepensioen toegekend aan degene of degenen die aanspraak hebben op een Surinaams nabestaandenpensioen ingevolge het overlijden van degene op wie het tweede lid van toepassing was, eveneens op voorwaarde dat de aanspraak op Surinaams pensioen aan de Nederlandse Staat is gecedeerd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=2&amp;lid=3&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid4" label-id="1273694L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> In afwijking van het tweede en derde lid wordt aan degene die zich in Suriname heeft gevestigd geen garantiepensioen toegekend;</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=2&amp;lid=4&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid5" label-id="1273694L5">
+    <lidnr status="officieel">5</lidnr>
+    <al> De Stichting kan bij een met redenen omkleed besluit in bijzonder gevallen waarin gepensioneerden of hun nabestaanden aantonen dat zij om medische dan wel andere dwingende redenen niet aan de voorwaarde van blijvende vestiging in Nederand voor 1 mei 1985 voldoen, de aanspraak op het garantiepensioen afzonderlijk regelen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=2&amp;lid=5&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>695</publicatienr><ondertekeningsdatum isodatum="1993-12-09">09-12-1993</ondertekeningsdatum><dossierref dossier="23092">23092</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>695</publicatienr><ondertekeningsdatum isodatum="1993-12-09">09-12-1993</ondertekeningsdatum><dossierref dossier="23092">23092</dossierref></publicatie><inwerkingtreding.datum isodatum="1993-12-29">29-12-1993</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006298&amp;artikel=2&amp;g=2013-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0006298&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=2&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0006298&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="a-3" stam-id="1314483" versie-id="13825842" id="C18823881" label-id="1273704" inwerking="2006-12-13" label="Artikel 3" bron="Stb.2006-593" effect="wijziging" ondertekening_bron="2006-11-20" publicatie_bron="2006-12-05" publicatie_iwt="2006-12-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="1273704L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onverminderd het gestelde in <intref verwijzing-id="1615279" doc="jci1.3:c:BWBR0006298&amp;artikel=4&amp;z=2013-01-01&amp;g=2013-01-01" bwb-id="BWBR0006298" label-id="1273714" bwb-ng-variabel-deel="/Artikel4">artikel 4</intref> wordt het bedrag van het garantiepensioen bepaald door het bruto bedrag van het gecedeerde Surinaams pensioen te vermenigvuldigen met: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de wisselkoers van de Surinaamse gulden: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeela/Onderdeel1">
+            <li.nr>1°.</li.nr>
+            <al>op 25 november 1975, zijnde 0,672, indien de rechthebbende zich voor of op die datum in Nederland heeft gevestigd;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=3&amp;lid=1&amp;o=a&amp;o=1&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="o=1"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeela/Onderdeel2">
+            <li.nr>2°.</li.nr>
+            <al>van de maand van vestiging in Nederland, indien de rechthebbende zich na 25 november 1975 in Nederland heeft gevestigd en op het moment van zijn vestiging in Nederland reeds recht had op een Surinaams pensioen;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=3&amp;lid=1&amp;o=a&amp;o=2&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="o=2"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeela/Onderdeel3">
+            <li.nr>3°.</li.nr>
+            <al>van de maand waarin het recht op Surinaams pensioen wordt verkregen, indien de rechthebbende zich na 25 november 1975 in Nederland heeft gevestigd en op het moment van zijn vestiging nog geen recht had op een Surinaams pensioen;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=3&amp;lid=1&amp;o=a&amp;o=3&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="o=3"/></jcis></meta-data></li>
+        </lijst>
+        <al/>
+        <al>en met</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=3&amp;lid=1&amp;o=a&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de breuk waarvan de teller wordt gevormd door de consumentenprijsindex in de maand van uitbetaling van het garantiepensioen, met als basis de maand november 1975, en waarvan de noemer: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelb/Onderdeel1">
+            <li.nr>1°.</li.nr>
+            <al>100 bedraagt, indien de rechthebbende zich voor of op 25 november 1975 in Nederland heeft gevestigd;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=3&amp;lid=1&amp;o=b&amp;o=1&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="o=1"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelb/Onderdeel2">
+            <li.nr>2°.</li.nr>
+            <al>de consumentenprijsindex is ten tijde van de maand van vestiging in Nederland, indien de rechthebbende zich na 25 november 1975 in Nederland heeft gevestigd en op het moment van zijn vestiging in Nederland reeds recht had op een Surinaams pensioen;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=3&amp;lid=1&amp;o=b&amp;o=2&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="o=2"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelb/Onderdeel3">
+            <li.nr>3°.</li.nr>
+            <al>de consumentenprijsindex is ten tijde van de maand waarin het recht op een Surinaams pensioen wordt verkregen, indien de rechthebbende zich na 25 november 1975 in Nederland heeft gevestigd en op het moment van zijn vestiging in Nederland nog geen recht had op een Surinaams pensioen.</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=3&amp;lid=1&amp;o=b&amp;o=3&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="o=3"/></jcis></meta-data></li>
+        </lijst>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=3&amp;lid=1&amp;o=b&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=3&amp;lid=1&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="1273704L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> In afwijking van het eerste lid wordt voor de berekening van het garantiepensioen van de rechthebbende die aanspraak heeft op een Surinaams nabestaandenpensioen ingevolge het overlijden van een gepensioneerde die zich voor 1 mei 1985 in Nederland heeft gevestigd, gebruik gemaakt van de wisselkoers als bedoeld in het eerste lid, onder <nadruk type="cur">a</nadruk>, en de breuk als bedoeld in het eerste lid, onder <nadruk type="cur">b</nadruk>, die ten aanzien van het garantiepensioen van de overledene golden of zouden hebben gegolden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=3&amp;lid=2&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid3" label-id="1273704L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> De in het eerste lid, onderdeel <nadruk type="cur">a</nadruk>, onder 2°, en onderdeel <nadruk type="cur">a</nadruk>, onder 3°, bedoelde wisselkoersen worden niet hoger gesteld dan 0,672 en niet lager dan 0,505.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=3&amp;lid=3&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid4" label-id="1273704L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> Onze Minister stelt de in het eerste lid, onderdeel <nadruk type="cur">a</nadruk>, onder 2° en onderdeel <nadruk type="cur">a</nadruk>, onder 3°, bedoelde wisselkoersen vast, alsmede de in dat lid, onder <nadruk type="cur">b</nadruk>, bedoelde prijsindexcijfers.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=3&amp;lid=4&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid5" label-id="1273704L5">
+    <lidnr status="officieel">5</lidnr>
+    <al> De Stichting zal, in afwijking van de Ambtenarenpensioenverordening 1972, bij overlijden van de gepensioneerde uitsluitend aan zijn nabestaanden een uitkering van twee maanden toekennen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=3&amp;lid=5&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2006-593"><publicatiejaar>2006</publicatiejaar><publicatienr>593</publicatienr><uitgiftedatum isodatum="2006-12-05">05-12-2006</uitgiftedatum><ondertekeningsdatum isodatum="2006-11-20">20-11-2006</ondertekeningsdatum><dossierref dossier="30027">30027</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2006-621"><publicatiejaar>2006</publicatiejaar><publicatienr>621</publicatienr><uitgiftedatum isodatum="2006-12-12">12-12-2006</uitgiftedatum><ondertekeningsdatum isodatum="2006-11-24">24-11-2006</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2006-12-13">13-12-2006</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006298&amp;artikel=3&amp;g=2013-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0006298&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=3&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0006298&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="a-4" stam-id="1314493" versie-id="1955632" id="C5032901" label-id="1273714" inwerking="2002-01-01" label="Artikel 4" bron="Stb.2001-481" effect="wijziging" ondertekening_bron="2001-09-27" publicatie_bron="2001-11-01" publicatie_iwt="2001-11-01" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>4</nr>
+  </kop>
+  <al>Het bedrag van het garantiepensioen van degene: </al>
+  <lijst>
+    <li bwb-ng-variabel-deel="/Artikel4/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>op wie <intref verwijzing-id="1615280" doc="jci1.3:c:BWBR0006298&amp;artikel=2&amp;z=2013-01-01&amp;g=2013-01-01" bwb-id="BWBR0006298" label-id="1273694" bwb-ng-variabel-deel="/Artikel2">artikel 2, tweede of derde lid</intref>, van toepassing is, of</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=4&amp;o=a&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel4/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>die krachtens de <extref doc="jci1.3:c:BWBR0002574" verwijzing-id="435141" bwb-id="BWBR0002574" label-id="924174">Toeslagregeling pensioenen Suriname en Nederlandse Antillen</extref> een toeslag ontvangt op zijn pensioen, wordt vastgesteld door het bruto bedrag van het gecedeerde Surinaamse pensioen te vermenigvuldigen met 0,505.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=4&amp;o=b&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2001-481"><publicatiejaar>2001</publicatiejaar><publicatienr>481</publicatienr><uitgiftedatum isodatum="2001-11-01">01-11-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-09-27">27-09-2001</ondertekeningsdatum><dossierref dossier="27472">27472</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2001-481"><publicatiejaar>2001</publicatiejaar><publicatienr>481</publicatienr><uitgiftedatum isodatum="2001-11-01">01-11-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-09-27">27-09-2001</ondertekeningsdatum><dossierref dossier="27472">27472</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006298&amp;artikel=4&amp;g=2013-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0006298&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=4&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0006298&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="a-5" stam-id="1314503" versie-id="1955512" id="C1955511" label-id="1273724" inwerking="1993-12-29" label="Artikel 5" bron="Stb.1993-695" effect="nieuwe-regeling" ondertekening_bron="1993-12-09" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid1" label-id="1273724L1">
+    <lidnr>1</lidnr>
+    <al>Degene die een garantiepensioen ontvangt en ondanks de cessie van zijn aanspraak op Surinaams pensioen aan de Nederlandse Staat het gehele of gedeeltelijke bedrag van zijn pensioen van het Pensioenfonds Suriname ontvangt, doet daarvan terstond mededeling aan de stichting.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=5&amp;lid=1&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid2" label-id="1273724L2">
+    <lidnr>2</lidnr>
+    <al> De stichting vermindert het uit te betalen garantiepensioen met de tegenwaarde van het door de belanghebbende ontvangen bedrag aan Surinaams pensioen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=5&amp;lid=2&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid3" label-id="1273724L3">
+    <lidnr>3</lidnr>
+    <al> Indien niet aan de verplichting ingevolge het eerste lid wordt voldaan, kan de stichting het garantiepensioen geheel of gedeeltelijk vervallen verklaren.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=5&amp;lid=3&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>695</publicatienr><ondertekeningsdatum isodatum="1993-12-09">09-12-1993</ondertekeningsdatum><dossierref dossier="23092">23092</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>695</publicatienr><ondertekeningsdatum isodatum="1993-12-09">09-12-1993</ondertekeningsdatum><dossierref dossier="23092">23092</dossierref></publicatie><inwerkingtreding.datum isodatum="1993-12-29">29-12-1993</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006298&amp;artikel=5&amp;g=2013-01-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0006298&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=5&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0006298&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="a-6" stam-id="1314513" versie-id="1955582" id="C1955581" label-id="1273734" inwerking="2001-08-24" label="Artikel 6" bron="Stb.2001-377" effect="wijziging" ondertekening_bron="2001-07-16" publicatie_bron="2001-08-23" publicatie_iwt="2001-08-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+  </kop>
+  <al>Voorzover ter zake van het genot van een garantiepensioen premie krachtens de <extref doc="jci1.3:c:BWBR0002221" verwijzing-id="435142" bwb-id="BWBR0002221" label-id="2498844">Algemene Ouderdomswet</extref> en de <extref doc="jci1.3:c:BWBR0007795" verwijzing-id="435143" bwb-id="BWBR0007795" label-id="2494864">Algemene nabestaandenwet</extref> wordt geheven, wordt door de stichting aan rechthebbende hiervoor een vergoeding verleend overeenkomstig het bepaalde in <extref doc="jci1.3:c:BWBR0002414&amp;artikel=27" verwijzing-id="435144" bwb-id="BWBR0002414" label-id="1705194">artikel 27, eerste tot en met vijfde lid, van de Samenloopregeling Indonesische Pensioenen 1960</extref>.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2001-377"><publicatiejaar>2001</publicatiejaar><publicatienr>377</publicatienr><uitgiftedatum isodatum="2001-08-23">23-08-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-07-16">16-07-2001</ondertekeningsdatum><dossierref dossier="27692">27692</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2001-377"><publicatiejaar>2001</publicatiejaar><publicatienr>377</publicatienr><uitgiftedatum isodatum="2001-08-23">23-08-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-07-16">16-07-2001</ondertekeningsdatum><dossierref dossier="27692">27692</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-08-24">24-08-2001</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="1996-07-01">01-07-1996</terugwerkend.datum></inwerkingtreding><opmerkingen-inhoud><al>Artikelen 1 en 6a werken terug tot en met 1 januari 2001.
+        Artikel 6 werkt terug tot en met 1 juli 1996.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006298&amp;artikel=6&amp;g=2013-01-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0006298&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=6&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0006298&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6a" code="b1-6a" stam-id="1314553" versie-id="19592192" id="C27497501" label-id="1273784" inwerking="2013-01-01" label="Artikel 6a" bron="Stb.2012-361" effect="wijziging" ondertekening_bron="2012-08-02" publicatie_bron="2012-08-08" publicatie_iwt="2012-07-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel6a/Lid1" label-id="1273784L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien recht is ontstaan op pensioen na 31 december 2000 heeft de rechthebbende die de pensioengerechtigde leeftijd, bedoeld in <extref doc="jci1.3:c:BWBR0002221&amp;artikel=7a" verwijzing-id="2509813" bwb-id="BWBR0002221" label-id="11769284">artikel 7a, eerste lid, van de Algemene Ouderdomswet</extref> nog niet heeft bereikt, in afwijking van de <extref doc="jci1.3:c:BWBR0006353" verwijzing-id="435145" bwb-id="BWBR0006353" label-id="120994">Wet brutering overhevelingstoeslag lonen</extref>, recht op een toeslag ter grootte van 1,9% van dat pensioen, met een maximum van € 791,85 per jaar.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=6a&amp;lid=1&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6a/Lid2" label-id="1273784L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Voor de toepassing van het bij of krachtens deze wet bepaalde wordt de toeslag krachtens dit artikel niet onder pensioen of uitkering begrepen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=6a&amp;lid=2&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2012-361"><publicatiejaar>2012</publicatiejaar><publicatienr>361</publicatienr><uitgiftedatum isodatum="2012-08-08">08-08-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-08-02">02-08-2012</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2012-329"><publicatiejaar>2012</publicatiejaar><publicatienr>329</publicatienr><uitgiftedatum isodatum="2012-07-18">18-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking op het tijdstip waarop artikel I van de Wet verhoging AOW- en pensioenrichtleeftijd in werking treedt.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006298&amp;artikel=6a&amp;g=2013-01-01" onderdeel="artikel=6a" korte-verwijzing="1.0:c:BWBR0006298&amp;artikel=6a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=6a&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="artikel=6a" korte-verwijzing="jci1.3:c:BWBR0006298&amp;artikel=6a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="a-7" stam-id="1314523" versie-id="1955532" id="C1955531" label-id="1273744" inwerking="1993-12-29" label="Artikel 7" bron="Stb.1993-695" effect="nieuwe-regeling" ondertekening_bron="1993-12-09" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid1" label-id="1273744L1">
+    <lidnr>1</lidnr>
+    <al>Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het <nadruk type="cur">Staatsblad</nadruk> waarin zij wordt geplaatst.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=7&amp;lid=1&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid2" label-id="1273744L2">
+    <lidnr>2</lidnr>
+    <al> Deze wet werkt, ten aanzien van aanvragen om garantiepensioen die zijn ingediend vóór 1 januari 1994, terug tot en met 1 januari 1992. Bij aanvragen om garantiepensioen die zijn ingediend op of na 1 januari 1994, gaat het garantiepensioen in op de eerste dag van de maand waarin het verzoek door de stichting is ontvangen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=7&amp;lid=2&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>695</publicatienr><ondertekeningsdatum isodatum="1993-12-09">09-12-1993</ondertekeningsdatum><dossierref dossier="23092">23092</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>695</publicatienr><ondertekeningsdatum isodatum="1993-12-09">09-12-1993</ondertekeningsdatum><dossierref dossier="23092">23092</dossierref></publicatie><inwerkingtreding.datum isodatum="1993-12-29">29-12-1993</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006298&amp;artikel=7&amp;g=2013-01-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0006298&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=7&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0006298&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" code="a-8" stam-id="1314533" versie-id="1955542" id="C1955541" label-id="1273754" inwerking="1993-12-29" label="Artikel 8" bron="Stb.1993-695" effect="nieuwe-regeling" ondertekening_bron="1993-12-09" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>8</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Garantiewet Surinaamse pensioenen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>695</publicatienr><ondertekeningsdatum isodatum="1993-12-09">09-12-1993</ondertekeningsdatum><dossierref dossier="23092">23092</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>695</publicatienr><ondertekeningsdatum isodatum="1993-12-09">09-12-1993</ondertekeningsdatum><dossierref dossier="23092">23092</dossierref></publicatie><inwerkingtreding.datum isodatum="1993-12-29">29-12-1993</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006298&amp;artikel=8&amp;g=2013-01-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0006298&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;artikel=8&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0006298&amp;artikel=8"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="1314543" versie-id="1955552" id="C1955551" label-id="1273764" inwerking="1993-12-29" bron="Stb.1993-695" effect="nieuwe-regeling" ondertekening_bron="1993-12-09" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">9 december 1993</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Binnenlandse Zaken,</functie>
+    <naam>
+      <achternaam>C. I. Dales</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de achtentwintigste december 1993</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>E. M. H. Hirsch Ballin</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>695</publicatienr><ondertekeningsdatum isodatum="1993-12-09">09-12-1993</ondertekeningsdatum><dossierref dossier="23092">23092</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>695</publicatienr><ondertekeningsdatum isodatum="1993-12-09">09-12-1993</ondertekeningsdatum><dossierref dossier="23092">23092</dossierref></publicatie><inwerkingtreding.datum isodatum="1993-12-29">29-12-1993</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2001-377"><publicatiejaar>2001</publicatiejaar><publicatienr>377</publicatienr><uitgiftedatum isodatum="2001-08-23">23-08-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-07-16">16-07-2001</ondertekeningsdatum><dossierref dossier="27692">27692</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2001-377"><publicatiejaar>2001</publicatiejaar><publicatienr>377</publicatienr><uitgiftedatum isodatum="2001-08-23">23-08-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-07-16">16-07-2001</ondertekeningsdatum><dossierref dossier="27692">27692</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-08-24">24-08-2001</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Artikelen 1 en 6a werken terug tot en met 1 januari 2001.
+        Artikel 6 werkt terug tot en met 1 juli 1996.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006298&amp;g=2013-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0006298"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006298&amp;z=2013-01-01&amp;g=2013-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0006298"/></jcis></meta-data></wetgeving></toestand>

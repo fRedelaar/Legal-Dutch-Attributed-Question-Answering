@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0022704/2018-07-28/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0022704" inwerkingtreding="2018-07-28"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties><redactionele-correctie label-id="9226674" oud-revisie-id="35978471" nieuw-revisie-id="35992721"/></redactionele-correcties><wetgeving dtdversie="2.0" soort="wet" stam-id="9248143" versie-id="14831212" id="C20307311" label-id="9227244" inwerkingtredingsdatum="2007-12-05">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="9248163" versie-id="14830592" id="C20310211" label-id="9226624" inwerking="2007-12-05" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2007-12-04" status="goed">Wet van 11 oktober 2007, houdende regels inzake de beëdiging van tolken en vertalers en de kwaliteit en de integriteit van beëdigde tolken en vertalers (Wet beëdigde tolken en vertalers)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-471"><publicatiejaar>2007</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2007-12-04">04-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-26">26-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-12-05">05-12-2007</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="9248173" versie-id="14830602" id="C20310201" label-id="9226634" inwerking="2007-12-05" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2007-12-04">Wet beëdigde tolken en vertalers<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-471"><publicatiejaar>2007</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2007-12-04">04-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-26">26-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-12-05">05-12-2007</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="9248183" versie-id="14830612" id="C20310191" label-id="9226644" inwerking="2007-12-05" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2007-12-04" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is een wet tot stand te brengen waarin regels worden gesteld inzake de beëdiging van tolken en vertalers en de kwaliteit en integriteit van beëdigde tolken en vertalers, waarin de <extref doc="jci1.3:c:BWBR0001849" verwijzing-id="2171537" bwb-id="BWBR0001849" label-id="1795474">wet van 6 mei 1878</extref>, houdende bepalingen omtrent de beëedigde vertalers opgaat;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-471"><publicatiejaar>2007</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2007-12-04">04-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-26">26-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-12-05">05-12-2007</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukI" stam-id="9248203" versie-id="14830632" id="C21825131" label-id="9226664" inwerking="2009-01-01" label="Hoofdstuk I" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">I</nr>
+    <titel status="officieel">Begripsbepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukI/Artikel1" stam-id="9248193" versie-id="14830622" id="C21825121" label-id="9226654" inwerking="2009-01-01" label="Artikel 1" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>Onze Minister: Onze Minister van Justitie;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=I&amp;artikel=1&amp;o=a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>register: het register bedoeld in <intref verwijzing-id="2171555" doc="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=1&amp;artikel=2&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0022704" label-id="9226674" bwb-ng-variabel-deel="/HoofdstukII/Paragraaf1/Artikel2">artikel 2</intref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=I&amp;artikel=1&amp;o=b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>beëdigde tolk: degene die als zodanig is ingeschreven in het register;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=I&amp;artikel=1&amp;o=c&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>beëdigde vertaler: degene die als zodanig is ingeschreven in het register.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=I&amp;artikel=1&amp;o=d&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=d"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=1&amp;g=2018-07-28" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=I&amp;artikel=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=1"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;hoofdstuk=I&amp;g=2018-07-28" onderdeel="hoofdstuk=I" korte-verwijzing="1.0:c:BWBR0022704&amp;hoofdstuk=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=I&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="hoofdstuk=I" korte-verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=I"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukII" stam-id="9248343" versie-id="14830772" id="C21825271" label-id="9226804" inwerking="2009-01-01" label="Hoofdstuk II" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">II</nr>
+    <titel status="officieel">Register</titel>
+  </kop><paragraaf bwb-ng-variabel-deel="/HoofdstukII/Paragraaf1" stam-id="9248223" versie-id="14830652" id="C21825151" label-id="9226684" inwerking="2009-01-01" label="§ 1" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">1</nr>
+    <titel status="officieel">Instelling register</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukII/Paragraaf1/Artikel2" stam-id="9248213" versie-id="25164352" id="C35992721" label-id="9226674" inwerking="2018-07-28" label="Artikel 2" bron="Stb.2018-247" effect="wijziging" ondertekening_bron="2018-07-11" publicatie_bron="2018-07-27" publicatie_iwt="2018-07-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf1/Artikel2/Lid1" label-id="9226674L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Er is een register voor beëdigde tolken en vertalers. Het register bevat ten aanzien van iedere ingeschreven tolk of vertaler in elk geval de volgende gegevens:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf1/Artikel2/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de personalia;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=1&amp;artikel=2&amp;lid=1&amp;o=a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf1/Artikel2/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de aanduiding of betrokkene tolk of vertaler is;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=1&amp;artikel=2&amp;lid=1&amp;o=b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf1/Artikel2/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de bron- of doeltaal dan wel bron- of doeltalen waarin de tolk of vertaler zijn werkzaamheden verricht; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=1&amp;artikel=2&amp;lid=1&amp;o=c&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf1/Artikel2/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de overige specifieke bekwaamheden waarvan de tolk of vertaler vermelding in het register wenselijk acht.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=1&amp;artikel=2&amp;lid=1&amp;o=d&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=1&amp;artikel=2&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf1/Artikel2/Lid2" label-id="9226674L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister is verwerkingsverantwoordelijk voor het register. Onze Minister kan een verwerker aanwijzen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=1&amp;artikel=2&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf1/Artikel2/Lid3" label-id="9226674L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Onze Minister kan een lijst houden waarop de gegevens worden bijgehouden van tolken en vertalers die beschikken over een recente verklaring omtrent het gedrag en die wegens het ontbreken van opleidingen of het ontbreken van onafhankelijke deskundigen die de kennis kunnen toetsen, niet kunnen aantonen te beschikken over de vereiste competenties taalvaardigheid in de bron- of de doeltaal of kennis van de cultuur van het land of gebied van de bron- of doeltaal. Onze Minister kan een instelling aanwijzen die deze lijst bijhoudt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=1&amp;artikel=2&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf1/Artikel2/Lid4" label-id="9226674L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Aan een ieder die dit verzoekt, wordt, met inachtneming van de bij of krachtens algemene maatregel van bestuur te stellen regels inzake de bescherming van de persoonlijke levenssfeer van de betrokkenen, informatie verstrekt uit het register en uit de in het derde lid bedoelde lijst.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=1&amp;artikel=2&amp;lid=4&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf1/Artikel2/Lid5" label-id="9226674L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het bepaalde in het eerste tot en met vierde lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=1&amp;artikel=2&amp;lid=5&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-247"><publicatiejaar>2018</publicatiejaar><publicatienr>247</publicatienr><uitgiftedatum isodatum="2018-07-27">27-07-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-07-11">11-07-2018</ondertekeningsdatum><dossierref dossier="34939">34939</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-248"><publicatiejaar>2018</publicatiejaar><publicatienr>248</publicatienr><uitgiftedatum isodatum="2018-07-27">27-07-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-07-11">11-07-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-07-28">28-07-2018</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2018-05-25">25-05-2018</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=2&amp;g=2018-07-28" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=1&amp;artikel=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=2"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;paragraaf=1&amp;g=2018-07-28" onderdeel="paragraaf=1" korte-verwijzing="1.0:c:BWBR0022704&amp;paragraaf=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="paragraaf=1" korte-verwijzing="jci1.3:c:BWBR0022704&amp;paragraaf=1"/></jcis></meta-data></paragraaf><paragraaf bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2" stam-id="9248293" versie-id="14830722" id="C21825221" label-id="9226754" inwerking="2009-01-01" label="§ 2" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">2</nr>
+    <titel status="officieel">Inhoud van en inschrijving in het register</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel3" stam-id="9248233" versie-id="14830662" id="C21825161" label-id="9226694" inwerking="2009-01-01" label="Artikel 3" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <al>Om voor inschrijving in het register in aanmerking te komen dient de tolk dan wel de vertaler te voldoen aan de bij of krachtens algemene maatregel van bestuur te stellen eisen ten aanzien van de volgende competenties:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel3/Onderdeel._1">
+      <li.nr>–</li.nr>
+      <al>attitude van een tolk voor de tolk;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel3/Onderdeel._2">
+      <li.nr>–</li.nr>
+      <al>attitude van een vertaler voor de vertaler;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel3/Onderdeel._3">
+      <li.nr>–</li.nr>
+      <al>integriteit;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel3/Onderdeel._4">
+      <li.nr>–</li.nr>
+      <al>taalvaardigheid in de brontaal;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel3/Onderdeel._5">
+      <li.nr>–</li.nr>
+      <al>taalvaardigheid in de doeltaal;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel3/Onderdeel._6">
+      <li.nr>–</li.nr>
+      <al>kennis van de cultuur van het land of gebied van de brontaal;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel3/Onderdeel._7">
+      <li.nr>–</li.nr>
+      <al>kennis van de cultuur van het land of gebied van de doeltaal;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel3/Onderdeel._8">
+      <li.nr>–</li.nr>
+      <al>tolkvaardigheid voor de tolk;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel3/Onderdeel._9">
+      <li.nr>–</li.nr>
+      <al>vertaalvaardigheid voor de vertaler.</al>
+    </li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=3&amp;g=2018-07-28" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=3"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel4" code="b1-4" stam-id="9248243" versie-id="18537402" id="C25866981" label-id="9226704" inwerking="2012-01-01" label="Artikel 4" bron="Stb.2011-201" effect="wijziging" ondertekening_bron="2011-04-07" publicatie_bron="2011-05-03" publicatie_iwt="2011-05-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel4/Lid1" label-id="9226704L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een aanvraag tot inschrijving geschiedt bij Onze Minister.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=4&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel4/Lid2" label-id="9226704L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Bij de aanvraag tot inschrijving, bedoeld in het eerste lid, legt de tolk of vertaler een verklaring omtrent het gedrag over, als bedoeld in de <extref doc="jci1.3:c:BWBR0014194" verwijzing-id="2171538" bwb-id="BWBR0014194" label-id="3213294">Wet justitiële en strafvorderlijke gegevens</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=4&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel4/Lid3" label-id="9226704L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De tolk of vertaler die minder dan vijf jaar in Nederland woonachtig is, legt naast de verklaring omtrent het gedrag tevens een integriteitsverklaring over die is afgegeven door een daartoe bevoegde instantie in het land van herkomst. Onze Minister weigert inschrijving van betrokkene in het register indien hij niet overtuigd is dat de overgelegde integriteitsverklaring voldoende waarborg biedt inzake de integriteit.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=4&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel4/Lid4" label-id="9226704L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>In afwijking van het tweede lid legt een tolk of vertaler die niet in Nederland woonachtig is een integriteitsverklaring over die is afgegeven door een daartoe bevoegde instantie in het land van herkomst. Onze Minister weigert inschrijving van betrokkene in het register indien hij niet overtuigd is dat de overgelegde integriteitsverklaring voldoende waarborg biedt inzake de integriteit.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=4&amp;lid=4&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel4/Lid5" label-id="9226704L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Bij of krachtens algemene maatregel van bestuur worden regels gesteld inzake:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel4/Lid5/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de bij de aanvraag over te leggen gegevens of bescheiden die nodig zijn voor de beoordeling van de aanvraag;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=4&amp;lid=5&amp;o=a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel4/Lid5/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de wijze van indiening van de aanvraag;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=4&amp;lid=5&amp;o=b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel4/Lid5/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>het bedrag dat bij behandeling van de aanvraag verschuldigd is.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=4&amp;lid=5&amp;o=c&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=4&amp;lid=5&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel4/Lid6" label-id="9226704L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Onze Minister neemt binnen zes weken een beslissing op de aanvraag tot inschrijving.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=4&amp;lid=6&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel4/Lid7" label-id="9226704L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Met toepassing van <extref doc="jci1.3:c:BWBR0026759&amp;artikel=28" verwijzing-id="2436104" bwb-id="BWBR0026759" label-id="10273934">artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet</extref> is <extref doc="jci1.3:c:BWBR0005537&amp;paragraaf=4.1.3.3" verwijzing-id="2436105" bwb-id="BWBR0005537" label-id="10274674">paragraaf 4.1.3.3. van de Algemene wet bestuursrecht</extref> niet van toepassing op een verzoek tot inschrijving als bedoeld in het eerste lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=4&amp;lid=7&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=7"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2011-201"><publicatiejaar>2011</publicatiejaar><publicatienr>201</publicatienr><uitgiftedatum isodatum="2011-05-03">03-05-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-04-07">07-04-2011</ondertekeningsdatum><dossierref dossier="32614">32614</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2011-201"><publicatiejaar>2011</publicatiejaar><publicatienr>201</publicatienr><uitgiftedatum isodatum="2011-05-03">03-05-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-04-07">07-04-2011</ondertekeningsdatum><dossierref dossier="32614">32614</dossierref></publicatie><inwerkingtreding.datum isodatum="2012-01-01">01-01-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=4&amp;g=2018-07-28" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=4&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=4"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel5" code="b1-5" stam-id="9248253" versie-id="20834092" id="C29956951" label-id="9226714" inwerking="2014-01-01" label="Artikel 5" bron="Stb.2013-414" effect="wijziging" ondertekening_bron="2013-10-16" publicatie_bron="2013-10-25" publicatie_iwt="2013-11-06" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <al>De aanvraag tot inschrijving wordt afgewezen indien:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel5/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>de aanvrager niet voldoet aan de in <intref verwijzing-id="2171547" doc="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=3&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0022704" label-id="9226694" bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel3">artikel 3</intref> bedoelde eisen;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=5&amp;o=a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel5/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>de aanvrager vreemdeling is en geen rechtmatig verblijf heeft in Nederland in de zin van <extref doc="jci1.3:c:BWBR0011823&amp;artikel=8" verwijzing-id="2171575" bwb-id="BWBR0011823" label-id="1384184">artikel 8, aanhef en onder a tot en met e, dan wel l, van de Vreemdelingenwet 2000</extref>, of niet gerechtigd is in Nederland arbeid te verrichten;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=5&amp;o=b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel5/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>de aanvrager ingevolge een in kracht van gewijsde gegane rechterlijke uitspraak onder curatele is gesteld wegens zijn lichamelijke of geestelijke toestand; of</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=5&amp;o=c&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel5/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>een op grond van deze wet jegens de aanvrager genomen maatregel van doorhaling van de inschrijving zich daartegen verzet.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=5&amp;o=d&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=d"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-414"><publicatiejaar>2013</publicatiejaar><publicatienr>414</publicatienr><uitgiftedatum isodatum="2013-10-25">25-10-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-10-16">16-10-2013</ondertekeningsdatum><dossierref dossier="33054">33054</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-435"><publicatiejaar>2013</publicatiejaar><publicatienr>435</publicatienr><uitgiftedatum isodatum="2013-11-06">06-11-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-10-30">30-10-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2014-01-01">01-01-2014</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=5&amp;g=2018-07-28" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=5&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=5"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel6" stam-id="9248263" versie-id="22952532" id="C33181321" label-id="9226724" inwerking="2016-01-18" label="Artikel 6" bron="Stb.2015-478" effect="wijziging" ondertekening_bron="2015-12-02" publicatie_bron="2015-12-11" publicatie_iwt="2016-01-08" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <al>In afwijking van <intref doc="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=5&amp;z=2018-07-28&amp;g=2018-07-28" label-id="9226714" verwijzing-id="2171563" bwb-id="BWBR0022704" bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel5">artikel 5, onderdeel a</intref>, wordt de aanvraag van een tolk of vertaler die niet voldoet aan de daar bedoelde eisen, niet afgewezen indien:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel6/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>aan hem ten aanzien van het betrokken beroep een erkenning van beroepskwalificaties is verleend als bedoeld in de <extref doc="jci1.3:c:BWBR0023066" label-id="9308324" verwijzing-id="2183495" bwb-id="BWBR0023066">Algemene wet erkenning EU-beroepskwalificaties</extref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=6&amp;o=a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel6/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>hij in het buitenland een door Onze Minister aangewezen getuigschrift heeft verkregen dat geldt als bewijs van een verworven vakbekwaamheid die geacht kan worden gelijkwaardig te zijn aan de vakbekwaamheid welke uit het voldoen aan de in <intref doc="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=3&amp;z=2018-07-28&amp;g=2018-07-28" label-id="9226694" verwijzing-id="2171564" bwb-id="BWBR0022704" bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel3">artikel 3</intref> bedoelde eisen mag worden afgeleid, of</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=6&amp;o=b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel6/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>Onze Minister, gelet op een door de betrokkene in het buitenland verkregen getuigschrift, hem op aanvraag een verklaring heeft afgegeven, inhoudende dat tegen zijn inschrijving in het register voor wat zijn vakbekwaamheid betreft geen bedenkingen bestaan.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=6&amp;o=c&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=c"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2015-478"><publicatiejaar>2015</publicatiejaar><publicatienr>478</publicatienr><uitgiftedatum isodatum="2015-12-11">11-12-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-02">02-12-2015</ondertekeningsdatum><dossierref dossier="34272">34272</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2016-2"><publicatiejaar>2016</publicatiejaar><publicatienr>2</publicatienr><uitgiftedatum isodatum="2016-01-08">08-01-2016</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-16">16-12-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-01-18">18-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=6&amp;g=2018-07-28" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=6&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=6"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel7" stam-id="9248273" versie-id="14830702" id="C21825201" label-id="9226734" inwerking="2009-01-01" label="Artikel 7" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel7/Lid1" label-id="9226734L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De beëdigde tolk of vertaler die is ingeschreven in het register ontvangt een bewijs van inschrijving.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=7&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel7/Lid2" label-id="9226734L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het bewijs van inschrijving vermeldt de bron- of doeltaal dan wel bron- of doeltalen waarin de tolk of vertaler zijn werkzaamheden verricht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=7&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=7&amp;g=2018-07-28" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=7&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=7"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel8" code="b1-8" stam-id="9248283" versie-id="18537412" id="C25866991" label-id="9226744" inwerking="2012-01-01" label="Artikel 8" bron="Stb.2011-201" effect="wijziging" ondertekening_bron="2011-04-07" publicatie_bron="2011-05-03" publicatie_iwt="2011-05-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel8/Lid1" label-id="9226744L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De inschrijving geschiedt voor een periode van vijf jaar. De inschrijving kan op aanvraag van de beëdigde tolk of vertaler telkens met vijf jaar worden verlengd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=8&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel8/Lid2" label-id="9226744L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Op de aanvraag tot verlenging van de inschrijving is <intref verwijzing-id="2171556" doc="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=4&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0022704" label-id="9226704" bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel4">artikel 4, eerste tot en met vijfde lid</intref>, van overeenkomstige toepassing, met dien verstande dat de in die artikelleden bedoelde verklaringen niet ouder zijn dan drie maanden, te rekenen vanaf de dag waarop de aanvraag tot verlenging wordt ingediend.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=8&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel8/Lid3" label-id="9226744L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Op de aanvraag tot verlenging van de inschrijving is <intref verwijzing-id="2171557" doc="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=5&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0022704" label-id="9226714" bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel5">artikel 5, onderdelen b tot en met d</intref>, van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=8&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel8/Lid4" label-id="9226744L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De aanvraag tot verlenging van de inschrijving wordt afgewezen indien de aanvrager, naar regelen te stellen bij of krachtens algemene maatregel van bestuur, niet kan aantonen dat hij de noodzakelijke kennis heeft bijgehouden en in de afgelopen periode voldoende werkervaring als beëdigde tolk of vertaler heeft opgedaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=8&amp;lid=4&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel8/Lid5" label-id="9226744L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>De beslissing op de aanvraag tot verlenging van de inschrijving wordt binnen vier weken genomen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=8&amp;lid=5&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel8/Lid6" label-id="9226744L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Met toepassing van <extref doc="jci1.3:c:BWBR0026759&amp;artikel=28" verwijzing-id="2436106" bwb-id="BWBR0026759" label-id="10273934">artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet</extref> is <extref doc="jci1.3:c:BWBR0005537&amp;paragraaf=4.1.3.3" verwijzing-id="2436107" bwb-id="BWBR0005537" label-id="10274674">paragraaf 4.1.3.3. van de Algemene wet bestuursrecht</extref> niet van toepassing op een verzoek tot verlenging van de inschrijving als bedoeld in het eerste lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=8&amp;lid=6&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2011-201"><publicatiejaar>2011</publicatiejaar><publicatienr>201</publicatienr><uitgiftedatum isodatum="2011-05-03">03-05-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-04-07">07-04-2011</ondertekeningsdatum><dossierref dossier="32614">32614</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2011-201"><publicatiejaar>2011</publicatiejaar><publicatienr>201</publicatienr><uitgiftedatum isodatum="2011-05-03">03-05-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-04-07">07-04-2011</ondertekeningsdatum><dossierref dossier="32614">32614</dossierref></publicatie><inwerkingtreding.datum isodatum="2012-01-01">01-01-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=8&amp;g=2018-07-28" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=8&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=8"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;paragraaf=2&amp;g=2018-07-28" onderdeel="paragraaf=2" korte-verwijzing="1.0:c:BWBR0022704&amp;paragraaf=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="paragraaf=2" korte-verwijzing="jci1.3:c:BWBR0022704&amp;paragraaf=2"/></jcis></meta-data></paragraaf><paragraaf bwb-ng-variabel-deel="/HoofdstukII/Paragraaf3" stam-id="9248333" versie-id="14830762" id="C21825261" label-id="9226794" inwerking="2009-01-01" label="§ 3" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>§</label>
+    <nr status="officieel">3</nr>
+    <titel status="officieel">Doorhaling in het register</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukII/Paragraaf3/Artikel9" stam-id="9248303" versie-id="14830732" id="C21825231" label-id="9226764" inwerking="2009-01-01" label="Artikel 9" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf3/Artikel9/Lid1" label-id="9226764L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De inschrijving in het register kan worden doorgehaald indien Onze Minister is gebleken van ernstige feiten of omstandigheden, de integriteit of de vakbekwaamheid van de beëdigde tolk of vertaler betreffende.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=3&amp;artikel=9&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf3/Artikel9/Lid2" label-id="9226764L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Bij de beschikking tot doorhaling van de inschrijving wordt bepaald binnen welke periode geen nieuw verzoek tot inschrijving in het register kan worden gedaan. Deze periode bedraagt ten hoogste tien jaren.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=3&amp;artikel=9&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf3/Artikel9/Lid3" label-id="9226764L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Hangende het onderzoek of er reden is tot doorhaling over te gaan, kan de inschrijving van een beëdigde tolk of vertaler tijdelijk worden doorgehaald.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=3&amp;artikel=9&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf3/Artikel9/Lid4" label-id="9226764L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Indien een beëdigde tolk of vertaler niet binnen twee maanden na inschrijving is beëdigd, kan Onze Minister besluiten de inschrijving in het register door te halen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=3&amp;artikel=9&amp;lid=4&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf3/Artikel9/Lid5" label-id="9226764L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>De inschrijving in het register wordt in elk geval doorgehaald bij overlijden van de ingeschrevene en op schriftelijk verzoek van de ingeschrevene.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=3&amp;artikel=9&amp;lid=5&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=9&amp;g=2018-07-28" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=3&amp;artikel=9&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=9"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukII/Paragraaf3/Artikel10" stam-id="9248313" versie-id="14830742" id="C21825241" label-id="9226774" inwerking="2009-01-01" label="Artikel 10" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+  </kop>
+  <al>Indien een beëdigde tolk of vertaler voor meer dan één bron- of doeltaal in het register is ingeschreven, kan de doorhaling ook worden beperkt tot één of meer van deze bron- of doeltalen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=10&amp;g=2018-07-28" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=3&amp;artikel=10&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=10"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukII/Paragraaf3/Artikel11" stam-id="9248323" versie-id="14830752" id="C21825251" label-id="9226784" inwerking="2009-01-01" label="Artikel 11" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf3/Artikel11/Lid1" label-id="9226784L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Van een beschikking tot doorhaling wordt mededeling gedaan in de Staatscourant.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=3&amp;artikel=11&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Paragraaf3/Artikel11/Lid2" label-id="9226784L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Van een beschikking tot tijdelijke doorhaling en tot beëindiging van de tijdelijke doorhaling wordt mededeling gedaan in de Staatscourant.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=3&amp;artikel=11&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=11&amp;g=2018-07-28" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=3&amp;artikel=11&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=11"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;paragraaf=3&amp;g=2018-07-28" onderdeel="paragraaf=3" korte-verwijzing="1.0:c:BWBR0022704&amp;paragraaf=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="paragraaf=3" korte-verwijzing="jci1.3:c:BWBR0022704&amp;paragraaf=3"/></jcis></meta-data></paragraaf><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;hoofdstuk=II&amp;g=2018-07-28" onderdeel="hoofdstuk=II" korte-verwijzing="1.0:c:BWBR0022704&amp;hoofdstuk=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="hoofdstuk=II" korte-verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=II"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukIII" stam-id="9248393" versie-id="14830822" id="C21825321" label-id="9226854" inwerking="2009-01-01" label="Hoofdstuk III" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">III</nr>
+    <titel status="officieel">De beëdiging</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukIII/Artikel12" code="b1-12" stam-id="9248353" versie-id="19506392" id="C27390061" label-id="9226814" inwerking="2013-01-01" label="Artikel 12" bron="Stb.2012-313" effect="wijziging" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-13" publicatie_iwt="2012-07-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">12</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel12/Lid1" label-id="9226814L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De beëdigde tolk of vertaler legt binnen twee maanden na inschrijving in het register de in <intref verwijzing-id="2171565" doc="jci1.3:c:BWBR0022704&amp;hoofdstuk=III&amp;artikel=13&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0022704" label-id="9226824" bwb-ng-variabel-deel="/HoofdstukIII/Artikel13">artikelen 13</intref> en <intref verwijzing-id="2171566" doc="jci1.3:c:BWBR0022704&amp;hoofdstuk=III&amp;artikel=14&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0022704" label-id="9226834" bwb-ng-variabel-deel="/HoofdstukIII/Artikel14">14</intref> bedoelde eed of belofte af ten overstaan van de rechtbank van het arrondissement waarbinnen zijn woonplaats is gelegen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=III&amp;artikel=12&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel12/Lid2" label-id="9226814L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien de woonplaats buiten Nederland is gelegen wordt de eed of belofte afgelegd ten overstaan van de rechtbank Den Haag.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=III&amp;artikel=12&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel12/Lid3" label-id="9226814L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Om te kunnen worden beëdigd dient de beëdigde tolk of vertaler een bewijs van inschrijving in het register over te leggen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=III&amp;artikel=12&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2012-313"><publicatiejaar>2012</publicatiejaar><publicatienr>313</publicatienr><uitgiftedatum isodatum="2012-07-13">13-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="32891">32891</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2012-314"><publicatiejaar>2012</publicatiejaar><publicatienr>314</publicatienr><uitgiftedatum isodatum="2012-07-13">13-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=12&amp;g=2018-07-28" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=III&amp;artikel=12&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=12"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIII/Artikel13" code="b1-13" stam-id="9248363" versie-id="20811402" id="C30111131" label-id="9226824" inwerking="2014-01-01" label="Artikel 13" bron="Stb.2013-382" effect="wijziging" ondertekening_bron="2013-10-02" publicatie_bron="2013-10-17" publicatie_iwt="2013-12-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel13/Lid1" label-id="9226824L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De beëdigde tolk legt ter zitting van de rechtbank de navolgende eed of belofte af:</al>
+    <al>«Ik zweer/beloof dat ik mijn werk als beëdigde tolk eerlijk, nauwgezet en onpartijdig zal uitvoeren en mij bij het uitoefenen van de tolkwerkzaamheden zal gedragen zoals een beëdigde tolk betaamt».</al>
+    <al>«Ik zweer/beloof dat ik geheimhouding zal betrachten ten aanzien van vertrouwelijke informatie waarvan ik door mijn werk kennis neem».</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=III&amp;artikel=13&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel13/Lid2" label-id="9226824L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Wanneer de eed of belofte, bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed of belofte als volgt:</al>
+    <al>«Ik swar/ûnthjit dat ik myn wurk as beëdige tolk earlik, sekuer en ûnpartidich útfiere sil en my by it útoefenjen fan myn wurk as tolk hâlde en drage sil sa’t dat in beëdige tolk foeget».</al>
+    <al>«Ik swar/ûnthjit dat ik geheimhâlding betrachtsje sil oangeande fertroulike ynformaasje dêr’t ik troch myn wurk kunde oan krij».</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=III&amp;artikel=13&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel13/Lid3" label-id="9226824L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Na het afleggen van de eed of belofte wordt aan de beëdigde tolk een akte van beëdiging uitgereikt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=III&amp;artikel=13&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-382"><publicatiejaar>2013</publicatiejaar><publicatienr>382</publicatienr><uitgiftedatum isodatum="2013-10-17">17-10-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-10-02">02-10-2013</ondertekeningsdatum><dossierref dossier="33335">33335</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-515"><publicatiejaar>2013</publicatiejaar><publicatienr>515</publicatienr><uitgiftedatum isodatum="2013-12-12">12-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-03">03-12-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2014-01-01">01-01-2014</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=13&amp;g=2018-07-28" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=III&amp;artikel=13&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=13"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIII/Artikel14" code="b1-14" stam-id="9248373" versie-id="20811412" id="C30111141" label-id="9226834" inwerking="2014-01-01" label="Artikel 14" bron="Stb.2013-382" effect="wijziging" ondertekening_bron="2013-10-02" publicatie_bron="2013-10-17" publicatie_iwt="2013-12-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">14</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel14/Lid1" label-id="9226834L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De beëdigde vertaler legt ter zitting van de rechtbank de navolgende eed of belofte af:</al>
+    <al>«Ik zweer/beloof dat ik mijn werk als beëdigde vertaler eerlijk, nauwgezet en onpartijdig zal uitvoeren en mij bij de uitoefening van mijn vertaalwerkzaamheden zal gedragen zoals een beëdigde vertaler betaamt».</al>
+    <al>«Ik zweer/beloof dat ik geheimhouding zal betrachten ten aanzien van vertrouwelijke informatie waarvan ik door mijn werk kennis neem».</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=III&amp;artikel=14&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel14/Lid2" label-id="9226834L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Wanneer de eed of belofte, bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed of belofte als volgt:</al>
+    <al>«Ik swar/ûnthjit dat ik myn wurk as beëdige oersetter earlik, sekuer en ûnpartidich útfiere sil en my by it útoefenjen fan myn wurk as oersetter hâlde en drage sil sa’t dat in beëdige oersetter foeget».</al>
+    <al>«Ik swar/ûnthjit dat ik geheimhâlding betrachtsje sil oangeande fertroulike ynformaasje dêr’t ik troch myn wurk kunde oan krij».</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=III&amp;artikel=14&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel14/Lid3" label-id="9226834L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Na het afleggen van de eed of belofte deponeert de beëdigde vertaler zijn handtekening ter griffie van de rechtbank, bedoeld in <intref verwijzing-id="2171560" doc="jci1.3:c:BWBR0022704&amp;hoofdstuk=III&amp;artikel=12&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0022704" label-id="9226814" bwb-ng-variabel-deel="/HoofdstukIII/Artikel12">artikel 12, eerste lid of tweede lid</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=III&amp;artikel=14&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel14/Lid4" label-id="9226834L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Na het afleggen van de eed of belofte en het neerleggen van de handtekening wordt aan de beëdigde vertaler een akte van beëdiging uitgereikt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=III&amp;artikel=14&amp;lid=4&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-382"><publicatiejaar>2013</publicatiejaar><publicatienr>382</publicatienr><uitgiftedatum isodatum="2013-10-17">17-10-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-10-02">02-10-2013</ondertekeningsdatum><dossierref dossier="33335">33335</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-515"><publicatiejaar>2013</publicatiejaar><publicatienr>515</publicatienr><uitgiftedatum isodatum="2013-12-12">12-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-03">03-12-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2014-01-01">01-01-2014</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=14&amp;g=2018-07-28" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=III&amp;artikel=14&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=14"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIII/Artikel15" stam-id="9248383" versie-id="14830812" id="C21825311" label-id="9226844" inwerking="2009-01-01" label="Artikel 15" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel15/Lid1" label-id="9226844L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Na overlegging van de akte van beëdiging ontvangt de betrokkene een legitimatiebewijs.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=III&amp;artikel=15&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel15/Lid2" label-id="9226844L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister stelt regels ten aanzien van het legitimatiebewijs.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=III&amp;artikel=15&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=15&amp;g=2018-07-28" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=III&amp;artikel=15&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=15"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;hoofdstuk=III&amp;g=2018-07-28" onderdeel="hoofdstuk=III" korte-verwijzing="1.0:c:BWBR0022704&amp;hoofdstuk=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=III&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="hoofdstuk=III" korte-verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=III"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukIV" stam-id="9248523" versie-id="14830952" id="C21825451" label-id="9226984" inwerking="2009-01-01" label="Hoofdstuk IV" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">IV</nr>
+    <titel status="officieel">Klachtbehandeling</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel16" stam-id="9248403" versie-id="14830832" id="C21825331" label-id="9226864" inwerking="2009-01-01" label="Artikel 16" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">16</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel16/Lid1" label-id="9226864L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Eenieder kan een klacht indienen bij Onze Minister inzake de wijze waarop een beëdigde tolk of vertaler zich in een bepaalde aangelegenheid jegens hem of een ander heeft gedragen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=16&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel16/Lid2" label-id="9226864L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister stelt een klachtencommissie in ter behandeling van en de advisering over klachten ten aanzien van beëdigde tolken en vertalers.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=16&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel16/Lid3" label-id="9226864L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het klaagschrift wordt ondertekend en bevat ten minste:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Artikel16/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de naam en het adres van de indiener;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=16&amp;lid=3&amp;o=a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Artikel16/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de dagtekening;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=16&amp;lid=3&amp;o=b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Artikel16/Lid3/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>een omschrijving van de gedraging waartegen de klacht gericht is;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=16&amp;lid=3&amp;o=c&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Artikel16/Lid3/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de naam van de beëdigde tolk of vertaler op wiens gedraging de klacht betrekking heeft.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=16&amp;lid=3&amp;o=d&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=16&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel16/Lid4" label-id="9226864L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de samenstelling en de werkwijze van de klachtencommissie, waaronder in elk geval regels betreffende de onafhankelijkheid van de klachtencommissie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=16&amp;lid=4&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=16&amp;g=2018-07-28" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=16&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=16"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel17" stam-id="9248413" versie-id="14830842" id="C21825341" label-id="9226874" inwerking="2009-01-01" label="Artikel 17" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">17</nr>
+  </kop>
+  <al>Indien de beëdigde tolk of vertaler naar tevredenheid van de klager aan diens klacht tegemoet is gekomen, ziet Onze Minister af van verdere behandeling van de klacht.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=17&amp;g=2018-07-28" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=17&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=17"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel18" stam-id="9248423" versie-id="14830852" id="C21825351" label-id="9226884" inwerking="2009-01-01" label="Artikel 18" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">18</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel18/Lid1" label-id="9226884L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister bevestigt de ontvangst van het klaagschrift schriftelijk.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=18&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel18/Lid2" label-id="9226884L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Bij het bericht van ontvangst wordt vermeld dat, indien de klacht wordt behandeld, de klachtencommissie daarover zal adviseren.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=18&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel18/Lid3" label-id="9226884L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het horen geschiedt door de in <intref verwijzing-id="2171551" doc="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=16&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0022704" label-id="9226864" bwb-ng-variabel-deel="/HoofdstukIV/Artikel16">artikel 16</intref> bedoelde klachtencommissie. De klachtencommissie kan het horen opdragen aan de voorzitter of een lid van de commissie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=18&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=18&amp;g=2018-07-28" onderdeel="artikel=18" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=18"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=18&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=18" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=18"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel19" stam-id="9248433" versie-id="14830862" id="C21825361" label-id="9226894" inwerking="2009-01-01" label="Artikel 19" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">19</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel19/Lid1" label-id="9226894L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister is niet verplicht de klacht te behandelen indien zij betrekking heeft op een gedraging:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Artikel19/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>waarover reeds eerder een klacht is ingediend die met inachtneming van de <intref verwijzing-id="2171550" doc="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=16&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0022704" label-id="9226864" bwb-ng-variabel-deel="/HoofdstukIV/Artikel16">artikelen 16</intref> en volgende is behandeld;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=19&amp;lid=1&amp;o=a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Artikel19/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>die langer dan een jaar voor indiening van de klacht heeft plaatsgevonden;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=19&amp;lid=1&amp;o=b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukIV/Artikel19/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>zolang ter zake daarvan een opsporingsonderzoek op bevel van de officier van justitie of een vervolging gaande is, dan wel indien de gedraging deel uitmaakt van de opsporing of vervolging van een strafbaar feit en terzake van dat feit een opsporingsonderzoek op bevel van de officier van justitie of een vervolging gaande is.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=19&amp;lid=1&amp;o=c&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=19&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel19/Lid2" label-id="9226894L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister is niet verplicht een klacht te behandelen indien het belang van de klager dan wel het gewicht van de gedraging kennelijk onvoldoende is.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=19&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel19/Lid3" label-id="9226894L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Van het niet in behandeling nemen van de klacht wordt de klager zo spoedig mogelijk doch uiterlijk binnen vier weken na ontvangst van het klaagschrift schriftelijk in kennis gesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=19&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=19&amp;g=2018-07-28" onderdeel="artikel=19" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=19"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=19&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=19" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=19"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel20" stam-id="9248443" versie-id="14830872" id="C21825371" label-id="9226904" inwerking="2009-01-01" label="Artikel 20" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">20</nr>
+  </kop>
+  <al>Aan degene op wiens gedraging een klacht betrekking heeft, wordt een afschrift van het klaagschrift alsmede van de daarbij meegezonden stukken gezonden.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=20&amp;g=2018-07-28" onderdeel="artikel=20" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=20"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=20&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=20" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=20"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel21" stam-id="9248453" versie-id="14830882" id="C21825381" label-id="9226914" inwerking="2009-01-01" label="Artikel 21" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">21</nr>
+  </kop>
+  <al>Indien de klacht gericht is op het handelen van een lid van de klachtencommissie, wordt dit lid vervangen door een door de voorzitter aan te wijzen ander lid.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=21&amp;g=2018-07-28" onderdeel="artikel=21" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=21"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=21&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=21" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=21"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel22" stam-id="9248463" versie-id="14830892" id="C21825391" label-id="9226924" inwerking="2009-01-01" label="Artikel 22" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">22</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel22/Lid1" label-id="9226924L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De klachtencommissie stelt de klager en degene op wiens gedraging de klacht betrekking heeft, in de gelegenheid te worden gehoord.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=22&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel22/Lid2" label-id="9226924L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Van het horen van de klager kan worden afgezien indien de klacht kennelijk ongegrond is dan wel indien de klager heeft verklaard geen gebruik te willen maken van het recht te worden gehoord.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=22&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel22/Lid3" label-id="9226924L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Van het horen wordt een verslag gemaakt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=22&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=22&amp;g=2018-07-28" onderdeel="artikel=22" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=22"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=22&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=22" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=22"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel23" stam-id="9248473" versie-id="14830902" id="C21825401" label-id="9226934" inwerking="2009-01-01" label="Artikel 23" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">23</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel23/Lid1" label-id="9226934L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De klachtencommissie behandelt de klacht binnen zes weken na ontvangst van het klaagschrift.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=23&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel23/Lid2" label-id="9226934L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De klachtencommissie kan de behandeling voor ten hoogste vier weken verdagen. Van de verdaging wordt schriftelijk mededeling gedaan aan de klager en aan degene op wiens gedraging de klacht betrekking heeft.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=23&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=23&amp;g=2018-07-28" onderdeel="artikel=23" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=23"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=23&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=23" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=23"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel24" stam-id="9248483" versie-id="14830912" id="C21825411" label-id="9226944" inwerking="2009-01-01" label="Artikel 24" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">24</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel24/Lid1" label-id="9226944L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De klachtencommissie zendt een rapport van bevindingen, vergezeld van een advies en eventuele aanbevelingen aan Onze Minister. Het rapport bevat een verslag van het horen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=24&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel24/Lid2" label-id="9226944L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De klachtencommissie kan bij het advies tot het gegrond verklaren van een klacht de aanbeveling doen aan Onze Minister dat een beëdigde tolk of vertaler gezien zijn gedraging in aanmerking komt voor een tijdelijke doorhaling dan wel doorhaling in het register.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=24&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=24&amp;g=2018-07-28" onderdeel="artikel=24" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=24"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=24&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=24" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=24"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel25" stam-id="9248493" versie-id="14830922" id="C21825421" label-id="9226954" inwerking="2009-01-01" label="Artikel 25" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">25</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel25/Lid1" label-id="9226954L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister handelt de klacht af binnen tien weken na ontvangst van het klaagschrift.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=25&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel25/Lid2" label-id="9226954L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister kan de behandeling van het klaagschrift voor ten hoogste vier weken verdagen. Van de verdaging wordt schriftelijk mededeling gedaan aan de klager en degene op wiens gedraging de klacht betrekking heeft.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=25&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel25/Lid3" label-id="9226954L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Onze Minister stelt de klager en degene op wie de klacht betrekking heeft schriftelijk en gemotiveerd in kennis van de bevindingen van het onderzoek naar de klacht alsmede van de conclusie die hij hieraan verbindt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=25&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel25/Lid4" label-id="9226954L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Indien de conclusie van Onze Minister afwijkt van het advies, wordt in de conclusie de reden voor die afwijking vermeld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=25&amp;lid=4&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=25&amp;g=2018-07-28" onderdeel="artikel=25" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=25"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=25&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=25" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=25"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel26" stam-id="9248503" versie-id="14830932" id="C21825431" label-id="9226964" inwerking="2009-01-01" label="Artikel 26" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">26</nr>
+  </kop>
+  <al>Onze Minister draagt zorg voor de registratie van de bij hem ingediende klachten. De geregistreerde klachten worden jaarlijks gepubliceerd.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=26&amp;g=2018-07-28" onderdeel="artikel=26" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=26"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=26&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=26" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=26"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel27" stam-id="9248513" versie-id="14830942" id="C21825441" label-id="9226974" inwerking="2009-01-01" label="Artikel 27" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">27</nr>
+  </kop>
+  <al>Tegen een besluit inzake de behandeling van een klacht als bedoeld in <intref verwijzing-id="2171552" doc="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=16&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0022704" label-id="9226864" bwb-ng-variabel-deel="/HoofdstukIV/Artikel16">artikel 16, eerste lid</intref>, kan geen beroep worden ingesteld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=27&amp;g=2018-07-28" onderdeel="artikel=27" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=27"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;artikel=27&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=27" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=27"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;hoofdstuk=IV&amp;g=2018-07-28" onderdeel="hoofdstuk=IV" korte-verwijzing="1.0:c:BWBR0022704&amp;hoofdstuk=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="hoofdstuk=IV" korte-verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=IV"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukV" stam-id="9248543" versie-id="14830972" id="C21825471" label-id="9227004" inwerking="2009-01-01" label="Hoofdstuk V" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">V</nr>
+    <titel status="officieel">Afnameplicht</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukV/Artikel28" stam-id="9248533" versie-id="14830962" id="C21825461" label-id="9226994" inwerking="2009-01-01" label="Artikel 28" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">28</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel28/Lid1" label-id="9226994L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De volgende diensten en instanties maken in het kader van het strafrecht en het vreemdelingenrecht uitsluitend gebruik van beëdigde tolken of vertalers:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/HoofdstukV/Artikel28/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de Afdeling bestuursrechtspraak van de Raad van State;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=V&amp;artikel=28&amp;lid=1&amp;o=a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukV/Artikel28/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de tot de rechterlijke macht behorende gerechten;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=V&amp;artikel=28&amp;lid=1&amp;o=b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukV/Artikel28/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>het Openbaar Ministerie;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=V&amp;artikel=28&amp;lid=1&amp;o=c&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukV/Artikel28/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de Immigratie- en Naturalisatiedienst;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=V&amp;artikel=28&amp;lid=1&amp;o=d&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukV/Artikel28/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>de politie;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=V&amp;artikel=28&amp;lid=1&amp;o=e&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/HoofdstukV/Artikel28/Lid1/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>de Koninklijke Marechaussee.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=V&amp;artikel=28&amp;lid=1&amp;o=f&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=f"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=V&amp;artikel=28&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel28/Lid2" label-id="9226994L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister kan bij ministeriële regeling instanties en organen aanwijzen die in het kader van het strafrecht en het vreemdelingenrecht ook gehouden zijn gebruik te maken van beëdigde tolken en vertalers.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=V&amp;artikel=28&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel28/Lid3" label-id="9226994L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>In afwijking van het eerste en tweede lid kan gebruik worden gemaakt van een tolk die geen beëdigde tolk is of van een vertaler die geen beëdigde vertaler is indien wegens de vereiste spoed een ingeschrevene in het register niet tijdig beschikbaar is of indien het register voor de desbetreffende bron- of doeltaal dan wel bron- of doeltalen geen ingeschrevene bevat.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=V&amp;artikel=28&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel28/Lid4" label-id="9226994L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Indien van het eerste of tweede lid wordt afgeweken wordt dit met redenen omkleed schriftelijk vastgelegd. Ingeval geen sprake is van spoedeisende inzet van een tolk of vertaler, dient deze voorafgaand aan zijn inzet een recente verklaring omtrent het gedrag dan wel een integriteitsverklaring over te leggen. Indien het vanwege de spoedeisendheid niet mogelijk is voorafgaand aan de inzet een verklaring omtrent het gedrag over te leggen geschiedt dit na de inzet. De <intref verwijzing-id="2171548" doc="jci1.3:c:BWBR0022704&amp;hoofdstuk=VI&amp;artikel=29&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0022704" label-id="9227014" bwb-ng-variabel-deel="/HoofdstukVI/Artikel29">artikelen 29</intref> en <intref verwijzing-id="2171549" doc="jci1.3:c:BWBR0022704&amp;hoofdstuk=VII&amp;artikel=32&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0022704" label-id="9227054" bwb-ng-variabel-deel="/HoofdstukVII/Artikel32">32</intref> zijn van overeenkomstige toepassing op een tolk of vertaler als bedoeld in het derde lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=V&amp;artikel=28&amp;lid=4&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=28&amp;g=2018-07-28" onderdeel="artikel=28" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=28"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=V&amp;artikel=28&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=28" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=28"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;hoofdstuk=V&amp;g=2018-07-28" onderdeel="hoofdstuk=V" korte-verwijzing="1.0:c:BWBR0022704&amp;hoofdstuk=V"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=V&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="hoofdstuk=V" korte-verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=V"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukVI" stam-id="9248583" versie-id="14831012" id="C21825511" label-id="9227044" inwerking="2009-01-01" label="Hoofdstuk VI" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">VI</nr>
+    <titel status="officieel">Beëdigde tolken</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukVI/Artikel29" stam-id="9248553" versie-id="14830982" id="C21825481" label-id="9227014" inwerking="2009-01-01" label="Artikel 29" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">29</nr>
+  </kop>
+  <al>De beëdigde tolk is verplicht tot geheimhouding van de gegevens waarover hij bij de uitoefening van zijn werkzaamheden de beschikking krijgt en waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, behoudens voorzover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn werkzaamheden de noodzaak tot mededeling voortvloeit.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=29&amp;g=2018-07-28" onderdeel="artikel=29" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=29"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VI&amp;artikel=29&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=29" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=29"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVI/Artikel30" stam-id="9248563" versie-id="14830992" id="C21825491" label-id="9227024" inwerking="2009-01-01" label="Artikel 30" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">30</nr>
+  </kop>
+  <al>Bij het verrichten van zijn werkzaamheden is de beëdigde tolk verplicht het legitimatiebewijs, bedoeld in <intref verwijzing-id="2171559" doc="jci1.3:c:BWBR0022704&amp;hoofdstuk=III&amp;artikel=15&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0022704" label-id="9226844" bwb-ng-variabel-deel="/HoofdstukIII/Artikel15">artikel 15</intref>, op verzoek te tonen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=30&amp;g=2018-07-28" onderdeel="artikel=30" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=30"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VI&amp;artikel=30&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=30" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=30"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVI/Artikel31" stam-id="9248573" versie-id="14831002" id="C21825501" label-id="9227034" inwerking="2009-01-01" label="Artikel 31" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">31</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukVI/Artikel31/Lid1" label-id="9227034L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een dienst of instantie als bedoeld in <intref verwijzing-id="2171554" doc="jci1.3:c:BWBR0022704&amp;hoofdstuk=V&amp;artikel=28&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0022704" label-id="9226994" bwb-ng-variabel-deel="/HoofdstukV/Artikel28">artikel 28, eerste en tweede lid</intref>, kan indien de bijzondere aard van de werkzaamheden dit vereist van een beëdigde tolk verlangen dat deze voorafgaande aan zijn inzet een recente verklaring omtrent het gedrag overlegt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VI&amp;artikel=31&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVI/Artikel31/Lid2" label-id="9227034L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De kosten die samenhangen met de aanvraag van de verklaring omtrent het gedrag komen voor rekening van de verzoekende dienst of instantie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VI&amp;artikel=31&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=31&amp;g=2018-07-28" onderdeel="artikel=31" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=31"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VI&amp;artikel=31&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=31" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=31"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;hoofdstuk=VI&amp;g=2018-07-28" onderdeel="hoofdstuk=VI" korte-verwijzing="1.0:c:BWBR0022704&amp;hoofdstuk=VI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VI&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="hoofdstuk=VI" korte-verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VI"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukVII" stam-id="9248643" versie-id="14831072" id="C21825571" label-id="9227104" inwerking="2009-01-01" label="Hoofdstuk VII" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">VII</nr>
+    <titel status="officieel">Beëdigde vertalers</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukVII/Artikel32" stam-id="9248593" versie-id="14831022" id="C21825521" label-id="9227054" inwerking="2009-01-01" label="Artikel 32" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">32</nr>
+  </kop>
+  <al>De beëdigde vertaler is verplicht tot geheimhouding van de gegevens waarover hij bij de uitoefening van zijn werkzaamheden de beschikking krijgt en waarvan hij het vertrouwelijk karakter kent of redelijkerwijs moet vermoeden, behoudens voorzover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn werkzaamheden de noodzaak tot mededeling voortvloeit.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=32&amp;g=2018-07-28" onderdeel="artikel=32" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=32"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VII&amp;artikel=32&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=32" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=32"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVII/Artikel33" stam-id="9248603" versie-id="14831032" id="C21825531" label-id="9227064" inwerking="2009-01-01" label="Artikel 33" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">33</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukVII/Artikel33/Lid1" label-id="9227064L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een dienst of instantie als bedoeld in <intref verwijzing-id="2171553" doc="jci1.3:c:BWBR0022704&amp;hoofdstuk=V&amp;artikel=28&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0022704" label-id="9226994" bwb-ng-variabel-deel="/HoofdstukV/Artikel28">artikel 28, eerste en tweede lid</intref>, kan indien de bijzondere aard van de werkzaamheden dit vereist, van een beëdigde vertaler verlangen dat deze voorafgaand aan zijn inzet een recente verklaring omtrent het gedrag overlegt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VII&amp;artikel=33&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVII/Artikel33/Lid2" label-id="9227064L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De kosten die samenhangen met de aanvraag van de verklaring omtrent het gedrag komen voor rekening van de verzoekende dienst of instantie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VII&amp;artikel=33&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=33&amp;g=2018-07-28" onderdeel="artikel=33" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=33"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VII&amp;artikel=33&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=33" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=33"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVII/Artikel34" stam-id="9248613" versie-id="14831042" id="C21825541" label-id="9227074" inwerking="2009-01-01" label="Artikel 34" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">34</nr>
+  </kop>
+  <al>Onze Minister kan regels stellen waaraan de wijze van vertalen en de administratie van de beëdigde vertaler dienen te voldoen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=34&amp;g=2018-07-28" onderdeel="artikel=34" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=34"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VII&amp;artikel=34&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=34" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=34"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVII/Artikel35" code="b1-35" stam-id="9248623" versie-id="20811422" id="C30111151" label-id="9227084" inwerking="2014-01-01" label="Artikel 35" bron="Stb.2013-382" effect="wijziging" ondertekening_bron="2013-10-02" publicatie_bron="2013-10-17" publicatie_iwt="2013-12-12" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">35</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukVII/Artikel35/Lid1" label-id="9227084L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien stukken of opgaven die krachtens wettelijk voorschrift in openbare registers moeten worden ingeschreven, in een vreemde taal zijn gesteld, wordt van deze stukken een getrouwe vertaling in het Nederlands bijgevoegd, vervaardigd en voor overeenstemmend verklaard door een voor die brontaal beëdigde vertaler.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VII&amp;artikel=35&amp;lid=1&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVII/Artikel35/Lid2" label-id="9227084L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De vertalingen worden ingeschreven in plaats van de in de vreemde taal gestelde stukken of opgaven die aan het register blijven gehecht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VII&amp;artikel=35&amp;lid=2&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukVII/Artikel35/Lid3" label-id="9227084L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Bij de wet kan worden bepaald dat het eerste en tweede lid niet van toepassing zijn.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VII&amp;artikel=35&amp;lid=3&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-382"><publicatiejaar>2013</publicatiejaar><publicatienr>382</publicatienr><uitgiftedatum isodatum="2013-10-17">17-10-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-10-02">02-10-2013</ondertekeningsdatum><dossierref dossier="33335">33335</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-515"><publicatiejaar>2013</publicatiejaar><publicatienr>515</publicatienr><uitgiftedatum isodatum="2013-12-12">12-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-12-03">03-12-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2014-01-01">01-01-2014</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=35&amp;g=2018-07-28" onderdeel="artikel=35" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=35"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VII&amp;artikel=35&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=35" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=35"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVII/Artikel36" stam-id="9248633" versie-id="14831062" id="C21825561" label-id="9227094" inwerking="2009-01-01" label="Artikel 36" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">36</nr>
+  </kop>
+  <al>Ingeval een beëdigde vertaler werkzaamheden verricht bij een dienst of een instantie als bedoeld in <intref verwijzing-id="2171545" doc="jci1.3:c:BWBR0022704&amp;hoofdstuk=V&amp;artikel=28&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0022704" label-id="9226994" bwb-ng-variabel-deel="/HoofdstukV/Artikel28">artikel 28, eerste of tweede lid</intref>, is hij verplicht het door Onze Minister afgegeven legitimatiebewijs, bedoeld in <intref verwijzing-id="2171546" doc="jci1.3:c:BWBR0022704&amp;hoofdstuk=III&amp;artikel=15&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0022704" label-id="9226844" bwb-ng-variabel-deel="/HoofdstukIII/Artikel15">artikel 15</intref>, op verzoek te tonen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=36&amp;g=2018-07-28" onderdeel="artikel=36" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=36"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VII&amp;artikel=36&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=36" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=36"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;hoofdstuk=VII&amp;g=2018-07-28" onderdeel="hoofdstuk=VII" korte-verwijzing="1.0:c:BWBR0022704&amp;hoofdstuk=VII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VII&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="hoofdstuk=VII" korte-verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VII"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukVIII" stam-id="9248763" versie-id="14831192" id="C20307301" label-id="9227224" inwerking="2007-12-05" label="Hoofdstuk VIII" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2007-12-04" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">VIII</nr>
+    <titel status="officieel">Overgangs- en slotbepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukVIII/Artikel37" code="b1-37" stam-id="9248653" versie-id="14831082" id="C21825581" label-id="9227114" inwerking="2009-01-01" label="Artikel 37" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">37</nr>
+  </kop>
+  <al>De <intref verwijzing-id="2171561" doc="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=3&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0022704" label-id="9226694" bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel3">artikelen 3</intref> en <intref verwijzing-id="2171562" doc="jci1.3:c:BWBR0022704&amp;hoofdstuk=II&amp;paragraaf=2&amp;artikel=5&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0022704" label-id="9226714" bwb-ng-variabel-deel="/HoofdstukII/Paragraaf2/Artikel5">5, onderdeel a</intref>, zijn gedurende een periode van twee jaar na inwerkingtreding van deze wet niet van toepassing op de inschrijving in het register van degenen die op het moment van inwerkingtreding van deze wet:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/HoofdstukVIII/Artikel37/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>werkzaam zijn als beëdigde vertaler in de zin van de <extref doc="jci1.3:c:BWBR0001849" verwijzing-id="2171542" bwb-id="BWBR0001849" label-id="1795474">wet van 6 mei 1878, houdende bepalingen omtrent de beëdigde vertalers</extref>; of</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VIII&amp;artikel=37&amp;o=a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukVIII/Artikel37/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>definitief zijn ingeschreven in het landelijk kwaliteitsregister tolken en vertalers, bedoeld in de <extref doc="jci1.3:c:BWBR0015070" verwijzing-id="2171543" bwb-id="BWBR0015070" label-id="4662474">Tijdelijke regeling van 13 mei 2003 houdende machtiging van de Raad voor rechtsbijstand te ’s-Hertogenbosch tot het beheer van het landelijk kwaliteitsregister tolken en vertalers</extref> (Stcrt. 2003, 94).</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VIII&amp;artikel=37&amp;o=b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="o=b"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=37&amp;g=2018-07-28" onderdeel="artikel=37" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=37"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VIII&amp;artikel=37&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=37" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=37"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVIII/Artikel38" code="b1-38" stam-id="9248663" versie-id="14831092" id="C21825591" label-id="9227124" inwerking="2009-01-01" label="Artikel 38" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">38</nr>
+  </kop>
+  <al>De <extref doc="jci1.3:c:BWBR0001849" verwijzing-id="2171544" bwb-id="BWBR0001849" label-id="1795474">wet van 6 mei 1878, houdende bepalingen omtrent de beëedigde vertalers</extref> wordt ingetrokken.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=38&amp;g=2018-07-28" onderdeel="artikel=38" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=38"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VIII&amp;artikel=38&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=38" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=38"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVIII/Artikel39" stam-id="9248673" versie-id="14831102" id="C21825601" label-id="9227134" inwerking="2009-01-01" label="Artikel 39" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">39</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Registratiewet 1970.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=39&amp;g=2018-07-28" onderdeel="artikel=39" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=39"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VIII&amp;artikel=39&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=39" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=39"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVIII/Artikel40" stam-id="9248683" versie-id="14831112" id="C21825611" label-id="9227144" inwerking="2009-01-01" label="Artikel 40" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">40</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet gebruik Friese taal in het rechtsverkeer.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=40&amp;g=2018-07-28" onderdeel="artikel=40" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=40"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VIII&amp;artikel=40&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=40" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=40"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVIII/Artikel41" code="b1-41" stam-id="9248693" versie-id="14831122" id="C21825621" label-id="9227154" inwerking="2009-01-01" label="Artikel 41" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2008-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">41</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt het Wetboek van Strafvordering.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-555"><publicatiejaar>2008</publicatiejaar><publicatienr>555</publicatienr><uitgiftedatum isodatum="2008-12-22">22-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-11">11-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=41&amp;g=2018-07-28" onderdeel="artikel=41" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=41"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VIII&amp;artikel=41&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=41" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=41"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVIII/Artikel41a" stam-id="9248703" versie-id="14831132" id="C27052311" label-id="9227164" inwerking="2007-12-05" label="Artikel 41a" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2007-12-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">41a</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Advocatenwet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-471"><publicatiejaar>2007</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2007-12-04">04-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-26">26-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-12-05">05-12-2007</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2006-07-01">01-07-2006</terugwerkend.datum></inwerkingtreding><opmerkingen-inhoud><al>De terugwerkende kracht was reeds bepaald in Stb. 2007/375.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=41a&amp;g=2018-07-28" onderdeel="artikel=41a" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=41a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VIII&amp;artikel=41a&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=41a" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=41a"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVIII/Artikel41b" stam-id="9248713" versie-id="14831142" id="C27052321" label-id="9227174" inwerking="2007-12-05" label="Artikel 41b" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2007-12-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">41b</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Advocatenwet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-471"><publicatiejaar>2007</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2007-12-04">04-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-26">26-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-12-05">05-12-2007</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2006-07-01">01-07-2006</terugwerkend.datum></inwerkingtreding><opmerkingen-inhoud><al>De terugwerkende kracht was reeds bepaald in Stb. 2007/375.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=41b&amp;g=2018-07-28" onderdeel="artikel=41b" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=41b"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VIII&amp;artikel=41b&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=41b" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=41b"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVIII/Artikel41c" stam-id="9248723" versie-id="14831152" id="C27052331" label-id="9227184" inwerking="2007-12-05" label="Artikel 41c" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2007-12-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">41c</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Advocatenwet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-471"><publicatiejaar>2007</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2007-12-04">04-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-26">26-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-12-05">05-12-2007</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2006-07-01">01-07-2006</terugwerkend.datum></inwerkingtreding><opmerkingen-inhoud><al>De terugwerkende kracht was reeds bepaald in Stb. 2007/375.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=41c&amp;g=2018-07-28" onderdeel="artikel=41c" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=41c"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VIII&amp;artikel=41c&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=41c" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=41c"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVIII/Artikel41d" stam-id="9248733" versie-id="14831162" id="C20307341" label-id="9227194" inwerking="2007-12-05" label="Artikel 41d" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2007-12-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">41d</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Advocatenwet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-471"><publicatiejaar>2007</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2007-12-04">04-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-26">26-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-12-05">05-12-2007</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=41d&amp;g=2018-07-28" onderdeel="artikel=41d" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=41d"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VIII&amp;artikel=41d&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=41d" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=41d"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVIII/Artikel42" stam-id="9248743" versie-id="14831172" id="C21825631" label-id="9227204" inwerking="2007-12-05" label="Artikel 42" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2007-12-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">42</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet beëdigde tolken en vertalers.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-471"><publicatiejaar>2007</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2007-12-04">04-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-26">26-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-12-05">05-12-2007</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=42&amp;g=2018-07-28" onderdeel="artikel=42" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=42"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VIII&amp;artikel=42&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=42" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=42"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukVIII/Artikel43" stam-id="9248753" versie-id="14831182" id="C21825641" label-id="9227214" inwerking="2007-12-05" label="Artikel 43" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2007-12-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">43</nr>
+  </kop>
+  <al>De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en werken wat betreft de <intref verwijzing-id="2171558" doc="jci1.3:c:BWBR0022704&amp;hoofdstuk=VIII&amp;artikel=41a&amp;z=2018-07-28&amp;g=2018-07-28" bwb-id="BWBR0022704" label-id="9227164,9227174,9227184" bwb-ng-variabel-deel="/HoofdstukVIII/Artikel41a">artikelen 41a tot en met 41c</intref> terug tot en met 1 juli 2006.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-471"><publicatiejaar>2007</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2007-12-04">04-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-26">26-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-12-05">05-12-2007</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;artikel=43&amp;g=2018-07-28" onderdeel="artikel=43" korte-verwijzing="1.0:c:BWBR0022704&amp;artikel=43"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VIII&amp;artikel=43&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="artikel=43" korte-verwijzing="jci1.3:c:BWBR0022704&amp;artikel=43"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-471"><publicatiejaar>2007</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2007-12-04">04-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-26">26-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-12-05">05-12-2007</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;hoofdstuk=VIII&amp;g=2018-07-28" onderdeel="hoofdstuk=VIII" korte-verwijzing="1.0:c:BWBR0022704&amp;hoofdstuk=VIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VIII&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="hoofdstuk=VIII" korte-verwijzing="jci1.3:c:BWBR0022704&amp;hoofdstuk=VIII"/></jcis></meta-data></hoofdstuk>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="9248773" versie-id="14831202" id="C20310221" label-id="9227234" inwerking="2007-12-05" bron="Stb.2007-375" effect="nieuwe-regeling" ondertekening_bron="2007-10-11" publicatie_bron="2007-10-23" publicatie_iwt="2007-12-04" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="11 oktober 2007">11 oktober 2007</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Justitie</functie>, <naam><voornaam>E. M. H.</voornaam><achternaam>Hirsch Ballin</achternaam></naam></ondertekening>
+  <uitgifte>
+    <datum isodatum="2007-10-23">de <nadruk type="cur">drieëntwintigste</nadruk> oktober 2007</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie</functie>, <naam><voornaam>E. M. H.</voornaam><achternaam>Hirsch Ballin</achternaam></naam></ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-471"><publicatiejaar>2007</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2007-12-04">04-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-26">26-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-12-05">05-12-2007</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-375"><publicatiejaar>2007</publicatiejaar><publicatienr>375</publicatienr><uitgiftedatum isodatum="2007-10-23">23-10-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-10-11">11-10-2007</ondertekeningsdatum><dossierref dossier="29936">29936</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-471"><publicatiejaar>2007</publicatiejaar><publicatienr>471</publicatienr><uitgiftedatum isodatum="2007-12-04">04-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-26">26-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-12-05">05-12-2007</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022704&amp;g=2018-07-28" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0022704"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022704&amp;z=2018-07-28&amp;g=2018-07-28" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0022704"/></jcis></meta-data></wetgeving></toestand>

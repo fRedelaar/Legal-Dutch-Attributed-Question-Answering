@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0002124/1954-01-07/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0002124" inwerkingtreding="1954-01-07"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="461153" versie-id="680332" id="C680331" label-id="448244" inwerkingtredingsdatum="1953-01-07">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="461253" versie-id="680152" id="C680151" label-id="448074" inwerking="1953-01-07" bron="Stb.1953-621" effect="nieuwe-regeling" ondertekening_bron="1953-12-23" status="goed">Wet van 23 december 1953, houdende voorzieningen ten aanzien van enige tijdens de oorlog gehouden registers van de burgerlijke stand<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1953</publicatiejaar><publicatienr>621</publicatienr><ondertekeningsdatum isodatum="1953-12-23">23-12-1953</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1953</publicatiejaar><publicatienr>621</publicatienr><ondertekeningsdatum isodatum="1953-12-23">23-12-1953</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1953-01-07">07-01-1953</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="461273" versie-id="680172" id="C680171" label-id="448094" inwerking="1953-01-07" bron="Stb.1953-621" effect="nieuwe-regeling" ondertekening_bron="1953-12-23">Wet voorzieningen ten aanzien van buitengewone registers van de burgerlijke stand<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1953</publicatiejaar><publicatienr>621</publicatienr><ondertekeningsdatum isodatum="1953-12-23">23-12-1953</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1953</publicatiejaar><publicatienr>621</publicatienr><ondertekeningsdatum isodatum="1953-12-23">23-12-1953</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1953-01-07">07-01-1953</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="461293" versie-id="680192" id="C680191" label-id="448114" inwerking="1953-01-07" bron="Stb.1953-621" effect="nieuwe-regeling" ondertekening_bron="1953-12-23" status="goed">
+  <wij>Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is voorzieningen te treffen ten aanzien van enige tijdens de oorlog gehouden registers van de burgerlijke stand;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1953</publicatiejaar><publicatienr>621</publicatienr><ondertekeningsdatum isodatum="1953-12-23">23-12-1953</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1953</publicatiejaar><publicatienr>621</publicatienr><ondertekeningsdatum isodatum="1953-12-23">23-12-1953</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1953-01-07">07-01-1953</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" code="a-1" stam-id="461313" versie-id="680212" id="C5193851" label-id="448134" inwerking="1954-01-07" label="Artikel 1" bron="Stb.1953-621" effect="nieuwe-regeling" ondertekening_bron="1953-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid1" label-id="448134L1">
+    <lidnr>1</lidnr>
+    <al>Te rekenen van de inwerkingtreding van deze wet is uitsluitend de ambtenaar van de burgerlijke stand te 's-Gravenhage buitengewoon ambtenaar van de burgerlijke stand in de zin van het besluit van 26 Maart 1942, <nadruk type="cur">Stb.</nadruk> C 20. Hij bewaart de buitengewone registers van de burgerlijke stand, bedoeld in <intref verwijzing-id="1624880" doc="jci1.3:c:BWBR0002124&amp;artikel=1&amp;z=1954-01-07&amp;g=1954-01-07" bwb-id="BWBR0002124" label-id="448134" bwb-ng-variabel-deel="/Artikel1">artikel 1</intref> van genoemd besluit, alsmede het buitengewone register van echtscheidingen bedoeld in artikel 3 van het besluit van 28 Maart 1945, <nadruk type="cur">Stb.</nadruk> F 30.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002124&amp;artikel=1&amp;lid=1&amp;z=1954-01-07&amp;g=1954-01-07" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid2" label-id="448134L2">
+    <lidnr>2</lidnr>
+    <al> Op de verrichtingen van de buitengewone ambtenaar van de burgerlijke stand met betrekking tot de buitengewone registers is de wet van 23 April 1879, <nadruk type="cur">Stb.</nadruk> 72, zoals deze is gewijzigd, van toepassing. De rechten krachtens artikel 2 van die wet geheven, komen ten bate van de kas der gemeente 's-Gravenhage.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002124&amp;artikel=1&amp;lid=2&amp;z=1954-01-07&amp;g=1954-01-07" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid3" label-id="448134L3">
+    <lidnr>3</lidnr>
+    <al> Onze Minister van Justitie treft nadere voorzieningen ten aanzien van de dubbelen der buitengewone registers.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002124&amp;artikel=1&amp;lid=3&amp;z=1954-01-07&amp;g=1954-01-07" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1953</publicatiejaar><publicatienr>621</publicatienr><ondertekeningsdatum isodatum="1953-12-23">23-12-1953</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1953</publicatiejaar><publicatienr>621</publicatienr><ondertekeningsdatum isodatum="1953-12-23">23-12-1953</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1954-01-07">07-01-1954</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002124&amp;artikel=1&amp;g=1954-01-07" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0002124&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002124&amp;artikel=1&amp;z=1954-01-07&amp;g=1954-01-07" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0002124&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="a-2" stam-id="461333" versie-id="680232" id="C680231" label-id="448154" inwerking="1954-01-07" label="Artikel 2" bron="Stb.1953-621" effect="nieuwe-regeling" ondertekening_bron="1953-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <al>Akten van geboorte, van gesloten huwelijk en van overlijden worden in de buitengewone registers niet meer opgenomen, tenzij deze gebeurtenissen plaats vonden vóór 1 Juni 1945 en aan de buitengewone ambtenaar van de burgerlijke stand blijkt, dat in een bepaald geval bij de inschrijving belang bestaat.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1953</publicatiejaar><publicatienr>621</publicatienr><ondertekeningsdatum isodatum="1953-12-23">23-12-1953</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1953</publicatiejaar><publicatienr>621</publicatienr><ondertekeningsdatum isodatum="1953-12-23">23-12-1953</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1954-01-07">07-01-1954</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002124&amp;artikel=2&amp;g=1954-01-07" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0002124&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002124&amp;artikel=2&amp;z=1954-01-07&amp;g=1954-01-07" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0002124&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="a-3" stam-id="461353" versie-id="680252" id="C680251" label-id="448174" inwerking="1954-01-07" label="Artikel 3" bron="Stb.1953-621" effect="nieuwe-regeling" ondertekening_bron="1953-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>3</nr>
+  </kop>
+  <al>Het Koninklijk besluit van 28 Maart 1945 (<nadruk type="cur">Stb.</nadruk> F 30) wordt ingetrokken.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1953</publicatiejaar><publicatienr>621</publicatienr><ondertekeningsdatum isodatum="1953-12-23">23-12-1953</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1953</publicatiejaar><publicatienr>621</publicatienr><ondertekeningsdatum isodatum="1953-12-23">23-12-1953</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1954-01-07">07-01-1954</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002124&amp;artikel=3&amp;g=1954-01-07" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0002124&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002124&amp;artikel=3&amp;z=1954-01-07&amp;g=1954-01-07" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0002124&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="a-4" stam-id="461373" versie-id="680272" id="C680271" label-id="448194" inwerking="1954-01-07" label="Artikel 4" bron="Stb.1953-621" effect="nieuwe-regeling" ondertekening_bron="1953-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="448194L1">
+    <lidnr>1</lidnr>
+    <al>De tijdens de bezetting hier te lande door Duitse ambtenaren van de burgerlijke stand gehouden registers worden afgesloten en bewaard door de Nederlandse ambtenaren van de burgerlijke stand in de gemeenten, waar de Duitse ambtenaren waren gevestigd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002124&amp;artikel=4&amp;lid=1&amp;z=1954-01-07&amp;g=1954-01-07" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="448194L2">
+    <lidnr>2</lidnr>
+    <al> De registers worden beschouwd als registers van de burgerlijke stand in de zin van het Burgerlijk Wetboek.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002124&amp;artikel=4&amp;lid=2&amp;z=1954-01-07&amp;g=1954-01-07" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid3" label-id="448194L3">
+    <lidnr>3</lidnr>
+    <al> Indien dubbelen aanwezig zijn zullen deze worden overgebracht naar de griffie van de Arrondissements-Rechtbank, binnen welker gebied de standplaats van de ambtenaar van de burgerlijke stand is gelegen. Ontbrekende dubbelen worden niet vervangen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002124&amp;artikel=4&amp;lid=3&amp;z=1954-01-07&amp;g=1954-01-07" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid4" label-id="448194L4">
+    <lidnr>4</lidnr>
+    <al> Uittreksels uit Duitse akten worden afgegeven in de Nederlandse taal.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002124&amp;artikel=4&amp;lid=4&amp;z=1954-01-07&amp;g=1954-01-07" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1953</publicatiejaar><publicatienr>621</publicatienr><ondertekeningsdatum isodatum="1953-12-23">23-12-1953</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1953</publicatiejaar><publicatienr>621</publicatienr><ondertekeningsdatum isodatum="1953-12-23">23-12-1953</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1954-01-07">07-01-1954</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002124&amp;artikel=4&amp;g=1954-01-07" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0002124&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002124&amp;artikel=4&amp;z=1954-01-07&amp;g=1954-01-07" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0002124&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="a-5" stam-id="461393" versie-id="680292" id="C680291" label-id="448214" inwerking="1954-01-07" label="Artikel 5" bron="Stb.1953-621" effect="nieuwe-regeling" ondertekening_bron="1953-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>5</nr>
+  </kop>
+  <al>Deze wet treedt in werking met ingang van de dag na die van haar afkondiging.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1953</publicatiejaar><publicatienr>621</publicatienr><ondertekeningsdatum isodatum="1953-12-23">23-12-1953</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1953</publicatiejaar><publicatienr>621</publicatienr><ondertekeningsdatum isodatum="1953-12-23">23-12-1953</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1954-01-07">07-01-1954</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002124&amp;artikel=5&amp;g=1954-01-07" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0002124&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002124&amp;artikel=5&amp;z=1954-01-07&amp;g=1954-01-07" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0002124&amp;artikel=5"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="461403" versie-id="680302" id="C680301" label-id="448224" inwerking="1953-01-07" bron="Stb.1953-621" effect="nieuwe-regeling" ondertekening_bron="1953-12-23" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven ten Paleize Soestdijk</plaats>
+      <datum isodatum="">23 December 1953</datum>
+    </dagtekening>
+    <koning>JULIANA.</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Justitie,</functie>
+    <naam>
+      <achternaam>L. A. DONKER.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Binnenlandse Zaken,</functie>
+    <naam>
+      <achternaam>BEEL.</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de zesde Januari 1954.</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>L. A. DONKER.</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1953</publicatiejaar><publicatienr>621</publicatienr><ondertekeningsdatum isodatum="1953-12-23">23-12-1953</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1953</publicatiejaar><publicatienr>621</publicatienr><ondertekeningsdatum isodatum="1953-12-23">23-12-1953</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1953-01-07">07-01-1953</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1953</publicatiejaar><publicatienr>621</publicatienr><ondertekeningsdatum isodatum="1953-12-23">23-12-1953</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1953</publicatiejaar><publicatienr>621</publicatienr><ondertekeningsdatum isodatum="1953-12-23">23-12-1953</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1953-01-07">07-01-1953</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002124&amp;g=1954-01-07" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0002124"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002124&amp;z=1954-01-07&amp;g=1954-01-07" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0002124"/></jcis></meta-data></wetgeving></toestand>

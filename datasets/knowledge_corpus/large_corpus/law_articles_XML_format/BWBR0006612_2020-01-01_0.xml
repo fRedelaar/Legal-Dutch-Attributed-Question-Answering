@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0006612/2020-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0006612" inwerkingtreding="2020-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="377273" versie-id="554302" id="C34097101" label-id="368254" inwerkingtredingsdatum="1994-04-29">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="377323" versie-id="554052" id="C554051" label-id="368044" inwerking="1994-04-29" bron="Stb.1994-295" effect="nieuwe-regeling" ondertekening_bron="1994-04-20" status="goed">Wet van 20 april 1994, houdende bepalingen inzake niet gelijktijdig met het lidmaatschap van de Staten-Generaal of van het Europees Parlement uit te oefenen openbare betrekkingen<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>295</publicatienr><ondertekeningsdatum isodatum="1994-04-20">20-04-1994</ondertekeningsdatum><dossierref dossier="22769">22769</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>296</publicatienr><ondertekeningsdatum isodatum="1994-04-13">13-04-1994</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-04-29">29-04-1994</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="377343" versie-id="554072" id="C554071" label-id="368054" inwerking="1994-04-29" bron="Stb.1994-295" effect="nieuwe-regeling" ondertekening_bron="1994-04-20">Wet Incompatibiliteiten Staten-Generaal en Europees Parlement<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>295</publicatienr><ondertekeningsdatum isodatum="1994-04-20">20-04-1994</ondertekeningsdatum><dossierref dossier="22769">22769</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>296</publicatienr><ondertekeningsdatum isodatum="1994-04-13">13-04-1994</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-04-29">29-04-1994</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="377353" versie-id="554092" id="C554091" label-id="368064" inwerking="1994-04-29" bron="Stb.1994-295" effect="nieuwe-regeling" ondertekening_bron="1994-04-20" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het gelet op <extref doc="jci1.3:c:BWBR0001840&amp;artikel=57" verwijzing-id="105776" bwb-id="BWBR0001840" label-id="2941104">artikel 57, vierde lid, van de Grondwet</extref> (<nadruk type="cur">Stb.</nadruk> 1987, 458) wenselijk is te bepalen welke andere openbare betrekkingen dan de in de <extref doc="jci1.3:c:BWBR0001840" verwijzing-id="105778" bwb-id="BWBR0001840" label-id="2942374">Grondwet</extref> vermelde niet gelijktijdig met het lidmaatschap van de Staten-Generaal kunnen worden uitgeoefend, alsmede ter uitvoering van artikel 6, tweede lid, van de Akte betreffende de rechtstreekse verkiezing van de leden van het Europees Parlement (<nadruk type="cur">Trb.</nadruk> 1976, 175) nadere bepalingen op te nemen over het verenigen van openbare betrekkingen met het lidmaatschap van het Europees Parlement en voorts rechtspositionele voorzieningen te treffen voor gevallen waarin bepaalde openbare betrekkingen niet gelijktijdig met het lidmaatschap van de Staten-Generaal of met dat van het Europees Parlement kunnen worden uitgeoefend;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>295</publicatienr><ondertekeningsdatum isodatum="1994-04-20">20-04-1994</ondertekeningsdatum><dossierref dossier="22769">22769</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>296</publicatienr><ondertekeningsdatum isodatum="1994-04-13">13-04-1994</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-04-29">29-04-1994</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="377363" versie-id="25831532" id="C37409161" label-id="368074" inwerking="2020-01-01" label="Artikel 1" bron="Stb.2019-173" effect="wijziging" ondertekening_bron="2019-04-17" publicatie_bron="2019-05-16" publicatie_iwt="2019-11-06" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid1" label-id="368074L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een lid van de Staten-Generaal kan niet tevens zijn: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>Nationale ombudsman of substituut-ombudsman;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=1&amp;lid=1&amp;o=a&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>plaatsvervangend procureur-generaal bij de Hoge Raad.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=1&amp;lid=1&amp;o=b&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=1&amp;lid=1&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid2" label-id="368074L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> De volgende ambten kunnen niet gelijktijdig worden uitgeoefend met het lidmaatschap van de Staten-Generaal: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel1/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>commissaris van de Koning;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=1&amp;lid=2&amp;o=a&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>militair ambtenaar in werkelijke dienst;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=1&amp;lid=2&amp;o=b&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>ambtenaar bij de Raad van State, de Algemene Rekenkamer of het bureau van de Nationale ombudsman;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=1&amp;lid=2&amp;o=c&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>ambtenaar bij een ministerie, alsmede de daaronder ressorterende instellingen, diensten en bedrijven;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=1&amp;lid=2&amp;o=d&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid2/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>lid van de Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen of de Sociale verzekeringsbank, genoemd in de <extref doc="jci1.3:c:BWBR0013060" label-id="1602674" verwijzing-id="105782" bwb-id="BWBR0013060">Wet structuur uitvoeringsorganisatie werk en inkomen</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=1&amp;lid=2&amp;o=e&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid2/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>lid van de commissie van toezicht, bedoeld in <extref doc="jci1.3:c:BWBR0039896&amp;artikel=97" label-id="14095914" verwijzing-id="2836297" bwb-id="BWBR0039896">artikel 97 van de Wet op de inlichtingen- en veiligheidsdiensten 2017</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=1&amp;lid=2&amp;o=f&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid2/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=1&amp;lid=2&amp;o=g&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=g"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid2/Onderdeelh">
+        <li.nr>h.</li.nr>
+        <al>lid van de afdeling klachtbehandeling van de commissie van toezicht, bedoeld in <extref doc="jci1.3:c:BWBR0039896&amp;artikel=97" label-id="14095914" verwijzing-id="2836298" bwb-id="BWBR0039896">artikel 97, tweede lid, onder b, van de Wet op de inlichtingen- en veiligheidsdiensten 2017</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=1&amp;lid=2&amp;o=h&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=h"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid2/Onderdeeli">
+        <li.nr>i.</li.nr>
+        <al>leden van de toetsingscommissie inzet bevoegdheden, bedoeld in <extref doc="jci1.3:c:BWBR0039896&amp;artikel=32" label-id="14094834" verwijzing-id="2836299" bwb-id="BWBR0039896">artikel 32 van de Wet op de inlichtingen- en veiligheidsdiensten 2017</extref>.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=1&amp;lid=2&amp;o=i&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=i"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=1&amp;lid=2&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid3" label-id="368074L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Onder ambtenaar als bedoeld in het tweede lid, onder d, wordt mede verstaan een ambtenaar van politie als bedoeld in <extref doc="jci1.3:c:BWBR0031788&amp;artikel=2" label-id="11762944" verwijzing-id="2940675" bwb-id="BWBR0031788">artikel 2 van de Politiewet 2012</extref>, een rechterlijk ambtenaar als bedoeld in <extref doc="jci1.3:c:BWBR0001830&amp;artikel=1" label-id="2636424" verwijzing-id="2940676" bwb-id="BWBR0001830">artikel 1, onderdeel b, sub 5° tot en met 7°</extref> en de officier in opleiding, genoemd in artikel 1, onderdeel b, sub 10°, van de Wet op de rechterlijke organisatie, alsmede een burgerlijk ambtenaar als bedoeld in <extref doc="jci1.3:c:BWBR0001952&amp;artikel=1" label-id="1628754" verwijzing-id="2971770" bwb-id="BWBR0001952">artikel 1, eerste lid, onderdeel a, van de Wet ambtenaren defensie</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=1&amp;lid=3&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid4" label-id="368074L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> Een lid van de Staten-Generaal kan niet tevens zijn dienstplichtige in werkelijke dienst of tewerkgestelde erkend gewetensbezwaarde.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=1&amp;lid=4&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-173"><publicatiejaar>2019</publicatiejaar><publicatienr>173</publicatienr><uitgiftedatum isodatum="2019-05-16">16-05-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-04-17">17-04-2019</ondertekeningsdatum><dossierref dossier="35073">35073</dossierref></publicatie><juncto><publicatie soort="Stb" urlidentifier="stb-2019-483"><publicatiejaar>2019</publicatiejaar><publicatienr>483</publicatienr><uitgiftedatum isodatum="2019-12-17">17-12-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-12-11">11-12-2019</ondertekeningsdatum><dossierref dossier="35275">35275</dossierref></publicatie></juncto></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-385"><publicatiejaar>2019</publicatiejaar><publicatienr>385</publicatienr><uitgiftedatum isodatum="2019-11-06">06-11-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-10-24">24-10-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006612&amp;artikel=1&amp;g=2020-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0006612&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=1&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0006612&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" stam-id="377373" versie-id="25835362" id="C37221281" label-id="368084" inwerking="2020-01-01" label="Artikel 2" bron="Stb.2019-173" effect="wijziging" ondertekening_bron="2019-04-17" publicatie_bron="2019-05-16" publicatie_iwt="2019-11-06" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="368084L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een in Nederland gekozen lid van het Europees Parlement kan niet tevens zijn: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>minister;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=2&amp;lid=1&amp;o=a&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>staatssecretaris;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=2&amp;lid=1&amp;o=b&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>lid van de Raad van State;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=2&amp;lid=1&amp;o=c&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>lid van de Algemene Rekenkamer;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=2&amp;lid=1&amp;o=d&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>lid van of procureur-generaal, plaatsvervangend procureur-generaal of advocaat-generaal bij de Hoge Raad;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=2&amp;lid=1&amp;o=e&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>Nationale ombudsman of substituut-ombudsman;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=2&amp;lid=1&amp;o=f&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>lid van de Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen of de Sociale verzekeringsbank, genoemd in de <extref doc="jci1.3:c:BWBR0013060" label-id="1602674" verwijzing-id="105787" bwb-id="BWBR0013060">Wet structuur uitvoeringsorganisatie werk en inkomen</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=2&amp;lid=1&amp;o=g&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=g"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelh">
+        <li.nr>h.</li.nr>
+        <al>lid van de commissie van toezicht, bedoeld in <extref doc="jci1.3:c:BWBR0039896&amp;artikel=97" label-id="14095914" verwijzing-id="2836300" bwb-id="BWBR0039896">artikel 97 van de Wet op de inlichtingen- en veiligheidsdiensten 2017</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=2&amp;lid=1&amp;o=h&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=h"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeeli">
+        <li.nr>i.</li.nr>
+        <al>lid van de afdeling klachtbehandeling van de commissie van toezicht, bedoeld in <extref doc="jci1.3:c:BWBR0039896&amp;artikel=97" label-id="14095914" verwijzing-id="2836301" bwb-id="BWBR0039896">artikel 97, tweede lid, onder b, van de Wet op de inlichtingen- en veiligheidsdiensten 2017</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=2&amp;lid=1&amp;o=i&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=i"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid1/Onderdeelj">
+        <li.nr>j.</li.nr>
+        <al>leden van de toetsingscommissie inzet bevoegdheden, bedoeld in <extref doc="jci1.3:c:BWBR0039896&amp;artikel=32" label-id="14094834" verwijzing-id="2836302" bwb-id="BWBR0039896">artikel 32 van de Wet op de inlichtingen- en veiligheidsdiensten 2017</extref>.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=2&amp;lid=1&amp;o=j&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=j"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=2&amp;lid=1&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="368084L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> De volgende ambten kunnen niet gelijktijdig worden uitgeoefend met het lidmaatschap van het Europees Parlement: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>commissaris van de Koning;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=2&amp;lid=2&amp;o=a&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>militair ambtenaar in werkelijke dienst;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=2&amp;lid=2&amp;o=b&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>ambtenaar bij de Raad van State, de Algemene Rekenkamer of het bureau van de Nationale ombudsman;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=2&amp;lid=2&amp;o=c&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>ambtenaar bij een ministerie, alsmede de daaronder ressorterende instellingen, diensten en bedrijven;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=2&amp;lid=2&amp;o=d&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=2&amp;lid=2&amp;o=e&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=2&amp;lid=2&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid3" label-id="368084L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Onder ambtenaar als bedoeld in het tweede lid, onder d, wordt mede verstaan een ambtenaar van politie als bedoeld in <extref doc="jci1.3:c:BWBR0031788&amp;artikel=2" label-id="11762944" verwijzing-id="2940678" bwb-id="BWBR0031788">artikel 2 van de Politiewet 2012</extref>, een rechterlijk ambtenaar als bedoeld in <extref doc="jci1.3:c:BWBR0001830&amp;artikel=1" label-id="2636424" verwijzing-id="2940679" bwb-id="BWBR0001830">artikel 1, onderdeel b, sub 5° tot en met 7°, en 10°</extref>, voor zover dat betrekking heeft op de officier in opleiding, van de <extref doc="jci1.3:c:BWBR0001830" label-id="2638084" verwijzing-id="2940680" bwb-id="BWBR0001830">Wet op de rechterlijke organisatie</extref>, alsmede een burgerlijk ambtenaar als bedoeld in artikel 1, eerste lid, onderdeel a, van de Wet ambtenaren defensie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=2&amp;lid=3&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid4" label-id="368084L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> Een lid van het Europees Parlement kan niet tevens zijn dienstplichtige in werkelijke dienst of tewerkgestelde erkend gewetensbezwaarde.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=2&amp;lid=4&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-173"><publicatiejaar>2019</publicatiejaar><publicatienr>173</publicatienr><uitgiftedatum isodatum="2019-05-16">16-05-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-04-17">17-04-2019</ondertekeningsdatum><dossierref dossier="35073">35073</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-385"><publicatiejaar>2019</publicatiejaar><publicatienr>385</publicatienr><uitgiftedatum isodatum="2019-11-06">06-11-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-10-24">24-10-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006612&amp;artikel=2&amp;g=2020-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0006612&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=2&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0006612&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="377393" versie-id="25835372" id="C37221301" label-id="368094" inwerking="2020-01-01" label="Artikel 3" bron="Stb.2019-173" effect="wijziging" ondertekening_bron="2019-04-17" publicatie_bron="2019-05-16" publicatie_iwt="2019-11-06" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="368094L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De militair behorende tot het beroepspersoneel van de krijgsmacht die tot het lidmaatschap van de Eerste Kamer der Staten-Generaal is toegelaten, is van rechtswege op non-activiteit gesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=3&amp;lid=1&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="368094L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Degene die een in <intref doc="jci1.3:c:BWBR0006612&amp;artikel=1&amp;z=2020-01-01&amp;g=2020-01-01" label-id="368074" verwijzing-id="1624089" bwb-id="BWBR0006612" bwb-ng-variabel-deel="/Artikel1">artikel 1, tweede en derde lid</intref>, of <intref doc="jci1.3:c:BWBR0006612&amp;artikel=2&amp;z=2020-01-01&amp;g=2020-01-01" label-id="368084" verwijzing-id="1624090" bwb-id="BWBR0006612" bwb-ng-variabel-deel="/Artikel2">artikel 2, tweede en derde lid</intref>, bedoeld ambt bekleedt en tot het lidmaatschap van de Eerste Kamer der Staten-Generaal is toegelaten, is van rechtswege op non-activiteit gesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=3&amp;lid=2&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid3" label-id="368094L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Degene die op non-activiteit is gesteld, is van het ogenblik af dat hij is toegelaten, ontheven van de waarneming van het ambt, zulks, voor zover de ambtsbetrekking niet eerder eindigt, tot op het ogenblik, waarop hij, nadat hij heeft opgehouden lid te zijn, in actieve dienst wordt hersteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=3&amp;lid=3&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid4" label-id="368094L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> Gedurende de non-activiteit wordt het loon of de bezoldiging met inbegrip van toelagen ingehouden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=3&amp;lid=4&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid5" label-id="368094L5">
+    <lidnr status="officieel">5</lidnr>
+    <al> De militair behorende tot het reserve-personeel van de krijgsmacht, de dienstplichtige militair en de tewerkgestelde erkend gewetensbezwaarde is van het ogenblik dat hij tot het lidmaatschap van de Eerste Kamer der Staten-Generaal is toegelaten en voorzolang hij dat lidmaatschap uitoefent, van rechtswege met groot verlof.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=3&amp;lid=5&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid6" label-id="368094L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Degene die een in <intref doc="jci1.3:c:BWBR0006612&amp;artikel=1&amp;z=2020-01-01&amp;g=2020-01-01" label-id="368074" verwijzing-id="2940681" bwb-id="BWBR0006612" bwb-ng-variabel-deel="/Artikel1">artikel 1, derde lid</intref>, bedoeld ambt bekleedt en die tot het lidmaatschap van de Tweede Kamer der Staten-Generaal of het Europees Parlement is toegelaten, wordt in verband daarmee eervol ontslag verleend met ingang van de dag van zijn toelating, dan wel op zijn verzoek met ingang van die dag tijdelijk ontheven van de waarneming van zijn ambt. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=3&amp;lid=6&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid7" label-id="368094L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>De arbeidsovereenkomst van degene die een in <intref doc="jci1.3:c:BWBR0006612&amp;artikel=1&amp;z=2020-01-01&amp;g=2020-01-01" label-id="368074" verwijzing-id="2940682" bwb-id="BWBR0006612" bwb-ng-variabel-deel="/Artikel1">artikel 1, tweede lid</intref>, bedoeld ambt bekleedt en die tot het lidmaatschap van de Tweede Kamer der Staten-Generaal of het Europees Parlement is toegelaten, eindigt in verband daarmee van rechtswege met ingang van de dag van die toelating, tenzij betrokkene voor die dag verzoekt om met ingang van die dag tijdelijk te worden ontheven van de waarneming van zijn ambt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=3&amp;lid=7&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-173"><publicatiejaar>2019</publicatiejaar><publicatienr>173</publicatienr><uitgiftedatum isodatum="2019-05-16">16-05-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-04-17">17-04-2019</ondertekeningsdatum><dossierref dossier="35073">35073</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-385"><publicatiejaar>2019</publicatiejaar><publicatienr>385</publicatienr><uitgiftedatum isodatum="2019-11-06">06-11-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-10-24">24-10-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006612&amp;artikel=3&amp;g=2020-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0006612&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=3&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0006612&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" stam-id="377403" versie-id="25835382" id="C37221311" label-id="368104" inwerking="2020-01-01" label="Artikel 4" bron="Stb.2019-173" effect="wijziging" ondertekening_bron="2019-04-17" publicatie_bron="2019-05-16" publicatie_iwt="2019-11-06" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="368104L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Tijdens de non-activiteit wordt, onverminderd het bepaalde in de volgende artikelen, door de betrokkene een non-activiteitswedde genoten ten bedrage van de helft der laatstelijk door hem in zijn ambt genoten loon of bezoldiging. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=4&amp;lid=1&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="368104L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onder laatstelijk in zijn ambt genoten loon wordt verstaan het loon als bedoeld in <extref doc="jci1.3:c:BWBR0002638&amp;artikel=6" label-id="866484" verwijzing-id="2940683" bwb-id="BWBR0002638">artikel 6, eerste lid, van de Wet minimumloon en minimumvakantiebijslag</extref> en, in afwijking van onderdeel a van dat lid, de vakantiebijslag als bedoeld in <extref doc="jci1.3:c:BWBR0002638&amp;artikel=15" label-id="866594" verwijzing-id="2940684" bwb-id="BWBR0002638">artikel 15, eerste lid, van die wet</extref>. Onder laatstelijk in zijn ambt genoten bezoldiging wordt verstaan de bezoldiging, bedoeld in <extref doc="jci1.3:c:BWBR0031788&amp;artikel=48a" label-id="15020814" verwijzing-id="2940685" bwb-id="BWBR0031788">artikel 48a, eerste lid, van de Politiewet 2012</extref>, in <extref doc="jci1.3:c:BWBR0008365&amp;artikel=1" label-id="195024" verwijzing-id="2940686" bwb-id="BWBR0008365">artikel 1, eerste lid, onderdeel d, van de Wet rechtspositie rechterlijke ambtenaren</extref> of in artikel 10, eerste lid, van de Wet ambtenaren defensie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=4&amp;lid=2&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid3" label-id="368104L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Indien in het laatstgenoten loon of de laatstelijk genoten bezoldiging, als omschreven in het tweede lid, uit anderen hoofde dan wegens het toekennen van een periodieke verhoging van het salaris, wijziging zou zijn gekomen, wanneer de betrokkene op dat loon of die bezoldiging in actieve dienst zou zijn gebleven, geldt vanaf de datum, waarop die wijziging in werking zou zijn getreden, het aldus gewijzigde bedrag als laatstelijk in zijn ambt genoten loon of bezoldiging.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=4&amp;lid=3&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid4" label-id="368104L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Onze betrokken Minister kan, in overeenstemming met Onze betrokken Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor betrekkingen die geleidelijk worden opgegeven, ten aanzien van het bedrag dat door toepassing van deze wet wordt aangenomen als het laatstelijk in het ambt genoten loon of als de laatstelijk in het ambt genoten bezoldiging, het tweede lid van dit artikel buiten toepassing laten of daarvan afwijken, voor zover toepassing gelet op het belang van de regeling tot betaling van de non-activiteitswedde, zal leiden tot een onbillijkheid van overwegende aard.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=4&amp;lid=4&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid5" label-id="368104L5">
+    <lidnr status="officieel">5</lidnr>
+    <al> Over de betaling van de non-activiteitswedde en met betrekking tot de berekening van het in het tweede lid vermelde loon of de in het tweede lid vermelde bezoldiging worden bij algemene maatregel van bestuur regels gesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=4&amp;lid=5&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-173"><publicatiejaar>2019</publicatiejaar><publicatienr>173</publicatienr><uitgiftedatum isodatum="2019-05-16">16-05-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-04-17">17-04-2019</ondertekeningsdatum><dossierref dossier="35073">35073</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-385"><publicatiejaar>2019</publicatiejaar><publicatienr>385</publicatienr><uitgiftedatum isodatum="2019-11-06">06-11-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-10-24">24-10-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006612&amp;artikel=4&amp;g=2020-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0006612&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=4&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0006612&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" stam-id="377413" versie-id="25835392" id="C37221261" label-id="368114" inwerking="2020-01-01" label="Artikel 5" bron="Stb.2019-173" effect="wijziging" ondertekening_bron="2019-04-17" publicatie_bron="2019-05-16" publicatie_iwt="2019-11-06" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid1" label-id="368114L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De inkomsten die betrokkene geniet of gaat genieten uit of in verband met arbeid of bedrijf, ter hand genomen nadat hij op non-activiteit is gesteld, worden met de non-activiteitswedde als volgt verrekend: de non-activiteitswedde wordt verminderd met het bedrag waarmee de non-activiteitswedde, vermeerderd met die inkomsten, het laatstelijk in zijn ambt genoten loon of de laatstelijk in zijn ambt genoten bezoldiging overschrijdt. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=5&amp;lid=1&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid2" label-id="368114L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> In verband met de uitvoering van het eerste lid worden bij algemene maatregel van bestuur regels gesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=5&amp;lid=2&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-173"><publicatiejaar>2019</publicatiejaar><publicatienr>173</publicatienr><uitgiftedatum isodatum="2019-05-16">16-05-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-04-17">17-04-2019</ondertekeningsdatum><dossierref dossier="35073">35073</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-385"><publicatiejaar>2019</publicatiejaar><publicatienr>385</publicatienr><uitgiftedatum isodatum="2019-11-06">06-11-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-10-24">24-10-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006612&amp;artikel=5&amp;g=2020-01-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0006612&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=5&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0006612&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="a-6" stam-id="377423" versie-id="554532" id="C5189701" label-id="368124" inwerking="1998-08-21" label="Artikel 6" bron="Stb.1998-507" effect="wijziging" ondertekening_bron="1998-07-15" publicatie_bron="1998-08-20" publicatie_iwt="1998-08-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+  </kop>
+  <al>Indien de op non-activiteit gestelde uit het ambt een ontslag, dat aanspraak geeft op wachtgeld, wordt verleend, worden voor de toepassing van de desbetreffende bepalingen inkomsten als bedoeld in <intref verwijzing-id="1624092" doc="jci1.3:c:BWBR0006612&amp;artikel=5&amp;z=2020-01-01&amp;g=2020-01-01" bwb-id="BWBR0006612" label-id="368114" bwb-ng-variabel-deel="/Artikel5">artikel 5</intref> beschouwd als inkomsten, genoten uit of in verband met arbeid of bedrijf na het ontslag ter hand genomen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1998-507"><publicatiejaar>1998</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="1998-08-20">20-08-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-07-15">15-07-1998</ondertekeningsdatum><dossierref dossier="24701">24701</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1998-508"><publicatiejaar>1998</publicatiejaar><publicatienr>508</publicatienr><uitgiftedatum isodatum="1998-08-20">20-08-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-07-15">15-07-1998</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-08-21">21-08-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006612&amp;artikel=6&amp;g=2020-01-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0006612&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=6&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0006612&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" stam-id="377433" versie-id="25835402" id="C37221291" label-id="368134" inwerking="2020-01-01" label="Artikel 7" bron="Stb.2019-173" effect="wijziging" ondertekening_bron="2019-04-17" publicatie_bron="2019-05-16" publicatie_iwt="2019-11-06" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid1" label-id="368134L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Bij het einde van het lidmaatschap wordt degene die op non-activiteit was gesteld, voor zoveel zulks naar het oordeel van de overheidswerkgever of het bevoegd gezag mogelijk is, in actieve dienst hersteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=7&amp;lid=1&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid2" label-id="368134L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Is herstel in actieve dienst niet mogelijk, dan wordt aan de ambtenaar, bedoeld in <intref doc="jci1.3:c:BWBR0006612&amp;artikel=2&amp;z=2020-01-01&amp;g=2020-01-01" label-id="368084" verwijzing-id="2940687" bwb-id="BWBR0006612" bwb-ng-variabel-deel="/Artikel2">artikel 2, derde lid</intref>, eervol ontslag verleend. Als gevolg van het eervol ontslag, is geen sprake van verwijtbare werkloosheid in de zin van <extref doc="jci1.3:c:BWBR0004045&amp;artikel=24" label-id="2974044" verwijzing-id="2940688" bwb-id="BWBR0004045">artikel 24 van de Werkloosheidswet</extref>. Inkomsten, als bedoeld in <intref doc="jci1.3:c:BWBR0006612&amp;artikel=6&amp;z=2020-01-01&amp;g=2020-01-01" label-id="368124" verwijzing-id="2940689" bwb-id="BWBR0006612" bwb-ng-variabel-deel="/Artikel6">artikel 6</intref>, worden beschouwd als inkomsten genoten uit of in verband met arbeid of bedrijf na het ontslag ter hand genomen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=7&amp;lid=2&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-173"><publicatiejaar>2019</publicatiejaar><publicatienr>173</publicatienr><uitgiftedatum isodatum="2019-05-16">16-05-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-04-17">17-04-2019</ondertekeningsdatum><dossierref dossier="35073">35073</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-385"><publicatiejaar>2019</publicatiejaar><publicatienr>385</publicatienr><uitgiftedatum isodatum="2019-11-06">06-11-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-10-24">24-10-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006612&amp;artikel=7&amp;g=2020-01-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0006612&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=7&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0006612&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" code="a-8" stam-id="377443" versie-id="554192" id="C554191" label-id="368144" inwerking="1994-04-29" label="Artikel 8" bron="Stb.1994-295" effect="nieuwe-regeling" ondertekening_bron="1994-04-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>8</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>295</publicatienr><ondertekeningsdatum isodatum="1994-04-20">20-04-1994</ondertekeningsdatum><dossierref dossier="22769">22769</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>296</publicatienr><ondertekeningsdatum isodatum="1994-04-13">13-04-1994</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-04-29">29-04-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006612&amp;artikel=8&amp;g=2020-01-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0006612&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=8&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0006612&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" code="a-9" stam-id="377453" versie-id="554202" id="C554201" label-id="368154" inwerking="1994-04-29" label="Artikel 9" bron="Stb.1994-295" effect="nieuwe-regeling" ondertekening_bron="1994-04-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>9</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid1" label-id="368154L1">
+    <lidnr>1</lidnr>
+    <al>Degenen die ingevolge de wet van 17 juli 1923 (<nadruk type="cur">Stb.</nadruk> 364), additioneel artikel XVII van de <extref doc="jci1.3:c:BWBR0001840" verwijzing-id="105817" bwb-id="BWBR0001840" label-id="2942374">Grondwet</extref> of artikel 3 van de Wet Incompatibiliteiten Europees Parlement (<nadruk type="cur">Stb.</nadruk> 1978, 653) op non-activiteit zijn gesteld, blijven gedurende hun lidmaatschap van de kamer der Staten-Generaal waarin zij zijn gekozen, onderscheidenlijk van het Europees Parlement, op non-activiteit, doch uiterlijk tot het einde van de zittingsduur van de kamer waarin zij zijn gekozen, onderscheidenlijk van het Europees Parlement.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=9&amp;lid=1&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid2" label-id="368154L2">
+    <lidnr>2</lidnr>
+    <al> Zij behouden gedurende die periode de aanspraken, omschreven in de artikelen 4 en 6 van de wet van 17 juli 1923. Gedurende die periode blijft artikel 5 van de wet van 17 juli 1923 voor de leden van de Tweede Kamer, onderscheidenlijk van het Europees Parlement van toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=9&amp;lid=2&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid3" label-id="368154L3">
+    <lidnr>3</lidnr>
+    <al> Degenen die uiterlijk op het in het eerste lid bedoelde tijdstip hun lidmaatschap beëindigen behouden de aanspraken, omschreven in artikel 7 van de wet van 17 juli 1923.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=9&amp;lid=3&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid4" label-id="368154L4">
+    <lidnr>4</lidnr>
+    <al> Degenen die bij inwerkingtreding van deze wet reeds aanspraken hebben als omschreven in artikel 7 van de wet van 17 juli 1923 behouden die aanspraken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=9&amp;lid=4&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>295</publicatienr><ondertekeningsdatum isodatum="1994-04-20">20-04-1994</ondertekeningsdatum><dossierref dossier="22769">22769</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>296</publicatienr><ondertekeningsdatum isodatum="1994-04-13">13-04-1994</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-04-29">29-04-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006612&amp;artikel=9&amp;g=2020-01-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0006612&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=9&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0006612&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" code="a-10" stam-id="377473" versie-id="554222" id="C554221" label-id="368174" inwerking="1994-04-29" label="Artikel 10" bron="Stb.1994-295" effect="nieuwe-regeling" ondertekening_bron="1994-04-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>10</nr>
+  </kop>
+  <al>De wet van 17 juli 1923 en het koninklijk besluit van 1 mei 1925 (<nadruk type="cur">Stb.</nadruk> 175), worden ingetrokken.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>295</publicatienr><ondertekeningsdatum isodatum="1994-04-20">20-04-1994</ondertekeningsdatum><dossierref dossier="22769">22769</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>296</publicatienr><ondertekeningsdatum isodatum="1994-04-13">13-04-1994</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-04-29">29-04-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006612&amp;artikel=10&amp;g=2020-01-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0006612&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=10&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0006612&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" code="a-11" stam-id="377493" versie-id="554242" id="C554241" label-id="368194" inwerking="1994-04-29" label="Artikel 11" bron="Stb.1994-295" effect="nieuwe-regeling" ondertekening_bron="1994-04-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>11</nr>
+  </kop>
+  <al>De Wet Incompatibiliteiten Europees Parlement (<nadruk type="cur">Stb.</nadruk> 1978, 653) wordt ingetrokken.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>295</publicatienr><ondertekeningsdatum isodatum="1994-04-20">20-04-1994</ondertekeningsdatum><dossierref dossier="22769">22769</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>296</publicatienr><ondertekeningsdatum isodatum="1994-04-13">13-04-1994</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-04-29">29-04-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006612&amp;artikel=11&amp;g=2020-01-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0006612&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=11&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0006612&amp;artikel=11"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel12" code="a-12" stam-id="377513" versie-id="554262" id="C554261" label-id="368214" inwerking="1994-04-29" label="Artikel 12" bron="Stb.1994-295" effect="nieuwe-regeling" ondertekening_bron="1994-04-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>12</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel12/Lid1" label-id="368214L1">
+    <lidnr>1</lidnr>
+    <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=12&amp;lid=1&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel12/Lid2" label-id="368214L2">
+    <lidnr>2</lidnr>
+    <al> Deze wet kan worden aangehaald als: Wet Incompatibiliteiten Staten-Generaal en Europees Parlement.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=12&amp;lid=2&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>295</publicatienr><ondertekeningsdatum isodatum="1994-04-20">20-04-1994</ondertekeningsdatum><dossierref dossier="22769">22769</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>296</publicatienr><ondertekeningsdatum isodatum="1994-04-13">13-04-1994</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-04-29">29-04-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006612&amp;artikel=12&amp;g=2020-01-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0006612&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;artikel=12&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0006612&amp;artikel=12"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="377533" versie-id="554282" id="C554281" label-id="368234" inwerking="1994-04-29" bron="Stb.1994-295" effect="nieuwe-regeling" ondertekening_bron="1994-04-20" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">20 april 1994</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Binnenlandse Zaken,</functie>
+    <naam>
+      <achternaam>E. van Thijn</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Staatssecretaris van Buitenlandse Zaken,</functie>
+    <naam>
+      <achternaam>P. Dankert</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Defensie,</functie>
+    <naam>
+      <achternaam>A. L. ter Beek</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de achtentwintigste april 1994</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>E. M. H. Hirsch Ballin</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>295</publicatienr><ondertekeningsdatum isodatum="1994-04-20">20-04-1994</ondertekeningsdatum><dossierref dossier="22769">22769</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>296</publicatienr><ondertekeningsdatum isodatum="1994-04-13">13-04-1994</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-04-29">29-04-1994</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>295</publicatienr><ondertekeningsdatum isodatum="1994-04-20">20-04-1994</ondertekeningsdatum><dossierref dossier="22769">22769</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>296</publicatienr><ondertekeningsdatum isodatum="1994-04-13">13-04-1994</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-04-29">29-04-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0006612&amp;g=2020-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0006612"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0006612&amp;z=2020-01-01&amp;g=2020-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0006612"/></jcis></meta-data></wetgeving></toestand>

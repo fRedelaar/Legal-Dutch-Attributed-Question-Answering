@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0022751/2024-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0022751" inwerkingtreding="2024-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties><redactionele-correctie label-id="9238854" oud-revisie-id="42790811" nieuw-revisie-id="42790811"/><redactionele-correctie label-id="9238814" oud-revisie-id="42819051" nieuw-revisie-id="42819051"/></redactionele-correcties><wetgeving dtdversie="2.0" soort="wet" stam-id="9260313" versie-id="20320432" id="C28585871" label-id="9238954" inwerkingtredingsdatum="2013-03-28">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="9260333" versie-id="14854102" id="C20226661" label-id="9238784" inwerking="2007-11-03" bron="Stb.2007-418" effect="nieuwe-regeling" ondertekening_bron="2007-11-01" publicatie_bron="2007-11-02" publicatie_iwt="2007-11-02" status="goed">Wet van 1 november 2007, houdende regels inzake de aanspraak op een inkomensafhankelijke financiële bijdrage in de kosten van kinderen (Wet op het kindgebonden budget)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-418"><publicatiejaar>2007</publicatiejaar><publicatienr>418</publicatienr><uitgiftedatum isodatum="2007-11-02">02-11-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-01">01-11-2007</ondertekeningsdatum><dossierref dossier="30912">30912</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-420"><publicatiejaar>2007</publicatiejaar><publicatienr>420</publicatienr><uitgiftedatum isodatum="2007-11-02">02-11-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-01">01-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-11-03">03-11-2007</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="9260343" versie-id="14854112" id="C20226671" label-id="9238794" inwerking="2007-11-03" bron="Stb.2007-418" effect="nieuwe-regeling" ondertekening_bron="2007-11-01" publicatie_bron="2007-11-02" publicatie_iwt="2007-11-02">Wet op het kindgebonden budget<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-418"><publicatiejaar>2007</publicatiejaar><publicatienr>418</publicatienr><uitgiftedatum isodatum="2007-11-02">02-11-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-01">01-11-2007</ondertekeningsdatum><dossierref dossier="30912">30912</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-420"><publicatiejaar>2007</publicatiejaar><publicatienr>420</publicatienr><uitgiftedatum isodatum="2007-11-02">02-11-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-01">01-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-11-03">03-11-2007</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="9260353" versie-id="14854122" id="C20226681" label-id="9238804" inwerking="2007-11-03" bron="Stb.2007-418" effect="nieuwe-regeling" ondertekening_bron="2007-11-01" publicatie_bron="2007-11-02" publicatie_iwt="2007-11-02" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is dat personen voor wie de kosten van kinderen in verhouding tot hun inkomen een te zware last vormen, een financiële bijdrage in die kosten ontvangen;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-418"><publicatiejaar>2007</publicatiejaar><publicatienr>418</publicatienr><uitgiftedatum isodatum="2007-11-02">02-11-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-01">01-11-2007</ondertekeningsdatum><dossierref dossier="30912">30912</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-420"><publicatiejaar>2007</publicatiejaar><publicatienr>420</publicatienr><uitgiftedatum isodatum="2007-11-02">02-11-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-01">01-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-11-03">03-11-2007</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="9260363" versie-id="29869732" id="C42819051" label-id="9238814" inwerking="2024-01-01" label="Artikel 1" bron="Stcrt.2023-35511" effect="wijziging" ondertekening_bron="2023-12-18" publicatie_bron="2023-12-28" publicatie_iwt="2023-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+    <titel status="officieel">Algemene bepalingen</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid1" label-id="9238814L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=1&amp;lid=1&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>kindgebonden budget: een financiële bijdrage van het Rijk in de kosten voor kinderen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=1&amp;lid=1&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>ouder: de verzekerde in de zin van de <extref doc="jci1.3:c:BWBR0002368" label-id="452894" verwijzing-id="2173849" bwb-id="BWBR0002368">Algemene Kinderbijslagwet</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=1&amp;lid=1&amp;o=c&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel1/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>drempelinkomen: 108% van het twaalfvoud van het voor de maand januari van het berekeningsjaar geldende in <extref doc="jci1.3:c:BWBR0002638&amp;artikel=8" label-id="866514" verwijzing-id="2643530" bwb-id="BWBR0002638">artikel 8, eerste lid, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag</extref> bedoelde bedrag per maand.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=1&amp;lid=1&amp;o=d&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=1&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid2" label-id="9238814L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De hoogte van het kindgebonden budget is afhankelijk van de draagkracht op basis van het inkomen en het vermogen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=1&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid3" label-id="9238814L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>
+      <extref doc="jci1.3:c:BWBR0018472&amp;artikel=4" label-id="7122374" verwijzing-id="2173850" bwb-id="BWBR0018472">Artikel 4 van de Algemene wet inkomensafhankelijke regelingen</extref> is niet van toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=1&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid4" label-id="9238814L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>In afwijking van <extref doc="jci1.3:c:BWBR0018472&amp;artikel=7" label-id="7122414" verwijzing-id="3041417" bwb-id="BWBR0018472">artikel 7, derde lid, van de Algemene wet inkomensafhankelijke regelingen</extref>, bestaat geen aanspraak op kindgebonden budget indien de rendementsgrondslag, bedoeld in <extref doc="jci1.3:c:BWBR0011353&amp;artikel=5.3" label-id="2784714" verwijzing-id="3041418" bwb-id="BWBR0011353">artikel 5.3 van de Wet inkomstenbelasting 2001</extref>, van de ouder aan het begin van het berekeningsjaar meer bedraagt dan € 140.213 of, indien de ouder het gehele berekeningsjaar dezelfde partner heeft, de gezamenlijke rendementsgrondslag, bedoeld in artikel 5.3 van de Wet inkomstenbelasting 2001, van de ouder en zijn partner aan het begin van het berekeningsjaar meer bedraagt dan € 177.301. Bij de bepaling van de rendementsgrondslag, bedoeld in de vorige zin, wordt geen rekening gehouden met de vrijstelling, bedoeld in <extref doc="jci1.3:c:BWBR0011353&amp;artikel=5.13" label-id="2784834" verwijzing-id="3041460" bwb-id="BWBR0011353">artikel 5.13 van de Wet inkomstenbelasting 2001</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=1&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid5" label-id="9238814L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>In afwijking van <extref doc="jci1.3:c:BWBR0018472&amp;artikel=9" label-id="7122444" verwijzing-id="3124522" bwb-id="BWBR0018472">artikel 9, tweede lid, van de Algemene wet inkomensafhankelijke regelingen</extref>, bestaat er wel aanspraak op kindgebonden budget voor een kind dat geen vreemdeling is of dat rechtmatig verblijf houdt in de zin van <extref doc="jci1.3:c:BWBR0011823&amp;artikel=8" label-id="1384184" verwijzing-id="3124523" bwb-id="BWBR0011823">artikel 8 van de Vreemdelingenwet 2000</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=1&amp;lid=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stcrt" urlidentifier="stcrt-2023-35511"><publicatiejaar>2023</publicatiejaar><publicatienr>35511</publicatienr><uitgiftedatum isodatum="2023-12-28">28-12-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-12-18">18-12-2023</ondertekeningsdatum><kenmerk>2023-0000585324</kenmerk></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stcrt" urlidentifier="stcrt-2023-35511"><publicatiejaar>2023</publicatiejaar><publicatienr>35511</publicatienr><uitgiftedatum isodatum="2023-12-28">28-12-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-12-18">18-12-2023</ondertekeningsdatum><kenmerk>2023-0000585324</kenmerk></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-168"><publicatiejaar>2023</publicatiejaar><publicatienr>168</publicatienr><uitgiftedatum isodatum="2023-05-23">23-05-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-05-12">12-05-2023</ondertekeningsdatum><dossierref dossier="35335">35335</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-247"><publicatiejaar>2023</publicatiejaar><publicatienr>247</publicatienr><uitgiftedatum isodatum="2023-07-07">07-07-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-06-27">27-06-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022751&amp;artikel=1&amp;g=2024-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0022751&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0022751&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" stam-id="9260373" versie-id="29837972" id="C42769991" label-id="9238824" inwerking="2024-01-01" label="Artikel 2" bron="Stb.2023-489" effect="wijziging" ondertekening_bron="2023-12-20" publicatie_bron="2023-12-22" publicatie_iwt="2023-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+    <titel status="officieel">Aanspraak en hoogte kindgebonden budget</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="9238824L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Aanspraak op een kindgebonden budget heeft de ouder voor een kind voor wie aan die ouder op grond van <extref doc="jci1.3:c:BWBR0002368&amp;artikel=18" label-id="452204" verwijzing-id="2173851" bwb-id="BWBR0002368">artikel 18 van de Algemene Kinderbijslagwet</extref> kinderbijslag wordt betaald of zou worden betaald indien <extref doc="jci1.3:c:BWBR0002368&amp;artikel=7" label-id="451784" verwijzing-id="2624824" bwb-id="BWBR0002368">artikel 7, tweede lid van die wet</extref> niet van toepassing zou zijn, met dien verstande dat de aanspraak op een kindgebonden budget bestaat met ingang van de kalendermaand na de maand waarin het kind is geboren dan wel tot het huishouden is gaan behoren tot en met de kalendermaand waarin het kind de leeftijd van 18 jaar bereikt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=2&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="9238824L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het kindgebonden budget bedraagt voor een berekeningsjaar:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>indien de ouder aanspraak heeft voor een kind: € 2.436;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=2&amp;lid=2&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>indien de ouder aanspraak heeft voor twee of meer kinderen: € 2.436 per kind voor het tweede of volgende kind.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=2&amp;lid=2&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=2&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid3" label-id="9238824L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Een ouder heeft aanspraak op een verhoging van het kindgebonden budget in een berekeningsjaar voor een kind met ingang van de kalendermaand na de maand waarin dat kind de leeftijd van 12 jaar heeft bereikt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=2&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid4" label-id="9238824L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Voor een kind dat 12 jaar of ouder is, maar jonger is dan 16 jaar bedraagt de verhoging van het kindgebonden budget € 694,00.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=2&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid5" label-id="9238824L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Voor een kind dat 16 of 17 jaar is, bedraagt de verhoging van het kindgebonden budget met ingang van de kalendermaand na de maand waarin het kind de leeftijd van 16 jaar heeft bereikt € 924,00.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=2&amp;lid=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid6" label-id="9238824L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>De ouder die geen partner heeft, heeft aanspraak op een verhoging van het kindgebonden budget van € 3.480.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=2&amp;lid=6&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid7" label-id="9238824L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Bij een toetsingsinkomen van de ouder die geen partner heeft, van meer dan het drempelinkomen wordt de som van de bedragen waarop recht bestaat op grond van het tweede, vierde, vijfde en zesde lid verminderd met 6,75% van het verschil tussen het toetsingsinkomen en het drempelinkomen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=2&amp;lid=7&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid8" label-id="9238824L8">
+    <lidnr status="officieel">8</lidnr>
+    <al>Bij een gezamenlijk toetsingsinkomen van de ouder en zijn partner van meer dan het met € 9.030,00 verhoogde drempelinkomen wordt de som van de bedragen waarop recht bestaat op grond van het tweede, vierde en vijfde lid verminderd met 6,75% van het verschil tussen het gezamenlijk toetsingsinkomen en het met € 9.030,00 verhoogde drempelinkomen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=2&amp;lid=8&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=8"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid9" label-id="9238824L9">
+    <lidnr status="officieel">9</lidnr>
+    <al>Een ouder als bedoeld in het eerste en derde lid en zijn partner die tevens ouder is als bedoeld in het eerste lid worden voor de toepassing van deze wet geacht gezamenlijk één aanspraak te hebben.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=2&amp;lid=9&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=9"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid10" label-id="9238824L10">
+    <lidnr status="officieel">10</lidnr>
+    <al>Indien aan twee ouders kinderbijslag wordt uitbetaald op basis van het recht op kinderbijslag van één van die ouders, heeft alleen de ouder, wiens recht op kinderbijslag wordt uitbetaald aanspraak op een kindgebonden budget.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=2&amp;lid=10&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=10"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid11" label-id="9238824L11">
+    <lidnr status="officieel">11</lidnr>
+    <al>De aanspraak op een kindgebonden budget wordt voor iedere kalendermaand afzonderlijk bepaald.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=2&amp;lid=11&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=11"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid12" label-id="9238824L12">
+    <lidnr status="officieel">12</lidnr>
+    <al>Indien de ouder:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid12/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>aanspraak heeft op kindgebonden budget voor een kind, en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=2&amp;lid=12&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid12/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>voor dat kind voor de toepassing van de <extref doc="jci1.3:c:BWBR0002368" label-id="452894" verwijzing-id="2495506" bwb-id="BWBR0002368">Algemene Kinderbijslagwet</extref> een ander land dan Nederland, een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland als woonland in aanmerking wordt genomen,</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=2&amp;lid=12&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+    <al>bedraagt het kindgebonden budget een bij ministeriële regeling vastgesteld percentage van de in het tweede lid, onderdeel a, en vierde tot en met zesde lid bedoelde bedragen. Het percentage wordt zo bepaald dat het een weergave is van de verhouding tussen het kostenniveau van het land dat als woonland in aanmerking wordt genomen en dat van Nederland. Het percentage bedraagt maximaal 100.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=2&amp;lid=12&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=12"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid13" label-id="9238824L13">
+    <lidnr status="officieel">13</lidnr>
+    <al>Indien de ouder:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel2/Lid13/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>aanspraak heeft op kindgebonden budget voor meer dan een kind, en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=2&amp;lid=13&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel2/Lid13/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>voor een of meer van die kinderen voor de toepassing van de <extref doc="jci1.3:c:BWBR0002368" label-id="452894" verwijzing-id="2495507" bwb-id="BWBR0002368">Algemene Kinderbijslagwet</extref> een ander land dan Nederland, een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland als woonland in aanmerking wordt genomen,</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=2&amp;lid=13&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+    <al>bedraagt het kindgebonden budget een volgens bij ministeriële regeling te stellen regels vastgesteld bedrag. Dat bedrag is gebaseerd op de in het tweede en vierde tot en met zesde lid, opgenomen bedragen en de verhouding tussen het kostenniveau van het land dat als woonland in aanmerking wordt genomen voor het desbetreffende kind of voor de desbetreffende kinderen en dat van Nederland uitgedrukt in procenten. Het percentage bedraagt maximaal 100.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=2&amp;lid=13&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=13"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid14" label-id="9238824L14">
+    <lidnr status="officieel">14</lidnr>
+    <al>Het twaalfde en dertiende lid zijn niet van toepassing indien het een kind betreft dat op de eerste dag van een kalenderkwartaal niet in Nederland woont doch langer dan drie maanden onafgebroken in Nederland verblijft.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=2&amp;lid=14&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=14"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-489"><publicatiejaar>2023</publicatiejaar><publicatienr>489</publicatienr><uitgiftedatum isodatum="2023-12-22">22-12-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-12-20">20-12-2023</ondertekeningsdatum><dossierref dossier="36431">36431</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-489"><publicatiejaar>2023</publicatiejaar><publicatienr>489</publicatienr><uitgiftedatum isodatum="2023-12-22">22-12-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-12-20">20-12-2023</ondertekeningsdatum><dossierref dossier="36431">36431</dossierref></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022751&amp;artikel=2&amp;g=2024-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0022751&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0022751&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="9260383" versie-id="29837982" id="C42770001" label-id="9238834" inwerking="2024-01-01" label="Artikel 3" bron="Stb.2023-489" effect="wijziging" ondertekening_bron="2023-12-20" publicatie_bron="2023-12-22" publicatie_iwt="2023-12-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+    <titel status="officieel">Wijziging bedragen</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="9238834L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De bedragen, genoemd in de <intref doc="jci1.3:c:BWBR0022751&amp;artikel=1&amp;z=2024-01-01&amp;g=2024-01-01" label-id="9238814" verwijzing-id="3208676" bwb-id="BWBR0022751" bwb-ng-variabel-deel="/Artikel1">artikelen 1, vierde lid</intref>, <intref doc="jci1.3:c:BWBR0022751&amp;artikel=2&amp;z=2024-01-01&amp;g=2024-01-01" label-id="9238824" verwijzing-id="3208677" bwb-id="BWBR0022751" bwb-ng-variabel-deel="/Artikel2">2, tweede, vierde tot en met zesde en achtste lid</intref>, en <intref doc="jci1.3:c:BWBR0022751&amp;artikel=3&amp;z=2024-01-01&amp;g=2024-01-01" label-id="9238834" verwijzing-id="3208678" bwb-id="BWBR0022751" bwb-ng-variabel-deel="/Artikel3">3, zesde lid</intref>, worden met ingang van 1 januari van elk kalenderjaar gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in <extref doc="jci1.3:c:BWBR0011353&amp;artikel=10.2" label-id="2786694" verwijzing-id="2677266" bwb-id="BWBR0011353">artikel 10.2 van de Wet inkomstenbelasting 2001</extref>. De gewijzigde bedragen worden door of namens Onze Minister medegedeeld in de Staatscourant.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=3&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="9238834L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien er aanleiding is om de bedragen, bedoeld in het eerste lid, te verhogen op een andere wijze dan op grond van het eerste lid, worden de bedragen vastgesteld bij algemene maatregel van bestuur.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=3&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid3" label-id="9238834L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De overeenkomstig het eerste en tweede lid aangepaste bedragen treden in de plaats van de bedragen, genoemd in de <intref doc="jci1.3:c:BWBR0022751&amp;artikel=1&amp;z=2024-01-01&amp;g=2024-01-01" label-id="9238814" verwijzing-id="2463858" bwb-id="BWBR0022751" bwb-ng-variabel-deel="/Artikel1">artikelen 1, vierde lid</intref>, en <intref doc="jci1.3:c:BWBR0022751&amp;artikel=2&amp;z=2024-01-01&amp;g=2024-01-01" label-id="9238824" verwijzing-id="2463859" bwb-id="BWBR0022751" bwb-ng-variabel-deel="/Artikel2">2, tweede, vierde tot en met zesde, en achtste lid</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=3&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid4" label-id="9238834L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Indien een verhoging als bedoeld in het tweede lid wordt toegepast, vindt deze verhoging plaats nadat het eerste lid toepassing heeft gevonden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=3&amp;lid=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid5" label-id="9238834L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Het eerste lid vindt met ingang van 1 januari 2024 eenmalig geen toepassing voor de bedragen, bedoeld in <intref doc="jci1.3:c:BWBR0022751&amp;artikel=2&amp;z=2024-01-01&amp;g=2024-01-01" label-id="9238824" verwijzing-id="3277955" bwb-id="BWBR0022751" bwb-ng-variabel-deel="/Artikel2">artikel 2, tweede, vierde tot en met zesde en achtste lid,</intref> en <intref doc="jci1.3:c:BWBR0022751&amp;artikel=3&amp;z=2024-01-01&amp;g=2024-01-01" label-id="9238834" verwijzing-id="3277956" bwb-id="BWBR0022751" bwb-ng-variabel-deel="/Artikel3">artikel 3, zesde lid</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=3&amp;lid=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid6" label-id="9238834L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Met ingang van de hieronder genoemde data worden de bedragen, bedoeld in <intref doc="jci1.3:c:BWBR0022751&amp;artikel=2&amp;z=2024-01-01&amp;g=2024-01-01" label-id="9238824" verwijzing-id="3208681" bwb-id="BWBR0022751" bwb-ng-variabel-deel="/Artikel2">artikel 2, tweede en zesde lid</intref>, telkens als volgt verlaagd, waarbij de gewijzigde bedragen in de plaats treden van die bedragen en die gewijzigde bedragen door of namens Onze Minister worden medegedeeld in de Staatscourant:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel3/Lid6/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>met ingang van 1 januari 2025 met € 119;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=3&amp;lid=6&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid6/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>met ingang van 1 januari 2026 met € 62;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=3&amp;lid=6&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid6/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>met ingang van 1 januari 2028 met € 17.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=3&amp;lid=6&amp;o=c&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=3&amp;lid=6&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid7" label-id="9238834L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>De verlaging, bedoeld in het zesde lid, vindt plaats nadat het eerste lid toepassing heeft gevonden, onverminderd het vijfde lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=3&amp;lid=7&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-489"><publicatiejaar>2023</publicatiejaar><publicatienr>489</publicatienr><uitgiftedatum isodatum="2023-12-22">22-12-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-12-20">20-12-2023</ondertekeningsdatum><dossierref dossier="36431">36431</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-489"><publicatiejaar>2023</publicatiejaar><publicatienr>489</publicatienr><uitgiftedatum isodatum="2023-12-22">22-12-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-12-20">20-12-2023</ondertekeningsdatum><dossierref dossier="36431">36431</dossierref></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022751&amp;artikel=3&amp;g=2024-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0022751&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0022751&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="b1-4" stam-id="9260393" versie-id="14854162" id="C21383851" label-id="9238844" inwerking="2007-11-03" label="Artikel 4" bron="Stb.2007-418" effect="nieuwe-regeling" ondertekening_bron="2007-11-01" publicatie_bron="2007-11-02" publicatie_iwt="2007-11-02" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+    <titel status="officieel">Inkomen en vermogen</titel>
+  </kop>
+  <al>Het kindgebonden budget blijft buiten beschouwing bij de verlening van andere op het inkomen of vermogen afgestemde publiekrechtelijke uitkeringen en verstrekkingen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-418"><publicatiejaar>2007</publicatiejaar><publicatienr>418</publicatienr><uitgiftedatum isodatum="2007-11-02">02-11-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-01">01-11-2007</ondertekeningsdatum><dossierref dossier="30912">30912</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-420"><publicatiejaar>2007</publicatiejaar><publicatienr>420</publicatienr><uitgiftedatum isodatum="2007-11-02">02-11-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-01">01-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-11-03">03-11-2007</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022751&amp;artikel=4&amp;g=2024-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0022751&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=4&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0022751&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" stam-id="9260403" versie-id="29849672" id="C42790811" label-id="9238854" inwerking="2024-01-01" label="Artikel 5" bron="Stb.2023-498" effect="wijziging" ondertekening_bron="2023-12-20" publicatie_bron="2023-12-27" publicatie_iwt="2023-12-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+    <titel status="officieel">Uitvoering</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid1" label-id="9238854L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De Dienst Toeslagen is belast met de uitvoering van deze wet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=5&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid2" label-id="9238854L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De ouder die</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel5/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>over het berekeningsjaar aanspraak heeft op een kindgebonden budget, en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=5&amp;lid=2&amp;o=a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel5/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>over het berekeningsjaar reeds in aanmerking komt voor een andere tegemoetkoming waarvan de uitvoering is opgedragen aan de Dienst Toeslagen,</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=5&amp;lid=2&amp;o=b&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+    <al>wordt geacht een aanvraag als bedoeld in <extref doc="jci1.3:c:BWBR0018472&amp;artikel=15" label-id="7122544" verwijzing-id="2173855" bwb-id="BWBR0018472">artikel 15 van de Algemene wet inkomensafhankelijke regelingen</extref> voor het kindgebonden budget te hebben gedaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=5&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid3" label-id="9238854L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Voor de toepassing van <extref doc="jci1.3:c:BWBR0018472&amp;artikel=16" label-id="7122554" verwijzing-id="2173856" bwb-id="BWBR0018472">artikel 16, eerste en tweede lid, van de Algemene wet inkomensafhankelijke regelingen</extref> wordt in het geval, bedoeld in het tweede lid, de aanvraag geacht te zijn gedaan op het moment waarop de Dienst Toeslagen bekend is geworden dat de ouder aanspraak heeft op een kindgebonden budget.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=5&amp;lid=3&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-498"><publicatiejaar>2023</publicatiejaar><publicatienr>498</publicatienr><uitgiftedatum isodatum="2023-12-27">27-12-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-12-20">20-12-2023</ondertekeningsdatum><dossierref dossier="36342">36342</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-498"><publicatiejaar>2023</publicatiejaar><publicatienr>498</publicatienr><uitgiftedatum isodatum="2023-12-27">27-12-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-12-20">20-12-2023</ondertekeningsdatum><dossierref dossier="36342">36342</dossierref></publicatie><inwerkingtreding.datum isodatum="2024-01-01">01-01-2024</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022751&amp;artikel=5&amp;g=2024-01-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0022751&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=5&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0022751&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="b1-6a" stam-id="9260413" versie-id="26209942" id="C37272991" label-id="9238864" inwerking="2020-01-01" label="Artikel 6" bron="Stb.2019-409" effect="vervallen" ondertekening_bron="2019-07-10" publicatie_bron="2019-11-14" publicatie_iwt="2019-11-14" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+    <titel status="officieel">Overgangsbepaling integratie <extref doc="jci1.3:c:BWBR0012438" verwijzing-id="2290652" bwb-id="BWBR0012438" label-id="2856104">Wet tegemoetkoming onderwijsbijdrage en schoolkosten</extref></titel>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2019-409"><publicatiejaar>2019</publicatiejaar><publicatienr>409</publicatienr><uitgiftedatum isodatum="2019-11-14">14-11-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-10">10-07-2019</ondertekeningsdatum><dossierref dossier="35010">35010</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2019-411"><publicatiejaar>2019</publicatiejaar><publicatienr>411</publicatienr><uitgiftedatum isodatum="2019-11-14">14-11-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-11-05">05-11-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022751&amp;artikel=6&amp;g=2024-01-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0022751&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=6&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0022751&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6a" stam-id="12169653" versie-id="26326562" id="C37419711" label-id="9238874" inwerking="2020-01-01" label="Artikel 6a" bron="Stb.2019-483" effect="vervallen" ondertekening_bron="2019-12-11" publicatie_bron="2019-12-17" publicatie_iwt="2019-12-17" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6a</nr>
+    <titel status="officieel">Overgangsbepaling aanspraak kindgebonden budget</titel>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2019-483"><publicatiejaar>2019</publicatiejaar><publicatienr>483</publicatienr><uitgiftedatum isodatum="2019-12-17">17-12-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-12-11">11-12-2019</ondertekeningsdatum><dossierref dossier="35275">35275</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2019-484"><publicatiejaar>2019</publicatiejaar><publicatienr>484</publicatienr><uitgiftedatum isodatum="2019-12-17">17-12-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-12-11">11-12-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022751&amp;artikel=6a&amp;g=2024-01-01" onderdeel="artikel=6a" korte-verwijzing="1.0:c:BWBR0022751&amp;artikel=6a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=6a&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=6a" korte-verwijzing="jci1.3:c:BWBR0022751&amp;artikel=6a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" stam-id="9260433" versie-id="22846172" id="C33030351" label-id="9238884" inwerking="2016-01-01" label="Artikel 7" bron="Stb.2015-464" effect="vervallen" ondertekening_bron="2015-11-25" publicatie_bron="2015-12-10" publicatie_iwt="2015-12-10" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+    <titel status="officieel">Niet-indexeren bedragen in berekeningsjaren 2010 tot en met 2015</titel>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-464"><publicatiejaar>2015</publicatiejaar><publicatienr>464</publicatienr><uitgiftedatum isodatum="2015-12-10">10-12-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-11-25">25-11-2015</ondertekeningsdatum><dossierref dossier="34273">34273</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2015-465"><publicatiejaar>2015</publicatiejaar><publicatienr>465</publicatienr><uitgiftedatum isodatum="2015-12-10">10-12-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-12-02">02-12-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-01-01">01-01-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022751&amp;artikel=7&amp;g=2024-01-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0022751&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=7&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0022751&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" stam-id="9260443" versie-id="14854212" id="C20226771" label-id="9238894" inwerking="2007-11-03" label="Artikel 8" bron="Stb.2007-418" effect="nieuwe-regeling" ondertekening_bron="2007-11-01" publicatie_bron="2007-11-02" publicatie_iwt="2007-11-02" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+    <titel status="officieel">Wijziging van de <extref doc="jci1.3:c:BWBR0015703" verwijzing-id="2173861" bwb-id="BWBR0015703" label-id="5408634">Wet werk en bijstand</extref></titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet werk en bijstand.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-418"><publicatiejaar>2007</publicatiejaar><publicatienr>418</publicatienr><uitgiftedatum isodatum="2007-11-02">02-11-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-01">01-11-2007</ondertekeningsdatum><dossierref dossier="30912">30912</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-420"><publicatiejaar>2007</publicatiejaar><publicatienr>420</publicatienr><uitgiftedatum isodatum="2007-11-02">02-11-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-01">01-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-11-03">03-11-2007</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022751&amp;artikel=8&amp;g=2024-01-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0022751&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=8&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0022751&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" stam-id="9260453" versie-id="14854222" id="C20226781" label-id="9238904" inwerking="2007-11-03" label="Artikel 9" bron="Stb.2007-418" effect="nieuwe-regeling" ondertekening_bron="2007-11-01" publicatie_bron="2007-11-02" publicatie_iwt="2007-11-02" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+    <titel status="officieel">Wijziging van de <extref doc="jci1.3:c:BWBR0018472" verwijzing-id="2173862" bwb-id="BWBR0018472" label-id="7123014">Algemene wet inkomensafhankelijke regelingen</extref></titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Algemene wet inkomensafhankelijke regelingen.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-418"><publicatiejaar>2007</publicatiejaar><publicatienr>418</publicatienr><uitgiftedatum isodatum="2007-11-02">02-11-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-01">01-11-2007</ondertekeningsdatum><dossierref dossier="30912">30912</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-420"><publicatiejaar>2007</publicatiejaar><publicatienr>420</publicatienr><uitgiftedatum isodatum="2007-11-02">02-11-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-01">01-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-11-03">03-11-2007</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022751&amp;artikel=9&amp;g=2024-01-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0022751&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=9&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0022751&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" stam-id="9260463" versie-id="15035942" id="C29472821" label-id="9238914" inwerking="2008-01-01" label="Artikel 10" bron="Stb.2007-563" effect="wijziging" ondertekening_bron="2007-12-20" publicatie_bron="2007-12-27" publicatie_iwt="2007-12-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+    <titel status="officieel">Wijziging van de <extref doc="jci1.3:c:BWBR0013060" verwijzing-id="2173863" bwb-id="BWBR0013060" label-id="1602674">Wet structuur uitvoeringsorganisatie werk en inkomen</extref></titel>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2007-563"><publicatiejaar>2007</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="2007-12-27">27-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-20">20-12-2007</ondertekeningsdatum><dossierref dossier="31206">31206</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2007-563"><publicatiejaar>2007</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="2007-12-27">27-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-20">20-12-2007</ondertekeningsdatum><dossierref dossier="31206">31206</dossierref></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2007-11-03">03-11-2007</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022751&amp;artikel=10&amp;g=2024-01-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0022751&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=10&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0022751&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" stam-id="9260473" versie-id="15035952" id="C33263651" label-id="9238924" inwerking="2008-01-01" label="Artikel 11" bron="Stb.2007-563" effect="wijziging" ondertekening_bron="2007-12-20" publicatie_bron="2007-12-27" publicatie_iwt="2007-12-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+    <titel status="officieel">Inwerkingtreding</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid1" label-id="9238924L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=11&amp;lid=1&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid2" label-id="9238924L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Deze wet geldt voor berekeningsjaren die aanvangen op of na 1 januari 2008.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=11&amp;lid=2&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2007-563"><publicatiejaar>2007</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="2007-12-27">27-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-20">20-12-2007</ondertekeningsdatum><dossierref dossier="31206">31206</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2007-563"><publicatiejaar>2007</publicatiejaar><publicatienr>563</publicatienr><uitgiftedatum isodatum="2007-12-27">27-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-12-20">20-12-2007</ondertekeningsdatum><dossierref dossier="31206">31206</dossierref></publicatie><inwerkingtreding.datum isodatum="2008-01-01">01-01-2008</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2007-11-03">03-11-2007</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022751&amp;artikel=11&amp;g=2024-01-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0022751&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=11&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0022751&amp;artikel=11"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel12" code="b1-12" stam-id="9260483" versie-id="14854252" id="C20382071" label-id="9238934" inwerking="2007-11-03" label="Artikel 12" bron="Stb.2007-418" effect="nieuwe-regeling" ondertekening_bron="2007-11-01" publicatie_bron="2007-11-02" publicatie_iwt="2007-11-02" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">12</nr>
+    <titel status="officieel">Citeertitel</titel>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet op het kindgebonden budget.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-418"><publicatiejaar>2007</publicatiejaar><publicatienr>418</publicatienr><uitgiftedatum isodatum="2007-11-02">02-11-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-01">01-11-2007</ondertekeningsdatum><dossierref dossier="30912">30912</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-420"><publicatiejaar>2007</publicatiejaar><publicatienr>420</publicatienr><uitgiftedatum isodatum="2007-11-02">02-11-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-01">01-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-11-03">03-11-2007</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022751&amp;artikel=12&amp;g=2024-01-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0022751&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;artikel=12&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0022751&amp;artikel=12"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="9260493" versie-id="14854262" id="C20226821" label-id="9238944" inwerking="2007-11-03" bron="Stb.2007-418" effect="nieuwe-regeling" ondertekening_bron="2007-11-01" publicatie_bron="2007-11-02" publicatie_iwt="2007-11-02" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="1 november 2007">1 november 2007</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>DeMinistervoorJeugd en Gezin</functie>, <naam><voornaam>A.</voornaam><achternaam>Rouvoet</achternaam></naam></ondertekening>
+  <ondertekening>
+    <functie>De Staatssecretaris van Financiën</functie>, <naam><voornaam>J. C. de</voornaam><achternaam>Jager</achternaam></naam></ondertekening>
+  <uitgifte>
+    <datum isodatum="2007-11-02">de <nadruk type="cur">tweede</nadruk> november 2007</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie</functie>, <naam><voornaam>E. M. H.</voornaam><achternaam>Hirsch Ballin</achternaam></naam></ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-418"><publicatiejaar>2007</publicatiejaar><publicatienr>418</publicatienr><uitgiftedatum isodatum="2007-11-02">02-11-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-01">01-11-2007</ondertekeningsdatum><dossierref dossier="30912">30912</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2007-420"><publicatiejaar>2007</publicatiejaar><publicatienr>420</publicatienr><uitgiftedatum isodatum="2007-11-02">02-11-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-01">01-11-2007</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2007-11-03">03-11-2007</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2013-115"><publicatiejaar>2013</publicatiejaar><publicatienr>115</publicatienr><uitgiftedatum isodatum="2013-03-29">29-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-28">28-03-2013</ondertekeningsdatum><dossierref dossier="33318">33318</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2013-115"><publicatiejaar>2013</publicatiejaar><publicatienr>115</publicatienr><uitgiftedatum isodatum="2013-03-29">29-03-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-03-28">28-03-2013</ondertekeningsdatum><dossierref dossier="33318">33318</dossierref></publicatie><inwerkingtreding.datum isodatum="2013-03-28">28-03-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0022751&amp;g=2024-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0022751"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0022751&amp;z=2024-01-01&amp;g=2024-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0022751"/></jcis></meta-data></wetgeving></toestand>

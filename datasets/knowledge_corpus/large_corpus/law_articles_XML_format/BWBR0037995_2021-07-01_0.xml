@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0037995/2021-07-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0037995" inwerkingtreding="2021-07-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" stam-id="13600113" versie-id="23273852" id="C33585961" label-id="13567034" inwerkingtredingsdatum="2016-06-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="13600133" versie-id="23273632" id="C33585741" label-id="13566814" inwerking="2016-06-01" bron="Stb.2016-200" effect="nieuwe-regeling" ondertekening_bron="2016-05-25" publicatie_bron="2016-05-31" publicatie_iwt="2016-05-31" status="goed">Wet van 25 mei 2016, houdende regels met betrekking tot het op de markt brengen en het gebruik van precursoren voor explosieven (Wet precursoren voor explosieven)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-200"><publicatiejaar>2016</publicatiejaar><publicatienr>200</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum><dossierref dossier="34289">34289</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-201"><publicatiejaar>2016</publicatiejaar><publicatienr>201</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-01">01-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="13600143" versie-id="23273642" id="C33585751" label-id="13566824" inwerking="2016-06-01" bron="Stb.2016-200" effect="nieuwe-regeling" ondertekening_bron="2016-05-25" publicatie_bron="2016-05-31" publicatie_iwt="2016-05-31">Wet precursoren voor explosieven<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-200"><publicatiejaar>2016</publicatiejaar><publicatienr>200</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum><dossierref dossier="34289">34289</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-201"><publicatiejaar>2016</publicatiejaar><publicatienr>201</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-01">01-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="13600153" versie-id="23273652" id="C33585761" label-id="13566834" inwerking="2016-06-01" bron="Stb.2016-200" effect="nieuwe-regeling" ondertekening_bron="2016-05-25" publicatie_bron="2016-05-31" publicatie_iwt="2016-05-31" status="goed">
+  <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het noodzakelijk is in verband met de uitvoering van de verordening (EU) nr. 98/2013 van het Europees Parlement en de Raad van 15 januari 2013, over het op de markt brengen en het gebruik van precursoren voor explosieven (PbEU 2013, L 39) bij de wet regels te stellen ten aanzien van het aanbieden, binnenbrengen, voorhanden hebben en gebruiken van stoffen of mengsels die kunnen worden misbruikt voor de illegale vervaardiging van explosieven, ten aanzien van vergunningverlening aan particulieren daaromtrent alsmede ten aanzien van het toezicht op de naleving en de handhaving van de bepalingen van de verordening;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-200"><publicatiejaar>2016</publicatiejaar><publicatienr>200</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum><dossierref dossier="34289">34289</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-201"><publicatiejaar>2016</publicatiejaar><publicatienr>201</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-01">01-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="13600163" versie-id="27643232" id="C39114231" label-id="13566844" inwerking="2021-04-26" label="Artikel 1" bron="Stb.2021-146" effect="wijziging" ondertekening_bron="2021-03-03" publicatie_bron="2021-03-26" publicatie_iwt="2021-04-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel._1">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">aanbieden:</nadruk> aanbieden als bedoeld in artikel 3, punt vier, van de verordening;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel._2">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">gebruik:</nadruk> gebruik als bedoeld in artikel 3, punt zes, van de verordening;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel._3">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">gereguleerde precursor voor explosieven:</nadruk> een precursor voor explosieven als bedoeld in artikel 3, punt dertien, van de verordening;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel._4">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">marktdeelnemer:</nadruk> marktdeelnemer als bedoeld in artikel 3, punt tien, van de verordening;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel._5">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">onlinemarktplaats:</nadruk> onlinemarktplaats als bedoeld in artikel 3, punt 11, van de verordening;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel._6">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">Onze Minister:</nadruk> Onze Minister van Justitie en Veiligheid;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel._7">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">particulier:</nadruk> een particulier als bedoeld in artikel 3, punt acht, van de verordening;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel._8">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">persoonsgegevens, verwerking van persoonsgegevens, onderscheidenlijk verantwoordelijke:</nadruk> hetgeen daaronder wordt verstaan in artikel 4, aanhef en onder 1, 2 en 7, van de Algemene verordening gegevensbescherming;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel._9">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">precursor voor explosieven waarvoor een beperking geldt:</nadruk> een precursor voor explosieven waarvoor een beperking geldt als bedoeld in artikel 3, punt twaalf, van de verordening, alsmede een krachtens artikel 2, tweede lid, van deze wet daartoe aangewezen precursor voor explosieven;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel._10">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">precursor voor explosieven waarvoor een meldplicht geldt:</nadruk> precursor voor explosieven waarvoor een meldplicht geldt als bedoeld in artikel 9, eerste, tweede, en vierde tot en met zesde lid, van de verordening, alsmede een krachtens artikel 2, tweede lid, van deze wet daartoe aangewezen precursor voor explosieven;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel._11">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">vergunning:</nadruk> een vergunning als bedoeld in artikel 5, derde lid, van de verordening;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeel._12">
+      <li.nr>–</li.nr>
+      <al>
+        <nadruk type="cur">verordening:</nadruk> Verordening (EU) 2019/1148 van het Europees Parlement en de Raad van 20 juni 2019 over het op de markt brengen en het gebruik van precursoren voor explosieven, tot wijziging van Verordening (EG) nr. 1907/2006 en tot intrekking van Verordening (EU) nr. 98/2013 (PbEU 2019, L 186).</al>
+    </li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-146"><publicatiejaar>2021</publicatiejaar><publicatienr>146</publicatienr><uitgiftedatum isodatum="2021-03-26">26-03-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-03-03">03-03-2021</ondertekeningsdatum><dossierref dossier="35689">35689</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-202"><publicatiejaar>2021</publicatiejaar><publicatienr>202</publicatienr><uitgiftedatum isodatum="2021-04-23">23-04-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-04-19">19-04-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-04-26">26-04-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037995&amp;artikel=1&amp;g=2021-07-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0037995&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0037995&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" stam-id="13600173" versie-id="27643242" id="C39114301" label-id="13566854" inwerking="2021-04-26" label="Artikel 2" bron="Stb.2021-146" effect="wijziging" ondertekening_bron="2021-03-03" publicatie_bron="2021-03-26" publicatie_iwt="2021-04-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="13566854L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Deze wet is van toepassing op precursoren voor explosieven waarvoor een beperking geldt en precursoren voor explosieven waarvoor een meldplicht geldt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=2&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="13566854L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Bij regeling van Onze Minister en Onze Minister van Infrastructuur en Waterstaat kunnen precursoren voor explosieven waarvoor een beperking geldt en precursoren voor explosieven waarvoor een meldplicht geldt worden aangewezen die, in aanvulling op de stoffen bedoeld in de bijlagen I en II behorende bij de verordening, vallen onder de werking van deze wet. Daarbij kunnen lagere grenswaarden worden vastgesteld dan de grenswaarden voor de stoffen die zijn vermeld in de bijlage I behorende bij de verordening en kunnen grenswaarden worden vastgesteld waarboven een in bijlage II behorende bij de verordening vermelde stof onderworpen is aan de beperkingen die gelden voor precursoren voor explosieven waarvoor een beperking geldt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=2&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-146"><publicatiejaar>2021</publicatiejaar><publicatienr>146</publicatienr><uitgiftedatum isodatum="2021-03-26">26-03-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-03-03">03-03-2021</ondertekeningsdatum><dossierref dossier="35689">35689</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-202"><publicatiejaar>2021</publicatiejaar><publicatienr>202</publicatienr><uitgiftedatum isodatum="2021-04-23">23-04-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-04-19">19-04-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-04-26">26-04-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037995&amp;artikel=2&amp;g=2021-07-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0037995&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0037995&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="13600183" versie-id="27643252" id="C39114281" label-id="13566864" inwerking="2021-04-26" label="Artikel 3" bron="Stb.2021-146" effect="wijziging" ondertekening_bron="2021-03-03" publicatie_bron="2021-03-26" publicatie_iwt="2021-04-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="13566864L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het is verboden te handelen in strijd met artikel 5, eerste lid, van de verordening.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=3&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="13566864L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het verbod is niet van toepassing indien de particulier over een vergunning beschikt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=3&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-146"><publicatiejaar>2021</publicatiejaar><publicatienr>146</publicatienr><uitgiftedatum isodatum="2021-03-26">26-03-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-03-03">03-03-2021</ondertekeningsdatum><dossierref dossier="35689">35689</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-202"><publicatiejaar>2021</publicatiejaar><publicatienr>202</publicatienr><uitgiftedatum isodatum="2021-04-23">23-04-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-04-19">19-04-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-04-26">26-04-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037995&amp;artikel=3&amp;g=2021-07-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0037995&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0037995&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" stam-id="13600193" versie-id="27643262" id="C39114291" label-id="13566874" inwerking="2021-04-26" label="Artikel 4" bron="Stb.2021-146" effect="wijziging" ondertekening_bron="2021-03-03" publicatie_bron="2021-03-26" publicatie_iwt="2021-04-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="13566874L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister is bevoegd een vergunning te verlenen, te weigeren, te schorsen, in te trekken en daaraan voorschriften en beperkingen te verbinden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=4&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="13566874L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De vergunning is persoonlijk en niet overdraagbaar.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=4&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid3" label-id="13566874L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De vergunning wordt voor de duur van maximaal twee jaar verleend.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=4&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid4" label-id="13566874L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Aan de vergunning kunnen voorschriften en beperkingen worden verbonden met betrekking tot:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel4/Lid4/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het gebruik van de precursor voor explosieven;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=4&amp;lid=4&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid4/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>te nemen veiligheidsmaatregelen voor onder meer vervoer, opslag en gebruik van de precursor voor explosieven, onder meer ter voorkoming van gebruik door anderen dan de aanvrager;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=4&amp;lid=4&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid4/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>te nemen maatregelen bij verdwijning of diefstal van de precursor voor explosieven; of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=4&amp;lid=4&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel4/Lid4/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de door de aanvrager te bewaren gegevens en bescheiden van de aankoop van de precursor voor explosieven.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=4&amp;lid=4&amp;o=d&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=4&amp;lid=4&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid5" label-id="13566874L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Het is verboden te handelen in strijd met de voorschriften en beperkingen, bedoeld in het vierde lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=4&amp;lid=5&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid6" label-id="13566874L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Bij regeling van Onze Minister en Onze Minister van Infrastructuur en Waterstaat kunnen modellen worden vastgesteld van de vergunning alsmede van andere ter uitvoering van de wet te gebruiken bescheiden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=4&amp;lid=6&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-146"><publicatiejaar>2021</publicatiejaar><publicatienr>146</publicatienr><uitgiftedatum isodatum="2021-03-26">26-03-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-03-03">03-03-2021</ondertekeningsdatum><dossierref dossier="35689">35689</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-202"><publicatiejaar>2021</publicatiejaar><publicatienr>202</publicatienr><uitgiftedatum isodatum="2021-04-23">23-04-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-04-19">19-04-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-04-26">26-04-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037995&amp;artikel=4&amp;g=2021-07-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0037995&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=4&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0037995&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" stam-id="13600203" versie-id="27643272" id="C39114271" label-id="13566884" inwerking="2021-04-26" label="Artikel 5" bron="Stb.2021-146" effect="wijziging" ondertekening_bron="2021-03-03" publicatie_bron="2021-03-26" publicatie_iwt="2021-04-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid1" label-id="13566884L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Naast de gegevens, bedoeld in <extref doc="jci1.3:c:BWBR0005537&amp;artikel=4:2" label-id="2814724" verwijzing-id="2766603" bwb-id="BWBR0005537">artikel 4:2 van de Algemene wet bestuursrecht</extref>, worden bij de aanvraag ten minste verstrekt:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel5/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het telefoonnummer van de aanvrager;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=5&amp;lid=1&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel5/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>zijn e-mailadres;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=5&amp;lid=1&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel5/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>het nummer van zijn identiteitsbewijs;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=5&amp;lid=1&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel5/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>het adres waar de precursor voor explosieven zal worden opgeslagen dan wel zal worden gebruikt indien dat niet gelijk is aan het woonadres;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=5&amp;lid=1&amp;o=d&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel5/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>een verklaring omtrent het gedrag van de aanvrager als bedoeld in <extref doc="jci1.3:c:BWBR0014194&amp;artikel=28" label-id="3212724" verwijzing-id="3067668" bwb-id="BWBR0014194">artikel 28 van de Wet justitiële en strafvorderlijke gegevens</extref>, die niet meer dan twee maanden oud is.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=5&amp;lid=1&amp;o=e&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=e"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=5&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid2" label-id="13566884L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Bij regeling van Onze Minister en Onze Minister van Infrastructuur en Waterstaat worden regels gesteld over:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel5/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de plaats waar de aanvraag wordt ingediend;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=5&amp;lid=2&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel5/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de wijze waarop de aanvraag wordt ingediend, en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=5&amp;lid=2&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel5/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>welke bescheiden en gegevens in aanvulling op de gegevens, bedoeld in het eerste lid, bij de aanvraag worden verstrekt.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=5&amp;lid=2&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=5&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid3" label-id="13566884L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Bij regeling van Onze Minister en Onze Minister van Infrastructuur en Waterstaat kan worden bepaald dat voor de behandeling van een aanvraag om een vergunning een kostendekkende vergoeding is verschuldigd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=5&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-146"><publicatiejaar>2021</publicatiejaar><publicatienr>146</publicatienr><uitgiftedatum isodatum="2021-03-26">26-03-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-03-03">03-03-2021</ondertekeningsdatum><dossierref dossier="35689">35689</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-202"><publicatiejaar>2021</publicatiejaar><publicatienr>202</publicatienr><uitgiftedatum isodatum="2021-04-23">23-04-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-04-19">19-04-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-04-26">26-04-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037995&amp;artikel=5&amp;g=2021-07-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0037995&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=5&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0037995&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" stam-id="13600213" versie-id="27643292" id="C39114261" label-id="13566894" inwerking="2021-04-26" label="Artikel 6" bron="Stb.2021-146" effect="wijziging" ondertekening_bron="2021-03-03" publicatie_bron="2021-03-26" publicatie_iwt="2021-04-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid1" label-id="13566894L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onverminderd artikel 6, eerste en tweede lid, van de verordening, betrekt Onze Minister bij zijn besluit een vergunning te verlenen of het voorgenomen gebruik niet in strijd is met de wet en naar het oordeel van Onze Minister proportioneel is om het voorgenomen doel te bereiken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=6&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid2" label-id="13566894L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onverminderd artikel 6, tweede lid, van de verordening wordt de vergunning niet verleend indien dat noodzakelijk is ter bescherming van wezenlijke veiligheidsbelangen of om redenen van openbare orde. Bij regeling van Onze Minister en Onze Minister van Infrastructuur en Waterstaat worden regels gesteld over de toepassing van de eerste volzin.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=6&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-146"><publicatiejaar>2021</publicatiejaar><publicatienr>146</publicatienr><uitgiftedatum isodatum="2021-03-26">26-03-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-03-03">03-03-2021</ondertekeningsdatum><dossierref dossier="35689">35689</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-202"><publicatiejaar>2021</publicatiejaar><publicatienr>202</publicatienr><uitgiftedatum isodatum="2021-04-23">23-04-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-04-19">19-04-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-04-26">26-04-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037995&amp;artikel=6&amp;g=2021-07-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0037995&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=6&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0037995&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" stam-id="13600223" versie-id="27628722" id="C39206131" label-id="13566904" inwerking="2021-07-01" label="Artikel 7" bron="Stb.2021-135" effect="wijziging" ondertekening_bron="2021-03-03" publicatie_bron="2021-03-17" publicatie_iwt="2021-06-02" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid1" label-id="13566904L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De houder van een vergunning licht Onze Minister zo spoedig mogelijk in over wijzigingen van de gegevens en bescheiden die bij de aanvraag van de vergunning zijn verstrekt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=7&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid2" label-id="13566904L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De vergunning kan worden geschorst of ingetrokken, indien:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel7/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>niet langer aan de voorwaarden voor afgifte van de vergunning wordt voldaan;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=7&amp;lid=2&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel7/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de vergunning is verstrekt op grond van onjuiste of onvolledige gegevens;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=7&amp;lid=2&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel7/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de voorschriften van of beperkingen aan de vergunning niet in acht zijn genomen; of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=7&amp;lid=2&amp;o=c&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel7/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>niet is voldaan aan het eerste lid dan wel een vordering als bedoeld in <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:20" label-id="2820074" verwijzing-id="2766605" bwb-id="BWBR0005537">artikel 5:20, eerste lid, van de Algemene wet bestuursrecht</extref>.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=7&amp;lid=2&amp;o=d&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=7&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid3" label-id="13566904L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>In de situatie, bedoeld in artikel 6, vijfde lid, laatste zin, van de verordening, treedt een besluit tot schorsing of intrekking van de vergunning in werking op de dag dat het is genomen. <extref doc="jci1.3:c:BWBR0005537&amp;artikel=3:40" label-id="2814634" verwijzing-id="3067673" bwb-id="BWBR0005537">Artikel 3:40 van de Algemene wet bestuursrecht</extref> blijft in zoverre buiten toepassing. De bekendmaking van de schorsing of intrekking vindt onverwijld plaats zodra voormelde situatie zich niet langer voordoet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=7&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-135"><publicatiejaar>2021</publicatiejaar><publicatienr>135</publicatienr><uitgiftedatum isodatum="2021-03-17">17-03-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-03-03">03-03-2021</ondertekeningsdatum><dossierref dossier="35256">35256</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-254"><publicatiejaar>2021</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2021-06-02">02-06-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-05-18">18-05-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Abusievelijk is een wijziging geformuleerd die niet kan worden doorgevoerd.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037995&amp;artikel=7&amp;g=2021-07-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0037995&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=7&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0037995&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" stam-id="13600233" versie-id="27643312" id="C39114251" label-id="13566914" inwerking="2021-04-26" label="Artikel 8" bron="Stb.2021-146" effect="wijziging" ondertekening_bron="2021-03-03" publicatie_bron="2021-03-26" publicatie_iwt="2021-04-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid1" label-id="13566914L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het is verboden te handelen in strijd met de artikelen 7 en 8 van de verordening en de regels, bedoeld in het tweede lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=8&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid2" label-id="13566914L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Bij regeling van Onze Minister en Onze Minister van Infrastructuur en Waterstaat worden regels gesteld over de wijze waarop marktdeelnemers gereguleerde precursoren voor explosieven aanbieden, en over de wijze waarop onlinemarktplaatsen hun gebruikers informeren over de verplichtingen ingevolge de verordening. Daarbij worden in elk geval regels gesteld over de verificaties die marktdeelnemers uitvoeren bij het aanbieden van precursoren voor explosieven waarvoor een beperking geldt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=8&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-146"><publicatiejaar>2021</publicatiejaar><publicatienr>146</publicatienr><uitgiftedatum isodatum="2021-03-26">26-03-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-03-03">03-03-2021</ondertekeningsdatum><dossierref dossier="35689">35689</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-202"><publicatiejaar>2021</publicatiejaar><publicatienr>202</publicatienr><uitgiftedatum isodatum="2021-04-23">23-04-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-04-19">19-04-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-04-26">26-04-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037995&amp;artikel=8&amp;g=2021-07-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0037995&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=8&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0037995&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" stam-id="13600243" versie-id="27643322" id="C39114311" label-id="13566924" inwerking="2021-04-26" label="Artikel 9" bron="Stb.2021-146" effect="wijziging" ondertekening_bron="2021-03-03" publicatie_bron="2021-03-26" publicatie_iwt="2021-04-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid1" label-id="13566924L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het is verboden te handelen in strijd met artikel 9, eerste, tweede, en vierde tot en met zesde lid, van de verordening.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=9&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid2" label-id="13566924L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Artikel 9, eerste, tweede, en vierde tot en met zesde lid, van de verordening is van toepassing op de krachtens <intref doc="jci1.3:c:BWBR0037995&amp;artikel=2&amp;z=2021-07-01&amp;g=2021-07-01" label-id="13566854" verwijzing-id="3067674" bwb-id="BWBR0037995" bwb-ng-variabel-deel="/Artikel2">artikel 2, tweede lid</intref>, van deze wet aangewezen precursoren.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=9&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid3" label-id="13566924L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Bij regeling van Onze Minister en Onze Minister van Infrastructuur en Waterstaat worden regels gesteld over de in het eerste en tweede lid bedoelde meldingen en procedures.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=9&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid4" label-id="13566924L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Het is verboden te handelen in strijd met de regels, bedoeld in het derde lid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=9&amp;lid=4&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-146"><publicatiejaar>2021</publicatiejaar><publicatienr>146</publicatienr><uitgiftedatum isodatum="2021-03-26">26-03-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-03-03">03-03-2021</ondertekeningsdatum><dossierref dossier="35689">35689</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-202"><publicatiejaar>2021</publicatiejaar><publicatienr>202</publicatienr><uitgiftedatum isodatum="2021-04-23">23-04-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-04-19">19-04-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-04-26">26-04-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037995&amp;artikel=9&amp;g=2021-07-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0037995&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=9&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0037995&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" stam-id="13600253" versie-id="23273752" id="C33585861" label-id="13566934" inwerking="2016-06-01" label="Artikel 10" bron="Stb.2016-200" effect="nieuwe-regeling" ondertekening_bron="2016-05-25" publicatie_bron="2016-05-31" publicatie_iwt="2016-05-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid1" label-id="13566934L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Met het toezicht op de naleving van het bepaalde bij de verordening, of van het bepaalde bij of krachtens deze wet, zijn belast de bij besluit van Onze Minister aangewezen ambtenaren. Onze Minister kan aan deze ambtenaren algemene en bijzondere aanwijzingen geven omtrent de uitvoering van het toezicht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=10&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid2" label-id="13566934L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=10&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-200"><publicatiejaar>2016</publicatiejaar><publicatienr>200</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum><dossierref dossier="34289">34289</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-201"><publicatiejaar>2016</publicatiejaar><publicatienr>201</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-01">01-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037995&amp;artikel=10&amp;g=2021-07-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0037995&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=10&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0037995&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" stam-id="13600263" versie-id="23273762" id="C33585871" label-id="13566944" inwerking="2016-06-01" label="Artikel 11" bron="Stb.2016-200" effect="nieuwe-regeling" ondertekening_bron="2016-05-25" publicatie_bron="2016-05-31" publicatie_iwt="2016-05-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+  </kop>
+  <al>Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhaving van de bij of krachtens deze wet gestelde verbodsbepalingen en verplichtingen en van de verordening.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-200"><publicatiejaar>2016</publicatiejaar><publicatienr>200</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum><dossierref dossier="34289">34289</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-201"><publicatiejaar>2016</publicatiejaar><publicatienr>201</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-01">01-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037995&amp;artikel=11&amp;g=2021-07-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0037995&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=11&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0037995&amp;artikel=11"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel12" stam-id="13600273" versie-id="23273772" id="C33585881" label-id="13566954" inwerking="2016-06-01" label="Artikel 12" bron="Stb.2016-200" effect="nieuwe-regeling" ondertekening_bron="2016-05-25" publicatie_bron="2016-05-31" publicatie_iwt="2016-05-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">12</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel12/Lid1" label-id="13566954L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister, of een krachtens deze wet of bij de <extref doc="jci1.3:c:BWBR0023746" label-id="9453784" verwijzing-id="2766606" bwb-id="BWBR0023746">Algemene Douanewet</extref> aangewezen toezichthouder, verstrekt op verzoek van de korpschef, bedoeld in <extref doc="jci1.3:c:BWBR0031788&amp;artikel=27" label-id="11763274" verwijzing-id="2766607" bwb-id="BWBR0031788">artikel 27 van de Politiewet 2012</extref>, de persoonsgegevens bedoeld in <intref doc="jci1.3:c:BWBR0037995&amp;artikel=5&amp;z=2021-07-01&amp;g=2021-07-01" label-id="13566884" verwijzing-id="2766624" bwb-id="BWBR0037995" bwb-ng-variabel-deel="/Artikel5">artikel 5, eerste lid</intref>, dan wel andere gegevens of bescheiden ten behoeve van de goede uitvoering van de politietaak, bedoeld in de <extref doc="jci1.3:c:BWBR0031788&amp;artikel=3" label-id="11762974" verwijzing-id="2766625" bwb-id="BWBR0031788">artikelen 3</extref> en <extref doc="jci1.3:c:BWBR0031788&amp;artikel=4" label-id="11762984" verwijzing-id="2766608" bwb-id="BWBR0031788">4, eerste lid, van de Politiewet 2012</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=12&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel12/Lid2" label-id="13566954L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Onze Minister, of een krachtens deze wet of bij de <extref doc="jci1.3:c:BWBR0023746" label-id="9453784" verwijzing-id="2766609" bwb-id="BWBR0023746">Algemene Douanewet</extref> aangewezen toezichthouder, verstrekt op verzoek van de commandant van de Koninklijke marechaussee de persoonsgegevens bedoeld in <intref doc="jci1.3:c:BWBR0037995&amp;artikel=5&amp;z=2021-07-01&amp;g=2021-07-01" label-id="13566884" verwijzing-id="2766626" bwb-id="BWBR0037995" bwb-ng-variabel-deel="/Artikel5">artikel 5, eerste lid</intref>, dan wel andere gegevens of bescheiden ten behoeve van de goede uitvoering van de politietaak door de Koninklijke marechaussee als bedoeld in <extref doc="jci1.3:c:BWBR0031788&amp;artikel=4" label-id="11762984" verwijzing-id="2766610" bwb-id="BWBR0031788">artikel 4 van de Politiewet 2012</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=12&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-200"><publicatiejaar>2016</publicatiejaar><publicatienr>200</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum><dossierref dossier="34289">34289</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-201"><publicatiejaar>2016</publicatiejaar><publicatienr>201</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-01">01-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037995&amp;artikel=12&amp;g=2021-07-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0037995&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=12&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0037995&amp;artikel=12"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13" stam-id="13600283" versie-id="23273782" id="C33585891" label-id="13566964" inwerking="2016-06-01" label="Artikel 13" bron="Stb.2016-200" effect="nieuwe-regeling" ondertekening_bron="2016-05-25" publicatie_bron="2016-05-31" publicatie_iwt="2016-05-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid1" label-id="13566964L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onze Minister, of een krachtens deze wet of bij de <extref doc="jci1.3:c:BWBR0023746" label-id="9453784" verwijzing-id="2766611" bwb-id="BWBR0023746">Algemene Douanewet</extref> aangewezen toezichthouder, ontvangt de persoonsgegevens, bedoeld in <intref doc="jci1.3:c:BWBR0037995&amp;artikel=5&amp;z=2021-07-01&amp;g=2021-07-01" label-id="13566884" verwijzing-id="2766622" bwb-id="BWBR0037995" bwb-ng-variabel-deel="/Artikel5">artikel 5, eerste lid</intref>, dan wel andere gegevens of bescheiden ten behoeve van een doelmatige en doeltreffende uitvoering van deze wet, van:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel13/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de korpschef, bedoeld in <extref doc="jci1.3:c:BWBR0031788&amp;artikel=27" label-id="11763274" verwijzing-id="2766612" bwb-id="BWBR0031788">artikel 27 van de Politiewet 2012</extref>, dan wel</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=13&amp;lid=1&amp;o=a&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel13/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de commandant van de Koninklijke marechaussee ten behoeve van de goede uitoefening van de politietaak, bedoeld in <extref doc="jci1.3:c:BWBR0031788&amp;artikel=4" label-id="11762984" verwijzing-id="2766613" bwb-id="BWBR0031788">artikel 4 van de Politiewet 2012</extref>.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=13&amp;lid=1&amp;o=b&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=13&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid2" label-id="13566964L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Andere bestuursorganen zijn bevoegd uit eigen beweging en desgevraagd verplicht aan Onze Minister, onderscheidenlijk een krachtens deze wet of bij de <extref doc="jci1.3:c:BWBR0023746" label-id="9453784" verwijzing-id="2766614" bwb-id="BWBR0023746">Algemene Douanewet</extref> aangewezen toezichthouder, de persoonsgegevens, bedoeld in <intref doc="jci1.3:c:BWBR0037995&amp;artikel=5&amp;z=2021-07-01&amp;g=2021-07-01" label-id="13566884" verwijzing-id="2766623" bwb-id="BWBR0037995" bwb-ng-variabel-deel="/Artikel5">artikel 5, eerste lid</intref>, dan wel andere gegevens of bescheiden te verstrekken die noodzakelijk zijn voor de uitvoering van en het toezicht op de naleving van deze wet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=13&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-200"><publicatiejaar>2016</publicatiejaar><publicatienr>200</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum><dossierref dossier="34289">34289</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-201"><publicatiejaar>2016</publicatiejaar><publicatienr>201</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-01">01-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037995&amp;artikel=13&amp;g=2021-07-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0037995&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=13&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0037995&amp;artikel=13"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel14" stam-id="13600293" versie-id="25164612" id="C35978731" label-id="13566974" inwerking="2018-07-28" label="Artikel 14" bron="Stb.2018-247" effect="wijziging" ondertekening_bron="2018-07-11" publicatie_bron="2018-07-27" publicatie_iwt="2018-07-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">14</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid1" label-id="13566974L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Ten behoeve van de doelmatige en doeltreffende uitvoering van deze wet worden persoonsgegevens verwerkt. Onze Minister is de verwerkingsverantwoordelijke.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=14&amp;lid=1&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid2" label-id="13566974L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De persoonsgegevens, bedoeld in <intref doc="jci1.3:c:BWBR0037995&amp;artikel=5&amp;z=2021-07-01&amp;g=2021-07-01" label-id="13566884" verwijzing-id="2766617" bwb-id="BWBR0037995" bwb-ng-variabel-deel="/Artikel5">artikel 5, eerste lid</intref>, en de bescheiden en gegevens die op grond van artikel 5, tweede lid, onderdeel c, zijn verstrekt, worden drie jaar bewaard, ook indien de vergunning wordt geweigerd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=14&amp;lid=2&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid3" label-id="13566974L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De persoonsgegevens dan wel andere gegevens of bescheiden die door de op grond van <intref doc="jci1.3:c:BWBR0037995&amp;artikel=10&amp;z=2021-07-01&amp;g=2021-07-01" label-id="13566934" verwijzing-id="2766618" bwb-id="BWBR0037995" bwb-ng-variabel-deel="/Artikel10">artikel 10</intref> en <intref doc="jci1.3:c:BWBR0037995&amp;artikel=16&amp;z=2021-07-01&amp;g=2021-07-01" label-id="13566994" verwijzing-id="2766619" bwb-id="BWBR0037995" bwb-ng-variabel-deel="/Artikel16">16</intref> met het toezicht belaste ambtenaren verkregen zijn bij de uitoefening van hun taak, worden maximaal vijf jaar bewaard.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=14&amp;lid=3&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-247"><publicatiejaar>2018</publicatiejaar><publicatienr>247</publicatienr><uitgiftedatum isodatum="2018-07-27">27-07-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-07-11">11-07-2018</ondertekeningsdatum><dossierref dossier="34939">34939</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-248"><publicatiejaar>2018</publicatiejaar><publicatienr>248</publicatienr><uitgiftedatum isodatum="2018-07-27">27-07-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-07-11">11-07-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-07-28">28-07-2018</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2018-05-25">25-05-2018</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037995&amp;artikel=14&amp;g=2021-07-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0037995&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=14&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0037995&amp;artikel=14"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel15" stam-id="13600303" versie-id="23273802" id="C33585911" label-id="13566984" inwerking="2016-06-01" label="Artikel 15" bron="Stb.2016-200" effect="nieuwe-regeling" ondertekening_bron="2016-05-25" publicatie_bron="2016-05-31" publicatie_iwt="2016-05-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de economische delicten.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-200"><publicatiejaar>2016</publicatiejaar><publicatienr>200</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum><dossierref dossier="34289">34289</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-201"><publicatiejaar>2016</publicatiejaar><publicatienr>201</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-01">01-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037995&amp;artikel=15&amp;g=2021-07-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0037995&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=15&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0037995&amp;artikel=15"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel16" stam-id="13600313" versie-id="23273812" id="C33585921" label-id="13566994" inwerking="2016-06-01" label="Artikel 16" bron="Stb.2016-200" effect="nieuwe-regeling" ondertekening_bron="2016-05-25" publicatie_bron="2016-05-31" publicatie_iwt="2016-05-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">16</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Algemene Douanewet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-200"><publicatiejaar>2016</publicatiejaar><publicatienr>200</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum><dossierref dossier="34289">34289</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-201"><publicatiejaar>2016</publicatiejaar><publicatienr>201</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-01">01-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037995&amp;artikel=16&amp;g=2021-07-01" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0037995&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=16&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0037995&amp;artikel=16"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel17" stam-id="13600323" versie-id="23273822" id="C33585931" label-id="13567004" inwerking="2016-06-01" label="Artikel 17" bron="Stb.2016-200" effect="nieuwe-regeling" ondertekening_bron="2016-05-25" publicatie_bron="2016-05-31" publicatie_iwt="2016-05-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">17</nr>
+  </kop>
+  <al>De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-200"><publicatiejaar>2016</publicatiejaar><publicatienr>200</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum><dossierref dossier="34289">34289</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-201"><publicatiejaar>2016</publicatiejaar><publicatienr>201</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-01">01-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037995&amp;artikel=17&amp;g=2021-07-01" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0037995&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=17&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0037995&amp;artikel=17"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel18" stam-id="13600333" versie-id="23273832" id="C33585941" label-id="13567014" inwerking="2016-06-01" label="Artikel 18" bron="Stb.2016-200" effect="nieuwe-regeling" ondertekening_bron="2016-05-25" publicatie_bron="2016-05-31" publicatie_iwt="2016-05-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">18</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet precursoren voor explosieven.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-200"><publicatiejaar>2016</publicatiejaar><publicatienr>200</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum><dossierref dossier="34289">34289</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-201"><publicatiejaar>2016</publicatiejaar><publicatienr>201</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-01">01-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037995&amp;artikel=18&amp;g=2021-07-01" onderdeel="artikel=18" korte-verwijzing="1.0:c:BWBR0037995&amp;artikel=18"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;artikel=18&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="artikel=18" korte-verwijzing="jci1.3:c:BWBR0037995&amp;artikel=18"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="13600343" versie-id="23273842" id="C33585951" label-id="13567024" inwerking="2016-06-01" bron="Stb.2016-200" effect="nieuwe-regeling" ondertekening_bron="2016-05-25" publicatie_bron="2016-05-31" publicatie_iwt="2016-05-31" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <label>Gegeven te </label>
+    <dagtekening>
+      <plaats>Wassenaar</plaats>
+      <datum isodatum="2016-05-25">25 mei 2016</datum>
+    </dagtekening>
+    <koning>Willem-Alexander</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Veiligheid en Justitie, </functie>
+    <naam>
+      <voornaam>G.A. van der</voornaam>
+      <achternaam>Steur</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Staatssecretaris van Infrastructuur en Milieu, </functie>
+    <naam>
+      <voornaam>S.A.M.</voornaam>
+      <achternaam>Dijksma</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2016-05-31">de <nadruk type="cur">eenendertigste</nadruk> mei 2016</datum>
+    <ondertekening>
+      <functie>De Minister van Veiligheid en Justitie, </functie>
+      <naam>
+        <voornaam>G.A. van der</voornaam>
+        <achternaam>Steur</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-200"><publicatiejaar>2016</publicatiejaar><publicatienr>200</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum><dossierref dossier="34289">34289</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-201"><publicatiejaar>2016</publicatiejaar><publicatienr>201</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-01">01-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-200"><publicatiejaar>2016</publicatiejaar><publicatienr>200</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum><dossierref dossier="34289">34289</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2016-201"><publicatiejaar>2016</publicatiejaar><publicatienr>201</publicatienr><uitgiftedatum isodatum="2016-05-31">31-05-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-05-25">25-05-2016</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2016-06-01">01-06-2016</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0037995&amp;g=2021-07-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0037995"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0037995&amp;z=2021-07-01&amp;g=2021-07-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0037995"/></jcis></meta-data></wetgeving></toestand>

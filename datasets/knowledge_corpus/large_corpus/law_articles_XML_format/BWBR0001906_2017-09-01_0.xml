@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0001906/2017-09-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0001906" inwerkingtreding="2017-09-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="1378063" versie-id="14340312" id="C19503021" label-id="1336354" inwerkingtredingsdatum="2007-03-08">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="1378103" versie-id="2066742" id="C2066741" label-id="1336164" inwerking="1922-10-15" bron="Stb.1921-842" effect="nieuwe-regeling" ondertekening_bron="1921-07-05" status="goed">Wet van 5 juli 1921, houdende bepalingen omtrent de handelsnaam <meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1921</publicatiejaar><publicatienr>842</publicatienr><ondertekeningsdatum isodatum="1921-07-05">05-07-1921</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1922</publicatiejaar><publicatienr>543</publicatienr><ondertekeningsdatum isodatum="1922-04-30">30-04-1922</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1922-10-15">15-10-1922</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="1378113" versie-id="2066772" id="C2066771" label-id="1336174" inwerking="1922-10-15" bron="Stb.1921-842" effect="nieuwe-regeling" ondertekening_bron="1921-07-05">Handelsnaamwet<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1921</publicatiejaar><publicatienr>842</publicatienr><ondertekeningsdatum isodatum="1921-07-05">05-07-1921</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1922</publicatiejaar><publicatienr>543</publicatienr><ondertekeningsdatum isodatum="1922-04-30">30-04-1922</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1922-10-15">15-10-1922</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="1378123" versie-id="2066782" id="C2066781" label-id="1336184" inwerking="1922-10-15" bron="Stb.1921-842" effect="nieuwe-regeling" ondertekening_bron="1921-07-05" status="goed">
+  <wij>Wij WILHELMINA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz. </wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of hooren lezen, salut! doen te weten: </considerans.al>
+    <considerans.al>Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is wettelijke bepalingen vast te stellen omtrent den handelsnaam; </considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1921</publicatiejaar><publicatienr>842</publicatienr><ondertekeningsdatum isodatum="1921-07-05">05-07-1921</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1922</publicatiejaar><publicatienr>543</publicatienr><ondertekeningsdatum isodatum="1922-04-30">30-04-1922</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1922-10-15">15-10-1922</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" code="a-1" stam-id="1378133" versie-id="2066802" id="C25165831" label-id="1336194" inwerking="1954-10-01" label="Artikel 1" bron="Stb.1954-410" effect="wijziging" ondertekening_bron="1954-09-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>Onder handelsnaam verstaat deze wet de naam waaronder een onderneming wordt gedreven. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>410</publicatienr><ondertekeningsdatum isodatum="1954-09-20">20-09-1954</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>410</publicatienr><ondertekeningsdatum isodatum="1954-09-20">20-09-1954</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1954-10-01">01-10-1954</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001906&amp;artikel=1&amp;g=2017-09-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0001906&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0001906&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="a-2" stam-id="1378143" versie-id="2066832" id="C25165841" label-id="1336204" inwerking="1954-10-01" label="Artikel 2" bron="Stb.1954-410" effect="wijziging" ondertekening_bron="1954-09-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <al>De handelsnaam gaat over bij erfopvolging en is vatbaar voor overdracht, doch een en ander slechts in verbinding met de onderneming, die onder die naam wordt gedreven. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>410</publicatienr><ondertekeningsdatum isodatum="1954-09-20">20-09-1954</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>410</publicatienr><ondertekeningsdatum isodatum="1954-09-20">20-09-1954</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1954-10-01">01-10-1954</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001906&amp;artikel=2&amp;g=2017-09-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0001906&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0001906&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="a-3" stam-id="1378153" versie-id="2066852" id="C25165851" label-id="1336214" inwerking="1954-10-01" label="Artikel 3" bron="Stb.1954-410" effect="wijziging" ondertekening_bron="1954-09-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="1336214L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het is de eigenaar ener onderneming verboden een handelsnaam te voeren, die in strijd met de waarheid aanduidt, dat de onderneming, geheel of gedeeltelijk aan een ander zou toebehoren. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=3&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="1336214L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Het eerste lid is mede van toepassing, indien de in de handelsnaam voorkomende aanduiding slechts in zo geringe mate van de naam van die ander afwijkt, dat dientengevolge bij het publiek verwarring van deze met de eigenaar der onderneming, te duchten is. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=3&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid3" label-id="1336214L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Het eerste lid is niet van toepassing, indien de handelsnaam en de onderneming afkomstig zijn van iemand, die die naam heeft gevoerd niet in strijd met deze wet. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=3&amp;lid=3&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>410</publicatienr><ondertekeningsdatum isodatum="1954-09-20">20-09-1954</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>410</publicatienr><ondertekeningsdatum isodatum="1954-09-20">20-09-1954</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1954-10-01">01-10-1954</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001906&amp;artikel=3&amp;g=2017-09-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0001906&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=3&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0001906&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="a-4" stam-id="1378163" versie-id="2066872" id="C25165861" label-id="1336224" inwerking="1991-04-01" label="Artikel 4" bron="Stb.1990-294" effect="wijziging" ondertekening_bron="1990-05-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="1336224L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het is verboden een handelsnaam te voeren, die in strijd met de waarheid aanduidt, dat de onderneming zou toebehoren aan een of meer personen, handelende als een vennootschap onder een firma, als een vennootschap en commandite of een rederij, of wel aan een naamloze vennootschap, een besloten vennootschap met beperkte aansprakelijkheid, een onderlinge waarborgmaatschappij, een coöperatie, een vereniging of aan een stichting. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=4&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="1336224L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> In de handelsnaam duidt de vermelding van meer dan één persoon, ook al worden hun namen niet genoemd, aan, dat de onderneming toebehoort aan personen, handelende als een vennootschap onder een firma; de woorden "en compagnie", dat de onderneming toebehoort aan personen, handelende als een vennootschap onder een firma of aan een of meer personen, handelende als een vennootschap <nadruk type="cur">en commandite</nadruk>; het woord "maatschappij", dat de onderneming toebehoort aan een naamloze vennootschap, aan een besloten vennootschap met beperkte aansprakelijkheid of aan een vereniging, en het woord "fonds" aan een stichting; alles voor zover niet uit de handelsnaam in zijn geheel het tegendeel blijkt. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=4&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid3" label-id="1336224L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Het eerste lid is niet van toepassing, indien de handelsnaam wordt gevoerd door één persoon zonder vennoten, en die naam en de onderneming afkomstig zijn van een vennootschap onder een firma of van een vennootschap <nadruk type="cur">en commandite,</nadruk> die die handelsnaam heeft gevoerd niet in strijd met deze wet. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=4&amp;lid=3&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1990</publicatiejaar><publicatienr>294</publicatienr><ondertekeningsdatum isodatum="1990-05-23">23-05-1990</ondertekeningsdatum><dossierref dossier="20576">20576</dossierref></publicatie><juncto><publicatie soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>128</publicatienr><ondertekeningsdatum isodatum="1991-03-22">22-03-1991</ondertekeningsdatum></publicatie></juncto></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>100</publicatienr><ondertekeningsdatum isodatum="1991-03-04">04-03-1991</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1991-04-01">01-04-1991</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001906&amp;artikel=4&amp;g=2017-09-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0001906&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=4&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0001906&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="a-5" stam-id="1378173" versie-id="2066892" id="C25165871" label-id="1336234" inwerking="1954-10-01" label="Artikel 5" bron="Stb.1954-410" effect="wijziging" ondertekening_bron="1954-09-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <al>Het is verboden een handelsnaam te voeren, die, vóórdat de onderneming onder die naam werd gedreven, reeds door een ander rechtmatig gevoerd werd, of die van diens handelsnaam slechts in geringe mate afwijkt, een en ander voor zover dientengevolge, in verband met de aard der beide ondernemingen en de plaats, waar zij gevestigd zijn, bij het publiek verwarring tussen die ondernemingen te duchten is. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>410</publicatienr><ondertekeningsdatum isodatum="1954-09-20">20-09-1954</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>410</publicatienr><ondertekeningsdatum isodatum="1954-09-20">20-09-1954</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1954-10-01">01-10-1954</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001906&amp;artikel=5&amp;g=2017-09-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0001906&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=5&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0001906&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5a" code="a-5a" stam-id="1378183" versie-id="2066912" id="C25165081" label-id="1336244" inwerking="1954-10-01" label="Artikel 5a" bron="Stb.1954-410" effect="wijziging" ondertekening_bron="1954-09-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5a</nr>
+  </kop>
+  <al>Het is verboden een handelsnaam te voeren, die het merk bevat, waarop een ander ter onderscheiding van zijn fabrieks- of handelswaren recht heeft, dan wel een aanduiding, die van zodanig merk slechts in geringe mate afwijkt, voor zover dientengevolge bij het publiek verwarring omtrent de herkomst van de waren te duchten is. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>410</publicatienr><ondertekeningsdatum isodatum="1954-09-20">20-09-1954</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>410</publicatienr><ondertekeningsdatum isodatum="1954-09-20">20-09-1954</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1954-10-01">01-10-1954</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001906&amp;artikel=5a&amp;g=2017-09-01" onderdeel="artikel=5a" korte-verwijzing="1.0:c:BWBR0001906&amp;artikel=5a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=5a&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=5a" korte-verwijzing="jci1.3:c:BWBR0001906&amp;artikel=5a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5b" code="a-5b" stam-id="1378193" versie-id="2066942" id="C25165881" label-id="1336254" inwerking="1954-10-01" label="Artikel 5b" bron="Stb.1954-410" effect="wijziging" ondertekening_bron="1954-09-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5b</nr>
+  </kop>
+  <al>Het is verboden een handelsnaam te voeren, welke een onjuiste indruk geeft van de onder die naam gedreven onderneming, voor zover dientengevolge misleiding van het publiek te duchten is. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>410</publicatienr><ondertekeningsdatum isodatum="1954-09-20">20-09-1954</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>410</publicatienr><ondertekeningsdatum isodatum="1954-09-20">20-09-1954</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1954-10-01">01-10-1954</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001906&amp;artikel=5b&amp;g=2017-09-01" onderdeel="artikel=5b" korte-verwijzing="1.0:c:BWBR0001906&amp;artikel=5b"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=5b&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=5b" korte-verwijzing="jci1.3:c:BWBR0001906&amp;artikel=5b"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" stam-id="1378203" versie-id="24302632" id="C34887931" label-id="1336264" inwerking="2017-09-01" label="Artikel 6" bron="Stb.2016-290" effect="wijziging" ondertekening_bron="2016-07-13" publicatie_bron="2016-07-21" publicatie_iwt="2017-05-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid1" label-id="1336264L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien een handelsnaam wordt gevoerd in strijd met deze wet, kan ieder belanghebbende, onverminderd zijn vordering krachtens <extref doc="jci1.3:c:BWBR0005289&amp;titeldeel=3" label-id="2907734" verwijzing-id="2601784" bwb-id="BWBR0005289">titel 3 van Boek 6 van het Burgerlijk Wetboek</extref>, de kantonrechter verzoeken degene die de verboden handelsnaam voert, te veroordelen, daarin zodanige door de rechter te bepalen wijziging aan te brengen, dat de gestelde onrechtmatigheid wordt opgeheven. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=6&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid2" label-id="1336264L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het verzoekschrift wordt gericht tot de rechtbank van het arrondissement waarin de onderneming is gevestigd, die onder de verboden handelsnaam wordt gedreven. Is de onderneming buiten het rijk in Europa gevestigd, doch heeft zij in dat rijk een filiaal of bijkantoor, of wordt zij aldaar vertegenwoordigd door een gevolmachtigde handelsagent, dan is de rechtbank van het arrondissement waarin dat filiaal of bijkantoor of die handelsagent is gevestigd, bevoegd. Indien volgens de voorgaande bepalingen geen rechtbank bevoegd is, is de rechtbank van het arrondissement waarin de woonplaats des verzoekers is gelegen bevoegd. Is de onderneming in meer dan één arrondissement gevestigd, dan is bevoegd de rechtbank van elk van deze arrondissementen, ter keuze van de verzoeker. Hetzelfde geldt ingeval de onderneming buiten het rijk in Europa is gevestigd, doch in meer dan één arrondissement een filiaal of bijkantoor heeft of door een gevolmachtigde handelsagent vertegenwoordigd wordt. Het verzoekschrift wordt behandeld door de kantonrechter.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=6&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid3" label-id="1336264L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Het verzoekschrift wordt aan de wederpartij betekend. De kantonrechter beschikt niet op het verzoekschrift dan na verhoor of behoorlijke oproeping van partijen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=6&amp;lid=3&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid4" label-id="1336264L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> De griffier zendt een afschrift van de beslissing van de kantonrechter aan partijen. Binnen een maand na de dag van de verzending van dit afschrift kan door hem, die daarbij geheel of gedeeltelijk in het ongelijk is gesteld, hoger beroep worden ingesteld bij het gerechtshof, dat in raadkamer beslist. Het derde lid vindt overeenkomstige toepassing. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=6&amp;lid=4&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid5" label-id="1336264L5">
+    <lidnr status="officieel">5</lidnr>
+    <al> De griffier zendt een afschrift van de beslissing van de het<tekstcorrectie>‘de het’ moet zijn ‘het’</tekstcorrectie> gerechtshof aan partijen. Binnen één maand na de dag van de verzending van dit afschrift kan door hem, die daarbij geheel of gedeeltelijk in het ongelijk is gesteld, beroep in cassatie worden ingesteld. Het daartoe strekkend verzoekschrift wordt aan de wederpartij betekend. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=6&amp;lid=5&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid6" label-id="1336264L6">
+    <lidnr status="officieel">6</lidnr>
+    <al> De rechter kan de voorlopige tenuitvoerlegging van zijn beschikking bevelen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=6&amp;lid=6&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2016-290"><publicatiejaar>2016</publicatiejaar><publicatienr>290</publicatienr><uitgiftedatum isodatum="2016-07-21">21-07-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-07-13">13-07-2016</ondertekeningsdatum><dossierref dossier="34212">34212</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-174"><publicatiejaar>2017</publicatiejaar><publicatienr>174</publicatienr><uitgiftedatum isodatum="2017-05-04">04-05-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-05-01">01-05-2017</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2017-09-01">01-09-2017</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Artikel CIX van Stb. 2016/290 bevat overgangsrecht m.b.t. deze wijziging.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001906&amp;artikel=6&amp;g=2017-09-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0001906&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=6&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0001906&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6a" code="a-6a" stam-id="1378213" versie-id="20965062" id="C30438491" label-id="1336274" inwerking="2014-01-01" label="Artikel 6a" bron="Stb.2013-507" effect="wijziging" ondertekening_bron="2013-11-25" publicatie_bron="2013-12-10" publicatie_iwt="2013-12-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel6a/Lid1" label-id="1336274L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het verzoek bedoeld in het eerste lid van het vorige artikel kan ook gedaan worden door de Kamer van Koophandel. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=6a&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6a/Lid2" label-id="1336274L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> De Kamer van Koophandel, binnen welker ressort de ingevolge <intref verwijzing-id="467731" doc="jci1.3:c:BWBR0001906&amp;artikel=6&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0001906" label-id="1336264" bwb-ng-variabel-deel="/Artikel6">artikel 6, tweede lid</intref>, bevoegde rechter zetelt, is tot het doen van het verzoek bevoegd. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=6a&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6a/Lid3" label-id="1336274L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Het verzoekschrift wordt door de griffier toegezonden aan de eigenaar van de onderneming, van welke wijziging van de handelsnaam wordt verzocht, en zo nodig aan andere belanghebbenden. De kantonrechter beslist niet dan na verhoor of behoorlijke oproeping van degenen aan wie het verzoekschrift is toegezonden. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=6a&amp;lid=3&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6a/Lid4" label-id="1336274L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> Het vierde, vijfde en zesde lid van het vorige artikel vinden overeenkomstige toepassing. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=6a&amp;lid=4&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-507"><publicatiejaar>2013</publicatiejaar><publicatienr>507</publicatienr><uitgiftedatum isodatum="2013-12-10">10-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-11-25">25-11-2013</ondertekeningsdatum><dossierref dossier="33553">33553</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2013-508"><publicatiejaar>2013</publicatiejaar><publicatienr>508</publicatienr><uitgiftedatum isodatum="2013-12-10">10-12-2013</uitgiftedatum><ondertekeningsdatum isodatum="2013-11-25">25-11-2013</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2014-01-01">01-01-2014</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001906&amp;artikel=6a&amp;g=2017-09-01" onderdeel="artikel=6a" korte-verwijzing="1.0:c:BWBR0001906&amp;artikel=6a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=6a&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=6a" korte-verwijzing="jci1.3:c:BWBR0001906&amp;artikel=6a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6b" stam-id="9008323" versie-id="23490402" id="C34887911" label-id="8987264" inwerking="2017-09-01" label="Artikel 6b" bron="Stb.2016-290" effect="wijziging" ondertekening_bron="2016-07-13" publicatie_bron="2016-07-21" publicatie_iwt="2017-05-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6b</nr>
+  </kop>
+  <al>De voorzieningenrechter kan op vordering van eiser tijdelijke voortzetting van de vermeende strijd met de <intref doc="jci1.3:c:BWBR0001906&amp;artikel=5&amp;z=2017-09-01&amp;g=2017-09-01" label-id="1336234" verwijzing-id="2136587" bwb-id="BWBR0001906" bwb-ng-variabel-deel="/Artikel5">artikelen 5</intref> of <intref doc="jci1.3:c:BWBR0001906&amp;artikel=5a&amp;z=2017-09-01&amp;g=2017-09-01" label-id="1336244" verwijzing-id="2136588" bwb-id="BWBR0001906" bwb-ng-variabel-deel="/Artikel5a">5a</intref> toestaan onder de voorwaarde dat de verweerder zekerheid stelt voor vergoeding van de door eiser geleden schade.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2016-290"><publicatiejaar>2016</publicatiejaar><publicatienr>290</publicatienr><uitgiftedatum isodatum="2016-07-21">21-07-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-07-13">13-07-2016</ondertekeningsdatum><dossierref dossier="34212">34212</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-174"><publicatiejaar>2017</publicatiejaar><publicatienr>174</publicatienr><uitgiftedatum isodatum="2017-05-04">04-05-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-05-01">01-05-2017</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2017-09-01">01-09-2017</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Artikel CIX van Stb. 2016/290 bevat overgangsrecht m.b.t. deze wijziging.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001906&amp;artikel=6b&amp;g=2017-09-01" onderdeel="artikel=6b" korte-verwijzing="1.0:c:BWBR0001906&amp;artikel=6b"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=6b&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=6b" korte-verwijzing="jci1.3:c:BWBR0001906&amp;artikel=6b"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6c" code="n1-6c" stam-id="9008333" versie-id="14340332" id="C25165921" label-id="8987274" inwerking="2007-05-01" label="Artikel 6c" bron="Stb.2007-108" effect="nieuw" ondertekening_bron="2007-03-08" publicatie_bron="2007-03-22" publicatie_iwt="2007-03-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6c</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel6c/Lid1" label-id="8987274L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien een handelsnaam wordt gevoerd in strijd met de <intref verwijzing-id="2136589" doc="jci1.3:c:BWBR0001906&amp;artikel=5&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0001906" label-id="1336234" bwb-ng-variabel-deel="/Artikel5">artikelen 5</intref> of <intref verwijzing-id="2136590" doc="jci1.3:c:BWBR0001906&amp;artikel=5a&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0001906" label-id="1336244" bwb-ng-variabel-deel="/Artikel5a">5a</intref>, kan de rechter in passende gevallen de schadevergoeding vaststellen als een forfaitair bedrag.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=6c&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6c/Lid2" label-id="8987274L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De rechter kan op vordering van degene die de handelsnaam voert gelasten dat op kosten van degene die heeft gehandeld in strijd met de <intref verwijzing-id="2136591" doc="jci1.3:c:BWBR0001906&amp;artikel=3&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0001906" label-id="1336214,1336224,1336234,1336244,1336254" bwb-ng-variabel-deel="/Artikel3">artikelen 3 tot en met 5b</intref> passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=6c&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2007-108"><publicatiejaar>2007</publicatiejaar><publicatienr>108</publicatienr><uitgiftedatum isodatum="2007-03-22">22-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-03-08">08-03-2007</ondertekeningsdatum><dossierref dossier="30392">30392</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2007-108"><publicatiejaar>2007</publicatiejaar><publicatienr>108</publicatienr><uitgiftedatum isodatum="2007-03-22">22-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-03-08">08-03-2007</ondertekeningsdatum><dossierref dossier="30392">30392</dossierref></publicatie><inwerkingtreding.datum isodatum="2007-05-01">01-05-2007</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001906&amp;artikel=6c&amp;g=2017-09-01" onderdeel="artikel=6c" korte-verwijzing="1.0:c:BWBR0001906&amp;artikel=6c"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=6c&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=6c" korte-verwijzing="jci1.3:c:BWBR0001906&amp;artikel=6c"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="a-7" stam-id="1378223" versie-id="17392322" id="C25165931" label-id="1336284" inwerking="2010-07-01" label="Artikel 7" bron="Stb.2010-200" effect="wijziging" ondertekening_bron="2010-05-20" publicatie_bron="2010-06-10" publicatie_iwt="2010-06-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid1" label-id="1336284L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Hij die een handelsnaam voert in strijd met deze wet, wordt gestraft met een geldboete van de tweede categorie. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=7&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid2" label-id="1336284L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Het feit wordt beschouwd als overtreding. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=7&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid3" label-id="1336284L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Indien tijdens het plegen van de overtreding nog geen twee jaren zijn verlopen sedert een vroegere veroordeling van de schuldige wegens gelijke overtreding onherroepelijk is geworden, kan hechtenis van ten hoogste veertien dagen of geldboete van de tweede categorie worden opgelegd. Onder vroegere veroordeling wordt mede verstaan een vroegere veroordeling door een strafrechter in een andere lidstaat van de Europese Unie wegens soortgelijke feiten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=7&amp;lid=3&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid4" label-id="1336284L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> De ambtenaar van het openbaar ministerie kan, alvorens tot vervolging van het strafbaar feit over te gaan, degene die de verboden handelsnaam voert, de wijziging mededelen, die de ambtenaar nodig voorkomt om de onrechtmatigheid van de handelsnaam op te heffen; daarbij wordt een bekwame termijn gesteld om die wijziging aan te brengen. Wordt die wijziging binnen de gestelde termijn aangebracht, dan is het recht tot strafvordering vervallen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=7&amp;lid=4&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2010-200"><publicatiejaar>2010</publicatiejaar><publicatienr>200</publicatienr><uitgiftedatum isodatum="2010-06-10">10-06-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-05-20">20-05-2010</ondertekeningsdatum><dossierref dossier="32257">32257</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2010-201"><publicatiejaar>2010</publicatiejaar><publicatienr>201</publicatienr><uitgiftedatum isodatum="2010-06-10">10-06-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-06-01">01-06-2010</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2010-07-01">01-07-2010</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001906&amp;artikel=7&amp;g=2017-09-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0001906&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=7&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0001906&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" stam-id="1378233" versie-id="2067022" id="C2067021" label-id="1336294" inwerking="1954-10-01" label="Artikel 8" bron="Stb.1954-334" effect="vervallen" ondertekening_bron="1954-06-30" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>8</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>334</publicatienr><ondertekeningsdatum isodatum="1954-06-30">30-06-1954</ondertekeningsdatum><dossierref dossier="2600">2600</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>410</publicatienr><ondertekeningsdatum isodatum="1954-09-20">20-09-1954</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1954-10-01">01-10-1954</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001906&amp;artikel=8&amp;g=2017-09-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0001906&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=8&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0001906&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" code="a-9" stam-id="1378243" versie-id="2067042" id="C2067041" label-id="1336304" inwerking="1954-10-01" label="Artikel 9" bron="Stb.1954-410" effect="wijziging" ondertekening_bron="1954-09-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>9</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>410</publicatienr><ondertekeningsdatum isodatum="1954-09-20">20-09-1954</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>410</publicatienr><ondertekeningsdatum isodatum="1954-09-20">20-09-1954</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1954-10-01">01-10-1954</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001906&amp;artikel=9&amp;g=2017-09-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0001906&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=9&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0001906&amp;artikel=9"/></jcis></meta-data></artikel>
+      <paragraaf bwb-ng-variabel-deel="/Paragraaf" stam-id="1378273" versie-id="2067102" id="C2067101" label-id="1336334" inwerking="1922-10-15" bron="Stb.1921-842" effect="nieuwe-regeling" ondertekening_bron="1921-07-05" status="goed">
+  <kop>
+    <titel status="officieel">Slot- en overgangsbepalingen </titel>
+  </kop><artikel bwb-ng-variabel-deel="/Paragraaf/Artikel10" code="a-10" stam-id="1378253" versie-id="2067062" id="C25165941" label-id="1336314" inwerking="1954-10-01" label="Artikel 10" bron="Stb.1954-410" effect="wijziging" ondertekening_bron="1954-09-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>10</nr>
+  </kop>
+  <al>Deze wet kan worden aangehaald onder de titel "Handelsnaamwet". </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>410</publicatienr><ondertekeningsdatum isodatum="1954-09-20">20-09-1954</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>410</publicatienr><ondertekeningsdatum isodatum="1954-09-20">20-09-1954</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1954-10-01">01-10-1954</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001906&amp;artikel=10&amp;g=2017-09-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0001906&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=10&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0001906&amp;artikel=10"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Paragraaf/Artikel11" code="a-11" stam-id="1378263" versie-id="2067082" id="C25165951" label-id="1336324" inwerking="1954-10-01" label="Artikel 11" bron="Stb.1954-410" effect="wijziging" ondertekening_bron="1954-09-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Paragraaf/Artikel11/Lid1" label-id="1336324L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Deze wet treedt in werking op een door Ons te bepalen tijdstip. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=11&amp;lid=1&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf/Artikel11/Lid2" label-id="1336324L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Indien bij het in werking treden dezer wet een handelsnaam wordt gevoerd in strijd met deze wet kan te dier zake gedurende vier maanden na dat tijdstip geen rechtsmiddel worden aangewend. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=11&amp;lid=2&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Paragraaf/Artikel11/Lid3" label-id="1336324L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Wanneer de uitdrukking "niet in strijd met deze wet" aan het slot van <intref verwijzing-id="467736" doc="jci1.3:c:BWBR0001906&amp;artikel=3&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0001906" label-id="1336214" bwb-ng-variabel-deel="/Artikel3">artikelen 3</intref> en <intref verwijzing-id="467738" doc="jci1.3:c:BWBR0001906&amp;artikel=4&amp;z=2017-09-01&amp;g=2017-09-01" bwb-id="BWBR0001906" label-id="1336224" bwb-ng-variabel-deel="/Artikel4">4</intref> betreft het voeren van een handelsnaam vóór het in werking treden dezer wet, betekent zij: niet in strijd met deze wet, indien zij tijdens het voeren van de handelsnaam van kracht geweest ware. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=11&amp;lid=3&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>410</publicatienr><ondertekeningsdatum isodatum="1954-09-20">20-09-1954</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1954</publicatiejaar><publicatienr>410</publicatienr><ondertekeningsdatum isodatum="1954-09-20">20-09-1954</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1954-10-01">01-10-1954</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001906&amp;artikel=11&amp;g=2017-09-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0001906&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;artikel=11&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0001906&amp;artikel=11"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1921</publicatiejaar><publicatienr>842</publicatienr><ondertekeningsdatum isodatum="1921-07-05">05-07-1921</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1922</publicatiejaar><publicatienr>543</publicatienr><ondertekeningsdatum isodatum="1922-04-30">30-04-1922</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1922-10-15">15-10-1922</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></paragraaf>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="1378283" versie-id="2067112" id="C2067111" label-id="1336344" inwerking="1922-10-15" bron="Stb.1921-842" effect="nieuwe-regeling" ondertekening_bron="1921-07-05" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven ten Paleize het Loo </plaats>
+      <datum isodatum="">den 5den Juli 1921 </datum>
+    </dagtekening>
+    <koning>WILHELMINA. </koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Justitie, </functie>
+    <naam>
+      <achternaam>HEEMSKERK. </achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Landbouw, Nijverheid en Handel, </functie>
+    <naam>
+      <achternaam>H. A. VAN IJSSELSTEIJN. </achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">den achttienden Juli 1921. </datum>
+    <ondertekening>
+      <functie>De Minister van Justitie, </functie>
+      <naam>
+        <achternaam>HEEMSKERK. </achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1921</publicatiejaar><publicatienr>842</publicatienr><ondertekeningsdatum isodatum="1921-07-05">05-07-1921</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1922</publicatiejaar><publicatienr>543</publicatienr><ondertekeningsdatum isodatum="1922-04-30">30-04-1922</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1922-10-15">15-10-1922</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2007-108"><publicatiejaar>2007</publicatiejaar><publicatienr>108</publicatienr><uitgiftedatum isodatum="2007-03-22">22-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-03-08">08-03-2007</ondertekeningsdatum><dossierref dossier="30392">30392</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2007-108"><publicatiejaar>2007</publicatiejaar><publicatienr>108</publicatienr><uitgiftedatum isodatum="2007-03-22">22-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-03-08">08-03-2007</ondertekeningsdatum><dossierref dossier="30392">30392</dossierref></publicatie><inwerkingtreding.datum isodatum="2007-03-08">08-03-2007</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001906&amp;g=2017-09-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0001906"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001906&amp;z=2017-09-01&amp;g=2017-09-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0001906"/></jcis></meta-data></wetgeving></toestand>

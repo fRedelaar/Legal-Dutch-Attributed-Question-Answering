@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0013166/2002-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0013166" inwerkingtreding="2002-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties><redactionele-correctie label-id="1912564" oud-revisie-id="2909091" nieuw-revisie-id="41477661"/></redactionele-correcties><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="1962923" versie-id="2909162" id="C2909161" label-id="1912634" inwerkingtredingsdatum="2002-01-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="1963003" versie-id="2908872" id="C2908871" label-id="1912344" inwerking="2002-01-01" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">Wet van 12 december 2001 tot wijziging van enkele belastingwetten in verband met de vervanging van de gulden door de euro (Fiscale aanpassingswet euro)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="1963013" versie-id="2908882" id="C2908881" label-id="1912354" inwerking="2002-01-01" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21">Fiscale aanpassingswet euro<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="1963023" versie-id="2908892" id="C2908891" label-id="1912364" inwerking="2002-01-01" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is de fiscale wetgeving aan te passen in verband met de vervanging van de gulden door de euro;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/ArtikelI" code="b1-i" stam-id="1963033" versie-id="2908902" id="C2908901" label-id="1912374" inwerking="2002-01-01" label="Artikel I" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>I</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Algemene wet inzake rijksbelastingen.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=I&amp;g=2002-01-01" onderdeel="artikel=I" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=I&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=I" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=I"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelII" code="b1-ii" stam-id="1963043" versie-id="2908912" id="C2908911" label-id="1912384" inwerking="2002-01-01" label="Artikel II" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>II</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Douanewet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=II&amp;g=2002-01-01" onderdeel="artikel=II" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=II&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=II" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=II"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIII" code="b1-iii" stam-id="1963053" versie-id="2908922" id="C2908921" label-id="1912394" inwerking="2002-01-01" label="Artikel III" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>III</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=III&amp;g=2002-01-01" onderdeel="artikel=III" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=III&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=III" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=III"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIV" code="b1-iv" stam-id="1963063" versie-id="2908932" id="C2908931" label-id="1912404" inwerking="2002-01-01" label="Artikel IV" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>IV</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Kostenwet invordering rijksbelastingen.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=IV&amp;g=2002-01-01" onderdeel="artikel=IV" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=IV&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=IV" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=IV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelV" code="b1-v" stam-id="1963073" versie-id="2908942" id="C2908941" label-id="1912414" inwerking="2002-01-01" label="Artikel V" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>V</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Successiewet 1956.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=V&amp;g=2002-01-01" onderdeel="artikel=V" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=V"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=V&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=V" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=V"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVI" code="b1-vi" stam-id="1963083" versie-id="2908952" id="C2908951" label-id="1912424" inwerking="2002-01-01" label="Artikel VI" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>VI</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de accijns.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=VI&amp;g=2002-01-01" onderdeel="artikel=VI" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=VI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=VI&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=VI" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=VI"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVII" code="b1-vii" stam-id="1963093" versie-id="2908962" id="C2908961" label-id="1912434" inwerking="2002-01-01" label="Artikel VII" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>VII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet belastingen op milieugrondslag.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=VII&amp;g=2002-01-01" onderdeel="artikel=VII" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=VII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=VII&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=VII" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=VII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelVIII" code="b1-viii" stam-id="1963103" versie-id="2908972" id="C2908971" label-id="1912444" inwerking="2002-01-01" label="Artikel VIII" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>VIII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet belasting zware motorrijtuigen.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=VIII&amp;g=2002-01-01" onderdeel="artikel=VIII" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=VIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=VIII&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=VIII" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=VIII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIX" code="b1-ix" stam-id="1963113" versie-id="2908982" id="C2908981" label-id="1912454" inwerking="2002-01-01" label="Artikel IX" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>IX</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=IX&amp;g=2002-01-01" onderdeel="artikel=IX" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=IX"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=IX&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=IX" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=IX"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelX" code="b1-x" stam-id="1963123" versie-id="2908992" id="C2908991" label-id="1912464" inwerking="2002-01-01" label="Artikel X" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>X</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de dividendbelasting 1965.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=X&amp;g=2002-01-01" onderdeel="artikel=X" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=X"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=X&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=X" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=X"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXI" code="b1-xi" stam-id="1963133" versie-id="2909002" id="C2909001" label-id="1912474" inwerking="2002-01-01" label="Artikel XI" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XI</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de loonbelasting 1964.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=XI&amp;g=2002-01-01" onderdeel="artikel=XI" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=XI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XI&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=XI" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XI"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXII" code="b1-xii" stam-id="1963143" versie-id="2909012" id="C2909011" label-id="1912484" inwerking="2002-01-01" label="Artikel XII" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de motorrijtuigenbelasting 1994.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=XII&amp;g=2002-01-01" onderdeel="artikel=XII" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=XII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XII&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=XII" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXIII" code="b1-xiii" stam-id="1963153" versie-id="2909022" id="C2909021" label-id="1912494" inwerking="2002-01-01" label="Artikel XIII" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XIII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de omzetbelasting 1968.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=XIII&amp;g=2002-01-01" onderdeel="artikel=XIII" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=XIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XIII&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=XIII" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XIII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXIV" code="b1-xiv" stam-id="1963163" versie-id="2909032" id="C2909031" label-id="1912504" inwerking="2002-01-01" label="Artikel XIV" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XIV</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">IWijzigt de Wet op de vennootschapsbelasting 1969.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=XIV&amp;g=2002-01-01" onderdeel="artikel=XIV" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=XIV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XIV&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=XIV" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XIV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXV" code="b1-xv" stam-id="1963173" versie-id="2909042" id="C2909041" label-id="1912514" inwerking="2002-01-01" label="Artikel XV" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XV</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de kansspelbelasting.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=XV&amp;g=2002-01-01" onderdeel="artikel=XV" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=XV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XV&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=XV" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXVI" code="b1-xvi" stam-id="1963183" versie-id="2909052" id="C2909051" label-id="1912524" inwerking="2002-01-01" label="Artikel XVI" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XVI</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=XVI&amp;g=2002-01-01" onderdeel="artikel=XVI" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=XVI"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XVI&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=XVI" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XVI"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXVII" code="b1-xvii" stam-id="1963193" versie-id="2909062" id="C2909061" label-id="1912534" inwerking="2002-01-01" label="Artikel XVII" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XVII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produktent.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=XVII&amp;g=2002-01-01" onderdeel="artikel=XVII" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=XVII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XVII&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=XVII" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XVII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXVIII" code="b1-xviii" stam-id="1963203" versie-id="2909072" id="C2909071" label-id="1912544" inwerking="2002-01-01" label="Artikel XVIII" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XVIII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet wederzijdse bijstand bij de invordering van enkele EEG-heffingen, de omzetbelasting en de accijnzen.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=XVIII&amp;g=2002-01-01" onderdeel="artikel=XVIII" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=XVIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XVIII&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=XVIII" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XVIII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXIX" code="b1-xix" stam-id="1963213" versie-id="2909082" id="C2909081" label-id="1912554" inwerking="2002-01-01" label="Artikel XIX" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XIX</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet waardering onroerende zaken.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=XIX&amp;g=2002-01-01" onderdeel="artikel=XIX" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=XIX"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XIX&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=XIX" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XIX"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXX" stam-id="1963223" versie-id="2909092" id="C41477661" label-id="1912564" inwerking="2002-01-01" label="Artikel XX" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">XX</nr>
+  </kop>
+  <al>Voor de toepassing van <extref doc="jci1.3:c:BWBR0007746&amp;artikel=30a" label-id="366044" verwijzing-id="680585" bwb-id="BWBR0007746">artikel 30a van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen</extref> bij het begin van het kalenderjaar 2002 wordt het bedrag, genoemd in <extref doc="jci1.3:c:BWBR0002638&amp;artikel=8" label-id="866514" verwijzing-id="680586" bwb-id="BWBR0002638">artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag</extref>, zoals dat luidt bij het begin van het kalenderjaar 2001, gesteld op € 1154,46.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=XX&amp;g=2002-01-01" onderdeel="artikel=XX" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=XX"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XX&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=XX" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XX"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXXI" code="b1-xxi" stam-id="1963233" versie-id="2909102" id="C2909101" label-id="1912574" status="nogniet"><kop>
+    <label>Artikel</label>
+    <nr>XXI</nr>
+  </kop><al><redactie type="vervanging">Dit onderdeel is nog niet inwerking getreden</redactie></al></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXXII" code="b1-xxii" stam-id="1963243" versie-id="2909112" id="C2909111" label-id="1912584" inwerking="2002-01-01" label="Artikel XXII" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XXII</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/ArtikelXXII/Lid1" label-id="1912584L1">
+    <lidnr>1</lidnr>
+    <al>
+      <redactie type="vervanging">Wijzigt de Wet belastingen op milieugrondslag.</redactie>
+    </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XXII&amp;lid=1&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelXXII/Lid2" label-id="1912584L2">
+    <lidnr>2</lidnr>
+    <al>
+      <redactie type="vervanging">Wijzigt de Wet belastingen op milieugrondslag.</redactie>
+    </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XXII&amp;lid=2&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelXXII/Lid3" label-id="1912584L3">
+    <lidnr>3</lidnr>
+    <al>
+      <redactie type="vervanging">Wijzigt Wijzigingswet belastingwetten c.a. (Belastingplan 2001).</redactie>
+    </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XXII&amp;lid=3&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=XXII&amp;g=2002-01-01" onderdeel="artikel=XXII" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=XXII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XXII&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=XXII" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XXII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXXIII" code="b1-xxiii" stam-id="1963253" versie-id="2909122" id="C2909121" label-id="1912594" inwerking="2002-01-01" label="Artikel XXIII" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XXIII</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet belastingen op milieugrondslag.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=XXIII&amp;g=2002-01-01" onderdeel="artikel=XXIII" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=XXIII"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XXIII&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=XXIII" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XXIII"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXXIV" code="b1-xxiv" stam-id="1963263" versie-id="2909132" id="C2909131" label-id="1912604" inwerking="2002-01-01" label="Artikel XXIV" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XXIV</nr>
+  </kop>
+  <al>Deze wet treedt in werking met ingang van 1 januari 2002.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=XXIV&amp;g=2002-01-01" onderdeel="artikel=XXIV" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=XXIV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XXIV&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=XXIV" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XXIV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelXXV" code="b1-xxv" stam-id="1963273" versie-id="2909142" id="C2909141" label-id="1912614" inwerking="2002-01-01" label="Artikel XXV" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>XXV</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Fiscale aanpassingswet euro. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;artikel=XXV&amp;g=2002-01-01" onderdeel="artikel=XXV" korte-verwijzing="1.0:c:BWBR0013166&amp;artikel=XXV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XXV&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="artikel=XXV" korte-verwijzing="jci1.3:c:BWBR0013166&amp;artikel=XXV"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="1963283" versie-id="2909152" id="C20875131" label-id="1912624" inwerking="2002-01-01" bron="Stb.2001-639" effect="nieuwe-regeling" ondertekening_bron="2001-12-12" publicatie_bron="2001-12-21" publicatie_iwt="2001-12-21" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">12 december 2001</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Staatssecretaris van Financiën,</functie>
+    <naam>
+      <achternaam>W. J. Bos</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de <nadruk type="cur">eenentwintigste</nadruk> december 2001</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>A. H. Korthals</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2001-639"><publicatiejaar>2001</publicatiejaar><publicatienr>639</publicatienr><uitgiftedatum isodatum="2001-12-21">21-12-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-12">12-12-2001</ondertekeningsdatum><dossierref dossier="27882">27882</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0013166&amp;g=2002-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0013166"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0013166&amp;z=2002-01-01&amp;g=2002-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0013166"/></jcis></meta-data></wetgeving></toestand>

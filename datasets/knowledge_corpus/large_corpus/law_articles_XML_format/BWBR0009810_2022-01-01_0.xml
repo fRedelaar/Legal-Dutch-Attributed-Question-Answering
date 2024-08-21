@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0009810/2022-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0009810" inwerkingtreding="2022-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="917923" versie-id="1344402" id="C1344401" label-id="890274" inwerkingtredingsdatum="1998-12-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="917983" versie-id="1344152" id="C1344151" label-id="890044" inwerking="1998-12-01" bron="Stb.1998-501" effect="nieuwe-regeling" ondertekening_bron="1998-07-27" publicatie_bron="1998-08-13" publicatie_iwt="1998-08-13" status="goed"> Wet van 27 juli 1998, houdende regels ter bevordering van het overleg tussen huurders en verhuurder van woongelegenheden (Wet op het overleg huurders verhuurder)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-501"><publicatiejaar>1998</publicatiejaar><publicatienr>501</publicatienr><uitgiftedatum isodatum="1998-08-13">13-08-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-07-27">27-07-1998</ondertekeningsdatum><dossierref dossier="24080">24080</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-501"><publicatiejaar>1998</publicatiejaar><publicatienr>501</publicatienr><uitgiftedatum isodatum="1998-08-13">13-08-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-07-27">27-07-1998</ondertekeningsdatum><dossierref dossier="24080">24080</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-12-01">01-12-1998</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="917993" versie-id="1344162" id="C1344161" label-id="890054" inwerking="1998-12-01" bron="Stb.1998-501" effect="nieuwe-regeling" ondertekening_bron="1998-07-27" publicatie_bron="1998-08-13" publicatie_iwt="1998-08-13">Wet op het overleg huurders verhuurder<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-501"><publicatiejaar>1998</publicatiejaar><publicatienr>501</publicatienr><uitgiftedatum isodatum="1998-08-13">13-08-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-07-27">27-07-1998</ondertekeningsdatum><dossierref dossier="24080">24080</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-501"><publicatiejaar>1998</publicatiejaar><publicatienr>501</publicatienr><uitgiftedatum isodatum="1998-08-13">13-08-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-07-27">27-07-1998</ondertekeningsdatum><dossierref dossier="24080">24080</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-12-01">01-12-1998</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="918013" versie-id="1344172" id="C1344171" label-id="890074" inwerking="1998-12-01" bron="Stb.1998-501" effect="nieuwe-regeling" ondertekening_bron="1998-07-27" publicatie_bron="1998-08-13" publicatie_iwt="1998-08-13" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz. </wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten: </considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het gewenst is wettelijke regels te stellen ter bevordering van het overleg tussen huurders van woongelegenheden en de verhuurder daarvan;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-501"><publicatiejaar>1998</publicatiejaar><publicatienr>501</publicatienr><uitgiftedatum isodatum="1998-08-13">13-08-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-07-27">27-07-1998</ondertekeningsdatum><dossierref dossier="24080">24080</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-501"><publicatiejaar>1998</publicatiejaar><publicatienr>501</publicatienr><uitgiftedatum isodatum="1998-08-13">13-08-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-07-27">27-07-1998</ondertekeningsdatum><dossierref dossier="24080">24080</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-12-01">01-12-1998</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk1" stam-id="918053" versie-id="15811132" id="C21604451" label-id="890114" inwerking="2008-09-25" label="Hoofdstuk 1" bron="Stb.2008-418" effect="structuurwijziging" ondertekening_bron="2008-09-25" publicatie_bron="2008-10-30" publicatie_iwt="2008-10-30" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">1</nr>
+    <titel status="officieel">Algemene bepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1" stam-id="918023" versie-id="22389052" id="C32234291" label-id="890084" inwerking="2015-07-01" label="Artikel 1" bron="Stb.2015-145" effect="wijziging" ondertekening_bron="2015-03-20" publicatie_bron="2015-04-16" publicatie_iwt="2015-06-19" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1" label-id="890084L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>Onze Minister: Onze Minister voor Wonen en Rijksdienst; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;o=a&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>woongelegenheid: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1/Onderdeelb/Onderdeel1">
+            <li.nr>1°.</li.nr>
+            <al>woning; </al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;o=b&amp;o=1&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=1"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1/Onderdeelb/Onderdeel2">
+            <li.nr>2°.</li.nr>
+            <al>standplaats als bedoeld in <extref doc="jci1.3:c:BWBR0008659&amp;artikel=1" label-id="2160174" verwijzing-id="2646342" bwb-id="BWBR0008659">artikel 1, onder j, van de Wet op de huurtoeslag</extref>; en</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;o=b&amp;o=2&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=2"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1/Onderdeelb/Onderdeel3">
+            <li.nr>3°.</li.nr>
+            <al>woonwagen als bedoeld in <extref doc="jci1.3:c:BWBR0008659&amp;artikel=1" label-id="2160174" verwijzing-id="2646343" bwb-id="BWBR0008659">artikel 1, eerste lid, onder l, van de Wet op de huurtoeslag</extref>;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;o=b&amp;o=3&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=3"/></jcis></meta-data></li>
+        </lijst>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;o=b&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>wooncomplex: een verzameling van ten minste 25 in elkaars nabijheid gelegen woongelegenheden welke financieel, administratief, qua bouwwijze of anderszins een eenheid vormen; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;o=c&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>verhuurder: een toegelaten instelling als bedoeld in <extref doc="jci1.3:c:BWBR0005181&amp;artikel=19" label-id="2984674" verwijzing-id="2699579" bwb-id="BWBR0005181">artikel 19, eerste lid, van de Woningwet</extref>, dan wel een eigenaar van ten minste 25 voor verhuur bestemde woongelegenheden in Nederland, of degene die door die eigenaar gevolmachtigd is namens hem op te treden;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;o=d&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>huurder: huurder van een woongelegenheid van een verhuurder als bedoeld onder d, welke huurder daarin zijn hoofdverblijf heeft; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;o=e&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>huurdersorganisatie: vereniging of stichting, die als doelstelling heeft het behartigen van de belangen van huurders en:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1/Onderdeelf/Onderdeel1">
+            <li.nr>1°.</li.nr>
+            <al>van welke het bestuur wordt gekozen of aangewezen door en uit de huurders die zij vertegenwoordigt;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;o=f&amp;o=1&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=1"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1/Onderdeelf/Onderdeel2">
+            <li.nr>2°.</li.nr>
+            <al>die de huurders op de hoogte houdt van haar activiteiten en hen betrekt bij haar standpuntbepaling;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;o=f&amp;o=2&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=2"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1/Onderdeelf/Onderdeel3">
+            <li.nr>3°.</li.nr>
+            <al>die ten minste eenmaal per jaar een vergadering uitschrijft voor de huurders, waarin zij verantwoording aflegt van haar activiteiten in het verstreken jaar, haar plannen voor het eerstvolgende jaar bespreekt en deze vaststelt; en</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;o=f&amp;o=3&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=3"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1/Onderdeelf/Onderdeel4">
+            <li.nr>4°.</li.nr>
+            <al>die alle huurders van de woongelegenheden of wooncomplexen, waarvoor zij de belangen behartigt, in de gelegenheid stelt om zich bij haar aan te sluiten;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;o=f&amp;o=4&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=4"/></jcis></meta-data></li>
+        </lijst>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;o=f&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid1/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>bewonerscommissie: commissie van bewoners van huurwoningen in een wooncomplex, niet zijnde een huurdersorganisatie, die de belangen behartigt van de huurders van dat wooncomplex en die voldoet aan onderdeel f, onder 2° tot en met 4°.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;o=g&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=g"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=1&amp;lid=1&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel1/Lid2" label-id="890084L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>In deze wet en de daarop berustende bepalingen wordt onder huurder mede verstaan degene die de woongelegenheid met toestemming van de verhuurder huurt van een huurder die haar huurt van die verhuurder. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=1&amp;lid=2&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2015-145"><publicatiejaar>2015</publicatiejaar><publicatienr>145</publicatienr><uitgiftedatum isodatum="2015-04-16">16-04-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-03-20">20-03-2015</ondertekeningsdatum><dossierref dossier="32769">32769</dossierref></publicatie><juncto><publicatie soort="Stb" urlidentifier="stb-2015-146"><publicatiejaar>2015</publicatiejaar><publicatienr>146</publicatienr><uitgiftedatum isodatum="2015-04-16">16-04-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-03-20">20-03-2015</ondertekeningsdatum><dossierref dossier="33966">33966</dossierref></publicatie></juncto></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2015-232"><publicatiejaar>2015</publicatiejaar><publicatienr>232</publicatienr><uitgiftedatum isodatum="2015-06-19">19-06-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-06-16">16-06-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-07-01">01-07-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;artikel=1&amp;g=2022-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0009810&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=1&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0009810&amp;artikel=1"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2" code="b1-2" stam-id="918043" versie-id="15811122" id="C21861941" label-id="890104" inwerking="2009-01-01" label="Artikel 2" bron="Stb.2008-418" effect="wijziging" ondertekening_bron="2008-09-25" publicatie_bron="2008-10-30" publicatie_iwt="2008-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid1" label-id="890104L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien met betrekking tot de woongelegenheden of een of meer wooncomplexen van een verhuurder meer huurdersorganisaties zijn opgericht, geldt deze wet voor al die huurdersorganisaties, tenzij de verhuurder en die huurdersorganisaties gezamenlijk anders afspreken. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=2&amp;lid=1&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid2" label-id="890104L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien ten aanzien van alle woongelegenheden van een verhuurder één huurdersorganisatie is opgericht, worden de huurdersorganisaties die zijn opgericht met betrekking tot een of meer wooncomplexen van die verhuurder, niet aangemerkt als huurdersorganisatie, tenzij:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de verhuurder voornemens heeft die betrekking hebben op onderwerpen die rechtstreeks te maken hebben met die wooncomplexen, en de huurdersorganisatie die is opgericht met betrekking tot een of meer wooncomplexen, de belangen van de betrokken huurders met betrekking tot die onderwerpen behartigt, dan wel</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=2&amp;lid=2&amp;o=a&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de verhuurder en de in de aanhef eerstbedoelde huurdersorganisatie anders zijn overeengekomen, onverminderd het bepaalde in onderdeel a.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=2&amp;lid=2&amp;o=b&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=2&amp;lid=2&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2/Lid3" label-id="890104L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Tot de onderwerpen, bedoeld in het tweede lid, onderdeel a, worden in elk geval gerekend de onderwerpen, genoemd in <intref verwijzing-id="2240424" doc="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;z=2022-01-01&amp;g=2022-01-01" bwb-id="BWBR0009810" label-id="890134" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3">artikel 3, tweede lid, onderdelen b, h en j</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=2&amp;lid=3&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-418"><publicatiejaar>2008</publicatiejaar><publicatienr>418</publicatienr><uitgiftedatum isodatum="2008-10-30">30-10-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-09-25">25-09-2008</ondertekeningsdatum><dossierref dossier="30856">30856</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-564"><publicatiejaar>2008</publicatiejaar><publicatienr>564</publicatienr><uitgiftedatum isodatum="2008-12-24">24-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;artikel=2&amp;g=2022-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0009810&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=2&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0009810&amp;artikel=2"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2a" code="n1-2a" stam-id="9756023" versie-id="15811142" id="C22087751" label-id="9732734" inwerking="2009-01-01" label="Artikel 2a" bron="Stb.2008-418" effect="nieuw" ondertekening_bron="2008-09-25" publicatie_bron="2008-10-30" publicatie_iwt="2008-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2a/Lid1" label-id="9732734L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een verhuurder draagt er zorg voor dat een bewonerscommissie de werkzaamheden die met haar taak verband houden kan verrichten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=2a&amp;lid=1&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2a/Lid2" label-id="9732734L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Een verhuurder kan besluiten een bewonerscommissie niet als bewonerscommissie in de zin van deze wet aan te merken, indien die commissie niet aannemelijk kan maken dat zij namens bewoners van huurwoningen van het betrokken wooncomplex met de verhuurder in overleg kan treden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=2a&amp;lid=2&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Artikel2a/Lid3" label-id="9732734L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Een verhuurder kan besluiten slechts die bewonerscommissie als bewonerscommisie in de zin van deze wet aan te merken, die wat betreft de omvang van haar achterban van bewoners van huurwoningen van het betrokken wooncomplex, het meest representatief moet worden geacht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=2a&amp;lid=3&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2008-418"><publicatiejaar>2008</publicatiejaar><publicatienr>418</publicatienr><uitgiftedatum isodatum="2008-10-30">30-10-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-09-25">25-09-2008</ondertekeningsdatum><dossierref dossier="30856">30856</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2008-564"><publicatiejaar>2008</publicatiejaar><publicatienr>564</publicatienr><uitgiftedatum isodatum="2008-12-24">24-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;artikel=2a&amp;g=2022-01-01" onderdeel="artikel=2a" korte-verwijzing="1.0:c:BWBR0009810&amp;artikel=2a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;artikel=2a&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=2a" korte-verwijzing="jci1.3:c:BWBR0009810&amp;artikel=2a"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2008-418"><publicatiejaar>2008</publicatiejaar><publicatienr>418</publicatienr><uitgiftedatum isodatum="2008-10-30">30-10-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-09-25">25-09-2008</ondertekeningsdatum><dossierref dossier="30856">30856</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2008-418"><publicatiejaar>2008</publicatiejaar><publicatienr>418</publicatienr><uitgiftedatum isodatum="2008-10-30">30-10-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-09-25">25-09-2008</ondertekeningsdatum><dossierref dossier="30856">30856</dossierref></publicatie><inwerkingtreding.datum isodatum="2008-09-25">25-09-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;hoofdstuk=1&amp;g=2022-01-01" onderdeel="hoofdstuk=1" korte-verwijzing="1.0:c:BWBR0009810&amp;hoofdstuk=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="hoofdstuk=1" korte-verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=1"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk2" stam-id="918113" versie-id="22389062" id="C32049701" label-id="890184" inwerking="2015-03-20" label="Hoofdstuk 2" bron="Stb.2015-145" effect="structuurwijziging" ondertekening_bron="2015-03-20" publicatie_bron="2015-04-16" publicatie_iwt="2015-04-16" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">2</nr>
+    <titel status="officieel">Recht op informatie, overleg en advies</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3" stam-id="918063" versie-id="28000322" id="C39827851" label-id="890134" inwerking="2022-01-01" label="Artikel 3" bron="Stb.2021-425" effect="wijziging" ondertekening_bron="2021-07-07" publicatie_bron="2021-09-10" publicatie_iwt="2021-12-09" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid1" label-id="890134L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De verhuurder informeert de huurder, de betrokken bewonerscommissie en de betrokken huurdersorganisatie op verzoek zo spoedig mogelijk schriftelijk over zijn beleid en beheer, dat rechtstreeks te maken heeft met de betrokken woongelegenheden of wooncomplexen en de woonomgeving daarvan, dat rechtstreeks van invloed is op de woon- en leefsituatie van de betrokken huurders, alsmede dat voor hen van wezenlijk belang kan zijn.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;lid=1&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2" label-id="890134L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Dit recht op informatie omvat in elk geval informatie over de volgende onderwerpen: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het in stand houden van en het treffen van voorzieningen aan woongelegenheden en de direct daaraan grenzende omgeving; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=a&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>het slopen, renoveren, verwerven, vervreemden en bezwaren van woongelegenheden;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=b&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>het toewijzings- en verhuurbeleid; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=c&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de door de verhuurder in het algemeen te hanteren voorwaarden van de overeenkomst van huur en verhuur; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=d&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>het beleid inzake de huurprijzen; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=e&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>de samenstelling, het kwaliteitsniveau en de prijs van het door de verhuurder aan te bieden pakket van diensten die rechtstreeks verband houden met de bewoning, het betrekken van een woongelegenheid en het huisvesten van personen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=f&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>een voorstel tot een fusie als bedoeld in de <extref doc="jci1.3:c:BWBR0003045&amp;artikel=312" label-id="2871934" verwijzing-id="2240425" bwb-id="BWBR0003045">artikelen 312</extref> en <extref doc="jci1.3:c:BWBR0003045&amp;artikel=313" label-id="2871944" verwijzing-id="2240426" bwb-id="BWBR0003045">313 van Boek 2 van het Burgerlijk Wetboek</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=g&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=g"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeelh">
+        <li.nr>h.</li.nr>
+        <al>het beleid inzake de leefbaarheid in de buurten en wijken waar de betrokken woongelegenheden of wooncomplexen zijn gelegen, alsmede inzake herstructurering van die buurten of wijken;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=h&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=h"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeeli">
+        <li.nr>i.</li.nr>
+        <al>het beleid inzake het bijdragen aan het tot stand brengen van huisvesting voor ouderen, gehandicapten en personen die zorg of begeleiding behoeven;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=i&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=i"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeelj">
+        <li.nr>j.</li.nr>
+        <al>overeenkomsten met betrekking tot kosten voor nutsvoorzieningen met een individuele meter en servicekosten als bedoeld in <extref doc="jci1.3:c:BWBR0005290&amp;artikel=237" label-id="3227664" verwijzing-id="2240427" bwb-id="BWBR0005290">artikel 237, derde lid, van Boek 7 van het Burgerlijk Wetboek</extref> en overeenkomsten met betrekking tot het beheer van het verhuurde;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=j&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=j"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid2/Onderdeelk">
+        <li.nr>k.</li.nr>
+        <al>de uitspraken van de klachtencommissie van de verhuurder.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;o=k&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=k"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;lid=2&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid3" label-id="890134L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De verplichting, bedoeld in het eerste lid, geldt niet voor informatie, tegen de verstrekking waarvan het bedrijfsbelang van de verhuurder zich verzet. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;lid=3&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3/Lid4" label-id="890134L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De informatie over de onderwerpen, genoemd in het tweede lid, onderdelen a en e, heeft betrekking op het tijdvak van twaalf maanden, volgende op het tijdstip van verstrekking van die informatie; tevens wordt een indicatie gegeven over de ontwikkeling met betrekking tot deze onderwerpen in de daaropvolgende jaren. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;lid=4&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-425"><publicatiejaar>2021</publicatiejaar><publicatienr>425</publicatienr><uitgiftedatum isodatum="2021-09-10">10-09-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-07-07">07-07-2021</ondertekeningsdatum><dossierref dossier="35517">35517</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-601"><publicatiejaar>2021</publicatiejaar><publicatienr>601</publicatienr><uitgiftedatum isodatum="2021-12-09">09-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-12-01">01-12-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-01-01">01-01-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;artikel=3&amp;g=2022-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0009810&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0009810&amp;artikel=3"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel4" code="b1-4" stam-id="918073" versie-id="15811172" id="C21861981" label-id="890144" inwerking="2009-01-01" label="Artikel 4" bron="Stb.2008-418" effect="wijziging" ondertekening_bron="2008-09-25" publicatie_bron="2008-10-30" publicatie_iwt="2008-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel4/Lid1" label-id="890144L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De verhuurder informeert de betrokken huurdersorganisatie en de betrokken bewonerscommissie eigener beweging schriftelijk over zijn voornemens tot wijzigingen in het door hem gevoerde beleid of beheer, bedoeld in <intref verwijzing-id="2240428" doc="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;z=2022-01-01&amp;g=2022-01-01" bwb-id="BWBR0009810" label-id="890134" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3">artikel 3, tweede lid</intref>. <intref verwijzing-id="2240429" doc="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;z=2022-01-01&amp;g=2022-01-01" bwb-id="BWBR0009810" label-id="890134" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3">Artikel 3, derde lid</intref>, is van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=4&amp;lid=1&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel4/Lid2" label-id="890144L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De verhuurder geeft daarbij aan, wat de beweegredenen zijn voor zijn voornemens en welke gevolgen daaruit voor de betrokken huurders voortvloeien. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=4&amp;lid=2&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-418"><publicatiejaar>2008</publicatiejaar><publicatienr>418</publicatienr><uitgiftedatum isodatum="2008-10-30">30-10-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-09-25">25-09-2008</ondertekeningsdatum><dossierref dossier="30856">30856</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-564"><publicatiejaar>2008</publicatiejaar><publicatienr>564</publicatienr><uitgiftedatum isodatum="2008-12-24">24-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;artikel=4&amp;g=2022-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0009810&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=4&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0009810&amp;artikel=4"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5" code="b1-5" stam-id="918083" versie-id="15811182" id="C22087781" label-id="890154" inwerking="2009-01-01" label="Artikel 5" bron="Stb.2008-418" effect="wijziging" ondertekening_bron="2008-09-25" publicatie_bron="2008-10-30" publicatie_iwt="2008-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5/Lid1" label-id="890154L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De verhuurder voert een voornemen tot wijziging in het door hem gevoerde beleid of beheer, bedoeld in <intref verwijzing-id="2240430" doc="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;z=2022-01-01&amp;g=2022-01-01" bwb-id="BWBR0009810" label-id="890134" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3">artikel 3, tweede lid</intref>, niet uit dan nadat hij binnen een door hem aan te geven periode van ten minste zes weken na het verstrekken van de informatie overeenkomstig <intref verwijzing-id="2240431" doc="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=4&amp;z=2022-01-01&amp;g=2022-01-01" bwb-id="BWBR0009810" label-id="890144" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel4">artikel 4</intref>, de huurdersorganisatie of de bewonerscommissie in staat heeft gesteld met hem over de verstrekte informatie overleg te voeren en, indien de huurdersorganisatie of de bewonerscommissie dat wenst, daarover een schriftelijk advies uit te brengen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5&amp;lid=1&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5/Lid2" label-id="890154L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Binnen veertien dagen na ontvangst van een schriftelijk advies als bedoeld in het eerste lid deelt de verhuurder, indien hij het advies geheel of gedeeltelijk niet volgt, schriftelijk aan de huurdersorganisatie of de bewonerscommissie de redenen daarvoor mee. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5&amp;lid=2&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5/Lid3" label-id="890154L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De verhuurder kan zijn voornemen uitvoeren: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>na ontvangst van een schriftelijke mededeling van de huurdersorganisatie of de bewonerscommissie dat deze geen bezwaar heeft tegen het voornemen; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5&amp;lid=3&amp;o=a&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>nadat de door de verhuurder gestelde termijn, bedoeld in het eerste lid, is verstreken; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5&amp;lid=3&amp;o=b&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5/Lid3/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>drie dagen nadat een schriftelijke mededeling als bedoeld in het tweede lid door de huurdersorganisatie of de bewonerscommissie is ontvangen. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5&amp;lid=3&amp;o=c&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5&amp;lid=3&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-418"><publicatiejaar>2008</publicatiejaar><publicatienr>418</publicatienr><uitgiftedatum isodatum="2008-10-30">30-10-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-09-25">25-09-2008</ondertekeningsdatum><dossierref dossier="30856">30856</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-564"><publicatiejaar>2008</publicatiejaar><publicatienr>564</publicatienr><uitgiftedatum isodatum="2008-12-24">24-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;artikel=5&amp;g=2022-01-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0009810&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0009810&amp;artikel=5"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5a" stam-id="9755993" versie-id="23864012" id="C34502721" label-id="9732704" inwerking="2017-07-01" label="Artikel 5a" bron="Stb.2017-25" effect="wijziging" ondertekening_bron="2017-01-25" publicatie_bron="2017-02-09" publicatie_iwt="2017-03-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5a</nr>
+  </kop>
+  <al>De verhuurder voert een voornemen tot wijziging in het door hem gevoerde beleid ten aanzien van de vaststelling van kosten voor nutsvoorzieningen met een individuele meter en servicekosten als bedoeld in <extref doc="jci1.3:c:BWBR0005290&amp;artikel=237" label-id="3227664" verwijzing-id="2240418" bwb-id="BWBR0005290">artikel 237, derde lid, van Boek 7 van het Burgerlijk Wetboek</extref> slechts uit met voorafgaande instemming van de huurdersorganisatie.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-25"><publicatiejaar>2017</publicatiejaar><publicatienr>25</publicatienr><uitgiftedatum isodatum="2017-02-09">09-02-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-01-25">25-01-2017</ondertekeningsdatum><dossierref dossier="34468">34468</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-111"><publicatiejaar>2017</publicatiejaar><publicatienr>111</publicatienr><uitgiftedatum isodatum="2017-03-24">24-03-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-03-06">06-03-2017</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2017-07-01">01-07-2017</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;artikel=5a&amp;g=2022-01-01" onderdeel="artikel=5a" korte-verwijzing="1.0:c:BWBR0009810&amp;artikel=5a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5a&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=5a" korte-verwijzing="jci1.3:c:BWBR0009810&amp;artikel=5a"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5b" code="n1-5b" stam-id="9756003" versie-id="15811092" id="C22087811" label-id="9732714" inwerking="2009-01-01" label="Artikel 5b" bron="Stb.2008-418" effect="nieuw" ondertekening_bron="2008-09-25" publicatie_bron="2008-10-30" publicatie_iwt="2008-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5b</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5b/Lid1" label-id="9732714L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De huurdersorganisatie, de bewonerscommissie en de huurder kunnen met de verhuurder schriftelijk nadere afspraken maken over de onderwerpen waarover door de verhuurder informatie wordt gegeven.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5b&amp;lid=1&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5b/Lid2" label-id="9732714L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien de huurdersorganisatie of de bewonerscommissie de verhuurder te kennen heeft gegeven met hem overleg te willen voeren over door de verhuurder verstrekte informatie als bedoeld in het eerste lid of de <intref verwijzing-id="2240419" doc="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;z=2022-01-01&amp;g=2022-01-01" bwb-id="BWBR0009810" label-id="890134" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3">artikelen 3</intref> en <intref verwijzing-id="2240420" doc="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=4&amp;z=2022-01-01&amp;g=2022-01-01" bwb-id="BWBR0009810" label-id="890144" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel4">4</intref> biedt de verhuurder daarvoor de gelegenheid.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5b&amp;lid=2&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5b/Lid3" label-id="9732714L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De verhuurder voert ten minste een maal per jaar met de betrokken huurdersorganisaties en de betrokken bewonerscommissies overleg, niet zijnde een overleg over verstrekte informatie als bedoeld in het eerste lid of de <intref verwijzing-id="2240421" doc="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;z=2022-01-01&amp;g=2022-01-01" bwb-id="BWBR0009810" label-id="890134" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3">artikelen 3</intref> en <intref verwijzing-id="2240422" doc="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=4&amp;z=2022-01-01&amp;g=2022-01-01" bwb-id="BWBR0009810" label-id="890144" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel4">4</intref>. Die huurdersorganisaties en bewonerscommissies kunnen gezamenlijk voor dat overleg worden uitgenodigd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5b&amp;lid=3&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5b/Lid4" label-id="9732714L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De huurdersorganisatie en de bewonerscommissie kunnen onderwerpen aandragen voor de agenda van elk overleg met de verhuurder. De verhuurder kan slechts met redenen omkleed weigeren een zodanig onderwerp op de agenda te zetten en daarover overleg te voeren.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5b&amp;lid=4&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5b/Lid5" label-id="9732714L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>De verhuurder, de huurdersorganisatie of de bewonerscommissie kan na tijdige voorafgaande kennisgeving aan de andere overlegpartners, een of meer deskundigen uitnodigen tot het bijwonen van een overleg, indien dit voor de behandeling van een bepaald onderwerp redelijkerwijze nodig is.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5b&amp;lid=5&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2008-418"><publicatiejaar>2008</publicatiejaar><publicatienr>418</publicatienr><uitgiftedatum isodatum="2008-10-30">30-10-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-09-25">25-09-2008</ondertekeningsdatum><dossierref dossier="30856">30856</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2008-564"><publicatiejaar>2008</publicatiejaar><publicatienr>564</publicatienr><uitgiftedatum isodatum="2008-12-24">24-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;artikel=5b&amp;g=2022-01-01" onderdeel="artikel=5b" korte-verwijzing="1.0:c:BWBR0009810&amp;artikel=5b"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5b&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=5b" korte-verwijzing="jci1.3:c:BWBR0009810&amp;artikel=5b"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5c" code="n1-5c" stam-id="9756013" versie-id="15811102" id="C22087821" label-id="9732724" inwerking="2009-01-01" label="Artikel 5c" bron="Stb.2008-418" effect="nieuw" ondertekening_bron="2008-09-25" publicatie_bron="2008-10-30" publicatie_iwt="2008-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5c</nr>
+  </kop>
+  <al>De verhuurder verstrekt ten behoeve van de oprichting, organisatie, of vertegenwoordiging van een huurdersorganisatie op verzoek van een groep van ten minste drie huurders of de betrokken huurdersorganisatie zo spoedig mogelijk een lijst met de adressen van zijn in Nederland verhuurde woongelegenheden.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2008-418"><publicatiejaar>2008</publicatiejaar><publicatienr>418</publicatienr><uitgiftedatum isodatum="2008-10-30">30-10-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-09-25">25-09-2008</ondertekeningsdatum><dossierref dossier="30856">30856</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2008-564"><publicatiejaar>2008</publicatiejaar><publicatienr>564</publicatienr><uitgiftedatum isodatum="2008-12-24">24-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;artikel=5c&amp;g=2022-01-01" onderdeel="artikel=5c" korte-verwijzing="1.0:c:BWBR0009810&amp;artikel=5c"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5c&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=5c" korte-verwijzing="jci1.3:c:BWBR0009810&amp;artikel=5c"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5d" stam-id="13138333" versie-id="22389082" id="C32404801" label-id="13106944" inwerking="2015-07-01" label="Artikel 5d" bron="Stb.2015-145" effect="nieuw" ondertekening_bron="2015-03-20" publicatie_bron="2015-04-16" publicatie_iwt="2015-06-19" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5d</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5d/Lid1" label-id="13106944L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De huurdersorganisatie kan een of meer deskundigen uitnodigen tot het bijwonen van een overleg, met het oog op de behandeling van een bepaald onderwerp.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5d&amp;lid=1&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5d/Lid2" label-id="13106944L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De huurdersorganisatie kan in een overleg aan de in het eerste lid bedoelde deskundigen inlichtingen en adviezen vragen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5d&amp;lid=2&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5d/Lid3" label-id="13106944L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Een deskundige kan door de huurdersorganisatie eveneens worden uitgenodigd een schriftelijk advies uit te brengen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5d&amp;lid=3&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2015-145"><publicatiejaar>2015</publicatiejaar><publicatienr>145</publicatienr><uitgiftedatum isodatum="2015-04-16">16-04-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-03-20">20-03-2015</ondertekeningsdatum><dossierref dossier="32769">32769</dossierref></publicatie><juncto><publicatie soort="Stb" urlidentifier="stb-2015-146"><publicatiejaar>2015</publicatiejaar><publicatienr>146</publicatienr><uitgiftedatum isodatum="2015-04-16">16-04-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-03-20">20-03-2015</ondertekeningsdatum><dossierref dossier="33966">33966</dossierref></publicatie></juncto></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2015-232"><publicatiejaar>2015</publicatiejaar><publicatienr>232</publicatienr><uitgiftedatum isodatum="2015-06-19">19-06-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-06-16">16-06-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-07-01">01-07-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;artikel=5d&amp;g=2022-01-01" onderdeel="artikel=5d" korte-verwijzing="1.0:c:BWBR0009810&amp;artikel=5d"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5d&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=5d" korte-verwijzing="jci1.3:c:BWBR0009810&amp;artikel=5d"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5e" stam-id="13138343" versie-id="22389092" id="C32404811" label-id="13106954" inwerking="2015-07-01" label="Artikel 5e" bron="Stb.2015-145" effect="nieuw" ondertekening_bron="2015-03-20" publicatie_bron="2015-04-16" publicatie_iwt="2015-06-19" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5e</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5e/Lid1" label-id="13106954L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De verhuurder biedt de leden van het bestuur van de huurdersorganisatie gedurende een door de verhuurder en de huurdersorganisatie gezamenlijk vast te stellen aantal dagen per jaar de gelegenheid om de scholing en vorming te ontvangen welke zij in verband met de vervulling van hun taak nodig oordelen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5e&amp;lid=1&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5e/Lid2" label-id="13106954L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De verhuurder en de huurdersorganisatie stellen het aantal dagen, bedoeld in het eerste lid, vast op een zodanig aantal als de betrokken leden van het bestuur van de huurdersorganisatie voor de vervulling van hun taak redelijkerwijs nodig hebben, met dien verstande dat het aantal dagen niet lager vastgesteld kan worden dan drie per jaar.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5e&amp;lid=2&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2015-145"><publicatiejaar>2015</publicatiejaar><publicatienr>145</publicatienr><uitgiftedatum isodatum="2015-04-16">16-04-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-03-20">20-03-2015</ondertekeningsdatum><dossierref dossier="32769">32769</dossierref></publicatie><juncto><publicatie soort="Stb" urlidentifier="stb-2015-146"><publicatiejaar>2015</publicatiejaar><publicatienr>146</publicatienr><uitgiftedatum isodatum="2015-04-16">16-04-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-03-20">20-03-2015</ondertekeningsdatum><dossierref dossier="33966">33966</dossierref></publicatie></juncto></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2015-232"><publicatiejaar>2015</publicatiejaar><publicatienr>232</publicatienr><uitgiftedatum isodatum="2015-06-19">19-06-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-06-16">16-06-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-07-01">01-07-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;artikel=5e&amp;g=2022-01-01" onderdeel="artikel=5e" korte-verwijzing="1.0:c:BWBR0009810&amp;artikel=5e"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5e&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=5e" korte-verwijzing="jci1.3:c:BWBR0009810&amp;artikel=5e"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel6" code="b1-6" stam-id="918093" versie-id="15811202" id="C22087791" label-id="890164" inwerking="2009-01-01" label="Artikel 6" bron="Stb.2008-418" effect="wijziging" ondertekening_bron="2008-09-25" publicatie_bron="2008-10-30" publicatie_iwt="2008-12-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <al>Bij schriftelijke overeenkomst tussen de verhuurder en de huurdersorganisatie of de bewonerscommissie kunnen aan de huurdersorganisatie of de bewonerscommissie meer bevoegdheden dan de in deze wet genoemde worden toegekend. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-418"><publicatiejaar>2008</publicatiejaar><publicatienr>418</publicatienr><uitgiftedatum isodatum="2008-10-30">30-10-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-09-25">25-09-2008</ondertekeningsdatum><dossierref dossier="30856">30856</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-564"><publicatiejaar>2008</publicatiejaar><publicatienr>564</publicatienr><uitgiftedatum isodatum="2008-12-24">24-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-18">18-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;artikel=6&amp;g=2022-01-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0009810&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=6&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0009810&amp;artikel=6"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk2/Artikel7" stam-id="918103" versie-id="22389102" id="C32234321" label-id="890174" inwerking="2015-07-01" label="Artikel 7" bron="Stb.2015-145" effect="wijziging" ondertekening_bron="2015-03-20" publicatie_bron="2015-04-16" publicatie_iwt="2015-06-19" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel7/Lid1" label-id="890174L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De verhuurder vergoedt aan de huurdersorganisatie de kosten die rechtstreeks samenhangen met en redelijkerwijs noodzakelijk zijn voor de vervulling van de taken, genoemd in de <intref doc="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=3&amp;z=2022-01-01&amp;g=2022-01-01" label-id="890134" verwijzing-id="2240436" bwb-id="BWBR0009810" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel3">artikelen 3</intref>, <intref doc="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=4&amp;z=2022-01-01&amp;g=2022-01-01" label-id="890144" verwijzing-id="2240437" bwb-id="BWBR0009810" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel4">4</intref>, <intref doc="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5&amp;z=2022-01-01&amp;g=2022-01-01" label-id="890154" verwijzing-id="2240438" bwb-id="BWBR0009810" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5">5</intref> en <intref doc="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5b&amp;z=2022-01-01&amp;g=2022-01-01" label-id="9732714" verwijzing-id="2240439" bwb-id="BWBR0009810" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5b">5b</intref>. Onder deze kosten worden in ieder geval begrepen de kosten van het uitnodigen van deskundigen en het vragen van inlichtingen en adviezen als bedoeld in <intref doc="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5d&amp;z=2022-01-01&amp;g=2022-01-01" label-id="13106944" verwijzing-id="2699591" bwb-id="BWBR0009810" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5d">artikel 5d</intref>, en de kosten van scholings- en vormingsactiviteiten als bedoeld in <intref doc="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5e&amp;z=2022-01-01&amp;g=2022-01-01" label-id="13106954" verwijzing-id="2699592" bwb-id="BWBR0009810" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5e">artikel 5e</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=7&amp;lid=1&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk2/Artikel7/Lid2" label-id="890174L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De verhuurder en de huurdersorganisatie komen overeen dat de in een kalenderjaar gemaakte kosten, bedoeld in het eerste lid, worden vastgesteld op een bepaald bedrag, dat de huurdersorganisatie naar eigen inzicht kan besteden. De huurdersorganisatie legt binnen twee maanden na afloop van het jaar, bedoeld in de eerste volzin, aan de verhuurder verantwoording af over de besteding van de ter beschikking gestelde gelden. Kosten waardoor het hier bedoelde bedrag zal worden overschreden, komen slechts ten laste van de verhuurder, voorzover hij in het dragen daarvan toestemt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=7&amp;lid=2&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2015-145"><publicatiejaar>2015</publicatiejaar><publicatienr>145</publicatienr><uitgiftedatum isodatum="2015-04-16">16-04-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-03-20">20-03-2015</ondertekeningsdatum><dossierref dossier="32769">32769</dossierref></publicatie><juncto><publicatie soort="Stb" urlidentifier="stb-2015-146"><publicatiejaar>2015</publicatiejaar><publicatienr>146</publicatienr><uitgiftedatum isodatum="2015-04-16">16-04-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-03-20">20-03-2015</ondertekeningsdatum><dossierref dossier="33966">33966</dossierref></publicatie></juncto></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2015-232"><publicatiejaar>2015</publicatiejaar><publicatienr>232</publicatienr><uitgiftedatum isodatum="2015-06-19">19-06-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-06-16">16-06-2015</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2015-07-01">01-07-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;artikel=7&amp;g=2022-01-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0009810&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=7&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0009810&amp;artikel=7"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2015-145"><publicatiejaar>2015</publicatiejaar><publicatienr>145</publicatienr><uitgiftedatum isodatum="2015-04-16">16-04-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-03-20">20-03-2015</ondertekeningsdatum><dossierref dossier="32769">32769</dossierref></publicatie><juncto><publicatie soort="Stb" urlidentifier="stb-2015-146"><publicatiejaar>2015</publicatiejaar><publicatienr>146</publicatienr><uitgiftedatum isodatum="2015-04-16">16-04-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-03-20">20-03-2015</ondertekeningsdatum><dossierref dossier="33966">33966</dossierref></publicatie></juncto></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2015-145"><publicatiejaar>2015</publicatiejaar><publicatienr>145</publicatienr><uitgiftedatum isodatum="2015-04-16">16-04-2015</uitgiftedatum><ondertekeningsdatum isodatum="2015-03-20">20-03-2015</ondertekeningsdatum><dossierref dossier="32769">32769</dossierref></publicatie><inwerkingtreding.datum isodatum="2015-03-20">20-03-2015</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;hoofdstuk=2&amp;g=2022-01-01" onderdeel="hoofdstuk=2" korte-verwijzing="1.0:c:BWBR0009810&amp;hoofdstuk=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="hoofdstuk=2" korte-verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=2"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk3" stam-id="918133" versie-id="18923632" id="C26403621" label-id="890204" inwerking="2011-10-27" label="Hoofdstuk 3" bron="Stb.2011-529" effect="structuurwijziging" ondertekening_bron="2011-10-27" publicatie_bron="2011-11-18" publicatie_iwt="2011-11-18" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr status="officieel">3</nr>
+    <titel status="officieel">Geschillenregeling</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk3/Artikel8" code="b1-8" stam-id="918123" versie-id="18923622" id="C26685441" label-id="890194" inwerking="2012-01-01" label="Artikel 8" bron="Stb.2011-529" effect="wijziging" ondertekening_bron="2011-10-27" publicatie_bron="2011-11-18" publicatie_iwt="2011-12-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel8/Lid1" label-id="890194L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Geschillen die voortvloeien uit deze wet worden hetzij met een schriftelijk verzoek ingediend bij de huurcommissie, bedoeld in <extref doc="jci1.3:c:BWBR0014315&amp;artikel=3a" verwijzing-id="2461444" bwb-id="BWBR0014315" label-id="10383484">artikel 3a van de Uitvoeringswet huurprijzen woonruimte</extref>, hetzij met een verzoekschrift voorgelegd aan de kantonrechter.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=3&amp;artikel=8&amp;lid=1&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel8/Lid2" label-id="890194L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Indien de kantonrechter constateert dat sprake is van een schending door de verhuurder van de verplichtingen uit deze wet waardoor de verzoeker is benadeeld, kan hij bepalen dat, voorzover het geschil betrekking heeft op door de verhuurder voorgenomen beleid, de uitvoering van dat beleid wordt opgeschort totdat het verzuim is hersteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=3&amp;artikel=8&amp;lid=2&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel8/Lid3" label-id="890194L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Indien de kantonrechter wordt verzocht te bepalen dat een door de verhuurder genomen besluit tot wijziging van zijn beleid niet mag worden uitgevoerd, kan de kantonrechter bepalen dat een zodanig besluit niet mag worden uitgevoerd, indien:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel8/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>dat besluit afwijkt van een advies als bedoeld in <intref verwijzing-id="2240440" doc="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=5&amp;z=2022-01-01&amp;g=2022-01-01" bwb-id="BWBR0009810" label-id="890154" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel5">artikel 5, eerste lid</intref>, en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=3&amp;artikel=8&amp;lid=3&amp;o=a&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk3/Artikel8/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de verhuurder de beslissing tot afwijking van het advies niet heeft onderbouwd of de verhuurder naar het oordeel van de kantonrechter onder afweging van de betrokken belangen niet in redelijkheid tot afwijking van het advies had kunnen komen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=3&amp;artikel=8&amp;lid=3&amp;o=b&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=3&amp;artikel=8&amp;lid=3&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2011-529"><publicatiejaar>2011</publicatiejaar><publicatienr>529</publicatienr><uitgiftedatum isodatum="2011-11-18">18-11-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-10-27">27-10-2011</ondertekeningsdatum><dossierref dossier="32586">32586</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2011-668"><publicatiejaar>2011</publicatiejaar><publicatienr>668</publicatienr><uitgiftedatum isodatum="2011-12-29">29-12-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-11-22">22-11-2011</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-01-01">01-01-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;artikel=8&amp;g=2022-01-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0009810&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=3&amp;artikel=8&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0009810&amp;artikel=8"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk3/Artikel8a" stam-id="11501993" versie-id="18923642" id="C35713321" label-id="11475194" inwerking="2012-01-01" label="Artikel 8a" bron="Stb.2011-529" effect="nieuw" ondertekening_bron="2011-10-27" publicatie_bron="2011-11-18" publicatie_iwt="2011-12-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel8a/Lid1" label-id="11475194L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Wanneer de huurcommissie, bedoeld in <extref doc="jci1.3:c:BWBR0014315&amp;artikel=3a" label-id="10383484" verwijzing-id="2461445" bwb-id="BWBR0014315">artikel 3a van de Uitvoeringswet huurprijzen woonruimte</extref>, op een verzoek van de huurdersorganisatie, bewonerscommissie, huurder of verhuurder uitspraak heeft gedaan, worden partijen geacht te zijn overeengekomen wat in die uitspraak is vastgesteld, tenzij een van hen binnen acht weken nadat aan hen afschrift van die uitspraak is verzonden, een beslissing van de rechter heeft gevorderd over het punt waarover de huurcommissie om een uitspraak was verzocht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=3&amp;artikel=8a&amp;lid=1&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk3/Artikel8a/Lid2" label-id="11475194L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Tegen een beslissing krachtens dit artikel is geen hogere voorziening toegelaten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=3&amp;artikel=8a&amp;lid=2&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2011-529"><publicatiejaar>2011</publicatiejaar><publicatienr>529</publicatienr><uitgiftedatum isodatum="2011-11-18">18-11-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-10-27">27-10-2011</ondertekeningsdatum><dossierref dossier="32586">32586</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2011-668"><publicatiejaar>2011</publicatiejaar><publicatienr>668</publicatienr><uitgiftedatum isodatum="2011-12-29">29-12-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-11-22">22-11-2011</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2012-01-01">01-01-2012</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;artikel=8a&amp;g=2022-01-01" onderdeel="artikel=8a" korte-verwijzing="1.0:c:BWBR0009810&amp;artikel=8a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=3&amp;artikel=8a&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=8a" korte-verwijzing="jci1.3:c:BWBR0009810&amp;artikel=8a"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2011-529"><publicatiejaar>2011</publicatiejaar><publicatienr>529</publicatienr><uitgiftedatum isodatum="2011-11-18">18-11-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-10-27">27-10-2011</ondertekeningsdatum><dossierref dossier="32586">32586</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2011-529"><publicatiejaar>2011</publicatiejaar><publicatienr>529</publicatienr><uitgiftedatum isodatum="2011-11-18">18-11-2011</uitgiftedatum><ondertekeningsdatum isodatum="2011-10-27">27-10-2011</ondertekeningsdatum><dossierref dossier="32586">32586</dossierref></publicatie><inwerkingtreding.datum isodatum="2011-10-27">27-10-2011</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;hoofdstuk=3&amp;g=2022-01-01" onderdeel="hoofdstuk=3" korte-verwijzing="1.0:c:BWBR0009810&amp;hoofdstuk=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=3&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="hoofdstuk=3" korte-verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=3"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/Hoofdstuk4" stam-id="918183" versie-id="1344372" id="C15949501" label-id="890254" inwerking="1998-12-01" label="Hoofdstuk 4" bron="Stb.1998-501" effect="nieuwe-regeling" ondertekening_bron="1998-07-27" publicatie_bron="1998-08-13" publicatie_iwt="1998-08-13" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>4</nr>
+    <titel status="officieel">Slotbepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Artikel9" code="b1-9" stam-id="918143" versie-id="1344332" id="C1344331" label-id="890214" inwerking="1998-12-01" label="Artikel 9" bron="Stb.1998-501" effect="nieuwe-regeling" ondertekening_bron="1998-07-27" publicatie_bron="1998-08-13" publicatie_iwt="1998-08-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>9</nr>
+  </kop>
+  <al>Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-501"><publicatiejaar>1998</publicatiejaar><publicatienr>501</publicatienr><uitgiftedatum isodatum="1998-08-13">13-08-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-07-27">27-07-1998</ondertekeningsdatum><dossierref dossier="24080">24080</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-501"><publicatiejaar>1998</publicatiejaar><publicatienr>501</publicatienr><uitgiftedatum isodatum="1998-08-13">13-08-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-07-27">27-07-1998</ondertekeningsdatum><dossierref dossier="24080">24080</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-12-01">01-12-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;artikel=9&amp;g=2022-01-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0009810&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=4&amp;artikel=9&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0009810&amp;artikel=9"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Artikel10" code="b1-10" stam-id="918153" versie-id="1344342" id="C1344341" label-id="890224" inwerking="1998-12-01" label="Artikel 10" bron="Stb.1998-501" effect="nieuwe-regeling" ondertekening_bron="1998-07-27" publicatie_bron="1998-08-13" publicatie_iwt="1998-08-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>10</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel10/Lid1" label-id="890224L1">
+    <lidnr>1</lidnr>
+    <al>Deze wet treedt in werking met ingang van de eerste dag van de vierde kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=4&amp;artikel=10&amp;lid=1&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel10/Lid2" label-id="890224L2">
+    <lidnr>2</lidnr>
+    <al>Indien voor het tijdstip van inwerkingtreding van deze wet enig orgaan, niet zijnde een huurdersorganisatie, in het bijzonder werkzaam is ter behartiging van de gemeenschappelijke belangen van de huurders bij een verhuurder, wordt dat orgaan tot twee jaar na de inwerkingtreding van deze wet, doch uiterlijk tot het tijdstip met ingang waarvan een huurdersorganisatie voor de betrokken huurders is opgericht, aangemerkt als huurdersorganisatie. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=4&amp;artikel=10&amp;lid=2&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk4/Artikel10/Lid3" label-id="890224L3">
+    <lidnr>3</lidnr>
+    <al>De in <intref verwijzing-id="282268" doc="jci1.3:c:BWBR0009810&amp;hoofdstuk=2&amp;artikel=7&amp;z=2022-01-01&amp;g=2022-01-01" bwb-id="BWBR0009810" label-id="890174" bwb-ng-variabel-deel="/Hoofdstuk2/Artikel7">artikel 7, vierde lid</intref>, genoemde verplichting voor de huurdersorganisatie tot indiening van een begroting dient voor het kalenderjaar waarin deze wet in werking treedt, te worden ingediend binnen twee maanden na de inwerkingtreding van deze wet. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=4&amp;artikel=10&amp;lid=3&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-501"><publicatiejaar>1998</publicatiejaar><publicatienr>501</publicatienr><uitgiftedatum isodatum="1998-08-13">13-08-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-07-27">27-07-1998</ondertekeningsdatum><dossierref dossier="24080">24080</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-501"><publicatiejaar>1998</publicatiejaar><publicatienr>501</publicatienr><uitgiftedatum isodatum="1998-08-13">13-08-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-07-27">27-07-1998</ondertekeningsdatum><dossierref dossier="24080">24080</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-12-01">01-12-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;artikel=10&amp;g=2022-01-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0009810&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=4&amp;artikel=10&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0009810&amp;artikel=10"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk4/Artikel11" code="b1-11" stam-id="918173" versie-id="1344352" id="C1344361" label-id="890244" inwerking="1998-12-01" label="Artikel 11" bron="Stb.1998-501" effect="nieuwe-regeling" ondertekening_bron="1998-07-27" publicatie_bron="1998-08-13" publicatie_iwt="1998-08-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>11</nr>
+  </kop>
+  <al>Deze wet wordt aangehaald als: Wet op het overleg huurders verhuurder. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-501"><publicatiejaar>1998</publicatiejaar><publicatienr>501</publicatienr><uitgiftedatum isodatum="1998-08-13">13-08-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-07-27">27-07-1998</ondertekeningsdatum><dossierref dossier="24080">24080</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-501"><publicatiejaar>1998</publicatiejaar><publicatienr>501</publicatienr><uitgiftedatum isodatum="1998-08-13">13-08-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-07-27">27-07-1998</ondertekeningsdatum><dossierref dossier="24080">24080</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-12-01">01-12-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;artikel=11&amp;g=2022-01-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0009810&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=4&amp;artikel=11&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0009810&amp;artikel=11"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-501"><publicatiejaar>1998</publicatiejaar><publicatienr>501</publicatienr><uitgiftedatum isodatum="1998-08-13">13-08-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-07-27">27-07-1998</ondertekeningsdatum><dossierref dossier="24080">24080</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-501"><publicatiejaar>1998</publicatiejaar><publicatienr>501</publicatienr><uitgiftedatum isodatum="1998-08-13">13-08-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-07-27">27-07-1998</ondertekeningsdatum><dossierref dossier="24080">24080</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-12-01">01-12-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;hoofdstuk=4&amp;g=2022-01-01" onderdeel="hoofdstuk=4" korte-verwijzing="1.0:c:BWBR0009810&amp;hoofdstuk=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=4&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="hoofdstuk=4" korte-verwijzing="jci1.3:c:BWBR0009810&amp;hoofdstuk=4"/></jcis></meta-data></hoofdstuk>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="918193" versie-id="1344382" id="C14077311" label-id="890264" inwerking="1998-12-01" bron="Stb.1998-501" effect="nieuwe-regeling" ondertekening_bron="1998-07-27" publicatie_bron="1998-08-13" publicatie_iwt="1998-08-13" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden. </al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te Tavarnelle</plaats>
+      <datum isodatum="">27 juli 1998 </datum>
+    </dagtekening>
+    <koning>Beatrix </koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, </functie>
+    <naam>
+      <achternaam>D. K. J. Tommel </achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de dertiende augustus 1998 </datum>
+    <ondertekening>
+      <functie>De Minister van Justitie, </functie>
+      <naam>
+        <achternaam>A. H. Korthals </achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-501"><publicatiejaar>1998</publicatiejaar><publicatienr>501</publicatienr><uitgiftedatum isodatum="1998-08-13">13-08-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-07-27">27-07-1998</ondertekeningsdatum><dossierref dossier="24080">24080</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-501"><publicatiejaar>1998</publicatiejaar><publicatienr>501</publicatienr><uitgiftedatum isodatum="1998-08-13">13-08-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-07-27">27-07-1998</ondertekeningsdatum><dossierref dossier="24080">24080</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-12-01">01-12-1998</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-501"><publicatiejaar>1998</publicatiejaar><publicatienr>501</publicatienr><uitgiftedatum isodatum="1998-08-13">13-08-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-07-27">27-07-1998</ondertekeningsdatum><dossierref dossier="24080">24080</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1998-501"><publicatiejaar>1998</publicatiejaar><publicatienr>501</publicatienr><uitgiftedatum isodatum="1998-08-13">13-08-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-07-27">27-07-1998</ondertekeningsdatum><dossierref dossier="24080">24080</dossierref></publicatie><inwerkingtreding.datum isodatum="1998-12-01">01-12-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0009810&amp;g=2022-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0009810"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0009810&amp;z=2022-01-01&amp;g=2022-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0009810"/></jcis></meta-data></wetgeving></toestand>

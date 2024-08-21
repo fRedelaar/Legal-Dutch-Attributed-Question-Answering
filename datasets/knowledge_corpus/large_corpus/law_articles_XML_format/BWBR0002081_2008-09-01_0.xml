@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0002081/2008-09-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0002081" inwerkingtreding="2008-09-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties><redactionele-correctie label-id="46934" oud-revisie-id="57791" nieuw-revisie-id="32095481"/><redactionele-correctie label-id="46954" oud-revisie-id="5181391" nieuw-revisie-id="32109611"/></redactionele-correcties><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="47523" versie-id="57852" id="C57851" label-id="46994" inwerkingtredingsdatum="1951-09-17">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="47643" versie-id="57722" id="C57721" label-id="46894" inwerking="1951-09-17" bron="Stb.1951-386" effect="nieuwe-regeling" ondertekening_bron="1951-08-16" status="goed">Wet van 16 augustus 1951, tot openstelling van rechterlijke betrekkingen advocatuur en notariaat voor bepaalde groepen van Indische juristen, notarissen en candidaat-notarissen<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1951</publicatiejaar><publicatienr>386</publicatienr><ondertekeningsdatum isodatum="1951-08-16">16-08-1951</ondertekeningsdatum><dossierref dossier="2094">2094</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1951</publicatiejaar><publicatienr>386</publicatienr><ondertekeningsdatum isodatum="1951-08-16">16-08-1951</ondertekeningsdatum><dossierref dossier="2094">2094</dossierref></publicatie><inwerkingtreding.datum isodatum="1951-09-17">17-09-1951</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="47653" versie-id="57742" id="C57741" label-id="46904" inwerking="1951-09-17" bron="Stb.1951-386" effect="nieuwe-regeling" ondertekening_bron="1951-08-16">Wet betreffende Indische juristen<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1951</publicatiejaar><publicatienr>386</publicatienr><ondertekeningsdatum isodatum="1951-08-16">16-08-1951</ondertekeningsdatum><dossierref dossier="2094">2094</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1951</publicatiejaar><publicatienr>386</publicatienr><ondertekeningsdatum isodatum="1951-08-16">16-08-1951</ondertekeningsdatum><dossierref dossier="2094">2094</dossierref></publicatie><inwerkingtreding.datum isodatum="1951-09-17">17-09-1951</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="47663" versie-id="57762" id="C57761" label-id="46914" inwerking="1951-09-17" bron="Stb.1951-386" effect="nieuwe-regeling" ondertekening_bron="1951-08-16" status="goed">
+  <wij>Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is een voorziening te treffen met betrekking tot hen, die hun studie in het Indisch recht of het Indonesische notariaat voltooid hebben en die in verband met de souvereiniteitsoverdracht hun loopbaan in Indonesië niet hebben kunnen voortzetten;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1951</publicatiejaar><publicatienr>386</publicatienr><ondertekeningsdatum isodatum="1951-08-16">16-08-1951</ondertekeningsdatum><dossierref dossier="2094">2094</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1951</publicatiejaar><publicatienr>386</publicatienr><ondertekeningsdatum isodatum="1951-08-16">16-08-1951</ondertekeningsdatum><dossierref dossier="2094">2094</dossierref></publicatie><inwerkingtreding.datum isodatum="1951-09-17">17-09-1951</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" code="a-1" stam-id="47673" versie-id="15256772" id="C21225901" label-id="46924" inwerking="2008-09-01" label="Artikel 1" bron="Stb.2008-100" effect="wijziging" ondertekening_bron="2008-03-20" publicatie_bron="2008-04-08" publicatie_iwt="2008-07-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>Personen, die met goed gevolg het doctoraal examen, genoemd in <extref doc="jci1.3:c:BWBR0004353&amp;artikel=4" verwijzing-id="6324" bwb-id="BWBR0004353" label-id="792994">artikel 4</extref>, paragraaf <extref doc="jci1.3:c:BWBR0004353&amp;artikel=58" verwijzing-id="6326" bwb-id="BWBR0004353" label-id="793774">58, van het academisch statuut</extref>, of een daaraan gelijkwaardig examen aan de Rechtshogeschool of de Universiteit van Indonesië hebben afgelegd en die een verklaring van Onze Minister voor Uniezaken en Overzeese Rijksdelen kunnen overleggen, dat zij nadien tussen 1 Januari 1939 en 1 Januari 1950 in Indonesië zijn werkzaam geweest, kunnen, indien het op grond van hun loopbaan in Indonesië waarschijnlijk is, dat zij de geschiktheid tot het vervullen van hierna bedoelde ambten of beroepen bezitten, voor zover betreft het vereiste van een academische graad of hoedanigheid: </al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>voor zoveel nodig in afwijking van het bepaalde in de <extref doc="jci1.3:c:BWBR0001830&amp;artikel=3" verwijzing-id="6328" bwb-id="BWBR0001830" label-id="2636444">artikelen 3, eerste lid</extref>, <extref doc="jci1.3:c:BWBR0001830&amp;artikel=35" verwijzing-id="6330" bwb-id="BWBR0001830" label-id="2636984">35</extref>, <extref doc="jci1.3:c:BWBR0001830&amp;artikel=37" verwijzing-id="6332" bwb-id="BWBR0001830" label-id="2637014">37</extref>, <extref doc="jci1.3:c:BWBR0001830&amp;artikel=48" verwijzing-id="6333" bwb-id="BWBR0001830" label-id="2637154">48</extref> en <extref doc="jci1.3:c:BWBR0001830&amp;artikel=64" verwijzing-id="6335" bwb-id="BWBR0001830" label-id="2637524">64 van de Wet op de rechterlijke organisatie</extref> en het beleid der justitie worden benoemd tot de in die artikelen vermelde ambten;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002081&amp;artikel=1&amp;o=a&amp;z=2008-09-01&amp;g=2008-09-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>in afwijking van het bepaalde bij of krachtens <extref doc="onbekend" verwijzing-id="6338">artikel 34 van de Beroepswet</extref> worden benoemd tot de in dat artikel vermelde ambten;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002081&amp;artikel=1&amp;o=b&amp;z=2008-09-01&amp;g=2008-09-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>in afwijking van het bepaalde in artikel 119 van het Besluit Herstel Rechtsverkeer worden benoemd tot de in dat artikel vermelde ambten;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002081&amp;artikel=1&amp;o=c&amp;z=2008-09-01&amp;g=2008-09-01" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>in afwijking van het bepaalde in de <extref doc="jci1.3:c:BWBR0002269&amp;artikel=75" verwijzing-id="6339" bwb-id="BWBR0002269" label-id="1672174">artikelen 75</extref> en <extref doc="jci1.3:c:BWBR0002269&amp;artikel=83" verwijzing-id="6341" bwb-id="BWBR0002269" label-id="1672254">83, derde lid, van de Pachtwet</extref> worden benoemd tot secretaris of plaatsvervangend secretaris van een grondkamer dan wel tot griffier van de Centrale Grondkamer.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002081&amp;artikel=1&amp;o=d&amp;z=2008-09-01&amp;g=2008-09-01" onderdeel="o=d"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeele">
+      <li.nr>e.</li.nr>
+      <al>van Onze Minister van Justitie schriftelijke toestemming verkrijgen om in afwijking van de op dit stuk bestaande bepalingen inschrijving en beëdiging als advocaat te verzoeken.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002081&amp;artikel=1&amp;o=e&amp;z=2008-09-01&amp;g=2008-09-01" onderdeel="o=e"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-100"><publicatiejaar>2008</publicatiejaar><publicatienr>100</publicatienr><uitgiftedatum isodatum="2008-04-08">08-04-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-03-20">20-03-2008</ondertekeningsdatum><dossierref dossier="30815">30815</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-274"><publicatiejaar>2008</publicatiejaar><publicatienr>274</publicatienr><uitgiftedatum isodatum="2008-07-15">15-07-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-07-03">03-07-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-09-01">01-09-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002081&amp;artikel=1&amp;g=2008-09-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0002081&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002081&amp;artikel=1&amp;z=2008-09-01&amp;g=2008-09-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0002081&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" stam-id="47683" versie-id="57792" id="C32095481" label-id="46934" inwerking="1951-09-17" label="Artikel 2" bron="Stb.1951-386" effect="nieuwe-regeling" ondertekening_bron="1951-08-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="46934L1">
+    <lidnr status="redactioneel">1</lidnr>
+    <al>Personen, die het examen bedoeld in artikel 13 van het Reglement op het Notarisambt in Indonesië met goed gevolg hebben afgelegd of de in dat artikel bedoelde hoedanigheid van candidaat-notaris hebben verworven en een verklaring van Onze Minister voor Uniezaken en Overzeese Rijksdelen kunnen overleggen, dat zij nadien tussen 1 Januari 1939 en 1 Januari 1950 in Indonesië zijn werkzaam geweest, zijn candidaat-notaris in de zin van artikel 20<nadruk type="cur">a</nadruk> van de Wet van 9 Juli 1842 (<nadruk type="cur">Staatsblad</nadruk> n°. 20) op het Notarisambt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002081&amp;artikel=2&amp;lid=1&amp;z=2008-09-01&amp;g=2008-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="46934L2">
+    <lidnr status="redactioneel">2</lidnr>
+    <al>Bij de kennisgeving bedoeld in artikel 20<nadruk type="cur">b</nadruk> van genoemde wet wordt overgelegd het getuigschrift van het afgelegd examen benevens de hierboven genoemde verklaring van Onze Minister voor Uniezaken en Overzeese Rijksdelen. Indien overlegging van een getuigschrift van het afgelegd examen niet mogelijk is, wordt in de plaats daarvan overgelegd een verklaring van Onze Minister voor Uniezaken en Overzeese Rijksdelen, dat hem is gebleken dat betrokkene het examen bedoeld in artikel 13 van het Reglement op het Notarisambt in Indonesië met goed gevolg heeft afgelegd of de in dat artikel bedoelde hoedanigheid van candidaat-notaris heeft verworven.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002081&amp;artikel=2&amp;lid=2&amp;z=2008-09-01&amp;g=2008-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid3" label-id="46934L3">
+    <lidnr status="redactioneel">3</lidnr>
+    <al>In afwijking van het bepaalde in artikel 10 sub 4° en 5° van de Wet op het Notarisambt zijn de in het eerste lid bedoelde personen tot notaris benoembaar, indien zij op een of meer notariskantoren hier te lande een werktijd hebben volbracht van twee jaren, met dien verstande, dat deze werktijd tezamen met de werktijd op een of meer notariskantoren in Indonesië volbracht niet minder dan drie jaren mag bedragen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002081&amp;artikel=2&amp;lid=3&amp;z=2008-09-01&amp;g=2008-09-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1951</publicatiejaar><publicatienr>386</publicatienr><ondertekeningsdatum isodatum="1951-08-16">16-08-1951</ondertekeningsdatum><dossierref dossier="2094">2094</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1951</publicatiejaar><publicatienr>386</publicatienr><ondertekeningsdatum isodatum="1951-08-16">16-08-1951</ondertekeningsdatum><dossierref dossier="2094">2094</dossierref></publicatie><inwerkingtreding.datum isodatum="1951-09-17">17-09-1951</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002081&amp;artikel=2&amp;g=2008-09-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0002081&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002081&amp;artikel=2&amp;z=2008-09-01&amp;g=2008-09-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0002081&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="47703" versie-id="57812" id="C32109611" label-id="46954" inwerking="1951-09-17" label="Artikel 3" bron="Stb.1951-386" effect="nieuwe-regeling" ondertekening_bron="1951-08-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="46954L1">
+    <lidnr status="redactioneel">1</lidnr>
+    <al>Indien personen als bedoeld in het <intref doc="jci1.3:c:BWBR0002081&amp;artikel=2&amp;z=2008-09-01&amp;g=2008-09-01" label-id="46934" verwijzing-id="1622629" bwb-id="BWBR0002081" bwb-ng-variabel-deel="/Artikel2">eerste lid van artikel 2</intref> vóór het in werking treden van deze wet op een of meer notariskantoren in Nederland werkzaam zijn geweest, mag de tijd van deze werkzaamheden worden medegeteld voor de berekening van de werktijd bedoeld in het laatste <intref doc="jci1.3:c:BWBR0002081&amp;artikel=2&amp;z=2008-09-01&amp;g=2008-09-01" label-id="46934" verwijzing-id="1622630" bwb-id="BWBR0002081" bwb-ng-variabel-deel="/Artikel2">lid van artikel 2</intref>, mits zij binnen één maand na het in werking treden van deze wet hiervan kennis geven aan de Kamer van Toezicht, tot welker ressort de standplaats van de notaris behoort, onder overlegging van de bescheiden vermeld in het <intref doc="jci1.3:c:BWBR0002081&amp;artikel=2&amp;z=2008-09-01&amp;g=2008-09-01" label-id="46934" verwijzing-id="1622631" bwb-id="BWBR0002081" bwb-ng-variabel-deel="/Artikel2">tweede lid van artikel 2</intref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002081&amp;artikel=3&amp;lid=1&amp;z=2008-09-01&amp;g=2008-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="46954L2">
+    <lidnr status="redactioneel">2</lidnr>
+    <al>Het bepaalde in artikel 20<nadruk type="cur">b</nadruk>, tweede en vierde lid, der wet op het Notarisambt is van overeenkomstige toepassing op deze kennisgeving.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002081&amp;artikel=3&amp;lid=2&amp;z=2008-09-01&amp;g=2008-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid3" label-id="46954L3">
+    <lidnr status="redactioneel">3</lidnr>
+    <al>Het ingevolge het eerste lid bij de kennisgeving overgelegde getuigschrift of de daarvoor in de plaats tredende verklaring wordt aan de inzender teruggezonden, nadat daarop een door de Voorzitter van de Kamer van Toezicht ondertekende verklaring is gesteld betreffende de duur van de voor het in werking treden van deze wet volbrachte werktijd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002081&amp;artikel=3&amp;lid=3&amp;z=2008-09-01&amp;g=2008-09-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1951</publicatiejaar><publicatienr>386</publicatienr><ondertekeningsdatum isodatum="1951-08-16">16-08-1951</ondertekeningsdatum><dossierref dossier="2094">2094</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1951</publicatiejaar><publicatienr>386</publicatienr><ondertekeningsdatum isodatum="1951-08-16">16-08-1951</ondertekeningsdatum><dossierref dossier="2094">2094</dossierref></publicatie><inwerkingtreding.datum isodatum="1951-09-17">17-09-1951</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002081&amp;artikel=3&amp;g=2008-09-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0002081&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002081&amp;artikel=3&amp;z=2008-09-01&amp;g=2008-09-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0002081&amp;artikel=3"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="47733" versie-id="57832" id="C57831" label-id="46974" inwerking="1951-09-17" bron="Stb.1951-386" effect="nieuwe-regeling" ondertekening_bron="1951-08-16" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven ten Paleize Soestdijk</plaats>
+      <datum isodatum="">16 Augustus 1951</datum>
+    </dagtekening>
+    <koning>JULIANA.</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Justitie a.i.,</functie>
+    <naam>
+      <achternaam>J. H. VAN MAARSEVEEN.</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de acht en twintigste Augustus 1951.</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie a.i.,</functie>
+      <naam>
+        <achternaam>J. H. VAN MAARSEVEEN.</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1951</publicatiejaar><publicatienr>386</publicatienr><ondertekeningsdatum isodatum="1951-08-16">16-08-1951</ondertekeningsdatum><dossierref dossier="2094">2094</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1951</publicatiejaar><publicatienr>386</publicatienr><ondertekeningsdatum isodatum="1951-08-16">16-08-1951</ondertekeningsdatum><dossierref dossier="2094">2094</dossierref></publicatie><inwerkingtreding.datum isodatum="1951-09-17">17-09-1951</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1951</publicatiejaar><publicatienr>386</publicatienr><ondertekeningsdatum isodatum="1951-08-16">16-08-1951</ondertekeningsdatum><dossierref dossier="2094">2094</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1951</publicatiejaar><publicatienr>386</publicatienr><ondertekeningsdatum isodatum="1951-08-16">16-08-1951</ondertekeningsdatum><dossierref dossier="2094">2094</dossierref></publicatie><inwerkingtreding.datum isodatum="1951-09-17">17-09-1951</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002081&amp;g=2008-09-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0002081"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002081&amp;z=2008-09-01&amp;g=2008-09-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0002081"/></jcis></meta-data></wetgeving></toestand>

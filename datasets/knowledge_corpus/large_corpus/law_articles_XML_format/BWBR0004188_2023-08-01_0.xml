@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0004188/2023-08-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0004188" inwerkingtreding="2023-08-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="2698363" versie-id="4108432" id="C4108431" label-id="2644034" inwerkingtredingsdatum="1987-07-24">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="2698393" versie-id="4108082" id="C4108081" label-id="2643684" inwerking="1987-07-24" bron="Stb.1987-343" effect="nieuwe-regeling" ondertekening_bron="1987-07-07" status="goed">Wet van 7 juli 1987, tot uitbreiding van de lesgeldregeling tot de groep 16- tot 18-jarigen, vervanging van en intrekking van de Lesgeldwet voor boven 17-jarigen alsmede intrekking van de School- en cursusgeldwet 1972<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie><inwerkingtreding.datum isodatum="1987-07-24">24-07-1987</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="2698403" versie-id="4108092" id="C4108091" label-id="2643694" inwerking="1987-07-24" bron="Stb.1987-343" effect="nieuwe-regeling" ondertekening_bron="1987-07-07">Les- en cursusgeldwet<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie><inwerkingtreding.datum isodatum="1987-07-24">24-07-1987</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="2698413" versie-id="4108102" id="C4108101" label-id="2643704" inwerking="1987-07-24" bron="Stb.1987-343" effect="nieuwe-regeling" ondertekening_bron="1987-07-07" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het in verband met de toestand van ’s Rijks financiën alsmede in verband met ontwikkelingen op het gebied van de studiefinanciering wenselijk is over te gaan tot uitbreiding van de lesgeldregeling tot de groep van 16- tot 18-jarigen en voorts de Lesgeldwet voor boven 17-jarigen (<nadruk type="cur">Stb.</nadruk> 1986, 250) te vervangen en genoemde wet alsmede de School- en cursusgeldwet 1972 (<nadruk type="cur">Stb.</nadruk> 1983, 360) in te trekken;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie><inwerkingtreding.datum isodatum="1987-07-24">24-07-1987</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukI" stam-id="2698443" versie-id="4108132" id="C4108131" label-id="2643734" inwerking="1987-07-24" label="Hoofdstuk I" bron="Stb.1987-343" effect="nieuwe-regeling" ondertekening_bron="1987-07-07" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>I</nr>
+    <titel status="officieel">Algemene bepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukI/Artikel1" stam-id="2698423" versie-id="28548322" id="C40284021" label-id="2643714" inwerking="2022-08-01" label="Artikel 1" bron="Stb.2022-116" effect="wijziging" ondertekening_bron="2022-02-23" publicatie_bron="2022-03-21" publicatie_iwt="2022-03-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+    <titel status="officieel">Begripsbepalingen</titel>
+  </kop>
+  <al>In deze wet en de daarop berustende bepalingen wordt, voor zover niet anders bepaald, verstaan onder: </al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>bevoegd gezag: het orgaan dat als zodanig wordt aangeduid in de wettelijke regeling op grond waarvan de desbetreffende school of cursus wordt bekostigd;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=I&amp;artikel=1&amp;o=a&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>leerling: degene die is toegelaten tot het onderwijs aan een school of cursus als bedoeld in <intref doc="jci1.3:c:BWBR0004188&amp;hoofdstuk=I&amp;artikel=2&amp;z=2023-08-01&amp;g=2023-08-01" label-id="2643724" verwijzing-id="1198544" bwb-id="BWBR0004188" bwb-ng-variabel-deel="/HoofdstukI/Artikel2">artikel 2</intref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=I&amp;artikel=1&amp;o=b&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>cursusjaar: het tijdvak van 1 augustus tot en met 31 juli daaraanvolgend;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=I&amp;artikel=1&amp;o=c&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=I&amp;artikel=1&amp;o=d&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="o=d"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeele">
+      <li.nr>e.</li.nr>
+      <al>dagschool: een instelling als bedoeld in <extref doc="jci1.3:c:BWBR0007625&amp;artikel=1.1.1" label-id="2464584" verwijzing-id="2008364" bwb-id="BWBR0007625">1.1.1 van de Wet educatie en beroepsonderwijs</extref>, voor zover het betreft een opleiding als bedoeld in <extref doc="jci1.3:c:BWBR0007625&amp;artikel=7.2.7" label-id="2472434" verwijzing-id="2206001" bwb-id="BWBR0007625">artikel 7.2.7, derde lid, van de Wet educatie en beroepsonderwijs</extref> of een opleiding voortgezet algemeen volwassenenonderwijs die voldoet aan <extref doc="jci1.3:c:BWBR0012438&amp;artikel=2.17" label-id="2854544" verwijzing-id="2517525" bwb-id="BWBR0012438">artikel 2.17 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten</extref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=I&amp;artikel=1&amp;o=e&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="o=e"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeelf">
+      <li.nr>f.</li.nr>
+      <al>cursus: </al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeelf/Onderdeel1">
+          <li.nr>1°.</li.nr>
+          <al>een cursus in de zin van de <extref doc="jci1.3:c:BWBR0044212" label-id="15610054" verwijzing-id="3052979" bwb-id="BWBR0044212">Wet voortgezet onderwijs 2020</extref>;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=I&amp;artikel=1&amp;o=f&amp;o=1&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="o=1"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeelf/Onderdeel2">
+          <li.nr>2°.</li.nr>
+          <al>onderwijs aan een instelling voor voortgezet onderwijs als bedoeld in <extref doc="jci1.3:c:BWBR0044212&amp;artikel=2.86" label-id="15605544" verwijzing-id="3052980" bwb-id="BWBR0044212">artikel 2.86 van de Wet voortgezet onderwijs 2020</extref>, voor zover het geen volledig onderwijs betreft;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=I&amp;artikel=1&amp;o=f&amp;o=2&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="o=2"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeelf/Onderdeel3">
+          <li.nr>3°.</li.nr>
+          <al>een op grond van de <extref doc="jci1.3:c:BWBR0002718" label-id="2613214" verwijzing-id="1198558" bwb-id="BWBR0002718">Experimentenwet onderwijs</extref> uit de openbare kas bekostigde cursus, voor zover het voortgezet onderwijs betreft;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=I&amp;artikel=1&amp;o=f&amp;o=3&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="o=3"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeelf/Onderdeel4">
+          <li.nr>4°.</li.nr>
+          <al>een opleiding als bedoeld in <extref doc="jci1.3:c:BWBR0007625&amp;artikel=7.2.2" label-id="2472234" verwijzing-id="2649382" bwb-id="BWBR0007625">artikel 7.2.2, eerste lid</extref>, of <extref doc="jci1.3:c:BWBR0007625&amp;artikel=7.3.1" label-id="2472844" verwijzing-id="2649383" bwb-id="BWBR0007625">artikel 7.3.1, eerste lid, onder a, van de Wet educatie en beroepsonderwijs</extref>, anders dan bedoeld in onderdeel e, die aan een instelling als bedoeld in <extref doc="jci1.3:c:BWBR0007625&amp;artikel=1.1.1" label-id="2464584" verwijzing-id="2517528" bwb-id="BWBR0007625">artikel 1.1.1 van die wet</extref> ten laste van ’s Rijks kas wordt verzorgd;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=I&amp;artikel=1&amp;o=f&amp;o=4&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="o=4"/></jcis></meta-data></li>
+      </lijst>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=I&amp;artikel=1&amp;o=f&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="o=f"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeelg">
+      <li.nr>g.</li.nr>
+      <al>onderwijsnummer: het door Onze Minister uitgegeven persoonsgebonden nummer, toegekend aan een persoon aan wie niet van overheidswege een burgerservicenummer is verstrekt;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=I&amp;artikel=1&amp;o=g&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="o=g"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeelh">
+      <li.nr>h.</li.nr>
+      <al>
+        <redactie type="vervanging">vervallen;</redactie>
+      </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=I&amp;artikel=1&amp;o=h&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="o=h"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeeli">
+      <li.nr>i.</li.nr>
+      <al>
+        <redactie type="vervanging">vervallen;</redactie>
+      </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=I&amp;artikel=1&amp;o=i&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="o=i"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeelj">
+      <li.nr>j.</li.nr>
+      <al>
+        <redactie type="vervanging">vervallen;</redactie>
+      </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=I&amp;artikel=1&amp;o=j&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="o=j"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukI/Artikel1/Onderdeelk">
+      <li.nr>k.</li.nr>
+      <al>school: een dagschool, als bedoeld in deze wet.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=I&amp;artikel=1&amp;o=k&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="o=k"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-116"><publicatiejaar>2022</publicatiejaar><publicatienr>116</publicatienr><uitgiftedatum isodatum="2022-03-21">21-03-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-02-23">23-02-2022</ondertekeningsdatum><dossierref dossier="35946">35946</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2022-117"><publicatiejaar>2022</publicatiejaar><publicatienr>117</publicatienr><uitgiftedatum isodatum="2022-03-22">22-03-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-03-11">11-03-2022</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-08-01">01-08-2022</inwerkingtreding.datum></inwerkingtreding></brondata><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-57"><publicatiejaar>2021</publicatiejaar><publicatienr>57</publicatienr><uitgiftedatum isodatum="2021-02-10">10-02-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-01-27">27-01-2021</ondertekeningsdatum><dossierref dossier="35611">35611</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2021-599"><publicatiejaar>2021</publicatiejaar><publicatienr>599</publicatienr><uitgiftedatum isodatum="2021-12-09">09-12-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-11-29">29-11-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2022-08-01">01-08-2022</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=1&amp;g=2023-08-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=I&amp;artikel=1&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=1"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukI/Artikel2" code="a-2" stam-id="2698433" versie-id="19691412" id="C27620581" label-id="2643724" inwerking="2013-01-01" label="Artikel 2" bron="Stb.2012-450" effect="wijziging" ondertekening_bron="2012-09-13" publicatie_bron="2012-10-09" publicatie_iwt="2012-10-09" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+    <titel status="officieel">Heffing les- en cursusgeld</titel>
+  </kop>
+  <al>Ter zake van uit de openbare kas bekostigd onderwijs aan een dagschool of uit de openbare kas bekostigde cursussen wordt lesgeld onderscheidenlijk cursusgeld geheven met inachtneming van de bepalingen van deze wet. Ter zake van het volgen van onderwijs in het kader van contractactiviteiten wordt geen lesgeld of cursusgeld volgens de bepalingen van deze wet geheven.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2012-450"><publicatiejaar>2012</publicatiejaar><publicatienr>450</publicatienr><uitgiftedatum isodatum="2012-10-09">09-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-13">13-09-2012</ondertekeningsdatum><dossierref dossier="33146">33146</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2012-450"><publicatiejaar>2012</publicatiejaar><publicatienr>450</publicatienr><uitgiftedatum isodatum="2012-10-09">09-10-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-09-13">13-09-2012</ondertekeningsdatum><dossierref dossier="33146">33146</dossierref></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=2&amp;g=2023-08-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=I&amp;artikel=2&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=2"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie><inwerkingtreding.datum isodatum="1987-07-24">24-07-1987</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;hoofdstuk=I&amp;g=2023-08-01" onderdeel="hoofdstuk=I" korte-verwijzing="1.0:c:BWBR0004188&amp;hoofdstuk=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=I&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="hoofdstuk=I" korte-verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=I"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukII" stam-id="2698493" versie-id="13328262" id="C17900671" label-id="2643784" inwerking="2006-05-29" label="Hoofdstuk II" bron="Stb.2006-288" effect="structuurwijziging" ondertekening_bron="2006-05-29" publicatie_bron="2006-06-27" publicatie_iwt="2006-06-27" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>II</nr>
+    <titel status="officieel">Lesgeld</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukII/Artikel3" code="a-3" stam-id="2698453" versie-id="16853892" id="C23231551" label-id="2643744" inwerking="2010-01-01" label="Artikel 3" bron="Stb.2009-492" effect="wijziging" ondertekening_bron="2009-10-15" publicatie_bron="2009-12-01" publicatie_iwt="2009-12-01" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+    <titel status="officieel">Lesgeldplicht</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel3/Lid1" label-id="2643744L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Lesgeld is verschuldigd ter zake van het door een leerling die op de eerste dag van het desbetreffende cursusjaar de leeftijd van 18 jaren heeft bereikt, volgen van uit de openbare kas bekostigd onderwijs - daaronder begrepen de van het onderwijs deel uitmakende praktijktijd - aan een dagschool. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;artikel=3&amp;lid=1&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel3/Lid2" label-id="2643744L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Het lesgeld is door de leerling verschuldigd per cursusjaar en wordt voldaan aan Onze Minister.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;artikel=3&amp;lid=2&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-492"><publicatiejaar>2009</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2009-12-01">01-12-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-10-15">15-10-2009</ondertekeningsdatum><dossierref dossier="31944">31944</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-493"><publicatiejaar>2009</publicatiejaar><publicatienr>493</publicatienr><uitgiftedatum isodatum="2009-12-01">01-12-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-11-11">11-11-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2010-01-01">01-01-2010</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=3&amp;g=2023-08-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;artikel=3&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=3"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukII/Artikel3a" code="a-3a" stam-id="2698463" versie-id="12583642" id="C27041721" label-id="2643754" inwerking="2005-12-21" label="Artikel 3a" bron="Stb.2005-641" effect="vervallen" ondertekening_bron="2005-12-01" publicatie_bron="2005-12-20" publicatie_iwt="2005-12-20" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>3a</nr>
+    <titel status="officieel">Bijzondere bepaling dove leerlingen</titel>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2005-641"><publicatiejaar>2005</publicatiejaar><publicatienr>641</publicatienr><uitgiftedatum isodatum="2005-12-20">20-12-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-12-01">01-12-2005</ondertekeningsdatum><dossierref dossier="30199">30199</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2005-641"><publicatiejaar>2005</publicatiejaar><publicatienr>641</publicatienr><uitgiftedatum isodatum="2005-12-20">20-12-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-12-01">01-12-2005</ondertekeningsdatum><dossierref dossier="30199">30199</dossierref></publicatie><inwerkingtreding.datum isodatum="2005-12-21">21-12-2005</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2005-08-01">01-08-2005</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=3a&amp;g=2023-08-01" onderdeel="artikel=3a" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=3a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;artikel=3a&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=3a" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=3a"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukII/Artikel4" code="a-4" stam-id="2698473" versie-id="12583652" id="C28974451" label-id="2643764" inwerking="2005-12-21" label="Artikel 4" bron="Stb.2005-641" effect="wijziging" ondertekening_bron="2005-12-01" publicatie_bron="2005-12-20" publicatie_iwt="2005-12-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+    <titel status="officieel">Inschrijvingsplicht</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel4/Lid1" label-id="2643764L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een leerling die op de eerste dag van een cursusjaar de leeftijd van 18 jaren heeft bereikt, dient zich om in dat cursusjaar onderwijs te kunnen volgen, te laten inschrijven.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;artikel=4&amp;lid=1&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel4/Lid2" label-id="2643764L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> De inschrijving geschiedt door of namens het bevoegd gezag. Aan de desbetreffende leerling wordt een bewijs van inschrijving verstrekt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;artikel=4&amp;lid=2&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel4/Lid3" label-id="2643764L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> De leerling wordt ingeschreven voor het gehele cursusjaar, voor zover niet bij of krachtens algemene maatregel van bestuur anders is bepaald.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;artikel=4&amp;lid=3&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel4/Lid4" label-id="2643764L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de inschrijving.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;artikel=4&amp;lid=4&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-641"><publicatiejaar>2005</publicatiejaar><publicatienr>641</publicatienr><uitgiftedatum isodatum="2005-12-20">20-12-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-12-01">01-12-2005</ondertekeningsdatum><dossierref dossier="30199">30199</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2005-641"><publicatiejaar>2005</publicatiejaar><publicatienr>641</publicatienr><uitgiftedatum isodatum="2005-12-20">20-12-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-12-01">01-12-2005</ondertekeningsdatum><dossierref dossier="30199">30199</dossierref></publicatie><inwerkingtreding.datum isodatum="2005-12-21">21-12-2005</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2005-08-01">01-08-2005</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=4&amp;g=2023-08-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;artikel=4&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=4"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukII/Artikel5" stam-id="2698483" versie-id="29377452" id="C42207031" label-id="2643774" inwerking="2023-08-01" label="Artikel 5" bron="Stb.2023-147" effect="wijziging" ondertekening_bron="2023-04-19" publicatie_bron="2023-04-28" publicatie_iwt="2023-06-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+    <titel status="officieel">Inschrijving en lesgeldbedrag</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel5/Lid1" label-id="2643774L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Zodra de student zich heeft ingeschreven ontstaat van rechtswege de verplichting tot betaling van het wettelijk lesgeld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;artikel=5&amp;lid=1&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel5/Lid2" label-id="2643774L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De hoogte van het lesgeld wordt bij algemene maatregel van bestuur vastgesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;artikel=5&amp;lid=2&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel5/Lid3" label-id="2643774L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het bij algemene maatregel van bestuur vastgestelde bedrag, bedoeld in het tweede lid, wordt jaarlijks aan de hand van de consumentenprijsindex geïndexeerd, op de wijze bij of krachtens algemene maatregel van bestuur bepaald. Bij algemene maatregel van bestuur wordt tevens bepaald wat onder de consumentenprijsindex wordt verstaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;artikel=5&amp;lid=3&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukII/Artikel5/Lid4" label-id="2643774L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de voldoening en de vrijstelling, vermindering en terugbetaling van het lesgeld, alsmede met betrekking tot de te verstrekken gegevens, waaronder het burgerservicenummer of onderwijsnummer.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;artikel=5&amp;lid=4&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-147"><publicatiejaar>2023</publicatiejaar><publicatienr>147</publicatienr><uitgiftedatum isodatum="2023-04-28">28-04-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-19">19-04-2023</ondertekeningsdatum><dossierref dossier="36283">36283</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-210"><publicatiejaar>2023</publicatiejaar><publicatienr>210</publicatienr><uitgiftedatum isodatum="2023-06-20">20-06-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-06-14">14-06-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-08-01">01-08-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=5&amp;g=2023-08-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;artikel=5&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=5"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukII/Artikel5a" stam-id="2698813" versie-id="25749592" id="C37946711" label-id="2644114" inwerking="2020-07-01" label="Artikel 5a" bron="Stb.2019-119" effect="wijziging" ondertekening_bron="2019-02-20" publicatie_bron="2019-03-20" publicatie_iwt="2020-06-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5a</nr>
+    <titel status="officieel">Gebruik burgerservicenummer of onderwijsnummer</titel>
+  </kop>
+  <al>Onze Minister gebruikt het burgerservicenummer of onderwijsnummer van de leerling ter zake van de uitvoering van deze wet als registratienummer slechts:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/HoofdstukII/Artikel5a/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>in het verkeer met de leerling op wie het nummer betrekking heeft;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;artikel=5a&amp;o=a&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukII/Artikel5a/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>in contacten met personen en instanties voor zover deze zelf gemachtigd zijn tot het opnemen van het burgerservicenummer of onderwijsnummer in een persoonsregistratie;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;artikel=5a&amp;o=b&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/HoofdstukII/Artikel5a/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>teneinde de gegevens van de leerling te vergelijken met de gegevens die over hem zijn opgenomen in het register onderwijsdeelnemers, bedoeld in <extref doc="jci1.3:c:BWBR0042012&amp;artikel=4" label-id="14976914" verwijzing-id="2933328" bwb-id="BWBR0042012">artikel 4 van de Wet register onderwijsdeelnemers</extref>, voorzover dat noodzakelijk is voor de uitvoering van deze wet.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;artikel=5a&amp;o=c&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="o=c"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-119"><publicatiejaar>2019</publicatiejaar><publicatienr>119</publicatienr><uitgiftedatum isodatum="2019-03-20">20-03-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-02-20">20-02-2019</ondertekeningsdatum><dossierref dossier="34878">34878</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-166"><publicatiejaar>2020</publicatiejaar><publicatienr>166</publicatienr><uitgiftedatum isodatum="2020-06-17">17-06-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-06-05">05-06-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-07-01">01-07-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=5a&amp;g=2023-08-01" onderdeel="artikel=5a" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=5a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;artikel=5a&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=5a" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=5a"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukII/Artikel5b" code="n1-5b" stam-id="8448993" versie-id="26532792" id="C37719121" label-id="8429484" inwerking="2020-04-01" label="Artikel 5b" bron="Stb.2020-76" effect="vervallen" ondertekening_bron="2020-02-12" publicatie_bron="2020-03-04" publicatie_iwt="2020-03-23" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5b</nr>
+    <titel status="officieel">Verstrekken van gegevens aan minister</titel>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2020-76"><publicatiejaar>2020</publicatiejaar><publicatienr>76</publicatienr><uitgiftedatum isodatum="2020-03-04">04-03-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-02-12">12-02-2020</ondertekeningsdatum><dossierref dossier="35320">35320</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2020-98"><publicatiejaar>2020</publicatiejaar><publicatienr>98</publicatienr><uitgiftedatum isodatum="2020-03-23">23-03-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-03-16">16-03-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-04-01">01-04-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=5b&amp;g=2023-08-01" onderdeel="artikel=5b" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=5b"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;artikel=5b&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=5b" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=5b"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2006-288"><publicatiejaar>2006</publicatiejaar><publicatienr>288</publicatienr><uitgiftedatum isodatum="2006-06-27">27-06-2006</uitgiftedatum><ondertekeningsdatum isodatum="2006-05-29">29-05-2006</ondertekeningsdatum><dossierref dossier="30404">30404</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2006-288"><publicatiejaar>2006</publicatiejaar><publicatienr>288</publicatienr><uitgiftedatum isodatum="2006-06-27">27-06-2006</uitgiftedatum><ondertekeningsdatum isodatum="2006-05-29">29-05-2006</ondertekeningsdatum><dossierref dossier="30404">30404</dossierref></publicatie><inwerkingtreding.datum isodatum="2006-05-29">29-05-2006</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;hoofdstuk=II&amp;g=2023-08-01" onderdeel="hoofdstuk=II" korte-verwijzing="1.0:c:BWBR0004188&amp;hoofdstuk=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="hoofdstuk=II" korte-verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=II"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukIII" stam-id="2698513" versie-id="4108202" id="C4108201" label-id="2643804" inwerking="1987-07-24" label="Hoofdstuk III" bron="Stb.1987-343" effect="nieuwe-regeling" ondertekening_bron="1987-07-07" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>III</nr>
+    <titel status="officieel">Cursusgeld</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukIII/Artikel6" stam-id="2698503" versie-id="29377462" id="C42207051" label-id="2643794" inwerking="2023-08-01" label="Artikel 6" bron="Stb.2023-147" effect="wijziging" ondertekening_bron="2023-04-19" publicatie_bron="2023-04-28" publicatie_iwt="2023-06-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+    <titel status="officieel">Algemene bepaling en nadere regeling cursusgeld</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Lid1" label-id="2643794L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Bij of krachtens algemene maatregel van bestuur wordt bepaald voor welke uit de openbare kas bekostigde cursussen cursusgeld verschuldigd is.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=III&amp;artikel=6&amp;lid=1&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Lid2" label-id="2643794L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Degene die tot het onderwijs aan een cursus is toegelaten, dient zich om in een bepaald cursusjaar onderwijs te kunnen volgen, te laten inschrijven.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=III&amp;artikel=6&amp;lid=2&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Lid3" label-id="2643794L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Tot de inschrijving wordt niet overgegaan dan nadat het bewijs is overgelegd dat het verschuldigde cursusgeld is of zal worden voldaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=III&amp;artikel=6&amp;lid=3&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Lid4" label-id="2643794L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De hoogte van het cursusgeld, bedoeld in het eerste lid, wordt bij algemene maatregel van bestuur vastgesteld. Bij of krachtens algemene maatregel van bestuur worden tevens voorschriften vastgesteld over de heffing en voldoening van het cursusgeld en de in het tweede lid bedoelde inschrijving.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=III&amp;artikel=6&amp;lid=4&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Lid5" label-id="2643794L5">
+    <lidnr status="officieel">5</lidnr>
+    <al> Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden vastgesteld met betrekking tot de vrijstelling, vermindering en terugbetaling van het cursusgeld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=III&amp;artikel=6&amp;lid=5&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Lid6" label-id="2643794L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>In aanvulling op het derde lid wordt niet overgegaan tot inschrijving als bedoeld in <extref doc="jci1.3:c:BWBR0007625&amp;artikel=8.1.1" label-id="2474384" verwijzing-id="1845199" bwb-id="BWBR0007625">artikel 8.1.1, eerste lid, van de Wet educatie en beroepsonderwijs</extref>, dan nadat een meerderjarige leerling die niet zelf het cursusgeld voldoet, schriftelijk heeft verklaard dat hij ermee instemt dat een in die verklaring vermelde derde namens hem het cursusgeld voldoet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=III&amp;artikel=6&amp;lid=6&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIII/Artikel6/Lid7" label-id="2643794L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Het bij algemene maatregel van bestuur vastgestelde bedrag, bedoeld in het vierde lid, wordt jaarlijks aan de hand van de consumentenprijsindex geïndexeerd, op de wijze bij of krachtens algemene maatregel van bestuur bepaald. Bij algemene maatregel van bestuur wordt tevens bepaald wat onder de consumentenprijsindex wordt verstaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=III&amp;artikel=6&amp;lid=7&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-147"><publicatiejaar>2023</publicatiejaar><publicatienr>147</publicatienr><uitgiftedatum isodatum="2023-04-28">28-04-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-04-19">19-04-2023</ondertekeningsdatum><dossierref dossier="36283">36283</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-210"><publicatiejaar>2023</publicatiejaar><publicatienr>210</publicatienr><uitgiftedatum isodatum="2023-06-20">20-06-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-06-14">14-06-2023</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-08-01">01-08-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=6&amp;g=2023-08-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=III&amp;artikel=6&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=6"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie><inwerkingtreding.datum isodatum="1987-07-24">24-07-1987</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;hoofdstuk=III&amp;g=2023-08-01" onderdeel="hoofdstuk=III" korte-verwijzing="1.0:c:BWBR0004188&amp;hoofdstuk=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=III&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="hoofdstuk=III" korte-verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=III"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukIV" stam-id="2698573" versie-id="4108262" id="C4108261" label-id="2643864" inwerking="1987-07-24" label="Hoofdstuk IV" bron="Stb.1987-343" effect="nieuwe-regeling" ondertekening_bron="1987-07-07" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>IV</nr>
+    <titel status="officieel">Bijzondere bepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel7" stam-id="2698523" versie-id="26532802" id="C37719151" label-id="2643814" inwerking="2020-04-01" label="Artikel 7" bron="Stb.2020-76" effect="wijziging" ondertekening_bron="2020-02-12" publicatie_bron="2020-03-04" publicatie_iwt="2020-03-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+    <titel status="officieel">Toezicht</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel7/Lid1" label-id="2643814L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het toezicht op de naleving van het bij of krachtens deze wet bepaalde is opgedragen aan Onze Minister.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=IV&amp;artikel=7&amp;lid=1&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-76"><publicatiejaar>2020</publicatiejaar><publicatienr>76</publicatienr><uitgiftedatum isodatum="2020-03-04">04-03-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-02-12">12-02-2020</ondertekeningsdatum><dossierref dossier="35320">35320</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-98"><publicatiejaar>2020</publicatiejaar><publicatienr>98</publicatienr><uitgiftedatum isodatum="2020-03-23">23-03-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-03-16">16-03-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-04-01">01-04-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=7&amp;g=2023-08-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=IV&amp;artikel=7&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=7"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel8" stam-id="2698533" versie-id="26532822" id="C37719141" label-id="2643824" inwerking="2020-04-01" label="Artikel 8" bron="Stb.2020-76" effect="wijziging" ondertekening_bron="2020-02-12" publicatie_bron="2020-03-04" publicatie_iwt="2020-03-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+    <titel status="officieel">Inhouding vergoeding</titel>
+  </kop>
+  <al>Indien het bevoegd gezag van een bijzondere of een gemeentelijke school of cursus de bij of krachtens deze wet gegeven voorschriften niet nakomt, kan Onze Minister besluiten dat de vergoeding uit de openbare kas geheel of gedeeltelijk wordt ingehouden. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-76"><publicatiejaar>2020</publicatiejaar><publicatienr>76</publicatienr><uitgiftedatum isodatum="2020-03-04">04-03-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-02-12">12-02-2020</ondertekeningsdatum><dossierref dossier="35320">35320</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-98"><publicatiejaar>2020</publicatiejaar><publicatienr>98</publicatienr><uitgiftedatum isodatum="2020-03-23">23-03-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-03-16">16-03-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-04-01">01-04-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=8&amp;g=2023-08-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=IV&amp;artikel=8&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=8"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel9" code="a-9" stam-id="2698543" versie-id="16853912" id="C23231521" label-id="2643834" inwerking="2010-01-01" label="Artikel 9" bron="Stb.2009-492" effect="wijziging" ondertekening_bron="2009-10-15" publicatie_bron="2009-12-01" publicatie_iwt="2009-12-01" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+    <titel status="officieel">Schadevergoeding</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel9/Lid1" label-id="2643834L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Degene die op de eerste dag van het cursusjaar de leeftijd van 18 jaren heeft bereikt en uit de openbare kas bekostigd onderwijs volgt aan een dagschool, maar niet is ingeschreven, is deswege aan Onze Minister een schadevergoeding verschuldigd gelijk aan het voor het desbetreffende cursusjaar verschuldigde bedrag aan lesgeld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=IV&amp;artikel=9&amp;lid=1&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukIV/Artikel9/Lid2" label-id="2643834L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Degene die uit de openbare kas bekostigd onderwijs volgt aan een cursus, maar niet is ingeschreven, is deswege aan Onze Minister een schadevergoeding verschuldigd gelijk aan het voor het desbetreffende cursusjaar ten hoogste verschuldigde bedrag voor het volgen van het onderwijs aan de desbetreffende cursus.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=IV&amp;artikel=9&amp;lid=2&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-492"><publicatiejaar>2009</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2009-12-01">01-12-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-10-15">15-10-2009</ondertekeningsdatum><dossierref dossier="31944">31944</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-493"><publicatiejaar>2009</publicatiejaar><publicatienr>493</publicatienr><uitgiftedatum isodatum="2009-12-01">01-12-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-11-11">11-11-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2010-01-01">01-01-2010</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=9&amp;g=2023-08-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=IV&amp;artikel=9&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=9"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel9a" code="a-9a" stam-id="2698553" versie-id="16854072" id="C23231501" label-id="2643844" inwerking="2010-01-01" label="Artikel 9a" bron="Stb.2009-492" effect="wijziging" ondertekening_bron="2009-10-15" publicatie_bron="2009-12-01" publicatie_iwt="2009-12-01" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9a</nr>
+    <titel status="officieel">Invordering en dwangbevel</titel>
+  </kop>
+  <al>Onze Minister vaardigt een dwangbevel uit aan de nalatige, indien het bij of krachtens deze wet verschuldigde lesgeld geheel of gedeeltelijk niet tijdig is voldaan.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-492"><publicatiejaar>2009</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2009-12-01">01-12-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-10-15">15-10-2009</ondertekeningsdatum><dossierref dossier="31944">31944</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-493"><publicatiejaar>2009</publicatiejaar><publicatienr>493</publicatienr><uitgiftedatum isodatum="2009-12-01">01-12-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-11-11">11-11-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2010-01-01">01-01-2010</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=9a&amp;g=2023-08-01" onderdeel="artikel=9a" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=9a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=IV&amp;artikel=9a&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=9a" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=9a"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukIV/Artikel9b" code="i1-9b" stam-id="2698563" versie-id="16854082" id="C23231561" label-id="2643854" inwerking="2010-01-01" label="Artikel 9b" bron="Stb.2009-492" effect="wijziging" ondertekening_bron="2009-10-15" publicatie_bron="2009-12-01" publicatie_iwt="2009-12-01" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9b</nr>
+    <titel status="officieel">Hardheidsclausule</titel>
+  </kop>
+  <al>Onze Minister kan voor bepaalde gevallen de wet buiten toepassing laten of daarvan afwijken voorzover toepassing gelet op het belang dat deze wet beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-492"><publicatiejaar>2009</publicatiejaar><publicatienr>492</publicatienr><uitgiftedatum isodatum="2009-12-01">01-12-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-10-15">15-10-2009</ondertekeningsdatum><dossierref dossier="31944">31944</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-493"><publicatiejaar>2009</publicatiejaar><publicatienr>493</publicatienr><uitgiftedatum isodatum="2009-12-01">01-12-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-11-11">11-11-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2010-01-01">01-01-2010</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=9b&amp;g=2023-08-01" onderdeel="artikel=9b" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=9b"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=IV&amp;artikel=9b&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=9b" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=9b"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie><inwerkingtreding.datum isodatum="1987-07-24">24-07-1987</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;hoofdstuk=IV&amp;g=2023-08-01" onderdeel="hoofdstuk=IV" korte-verwijzing="1.0:c:BWBR0004188&amp;hoofdstuk=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=IV&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="hoofdstuk=IV" korte-verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=IV"/></jcis></meta-data></hoofdstuk>
+      <hoofdstuk bwb-ng-variabel-deel="/HoofdstukV" stam-id="2698713" versie-id="4108402" id="C4108401" label-id="2644004" inwerking="1987-07-24" label="Hoofdstuk V" bron="Stb.1987-343" effect="nieuwe-regeling" ondertekening_bron="1987-07-07" status="goed">
+  <kop>
+    <label>Hoofdstuk</label>
+    <nr>V</nr>
+    <titel status="officieel">Overgangs- en slotbepalingen</titel>
+  </kop><artikel bwb-ng-variabel-deel="/HoofdstukV/Artikel10" code="a-10" stam-id="2698583" versie-id="4108272" id="C4108271" label-id="2643874" inwerking="1987-07-24" label="Artikel 10" bron="Stb.1987-343" effect="nieuwe-regeling" ondertekening_bron="1987-07-07" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>10</nr>
+    <titel status="officieel">Vaststelling lesgeld cursusjaar 1987-1988</titel>
+  </kop>
+  <al>Het bedrag van het lesgeld, bedoeld in <intref verwijzing-id="1198572" doc="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;artikel=5&amp;z=2023-08-01&amp;g=2023-08-01" bwb-id="BWBR0004188" label-id="2643774" bwb-ng-variabel-deel="/HoofdstukII/Artikel5">artikel 5, tweede lid</intref>, wordt voor het cursusjaar 1987-1988 vastgesteld op f 1030. De derde volzin van het derde lid van genoemd artikel vindt voor het eerst toepassing met betrekking tot het cursusjaar 1988-1989.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie><inwerkingtreding.datum isodatum="1987-07-24">24-07-1987</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=10&amp;g=2023-08-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=10&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=10"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV/Artikel11" code="a-11" stam-id="2698593" versie-id="4108282" id="C4108281" label-id="2643884" inwerking="1987-07-24" label="Artikel 11" bron="Stb.1987-343" effect="nieuwe-regeling" ondertekening_bron="1987-07-07" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>11</nr>
+    <titel status="officieel">Intrekking Lesgeldwet voor boven 17-jarigen in het voortgezet onderwijs</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel11/Lid1" label-id="2643884L1">
+    <lidnr>1</lidnr>
+    <al>De Lesgeldwet voor boven 17-jarigen in het voortgezet onderwijs (<nadruk type="cur">Stb.</nadruk> 1986, 250) wordt ingetrokken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=11&amp;lid=1&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel11/Lid2" label-id="2643884L2">
+    <lidnr>2</lidnr>
+    <al> Het bepaalde bij of krachtens die wet blijft van toepassing voor zover het betreft lesgeld verschuldigd dan wel voldaan met betrekking tot het cursusjaar 1986-1987.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=11&amp;lid=2&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel11/Lid3" label-id="2643884L3">
+    <lidnr>3</lidnr>
+    <al> Het Uitvoeringsbesluit Lesgeldwet (<nadruk type="cur">Stb.</nadruk> 1986, 421) strekt met ingang van de datum, bedoeld in <intref verwijzing-id="1198575" doc="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=21&amp;z=2023-08-01&amp;g=2023-08-01" bwb-id="BWBR0004188" label-id="2643984" bwb-ng-variabel-deel="/HoofdstukV/Artikel21">artikel 21, eerste lid</intref>, tot uitvoering van de <intref verwijzing-id="1198576" doc="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;artikel=4&amp;z=2023-08-01&amp;g=2023-08-01" bwb-id="BWBR0004188" label-id="2643764" bwb-ng-variabel-deel="/HoofdstukII/Artikel4">artikelen 4, derde en vierde lid</intref>, en <intref verwijzing-id="1198577" doc="jci1.3:c:BWBR0004188&amp;hoofdstuk=II&amp;artikel=5&amp;z=2023-08-01&amp;g=2023-08-01" bwb-id="BWBR0004188" label-id="2643774" bwb-ng-variabel-deel="/HoofdstukII/Artikel5">5, vierde lid</intref>, totdat bedoelde maatregelen krachtens deze wet zijn vastgesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=11&amp;lid=3&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie><inwerkingtreding.datum isodatum="1987-07-24">24-07-1987</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=11&amp;g=2023-08-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=11&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=11"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV/Artikel12" code="a-12" stam-id="2698603" versie-id="4108292" id="C4108291" label-id="2643894" inwerking="1987-07-24" label="Artikel 12" bron="Stb.1987-343" effect="nieuwe-regeling" ondertekening_bron="1987-07-07" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>12</nr>
+    <titel status="officieel">Intrekking School- en cursusgeldwet 1972</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel12/Lid1" label-id="2643894L1">
+    <lidnr>1</lidnr>
+    <al>De School- en cursusgeldwet 1972 (<nadruk type="cur">Stb.</nadruk> 1983, 360) wordt ingetrokken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=12&amp;lid=1&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel12/Lid2" label-id="2643894L2">
+    <lidnr>2</lidnr>
+    <al> Het bepaalde bij of krachtens die wet blijft van toepassing met betrekking tot de heffing en invordering van school- en cursusgelden over schoolgeldjaren onderscheidenlijk cursusjaren voorafgaand aan het cursusjaar waarop deze wet voor het eerst van toepassing is.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=12&amp;lid=2&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel12/Lid3" label-id="2643894L3">
+    <lidnr>3</lidnr>
+    <al> Het Besluit cursusgeld voortgezet onderwijs (<nadruk type="cur">Stb.</nadruk> 1985, 431) strekt met ingang van de datum, bedoeld in <intref verwijzing-id="1198580" doc="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=21&amp;z=2023-08-01&amp;g=2023-08-01" bwb-id="BWBR0004188" label-id="2643984" bwb-ng-variabel-deel="/HoofdstukV/Artikel21">artikel 21, eerste lid</intref>, tot uitvoering van <intref verwijzing-id="1198581" doc="jci1.3:c:BWBR0004188&amp;hoofdstuk=III&amp;artikel=6&amp;z=2023-08-01&amp;g=2023-08-01" bwb-id="BWBR0004188" label-id="2643794" bwb-ng-variabel-deel="/HoofdstukIII/Artikel6">artikel 6, vierde lid</intref>, totdat bedoelde maatregelen krachtens deze wet zijn vastgesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=12&amp;lid=3&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie><inwerkingtreding.datum isodatum="1987-07-24">24-07-1987</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=12&amp;g=2023-08-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=12&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=12"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV/Artikel13" code="a-13" stam-id="2698613" versie-id="4108302" id="C4108301" label-id="2643904" inwerking="1987-07-24" label="Artikel 13" bron="Stb.1987-343" effect="nieuwe-regeling" ondertekening_bron="1987-07-07" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>13</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie><inwerkingtreding.datum isodatum="1987-07-24">24-07-1987</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=13&amp;g=2023-08-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=13&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=13"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV/Artikel14" code="a-14" stam-id="2698623" versie-id="4108312" id="C4108311" label-id="2643914" inwerking="1987-07-24" label="Artikel 14" bron="Stb.1987-343" effect="nieuwe-regeling" ondertekening_bron="1987-07-07" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>14</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie><inwerkingtreding.datum isodatum="1987-07-24">24-07-1987</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=14&amp;g=2023-08-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=14&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=14"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV/Artikel15" code="a-15" stam-id="2698633" versie-id="4108322" id="C4108321" label-id="2643924" inwerking="1987-07-24" label="Artikel 15" bron="Stb.1987-343" effect="nieuwe-regeling" ondertekening_bron="1987-07-07" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>15</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie><inwerkingtreding.datum isodatum="1987-07-24">24-07-1987</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=15&amp;g=2023-08-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=15&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=15"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV/Artikel16" code="a-16" stam-id="2698643" versie-id="4108332" id="C4108331" label-id="2643934" inwerking="1987-07-24" label="Artikel 16" bron="Stb.1987-343" effect="nieuwe-regeling" ondertekening_bron="1987-07-07" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>16</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie><inwerkingtreding.datum isodatum="1987-07-24">24-07-1987</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=16&amp;g=2023-08-01" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=16&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=16"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV/Artikel17" stam-id="2698653" versie-id="4108342" id="C4108341" label-id="2643944" inwerking="1988-08-01" label="Artikel 17" bron="Stb.1987-343" effect="vervallen" ondertekening_bron="1987-07-07" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>17</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie><inwerkingtreding.datum isodatum="1988-08-01">01-08-1988</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=17&amp;g=2023-08-01" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=17&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=17"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV/Artikel18" stam-id="2698663" versie-id="4108352" id="C4108351" label-id="2643954" inwerking="1990-01-01" label="Artikel 18" bron="Stb.1987-343" effect="vervallen" ondertekening_bron="1987-07-07" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>18</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie><inwerkingtreding.datum isodatum="1990-01-01">01-01-1990</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=18&amp;g=2023-08-01" onderdeel="artikel=18" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=18"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=18&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=18" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=18"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV/Artikel19" stam-id="2698673" versie-id="4108362" id="C4108361" label-id="2643964" inwerking="1988-08-01" label="Artikel 19" bron="Stb.1987-343" effect="vervallen" ondertekening_bron="1987-07-07" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>19</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie><inwerkingtreding.datum isodatum="1988-08-01">01-08-1988</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=19&amp;g=2023-08-01" onderdeel="artikel=19" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=19"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=19&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=19" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=19"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV/Artikel20" code="a-20" stam-id="2698683" versie-id="4109012" id="C4109011" label-id="2643974" inwerking="2001-08-01" label="Artikel 20" bron="Stb.2001-225" effect="vervallen" ondertekening_bron="2001-04-26" publicatie_bron="2001-05-22" publicatie_iwt="2001-05-22" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>20</nr>
+    <titel status="officieel">Verrekening met tegemoetkoming studiekosten</titel>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2001-225"><publicatiejaar>2001</publicatiejaar><publicatienr>225</publicatienr><uitgiftedatum isodatum="2001-05-22">22-05-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-04-26">26-04-2001</ondertekeningsdatum><dossierref dossier="27414">27414</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2001-225"><publicatiejaar>2001</publicatiejaar><publicatienr>225</publicatienr><uitgiftedatum isodatum="2001-05-22">22-05-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-04-26">26-04-2001</ondertekeningsdatum><dossierref dossier="27414">27414</dossierref></publicatie><inwerkingtreding.datum isodatum="2001-08-01">01-08-2001</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=20&amp;g=2023-08-01" onderdeel="artikel=20" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=20"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=20&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=20" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=20"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV/Artikel21" code="a-21" stam-id="2698693" versie-id="4108472" id="C4108471" label-id="2643984" inwerking="1996-08-01" label="Artikel 21" bron="Stb.1995-676" effect="wijziging" ondertekening_bron="1995-12-14" publicatie_bron="1995-12-28" publicatie_iwt="1995-12-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>21</nr>
+    <titel status="officieel">Inwerkingtreding</titel>
+  </kop>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel21/Lid1" label-id="2643984L1">
+    <lidnr>1</lidnr>
+    <al>Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het <nadruk type="cur">Staatsblad</nadruk> waarin zij is geplaatst, en vindt voor het eerst toepassing met betrekking tot het cursusjaar dat in 1987 aanvangt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=21&amp;lid=1&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel21/Lid2" label-id="2643984L2">
+    <lidnr>2</lidnr>
+    <al> De <intref verwijzing-id="1198584" bwb-id="BWBR0004188" label-id="2643944" doc="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=17&amp;z=2023-08-01&amp;g=2023-08-01" bwb-ng-variabel-deel="/HoofdstukV/Artikel17">artikelen 17</intref> en <intref verwijzing-id="1198585" bwb-id="BWBR0004188" label-id="2643964" doc="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=19&amp;z=2023-08-01&amp;g=2023-08-01" bwb-ng-variabel-deel="/HoofdstukV/Artikel19">19</intref> vervallen met ingang van 1 augustus 1988.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=21&amp;lid=2&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/HoofdstukV/Artikel21/Lid3" label-id="2643984L3">
+    <lidnr>3</lidnr>
+    <al>
+      <intref verwijzing-id="1198586" bwb-id="BWBR0004188" label-id="2643954" doc="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=18&amp;z=2023-08-01&amp;g=2023-08-01" bwb-ng-variabel-deel="/HoofdstukV/Artikel18">Artikel 18</intref> vervalt met ingang van 1 januari 1990.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=21&amp;lid=3&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1995-676"><publicatiejaar>1995</publicatiejaar><publicatienr>676</publicatienr><uitgiftedatum isodatum="1995-12-28">28-12-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-12-14">14-12-1995</ondertekeningsdatum><dossierref dossier="23699">23699</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1995-676"><publicatiejaar>1995</publicatiejaar><publicatienr>676</publicatienr><uitgiftedatum isodatum="1995-12-28">28-12-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-12-14">14-12-1995</ondertekeningsdatum><dossierref dossier="23699">23699</dossierref></publicatie><inwerkingtreding.datum isodatum="1996-08-01">01-08-1996</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=21&amp;g=2023-08-01" onderdeel="artikel=21" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=21"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=21&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=21" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=21"/></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/HoofdstukV/Artikel22" code="a-22" stam-id="2698703" versie-id="4108392" id="C4108391" label-id="2643994" inwerking="1987-07-24" label="Artikel 22" bron="Stb.1987-343" effect="nieuwe-regeling" ondertekening_bron="1987-07-07" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>22</nr>
+    <titel status="officieel">Citeertitel</titel>
+  </kop>
+  <al>Deze wet kan worden aangehaald als "Les- en cursusgeldwet".</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie><inwerkingtreding.datum isodatum="1987-07-24">24-07-1987</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;artikel=22&amp;g=2023-08-01" onderdeel="artikel=22" korte-verwijzing="1.0:c:BWBR0004188&amp;artikel=22"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;artikel=22&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="artikel=22" korte-verwijzing="jci1.3:c:BWBR0004188&amp;artikel=22"/></jcis></meta-data></artikel><meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie><inwerkingtreding.datum isodatum="1987-07-24">24-07-1987</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;hoofdstuk=V&amp;g=2023-08-01" onderdeel="hoofdstuk=V" korte-verwijzing="1.0:c:BWBR0004188&amp;hoofdstuk=V"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="hoofdstuk=V" korte-verwijzing="jci1.3:c:BWBR0004188&amp;hoofdstuk=V"/></jcis></meta-data></hoofdstuk>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="2698723" versie-id="4108412" id="C4108411" label-id="2644014" inwerking="1987-07-24" bron="Stb.1987-343" effect="nieuwe-regeling" ondertekening_bron="1987-07-07" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">7 juli 1987</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Onderwijs en Wetenschappen,</functie>
+    <naam>
+      <achternaam>W. J. Deetman</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Landbouw en Visserij,</functie>
+    <naam>
+      <achternaam>G. J. M. Braks</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de drieëntwintigste juli 1987</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie a.i.,</functie>
+      <naam>
+        <achternaam>C. P. van Dijk</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie><inwerkingtreding.datum isodatum="1987-07-24">24-07-1987</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+    <officiele-inhoudsopgave bwb-ng-variabel-deel="/Officiele-inhoudsopgave" stam-id="2698733" versie-id="12700882" id="C27041731" label-id="2644024" inwerking="2005-12-30" bron="Stb.2005-697" effect="vervallen" ondertekening_bron="2005-11-17" publicatie_bron="2005-12-29" publicatie_iwt="2005-12-29" status="vervallen">
+  <kop>
+    <titel status="officieel">Inhoudsopgave</titel>
+  </kop>
+<meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2005-697"><publicatiejaar>2005</publicatiejaar><publicatienr>697</publicatienr><uitgiftedatum isodatum="2005-12-29">29-12-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-11-17">17-11-2005</ondertekeningsdatum><dossierref dossier="30239">30239</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2005-697"><publicatiejaar>2005</publicatiejaar><publicatienr>697</publicatienr><uitgiftedatum isodatum="2005-12-29">29-12-2005</uitgiftedatum><ondertekeningsdatum isodatum="2005-11-17">17-11-2005</ondertekeningsdatum><dossierref dossier="30239">30239</dossierref></publicatie><inwerkingtreding.datum isodatum="2005-12-30">30-12-2005</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2004-07-01">01-07-2004</terugwerkend.datum></inwerkingtreding></brondata></meta-data></officiele-inhoudsopgave>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>343</publicatienr><ondertekeningsdatum isodatum="1987-07-07">07-07-1987</ondertekeningsdatum><dossierref dossier="19879">19879</dossierref></publicatie><inwerkingtreding.datum isodatum="1987-07-24">24-07-1987</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004188&amp;g=2023-08-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0004188"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004188&amp;z=2023-08-01&amp;g=2023-08-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0004188"/></jcis></meta-data></wetgeving></toestand>

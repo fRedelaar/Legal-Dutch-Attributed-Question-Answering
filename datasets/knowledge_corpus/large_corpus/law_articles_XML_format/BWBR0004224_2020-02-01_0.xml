@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0004224/2020-02-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0004224" inwerkingtreding="2020-02-01"><bwb-inputbestand>BWBR0004224_2017-09-01_0</bwb-inputbestand><bwb-wijzigingen/><redactionele-correcties><redactionele-correctie label-id="18554" oud-revisie-id="37600981" nieuw-revisie-id="38674361"/><redactionele-correctie label-id="18184" oud-revisie-id="34888751" nieuw-revisie-id="41492671"/><redactionele-correctie label-id="18214" oud-revisie-id="34888761" nieuw-revisie-id="41492851"/><redactionele-correctie label-id="17904" oud-revisie-id="37423551" nieuw-revisie-id="41502881"/></redactionele-correcties><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="17153" versie-id="14340362" id="C19503071" label-id="18644" inwerkingtredingsdatum="2007-03-08">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="17663" versie-id="20142" id="C20141" label-id="17384" inwerking="1987-11-07" bron="Stb.1987-484" effect="nieuwe-regeling" ondertekening_bron="1987-10-28" status="goed">Wet van 28 oktober 1987, houdende regelen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>484</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum><dossierref dossier="19919">19919</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>485</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1987-11-07">07-11-1987</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="17693" versie-id="20172" id="C20171" label-id="17414" inwerking="1987-11-07" bron="Stb.1987-484" effect="nieuwe-regeling" ondertekening_bron="1987-10-28">Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>484</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum><dossierref dossier="19919">19919</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>485</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1987-11-07">07-11-1987</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="17733" versie-id="20212" id="C20211" label-id="17454" inwerking="1987-11-07" bron="Stb.1987-484" effect="nieuwe-regeling" ondertekening_bron="1987-10-28" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging hebben genomen, dat het ter uitvoering van de richtlijn van de Raad van de Europese Gemeenschappen van 16 december 1986 betreffende de rechtsbescherming van topografieën van halfgeleiderprodukten (<nadruk type="cur">Pb.</nadruk> L/24, 27 januari 1987) wenselijk is regelen te treffen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>484</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum><dossierref dossier="19919">19919</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>485</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1987-11-07">07-11-1987</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="17793" versie-id="14951602" id="C36574301" label-id="17514" inwerking="2008-06-05" label="Artikel 1" bron="Stb.2007-479" effect="wijziging" ondertekening_bron="2007-11-08" publicatie_bron="2007-12-11" publicatie_iwt="2008-04-10" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder: </al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>
+        <nadruk type="cur">halfgeleiderprodukt:</nadruk> de definitieve vorm of de tussenvorm van een produkt; </al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li bwb-ng-variabel-deel="/Artikel1/Onderdeela/Onderdeel1">
+          <li.nr>1°.</li.nr>
+          <al>dat uit een lichaam bestaat, dat een laag halfgeleidermateriaal en een of meer lagen geleidend, isolerend of halfgeleidend materiaal bevat, waarbij elk van de lagen een samenstelling heeft die in overeenstemming is met een vooraf bepaald driedimensionaal patroon van het lichaam, en</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=1&amp;o=a&amp;o=1&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="o=1"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/Artikel1/Onderdeela/Onderdeel2">
+          <li.nr>2°.</li.nr>
+          <al>dat bestemd is om, uitsluitend of tezamen met andere functies, een elektronische functie te vervullen.</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=1&amp;o=a&amp;o=2&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="o=2"/></jcis></meta-data></li>
+      </lijst>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=1&amp;o=a&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>
+        <nadruk type="cur">topografie:</nadruk> een reeks samenhangende beelden, op enigerlei wijze vastgelegd, </al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li bwb-ng-variabel-deel="/Artikel1/Onderdeelb/Onderdeel1">
+          <li.nr>1°.</li.nr>
+          <al>die het driedimensionaal patroon van de lagen weergeven waaruit het halfgeleiderprodukt is samengesteld, en</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=1&amp;o=b&amp;o=1&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="o=1"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/Artikel1/Onderdeelb/Onderdeel2">
+          <li.nr>2°.</li.nr>
+          <al>waarin elk beeld het patroon of een gedeelte van het patroon van een oppervlak van het halfgeleiderprodukt in enig stadium van zijn vervaardiging voorstelt;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=1&amp;o=b&amp;o=2&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="o=2"/></jcis></meta-data></li>
+      </lijst>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=1&amp;o=b&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>
+        <nadruk type="cur">het bureau</nadruk>: het bureau, bedoeld in <extref doc="jci1.3:c:BWBR0007118&amp;artikel=1" label-id="2761334" verwijzing-id="2180743" bwb-id="BWBR0007118">artikel 1 van de Rijksoctrooiwet 1995</extref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=1&amp;o=c&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>
+        <nadruk type="cur">het register:</nadruk> het door het bureau beheerde register waarin depots ingevolge deze wet worden ingeschreven;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=1&amp;o=d&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="o=d"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeele">
+      <li.nr>e.</li.nr>
+      <al>
+        <nadruk type="cur">exploiteren:</nadruk> het verkopen, verhuren of het op andere wijze in het verkeer brengen van exemplaren van de topografie of van het halfgeleiderprodukt waarin de topografie is vervat, dan wel het aanbieden voor een van deze doeleinden. Voor de toepassing van de <intref doc="jci1.3:c:BWBR0004224&amp;artikel=4&amp;z=2020-02-01&amp;g=2020-02-01" label-id="17644" verwijzing-id="1622509" bwb-id="BWBR0004224" bwb-ng-variabel-deel="/Artikel4">artikelen 4</intref>, <intref doc="jci1.3:c:BWBR0004224&amp;artikel=7&amp;z=2020-02-01&amp;g=2020-02-01" label-id="17774" verwijzing-id="1622510" bwb-id="BWBR0004224" bwb-ng-variabel-deel="/Artikel7">7</intref> en <intref doc="jci1.3:c:BWBR0004224&amp;artikel=13&amp;z=2020-02-01&amp;g=2020-02-01" label-id="18004" verwijzing-id="1622511" bwb-id="BWBR0004224" bwb-ng-variabel-deel="/Artikel13">13</intref> wordt onder exploitatie niet verstaan exploitatie die geschiedt onder de voorwaarde van vertrouwelijkheid, mits deze voorwaarde alleen geldt tussen de desbetreffende contractspartijen.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=1&amp;o=e&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="o=e"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2007-479"><publicatiejaar>2007</publicatiejaar><publicatienr>479</publicatienr><uitgiftedatum isodatum="2007-12-11">11-12-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-11-08">08-11-2007</ondertekeningsdatum><dossierref dossier="30975">30975</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-106"><publicatiejaar>2008</publicatiejaar><publicatienr>106</publicatienr><uitgiftedatum isodatum="2008-04-10">10-04-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-04-02">02-04-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2008-06-05">05-06-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=1&amp;g=2020-02-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=1&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="a-2" stam-id="17833" versie-id="20302" id="C25188471" label-id="17554" inwerking="1987-11-07" label="Artikel 2" bron="Stb.1987-484" effect="nieuwe-regeling" ondertekening_bron="1987-10-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <al>De maker van een oorspronkelijke topografie van een halfgeleiderprodukt heeft een uitsluitend recht op deze topografie.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>484</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum><dossierref dossier="19919">19919</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>485</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1987-11-07">07-11-1987</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=2&amp;g=2020-02-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=2&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="a-3" stam-id="17873" versie-id="20352" id="C25188481" label-id="17594" inwerking="1992-01-01" label="Artikel 3" bron="Stb.1991-471" effect="wijziging" ondertekening_bron="1991-09-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <al>Indien de arbeid, in dienst van een ander verricht, bestaat in het tot stand brengen van topografieën, wordt, tenzij anders is overeengekomen, als de maker van de topografie aangemerkt degene, in wiens dienst de topografie is tot stand gebracht.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>471</publicatienr><ondertekeningsdatum isodatum="1991-09-11">11-09-1991</ondertekeningsdatum><dossierref dossier="21640">21640</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>518</publicatienr><ondertekeningsdatum isodatum="1991-10-11">11-10-1991</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-01-01">01-01-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=3&amp;g=2020-02-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=3&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="a-4" stam-id="17933" versie-id="20402" id="C25188491" label-id="17644" inwerking="1994-01-01" label="Artikel 4" bron="Stb.1993-609" effect="wijziging" ondertekening_bron="1993-11-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <al>Buiten het geval, bedoeld in <intref verwijzing-id="1622528" doc="jci1.3:c:BWBR0004224&amp;artikel=2&amp;z=2020-02-01&amp;g=2020-02-01" bwb-id="BWBR0004224" label-id="17554" bwb-ng-variabel-deel="/Artikel2">artikel 2</intref>, in samenhang met <intref verwijzing-id="1622529" doc="jci1.3:c:BWBR0004224&amp;artikel=3&amp;z=2020-02-01&amp;g=2020-02-01" bwb-id="BWBR0004224" label-id="17594" bwb-ng-variabel-deel="/Artikel3">artikel 3</intref>, komt het uitsluitend recht op een topografie mede toe aan de persoon die een oorspronkelijke topografie, die nog niet elders in de wereld is geëxploiteerd, voor het eerst in een van de lid-Staten van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte met uitsluiting van anderen exploiteert, mits deze exploitatie geschiedt met toestemming van degene die de topografie heeft tot stand gebracht.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>609</publicatienr><ondertekeningsdatum isodatum="1993-11-11">11-11-1993</ondertekeningsdatum><dossierref dossier="22903">22903</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>778</publicatienr><ondertekeningsdatum isodatum="1993-12-28">28-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=4&amp;g=2020-02-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=4&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="a-5" stam-id="17963" versie-id="20442" id="C25188501" label-id="17684" inwerking="1987-11-07" label="Artikel 5" bron="Stb.1987-484" effect="nieuwe-regeling" ondertekening_bron="1987-10-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid1" label-id="17684L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het uitsluitend recht op een topografie houdt de bevoegdheid in om </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel5/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de topografie te verveelvoudigen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=5&amp;lid=1&amp;o=a&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel5/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>een halfgeleiderprodukt te vervaardigen waarin de topografie is vervat;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=5&amp;lid=1&amp;o=b&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel5/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>een exemplaar van de topografie of het halfgeleiderprodukt waarin de topografie is vervat, te exploiteren, dan wel voor een of ander aan te bieden, in voorraad te hebben of in te voeren.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=5&amp;lid=1&amp;o=c&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=5&amp;lid=1&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid2" label-id="17684L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Het uitsluitend recht op een topografie kan tegenover derden alleen worden uitgeoefend, nadat het depot van de topografie is ingeschreven door het bureau.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=5&amp;lid=2&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>484</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum><dossierref dossier="19919">19919</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>485</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1987-11-07">07-11-1987</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=5&amp;g=2020-02-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=5&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="a-6" stam-id="18013" versie-id="20492" id="C25188511" label-id="17734" inwerking="1994-01-01" label="Artikel 6" bron="Stb.1993-609" effect="wijziging" ondertekening_bron="1993-11-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <al>Is een exemplaar van de topografie of het halfgeleiderprodukt waarin de topografie is vervat, in een van de lid-Staten van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte door de houder van het uitsluitend recht of met diens toestemming in het verkeer gebracht, dan handelt de verkrijger niet in strijd met het uitsluitend recht op de topografie door ten aanzien van deze topografie of dit halfgeleiderprodukt de in <intref verwijzing-id="1622530" doc="jci1.3:c:BWBR0004224&amp;artikel=5&amp;z=2020-02-01&amp;g=2020-02-01" bwb-id="BWBR0004224" label-id="17684" bwb-ng-variabel-deel="/Artikel5">artikel 5, eerste lid, onder <nadruk type="cur">c,</nadruk></intref> genoemde handelingen te verrichten.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>609</publicatienr><ondertekeningsdatum isodatum="1993-11-11">11-11-1993</ondertekeningsdatum><dossierref dossier="22903">22903</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>778</publicatienr><ondertekeningsdatum isodatum="1993-12-28">28-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=6&amp;g=2020-02-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=6&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="a-7" stam-id="18053" versie-id="20532" id="C25188521" label-id="17774" inwerking="1987-11-07" label="Artikel 7" bron="Stb.1987-484" effect="nieuwe-regeling" ondertekening_bron="1987-10-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <al>Het uitsluitend recht op een topografie vervalt, indien niet binnen uiterlijk twee jaren na het tijdstip waarop een exemplaar van de topografie of het halfgeleiderprodukt waarin de topografie is vervat, voor de eerste maal door de houder van het uitsluitend recht of met diens toestemming in of buiten Nederland is geëxploiteerd, het depot van de topografie heeft plaatsgevonden, mits dit depot door het bureau in het register wordt ingeschreven.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>484</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum><dossierref dossier="19919">19919</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>485</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1987-11-07">07-11-1987</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=7&amp;g=2020-02-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=7&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" code="a-8" stam-id="18103" versie-id="20582" id="C25188531" label-id="17824" inwerking="1995-05-17" label="Artikel 8" bron="Stb.1995-250" effect="wijziging" ondertekening_bron="1995-04-26" publicatie_bron="1995-05-16" publicatie_iwt="1995-05-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid1" label-id="17824L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het depot geschiedt door indiening van een aanvraag om inschrijving, welke aanvraag vermeldt: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel8/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>naam, adres en woonplaats van de maker, indien hij een ander is dan de deposant;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=8&amp;lid=1&amp;o=a&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel8/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>een aanduiding van de topografie;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=8&amp;lid=1&amp;o=b&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel8/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>vergezeld is van tekeningen of afbeeldingen van de topografie;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=8&amp;lid=1&amp;o=c&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel8/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de datum waarop een exemplaar van de topografie of het halfgeleiderprodukt waarin de topografie is vervat, voor de eerste maal is geëxploiteerd, indien dit reeds heeft plaatsgevonden.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=8&amp;lid=1&amp;o=d&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+    <al>Bij de aanvraag kan een exemplaar van het halfgeleiderprodukt worden overgelegd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=8&amp;lid=1&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid2" label-id="17824L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Bij het depot kan de deposant aangeven welke delen van de in het vorige lid onder <nadruk type="cur">c</nadruk> genoemde stukken bedrijfsgeheimen bevatten en niet ter kennis van derden kunnen worden gebracht, mits de herkenbaarheid van de topografie gewaarborgd blijft.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=8&amp;lid=2&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid3" label-id="17824L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> De aanvraag en de bijgevoegde stukken zijn in het Nederlands gesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=8&amp;lid=3&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid4" label-id="17824L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> Indien de deposant of diens gevolmachtigde geen woonplaats in Nederland heeft, is hij verplicht aldaar een correspondentie-adres aan te geven alsmede elke wijziging daarvan ter kennis van het bureau te brengen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=8&amp;lid=4&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid5" label-id="17824L5">
+    <lidnr status="officieel">5</lidnr>
+    <al> Bij het depot dient een bewijsstuk te worden overgelegd waaruit blijkt, dat bij het bureau een bedrag is gestort overeenkomstig een bij algemene maatregel van bestuur vastgesteld tarief.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=8&amp;lid=5&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel8/Lid6" label-id="17824L6">
+    <lidnr status="officieel">6</lidnr>
+    <al> Bij algemene maatregel van bestuur kunnen nadere regels ten aanzien van het in dit artikel bepaalde worden gesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=8&amp;lid=6&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1995-250"><publicatiejaar>1995</publicatiejaar><publicatienr>250</publicatienr><uitgiftedatum isodatum="1995-05-16">16-05-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-04-26">26-04-1995</ondertekeningsdatum><dossierref dossier="23780">23780</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1995-250"><publicatiejaar>1995</publicatiejaar><publicatienr>250</publicatienr><uitgiftedatum isodatum="1995-05-16">16-05-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-04-26">26-04-1995</ondertekeningsdatum><dossierref dossier="23780">23780</dossierref></publicatie><inwerkingtreding.datum isodatum="1995-05-17">17-05-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=8&amp;g=2020-02-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=8&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" code="a-9" stam-id="18153" versie-id="20632" id="C25188541" label-id="17874" inwerking="1994-01-01" label="Artikel 9" bron="Stb.1993-690" effect="wijziging" ondertekening_bron="1993-12-23" publicatie_iwt="1993-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid1" label-id="17874L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het bureau vermeldt op de aanvraag als bedoeld in <intref verwijzing-id="1622531" doc="jci1.3:c:BWBR0004224&amp;artikel=8&amp;z=2020-02-01&amp;g=2020-02-01" bwb-id="BWBR0004224" label-id="17824" bwb-ng-variabel-deel="/Artikel8">artikel 8, eerste lid</intref>, de datum van het depot. Het schrijft het depot binnen vier weken in het register in.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=9&amp;lid=1&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid2" label-id="17874L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Het bureau schrijft het depot niet in, indien de in <intref verwijzing-id="1622532" doc="jci1.3:c:BWBR0004224&amp;artikel=8&amp;z=2020-02-01&amp;g=2020-02-01" bwb-id="BWBR0004224" label-id="17824" bwb-ng-variabel-deel="/Artikel8">artikel 8, onder d</intref>, bedoelde datum meer dan twee jaren voor de datum van het depot ligt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=9&amp;lid=2&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid3" label-id="17874L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Bij algemene maatregel van bestuur wordt bepaald op welke wijze de inschrijving in het register plaatsvindt en welke gegevens daarin worden vermeld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=9&amp;lid=3&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>690</publicatienr><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum><dossierref dossier="23258">23258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>693</publicatienr><uitgiftedatum isodatum="1993-12-23">23-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=9&amp;g=2020-02-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=9&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" stam-id="18183" versie-id="20662" id="C41502881" label-id="17904" inwerking="1987-11-07" label="Artikel 10" bron="Stb.1987-484" effect="nieuwe-regeling" ondertekening_bron="1987-10-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid1" label-id="17904L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het depot kan geen aanleiding geven tot enig onderzoek door het bureau naar de inhoud van het depot.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=10&amp;lid=1&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid2" label-id="17904L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Het bureau maakt de inschrijving van het depot zo spoedig mogelijk openbaar in een door het bureau uit te geven blad.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=10&amp;lid=2&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid3" label-id="17904L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Bij algemene maatregel van bestuur kunnen nadere regels ten aanzien van het in het tweede lid bepaalde worden gesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=10&amp;lid=3&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>484</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum><dossierref dossier="19919">19919</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>485</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1987-11-07">07-11-1987</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=10&amp;g=2020-02-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=10&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" code="a-11" stam-id="18203" versie-id="20682" id="C25188591" label-id="17924" inwerking="1992-01-01" label="Artikel 11" bron="Stb.1991-471" effect="nieuw" ondertekening_bron="1991-09-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid1" label-id="17924L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een ieder kan vanaf de datum van de inschrijving van het depot desverlangd kennisnemen van de inschrijving en van de op het depot betrekking hebbende stukken alsmede een afschrift verkrijgen van de inschrijving. Van de in <intref verwijzing-id="1622512" doc="jci1.3:c:BWBR0004224&amp;artikel=8&amp;z=2020-02-01&amp;g=2020-02-01" bwb-id="BWBR0004224" label-id="17824" bwb-ng-variabel-deel="/Artikel8">artikel 8, tweede lid</intref>, genoemde stukken kan kennis worden genomen, indien de houder van het uitsluitend recht daartoe toestemming heeft gegeven. Voor de kennisneming zijn geen kosten verschuldigd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=11&amp;lid=1&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid2" label-id="17924L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Bij algemene maatregel van bestuur kunnen ten aanzien van het in het vorige lid bepaalde nadere regels worden gesteld en wordt het voor het in het eerste lid bedoelde afschrift verschuldigde bedrag vastgesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=11&amp;lid=2&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>471</publicatienr><ondertekeningsdatum isodatum="1991-09-11">11-09-1991</ondertekeningsdatum><dossierref dossier="21640">21640</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>518</publicatienr><ondertekeningsdatum isodatum="1991-10-11">11-10-1991</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-01-01">01-01-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=11&amp;g=2020-02-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=11&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=11"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel12" code="a-12" stam-id="18253" versie-id="20732" id="C25188621" label-id="17974" inwerking="1987-11-07" label="Artikel 12" bron="Stb.1987-484" effect="nieuwe-regeling" ondertekening_bron="1987-10-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">12</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel12/Lid1" label-id="17974L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onverminderd het bepaalde in <intref verwijzing-id="1622513" doc="jci1.3:c:BWBR0004224&amp;artikel=7&amp;z=2020-02-01&amp;g=2020-02-01" bwb-id="BWBR0004224" label-id="17774" bwb-ng-variabel-deel="/Artikel7">artikel 7</intref> vervalt het uitsluitend recht op een topografie door de doorhaling van de inschrijving van het depot op verzoek of door het verstrijken van de geldigheidsduur.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=12&amp;lid=1&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel12/Lid2" label-id="17974L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> De houder van de inschrijving van het depot van een topografie kan te allen tijde doorhaling van de inschrijving verzoeken. Indien uit het register blijkt dat rechten aan derden zijn verleend, kan de doorhaling slechts geschieden met hun toestemming.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=12&amp;lid=2&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>484</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum><dossierref dossier="19919">19919</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>485</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1987-11-07">07-11-1987</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=12&amp;g=2020-02-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=12&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=12"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13" code="a-13" stam-id="18283" versie-id="20762" id="C25188641" label-id="18004" inwerking="1987-11-07" label="Artikel 13" bron="Stb.1987-484" effect="nieuwe-regeling" ondertekening_bron="1987-10-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid1" label-id="18004L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het uitsluitend recht op een topografie vervalt door verloop van tien jaren, te rekenen vanaf het einde van het kalenderjaar waarin het depot heeft plaatsgevonden, of, indien dit eerder is, vanaf het einde van het in het depot vermelde kalenderjaar waarin een exemplaar van de topografie of het halfgeleiderprodukt waarin de topografie is vervat, voor de eerste maal is geëxploiteerd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=13&amp;lid=1&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid2" label-id="18004L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Het uitsluitend recht op een topografie die niet geëxploiteerd wordt en ten aanzien waarvan geen depot is verricht, vervalt door verloop van vijftien jaren te rekenen vanaf het einde van het kalenderjaar waarin de topografie is tot stand gebracht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=13&amp;lid=2&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>484</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum><dossierref dossier="19919">19919</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>485</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1987-11-07">07-11-1987</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=13&amp;g=2020-02-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=13&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=13"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel14" code="a-14" stam-id="18323" versie-id="20802" id="C25188651" label-id="18044" inwerking="1992-01-01" label="Artikel 14" bron="Stb.1989-492" effect="wijziging" ondertekening_bron="1989-10-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">14</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid1" label-id="18044L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het uitsluitend recht op een topografie is vatbaar voor gehele of gedeeltelijke overdracht of andere overgang. De levering van het uitsluitend recht op een topografie geschiedt door een daartoe bestemde akte.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=14&amp;lid=1&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid2" label-id="18044L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Het uitsluitend recht op een topografie kan voorwerp van een licentie zijn.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=14&amp;lid=2&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel14/Lid3" label-id="18044L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> De overdracht de vestiging van een beperkt recht of de licentie kan niet aan derden worden tegengeworpen dan nadat de akte in het register is ingeschreven. De <intref verwijzing-id="1622514" doc="jci1.3:c:BWBR0004224&amp;artikel=8&amp;z=2020-02-01&amp;g=2020-02-01" bwb-id="BWBR0004224" label-id="17824" bwb-ng-variabel-deel="/Artikel8">artikelen 8, derde tot en met zesde lid</intref>, <intref verwijzing-id="1622515" doc="jci1.3:c:BWBR0004224&amp;artikel=9&amp;z=2020-02-01&amp;g=2020-02-01" bwb-id="BWBR0004224" label-id="17874" bwb-ng-variabel-deel="/Artikel9">9</intref> en <intref verwijzing-id="1622516" doc="jci1.3:c:BWBR0004224&amp;artikel=10&amp;z=2020-02-01&amp;g=2020-02-01" bwb-id="BWBR0004224" label-id="17904" bwb-ng-variabel-deel="/Artikel10">10</intref> zijn van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=14&amp;lid=3&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1989</publicatiejaar><publicatienr>492</publicatienr><ondertekeningsdatum isodatum="1989-10-25">25-10-1989</ondertekeningsdatum><dossierref dossier="20503">20503</dossierref></publicatie><juncto><publicatie soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>609</publicatienr><ondertekeningsdatum isodatum="1991-12-04">04-12-1991</ondertekeningsdatum></publicatie></juncto></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1990</publicatiejaar><publicatienr>90</publicatienr><ondertekeningsdatum isodatum="1990-02-20">20-02-1990</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-01-01">01-01-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=14&amp;g=2020-02-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=14&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=14"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel15" stam-id="18383" versie-id="20862" id="C37423621" label-id="18104" inwerking="1996-01-01" label="Artikel 15" bron="Stb.1995-548" effect="wijziging" ondertekening_bron="1995-11-02" publicatie_bron="1995-11-23" publicatie_iwt="1995-11-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">15</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel15/Lid1" label-id="18104L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Als inbreuk op het uitsluitend recht op de topografie van een halfgeleiderprodukt wordt niet beschouwd de verveelvoudiging van de topografie welke uitsluitend dient voor gebruik in de privésfeer voor niet-commerciële doeleinden, voor onderwijsdoeleinden of voor de analyse van de topografie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=15&amp;lid=1&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel15/Lid2" label-id="18104L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Ten aanzien van een door toepassing van de in het vorige lid bedoelde analyse tot stand gebrachte oorspronkelijke topografie wordt het verrichten van de in <intref doc="jci1.3:c:BWBR0004224&amp;artikel=5&amp;z=2020-02-01&amp;g=2020-02-01" label-id="17684" verwijzing-id="1622517" bwb-id="BWBR0004224" bwb-ng-variabel-deel="/Artikel5">artikel 5</intref> genoemde handelingen zonder toestemming van degene die het uitsluitend recht heeft op de geanalyseerde topografie, niet als inbreuk op het uitsluitend recht op laatstgenoemde topografie beschouwd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=15&amp;lid=2&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1995-548"><publicatiejaar>1995</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="1995-11-23">23-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-02">02-11-1995</ondertekeningsdatum><dossierref dossier="24208">24208</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1995-548"><publicatiejaar>1995</publicatiejaar><publicatienr>548</publicatienr><uitgiftedatum isodatum="1995-11-23">23-11-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-11-02">02-11-1995</ondertekeningsdatum><dossierref dossier="24208">24208</dossierref></publicatie><inwerkingtreding.datum isodatum="1996-01-01">01-01-1996</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=15&amp;g=2020-02-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=15&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=15"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel16" code="a-16" stam-id="18433" versie-id="20912" id="C25188671" label-id="18154" inwerking="1994-01-01" label="Artikel 16" bron="Stb.1993-609" effect="wijziging" ondertekening_bron="1993-11-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">16</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel16/Lid1" label-id="18154L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De verkrijger te goeder trouw van een exemplaar van een halfgeleiderprodukt waarin een topografie is vervat, dat noch door de houder van het uitsluitend recht noch met diens toestemming in het verkeer is gebracht, handelt niet in strijd met het uitsluitend recht op deze topografie, indien hij zonder toestemming van de houder daarvan ten aanzien van dit halfgeleiderprodukt de in <intref verwijzing-id="1622518" doc="jci1.3:c:BWBR0004224&amp;artikel=5&amp;z=2020-02-01&amp;g=2020-02-01" bwb-id="BWBR0004224" label-id="17684" bwb-ng-variabel-deel="/Artikel5">artikel 5, eerste lid, onder <nadruk type="cur">c,</nadruk></intref> bedoelde handelingen verricht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=16&amp;lid=1&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel16/Lid2" label-id="18154L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Zodra de in het vorige lid bedoelde verkrijger weet of behoort te weten, dat exemplaren van het halfgeleiderprodukt waarin de topografie is vervat, noch door de houder van het uitsluitend recht noch met diens toestemming in het verkeer zijn gebracht, is hij slechts bevoegd ten aanzien van de door hem te goeder trouw verkregen exemplaren van het halfgeleiderprodukt zonder toestemming van de houder van het uitsluitend recht de in <intref verwijzing-id="1622519" doc="jci1.3:c:BWBR0004224&amp;artikel=5&amp;z=2020-02-01&amp;g=2020-02-01" bwb-id="BWBR0004224" label-id="17684" bwb-ng-variabel-deel="/Artikel5">artikel 5, eerste lid, onder <nadruk type="cur">c,</nadruk></intref> bedoelde handelingen te verrichten, indien hij aan laatstgenoemde een billijke vergoeding betaalt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=16&amp;lid=2&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel16/Lid3" label-id="18154L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Is een exemplaar van een halfgeleiderprodukt als bedoeld in het tweede lid in een van de lid-Staten van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte in het verkeer gebracht met inachtneming van het bepaalde in voornoemd lid, dan handelt de latere verkrijger niet in strijd met het uitsluitend recht op de topografie door ten aanzien van dit halfgeleiderprodukt de in <intref verwijzing-id="1622520" doc="jci1.3:c:BWBR0004224&amp;artikel=5&amp;z=2020-02-01&amp;g=2020-02-01" bwb-id="BWBR0004224" label-id="17684" bwb-ng-variabel-deel="/Artikel5">artikel 5, eerste lid, onder <nadruk type="cur">c,</nadruk></intref> genoemde handelingen te verrichten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=16&amp;lid=3&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>609</publicatienr><ondertekeningsdatum isodatum="1993-11-11">11-11-1993</ondertekeningsdatum><dossierref dossier="22903">22903</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>778</publicatienr><ondertekeningsdatum isodatum="1993-12-28">28-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=16&amp;g=2020-02-01" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=16&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=16"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel17" stam-id="18463" versie-id="23493642" id="C41492671" label-id="18184" inwerking="2017-09-01" label="Artikel 17" bron="Stb.2016-290" effect="wijziging" ondertekening_bron="2016-07-13" publicatie_bron="2016-07-21" publicatie_iwt="2017-05-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">17</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel17/Lid1" label-id="18184L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De houder van het uitsluitend recht op een topografie kan dit recht handhaven jegens een ieder die, zonder daartoe gerechtigd te zijn, een van de in <intref doc="jci1.3:c:BWBR0004224&amp;artikel=5&amp;z=2020-02-01&amp;g=2020-02-01" label-id="17684" verwijzing-id="1622521" bwb-id="BWBR0004224" bwb-ng-variabel-deel="/Artikel5">artikel 5</intref> genoemde handelingen verricht.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=17&amp;lid=1&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel17/Lid2" label-id="18184L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De rechter kan op vordering van de houder van het uitsluitend recht, tussenpersonen wier diensten door derden worden gebruikt om inbreuk op het recht van de houder te maken, bevelen de diensten die worden gebruikt om die inbreuk te maken, te staken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=17&amp;lid=2&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel17/Lid3" label-id="18184L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>De voorzieningenrechter kan op vordering van de houder van het uitsluitend recht tijdelijke voortzetting van de vermeende inbreuk op dit recht toestaan onder de voorwaarde dat zekerheid wordt gesteld voor vergoeding van de door de houder geleden schade. Onder dezelfde voorwaarden kan de rechter voortzetting van de dienstverlening door de tussenpersoon als bedoeld in het tweede lid toestaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=17&amp;lid=3&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel17/Lid4" label-id="18184L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> Hij kan, in plaats van schadevergoeding, vorderen, dat de verweerder veroordeeld wordt de door de inbreuk genoten winst af te dragen en dienaangaande rekening en verantwoording af te leggen; indien de rechter evenwel van oordeel is, dat de omstandigheden van het geval tot zulk een veroordeling geen aanleiding geven, zal hij de verweerder tot schadevergoeding kunnen veroordelen. In passende gevallen kan de rechter de schadevergoeding vaststellen als een forfaitair bedrag.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=17&amp;lid=4&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel17/Lid5" label-id="18184L5">
+    <lidnr status="officieel">5</lidnr>
+    <al> De houder van het uitsluitend recht op een topografie kan de vordering tot schadevergoeding of het afdragen van de winst ook namens of mede namens licentienemers of pandhouders instellen, onverminderd de bevoegdheid van deze laatsten in een al of niet namens hen of mede namens hen door de houder van het uitsluitend recht op een topografie ingestelde vordering tussen te komen om rechtstreeks de door hen geleden schade vergoed te krijgen of om zich een evenredig deel van de door de verweerder af te dragen winst te doen toewijzen. Een zelfstandige vordering kunnen licentienemers en pandhouders slechts instellen met toestemming van de houder van het uitsluitend recht op de topografie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=17&amp;lid=5&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2016-290"><publicatiejaar>2016</publicatiejaar><publicatienr>290</publicatienr><uitgiftedatum isodatum="2016-07-21">21-07-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-07-13">13-07-2016</ondertekeningsdatum><dossierref dossier="34212">34212</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-174"><publicatiejaar>2017</publicatiejaar><publicatienr>174</publicatienr><uitgiftedatum isodatum="2017-05-04">04-05-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-05-01">01-05-2017</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2017-09-01">01-09-2017</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Artikel CIX van Stb. 2016/290 bevat overgangsrecht m.b.t. deze wijziging.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=17&amp;g=2020-02-01" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=17&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=17"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel18" stam-id="18493" versie-id="23493652" id="C41492851" label-id="18214" inwerking="2017-09-01" label="Artikel 18" bron="Stb.2016-290" effect="wijziging" ondertekening_bron="2016-07-13" publicatie_bron="2016-07-21" publicatie_iwt="2017-05-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">18</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid1" label-id="18214L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Het uitsluitend recht op een topografie geeft aan de gerechtigde de bevoegdheid om exemplaren van de topografie of het halfgeleiderprodukt, ten aanzien waarvan de in <intref doc="jci1.3:c:BWBR0004224&amp;artikel=5&amp;z=2020-02-01&amp;g=2020-02-01" label-id="17684" verwijzing-id="1622522" bwb-id="BWBR0004224" bwb-ng-variabel-deel="/Artikel5">artikel 5</intref> genoemde handelingen zijn verricht in strijd met dit uitsluitend recht, als zijn eigendom op te eisen dan wel onttrekking aan het handelsverkeer, vernietiging of onbruikbaarmaking te vorderen. Teneinde tot vernietiging of onbruikbaarmaking over te gaan, kan de gerechtigde de afgifte van deze exemplaren vorderen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=18&amp;lid=1&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid2" label-id="18214L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> De bevoegdheid om als zijn eigendom op te eisen, als bedoeld in het eerste lid van dit artikel, bestaat eveneens ten aanzien van gelden waarvan aannemelijk is dat zij zijn verkregen door of als gevolg van inbreuk op het uitsluitend recht op een topografie. De bevoegdheid tot vordering van de vernietiging of onbruikbaarmaking bestaat tevens ten aanzien van de voorwerpen die rechtstreeks hebben gediend tot de totstandbrenging van de in de vorige zin bedoelde voorwerpen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=18&amp;lid=2&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid3" label-id="18214L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> De bepalingen van het <extref doc="jci1.3:c:BWBR0001827" label-id="3192094" verwijzing-id="1130" bwb-id="BWBR0001827">Wetboek van Burgerlijke Rechtsvordering</extref> betreffende beslag en executie tot afgifte van roerende zaken die geen registergoederen zijn, zijn van toepassing. Bij samenloop met een ander beslag gaat degene die beslag heeft gelegd krachtens dit artikel voor.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=18&amp;lid=3&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid4" label-id="18214L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> Tenzij anders is overeengekomen, heeft de licentienemer het recht de in de vorige leden bedoelde bevoegdheden uit te oefenen, voor zover deze strekken tot bescherming van de rechten waarvan de uitoefening hem is toegestaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=18&amp;lid=4&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid5" label-id="18214L5">
+    <lidnr status="officieel">5</lidnr>
+    <al> De bevoegdheid, bedoeld in het eerste en tweede lid, kan niet worden uitgeoefend ten aanzien van exemplaren van de topografie of het halfgeleiderprodukt waarin de topografie is vervat, onder personen berustende die niet in soortgelijke topografieën of halfgeleiderprodukten handel drijven en deze uitsluitend tot eigen gebruik hebben gekregen, tenzij door hen zelf inbreuk op het desbetreffende uitsluitend recht op een topografie is gepleegd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=18&amp;lid=5&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid6" label-id="18214L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>De maatregelen bedoeld in het eerste en tweede lid worden op kosten van de verweerder uitgevoerd, tenzij bijzondere redenen dit beletten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=18&amp;lid=6&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid7" label-id="18214L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Bij de beoordeling van de maatregelen die de gerechtigde of diens licentienemer kan vorderen ingevolge de bevoegdheden, genoemd in het eerste en tweede lid, houdt de rechter rekening met de noodzakelijke evenredigheid tussen de ernst van de inbreuk en de gevorderde maatregelen en met de belangen van derden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=18&amp;lid=7&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid8" label-id="18214L8">
+    <lidnr status="officieel">8</lidnr>
+    <al>De rechter kan op vordering van de houder van het uitsluitend recht degene die inbreuk op diens recht heeft gemaakt, bevelen al hetgeen hem bekend is omtrent de herkomst en distributiekanalen van de inbreukmakende topografie of het halfgeleiderproduct waarin de inbreukmakende topografie is vervat, aan de houder mee te delen en alle daarop betrekking hebbende gegevens aan deze te verstrekken. Onder dezelfde voorwaarden kan dit bevel worden gegeven aan een derde die op commerciële schaal inbreukmakende topografieën of halfgeleiderproducten waarin de inbreukmakende topografie is vervat in zijn bezit heeft of gebruikt, die op commerciële schaal diensten verleent die bij de inbreuk worden gebruikt, of die door een van deze derden is aangewezen als zijnde betrokken bij de productie, fabricage of distributie van deze topografieën of halfgeleiderproducten of bij het verlenen van deze diensten. Deze derde kan zich verschonen van het verstrekken van informatie die bewijs zou vormen van deelname aan een inbreuk op een recht van intellectuele eigendom door hem zelf of door de andere in <extref doc="jci1.3:c:BWBR0001827&amp;artikel=165" label-id="3179094" verwijzing-id="2136592" bwb-id="BWBR0001827">artikel 165, derde lid, Wetboek van Burgerlijke Rechtsvordering</extref> bedoelde personen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=18&amp;lid=8&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=8"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2016-290"><publicatiejaar>2016</publicatiejaar><publicatienr>290</publicatienr><uitgiftedatum isodatum="2016-07-21">21-07-2016</uitgiftedatum><ondertekeningsdatum isodatum="2016-07-13">13-07-2016</ondertekeningsdatum><dossierref dossier="34212">34212</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-174"><publicatiejaar>2017</publicatiejaar><publicatienr>174</publicatienr><uitgiftedatum isodatum="2017-05-04">04-05-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-05-01">01-05-2017</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2017-09-01">01-09-2017</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Artikel CIX van Stb. 2016/290 bevat overgangsrecht m.b.t. deze wijziging.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=18&amp;g=2020-02-01" onderdeel="artikel=18" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=18"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=18&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=18" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=18"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel18a" code="n1-18a" stam-id="9008343" versie-id="14340372" id="C25188711" label-id="8987284" inwerking="2007-05-01" label="Artikel 18a" bron="Stb.2007-108" effect="nieuw" ondertekening_bron="2007-03-08" publicatie_bron="2007-03-22" publicatie_iwt="2007-03-22" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">18a</nr>
+  </kop>
+  <al>De rechter kan op vordering van de houder van het uitsluitend recht gelasten dat op kosten van degene die inbreuk op diens recht heeft gemaakt passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2007-108"><publicatiejaar>2007</publicatiejaar><publicatienr>108</publicatienr><uitgiftedatum isodatum="2007-03-22">22-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-03-08">08-03-2007</ondertekeningsdatum><dossierref dossier="30392">30392</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2007-108"><publicatiejaar>2007</publicatiejaar><publicatienr>108</publicatienr><uitgiftedatum isodatum="2007-03-22">22-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-03-08">08-03-2007</ondertekeningsdatum><dossierref dossier="30392">30392</dossierref></publicatie><inwerkingtreding.datum isodatum="2007-05-01">01-05-2007</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=18a&amp;g=2020-02-01" onderdeel="artikel=18a" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=18a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=18a&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=18a" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=18a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel19" code="a-19" stam-id="18533" versie-id="19506432" id="C27390071" label-id="18254" inwerking="2013-01-01" label="Artikel 19" bron="Stb.2012-313" effect="wijziging" ondertekening_bron="2012-07-12" publicatie_bron="2012-07-13" publicatie_iwt="2012-07-13" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">19</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel19/Lid1" label-id="18254L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De rechtbank Den Haag en de voorzieningenrechter van die rechtbank in kort geding zijn in eerste aanleg bij uitsluiting bevoegd voor alle vorderingen, ingesteld ingevolge <intref verwijzing-id="1622523" doc="jci1.3:c:BWBR0004224&amp;artikel=17&amp;z=2020-02-01&amp;g=2020-02-01" bwb-id="BWBR0004224" label-id="18184" bwb-ng-variabel-deel="/Artikel17">artikel 17</intref>, alsmede voor alle vorderingen welke worden ingesteld door een ander dan de houder van het uitsluitend recht op een topografie ten einde te doen vaststellen dat bepaalde, door hem verrichte handelingen niet strijdig zijn met een uitsluitend recht op een topografie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=19&amp;lid=1&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel19/Lid2" label-id="18254L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Zij zijn voorts bevoegd tot kennisneming van vorderingen of verzoeken die gelijktijdig zijn ingediend met de in het vorige lid bedoelde vorderingen en daarmee voldoende samenhang vertonen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=19&amp;lid=2&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2012-313"><publicatiejaar>2012</publicatiejaar><publicatienr>313</publicatienr><uitgiftedatum isodatum="2012-07-13">13-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum><dossierref dossier="32891">32891</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2012-314"><publicatiejaar>2012</publicatiejaar><publicatienr>314</publicatienr><uitgiftedatum isodatum="2012-07-13">13-07-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-07-12">12-07-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=19&amp;g=2020-02-01" onderdeel="artikel=19" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=19"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=19&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=19" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=19"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel20" code="a-20" stam-id="18583" versie-id="20025072" id="C28275141" label-id="18304" inwerking="2013-01-01" label="Artikel 20" bron="Stb.2012-682" effect="vervallen" ondertekening_bron="2012-12-20" publicatie_bron="2012-12-27" publicatie_iwt="2012-12-27" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">20</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2012-682"><publicatiejaar>2012</publicatiejaar><publicatienr>682</publicatienr><uitgiftedatum isodatum="2012-12-27">27-12-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="32450">32450</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2012-684"><publicatiejaar>2012</publicatiejaar><publicatienr>684</publicatienr><uitgiftedatum isodatum="2012-12-27">27-12-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Deel C, artikel I, van Stb. 2012/682 bevat overgangsrecht m.b.t. deze wijziging.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=20&amp;g=2020-02-01" onderdeel="artikel=20" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=20"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=20&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=20" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=20"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel21" stam-id="18613" versie-id="21092" id="C21091" label-id="18334" inwerking="1992-01-01" label="Artikel 21" bron="Stb.1991-471" effect="vervallen" ondertekening_bron="1991-09-11" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>21</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>471</publicatienr><ondertekeningsdatum isodatum="1991-09-11">11-09-1991</ondertekeningsdatum><dossierref dossier="21640">21640</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1991</publicatiejaar><publicatienr>518</publicatienr><ondertekeningsdatum isodatum="1991-10-11">11-10-1991</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1992-01-01">01-01-1992</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=21&amp;g=2020-02-01" onderdeel="artikel=21" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=21"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=21&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=21" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=21"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel22" code="a-22" stam-id="18673" versie-id="21152" id="C25188741" label-id="18394" inwerking="1994-01-01" label="Artikel 22" bron="Stb.1993-690" effect="wijziging" ondertekening_bron="1993-12-23" publicatie_iwt="1993-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">22</nr>
+  </kop>
+  <al>Van alle rechterlijke uitspraken betreffende het uitsluitend recht op een topografie wordt door de griffier van het college, waarvoor de zaak laatstelijk aanhangig was, binnen vier weken kosteloos een afschrift aan het bureau gezonden. Het bureau voegt deze uitspraken bij de stukken van het depot.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>690</publicatienr><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum><dossierref dossier="23258">23258</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>693</publicatienr><uitgiftedatum isodatum="1993-12-23">23-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=22&amp;g=2020-02-01" onderdeel="artikel=22" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=22"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=22&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=22" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=22"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel23" code="a-23" stam-id="18703" versie-id="21192" id="C25188751" label-id="18434" inwerking="1987-11-07" label="Artikel 23" bron="Stb.1987-484" effect="nieuwe-regeling" ondertekening_bron="1987-10-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">23</nr>
+  </kop>
+  <al>Het bureau is verplicht de rechter alle inlichtingen en technische adviezen te verstrekken die deze tot beslissing van aan zijn oordeel onderworpen vorderingen of verzoeken inzake het uitsluitend recht op een topografie mocht verlangen. Het bureau heeft voor het verstrekken van de technische adviezen aanspraak op schadeloosstelling en op loon, door de rechter te begroten.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>484</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum><dossierref dossier="19919">19919</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>485</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1987-11-07">07-11-1987</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=23&amp;g=2020-02-01" onderdeel="artikel=23" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=23"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=23&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=23" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=23"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel24" code="a-24" stam-id="18723" versie-id="21222" id="C25188771" label-id="18464" inwerking="1987-11-07" label="Artikel 24" bron="Stb.1987-484" effect="nieuwe-regeling" ondertekening_bron="1987-10-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">24</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel24/Lid1" label-id="18464L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Hij die opzettelijk inbreuk maakt op het uitsluitend recht op een topografie wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de vijfde categorie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=24&amp;lid=1&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel24/Lid2" label-id="18464L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Het feit wordt beschouwd als een misdrijf.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=24&amp;lid=2&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>484</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum><dossierref dossier="19919">19919</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>485</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1987-11-07">07-11-1987</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=24&amp;g=2020-02-01" onderdeel="artikel=24" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=24"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=24&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=24" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=24"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel25" code="a-25" stam-id="18763" versie-id="15224692" id="C25188791" label-id="18504" inwerking="2008-03-26" label="Artikel 25" bron="Stb.2008-85" effect="wijziging" ondertekening_bron="2008-03-13" publicatie_bron="2008-03-25" publicatie_iwt="2008-03-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">25</nr>
+  </kop>
+  <al>Topografieën als bedoeld in <intref verwijzing-id="1622524" doc="jci1.3:c:BWBR0004224&amp;artikel=2&amp;z=2020-02-01&amp;g=2020-02-01" bwb-id="BWBR0004224" label-id="17554" bwb-ng-variabel-deel="/Artikel2">artikel 2</intref>, die na de datum van inwerkingtreding van deze wet zijn tot stand gekomen, zijn uitgesloten van bescherming uit hoofde van de <extref doc="jci1.3:c:BWBR0001886" verwijzing-id="1136" bwb-id="BWBR0001886" label-id="2880054">Auteurswet</extref>.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-85"><publicatiejaar>2008</publicatiejaar><publicatienr>85</publicatienr><uitgiftedatum isodatum="2008-03-25">25-03-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-03-13">13-03-2008</ondertekeningsdatum><dossierref dossier="31248">31248</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2008-85"><publicatiejaar>2008</publicatiejaar><publicatienr>85</publicatienr><uitgiftedatum isodatum="2008-03-25">25-03-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-03-13">13-03-2008</ondertekeningsdatum><dossierref dossier="31248">31248</dossierref></publicatie><inwerkingtreding.datum isodatum="2008-03-26">26-03-2008</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=25&amp;g=2020-02-01" onderdeel="artikel=25" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=25"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=25&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=25" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=25"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel26" code="a-26" stam-id="18783" versie-id="21282" id="C25188801" label-id="18524" inwerking="1994-01-01" label="Artikel 26" bron="Stb.1993-609" effect="wijziging" ondertekening_bron="1993-11-11" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">26</nr>
+  </kop>
+  <al>Voor bescherming ingevolge deze wet komen in aanmerking: </al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel26/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>makers die onderdaan zijn van dan wel hun gewone verblijfplaats of hun daadwerkelijke industriële of commerciële vestiging hebben in een van de lid-Staten van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, en</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=26&amp;o=a&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel26/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>makers die onderdaan zijn van dan wel hun gewone verblijfplaats of hun daadwerkelijke industriële of commerciële vestiging hebben in andere dan de in de vorige zin bedoelde landen, indien zulks bij algemene maatregel van bestuur is bepaald of door de Raad van de Europese Gemeenschappen is besloten, en</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=26&amp;o=b&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel26/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>personen, als bedoeld in <intref verwijzing-id="1622525" doc="jci1.3:c:BWBR0004224&amp;artikel=4&amp;z=2020-02-01&amp;g=2020-02-01" bwb-id="BWBR0004224" label-id="17644" bwb-ng-variabel-deel="/Artikel4">artikel 4</intref>, die onderdaan zijn van dan wel hun gewone verblijfplaats of hun daadwerkelijke industriële of commerciële vestiging hebben in een van de lid-Staten van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=26&amp;o=c&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="o=c"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>609</publicatienr><ondertekeningsdatum isodatum="1993-11-11">11-11-1993</ondertekeningsdatum><dossierref dossier="22903">22903</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>778</publicatienr><ondertekeningsdatum isodatum="1993-12-28">28-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=26&amp;g=2020-02-01" onderdeel="artikel=26" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=26"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=26&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=26" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=26"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel27" stam-id="18813" versie-id="25792852" id="C38674361" label-id="18554" inwerking="2020-02-01" label="Artikel 27" bron="Stb.2019-123" effect="wijziging" ondertekening_bron="2019-03-27" publicatie_bron="2019-04-12" publicatie_iwt="2020-01-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">27</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel27/Lid1" label-id="18554L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Deze wet is ook van toepassing op oorspronkelijke topografieën die vóór de datum van haar inwerkingtreding zijn tot stand gekomen, met dien verstande dat de in <intref doc="jci1.3:c:BWBR0004224&amp;artikel=5&amp;z=2020-02-01&amp;g=2020-02-01" label-id="17684" verwijzing-id="1622526" bwb-id="BWBR0004224" bwb-ng-variabel-deel="/Artikel5">artikel 5</intref> genoemde handelingen, indien deze vóór voornoemde datum door een ander dan de latere houder van het uitsluitend recht zijn verricht, niet als inbreuk op het in deze wet bedoelde uitsluitend recht op een topografie worden aangemerkt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=27&amp;lid=1&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel27/Lid2" label-id="18554L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Met betrekking tot oorspronkelijke topografieën die vóór de datum van inwerkingtreding van deze wet voor de eerste maal zijn geëxploiteerd, dient het in <intref doc="jci1.3:c:BWBR0004224&amp;artikel=8&amp;z=2020-02-01&amp;g=2020-02-01" label-id="17824" verwijzing-id="1622527" bwb-id="BWBR0004224" bwb-ng-variabel-deel="/Artikel8">artikel 8</intref> bedoelde depot te geschieden binnen twee jaar na voornoemde datum.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=27&amp;lid=2&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel27/Lid3" label-id="18554L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Voor oorspronkelijke topografieën die vóór de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie op grond van deze wet beschermd werden, wordt onder «een van de lid-Staten van de Europese Gemeenschappen» in <intref doc="jci1.3:c:BWBR0004224&amp;artikel=26&amp;z=2020-02-01&amp;g=2020-02-01" label-id="18524" verwijzing-id="2937708" bwb-id="BWBR0004224" bwb-ng-variabel-deel="/Artikel26">artikel 26</intref> voor de duur van de bescherming mede verstaan: het Verenigd Koninkrijk.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=27&amp;lid=3&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-123"><publicatiejaar>2019</publicatiejaar><publicatienr>123</publicatienr><uitgiftedatum isodatum="2019-04-12">12-04-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-03-27">27-03-2019</ondertekeningsdatum><dossierref dossier="35084">35084</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-23"><publicatiejaar>2020</publicatiejaar><publicatienr>23</publicatienr><uitgiftedatum isodatum="2020-01-31">31-01-2020</uitgiftedatum><ondertekeningsdatum isodatum="2019-04-09">09-04-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-02-01">01-02-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=27&amp;g=2020-02-01" onderdeel="artikel=27" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=27"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=27&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=27" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=27"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel28" code="a-28" stam-id="18833" versie-id="21332" id="C23068081" label-id="18574" inwerking="1987-11-07" label="Artikel 28" bron="Stb.1987-484" effect="nieuwe-regeling" ondertekening_bron="1987-10-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">28</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>484</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum><dossierref dossier="19919">19919</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>485</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1987-11-07">07-11-1987</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;artikel=28&amp;g=2020-02-01" onderdeel="artikel=28" korte-verwijzing="1.0:c:BWBR0004224&amp;artikel=28"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;artikel=28&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="artikel=28" korte-verwijzing="jci1.3:c:BWBR0004224&amp;artikel=28"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="18873" versie-id="21372" id="C21371" label-id="18614" inwerking="1987-11-07" bron="Stb.1987-484" effect="nieuwe-regeling" ondertekening_bron="1987-10-28" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">28 oktober 1987</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Justitie,</functie>
+    <naam>
+      <achternaam>F. Korthals Altes</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Economische Zaken,</functie>
+    <naam>
+      <achternaam>R. W. de Korte</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de vijfde november 1987</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>F. Korthals Altes</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>484</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum><dossierref dossier="19919">19919</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1987</publicatiejaar><publicatienr>485</publicatienr><ondertekeningsdatum isodatum="1987-10-28">28-10-1987</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1987-11-07">07-11-1987</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2007-108"><publicatiejaar>2007</publicatiejaar><publicatienr>108</publicatienr><uitgiftedatum isodatum="2007-03-22">22-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-03-08">08-03-2007</ondertekeningsdatum><dossierref dossier="30392">30392</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2007-108"><publicatiejaar>2007</publicatiejaar><publicatienr>108</publicatienr><uitgiftedatum isodatum="2007-03-22">22-03-2007</uitgiftedatum><ondertekeningsdatum isodatum="2007-03-08">08-03-2007</ondertekeningsdatum><dossierref dossier="30392">30392</dossierref></publicatie><inwerkingtreding.datum isodatum="2007-03-08">08-03-2007</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0004224&amp;g=2020-02-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0004224"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0004224&amp;z=2020-02-01&amp;g=2020-02-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0004224"/></jcis></meta-data></wetgeving></toestand>

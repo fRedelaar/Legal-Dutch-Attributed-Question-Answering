@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0003547/1989-05-31/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0003547" inwerkingtreding="1989-05-31"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties><redactionele-correctie label-id="435644" oud-revisie-id="658791" nieuw-revisie-id="32097821"/></redactionele-correcties><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="448363" versie-id="658822" id="C658821" label-id="435674" inwerkingtredingsdatum="1984-06-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="448393" versie-id="658732" id="C658731" label-id="435604" inwerking="1984-06-01" bron="Stb.1982-733" effect="nieuwe-regeling" ondertekening_bron="1982-12-02" status="goed">Wet van 2 december 1982, houdende voorlopige voorzieningen in verband met de voorgenomen intrekking van het Koninklijk besluit van 10 april 1939 (Stb. 181)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1982</publicatiejaar><publicatienr>733</publicatienr><ondertekeningsdatum isodatum="1982-12-02">02-12-1982</ondertekeningsdatum><dossierref dossier="16959">16959</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1984-05-24">24-05-1984</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1984-06-01">01-06-1984</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="448403" versie-id="658752" id="C658751" label-id="435614" inwerking="1984-06-01" bron="Stb.1982-733" effect="nieuwe-regeling" ondertekening_bron="1982-12-02">Wet voorlopige voorzieningen in verband met de voorgenomen intrekking van het Koninklijk besluit van 10 april 1939<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1982</publicatiejaar><publicatienr>733</publicatienr><ondertekeningsdatum isodatum="1982-12-02">02-12-1982</ondertekeningsdatum><dossierref dossier="16959">16959</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1984-05-24">24-05-1984</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1984-06-01">01-06-1984</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="448413" versie-id="658772" id="C658771" label-id="435624" inwerking="1984-06-01" bron="Stb.1982-733" effect="nieuwe-regeling" ondertekening_bron="1982-12-02" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het noodzakelijk is enige tijdelijke voorzieningen te treffen in verband met de voorgenomen intrekking van het Koninklijk besluit van 10 april 1939 (<nadruk type="cur">Stb.</nadruk> 181);</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1982</publicatiejaar><publicatienr>733</publicatienr><ondertekeningsdatum isodatum="1982-12-02">02-12-1982</ondertekeningsdatum><dossierref dossier="16959">16959</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1984-05-24">24-05-1984</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1984-06-01">01-06-1984</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/ArtikelI" stam-id="448423" versie-id="658782" id="C658781" label-id="435634" inwerking="1989-05-31" label="Artikel I" bron="Stb.1989-191" effect="vervallen" ondertekening_bron="1989-05-24" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>I</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1989</publicatiejaar><publicatienr>191</publicatienr><ondertekeningsdatum isodatum="1989-05-24">24-05-1989</ondertekeningsdatum><dossierref dossier="21085">21085</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1989</publicatiejaar><publicatienr>191</publicatienr><ondertekeningsdatum isodatum="1989-05-24">24-05-1989</ondertekeningsdatum><dossierref dossier="21085">21085</dossierref></publicatie><inwerkingtreding.datum isodatum="1989-05-31">31-05-1989</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003547&amp;artikel=I&amp;g=1989-05-31" onderdeel="artikel=I" korte-verwijzing="1.0:c:BWBR0003547&amp;artikel=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003547&amp;artikel=I&amp;z=1989-05-31&amp;g=1989-05-31" onderdeel="artikel=I" korte-verwijzing="jci1.3:c:BWBR0003547&amp;artikel=I"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelII" stam-id="448433" versie-id="658792" id="C32097821" label-id="435644" inwerking="1984-06-01" label="Artikel II" bron="Stb.1982-733" effect="nieuwe-regeling" ondertekening_bron="1982-12-02" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">II</nr>
+  </kop>
+  <al>Het bepaalde bij of krachtens de Wegenverkeerswet (wet van 13 september 1935, <nadruk type="cur">Stb.</nadruk> 554) en provinciale en plaatselijke verordeningen gelden, ook buiten de gevallen genoemd in artikel 45, eerste lid, van genoemde wet, niet dan voor zover zulks door Ons bij algemene maatregel van bestuur is bepaald, </al>
+  <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+    <li bwb-ng-variabel-deel="/ArtikelII/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>ten aanzien van motorrijtuigen, rijwielen en andere rij- of voertuigen, voor zover die worden gebezigd ten behoeve van de strijdkrachten;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003547&amp;artikel=II&amp;o=a&amp;z=1989-05-31&amp;g=1989-05-31" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/ArtikelII/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>voor militairen te voet, voor zover zij zich ter uitoefening van de dienst op een weg bevinden.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003547&amp;artikel=II&amp;o=b&amp;z=1989-05-31&amp;g=1989-05-31" onderdeel="o=b"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1982</publicatiejaar><publicatienr>733</publicatienr><ondertekeningsdatum isodatum="1982-12-02">02-12-1982</ondertekeningsdatum><dossierref dossier="16959">16959</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1984-05-24">24-05-1984</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1984-06-01">01-06-1984</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003547&amp;artikel=II&amp;g=1989-05-31" onderdeel="artikel=II" korte-verwijzing="1.0:c:BWBR0003547&amp;artikel=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003547&amp;artikel=II&amp;z=1989-05-31&amp;g=1989-05-31" onderdeel="artikel=II" korte-verwijzing="jci1.3:c:BWBR0003547&amp;artikel=II"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIII" code="a-iii" stam-id="448443" versie-id="658802" id="C658801" label-id="435654" inwerking="1989-05-31" label="Artikel III" bron="Stb.1989-191" effect="wijziging" ondertekening_bron="1989-05-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>III</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1989</publicatiejaar><publicatienr>191</publicatienr><ondertekeningsdatum isodatum="1989-05-24">24-05-1989</ondertekeningsdatum><dossierref dossier="21085">21085</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1989</publicatiejaar><publicatienr>191</publicatienr><ondertekeningsdatum isodatum="1989-05-24">24-05-1989</ondertekeningsdatum><dossierref dossier="21085">21085</dossierref></publicatie><inwerkingtreding.datum isodatum="1989-05-31">31-05-1989</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003547&amp;artikel=III&amp;g=1989-05-31" onderdeel="artikel=III" korte-verwijzing="1.0:c:BWBR0003547&amp;artikel=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003547&amp;artikel=III&amp;z=1989-05-31&amp;g=1989-05-31" onderdeel="artikel=III" korte-verwijzing="jci1.3:c:BWBR0003547&amp;artikel=III"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="448453" versie-id="658812" id="C658811" label-id="435664" inwerking="1984-06-01" bron="Stb.1982-733" effect="nieuwe-regeling" ondertekening_bron="1982-12-02" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">2 december 1982</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Defensie,</functie>
+    <naam>
+      <achternaam>J. de Ruiter</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Binnenlandse Zaken,</functie>
+    <naam>
+      <achternaam>Rietkerk</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Verkeer en Waterstaat,</functie>
+    <naam>
+      <achternaam>N. Smit-Kroes</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de dertiende januari 1983</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>F. Korthals Altes</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1982</publicatiejaar><publicatienr>733</publicatienr><ondertekeningsdatum isodatum="1982-12-02">02-12-1982</ondertekeningsdatum><dossierref dossier="16959">16959</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1984-05-24">24-05-1984</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1984-06-01">01-06-1984</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1982</publicatiejaar><publicatienr>733</publicatienr><ondertekeningsdatum isodatum="1982-12-02">02-12-1982</ondertekeningsdatum><dossierref dossier="16959">16959</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>226</publicatienr><ondertekeningsdatum isodatum="1984-05-24">24-05-1984</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1984-06-01">01-06-1984</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003547&amp;g=1989-05-31" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0003547"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003547&amp;z=1989-05-31&amp;g=1989-05-31" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0003547"/></jcis></meta-data></wetgeving></toestand>

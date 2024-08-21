@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0002948/2019-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0002948" inwerkingtreding="2019-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="1827843" versie-id="2725762" id="C2725761" label-id="1782684" inwerkingtredingsdatum="1974-12-25">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="1827873" versie-id="2725612" id="C2725611" label-id="1782534" inwerking="1974-12-25" bron="Stb.1974-765" effect="nieuwe-regeling" ondertekening_bron="1974-12-19" status="goed">Wet van 19 december 1974, houdende regelen met betrekking tot de prijzen en de tarieven voor het leveren van aardgas<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1974</publicatiejaar><publicatienr>765</publicatienr><ondertekeningsdatum isodatum="1974-12-19">19-12-1974</ondertekeningsdatum><dossierref dossier="13146">13146</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1974</publicatiejaar><publicatienr>765</publicatienr><ondertekeningsdatum isodatum="1974-12-19">19-12-1974</ondertekeningsdatum><dossierref dossier="13146">13146</dossierref></publicatie><inwerkingtreding.datum isodatum="1974-12-25">25-12-1974</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="1827883" versie-id="2725622" id="C2725621" label-id="1782544" inwerking="1974-12-25" bron="Stb.1974-765" effect="nieuwe-regeling" ondertekening_bron="1974-12-19">Wet aardgasprijzen<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1974</publicatiejaar><publicatienr>765</publicatienr><ondertekeningsdatum isodatum="1974-12-19">19-12-1974</ondertekeningsdatum><dossierref dossier="13146">13146</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1974</publicatiejaar><publicatienr>765</publicatienr><ondertekeningsdatum isodatum="1974-12-19">19-12-1974</ondertekeningsdatum><dossierref dossier="13146">13146</dossierref></publicatie><inwerkingtreding.datum isodatum="1974-12-25">25-12-1974</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="1827893" versie-id="2725632" id="C2725631" label-id="1782554" inwerking="1974-12-25" bron="Stb.1974-765" effect="nieuwe-regeling" ondertekening_bron="1974-12-19" status="goed">
+  <wij>Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is de mogelijkheid te openen minimumprijzen vast te stellen voor de afzet in het binnen- en buitenland van in Nederland en in het Nederlandse deel van het continentaal plat gewonnen aardgas, alsmede aanwijzingen te geven omtrent de tarieven, die bij het leveren van aardgas aan degenen, die dat in Nederland verbruiken, worden toegepast, ten einde een goede energievoorziening te bevorderen en de opbrengst uit aardgas voor de Staat te vergroten;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1974</publicatiejaar><publicatienr>765</publicatienr><ondertekeningsdatum isodatum="1974-12-19">19-12-1974</ondertekeningsdatum><dossierref dossier="13146">13146</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1974</publicatiejaar><publicatienr>765</publicatienr><ondertekeningsdatum isodatum="1974-12-19">19-12-1974</ondertekeningsdatum><dossierref dossier="13146">13146</dossierref></publicatie><inwerkingtreding.datum isodatum="1974-12-25">25-12-1974</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="1827903" versie-id="25562742" id="C36488751" label-id="1782564" inwerking="2019-01-01" label="Artikel 1" bron="Stb.2018-487" effect="wijziging" ondertekening_bron="2018-12-05" publicatie_bron="2018-12-27" publicatie_iwt="2018-12-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid1" label-id="1782564L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder: </al>
+    <al>
+      <nadruk type="cur">winner:</nadruk> degene, die aardgas wint krachtens een hem verleende winningsvergunning als bedoeld in de <extref doc="jci1.3:c:BWBR0014168" label-id="3241674" verwijzing-id="1617716" bwb-id="BWBR0014168">Mijnbouwwet</extref>; </al>
+    <al>
+      <nadruk type="cur">Onze Minister:</nadruk> Onze Minister van Economische Zaken en Klimaat.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002948&amp;artikel=1&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid2" label-id="1782564L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Voor zover een ander dan de winner gebruik maakt van een hem toegekende bevoegdheid het door die winner gewonnen aardgas of een deel daarvan te verkopen, wordt in afwijking van het eerste lid in plaats van die winner die ander als winner aangemerkt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002948&amp;artikel=1&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-487"><publicatiejaar>2018</publicatiejaar><publicatienr>487</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-05">05-12-2018</ondertekeningsdatum><dossierref dossier="34987">34987</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-488"><publicatiejaar>2018</publicatiejaar><publicatienr>488</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-18">18-12-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-01-01">01-01-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002948&amp;artikel=1&amp;g=2019-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0002948&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002948&amp;artikel=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0002948&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="a-2" stam-id="1827913" versie-id="2725782" id="C2725781" label-id="1782574" inwerking="2000-08-10" label="Artikel 2" bron="Stb.2000-305" effect="wijziging" ondertekening_bron="2000-06-22" publicatie_bron="2000-07-20" publicatie_iwt="2000-08-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="1782574L1">
+    <lidnr>1</lidnr>
+    <al>Onze Minister kan indien aardgas wordt geleverd tegen een prijs, die naar zijn oordeel achterblijft bij de waarde daarvan, verbieden aardgas binnen of buiten Nederland te leveren of te doen leveren tegen een lagere dan een door hem vastgestelde prijs.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002948&amp;artikel=2&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="1782574L2">
+    <lidnr>2</lidnr>
+    <al>Een krachtens het eerste lid gesteld verbod kan uitsluitend gelden voor het door een winner leveren of doen leveren van al dan niet door hemzelf gewonnen gas.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002948&amp;artikel=2&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid3" label-id="1782574L3">
+    <lidnr>3</lidnr>
+    <al> Onze Minister kan afzonderlijke prijzen vaststellen voor afzonderlijke categorieën van gevallen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002948&amp;artikel=2&amp;lid=3&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid4" label-id="1782574L4">
+    <lidnr>4</lidnr>
+    <al> Een krachtens het eerste lid vastgestelde prijs is niet hoger dan de waarde, die aardgas in de gevallen, waarvoor die prijs zal gelden, op de energiemarkt in het gebied, waarvoor het gas is bestemd, heeft.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002948&amp;artikel=2&amp;lid=4&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2000-305"><publicatiejaar>2000</publicatiejaar><publicatienr>305</publicatienr><uitgiftedatum isodatum="2000-07-20">20-07-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-06-22">22-06-2000</ondertekeningsdatum><dossierref dossier="26463">26463</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2000-318"><publicatiejaar>2000</publicatiejaar><publicatienr>318</publicatienr><uitgiftedatum isodatum="2000-08-03">03-08-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-07-20">20-07-2000</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2000-08-10">10-08-2000</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002948&amp;artikel=2&amp;g=2019-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0002948&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002948&amp;artikel=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0002948&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="a-3" stam-id="1827923" versie-id="2725662" id="C5234871" label-id="1782584" inwerking="1974-12-25" label="Artikel 3" bron="Stb.1974-765" effect="nieuwe-regeling" ondertekening_bron="1974-12-19" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="1782584L1">
+    <lidnr>1</lidnr>
+    <al>Onze Minister kan op een daartoe strekkend verzoek ontheffing verlenen van een krachtens <intref verwijzing-id="1632313" doc="jci1.3:c:BWBR0002948&amp;artikel=2&amp;z=2019-01-01&amp;g=2019-01-01" bwb-id="BWBR0002948" label-id="1782574" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid</intref>, gesteld verbod ingeval degene, die aardgas levert of doet leveren, daarvoor geen vergoeding ontvangt van degene, aan wie wordt geleverd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002948&amp;artikel=3&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="1782584L2">
+    <lidnr>2</lidnr>
+    <al> Zodanige ontheffing kan onder beperkingen worden verleend. Aan een ontheffing kunnen voorwaarden worden verbonden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002948&amp;artikel=3&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1974</publicatiejaar><publicatienr>765</publicatienr><ondertekeningsdatum isodatum="1974-12-19">19-12-1974</ondertekeningsdatum><dossierref dossier="13146">13146</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1974</publicatiejaar><publicatienr>765</publicatienr><ondertekeningsdatum isodatum="1974-12-19">19-12-1974</ondertekeningsdatum><dossierref dossier="13146">13146</dossierref></publicatie><inwerkingtreding.datum isodatum="1974-12-25">25-12-1974</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002948&amp;artikel=3&amp;g=2019-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0002948&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002948&amp;artikel=3&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0002948&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="a-4" stam-id="1827933" versie-id="16494142" id="C22716471" label-id="1782594" inwerking="2009-07-01" label="Artikel 4" bron="Stb.2009-265" effect="wijziging" ondertekening_bron="2009-06-25" publicatie_bron="2009-06-30" publicatie_iwt="2009-06-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <al>Indien een levering van aardgas plaatsvindt, waarop een krachtens <intref verwijzing-id="1632314" doc="jci1.3:c:BWBR0002948&amp;artikel=2&amp;z=2019-01-01&amp;g=2019-01-01" bwb-id="BWBR0002948" label-id="1782574" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid</intref>, vastgesteld verbod van toepassing is, zonder dat de afnemer zich heeft verplicht daarvoor tenminste de door Onze Minister vastgestelde prijs te betalen of indien de afnemer bedoelde verplichting niet in acht neemt, is Onze Minister bevoegd tot oplegging van een last onder bestuursdwang om verdere levering te beletten.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-265"><publicatiejaar>2009</publicatiejaar><publicatienr>265</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum><dossierref dossier="31124">31124</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-266"><publicatiejaar>2009</publicatiejaar><publicatienr>266</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-07-01">01-07-2009</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002948&amp;artikel=4&amp;g=2019-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0002948&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002948&amp;artikel=4&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0002948&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="a-5" stam-id="1827943" versie-id="2725792" id="C2725791" label-id="1782604" inwerking="2000-08-10" label="Artikel 5" bron="Stb.2000-305" effect="vervallen" ondertekening_bron="2000-06-22" publicatie_bron="2000-07-20" publicatie_iwt="2000-08-03" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>5</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2000-305"><publicatiejaar>2000</publicatiejaar><publicatienr>305</publicatienr><uitgiftedatum isodatum="2000-07-20">20-07-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-06-22">22-06-2000</ondertekeningsdatum><dossierref dossier="26463">26463</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2000-318"><publicatiejaar>2000</publicatiejaar><publicatienr>318</publicatienr><uitgiftedatum isodatum="2000-08-03">03-08-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-07-20">20-07-2000</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2000-08-10">10-08-2000</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002948&amp;artikel=5&amp;g=2019-01-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0002948&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002948&amp;artikel=5&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0002948&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="a-6" stam-id="1827953" versie-id="2725802" id="C5234891" label-id="1782614" inwerking="2000-08-10" label="Artikel 6" bron="Stb.2000-305" effect="wijziging" ondertekening_bron="2000-06-22" publicatie_bron="2000-07-20" publicatie_iwt="2000-08-03" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid1" label-id="1782614L1">
+    <lidnr>1</lidnr>
+    <al>Alvorens een prijs krachtens <intref verwijzing-id="1632315" doc="jci1.3:c:BWBR0002948&amp;artikel=2&amp;z=2019-01-01&amp;g=2019-01-01" bwb-id="BWBR0002948" label-id="1782574" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid</intref>, vast te stellen doet Onze Minister van de prijs, die hij voornemens is vast te stellen, mededeling aan degenen, aan wie een zodanige prijs ten minste zal moeten worden betaald, en aan degenen, die een zodanige prijs ten minste zullen moeten betalen, dan wel aan organisaties van de betrokkenen. Hij kan hen in de gelegenheid stellen van hun gevoelen te doen blijken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002948&amp;artikel=6&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid2" label-id="1782614L2">
+    <lidnr>2</lidnr>
+    <al> Een regeling als bedoeld in <intref verwijzing-id="1632316" doc="jci1.3:c:BWBR0002948&amp;artikel=2&amp;z=2019-01-01&amp;g=2019-01-01" bwb-id="BWBR0002948" label-id="1782574" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste lid</intref>, treedt niet eerder in werking dan twee maanden nadat zij in de <nadruk type="cur">Staatscourant</nadruk> is bekendgemaakt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002948&amp;artikel=6&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2000-305"><publicatiejaar>2000</publicatiejaar><publicatienr>305</publicatienr><uitgiftedatum isodatum="2000-07-20">20-07-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-06-22">22-06-2000</ondertekeningsdatum><dossierref dossier="26463">26463</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2000-318"><publicatiejaar>2000</publicatiejaar><publicatienr>318</publicatienr><uitgiftedatum isodatum="2000-08-03">03-08-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-07-20">20-07-2000</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2000-08-10">10-08-2000</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002948&amp;artikel=6&amp;g=2019-01-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0002948&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002948&amp;artikel=6&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0002948&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="a-7" stam-id="1827963" versie-id="2725702" id="C2725701" label-id="1782624" inwerking="1974-12-25" label="Artikel 7" bron="Stb.1974-765" effect="nieuwe-regeling" ondertekening_bron="1974-12-19" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+  <al>De Staat is niet aansprakelijk voor schade, welke voortvloeit uit toepassing van deze wet.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1974</publicatiejaar><publicatienr>765</publicatienr><ondertekeningsdatum isodatum="1974-12-19">19-12-1974</ondertekeningsdatum><dossierref dossier="13146">13146</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1974</publicatiejaar><publicatienr>765</publicatienr><ondertekeningsdatum isodatum="1974-12-19">19-12-1974</ondertekeningsdatum><dossierref dossier="13146">13146</dossierref></publicatie><inwerkingtreding.datum isodatum="1974-12-25">25-12-1974</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002948&amp;artikel=7&amp;g=2019-01-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0002948&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002948&amp;artikel=7&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0002948&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" code="a-8" stam-id="1827973" versie-id="2725812" id="C2725811" label-id="1782634" inwerking="2000-08-10" label="Artikel 8" bron="Stb.2000-305" effect="vervallen" ondertekening_bron="2000-06-22" publicatie_bron="2000-07-20" publicatie_iwt="2000-08-03" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>8</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2000-305"><publicatiejaar>2000</publicatiejaar><publicatienr>305</publicatienr><uitgiftedatum isodatum="2000-07-20">20-07-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-06-22">22-06-2000</ondertekeningsdatum><dossierref dossier="26463">26463</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2000-318"><publicatiejaar>2000</publicatiejaar><publicatienr>318</publicatienr><uitgiftedatum isodatum="2000-08-03">03-08-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-07-20">20-07-2000</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2000-08-10">10-08-2000</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002948&amp;artikel=8&amp;g=2019-01-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0002948&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002948&amp;artikel=8&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0002948&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" code="a-9" stam-id="1827983" versie-id="2725822" id="C2725821" label-id="1782644" inwerking="2000-08-10" label="Artikel 9" bron="Stb.2000-305" effect="vervallen" ondertekening_bron="2000-06-22" publicatie_bron="2000-07-20" publicatie_iwt="2000-08-03" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>9</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2000-305"><publicatiejaar>2000</publicatiejaar><publicatienr>305</publicatienr><uitgiftedatum isodatum="2000-07-20">20-07-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-06-22">22-06-2000</ondertekeningsdatum><dossierref dossier="26463">26463</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2000-318"><publicatiejaar>2000</publicatiejaar><publicatienr>318</publicatienr><uitgiftedatum isodatum="2000-08-03">03-08-2000</uitgiftedatum><ondertekeningsdatum isodatum="2000-07-20">20-07-2000</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2000-08-10">10-08-2000</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002948&amp;artikel=9&amp;g=2019-01-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0002948&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002948&amp;artikel=9&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0002948&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" code="a-10" stam-id="1827993" versie-id="2725732" id="C2725731" label-id="1782654" inwerking="1974-12-25" label="Artikel 10" bron="Stb.1974-765" effect="nieuwe-regeling" ondertekening_bron="1974-12-19" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>10</nr>
+  </kop>
+  <al>Deze wet kan worden aangehaald als: Wet aardgasprijzen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1974</publicatiejaar><publicatienr>765</publicatienr><ondertekeningsdatum isodatum="1974-12-19">19-12-1974</ondertekeningsdatum><dossierref dossier="13146">13146</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1974</publicatiejaar><publicatienr>765</publicatienr><ondertekeningsdatum isodatum="1974-12-19">19-12-1974</ondertekeningsdatum><dossierref dossier="13146">13146</dossierref></publicatie><inwerkingtreding.datum isodatum="1974-12-25">25-12-1974</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002948&amp;artikel=10&amp;g=2019-01-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0002948&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002948&amp;artikel=10&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0002948&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" code="a-11" stam-id="1828003" versie-id="2725742" id="C2725741" label-id="1782664" inwerking="1974-12-25" label="Artikel 11" bron="Stb.1974-765" effect="nieuwe-regeling" ondertekening_bron="1974-12-19" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>11</nr>
+  </kop>
+  <al>Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het <nadruk type="cur">Staatsblad,</nadruk> waarin zij wordt geplaatst.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1974</publicatiejaar><publicatienr>765</publicatienr><ondertekeningsdatum isodatum="1974-12-19">19-12-1974</ondertekeningsdatum><dossierref dossier="13146">13146</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1974</publicatiejaar><publicatienr>765</publicatienr><ondertekeningsdatum isodatum="1974-12-19">19-12-1974</ondertekeningsdatum><dossierref dossier="13146">13146</dossierref></publicatie><inwerkingtreding.datum isodatum="1974-12-25">25-12-1974</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002948&amp;artikel=11&amp;g=2019-01-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0002948&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002948&amp;artikel=11&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0002948&amp;artikel=11"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="1828013" versie-id="2725752" id="C2725751" label-id="1782674" inwerking="1974-12-25" bron="Stb.1974-765" effect="nieuwe-regeling" ondertekening_bron="1974-12-19" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven ten Paleize Soestdijk</plaats>
+      <datum isodatum="">19 december 1974</datum>
+    </dagtekening>
+    <koning>JULIANA.</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Economische Zaken,</functie>
+    <naam>
+      <achternaam>R. F. M. LUBBERS.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Staatssecretaris van Buitenlandse Zaken,</functie>
+    <naam>
+      <achternaam>L. J. BRINKHORST.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Justitie,</functie>
+    <naam>
+      <achternaam>VAN AGT.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Staatssecretaris van Binnenlandse Zaken,</functie>
+    <naam>
+      <achternaam>POLAK.</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de vierentwintigste december 1974.</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>VAN AGT.</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1974</publicatiejaar><publicatienr>765</publicatienr><ondertekeningsdatum isodatum="1974-12-19">19-12-1974</ondertekeningsdatum><dossierref dossier="13146">13146</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1974</publicatiejaar><publicatienr>765</publicatienr><ondertekeningsdatum isodatum="1974-12-19">19-12-1974</ondertekeningsdatum><dossierref dossier="13146">13146</dossierref></publicatie><inwerkingtreding.datum isodatum="1974-12-25">25-12-1974</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1974</publicatiejaar><publicatienr>765</publicatienr><ondertekeningsdatum isodatum="1974-12-19">19-12-1974</ondertekeningsdatum><dossierref dossier="13146">13146</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1974</publicatiejaar><publicatienr>765</publicatienr><ondertekeningsdatum isodatum="1974-12-19">19-12-1974</ondertekeningsdatum><dossierref dossier="13146">13146</dossierref></publicatie><inwerkingtreding.datum isodatum="1974-12-25">25-12-1974</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002948&amp;g=2019-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0002948"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002948&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0002948"/></jcis></meta-data></wetgeving></toestand>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0001996/2019-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0001996" inwerkingtreding="2019-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="1262413" versie-id="1868802" id="C1868801" label-id="1222384" inwerkingtredingsdatum="1998-01-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="1262443" versie-id="1868462" id="C1868461" label-id="1222174" inwerking="1939-07-01" bron="Stb.1939-632" effect="nieuwe-regeling" ondertekening_bron="1939-06-24" status="goed">Wet van 24 juni 1939, houdende regelen met betrekking tot de bodemproductie in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden <meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1939</publicatiejaar><publicatienr>632</publicatienr><ondertekeningsdatum isodatum="1939-06-24">24-06-1939</ondertekeningsdatum><dossierref dossier="269">269</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1939</publicatiejaar><publicatienr>632</publicatienr><ondertekeningsdatum isodatum="1939-06-24">24-06-1939</ondertekeningsdatum><dossierref dossier="269">269</dossierref></publicatie><inwerkingtreding.datum isodatum="1939-07-01">01-07-1939</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="1262453" versie-id="1868472" id="C1868471" label-id="1222184" inwerking="1939-07-01" bron="Stb.1939-632" effect="nieuwe-regeling" ondertekening_bron="1939-06-24">Bodemproductiewet 1939<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1939</publicatiejaar><publicatienr>632</publicatienr><ondertekeningsdatum isodatum="1939-06-24">24-06-1939</ondertekeningsdatum><dossierref dossier="269">269</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1939</publicatiejaar><publicatienr>632</publicatienr><ondertekeningsdatum isodatum="1939-06-24">24-06-1939</ondertekeningsdatum><dossierref dossier="269">269</dossierref></publicatie><inwerkingtreding.datum isodatum="1939-07-01">01-07-1939</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="1262463" versie-id="1868482" id="C1868481" label-id="1222194" inwerking="1939-07-01" bron="Stb.1939-632" effect="nieuwe-regeling" ondertekening_bron="1939-06-24" status="goed">
+  <wij>Wij WILHELMINA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz. </wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of hooren lezen, saluut! doen te weten: </considerans.al>
+    <considerans.al>Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is regelen te stellen met betrekking tot de bodemproductie in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden; </considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze: </al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1939</publicatiejaar><publicatienr>632</publicatienr><ondertekeningsdatum isodatum="1939-06-24">24-06-1939</ondertekeningsdatum><dossierref dossier="269">269</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1939</publicatiejaar><publicatienr>632</publicatienr><ondertekeningsdatum isodatum="1939-06-24">24-06-1939</ondertekeningsdatum><dossierref dossier="269">269</dossierref></publicatie><inwerkingtreding.datum isodatum="1939-07-01">01-07-1939</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="1262473" versie-id="25560852" id="C36486541" label-id="1222204" inwerking="2019-01-01" label="Artikel 1" bron="Stb.2018-487" effect="wijziging" ondertekening_bron="2018-12-05" publicatie_bron="2018-12-27" publicatie_iwt="2018-12-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>Deze wet verstaat onder: </al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>"Onze Minister": Onze Minister van Landbouw, Natuur en Voedselkwaliteit; </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=1&amp;o=a&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>"bodemproductie": elke handeling, welke een onderdeel uitmaakt of kan uitmaken van den akkerbouw, den weidebouw, den tuinbouw, de ooftteelt, de veeteelt, de pluimveeteelt, de houtteelt en den boschbouw. </al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=1&amp;o=b&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-487"><publicatiejaar>2018</publicatiejaar><publicatienr>487</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-05">05-12-2018</ondertekeningsdatum><dossierref dossier="34987">34987</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-488"><publicatiejaar>2018</publicatiejaar><publicatienr>488</publicatienr><uitgiftedatum isodatum="2018-12-27">27-12-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-12-18">18-12-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2019-01-01">01-01-2019</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001996&amp;artikel=1&amp;g=2019-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0001996&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0001996&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" stam-id="1262483" versie-id="1868812" id="C34309781" label-id="1222214" label="Artikel 2" bron="Stb.1998-610" effect="wijziging" ondertekening_bron="1998-10-19" publicatie_bron="1998-11-05" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <al>
+    <redactie type="noodwetgeving">Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.</redactie>
+  </al>
+  <al>De maatregelen, krachtens deze wet genomen, blijven zonder gevolg, voorzover zij onverenigbaar zijn met maatregelen, ten behoeve van de landsverdediging genomen krachtens:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>de <extref doc="jci1.3:c:BWBR0001848" label-id="1710634" verwijzing-id="414619" bwb-id="BWBR0001848">Spoorwegwet</extref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=2&amp;o=a&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>de <extref doc="jci1.3:c:BWBR0001863" label-id="866184" verwijzing-id="414620" bwb-id="BWBR0001863">Wet Militaire Inundatiën</extref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=2&amp;o=b&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>de <extref doc="jci1.3:c:BWBR0001842" label-id="2930684" verwijzing-id="414621" bwb-id="BWBR0001842">Onteigeningswet</extref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=2&amp;o=c&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>de <extref doc="jci1.3:c:BWBR0007983" label-id="85994" verwijzing-id="414622" bwb-id="BWBR0007983">Oorlogswet voor Nederland</extref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=2&amp;o=d&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeele">
+      <li.nr>e.</li.nr>
+      <al>de <extref doc="jci1.3:c:BWBR0002111" label-id="1353774" verwijzing-id="414623" bwb-id="BWBR0002111">Inkwartieringswet</extref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=2&amp;o=e&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeelf">
+      <li.nr>f.</li.nr>
+      <al>de <extref doc="jci1.3:c:BWBR0002267" label-id="2925174" verwijzing-id="414624" bwb-id="BWBR0002267">Luchtvaartwet</extref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=2&amp;o=f&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeelg">
+      <li.nr>g.</li.nr>
+      <al>de <extref doc="jci1.3:c:BWBR0009950" label-id="2781714" verwijzing-id="414625" bwb-id="BWBR0009950">Telecommunicatiewet</extref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=2&amp;o=g&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=g"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeelh">
+      <li.nr>h.</li.nr>
+      <al>de <extref doc="onbekend" label-id="2959334" verwijzing-id="414626" bwb-id="BWBR0006622">Wegenverkeerswet 1994</extref>.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=2&amp;o=h&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="o=h"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1994</publicatiejaar><publicatienr>858</publicatienr><ondertekeningsdatum isodatum="1994-11-17">17-11-1994</ondertekeningsdatum><dossierref dossier="23664">23664</dossierref></publicatie></oorspronkelijk></brondata><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1996-366"><publicatiejaar>1996</publicatiejaar><publicatienr>366</publicatienr><uitgiftedatum isodatum="1996-07-09">09-07-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-04-03">03-04-1996</ondertekeningsdatum><dossierref dossier="23791">23791</dossierref></publicatie></oorspronkelijk><opmerkingen-inhoud><al>De wijziging is in werking getreden op 1 mei 1997 (Stb. 1997/172).</al></opmerkingen-inhoud></brondata><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1998-610"><publicatiejaar>1998</publicatiejaar><publicatienr>610</publicatienr><uitgiftedatum isodatum="1998-11-05">05-11-1998</uitgiftedatum><ondertekeningsdatum isodatum="1998-10-19">19-10-1998</ondertekeningsdatum><dossierref dossier="25533">25533</dossierref></publicatie></oorspronkelijk><opmerkingen-inhoud><al>De wijziging is in werking getreden op 15 december 1998 (Stb. 1998/664).</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001996&amp;artikel=2&amp;g=2019-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0001996&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0001996&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="1262493" versie-id="1868522" id="C34309791" label-id="1222224" label="Artikel 3" bron="Stb.1939-632" effect="nieuwe-regeling" ondertekening_bron="1939-06-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <al>
+    <redactie type="noodwetgeving">Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.</redactie>
+  </al>
+  <al>Bij of krachtens algemeenen maatregel van bestuur kunnen algemeene en bijzondere voorschriften worden gegeven met betrekking tot de bodemproductie en de bestemming van den bodem. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1939</publicatiejaar><publicatienr>632</publicatienr><ondertekeningsdatum isodatum="1939-06-24">24-06-1939</ondertekeningsdatum><dossierref dossier="269">269</dossierref></publicatie></oorspronkelijk></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001996&amp;artikel=3&amp;g=2019-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0001996&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=3&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0001996&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" stam-id="1262503" versie-id="1868532" id="C34309801" label-id="1222234" label="Artikel 4" bron="Stb.1939-632" effect="nieuwe-regeling" ondertekening_bron="1939-06-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <al>
+    <redactie type="noodwetgeving">Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.</redactie>
+  </al>
+  <al>In verband met de in het vorige artikel bedoelde voorschriften kunnen uitkeeringen in geld worden gedaan overeenkomstig bij of krachtens algemeenen maatregel van bestuur te stellen regelen. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1939</publicatiejaar><publicatienr>632</publicatienr><ondertekeningsdatum isodatum="1939-06-24">24-06-1939</ondertekeningsdatum><dossierref dossier="269">269</dossierref></publicatie></oorspronkelijk></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001996&amp;artikel=4&amp;g=2019-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0001996&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=4&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0001996&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="a-5" stam-id="1262513" versie-id="1868542" id="C1868541" label-id="1222244" inwerking="1939-07-01" label="Artikel 5" bron="Stb.1939-632" effect="nieuwe-regeling" ondertekening_bron="1939-06-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>5</nr>
+  </kop>
+  <al>Bij de uitvoering van deze wet doet Onze Minister zich bijstaan door een regeeringscommissaris voor de bodemproductie; deze wordt door Ons benoemd, geïnstrueerd, geschorst en ontslagen. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1939</publicatiejaar><publicatienr>632</publicatienr><ondertekeningsdatum isodatum="1939-06-24">24-06-1939</ondertekeningsdatum><dossierref dossier="269">269</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1939</publicatiejaar><publicatienr>632</publicatienr><ondertekeningsdatum isodatum="1939-06-24">24-06-1939</ondertekeningsdatum><dossierref dossier="269">269</dossierref></publicatie><inwerkingtreding.datum isodatum="1939-07-01">01-07-1939</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001996&amp;artikel=5&amp;g=2019-01-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0001996&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=5&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0001996&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="a-6" stam-id="1262523" versie-id="1868702" id="C1868701" label-id="1222254" inwerking="1997-02-21" label="Artikel 6" bron="Stb.1997-63" effect="vervallen" ondertekening_bron="1997-02-06" publicatie_bron="1997-02-20" publicatie_iwt="1997-02-20" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-1997-63"><publicatiejaar>1997</publicatiejaar><publicatienr>63</publicatienr><uitgiftedatum isodatum="1997-02-20">20-02-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-02-06">06-02-1997</ondertekeningsdatum><dossierref dossier="24749">24749</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-1997-63"><publicatiejaar>1997</publicatiejaar><publicatienr>63</publicatienr><uitgiftedatum isodatum="1997-02-20">20-02-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-02-06">06-02-1997</ondertekeningsdatum><dossierref dossier="24749">24749</dossierref></publicatie><inwerkingtreding.datum isodatum="1997-02-21">21-02-1997</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="1997-01-01">01-01-1997</terugwerkend.datum></inwerkingtreding><opmerkingen-inhoud><al>Werkt terug tot en met 1 januari 1997</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001996&amp;artikel=6&amp;g=2019-01-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0001996&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=6&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0001996&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="a-7" stam-id="1262533" versie-id="1868712" id="C1868711" label-id="1222264" inwerking="1997-02-21" label="Artikel 7" bron="Stb.1997-63" effect="vervallen" ondertekening_bron="1997-02-06" publicatie_bron="1997-02-20" publicatie_iwt="1997-02-20" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-1997-63"><publicatiejaar>1997</publicatiejaar><publicatienr>63</publicatienr><uitgiftedatum isodatum="1997-02-20">20-02-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-02-06">06-02-1997</ondertekeningsdatum><dossierref dossier="24749">24749</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-1997-63"><publicatiejaar>1997</publicatiejaar><publicatienr>63</publicatienr><uitgiftedatum isodatum="1997-02-20">20-02-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-02-06">06-02-1997</ondertekeningsdatum><dossierref dossier="24749">24749</dossierref></publicatie><inwerkingtreding.datum isodatum="1997-02-21">21-02-1997</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="1997-01-01">01-01-1997</terugwerkend.datum></inwerkingtreding><opmerkingen-inhoud><al>Werkt terug tot en met 1 januari 1997</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001996&amp;artikel=7&amp;g=2019-01-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0001996&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=7&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0001996&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" stam-id="1262543" versie-id="16498842" id="C34309821" label-id="1222274" label="Artikel 8" bron="Stb.2009-265" effect="wijziging" ondertekening_bron="2009-06-25" publicatie_bron="2009-06-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <al>
+    <redactie type="noodwetgeving">Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.</redactie>
+  </al>
+  <al>Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de krachtens deze wet gestelde verplichtingen. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1939</publicatiejaar><publicatienr>632</publicatienr><ondertekeningsdatum isodatum="1939-06-24">24-06-1939</ondertekeningsdatum><dossierref dossier="269">269</dossierref></publicatie></oorspronkelijk></brondata><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-580"><publicatiejaar>1997</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-04">04-12-1997</ondertekeningsdatum><dossierref dossier="25464">25464</dossierref></publicatie></oorspronkelijk><opmerkingen-inhoud><al>De wijziging is in werking getreden op 1 januari 1998 (Stb. 1997/581).</al></opmerkingen-inhoud></brondata><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2009-265"><publicatiejaar>2009</publicatiejaar><publicatienr>265</publicatienr><uitgiftedatum isodatum="2009-06-30">30-06-2009</uitgiftedatum><ondertekeningsdatum isodatum="2009-06-25">25-06-2009</ondertekeningsdatum><dossierref dossier="31124">31124</dossierref></publicatie></oorspronkelijk><opmerkingen-inhoud><al>De wijziging is in werking getreden op 1 juli 2009 (Stb. 2009/266).</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001996&amp;artikel=8&amp;g=2019-01-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0001996&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=8&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0001996&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" stam-id="1262553" versie-id="1868782" id="C1868781" label-id="1222284" inwerking="1998-01-01" label="Artikel 9" bron="Stb.1997-580" effect="vervallen" ondertekening_bron="1997-12-04" publicatie_bron="1997-12-18" publicatie_iwt="1997-12-18" status="vervallen">
+  <kop>
+    <label>Artikel 9</label>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-1997-580"><publicatiejaar>1997</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-04">04-12-1997</ondertekeningsdatum><dossierref dossier="25464">25464</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-1997-581"><publicatiejaar>1997</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" stam-id="1262563" versie-id="1868592" id="C34309831" label-id="1222294" label="Artikel 10" bron="Stb.1939-632" effect="nieuwe-regeling" ondertekening_bron="1939-06-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+  </kop>
+  <al>
+    <redactie type="noodwetgeving">Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.</redactie>
+  </al>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid1" label-id="1222294L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Indien de regeeringscommissaris voor de bodemproductie of door hem gemachtigde personen het voor de uitvoering van deze wet noodig achten iemands grond te betreden of bedrijfsgebouwen binnen te gaan, moeten zoowel de eigenaren als de gebruikers van dien grond en die bedrijfsgebouwen dit te allen tijde gedoogen. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=10&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid2" label-id="1222294L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Worden de in het vorige lid bedoelde handelingen niet gedoogd, dan wordt de tusschenkomst van den burgemeester of van den kantonrechter ingeroepen, op wiens bevel het verrichten der handelingen, desnoods met behulp van den sterken arm, wordt mogelijk gemaakt. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=10&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1939</publicatiejaar><publicatienr>632</publicatienr><ondertekeningsdatum isodatum="1939-06-24">24-06-1939</ondertekeningsdatum><dossierref dossier="269">269</dossierref></publicatie></oorspronkelijk></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001996&amp;artikel=10&amp;g=2019-01-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0001996&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=10&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0001996&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10a" stam-id="1262653" versie-id="1868792" id="C34309841" label-id="1222394" label="Artikel 10a" bron="Stb.1997-580" effect="nieuw" ondertekening_bron="1997-12-04" publicatie_bron="1997-12-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10a</nr>
+  </kop>
+  <al>
+    <redactie type="noodwetgeving">Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.</redactie>
+  </al>
+  <al>Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de personen, die daartoe zijn aangewezen bij besluit van Onze Minister of bij besluit van de in <intref doc="jci1.3:c:BWBR0001996&amp;artikel=5&amp;z=2019-01-01&amp;g=2019-01-01" label-id="1222244" verwijzing-id="1629143" bwb-id="BWBR0001996" bwb-ng-variabel-deel="/Artikel5">artikel 5</intref> bedoelde regeringscommissaris. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-1997-580"><publicatiejaar>1997</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-04">04-12-1997</ondertekeningsdatum><dossierref dossier="25464">25464</dossierref></publicatie></oorspronkelijk></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001996&amp;artikel=10a&amp;g=2019-01-01" onderdeel="artikel=10a" korte-verwijzing="1.0:c:BWBR0001996&amp;artikel=10a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=10a&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=10a" korte-verwijzing="jci1.3:c:BWBR0001996&amp;artikel=10a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" stam-id="1262573" versie-id="1868602" id="C1868601" label-id="1222304" inwerking="1951-05-01" label="Artikel 11" bron="Stb.1950-K 258" effect="vervallen" ondertekening_bron="1950-06-22" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>11</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1950</publicatiejaar><publicatienr>K 258</publicatienr><ondertekeningsdatum isodatum="1950-06-22">22-06-1950</ondertekeningsdatum><dossierref dossier="603">603</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1951</publicatiejaar><publicatienr>91</publicatienr><ondertekeningsdatum isodatum="1951-04-03">03-04-1951</ondertekeningsdatum><dossierref dossier="603">603</dossierref></publicatie><inwerkingtreding.datum isodatum="1951-05-01">01-05-1951</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001996&amp;artikel=11&amp;g=2019-01-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0001996&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=11&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0001996&amp;artikel=11"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel12" stam-id="1262583" versie-id="1868612" id="C1868611" label-id="1222314" inwerking="1951-05-01" label="Artikel 12" bron="Stb.1950-K 258" effect="vervallen" ondertekening_bron="1950-06-22" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>12</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1950</publicatiejaar><publicatienr>K 258</publicatienr><ondertekeningsdatum isodatum="1950-06-22">22-06-1950</ondertekeningsdatum><dossierref dossier="603">603</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1951</publicatiejaar><publicatienr>91</publicatienr><ondertekeningsdatum isodatum="1951-04-03">03-04-1951</ondertekeningsdatum><dossierref dossier="603">603</dossierref></publicatie><inwerkingtreding.datum isodatum="1951-05-01">01-05-1951</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001996&amp;artikel=12&amp;g=2019-01-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0001996&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=12&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0001996&amp;artikel=12"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13" stam-id="1262593" versie-id="1868622" id="C1868621" label-id="1222324" inwerking="1951-05-01" label="Artikel 13" bron="Stb.1950-K 258" effect="vervallen" ondertekening_bron="1950-06-22" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>13</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1950</publicatiejaar><publicatienr>K 258</publicatienr><ondertekeningsdatum isodatum="1950-06-22">22-06-1950</ondertekeningsdatum><dossierref dossier="603">603</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1951</publicatiejaar><publicatienr>91</publicatienr><ondertekeningsdatum isodatum="1951-04-03">03-04-1951</ondertekeningsdatum><dossierref dossier="603">603</dossierref></publicatie><inwerkingtreding.datum isodatum="1951-05-01">01-05-1951</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001996&amp;artikel=13&amp;g=2019-01-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0001996&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=13&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0001996&amp;artikel=13"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel14" stam-id="1262603" versie-id="1868632" id="C1868631" label-id="1222334" inwerking="1951-05-01" label="Artikel 14" bron="Stb.1950-K 258" effect="vervallen" ondertekening_bron="1950-06-22" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>14</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1950</publicatiejaar><publicatienr>K 258</publicatienr><ondertekeningsdatum isodatum="1950-06-22">22-06-1950</ondertekeningsdatum><dossierref dossier="603">603</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1951</publicatiejaar><publicatienr>91</publicatienr><ondertekeningsdatum isodatum="1951-04-03">03-04-1951</ondertekeningsdatum><dossierref dossier="603">603</dossierref></publicatie><inwerkingtreding.datum isodatum="1951-05-01">01-05-1951</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001996&amp;artikel=14&amp;g=2019-01-01" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0001996&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=14&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0001996&amp;artikel=14"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel15" stam-id="1262613" versie-id="1868642" id="C1868641" label-id="1222344" inwerking="1951-05-01" label="Artikel 15" bron="Stb.1950-K 258" effect="vervallen" ondertekening_bron="1950-06-22" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>15</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1950</publicatiejaar><publicatienr>K 258</publicatienr><ondertekeningsdatum isodatum="1950-06-22">22-06-1950</ondertekeningsdatum><dossierref dossier="603">603</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier=""><publicatiejaar>1951</publicatiejaar><publicatienr>91</publicatienr><ondertekeningsdatum isodatum="1951-04-03">03-04-1951</ondertekeningsdatum><dossierref dossier="603">603</dossierref></publicatie><inwerkingtreding.datum isodatum="1951-05-01">01-05-1951</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001996&amp;artikel=15&amp;g=2019-01-01" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0001996&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=15&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0001996&amp;artikel=15"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel16" code="a-16" stam-id="1262623" versie-id="1868652" id="C1868651" label-id="1222354" inwerking="1939-07-01" label="Artikel 16" bron="Stb.1939-632" effect="nieuwe-regeling" ondertekening_bron="1939-06-24" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>16</nr>
+  </kop>
+  <al>Deze wet kan worden aangehaald onder den titel "Bodemproductiewet 1939". </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1939</publicatiejaar><publicatienr>632</publicatienr><ondertekeningsdatum isodatum="1939-06-24">24-06-1939</ondertekeningsdatum><dossierref dossier="269">269</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1939</publicatiejaar><publicatienr>632</publicatienr><ondertekeningsdatum isodatum="1939-06-24">24-06-1939</ondertekeningsdatum><dossierref dossier="269">269</dossierref></publicatie><inwerkingtreding.datum isodatum="1939-07-01">01-07-1939</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001996&amp;artikel=16&amp;g=2019-01-01" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0001996&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=16&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0001996&amp;artikel=16"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel17" code="b1-17" stam-id="1262633" versie-id="1868732" id="C5216031" label-id="1222364" inwerking="1997-05-01" label="Artikel 17" bron="Stb.1996-366" effect="wijziging" ondertekening_bron="1996-04-03" publicatie_bron="1996-07-09" publicatie_iwt="1997-04-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>17</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel17/Lid1" label-id="1222364L1">
+    <lidnr>1</lidnr>
+    <al>Deze wet treedt in werking, voor wat betreft de <intref verwijzing-id="1629144" doc="jci1.3:c:BWBR0001996&amp;artikel=1&amp;z=2019-01-01&amp;g=2019-01-01" bwb-id="BWBR0001996" label-id="1222204" bwb-ng-variabel-deel="/Artikel1">artikelen 1</intref>, <intref verwijzing-id="1629145" doc="jci1.3:c:BWBR0001996&amp;artikel=5&amp;z=2019-01-01&amp;g=2019-01-01" bwb-id="BWBR0001996" label-id="1222244" bwb-ng-variabel-deel="/Artikel5">5</intref>, <intref verwijzing-id="1629146" doc="jci1.3:c:BWBR0001996&amp;artikel=6&amp;z=2019-01-01&amp;g=2019-01-01" bwb-id="BWBR0001996" label-id="1222254" bwb-ng-variabel-deel="/Artikel6">6</intref> en <intref verwijzing-id="1629147" doc="jci1.3:c:BWBR0001996&amp;artikel=7&amp;z=2019-01-01&amp;g=2019-01-01" bwb-id="BWBR0001996" label-id="1222264" bwb-ng-variabel-deel="/Artikel7">7</intref>, met ingang van den dag na dien harer afkondiging. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=17&amp;lid=1&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel17/Lid2" label-id="1222364L2">
+    <lidnr>2</lidnr>
+    <al>Onverminderd de <extref doc="jci1.3:c:BWBR0007981&amp;artikel=7" verwijzing-id="414627" bwb-id="BWBR0007981" label-id="106544">artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden</extref> kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de overige artikelen in werking worden gesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=17&amp;lid=2&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel17/Lid3" label-id="1222364L3">
+    <lidnr>3</lidnr>
+    <al>Wanneer het in het tweede lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=17&amp;lid=3&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel17/Lid4" label-id="1222364L4">
+    <lidnr>4</lidnr>
+    <al>Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de bepalingen die ingevolge het tweede lid in werking zijn gesteld, onverwijld buiten werking gesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=17&amp;lid=4&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel17/Lid5" label-id="1222364L5">
+    <lidnr>5</lidnr>
+    <al>Bij koninklijk besluit, op voordracht van Onze Minister-President, worden bepalingen die ingevolge het tweede lid in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=17&amp;lid=5&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel17/Lid6" label-id="1222364L6">
+    <lidnr>6</lidnr>
+    <al>Het besluit, bedoeld in het tweede, vierde en vijfde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=17&amp;lid=6&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=6"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel17/Lid7" label-id="1222364L7">
+    <lidnr>7</lidnr>
+    <al>Het besluit, bedoeld in het tweede, vierde en vijfde lid, wordt in ieder geval geplaatst in het <nadruk type="cur">Staatsblad</nadruk>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=17&amp;lid=7&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="lid=7"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1996-366"><publicatiejaar>1996</publicatiejaar><publicatienr>366</publicatienr><uitgiftedatum isodatum="1996-07-09">09-07-1996</uitgiftedatum><ondertekeningsdatum isodatum="1996-04-03">03-04-1996</ondertekeningsdatum><dossierref dossier="23791">23791</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-172"><publicatiejaar>1997</publicatiejaar><publicatienr>172</publicatienr><uitgiftedatum isodatum="1997-04-29">29-04-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-04-23">23-04-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1997-05-01">01-05-1997</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De artikelen 2 tot en met 4 en 8 tot en met 10 kunnen volgens
+        artikel 7, eerste lid en artikel 8, eerste lid van de
+        Coördinatiewet uitzonderingstoestanden in beperkte en in
+        algemene noodtoestand in werking worden gesteld.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001996&amp;artikel=17&amp;g=2019-01-01" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0001996&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;artikel=17&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0001996&amp;artikel=17"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="1262643" versie-id="1868672" id="C1868671" label-id="1222374" inwerking="1939-07-01" bron="Stb.1939-632" effect="nieuwe-regeling" ondertekening_bron="1939-06-24" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden. </al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage </plaats>
+      <datum isodatum="">den 24sten Juni 1939 </datum>
+    </dagtekening>
+    <koning>WILHELMINA. </koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Economische Zaken, </functie>
+    <naam>
+      <achternaam>STEENBERGHE. </achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">den dertigsten Juni 1939. </datum>
+    <ondertekening>
+      <functie>De Minister van Justitie, </functie>
+      <naam>
+        <achternaam>C. GOSELING. </achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1939</publicatiejaar><publicatienr>632</publicatienr><ondertekeningsdatum isodatum="1939-06-24">24-06-1939</ondertekeningsdatum><dossierref dossier="269">269</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1939</publicatiejaar><publicatienr>632</publicatienr><ondertekeningsdatum isodatum="1939-06-24">24-06-1939</ondertekeningsdatum><dossierref dossier="269">269</dossierref></publicatie><inwerkingtreding.datum isodatum="1939-07-01">01-07-1939</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-1997-580"><publicatiejaar>1997</publicatiejaar><publicatienr>580</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-04">04-12-1997</ondertekeningsdatum><dossierref dossier="25464">25464</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-1997-581"><publicatiejaar>1997</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001996&amp;g=2019-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0001996"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001996&amp;z=2019-01-01&amp;g=2019-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0001996"/></jcis></meta-data></wetgeving></toestand>
