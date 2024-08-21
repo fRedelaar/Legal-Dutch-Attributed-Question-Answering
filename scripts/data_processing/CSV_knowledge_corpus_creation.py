@@ -40,7 +40,7 @@ def lowercase_text(row):
 
 def main():
     input_directory = '../../datasets/knowledge_corpus/large_corpus/law_articles_CSV_format/'
-    output_file = '../../datasets/knowledge_corpus/knowledge_corpus_BIG/knowledge_corpus_BIG.csv'
+    output_file = '../../datasets/knowledge_corpus/large_corpus/knowledge_corpus_large.csv'
 
     # Read the CSV files
     law_articles = read_law_articles(input_directory)
